@@ -1,0 +1,4442 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>オービスマップ</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>北海道オービス位置</name>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道天塩郡遠別町金浦]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7932281,44.6729771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道中川郡中川町豊里]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.05622,44.7668291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道中川郡中川町富和]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.0751511,44.72958400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道苫前郡羽幌町汐見]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7262882,44.4028996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道紋別郡興部町沙留]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.1869026,44.4490788,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道紋別郡湧別町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.5469314,44.2289309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道紋別郡湧別町南兵村三区]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.5592106,44.13093140000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道紋別市上渚滑町奥東]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.22297020000002,44.2159678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道網走郡大空町女満別湖南]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.1940841,43.9311185,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道斜里郡小清水町北斗]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.4975948,43.9133523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道網走郡津別町共和]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.0240777,43.6832136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　50km/h</name>
+				<description><![CDATA[北海道釧路市阿寒町中徹別]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.1359285,43.2227661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道白糠郡白糠町コイトイ]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.2274696,42.9986574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道釧路郡釧路町字別保原野南]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.4374946,43.0175769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道厚岸郡厚岸町尾幌]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.7420755,43.0521803,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道野付郡別海町別海]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>145.1413921,43.368111,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道野付郡別海町上春別]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>144.8796961,43.4190848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道標津郡標津町川北]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>145.0523052,43.7085998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道北見市留辺蘂町大和]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.4691072,43.7445609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道北見市留辺蘂町厚和]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.3870959,43.7121459,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道上川郡上川町天幕]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.8582488,43.8599291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道上川郡愛別町愛山]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.6831904,43.8634169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道上川郡比布町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.5051454,43.9040498,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道上川郡剣淵町東町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.3910402,44.086115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道旭川市]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.4262992,43.6635235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道深川市音江町字内園]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.1340081,43.7096148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道深川市音江町向陽]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.028136,43.6764738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道雨竜郡雨竜町満寿]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.8840088,43.6330973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道雨竜郡北竜町岩村]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.8494552,43.7849997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道芦別市野花南町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.2154427,43.4815465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道芦別市野花南町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.273837,43.4649704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道富良野市西達布]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.5198774,43.2174867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道上川郡新得町新得]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.8361769,43.1085536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道河西郡芽室町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.9935233,42.9220932,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道中川郡幕別町相川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.32349,42.9204806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道樺戸郡月形町知来乙]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.6368459,43.3267572,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道中川郡豊頃町礼作別]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.4561145,42.8435232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道十勝郡浦幌町字万年]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.6459304,42.7871328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道河東郡上士幌町上士幌]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>143.3098269,43.2982994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道沙流郡日高町日高]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>142.4579009,42.8848873,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[北海道江別市豊幌]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.6487603,43.1302855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道沙流郡日高町富川西]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.9955766,42.5399108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道勇払郡厚真町共和]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.8183792,42.6595382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道岩見沢市栗沢町北幸穂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7496918,43.13300340000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[北海道小樽市張碓町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.1200486,43.152989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[北海道檜山郡厚沢部町字旭丘]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3427458,41.9320982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道石狩市生振]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.381395,43.1794386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道勇払郡安平町遠浅]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7839758,42.7408329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道苫小牧市美沢]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7111176,42.7531888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道千歳市美々]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.7023307,42.7811613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道山越郡長万部町旭浜]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4096374,42.5431963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道北広島市島松]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.5123284,42.9371955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道美唄市光珠内町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.8325426,43.2788544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道夕張郡長沼町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.6070774,42.9903324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道石狩市生振]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.3356218,43.1793115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道山越郡長万部町字双葉]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.328353,42.566645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道虻田郡喜茂別町伏見]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9620652,42.798524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　50km/h</name>
+				<description><![CDATA[北海道札幌市厚別区厚別東五条1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.4753783,43.04408110000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道白老郡白老町竹浦]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.2376823,42.47531870000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道虻田郡喜茂別町伏見]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9845716,42.8002707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道小樽市星野町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.1904995,43.1319875,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道茅部郡森町砂原東]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7599728,42.1034196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道茅部郡森町駒ケ岳]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.6030314,42.04471850000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hシステム　60km/h</name>
+				<description><![CDATA[北海道空知郡奈井江町奈井江]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.8935119,43.4457404,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道北斗市本郷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.6448859,41.8922058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[北海道上磯郡知内町中ノ川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4320097,41.6472321,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道二海郡八雲町山崎]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2795234,42.3369235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道山越郡長万部町豊津]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3010924,42.3962847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[北海道山越郡長万部町旭浜]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4107022,42.5440006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[東京都目黒区 首都高速中央環状線]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7033755,35.6396394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都目黒区下目黒　首都高速中央環状線]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7084382,35.6323934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都中野区東中野3丁目　首都高速中央環状線]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6829693,35.7069666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都中野区東中野4丁目　首都高速中央環状線]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6832965,35.7073433,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>東北オービス位置</name>
+			<Placemark>
+				<name>レーダー式　80km/h</name>
+				<description><![CDATA[秋田県鹿角郡小坂町小坂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7339956,40.326385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[青森県東津軽郡平内町浜子]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9978954,40.9315803,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[青森県東津軽郡平内町藤沢]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9288956,40.91769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[青森県青森市大野今井]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7251202,40.7980536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[秋田県潟上市天王]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0246157,39.8237208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[秋田県能代市浅内南大開]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0116646,40.1680501,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[秋田県秋田市飯島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0635587,39.7922762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[秋田県秋田市寺内大小路]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.073625,39.7385062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[秋田県秋田市浜田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0701368,39.6632939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[秋田県由利本荘市岩城勝手]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0598049,39.5734504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[秋田県秋田市御所野下堤2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.1662135,39.6675493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[秋田県秋田市上北手古野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.1975551,39.6589392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[秋田県秋田市河辺松渕]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2079809,39.6471774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　70km/h</name>
+				<description><![CDATA[秋田県横手市山内平野沢]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.6299312,39.2712245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[福島県福島市飯坂町東湯野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4819457,37.8264613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[岩手県岩手郡岩手町沼宮内]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.2377131,40.0227528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　100km/h</name>
+				<description><![CDATA[岩手県紫波郡矢巾町広宮沢第10地割]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.1274005,39.6336083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[岩手県岩手郡滝沢村大釜吉水]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.0498995,39.7012838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[岩手県宮古市門馬田代]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.364768,39.6461706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[岩手県紫波郡紫波町犬渕]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.15932690000002,39.5158971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[山形県東根市長瀞]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3824881,38.4689573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[岩手県胆沢郡金ケ崎町西根]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.0945207,39.2164439,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[山形県山形市小白川町4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3555936,38.2443642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[山形県寒河江市寒河江]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2763544,38.3632256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[山形県上山市関根]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2726382,38.133151500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[宮城県栗原市金成]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.0789491,38.8226725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[宮城県大崎市古川塚目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9285657,38.5774834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[宮城県大崎市三本木音無舘下]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9025456,38.5154294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[宮城県黒川郡富谷町富谷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.9038894,38.3963387,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[宮城県東松島市矢本笠松]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>141.199332,38.4113863,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[宮城県亘理郡山元町山寺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.87417050000002,37.9719407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[宮城県仙台市青葉区下愛子]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.771969,38.2670092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[宮城県名取市高舘熊野堂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.8236122,38.2142143,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[宮城県仙台市太白区坪沼]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7787777,38.1907581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[宮城県柴田郡村田町菅生]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7702416,38.1743404,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[宮城県柴田郡大河原町金ケ瀬]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7105155,38.0433479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[福島県耶麻郡猪苗代町磐里]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0960858,37.5454918,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[宮城県刈田郡蔵王町宮一本松西]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.6489897,38.0406271,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[宮城県刈田郡蔵王町宮一本松西]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.6488059,38.0405226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[福島県岩瀬郡鏡石町蒲之沢町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3506395,37.275518,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福島県須賀川市一里坦]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.3638628,37.2768744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[福島県白河市萱根上田中]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2238354,37.1457753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[福島県いわき市山田町橋本]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.7715613,36.9396922,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福島県いわき市小名浜林城塚前]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.8978544,36.9859672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[宮城県黒川郡富谷町三ノ関本木西]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.8891855,38.4187976,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>神奈川、埼玉、千葉、茨城、群馬、栃木、山梨県オービス位置</name>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[群馬県太田市原宿町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3757531,36.3541799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[群馬県伊勢崎市豊城町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2268342,36.342019400000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[群馬県高崎市島野町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.0494181,36.348223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[群馬県前橋市元総社町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.0258496,36.3916174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[群馬県高崎市下豊岡町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.9810379,36.3300871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[群馬県甘楽郡甘楽町天引]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.9447771,36.2414177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[栃木県矢板市木幡]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.945461,36.7784946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　100km/h</name>
+				<description><![CDATA[栃木県宇都宮市上小倉町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.9030955,36.7059336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[栃木県宇都宮市宝木本町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8430757,36.6151132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[栃木県宇都宮市大通り2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8920073,36.5601645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[栃木県宇都宮市池上町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8817196,36.5616446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[栃木県宇都宮市上桑島町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.9185531,36.517649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[栃木県栃木市都賀町富張]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.717669,36.4459037,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[栃木県佐野市植下町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5756152,36.2898755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[栃木県小山市田間]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8182572,36.261112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[茨城県水戸市田谷町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4422048,36.4277377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[茨城県水戸市小吹町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4302032,36.3528115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[茨城県水戸市住吉町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.4700139,36.3327924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[茨城県小美玉市羽刈]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2971362,36.2538426,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[茨城県石岡市若宮]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2564819,36.1892423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[茨城県土浦市板谷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2011681,36.1120662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[茨城県つくばみらい市東楢戸]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0355819,35.9988137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[茨城県鉾田市滝浜]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.5507793,36.185429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[千葉県袖ケ浦市大曽根]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0100151,35.4120173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[千葉県市原市八幡海岸通]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.106291,35.533156600000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[千葉県千葉市若葉区野呂町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2431446,35.5693877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[千葉県佐倉市八木]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.2572584,35.6969515,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[千葉県千葉市美浜区豊砂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0229353,35.6545829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[千葉県習志野市香澄]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.020595,35.6640252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[千葉県市川市本行徳]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.9344304,35.6786363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[千葉県八千代市米本]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.1175717,35.7491827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[千葉県柏市風早1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>140.0122909,35.8313217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[埼玉県加須市下谷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.59778230000003,36.1519264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県行田市小敷田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4283526,36.1426087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[埼玉県深谷市武蔵野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2223978,36.145967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[埼玉県さいたま市西区]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5556046,35.9180978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県比企郡川島町中山]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4585489,35.9901332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[埼玉県さいたま市岩槻区馬込]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6692035,35.9670598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県さいたま市緑区中野田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7158244,35.8982495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県越谷市神明町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7686471,35.895119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県川口市安行領家]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7624794,35.8498612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県富士見市水子]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5661423,35.8392684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[埼玉県戸田市美女木]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6380275,35.8272019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[埼玉県戸田市美女木4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6473455,35.8252664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[埼玉県戸田市美女木5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6389918,35.8211984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[埼玉県戸田市笹目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6461305,35.8175968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[神奈川県秦野市菖蒲]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.1618268,35.3669925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[神奈川県秦野市南矢名]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2636019,35.3717879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[神奈川県伊勢原市坪ノ内]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2772919,35.387282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[神奈川県逗子市沼間6丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6168032,35.2979929,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[神奈川県横浜市南区中村町3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6276803,35.4340095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[神奈川県横浜市南区中村町4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6222904,35.4328157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[神奈川県横浜市西区北軽井沢]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6114717,35.47076700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[神奈川県横浜市保土ケ谷区川島町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.56838,35.4689211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[神奈川県川崎市川崎区浜町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.717429,35.5128809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[神奈川県川崎市川崎区浜町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7171158,35.5126931,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[神奈川県横浜市都筑区東山田町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6093225,35.5594023,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>東京都のオービス位置</name>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都町田市鶴間]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4731609,35.5067915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[東京都大田区]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7888562,35.5461772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都大田区羽田2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7440057,35.5484195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都大田区平和島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7461078,35.579236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都大田区南馬込3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7202715,35.5840264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都大田区南馬込1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7110949,35.59344050000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都大田区西嶺町4]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.681244,35.5833622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都江東区有明]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8105251,35.601117,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都江東区有明]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.809638,35.6003264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[東京都港区台場2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7759099,35.6268139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都江東区東雲2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8010033,35.6406514,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都江東区東雲2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8035594,35.6408569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都江戸川区西瑞江5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8802619,35.6801401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[東京都江戸川区西瑞江5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8804047,35.6811391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都江戸川区大杉5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8798247,35.7085837,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都葛飾区葛飾区白鳥4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8493387,35.7513258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都足立区中川4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8455876,35.7737521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都足立区環七通り]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7574663,35.7784645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都北区十条仲原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7191825,35.7651101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都板橋区小茂根3丁目環七通り]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6799807,35.7493797,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都練馬区向山1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6402404,35.739228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都練馬区旭町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6197805,35.7646782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[東京都杉並区高円寺南4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6549503,35.703198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都杉並区高円寺南4丁目環七通り]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.65468,35.7037583,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都江東区塩浜2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8061062,35.6616891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都江東区新砂1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8247167,35.6654035,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都世田谷区瀬田1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6360011,35.6170222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[東京都世田谷区砧公園1]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6249571,35.631493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都世田谷区八幡山3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.614003,35.6646556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都世田谷区給田4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5931629,35.6682816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都調布市野水1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5263176,35.6838787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都府中市新町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4863755,35.6881498,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都立川市富士見町6丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3944789,35.6918815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都多摩市永山6丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4423725,35.6169955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都八王子市大和田町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3568717,35.6575098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都東村山市恩多町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4869977,35.7461248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都武蔵村山市学園1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3943261,35.7496284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都福生市福生]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3386568,35.7503664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[東京都青梅市新町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.3142809,35.7840801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[東京都西多摩郡日の出町平井]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2817886,35.7391083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[東京都西多摩郡日の出町平井]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.2821829,35.7383027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[東京都国立市谷保]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4255698,35.6788612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[東京都府中市是政2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.49295760000004,35.6602241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[東京都府中市是政2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.4929656,35.659979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[東京都調布市深大寺東町3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5641059,35.6674301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都三鷹市北野4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5795031,35.673753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都世田谷区北烏山9丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.5915643,35.6748832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都杉並区上高井戸2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6061528,35.6802137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[東京都杉並区上高井戸2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6111894,35.678779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[東京都港区元赤坂1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7348915,35.6784189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都世田谷区駒沢2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6594846,35.632116,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都世田谷区三軒茶屋2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6681917,35.6400623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都港区芝2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7529669,35.6532578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都中央区築地5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7665805,35.6660763,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都中央区新富1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.77273880000004,35.6734261,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都中央区八丁堀]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7730017,35.675238900000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都中央区八丁堀3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.77338250000003,35.6754481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[東京都千代田区北の丸公園]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7549209,35.6909121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都江東区木場6丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8053625,35.6652766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都墨田区立川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.7986429,35.6921282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都江東区大島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.831441,35.6939901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都江東区大島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8318876,35.6938529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[東京都足立区綾瀬1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8201549,35.7587972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都足立区足立2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8104131,35.7591885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都足立区]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.8049012,35.7611098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[東京都豊島区南池袋]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.71859440000003,35.7259596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都板橋区大原町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6971012,35.7684617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都板橋区前野町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6856059,35.774053,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都板橋区山園]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6438681,35.7870882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[東京都板橋区三園]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>139.6438238,35.7876093,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>中部地方　新潟、富山、石川、福井、長野、岐阜、静岡、愛知、山梨</name>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[山梨県甲府市上小河原町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.5616182,35.6334834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[山梨県笛吹市八代町南]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.6286278,35.6179581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[山梨県中巨摩郡昭和町押越]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.5412307,35.6318353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[山梨県笛吹市一宮町東原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.6813211,35.64499730000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[山梨県笛吹市御坂町藤野木]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.742265,35.5868779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[山梨県韮崎市穴山町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.4094122,35.7502205,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[新潟県小千谷市片貝町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.787774,37.3758921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[新潟県柏崎市曾地]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.6264203,37.4011415,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[新潟県上越市柿崎区上下浜]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.3579567,37.2483443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[静岡県駿東郡長泉町東野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.8780317,35.1642859,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[静岡県沼津市石]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.7806661,35.1521637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[静岡県静岡市清水区由比今宿]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.5536145,35.0965499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[静岡県静岡市駿河区弥生町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.4389473,35.0040349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[静岡県静岡市葵区天王町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.3812477,34.9671967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[静岡県静岡市駿河区丸子]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.3257675,34.942163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[静岡県藤枝市下之郷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.2440446,34.9001936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[静岡県周智郡森町睦実]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9342012,34.8234304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[静岡県袋井市国本]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9453807,34.7648961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[静岡県袋井市久能]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9198688,34.763714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[静岡県浜松市南区飯田町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.7795558,34.7102473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[静岡県浜松市南区福塚町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.7522133,34.6730116,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[愛知県豊橋市東細谷町一里山]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.4796258,34.7049785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[愛知県豊橋市二川町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.4560237,34.7205942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[長野県東御市滋野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.3750223,36.3548528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 80km/h</name>
+				<description><![CDATA[長野県千曲市屋代]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>138.1395189,36.53974740000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[長野県塩尻市片丘]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9761738,36.1263597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[長野県塩尻市宗賀]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9279892,36.0986164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[長野県上伊那郡辰野町樋口]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9927793,35.9601937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 80km/h</name>
+				<description><![CDATA[長野県上伊那郡飯島町七久保]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9036146,35.6646033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[長野県上伊那郡飯島町七久保]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.9033598,35.6645858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[長野県木曽郡木曽町日義]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.7667442,35.8915653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[長野県木曽郡木曽町日義]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.7645113,35.8874551,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[長野県木曽郡大桑村野尻]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.649757,35.6799778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[長野県木曽郡南木曽町田立]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.5836003,35.5887799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[富山県中新川郡立山町野口]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3069465,36.6727636,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[富山県砺波市高道]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9740267,36.6404121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 50km/h</name>
+				<description><![CDATA[富山県高岡市西藤平蔵]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9905545,36.7144637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 60km/h</name>
+				<description><![CDATA[富山県氷見市小竹]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0017809,36.8002938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[富山県射水市津幡江]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.1054885,36.7433204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 60km/h</name>
+				<description><![CDATA[富山県富山市小西]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2577763,36.7206095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[富山県富山市水橋田伏]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3168519,36.7205461,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[石川県加賀市小塩辻町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.3205346,36.3396947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[石川県能美市吉原釜屋町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.4615478,36.4651925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[石川県白山市水島町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.5129201,36.4851117,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[石川県能美市来丸町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.5562177,36.4463805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[石川県羽咋郡宝達志水町北川尻]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7370857,36.8086941,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 60km/h</name>
+				<description><![CDATA[福井県あわら市東善寺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2213935,36.2023616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[福井県坂井市丸岡町筑後清水]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2787338,36.1244077,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[福井県吉田郡永平寺町松岡領家]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2814629,36.1158104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[福井県福井市新田本町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.254673,36.1048264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[福井県福井市篠尾町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2829126,36.0259403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[福井県鯖江市鳥羽町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.1986256,35.986829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[福井県越前市中新圧町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2012514,35.9246652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[福井県越前市小野谷町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.1816539,35.8838912,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 50km/h</name>
+				<description><![CDATA[福井県三方郡美浜町大藪]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.9154835,35.5909589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 50km/h</name>
+				<description><![CDATA[福井県大飯郡高浜町東三松]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5151357,35.4880363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[岐阜県高山市丹生川町坊方]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3312876,36.1691466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式  60km/h</name>
+				<description><![CDATA[岐阜県高山市千島町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2559859,36.126429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[岐阜県下呂市萩原町中呂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2233984,35.85041880000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[岐阜県郡上市白鳥町中津屋]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8791369,35.8487839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[岐阜県郡上市大和町万場]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8752342,35.8418917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[岐阜県美濃市須原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9437271,35.5865169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[岐阜県関市中之保]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0174745,35.5715454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[岐阜県加茂郡川辺町下川辺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0568372,35.4769738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[岐阜県可児市菅刈]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0015495,35.400128900000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岐阜県不破郡関ケ原町山中]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.4464898,35.3522962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[岐阜県安八郡安八町牧]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6442424,35.3125447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[岐阜県羽島郡岐南町八剣北1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7847761,35.39969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[岐阜県各務原市那加兼橋町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8171222,35.4041615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[岐阜県岐阜市下土居]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7515026,35.4543035,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岐阜県中津川市神坂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.5854443,35.5112713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岐阜県中津川市落合]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.5362955,35.5068816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岐阜県中津川市落合]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.5360689,35.5069591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[岐阜県中津川市手賀野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.4973753,35.4810844,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岐阜県瑞浪市釜戸町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3128112,35.417199100000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[岐阜県瑞浪市明世町戸狩]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2477783,35.371544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 60km/h</name>
+				<description><![CDATA[岐阜県土岐市泉町河合]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2087522,35.3671894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県豊橋市久縞町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3321526,34.7691696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[愛知県豊川市篠田町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.3965873,34.8427287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[愛知県岡崎市本宿町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.256525,34.8983446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[愛知県岡崎市藤川町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.2109395,34.9173602,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県額田郡幸田町大草宮前]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.1748075,34.8857967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[愛知県岡崎市仁木町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.1645829,35.0147678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[愛知県豊田市花園町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.086715,35.0133882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[愛知県刈谷市東境町松ケ枝]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0489817,35.0384919,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県知立市上重原町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0273504,35.0042222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[愛知県知多郡阿久比町卯坂砂走]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9130239,34.9477486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 70km/h</name>
+				<description><![CDATA[愛知県東海市元浜町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8820397,35.0222913,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県名古屋市緑区大高町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9297045,35.0634742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[愛知県みよし市三好町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0751929,35.0936575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 60km/h</name>
+				<description><![CDATA[愛知県名古屋市昭和区白金1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.91741,35.1476431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県名古屋市中区千代田5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9160239,35.1571702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県名古屋市中村区畑江通5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8633346,35.157611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県名古屋市西区鳥見町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8852147,35.2032417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[愛知県名古屋市名東区高柳町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.0140225,35.1822401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県春日井市松河戸町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9641455,35.2248278,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県名古屋市北区若鶴町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.91477,35.2295522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[愛知県小牧市三ツ渕]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8843926,35.2973033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県一宮市大和町毛受]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7765008,35.2990611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県一宮市更屋敷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7881503,35.354859,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[愛知県犬山市塔野地]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.9602938,35.3709896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[愛知県春日井市神屋町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>137.019639,35.2976065,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[愛知県名古屋市港区藤前1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.8322029,35.0885817,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>近畿地方</name>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[滋賀県高島市饗庭]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.0381624,35.3744703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[滋賀県長浜市湯次町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2796336,35.4255083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[滋賀県守山市洲本町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.9678483,35.091251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[滋賀県大津市北小松]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.9873708,35.263552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[滋賀県彦根市三ツ谷町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.1495438,35.2243672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　80km/h</name>
+				<description><![CDATA[京都府京都市山科区大宅石郡町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.8161962,34.9662856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[滋賀県草津市志那町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.9197845,35.0507655,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　30km/h</name>
+				<description><![CDATA[滋賀県大津市錦織町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.8414036,35.0323464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[京都府京都市下京区五条通]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.7631307,34.9962433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[京都府京都市下京区門前町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.7531033,34.991941,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[京都府京都市西京区大枝沓掛町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.6667093,34.9749136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　80km/h</name>
+				<description><![CDATA[京都府長岡京市神足]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.709962,34.921016,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[京都府久世郡久御山町久御山町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.7443801,34.9069385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[京都府八幡市戸津正ノ竹]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.7215853,34.8637775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府枚方市招提大谷1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.6920837,34.8341561,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　100km/h</name>
+				<description><![CDATA[滋賀県蒲生郡竜王町小口]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.1074157,35.0534432,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[滋賀県東近江市池之尻町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2574612,35.114948000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　100km/h</name>
+				<description><![CDATA[滋賀県東近江市北花沢町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2696116,35.1240824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[滋賀県甲賀市甲賀町岩室]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2463555,34.9270148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[三重県亀山市加太中在家]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.3150576,34.8379857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[三重県亀山市関ケ丘]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.3929288,34.84047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[三重県亀山市羽若町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.4487912,34.8640845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[三重県鈴鹿市南林崎町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.597985,34.8838946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[三重県四日市市馳出]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6163756,34.9382998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[三重県四日市市羽津]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6443524,34.9817947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　40km/h</name>
+				<description><![CDATA[三重県四日市市大協町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6386849,34.9694387,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[三重県桑名郡木曽岬町源緑輪中]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7340267,35.0627042,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[三重県桑名市長島町又木]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.7025134,35.0929782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[三重県津市河芸町上野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.544255,34.7889122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[三重県津市戸木町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.4523827,34.679587,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[三重県伊勢市西豊浜町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6835529,34.5268967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[三重県松阪市松ヶ島町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.5258899,34.6027068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[三重県多気郡明和町行部]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.6366316,34.5664156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[三重県多気郡多気町相可台]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.5509605,34.5009599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　70km/h</name>
+				<description><![CDATA[和歌山県日高郡日高川町中津川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.194888,33.9341251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[三重県北牟婁郡紀北町海山区中里]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.2205084,34.1384812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[和歌山県和歌山市出島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.2151078,34.2499935,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[和歌山県和歌山市相坂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.2355368,34.1956418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[和歌山県紀の川市畑野上]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3485169,34.260504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[三重県名張市黒田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.0800035,34.6130318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　70km/h</name>
+				<description><![CDATA[奈良県天理市福住町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.905495,34.60729330000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　70km/h</name>
+				<description><![CDATA[奈良県奈良市針町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.946286,34.6114722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　70km/h</name>
+				<description><![CDATA[奈良県山辺郡山添村切幡]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.00081,34.6350474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　70km/h</name>
+				<description><![CDATA[三重県伊賀市守田町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>136.1237678,34.7494729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[奈良県奈良市佐保台西町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.8086485,34.7106629,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[兵庫県赤穂市大津]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.378795,34.7752714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[兵庫県赤穂市西有年]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.3590848,34.8292839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[兵庫県たつの市揖保川町片島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.5167276,34.8252194,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 50km/h</name>
+				<description><![CDATA[兵庫県揖保郡太子町原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.6133649,34.8294677,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 50km/h</name>
+				<description><![CDATA[兵庫県姫路市土山]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.6713637,34.8351777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[兵庫県姫路市飾東町佐良]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.7385275,34.8515347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 50km/h</name>
+				<description><![CDATA[兵庫県姫路市砥堀]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.7279409,34.8669224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[兵庫県加古川市平岡町中野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.8588461,34.7308108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[兵庫県加古川市平岡町高畑]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.8828264,34.7357848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 60km/h</name>
+				<description><![CDATA[兵庫県神戸市須磨区白川台4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1041046,34.6870431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 50km/h</name>
+				<description><![CDATA[兵庫県神戸市須磨区稲葉町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1285623,34.6506343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[兵庫県神戸市須磨区古川町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1355374,34.6478761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[兵庫県神戸市長田区海運町4町目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1391289,34.6503055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[兵庫県神戸市兵庫区入江通3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1669165,34.6669716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　40km/h</name>
+				<description><![CDATA[兵庫県神戸市灘区新在家南町3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.2365641,34.7073897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県神戸市東灘区御影本町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.2547254,34.710987,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[兵庫県芦屋市陽光町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.31429860000003,34.7140782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県芦屋市竹園町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.30910980000002,34.727383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[兵庫県西宮市]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3305514,34.7170248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県西宮市久保町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3395234,34.7335706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県西宮市成鳴尾町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3728418,34.7183884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[兵庫県西宮市武庫川町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3811553,34.7168297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県尼崎市元浜町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3895949,34.7148058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　40km/h</name>
+				<description><![CDATA[兵庫県尼崎市道意町7丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3984515,34.7164318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[兵庫県尼崎市道意町7丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4042451,34.7167636,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　40km/h</name>
+				<description><![CDATA[兵庫県尼崎市西本町5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4113959,34.7154804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市西淀川区大和田5丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4452521,34.7095395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[大阪府大阪市西淀川区大和田1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4526335,34.7070424,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[大阪府大阪市西淀川区大和田1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4536326,34.7063743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市西淀川区姫島1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4580891,34.7041329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市福島区大開3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4684505,34.6946947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市西区九条2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4750018,34.6762078,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市港区弁天1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4618844,34.668539,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市北区西天満]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5032642,34.6948734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府大阪市北区南森町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5092858,34.6985198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市中央区博労町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5108455,34.677367,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市浪速区下寺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5092496,34.6594245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市浪速区恵美須東]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5073988,34.6514772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市西成区山王]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.505178,34.6456585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府大阪市阿倍野区昭和町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5210271,34.6327831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府大阪市阿倍野区昭和町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5219109,34.6321442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[大阪府大阪市住吉区田辺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5254219,34.6284794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[大阪府大阪市東住吉区田辺]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5258659,34.6277334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府大阪市西成区津守3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4855469,34.6407123,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[大阪府堺市堺区錦綾町1丁]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4844002,34.5859295,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府堺市北区長曽根町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.504612,34.5657861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府堺市西区浜寺南町3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4527985,34.5358734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府岸和田市八阪町1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3918131,34.4603872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[大阪府和泉市あゆみ野2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4453231,34.4534615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[大阪府堺市美原区菅生]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.56941150000003,34.5194152,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[大阪府八尾市戸塚1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.624032,34.6084059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府東大阪市高井田本通]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5684942,34.6783772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市浪速区敷津東]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5003339,34.6585585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　50km/h</name>
+				<description><![CDATA[大阪府大阪市旭区大宮]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5479512,34.7308748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府大阪市旭区太子橋3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5605482,34.7412984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[大阪府守口市大日東町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5796039,34.7471621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　80km/h</name>
+				<description><![CDATA[大阪府吹田市岸部北4丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.5261475,34.7821318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[大阪府吹田市春日1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4969892,34.7818157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　60km/h</name>
+				<description><![CDATA[大阪府吹田市春日1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.497299,34.7827761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府豊中市上新田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4951398,34.7980181,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　60km/h</name>
+				<description><![CDATA[大阪府豊中市新千里東町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4969141,34.8072418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府吹田市山田花]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.518298,34.8063609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[大阪府池田市空港2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.438277,34.7957825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大阪府池田市ダイハツ町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.4241283,34.8051959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[兵庫県宝塚市川面]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.3437398,34.8181854,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[兵庫県西宮市山口町下山口]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.2544451,34.8373902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[兵庫県神戸市北区]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.1686747,34.8295294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　80km/h</name>
+				<description><![CDATA[兵庫県加東市横谷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>135.0674348,34.9028982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[兵庫県西脇市高松町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.9728788,34.955384800000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[兵庫県加古川市平荘町磐]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.9024159,34.8222084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[兵庫県加西市谷町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.819486,34.9408646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[兵庫県神崎郡市川町浅野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.76495,35.0058332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[兵庫県朝来市山東町野間]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.9081893,35.3297309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[兵庫県美方郡香美町村岡区大糠]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.6022204,35.4609671,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>四国地方オービス位置</name>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[高知県長岡郡大豊町川口]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.6611593,33.7792755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[愛媛県伊予郡砥部町三角]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.7873774,33.7735335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[愛媛県伊予郡松前町西古泉]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.7208251,33.7917894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[愛媛県松山市水泥町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.8269775,33.801789600000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[愛媛県松山市谷町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.7521546,33.8782043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式 80km/h</name>
+				<description><![CDATA[愛媛県西条市氷見丁]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.1316778,33.8840284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[愛媛県新居浜市船木]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.3391923,33.9292147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 70km/h</name>
+				<description><![CDATA[徳島県美馬市美馬町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.0447849,34.057295,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[徳島県美馬郡つるぎ町貞光]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.0753795,34.045709,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[徳島県阿南市那賀川町島尻]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.6416073,33.970966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[徳島県徳島市川内町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.5737688,34.0983604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 60km/h</name>
+				<description><![CDATA[徳島県板野郡松茂町広島北川向二ノ越]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.5755726,34.1388564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 70km/h</name>
+				<description><![CDATA[香川県東かがわ市松崎]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.306087,34.2420327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県木田郡三木町田中]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.1170476,34.2656934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県高松市由良町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.0931693,34.2875492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県高松市香川町大野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.0300556,34.2678125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県高松市御厩町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.9872113,34.3065866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県高松市香西北町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.992746,34.3530226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[香川県坂出市川津町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.844149,34.2992782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[香川県善通寺市木徳町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.7959202,34.2474416,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>九州地方</name>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[沖縄県中頭郡中城村和宇慶]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.7786417,26.2414462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[沖縄県浦添市仲間1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.7230141,26.2539724,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[沖縄県中頭郡北谷町美浜3丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.758261,26.3217738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[沖縄県中頭郡北谷町美浜2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.75943309999998,26.3190547,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　80km/h</name>
+				<description><![CDATA[沖縄県沖縄市嘉良川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.8010529,26.3464554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[沖縄県名護市数久田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>127.97822620000001,26.5624963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[鹿児島県鹿児島市吉野町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.6049122,31.647803400000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[鹿児島県霧島市溝辺町麓]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7008374,31.818630200000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[宮崎県宮崎市田野町甲]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.2909569,31.8201207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[熊本県球磨郡球磨村渡]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.6989934,32.2343335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[熊本県八代市二見本町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.5510226,32.3980402,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[熊本県宇城市松橋町古保山]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7220925,32.6763129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　100km/h</name>
+				<description><![CDATA[熊本県上益城郡御船町陣]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.770501,32.7210077,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[熊本県熊本市南区南高江6丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.687822,32.7481829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[熊本県熊本市東区西原2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7537815,32.8178457,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[熊本県熊本市東区上南部2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7661116,32.826749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[熊本県熊本市北区植木町小野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7165551,32.9040083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[熊本県熊本市北区植木町鈴麦]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.6460291,32.9211134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[熊本県熊本市北区植木町宮原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7084441,32.9784776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[熊本県熊本市北区植木町宮原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7080592,32.9786745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　50km/h</name>
+				<description><![CDATA[熊本県菊池市今]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.8136109,32.9657258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[熊本県阿蘇市波野小地野]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.1663026,32.9480024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[長崎県大村市赤佐古町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>129.977046,32.9118852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[佐賀県佐賀市鍋島町森田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.2545004,33.2665056,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[佐賀県小城市三日月町織島]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.2223058,33.3091328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[佐賀県三養基郡みやき町簑原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.4489404,33.36503660000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[佐賀県鳥栖市宿町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.4988322,33.3722831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　100km/h</name>
+				<description><![CDATA[福岡県小郡市福童]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.5388615,33.3565785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　50km/h</name>
+				<description><![CDATA[福岡県筑紫野市武蔵1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.5125651,33.4909429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[福岡県大野城市御笠川1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.477235,33.5525328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　80km/h</name>
+				<description><![CDATA[福岡県福岡市博多区金の隈]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.4723386,33.5572279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福岡県福岡市中央区福浜1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.369543,33.6000164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>レーダー式　100km/h</name>
+				<description><![CDATA[福岡県糟屋郡粕屋町駕与丁]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.4891346,33.6104187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[佐賀県唐津市浜崎]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.0219944,33.436806700000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福岡県飯塚市阿恵]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.6472978,33.5628626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福岡県飯塚市鯰田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.7072908,33.6632721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[福岡県鞍手郡鞍手町八尋]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.6700027,33.764656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福岡県福津市上西郷]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.5067313,33.7643305,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[福岡県北九州市八幡西区元城町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.783271,33.85324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　100km/h</name>
+				<description><![CDATA[福岡県北九州市門司区門司区伊川]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>130.9754983,33.9128924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　50km/h</name>
+				<description><![CDATA[福岡県築上郡築上町有安]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.0807119,33.6322983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大分県中津市加来]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.2190965,33.5524668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム　60km/h</name>
+				<description><![CDATA[大分県速見郡日出町豊岡]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.5122579,33.3657052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ　60km/h</name>
+				<description><![CDATA[大分県大分市神崎]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.5659946,33.2528096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式　80km/h</name>
+				<description><![CDATA[大分県大分市横尾]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.6747274,33.197303,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>中国地方</name>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[山口県下関市員光1丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.0064644,34.0537105,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[山口県美祢市東厚保町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.1681345,34.1137921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[山口県防府市大崎]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.5416268,34.0585538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[山口県周南市平原町]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>131.843441,34.0515416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 100km/h</name>
+				<description><![CDATA[広島県廿日市市上平良]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.3029865,34.3574944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[広島県廿日市市佐方]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.3312087,34.3647757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 80km/h</name>
+				<description><![CDATA[広島県東広島市八本松町飯田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.6936503,34.4632344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 50km/h</name>
+				<description><![CDATA[広島県安芸高田市吉田町桂]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.65677530000002,34.6375466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 70km/h</name>
+				<description><![CDATA[島根県浜田市旭町和田]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.2866197,34.8660773,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 100km/h</name>
+				<description><![CDATA[広島県福山市坪生町2丁目]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.4347741,34.524604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 100km/h</name>
+				<description><![CDATA[岡山県浅口市金光町上竹]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.6286415,34.5666972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ｈシステム 60km/h</name>
+				<description><![CDATA[岡山県瀬戸内市]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.102663,34.6588751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 80km/h</name>
+				<description><![CDATA[岡山県和気郡和気町福富]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>134.1505095,34.7875641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式 70km/h</name>
+				<description><![CDATA[鳥取県西伯郡伯耆町根雨原]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>133.466844,35.3131401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ループコイル式Ｈ 70km/h</name>
+				<description><![CDATA[島根県松江市穴道町西来待]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>132.9450752,35.4103472,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1125-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1125-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1125'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1125-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1125-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
