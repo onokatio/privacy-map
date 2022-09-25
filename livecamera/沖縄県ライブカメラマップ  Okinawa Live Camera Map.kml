@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>沖縄県ライブカメラマップ / Okinawa Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/<br>沖縄県内のライブカメラ<br>http://livecamera.fujiyamasan.com/okinawaken.html]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>沖縄県内ライブカメラ</name>
+      <Placemark>
+        <name>県道241号線交通状況 / Prefectural Road Route 241 traffic situation</name>
+        <description>沖縄県首里石嶺町県道241号線 石嶺本通り SimPro / Simpro, Ishimine Hondori, Prefectural Road Route 241, Shuri Ishimine-cho, Okinawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.727008,26.233609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安謝川新開橋ライブカメラ / Aja River Shinkai Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市首里石嶺町 「沖縄県河川情報システム」/ Shuriishimine Town, Naha City, Okinawa Prefecture "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7226964,26.2299501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安謝川末吉ライブカメラ / Aja River Sueyoshi Live Camera</name>
+        <description><![CDATA[沖縄県那覇市首里末吉町４丁目 「沖縄県河川情報システム」/ 4-chome  Shurisueyoshi-cho,Naha City, Okinawa Prefecture "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.710622,26.2282967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那覇港ライブカメラ / Port of Naha Live Camera</name>
+        <description>〒900-0001 沖縄県那覇市港町２丁目１１−１ 那覇港湾合同庁舎　第十一管区海上保安本部 / Naha Port Joint Government Building, Japan Coast Guard 11th Regional Coast Guard Headquarters, 2-11-1 Minato-cho, Naha-shi, Okinawa-ken 900-001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.677119,26.241693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄タイムスライブカメラ / Okinawa Times Live Camera</name>
+        <description>〒９００-８６７８ 沖縄県那覇市久茂地２丁目２番２号沖縄タイムス本社 / Okinawa Times Headquarters, 2-2-2 Kumoji, Naha City, Okinawa 900-8678</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6790175,26.2158426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久茂地川美栄橋ライブカメラ / Kumoji River Mie Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市久茂地２丁目 「沖縄県河川情報システム」/ 2-chome Kumoji, Naha City, Okinawa Prefecture, "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6845362,26.2195228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久茂地川御成橋ライブカメラ / Kumoji River Onari Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市久茂地２丁目 「沖縄県河川情報システム」/ 2-chome, Kumoji, Naha City, Okinawa Prefecture "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6795061,26.2148899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マンゴハウス国際通り1号店前 / Mango House International Street First Store</name>
+        <description>〒900-0015 沖縄県那覇市久茂地３丁目４−６ マンゴハウス国際通り本店 / Mango House International Street, 3-4-6 Kumoji, Naha-shi, Okinawa-ken 900-0015</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.682923,26.214707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QABライブカメラ「現在の那覇」</name>
+        <description>〒900-0015 沖縄県那覇市久茂地２丁目３−１　琉球朝日放送（株）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6793593,26.2160953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那覇空港ライブカメラ / Naha Airport Live Camera</name>
+        <description><![CDATA[〒901-0142 沖縄県那覇市鏡水１５０ 那覇空港　「JAL-天気情報」 / Naha Airport, 150 Kagamimizu, Naha-shi, Okinawa-ken 901-0142, "JAL Weather Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6465422,26.2064033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MORECA国際通りライブカメラ /  MORECA Kokusaidori live camera</name>
+        <description><![CDATA[〒900-0013 沖縄県那覇市牧志２丁目 「MORECA HS」/ "MORECA HS", 2-chome, Makishi, Naha City, Okinawa 900-0013, Japan]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6885414,26.2181184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RBC那覇市内ライブカメラ / RBC Naha City Live Camera</name>
+        <description><![CDATA[沖縄県那覇市久茂地2丁目3-1 那覇空港 「琉球放送(RBC)」/ Naha Airport, 2-3-1 Kumoji, Naha City, Okinawa Prefecture,  "Ryukyu Broadcasting (RBC)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6487059,26.2038781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>店内ライブカメラ</name>
+        <description>〒900-0034 沖縄県那覇市東町4-6 東一番館B1F　大城美佐子の店「島思い」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6751126,26.2127206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄国際通り安里三叉路ライブ映像 / Okinawa Kokusai Street Live Camera</name>
+        <description>〒900-0013 沖縄県那覇市牧志３丁目２−１０那覇国際通り商店街 / Okinawa Kokusai Street, 3-2-10 Makishi, Naha-shi, Okinawa 900-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6849187,26.2151942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FMNAHA780Mhzのライブストリーム / FM NAHA 780Mhz live stream</name>
+        <description>〒900-0013 沖縄県那覇市牧志２丁目１８−４ FM那覇 / FM Naha, 2-18-4 Makishi, Naha-shi, Okinawa 900-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6855114,26.2193312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川蔡温橋ライブカメラ / Asato River Saion Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市牧志3丁目 蔡温橋 「沖縄県河川情報システム」/ Saionbashi, Makishi 3-chome, Naha City, Okinawa "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6924437,26.2177022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川崇元寺橋ライブカメラ / Asato River Sugenji Bridge Live Camera</name>
+        <description>沖縄県那覇市牧志 「沖縄県河川情報システム」/ Makishi, Naha City, Okinawa “Okinawa Prefecture River Information System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6891595,26.220271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川ひめゆり橋ライブカメラ / Asato River Himeyuri Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市牧志3丁目 「沖縄県河川情報システム」/ Makishi 3-chome, Naha City, Okinawa "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6938086,26.2150284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道58号線泊交差点 / National Highway Route 58, Tomari Intersection</name>
+        <description><![CDATA[沖縄県那覇市泊 「沖縄移住生活」 / Tomari, Naha-shi, Okinawa-ken, "Okinawa Life Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.685337,26.225727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那覇泊港ライブカメラ / Port of Naha Tomari Live Camera</name>
+        <description><![CDATA[沖縄県那覇市前島３丁目２５ 泊港　「沖縄移住生活」 / Port of Tomari, 3-25 Maejima, Naha City, Okinawa, "Okinawa Life Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.683728,26.223359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄・那覇泊ふ頭ライブカメラ / Tomari Futo (Wharf) in Naha City</name>
+        <description><![CDATA[〒900-0016 沖縄県那覇市前島３丁目２５−１ 泊ふ頭開発（株） 「とまりん」 / Tomarifuto  development Co., Ltd., "Tomarin," 3-25-1 Maejima, Naha-shi,  Okinawa-ken 900-0016]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6824244,26.2236574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IoT百葉箱那覇市立松川小学校ライブカメラ / IoT Hyakuyobako Naha City Matsukawa Elementary School Live Camera</name>
+        <description>〒902-0062 沖縄県那覇市松川１丁目７−１ 那覇市立松川小学校 / Naha City Matsukawa Elementary School, 1-1-1, Matsukawa, Naha City, Okinawa Prefecture 902-0062</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.702899,26.213819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首里城公園ライブカメラ / Shurijo Castle Park Live Camera</name>
+        <description>〒903-0815 沖縄県那覇市首里金城町１−２　首里城公園管理センター / Shurijo Castle Park Management Center, 1-2 Shurikinjo-cho, Naha-shi, Okinawa-ken 903-0815</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7161099,26.2180187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琉球新報本社ビルライブカメラ / Ryukyu Shinpo Headquarters Building Live Camera</name>
+        <description>〒900-8525 沖縄県那覇市天久905　琉球新報本社ビル / Ryukyu Shinpo Headquarters Building, 905 Ameku, Naha-shi, Okinawa-ken 900-8525</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6854821,26.234634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那覇市議会インターネット中継 / Naha City Council Webcast</name>
+        <description>〒900-0021 沖縄県那覇市泉崎１丁目１−１ 那覇市役所 那覇市議会事務局 / Naha City Hall Naha City Council Secretariat, 1-1-1, Izumizaki, Naha City, Okinawa 900-0021 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6791568,26.2123124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>壺屋“やちむん通り”ライブカメラ</name>
+        <description>〒902-0065 沖縄県那覇市壺屋１丁目２１−１４ やちむん通り</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6924678,26.2123398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夢ある沖縄弁当屋ライブカメラ / Yumearu Okiyawa Bentoya Live Camera</name>
+        <description>〒901-0305 沖縄県糸満市西崎町５丁目１３−６ ニッシン楽働舘 夢ある沖縄弁当 / Yumearu Okinawa Bento, Nissin Rakudokan, 5-13-6 Nishizaki-cho, Itoman-shi, Okinawa 901-0305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6591312,26.144679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄県大宜味村防災監視設備カメラ /Okinawa Prefecture Ogimi village disaster prevention surveillance equipment camera </name>
+        <description>〒905-1305 沖縄県国頭郡大宜味村大兼久１５７　大宜味村役場 / Ogimi Village Hall, 157 Oganeku, Ogimi-son, Kunigami-gun, Okinawa-ken 905-1305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1201593,26.7017121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真嘉比川真嘉比遊水地上池ライブカメラ / Makbi River Makabi Water Playground Pond Live Camera</name>
+        <description><![CDATA[沖縄県那覇市松川 「沖縄県庁土木建築部河川課」/ Matsukawa, Naha City, Okinawa Prefecture "River Section, Civil Engineering Department, Okinawa Prefectural Government Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7089305,26.2233233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真嘉比川真嘉比遊水地下池ライブカメラ / Makabi River Makabi Yusuichi Shimoike Live Camera</name>
+        <description><![CDATA[沖縄県那覇市松川 「沖縄県庁土木建築部河川課」/ Matsukawa, Naha City, Okinawa Prefecture, "River Section, Civil Engineering Department, Okinawa Prefectural Government Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.705485,26.2210474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川指帰橋ライブカメラ / Asato River Sashikaeshi Bridge Live Camera</name>
+        <description><![CDATA[〒902-0062 沖縄県那覇市松川２丁目 「沖縄県河川情報システム」/ 2-chome, Matsukawa, Naha City, Okinawa 902-0062, Japan "Okinawa Prefectural River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7021688,26.216773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安謝川平良ライブカメラ / Akira River Taira Live Camera</name>
+        <description><![CDATA[沖縄県那覇市首里儀保町 「沖縄県庁土木建築部河川課」/ Shurigibo Town, Naha City, Okinawa ``Okinawa Prefectural Government Civil Engineering Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7188758,26.2274534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川古波蔵ライブカメラ / Kokuba River Kohagura Live Camera</name>
+        <description><![CDATA[沖縄県那覇市古波蔵 「沖縄県河川情報システム」/ Kohagura, Naha City, Okinawa, "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6879844,26.1962289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川鏡原ライブカメラ / Kokuba River Kyohara Live Camera</name>
+        <description><![CDATA[沖縄県那覇市鏡原町 「沖縄県河川情報システム」/ Kagamihara Town, Naha City, Okinawa "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6796934,26.1990202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川大道練兵橋ライブカメラ / Asato River Daidorenpei Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市三原1丁目 「沖縄県河川情報システム」/ 1-chome, Mihara, Naha City, Okinawa Prefecture "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6997153,26.2147775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川安里橋ライブカメラ / Asato River Asato Bridge Live Camera</name>
+        <description><![CDATA[沖縄県那覇市安里 「沖縄県河川情報システム」/ Asato, Naha City, Okinawa Prefecture "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6967527,26.2150964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安里川豊橋ライブカメラ / Asatogawa Toyohashi live camera</name>
+        <description><![CDATA[〒902-0067 沖縄県那覇市安里２丁目８ 「沖縄県河川情報システム」/ 2-8 Asato, Naha City, Okinawa 902-0067, Japan "Okinawa Prefectural River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.6951061,26.2165009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安謝川古島ライブカメラ / Aja River Furujima Live Camera</name>
+        <description><![CDATA[沖縄県那覇市古島 「沖縄県河川情報システム」/ Furujima, Naha City, Okinawa "Okinawa Prefectural River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7063488,26.2320256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宜野湾市国道58号大謝名交差点ライブカメラ / Ginowan City Highway No. 58 Ojana Intersection Live Camera</name>
+        <description><![CDATA[〒901-2225 沖縄県宜野湾市大謝名５丁目１−１「BANKSY GINOWAN」/1-1 1-1 Ojana, Ginowan City, Okinawa 901-2225, Japan, "BANK SY GINOWAN",]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7328406,26.2685258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宜野湾市ライブカメラ / Ginowan City Live Camera</name>
+        <description>〒901-2203 沖縄県宜野湾市野嵩１丁目１−１ 宜野湾市役所 / Ginowan City Hall, 1-1-1 Nodake, Ginowan-shi, Okinawa-ken 901-2203</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7786351,26.2815833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄市水位監視カメラ / Okinawa City water level monitoring camera</name>
+        <description><![CDATA[〒904-8501 沖縄県沖縄市仲宗根町２６ 沖縄市役所 「比謝川・泡瀬」 / Okinawa City Hall, 26 Nakasone-cho, Okinawa-shi, Okinawa-ken 904-8501, "Hijagawa (River) and Awase"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.805586,26.334461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米八そばセルフレジライブカメラ / Yonehachi soba self cash register live camera </name>
+        <description>〒904-2172 沖縄県沖縄市泡瀬５丁目２９−６ 米八そば / Yonehachi Soba,  5-29, Awase, Okinawa City, Okinawa Prefecture 904-2172</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.829811,26.32363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川長堂川合流ライブカメラ / Kokuba River Nagado River Confluence Live Camera</name>
+        <description><![CDATA[沖縄県豊見城市真玉橋 「沖縄県河川情報システム」/ Madanbashi, Tomigusuku-shi, Okinawa, "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7008883,26.1941101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>漫湖の干潟とマングローブ / Tidal Flats of Lake Man and Mangrove</name>
+        <description><![CDATA[沖縄県豊見城市　「インターネット自然研究所」 / Toyomigusuku-shi, Okinawa "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.681775,26.194058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天願川天願ライブカメラ / Tengan River Tengan Live Camera</name>
+        <description><![CDATA[〒904-2202 沖縄県うるま市字天願 「天満川モニタリングサイト」/ Tengan, Uruma City, Okinawa 904-2202, Japan, "Tengan River Monitoring Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8591895,26.3909929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊計島灯台ライブカメラ / Ikeijima Lighthouse Live Camera</name>
+        <description><![CDATA[〒904-2421 沖縄県うるま市与那城伊計 「海上保安庁第管区海上保安部」/ Yonashiroikei, Uruma-shi, Okinawa 904-2421, "Japan Coast Guard Department, Coast Guard Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.9969928,26.393366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フローモライブカメラ / FROMO Live Camera</name>
+        <description>〒904-0204 沖縄県中頭郡嘉手納町水釜476　FROMO フローモ / FROMO, 476 Mizugama, Kadena-cho, Nakagami-gun, Okinawa-ken 904-0204</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.747535,26.360921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>デポアイランド サンセットライブビューカメラ / Depot Island Sunset Live View Camera</name>
+        <description>〒904-0115沖縄県中頭郡北谷町宇美浜9－1 デポアイランド / Depot Island 9-1 Umihama, Chatan-cho, Nakagami-gun, Okinawa 904-0115</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7545533,26.3159211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂辺海岸（遺跡ポイント方面）ライブカメラ / Sunabe Coast (Ruins Direction)</name>
+        <description>〒904-0113 沖縄県中頭郡北谷町宮城３−１８０  アオカワダイビングサービス / Aokawa Diving Service, 3-180 Miyagi, Chatan-cho, Nakagami-gun, Okinawa-ken 904-0113</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.742887,26.331845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島袋地内河川 / River in the land Shimabukuro</name>
+        <description>〒901-2311 沖縄県中頭郡北中城村喜舎場４２６−２ 北中城村役場 / Kitanakagusuku Village Hall, 426-2 Kishaba, Kitanakagusuku-mura, Nakagami-gun, Okinawa-ken 901-2311</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.793065,26.301081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さわふじ保育園小波津川監視ライブカメラ / Sawafuji nursery school Kobazugawa surveillance live camera</name>
+        <description><![CDATA[〒903-0118 沖縄県中頭郡西原町字小波津 さわふじ保育園 「西原町役場」/ Sawafuji nursery school, Ohazu, Nishihara-machi, Nakagami-gun, Okinawa Prefecture 903-0118, "Nishihara Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.761483,26.223243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小波津川監視カメラ / Kohatsu River Surveillance Camera</name>
+        <description>〒903-0220 沖縄県中頭郡西原町与那城140−1　西原町役場 / Nishihara Town Hall, 140-1 Yonagusuku, Nishihara-cho, Nakagami-gun, Okinawa-ken 903-0220</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7588241,26.2228371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川安里又川合流ライブカメラ / Kokuba River Asatomata River Confluence Live Camera</name>
+        <description><![CDATA[沖縄県島尻郡南風原町字宮平 「沖縄県河川情報システム」/ Miyahira, Haebaru-cho, Shimajiri-gun, Okinawa "Okinawa Prefectural River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7354028,26.199536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川石原橋ライブカメラ / Kokuba River Ishiharabashi Live Camera</name>
+        <description><![CDATA[沖縄県島尻郡南風原町字兼城  「沖縄県河川情報システム」/ Kanegusuku, Haebaru-cho, Shimajiri-gun, Okinawa Prefecture, "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7270477,26.1967082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国場川下茂橋ライブカメラ / Kokuba River Shimoshige Bridge Live Camera</name>
+        <description><![CDATA[沖縄県島尻郡南風原町字兼城 「沖縄県河川情報システム」/ Kanegusuku, Haebaru-cho, Shimajiri-gun, Okinawa Prefecture, "Okinawa Prefecture River Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7194589,26.1964878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高月山展望台 / Mt. Takatsuki Observatory</name>
+        <description><![CDATA[沖縄県島尻郡座間味村 高月山 「座間味村ライブカメラ」 / Mt. Takatsuki (Takatsukiyama), Zamami-son, Shimajiri-gun, Okinawa, "Zamami Village Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.308969,26.230683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かねひで喜瀬ビーチパレス前ライブカメラ / Kanehide Kise Beach Palace Live Camera</name>
+        <description>〒905-0026 沖縄県名護市字喜瀬１１５−２ かねひで喜瀬ビーチパレス / Kanehide Kise Beach Palace, 115-2 Kise, Nago-shi, Okinawa 905-0026</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.9452007,26.5362832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご名護二見ECO発電所 / Ichigo Nago Futami ECO Power Plant</name>
+        <description>〒905-2269 沖縄県名護市二見２４０−１９ いちご名護二見ＥＣＯ発電所 / Ichigo Nago Futami ECO Power Plant, 240-19 Futami, Nago-shi, Okinawa-ken 905-2269</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.0275447,26.5461322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>座間味村ライブカメラ / Zamami Village</name>
+        <description>沖縄県島尻郡座間味村座間味１０９ 座間味村役場 / Zamami Village Office, 109 Zamami, Zamami-son, Shimajiri-gun, Okinawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.303219,26.228951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やんばるの照葉樹林 / Laurel forest of Yanbaru</name>
+        <description><![CDATA[沖縄県国頭郡国頭村比地263-1 「インターネット自然研究所」 / 263-1 Hiji, Kunigami-son, Kunigami-gun, Okinawa-ken, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.264909,26.723495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大宜味村農村環境改善センター奥間ビーチライブカメラ / Ogimi Village Rural Environment Improvement Center Okuma Beach Live Camera</name>
+        <description><![CDATA[〒905-1303 沖縄県国頭郡大宜味村字喜如嘉３２０ 大宜味村農村環境改善センター 「大宜味村役場」/ Ogimi Village Rural Environment Improvement Center,  320 Kijoka, Ogimi Village, Kunigami District, Okinawa Prefecture 905-1303  "Ogimi Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1437535,26.7080257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅おおぎみ国道58号ライブカメラ / Road Station Ogimi National Route 58 Live Camera</name>
+        <description><![CDATA[〒905-1318 沖縄県国頭郡大宜味村字津波95 道の駅おおぎみ 「大宜味村役場」/ Ogimi Road Station, 95 Tsunami, Ogimi Village, Kunigami-gun, Okinawa 905-1318, "Ogimi Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1028834,26.6608525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩屋小学校塩屋湾ライブカメラ / Shioya Elementary School Shioya Bay Live Camera</name>
+        <description><![CDATA[〒905-1311 沖縄県国頭郡大宜味村字塩屋５３８ 旧塩屋小学校 「大宜味村役場」/ Shioya Elementary School 538, Shioya, Ogimi Village, Kunigami District, Okinawa Prefecture 905-1311,  "Ogimi Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.106946,26.669893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖縄県東村防災監視設備カメラ / Okinawa Prefecture Higashi village disaster prevention surveillance equipment camera</name>
+        <description>〒905-1204 沖縄県国頭郡東村平良８０４　東村役場 / Higashi Village Hall, 804 Taira, Higashi-son, Kunigami-gun, Okinawa-ken 905-1204</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1569101,26.633312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高江小中学校ライブカメラ / Takae elementary and junior high school live camera</name>
+        <description><![CDATA[〒905-1201 沖縄県国頭郡東村字高江８３−８　東村立高江小中学校「東村役場」/ Higashimura Takae Elementary and Junior High School, 83-8 Takae, Higashi-mura, Kunigami-gun, Okinawa 905-1201, "Higashi Village Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.2526287,26.6625519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東村東漁港ライブカメラ / Higashimura Higashi Fishing Port Live Camera</name>
+        <description><![CDATA[〒905-1203 沖縄県国頭郡東村字川田　東（川田）漁港 「東村役場」/ East (Kawata) fishing port, Kawada, Higashimura, Kunigami-gun, Okinawa 905-1203, "Higashimura Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1664868,26.6279036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福地川海浜公園ライブカメラ / Fukuchi River Seaside Park Live Camera</name>
+        <description><![CDATA[〒905-1204 沖縄県国頭郡東村川田334　福地川海浜公園「東村役場」/  Fukuchigawa Seaside Park, 334 Kawada, Higashimura, Kunigami-gun, Okinawa 905-1204, Japan, "Higashimura Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1587396,26.6318531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有銘公民館有銘川ライブカメラ / Arume Public Hall Arume River Live Camera</name>
+        <description><![CDATA[〒905-1206 沖縄県国頭郡東村字有銘　東村立有銘小中学校「東村役場」/Higashimura Public Hall, Arume, Higashi-mura, Kunigami-gun, Okinawa 905-1206, " Higashi Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1214972,26.6038172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>慶佐次公民館慶佐次川ライブカメラ / Gesashi Community Center Gesashi River Live Camera</name>
+        <description><![CDATA[〒905-1205 沖縄県国頭郡東村字慶佐次１９ 慶佐次公民館「東村役場」/  Gesashi Civic Center, 19 Gesashi, Higashi-son, Kunigami-gun, Okinawa 905-1205, "Higash Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.145549,26.604095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東村中央公民館平良海岸ライブカメラ / Higashimura Central Community Center Taira Beach Live Camera</name>
+        <description><![CDATA[〒905-1204 沖縄県国頭郡東村字平良 東村中央公民館「東村役場」/ Higashison Central Public Hall, Taira, Higashi-son, Kunigami-gun, Okinawa 905-1204,  "Higashi Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.1533813,26.6313772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ 熱帯ドリームセンター 遠見台からの眺め / Live camera tropical dream center View from Toumidai</name>
+        <description>〒905-0206 沖縄県国頭郡本部町石川４２４　海洋博公園 / Ocean Expo Park, 424 Ishikawa, Motobu-cho, Kunigami-gun, Okinawa-ken 905-0206</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8785757,26.6911141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】センチュリオンホテル前ライブカメラ / Centurion Hotel Live Camera</name>
+        <description>〒905-0206 沖縄県国頭郡本部町石川９３８　センチュリオンホテルリゾートヴィンテージ沖縄美ら海 / Centurion Hotel Resort Vintage Okinawa Churaumi, 938 Ishikawa, Motobe-cho, Kunigami-gun, Okinawa-ken 905-0206</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.879576,26.694895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カフェチャハヤブランライブカメラ / Cafe Chahaya Blanc Live Camera</name>
+        <description><![CDATA[〒905-0207 沖縄県国頭郡本部町字備瀬４２９−１ カフェ チャハヤブラン/ Cafe Chahaya Blanc, 429-1 Bise, Motobu-cho, Kunigami-gun, Okinawa 905-0207<br>https://livecamera.fujiyamasan.com/motobu-bise-chayabulan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8798787,26.7021242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真栄田岬ライブカメラ / Maeda Cape Live Camera</name>
+        <description>〒904-0417 沖縄県国頭郡恩納村真栄田４６９−１　真栄田岬 / Maeda Cape, 469 Maeda, Onna-son, Kunigami-gun, Okinawa 904-0417</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7720157,26.4433378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琉球村ライブカメラ / Ryukyumura live camera</name>
+        <description>〒904-0416 沖縄県国頭郡恩納村字山田１１３０　琉球村 / Ryukyu Village, 1130 Yamada, Onna Village, Kunigami District, Okinawa Prefecture 904-0416</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.775259,26.429469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊江島城山ライブカメラ / Iejima Shiroyama Live Camera</name>
+        <description><![CDATA[〒905-0501 沖縄県国頭郡伊江村字東江上 城山 「伊江村役場」/ Higashieue Shiroyama, Ie Village, Kunigami District, Okinawa 905-0501 "Ie Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8072118,26.7197814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊江村ライブカメラ / Ie Village Live Camera</name>
+        <description>〒905-0502 沖縄県国頭郡伊江村東江前３８　伊江村役場 / Ie Village Hall, 38 Higashiemae, Ie-son, Kunigami-gun, Okinawa-ken 905-0502</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8070171,26.7134905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊江港ターミナルライブカメラ / Ie Port Terminal Live Camera</name>
+        <description><![CDATA[〒905-0503 沖縄県国頭郡伊江村字川平 伊江港ターミナル 「伊江村役場」/  Ie Port Terminal, Kawahira, Ie Village, Kunigami District, Okinawa Prefecture 〒905-0503, "Ie Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8013301,26.7077527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本部港伊江島フェリーライブカメラ / Motobu Port Iejima Ferry Live Camera</name>
+        <description><![CDATA[〒905-0225 沖縄県国頭郡本部町字崎本部５２３２ 「伊江村役場」/ 5232 Sakimotobu, Motobu-cho, Kunigami-gun, Okinawa 905-0225 "Ie Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.8799634,26.6405598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣空港国内線フライトインフォメーションライブカメラ / Ishigaki Airport Domestic Flight Information Live Camera</name>
+        <description><![CDATA[〒907-0242 沖縄県石垣市字白保 石垣空港 「石垣空港ターミナル」/ Ishigaki Airport, Shiraho,   Ishigaki City, Okinawa Prefecture 907-0242,    "Ishigaki Airport Terminal"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.246601,24.391259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣島・玉取崎 / Ishigakijima Tamatorizaki</name>
+        <description>沖縄県石垣市伊原間 玉取崎展望台 (インターネット自然研究所) / Tamatorizaki Observatory, Imahara, Ishigaki City, Okinawa (Internet Nature Information System)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.282204,24.508354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣島・川平湾 / Kabira Bay, Ishigakijima (Island)</name>
+        <description>沖縄県石垣市川平 川平湾 (インターネット自然研究所) / Kabira Bay, Kabira, Ishigaki City, Okinawa (Internet Nature Information System)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.142547,24.460979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琉球観音崎灯台 / Ryukyu Kannonzaki Lighthouse</name>
+        <description>沖縄県石垣市新川 石垣海上保安部 / Ishigaki Coast Guard, Shinkawa, Ishigaki City, Okinawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.111562,24.365863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米原海岸（ビーチ）ライブカメラ / Yonehara Coast (Beach) Live Camera</name>
+        <description><![CDATA[〒907-0451 沖縄県石垣市桴海 「八重山ハザードマップ」 / Fukai, Ishigaki-shi, Okinawa 907-0451 "Yaeyama Hazard Map"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.1859679,24.4530334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古島ライブカメラ 東平安名崎（海宝館） / Miyakojima Island Live Camera - Higashihennazaki (Haibao Hall)</name>
+        <description><![CDATA[〒906-0101 沖縄県宮古島市城辺保良５９１−１　宮古島海宝館　「宮古テレビ株式会社」 / Miyakojima Kaihoukan, 591-1 Gusukubebora, Miyakojima-shi, Okinawa 906-0101 "Miyako Television Co., Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.4294199,24.7300074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平安名崎灯台ライブカメラ / Heian Nazaki Lighthouse Live Camera</name>
+        <description><![CDATA[〒906-0000 沖縄県宮古島市城辺保良１２２１−１４ 平安名崎灯台 「海上保安庁」/ Heian Nazaki Lighthouse, 1221-14 Gusukube Bora, Miyakojima City, Okinawa Prefecture 906-0000 <br>"Japan Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.4684152,24.7196139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古島ライブカメラ（来間大橋）/ Miyakojima Island Live Camera (Kurima Ohashi Bridge)</name>
+        <description><![CDATA[〒906-0305 沖縄県宮古島市下地与那覇１３８８−５ 宮古島皆愛マンション 「宮古テレビ株式会社」 / Miyakojima-minaai-manshon, 1388-5 Shimojiyonaha, Miyakojima-shi, Okinawa 906-0305, "Miyako TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.27274,24.730862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OTV宮古島パイナガマビーチライブカメラ / OTV Miyakojima Painagama Beach Live Camera</name>
+        <description><![CDATA[〒906-0013 沖縄県宮古島市平良下里１０８−７ ホテルアトールエメラルド宮古島 「OTV沖縄テレビ」/ Hotel Atoll Emerald Miyakojima, 108-7 Hirarashitato, Miyakojima City, Okinawa 906-0013, Japan, "OTV Okinawa TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.2746876,24.8054373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古島ライブカメラ</name>
+        <description><![CDATA[沖縄県宮古島市平良西里１８６<br>宮古島市役所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.281048,24.805591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古島エメラルドコーストゴルフリンクスライブカメラ / Miyakojima Emerald Coast Golf Links Live Camera</name>
+        <description>〒906-0305 沖縄県宮古島市下地与那覇１５９１−１ エメラルドコーストゴルフリンクス / Emerald Coast Golf Links, Miyakojima City, Okinawa Prefecture 1591-1 Shimoda Yonaha 901-0305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.2819039,24.727292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古島与那覇前浜ビーチライブカメラ / Miyakojima Yonaha Maehama Beach Live Camera</name>
+        <description><![CDATA[〒906-0000 沖縄県宮古島市下地来間 竜宮城展望台 「宮古テレビ」/ Ryugujo Observatory,  Shimojikurima, Miyakojima City, Okinawa Prefecture 906-0000, "Miyako TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            125.2516393,24.7260129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣島離島桟橋ライブカメラ / Ishigakijima Pier Live Camera</name>
+        <description><![CDATA[沖縄県石垣市美崎町 「石垣島WEB観光」 / Misaki-cho, Ishigaki City, Okinawa, "Ishigakijima WEB Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.155706,24.33717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹富島・西桟橋 / Taketomi Island, Nishisanbashi</name>
+        <description>沖縄県八重山郡竹富町竹富 (インターネット自然研究所) / Taketomi, Taketomi-cho, Yaeyama-gun, Okinawa (Internet Nature Information System)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.094181,24.335112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[西表島「仲間川ライブカメラ」/ Iriomotejima Island "Nakama River Live Camera"]]></name>
+        <description>〒907-1433 沖縄県八重山郡竹富町南風見仲３６−５　竹盛旅館 / Takemori-Inn, 36-5 Haiminaka, Taketomi-cho, Yaeyama-gun, Okinawa 907-1433</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            123.8798852,24.2833943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西表島のマングローブ / Mangrove of Iriomote Island</name>
+        <description>沖縄県八重山郡竹富町西表 (インターネット自然研究所) / Nishiomote, Taketomi-cho, Yaeyama-gun, Okinawa (Internet Nature Information System)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            123.74691,24.389863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣島ライブカメラ</name>
+        <description>前勢岳から石垣市街を望む　やいまタイム</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.1393716,24.373135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石垣島ライブ</name>
+        <description>やえやまファームライブ画面　アークシステム(株)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            124.1099829,24.4396394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西埼灯台からの映像 / Nishizaki Lighthouse</name>
+        <description><![CDATA[西埼灯台　海上保安庁「海の安全情報（沿岸域情報提供システム）」/ Nishizaki Lighthouse, Ishigaki Coast Guard, Yonaguni, Yonaguni-cho, Yaeyama-gun, Okinawa 907-1801, "Maritime Information and Communication System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            122.9342775,24.4500009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>普天間基地ライブカメラ / Futenma base live camera</name>
+        <description><![CDATA[沖縄県宜野湾市嘉数1丁目5 嘉数高台公園「宜野湾市役所」/  Kakazutakadai Park, 1-5 Kakazu, Ginowan City, Okinawa Prefecture, "Ginowan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.7369947,26.2587298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちんあな津堅島ライブカメラ / Chinana Tsukenjima Live Camera</name>
+        <description><![CDATA[〒904-2317 沖縄県うるま市勝連津堅 「	ちんあなゴルフ」/ "Chinaana Golf" Katsurentsuken, Uruma City, Okinawa 904-2317, Japan]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.9440243,26.2543708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モトブテラスライブカメラ / Motobu Terrace Live Camera</name>
+        <description>〒905-0228 沖縄県国頭郡本部町字伊野波１５０−１８ モトブテラス / Motobu Terrace, 150-18 Inoha, Motobu Town, Kunigami District, Okinawa Prefecture 905-0228</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.9083208,26.6531639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

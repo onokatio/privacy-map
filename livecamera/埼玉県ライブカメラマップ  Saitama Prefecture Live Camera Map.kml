@@ -1,0 +1,3484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>埼玉県ライブカメラマップ / Saitama Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>埼玉県内ライブカメラ</name>
+      <Placemark>
+        <name>河川ライブ映像 / River Live Video</name>
+        <description>〒349-1101 埼玉県久喜市栗橋北２丁目１９−１ 国土交通省利根川上流河川事務所 / Tonegawa Upperstream River Office, 2-19-1 Kurihashikita, Kuki-shi, Saitama 349-1101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6994877,36.1438011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊谷市内ライブカメラ / Kumagaya City Live Camera</name>
+        <description><![CDATA[〒360-0045 埼玉県熊谷市宮前町２丁目５１ 熊谷ロイヤルホテルすずき 「ウェザーニュース」 / Kumagaya Royal Hotel Suzuki, 2-51 Miyamae-cho, Kumagaya-shi, Saitama 360-0045, "Weather News"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3873478,36.1398333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東松山カントリークラブ / Higashimatsuyama Country Club</name>
+        <description><![CDATA[〒355-0008 埼玉県東松山市大字大谷1111　東松山カントリークラブ / Higashimatsuyama Country Club, 1111 Otani, Higashimatsuyama-shi, Saitama-ken 355-0008<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.38267,36.069429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道254号ライブカメラ / National Highway Route 254 Live Camera</name>
+        <description><![CDATA[〒369-1216 埼玉県大里郡寄居町富田２８６６−１ 東和不動産(株) / Towa Real Estate Co., Ltd., 2866-1 Tomita, Yorii-cho, Osato-gun, Saitama 369-1216<br>https://livecamera.fujiyamasan.com/saitama-yorii-tomida-r254.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2305728,36.1072178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙元山ライブカメラ / Sengenyama Live Camera</name>
+        <description><![CDATA[埼玉県比企郡小川町 ROUTE254 / Ogawa-cho, Hiki-gun, Saitama<br>https://livecamera.fujiyamasan.com/saitama-ogawa-sengenyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.261837,36.056663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>悠う湯ホームライブカメラ / Yuyu Home Live Camera</name>
+        <description><![CDATA[〒369-1625 埼玉県秩父郡皆野町下日野沢３９０６−３ 悠う湯ホーム 「社会福祉法人みなの福祉会」/ Yuyu Home, 3906-3 Shimohinozawa, Minano-machi, Chichibu-gun, Saitama-ken 369-1625, "Minano fukushikai Social Welfare Corporation"<br>https://livecamera.fujiyamasan.com/saitama-minano-shimohinozawa-yuyuhome.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.070671,36.081829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝登山ロープウェイライブカメラ / Hodosan Ropeway Live Camera</name>
+        <description><![CDATA[〒369-1305 埼玉県秩父郡長瀞町長瀞１７６６ 宝登山ロープウェイ / Hodosan Ropeway, 1766 Nagatoro, Nagatoro-machi, Chichibu-gun, Saitama-ken 369-105<br>https://livecamera.fujiyamasan.com/nagatoro-takaratozan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.102314,36.091087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堂平ライブカメラ / Dodaira Live Camera</name>
+        <description><![CDATA[〒355-0366 埼玉県比企郡 ときがわ町大野勝負平1251-18 堂平スカイパークパラグライダースクール / Ddaira Sky Park Paraglider School, 1251-18 Onoshobudaira, Tokigawa-cho, Hiki-gun, Saitama 355-0366<br>https://livecamera.fujiyamasan.com/saitama-tokigawa-dodaira-sky-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1855796,35.9946546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堂平天文台ライブカメラ / Dodaira Observatory Live Camera</name>
+        <description><![CDATA[〒355-0366 埼玉県比企郡ときがわ町大野１８５３ 堂平天文台 / Dodaira Observatory, 1853 Ono, Tokigawa-cho, Hiki-gun, Saitama-ken 355-0366<br>https://livecamera.fujiyamasan.com/saitama-tokigawa-dodaira-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1903947,36.0060727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秩父市・武甲山ライブカメラ / Chichibu City and Mt. Buko Live Camera</name>
+        <description>〒368-0032 埼玉県秩父市熊木町８−１５ 秩父市役所 / Chichibu City Hall, 8-15  Kumagi-machi, Chichibu-shi, Saitama 368-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0854444,35.9917666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武秩父駅前ライブカメラ / Seibu chichibu Station Live Camera</name>
+        <description><![CDATA[〒368-0033 埼玉県秩父市野坂町１丁目１６−１５ 秩父観光協会 / Chichibu Tourist Association, 1-16-15 Nosaka-machi, Chichibu-shi, Saitama-ken 368-0033<br>https://livecamera.fujiyamasan.com/chichibueki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0837712,35.9892958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秩父雲海カメラ / Chichibu Sea of Clouds Live Camera</name>
+        <description><![CDATA[〒368-0056 埼玉県秩父市小鹿野町長留２５１８ 秩父ミューズパーク展望台 「秩父観光ガイド」/ Chichibu Muse Park Observatory, 2518 Nagaru, Ogano, Chichibu-shi, Saitama-ken 368-0056, "Chichibu Visitor's Guide"<br>https://livecamera.fujiyamasan.com/chichibu-sea-of-clouds.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0620795,36.0006353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浦山ダム・滝沢ダムライブ画像 / Urayama Dam and Takizawa Dam Live Camera</name>
+        <description><![CDATA[〒369-1801 埼玉県秩父市荒川久那４０４１ 荒川ダム総合管理所 / Arakawa Dam General Administration Office, 4041 Arakawakuna, Chichibu-shi, Saitama-ken 369-1801<br>https://livecamera.fujiyamasan.com/saitama-chichibu-urayama-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0542032,35.9524686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二瀬ダムライブカメラ / Futase Dam Live Camera</name>
+        <description>〒369-1901 埼玉県秩父市大滝３８７５−１ 二瀬ダム管理所 / Futase Dam Control Office, 3875-1 Otaki, Chichibu-shi, Saitama 369-1901</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9092665,35.94247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号路面監視カメラ / National Highway Route 140 Road Surveillance Camera</name>
+        <description>埼玉県秩父市大滝 山梨方面(雁坂トンネル) 県土整備部 / Otaki, Chichibu-shi, Saitama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.827448,35.923115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やまた園芸 / Yamata Horticulture</name>
+        <description>〒339-0073 埼玉県さいたま市岩槻区上野361-1 やまた園芸 / Yamata Engei (Horticulture), 361-1 Ueno, Iwatsuki-ku, Saitama-shi, Saitama 339-0073</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7024544,35.9687811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KBSLIVE24 - かすかべライブカメラ / Kasukabe Live Camera</name>
+        <description>埼玉県春日部市中央１丁目 中央第七公園交差点 / Chuo Dishichi Intersection, 1-chome, Chuo, Kasukabe-shi, Saitama-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7496853,35.9798847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さいたま水上公園プール南側・北側・駐車場の様子</name>
+        <description>〒362-0032 埼玉 県 上尾 市 日の出 ２ 丁目 ８−６−２６　さいたま水上公園</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6074473,35.9690795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝川鎌倉橋河川監視カメラ / Shibakawa Kamakura Bridge River Surveillance Camera</name>
+        <description>〒362-0014 埼玉県上尾市本町３丁目１−１　上尾市役所 / Ageo City Hall, 3-1-1 Hon-cho, Ageo-shi, Saitama-ken 362-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.593203,35.977411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クレアモールライブカメラ / Claire Mall Live Camera</name>
+        <description>埼玉県川越市新富町 クレアモール川越新富町商店街振興組合 / Claire mall Kawagoe Shintomicho shopping street promotion association, Shintomi-cho, Kawagoe-shi, Saitama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4832372,35.9126885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川上流河川ライブ映像 / Arakawa upstream rivers live video</name>
+        <description>〒350-1124 埼玉県川越市新宿町３丁目１２ 荒川上流河川事務所 / Arakawa upstream River Office, 3-12 Shinjuku-cho, Kawagoe-shi, Saitama 350-1124</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4824541,35.8981283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[きょうの東京ゴルフ倶楽部 / Today's Tokyo Golf Club]]></name>
+        <description>〒350-1335 埼玉県狭山市柏原１９８４　東京ゴルフ倶楽部 / Tokyo Golf Club, 1984 Kashiwabara, Sayama-shi, Saitama-ken 350-15</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.406806,35.895983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間市内のライブカメラ / Iruma City Live Cameras</name>
+        <description>〒358-0021 埼玉県入間市高倉５丁目１７−２７　入間ケーブルテレビ（株）/ Iruma Cable Television Co., Ltd., 5-17-27 Takakura, Iruma-shi, Saitama-ken 358-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3773838,35.8338153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋ヶ瀬管理所ライブ映像 / Akigase management office live video</name>
+        <description><![CDATA[〒353-0003 埼玉県志木市下宗岡３丁目２０−１２ 水資源機構（独立行政法人） 利根導水総合事業所秋ヶ瀬管理所 / Water Agency (Independent Administrative Institution) Tone headrace comprehensive office Akigase management office, 3-20-12 Shimomuneoka, Shiki-shi, Saitama 353-0003<br>https://livecamera.fujiyamasan.com/saitama-shiki-shimomuneoka-akigase.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6005465,35.835715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越谷ライブカメラ / Koshigaya Live Camera</name>
+        <description>〒343-0845 埼玉県越谷市南越谷１丁目２２−１ ホテル・サンオーク 「ウェザーニュース」 / Hotel Sunoak, 1-22-1 Minamikoshigaya, Koshigaya-shi, Saitama 343-0845</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.792786,35.876463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>店舗ライブカメラ / Store Live Camera</name>
+        <description>〒340-0801 埼玉県八潮市八條１５０６ 星オートセンターネオ八潮北店 / Yashiokita Store, Hoshi Auto Center, 1506 Hachijo, Yashio-shi, Saitama 340-0801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8382867,35.8475555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>店舗ライブ映像 / Store Live Video</name>
+        <description>〒340-0046 埼玉県草加市北谷１丁目２６−３６ 星オートセンター ネオジャンボ草加店 / Neojumbo Soka Store, Hoshi Auto Center, 1-26-36 Kitaya, Soka-shi, Saitama 340-0046</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7872029,35.8431943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きらり川口ゆめまっぷ / Kirari Kawaguchi Yume Map</name>
+        <description>〒332-0031 埼玉県川口市青木２丁目１−１ 川口市役所 / Kawaguchi City Hall, 2-1-1 Aoki, Kawaguchi-shi, Saitama 332-0031</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7241805,35.8077865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緑川 喜沢橋ライブカメラ / Midori River Kizawa Bridge Live Camera</name>
+        <description><![CDATA[〒335-0013 埼玉県戸田市喜沢２丁目４２−２　「河川監視カメラ」 / 2-42-2 Kizawa, Tozawa-shi, Saitama 335-0013, "River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-toda-midorikawa-kizawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6981519,35.8070943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菖蒲川下前谷橋ライブカメラ / Shobu River Shimomaeya Bridge Live Camera</name>
+        <description><![CDATA[〒335-0025 埼玉県戸田市南町１０−２２ 「戸田市役所危機管理防災課」 / 10-22 Minami-machi, Toda-shi, Saitama 335-0025, "Toda City Hall Crisis Management and Disaster Prevention Division"<br>https://livecamera.fujiyamasan.com/saitama-toda-minami-shobu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6709329,35.8062024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸田市役所ライブカメラ / Toda City Hall Live Camera</name>
+        <description><![CDATA[〒335-0022 埼玉県戸田市上戸田１−１８−１ 戸田市役所 / Toda City Hall, 1-18-1 Kamitoda, Toda-shi, Saitama 335-0022<br>https://livecamera.fujiyamasan.com/saitama-toda-kamitoda.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.677923,35.817657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸田市消防本部ライブカメラ / Toda City Fire Department Headquarters</name>
+        <description><![CDATA[〒335-0021 埼玉県戸田市新曽１８７５−１ 戸田市消防本部 「戸田市役所」 / Toda City Fire Department Headquarters, 1875-1 Nizo, Toda-shi, Saitama 335-0021<br>https://livecamera.fujiyamasan.com/saitama-toda-niizo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.662023,35.816421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彩湖ライブカメラ / Lake Saiko Live Camera</name>
+        <description><![CDATA[〒335-0000 埼玉県戸田市 内谷 彩湖 「戸田市役所」 / Lake Saiko, Uchiya, Toda-shi, Saitama 335-0000, "Toda City Hall"<br>https://livecamera.fujiyamasan.com/saitama-toda-saiko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.634171,35.817952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和光市清掃センター / Wako City Cleaning Center</name>
+        <description>埼玉県和光市下新倉６丁目１７ 和光市清掃センター 「和光市防災カメラ」 / Wako City Cleaning Center, 6-17 Shimoniikura, Wako-shi, Saitama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.632711,35.801386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川第１排水区野川ポンプ場 / Shirako River first drainage District Nogawa pump station</name>
+        <description>〒351-0101 埼玉県和光市白子４丁目７−１８ 白子川第１排水区野川ポンプ場 / Shirako River first drainage District Nogawa pump station, 4-7-18 Shirako, Wako-shi, Saitama 351-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6401009,35.7957169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和光市役所 中央公民館 / Wako City Hall Central Community Center</name>
+        <description><![CDATA[〒351-0113 埼玉県和光市中央１丁目７−２７ 中央公民館 「和光市防災カメラ」 / Central Community Center, 1-7-27 Chuo, Wako-shi, Saitama 351-0113, "Wako City Disaster Prevention Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6108866,35.7832714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和光市防災カメラ / Wako City Disaster Prevention Camera</name>
+        <description>〒351-0106 埼玉県和光市広沢１−５ 和光市役所 / Wako City Hall, 1-5 Hirosawa, Wako-shi, Saitama 351-0106</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.605761,35.781266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[茶房こだまからの撮影(Hole.13) / Shooting from tea room Kodama "Hole 13"]]></name>
+        <description>〒367-0203 埼玉県本庄市児玉町入浅見1060　こだまゴルフクラブ / Kodama Golf Club, 1060 Iriazami, Kodama-cho, Honjo-shi, Saitama-ken 367-0203</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1454133,36.1979538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号カメラ（静止画） / National Route 298 Live Camera</name>
+        <description>〒340-0044 埼玉県草加市花栗３丁目２４−１５ 国土交通省 関東地方整備局 北首都国道事務所 / Ministry of Land, Infrastructure and Transport Kanto Regional Development Bureau Kitashuto Highway Office, 3-24-15 Hanaguri, Soka-shi, Saitama-ken 340-0044</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.786862,35.838588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元小山川湧泉橋観測局ライブカメラ / Motokoyama River Izumibashi Observatory Live Camera</name>
+        <description><![CDATA[〒367-0061 埼玉県本庄市小島「埼玉県川の防災情報」/ Ojima, Honjo City, Saitama Prefecture 367-0061 "Saitama Prefecture River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/honjo-yusenbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1714529,36.2508564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川行幸観測局ライブカメラ / Yukiyuki Nakagawa Observatory Live Camera</name>
+        <description><![CDATA[〒340-0102 埼玉県幸手市高須賀「埼玉県川の防災情報」/ Takasuka, Satte City, Saitama Prefecture 340-0102 "Saitama Prefecture River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/satte-takasuka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7179454,36.0959236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉大学教育学部附属小学校ライブカメラ / Saitama University Faculty of Education Elementary School Live Camera</name>
+        <description><![CDATA[〒330-0061 埼玉県さいたま市浦和区常盤６丁目９−４４ 国立埼玉大学教育学部附属小学校 「内田洋行」/ National Saitama University Faculty of Education Elementary School, 6-9-44 Tokiwa, Urawa-ku, Saitama-shi, Saitama 330-0061, "Uchida Yoko"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6428098,35.8619615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さいたま市議会ライブカメラ / Saitama City Council Live Camera</name>
+        <description><![CDATA[〒330-0061 埼玉県さいたま市浦和区常盤６丁目４−４ さいたま市役所 /  Saitama City Office, 6-4-4 Tokiwa, Urawa-ku, Saitama-shi, Saitama Prefecture 330-0061<br>https://livecamera.fujiyamasan.com/saitama-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6457273,35.8623011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川治水橋ライブカメラ / Arakawa River Chisui Bridge Live Camera</name>
+        <description><![CDATA[〒331-0068 埼玉県さいたま市西区飯田新田 「荒川上流河川事務所」 / Iidashinden, Nishi-ku, Saitama-shi, Saitama Prefectue 331-0068, "Arakawa upstream river office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5620222,35.8909964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川41.9KP右岸ライブカメラ / Arakawa 41.9kp right bank Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市西区飯田新田 「国土交通省川の防災情報」/ Iida Shinden, Nishi-ku, Saitama City, Saitama Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-nishi-arakawa-river-41-9kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5600613,35.8901251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>びん沼川びん沼船渡下観測局ライブカメラ / Binnuma River Binnuma Funatashita Observatory Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市西区飯田新田「埼玉県河川監視カメラ」/ Iida Shinden, Nishi-ku, Saitama City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-nishi-binnuma-river-funatoshita.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5524534,35.8835977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴻沼川十五条橋観測所ライブカメラ / Kounuma River Jugojobashi Observatory Live Camera</name>
+        <description><![CDATA[〒331-0825 埼玉県さいたま市北区櫛引町２丁目「埼玉県 河川監視カメラ」/ 2-chome, Kushihiki-cho, Kita-ku, Saitama-shi, Saitama 331-0825, "Saitama-ken river surveillance camera"<br>https://livecamera.fujiyamasan.com/saitma-kita-kounuma-jugojobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6082375,35.9191007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川日進上観測所ライブカメラ / Kamogawa Nisshinkami Observatory Live Camera</name>
+        <description><![CDATA[〒331-0823 埼玉県さいたま市北区日進町２丁目　日進上水位観測所 「埼玉県河川監視カメラ」/ Nisshin Water Level Observatory, 2-chome, Nisshin-cho, Kita-ku, Saitama-shi, Saitama 331-0823,  "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kita-kamo-river-nisshinkami.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5991249,35.928479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JRさいたま新都心駅ライブカメラ / JR Saitama Shintoshin Station Live Camera</name>
+        <description><![CDATA[〒330-0835 埼玉県さいたま市大宮区北袋町 「くまくまくまチャンネル」/ Kitabukuro-cho, Omiya-ku, Saitama City, Saitama Prefecture 330-0835, "Kumakumakuma Channel"<br>https://livecamera.fujiyamasan.com/saitama-omiya-jr-saitama-shintoshin-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6413835,35.8936151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FLAT大宮店大門町中央通りライブカメラ / FLAT Omiya store Daimoncho Chuo-dori live camera</name>
+        <description><![CDATA[〒330-0846 埼玉県さいたま市大宮区大門町３丁目２２−３ オリオンビル 3F　iPhone修理のFLAT大宮店 / iPhone repair FLAT Omiya store, Orion Building 3F, 3-22-3 Daimon-cho, Omiya-ku, Saitama-shi, Saitama 330-0846<br>https://livecamera.fujiyamasan.com/saitama-omiya-daimon-flat-omiya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6292725,35.9069693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号三橋二丁目ライブカメラ / National Highway No. 17 Mihashi 2-chome Live Camera</name>
+        <description><![CDATA[〒330-0856 埼玉県さいたま市大宮区三橋２丁目「大宮国道事務所」/ 2-chome, Mihashi, Omiya-ku, Saitama-shi, Saitama 330-0856,  "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-omiya-mihashi-r17.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6009725,35.8995246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴻沼川鴻沼41条橋観測局ライブカメラ / Konuma River Konuma 41 Jobashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市大宮区桜木町４丁目「埼玉県河川監視カメラ」/ 4-chome, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama "Saitama-ken river surveillance camera"<br>https://livecamera.fujiyamasan.com/saitama-omiya-kounuma-41jobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6196709,35.8987228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴻沼川鴻沼川神明橋観測局ライブカメラ / Kounuma River Kounuma River Shinmei Bridge Observatory Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市大宮区櫛引町1丁目 「埼玉県河川監視カメラ」/ 1-chome, Kushihiki-cho, Omiya-ku, Saitama-shi, Saitama "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-omiya-kounuma-river-shinmeibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6108494,35.9096198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号浦和西地下道上り第9ライブカメラ / National Highway No. 17 Urawa Nishi Underpass Up 9th Live Camera</name>
+        <description><![CDATA[〒338-0014 埼玉県さいたま市中央区上峰 「大宮国道事務所」/ Uemine, Chuo-ku, Saitama City, Saitama Prefecture 338-0014, "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-chuo-r17-urawanishi-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6184342,35.8751998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さいたまスーパーアリーナけやきひろばライブカメラ / Saitama Super Arena Keyaki Hiroba Live Camera</name>
+        <description><![CDATA[〒330-0081 埼玉県さいたま市中央区新都心１０　けやきひろば 「さいたまアリーナ」/ Keyaki Hiroba, 10 Shintoshin, Chuo-ku, Saitama City, Saitama Prefecture 330-0081, "Saitama Arena"<br>https://livecamera.fujiyamasan.com/saitama-chuo-super-arena-keyakihiroba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6311445,35.8932845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴻沼川下落合観測局ライブカメラ / Konuma River Shimoochiai Observatory Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市中央区下落合6丁目 「埼玉県河川監視カメラ」/ 6-chome, Shimoochiai, Chuo-ku, Saitama-shi, Saitama "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-chuo-kounuma-river-shimoochiai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6262187,35.8829161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号浦和西地下道下り第13ライブカメラ / National Highway No. 17 Urawa Nishi Underpass Downhill 13th Live Camera</name>
+        <description><![CDATA[〒338-0823 埼玉県さいたま市桜区栄和 「大宮国道事務所」/ Sakawa, Sakura-ku, Saitama-shi, Saitama 338-0823 "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-sakura-r17-urawanishi-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6158849,35.8650202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号田島地下道上り第12ライブカメラ / National Highway No. 17 Tajima Underpass Up 12th Live Camera</name>
+        <description><![CDATA[〒338-0837 埼玉県さいたま市桜区田島「大宮国道事務所」/ Tajima, Sakura-ku, Saitama-shi, Saitama 338-0837 "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-sakura-r17-tajima-underpass-12.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6273579,35.8433399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川第一調節池越流提ライブカメラ / Arakawa Daiichi Retention Pond Etsuryutei Live Camera </name>
+        <description><![CDATA[〒338-0824 埼玉県さいたま市桜区上大久保 「荒川上流河川事務所」/ Kamiokubo, Sakura-ku, Saitama-shi, Saitama 338-0824 "Arakawa upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-sakura-arakawa-etsuryutei.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5924187,35.8538326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川鴨川排水機場ライブカメラ / Kamogawa Kamogawa drainage pump station live camera</name>
+        <description><![CDATA[〒338-0825 埼玉県さいたま市桜区下大久保１３８６　鴨川排水機場 「埼玉県河川監視カメラ」/ Kamogawa Drainage Pump Station, 1386 Shimookubo, Sakura-ku, Saitama City, Saitama Prefecture 338-0825  "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-sakura-kamogawa-drainage-pump-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6046133,35.8565714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉大学教育学部天文学研究室ライブカメラ / Saitama University Faculty of Education Astronomy Laboratory Live Camera</name>
+        <description><![CDATA[〒338-0825 埼玉県さいたま市桜区下大久保２５５　埼玉大学教育学部天文学研究室 / Saitama University Faculty of Education, Astronomy Laboratory, 255 Shimookubo, Sakura-ku, Saitama-shi, Saitama 338-0825<br>https://livecamera.fujiyamasan.com/saitama-sakura-saitama-university.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6068791,35.8632632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号内谷二丁目交差点ライブカメラ / National highway No. 17 Uchiya 2-chome intersection live camera</name>
+        <description><![CDATA[埼玉県さいたま市南区内谷2丁目 「大宮国道事務所」/ 2-chome, Uchiya, Minami-ku, Saitama-shi, Saitama "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-minami-r17-uchiya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6335004,35.8327597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号JR東北線跨線橋外回りライブカメラ / National highway No. 298 JR Tohoku line overpass live camera</name>
+        <description><![CDATA[〒336-0025 埼玉県さいたま市南区文蔵３丁目「北首都国道事務所」/ 3-chome, Buzo, Minami-ku, Saitama City, Saitama Prefecture 336-0025<br>"Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-minami-r298-jrtohoku-kosenkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6745481,35.8383344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号辻地下道内回りライブカメラ / National Highway No. 298 Tsuji Underpass Inner Loop Live Camera</name>
+        <description><![CDATA[〒336-0026 埼玉県さいたま市南区辻１丁目「北首都国道事務所」/ 1-chome Tsuji, Minami-ku, Saitama-shi, Saitama 336-0026 "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-minami-r298-tsuji-underpass-inner.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6662552,35.8378546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR武蔵野線東浦和橋ライブカメラ / JR Musashino Line Higashiurawabashi Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市緑区「takasyu18」/ Midori-ku, Saitama City, Saitama Prefecture "takasyu18"<br>https://livecamera.fujiyamasan.com/saitama-midori-higashiurawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6809281,35.880964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝川大道橋観測局ライブカメラ / Shibakawa Daido Bridge Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県さいたま市緑区三浦「埼玉県河川監視カメラ」/ Miura, Midori-ku, Saitama City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-midori-shibakawa-daidobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6654806,35.894858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小江戸川越観光協会ライブカメラ / Koedo Kawagoe Tourism Association Live Camera</name>
+        <description>〒350-0056 埼玉県川越市松江町２丁目1番地８　小江戸川越観光協会 / Koedo Kawagoe Tourism Association, 2-1-8 Matsue-cho, Kawagoe-shi, Saitama 350-0056</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4849768,35.9201764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号西武高架橋上りライブカメラ / National Highway No. 16 Seibu Viaduct Up Live Camera</name>
+        <description><![CDATA[埼玉県川越市脇田新町 「大宮国道事務所」/ Wakitashinmachi, Kawagoe City, Saitama Prefecture "Omiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4742723,35.9049403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芳野台グラウンドライブカメラ / Yoshinodai Ground Live Camera</name>
+        <description><![CDATA[〒350-0833 埼玉県川越市芳野台１丁目　芳野台グラウンド 「川越市役所」/  Yoshinodai Ground, 1-chome, Yoshinodai, Kawagoe City, Saitama Prefecture 350-0833 "Kawagoe City Hall"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-yoshinodai-ground.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5205405,35.9486095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ関カンツリー倶楽部ライブカメラ / Kasumigaseki Country Club Live Camera</name>
+        <description><![CDATA[〒350-1175 埼玉県川越市笠幡３３９８　霞ヶ関カンツリー倶楽部 / Kasumigaseki Country Club, 3398 Kasahata, Kawagoe City, Saitama Prefecture 350-1175<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-kasumigaseki-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4040789,35.9013575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川入間大橋ライブカメラ / Iruma River Iruma Ohashi Live Camera</name>
+        <description><![CDATA[埼玉県川越市中老袋「荒川上流河川事務所」/ Nakaoibukuro, Kawagoe City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-iruma-river-irumaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.53393,35.9433766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川小ケ谷水位観測所ライブカメラ / Iruma River Ogaya Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒350-1104 埼玉県川越市小ケ谷　小ヶ谷水位観測所 「荒川上流河川事務所」/ Ogaya Water Level Observatory, Ogaya, Kawagoe City, Saitama Prefecture 350-1104, "Arakawa upstream river office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4540725,35.9213359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川初雁橋ライブカメラ / Iruma River Hatsukabashi Live Camera</name>
+        <description><![CDATA[〒350-1101 埼玉県川越市的場　桃の井樋管 「荒川上流河川事務所」/ Momoi Hikan,  Matoba, Kawagoe City, Saitama Prefecture 350-1101, "Arakawa upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-iruma-river-hatsukari-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4527506,35.9174327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川菅間水位観測所ライブカメラ / Iruma River Sugama Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒350-0833 埼玉県川越市芳野台 「荒川上流河川事務所」/ Yoshinodai, Kawagoe City, Saitama Prefecture 350-0833 "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-iruma-sugama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5053508,35.9538796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川3.4KP右岸ライブカメラ / Iruma River 3.4KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県川越市中老袋 「国土交通省川の防災情報」/ Nakaoibukuro, Kawagoe City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5335866,35.9433679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川5.8KP右岸ライブカメラ / Iruma River 5.8KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県川越市鹿飼「国土交通省川の防災情報」/ Shishikai, Kawagoe City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5112103,35.9529201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川7.6KP右岸ライブカメラ / Iruma River 7.6KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県川越市菅間 「国土交通省川の防災情報」/ Sugama, Kawagoe City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4919615,35.9546842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川上江橋ライブカメラ / Arakawa Kamikobashi Live Camera</name>
+        <description><![CDATA[〒350-0002 埼玉県川越市古谷本郷 「荒川上流河川事務所」/ Furuyahongo, Kawagoe City, Saitama Prefecture 350-0002 "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-arakawa-kamigobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5445476,35.9047569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川JR川越線鉄橋付近ライブカメラ / Arakawa JR Kawagoe Line Iron Bridge Live Camera </name>
+        <description><![CDATA[〒350-0002 埼玉県川越市古谷本郷 「荒川上流河川事務所」/ Furuyahongo, Kawagoe City, Saitama Prefecture 350-0002 "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-arakawa-jr-kawagoe-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5533259,35.9025551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川43.6KP右岸ライブカメラ / Arakawa 43.6KP right bank live camera</name>
+        <description><![CDATA[埼玉県川越市古谷本郷「国土交通省川の防災情報」/ Furuyahongo, Kawagoe City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5523794,35.9034871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川44.5KP右岸ライブカメラ / Arakawa 44.5KP right bank live camera</name>
+        <description><![CDATA[埼玉県川越市古谷本郷「国土交通省川の防災情報」/ Furuyahongo, Kawagoe City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-arakawa-44_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5436461,35.9085969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川砂観測局ライブカメラ / Shingashi River Sand Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市砂 「埼玉県河川監視カメラ」/ Suna, Kawagoe City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-suna-shingashi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4969674,35.9003406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川養老橋観測局ライブカメラ / Shingashi River Yoro Bridge Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市古市場「埼玉県河川監視カメラ」/ Furuichiba, Kawagoe City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-shingashi-river-yoro-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5241046,35.8858324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川畳橋観測局ライブカメラ / Shingashi River Tatamibashi Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市大仙波「埼玉県河川監視カメラ」/ Osenba, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-shingashi-river-tatamibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4935303,35.9022528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川寺尾調節池外観測局ライブカメラ / Shingashi River Terao Control Pond Outside Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市南田島「埼玉県河川監視カメラ」/ Minamitajima, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-shingashi-river-terao.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5165637,35.8901713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川新河岸川放水路上流観測局ライブカメラ / Shingashi River Shingashi River Floodway Upstream Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市渋井「埼玉県河川監視カメラ」/ Shibui, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-shibui-shingashi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5383665,35.8798243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川新河岸川放水路下流観測局ライブカメラ / Shingashi River Shingashi River Downstream Observatory Live Camera</name>
+        <description><![CDATA[埼玉県川越市渋井「埼玉県河川監視カメラ」/ Shibui, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-shingashi-river-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5394131,35.8791801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九十川新河岸川合流点観測局ライブカメラ / Kujugawa Shingashigawa Confluence Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市南田島「埼玉県河川監視カメラ」/ Minamitajima, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-kuju-shingashi-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5177786,35.8909362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>不老川不老橋観測局ライブカメラ / Furo River Furobashi Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川越市今福「埼玉県河川監視カメラ」/ Imafuku, Kawagoe City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-imafuku-furo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4726998,35.8765773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小畔川八幡橋ライブカメラ / Koaze River Hachimanbashi Live Camera</name>
+        <description><![CDATA[埼玉県川越市小堤「荒川上流河川事務所」/ Kozutsumi, Kawagoe City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-koaze-river-hachiman-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4416453,35.934659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小畔川とげ橋ライブカメラ / Koaze River Togebashi Live Camera</name>
+        <description><![CDATA[〒350-0812 埼玉県川越市下小坂　平塚排水樋管 「荒川上流河川事務所」/ Hiratsuka drainage pipe, Shimoosaka, Kawagoe City, Saitama Prefecture 350-0812  "Arakawa upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-kawagoe-koaza-river-togebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4591438,35.9463288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号川口ジャンクション地下道ライブカメラ / National Highway 298 Kawaguchi Junction Underpass Live Camera</name>
+        <description><![CDATA[〒333-0833 埼玉県川口市西新井宿「北首都国道事務所」/ Nishiaraijuku, Kawaguchi City, Saitama Prefecture 333-0833 "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-nishiarai-r298.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7339345,35.8530509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号安行地下道ライブカメラ / National Highway 298 Angyo Underpass Live Camera</name>
+        <description><![CDATA[埼玉県川口市安行「北首都国道事務所」/　Angyo, Kawaguchi City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-angyo-r298.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7656626,35.8492457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号仲谷津橋地区外回り本線側道ライブカメラ / National highway No. 298 Nakatanitsubashi district outer loop main line side road live camera</name>
+        <description><![CDATA[埼玉県川口市神戸「北首都国道事務所」/ Godo, Kawaguchi City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-r298-nakayatsubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7246015,35.8516494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号雀田地区外回り本線側道ライブカメラ / National highway No. 298 Suzumeda district outer loop main line side road live camera</name>
+        <description><![CDATA[〒333-0835 埼玉県川口市道合「北首都国道事務所」/ Michiai, Kawaguchi City, Saitama Prefecture 333-0835, "Northern Capital National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7210514,35.8507577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号神根地下道ライブカメラ / National Highway 298 Kamine Underpass Live Camera</name>
+        <description><![CDATA[〒333-0835 埼玉県川口市道合「北首都国道事務所」/ Michiai, Kawaguchi City, Saitama Prefecture 333-0835, "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-298-kamine-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7133591,35.8489389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号芝地下道内回り・外回りライブカメラ / National Highway No. 298 Shiba Underpass Inner Loop / Outer Loop Live Camera</name>
+        <description><![CDATA[埼玉県川口市芝「北首都国道事務所」/ Shiba, Kawaguchi City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-r298-shiba-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6898715,35.8442679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号JR東北線跨線橋内回りライブカメラ / National Highway 298 JR Tohoku Line Overpass Bridge Inner Loop Live Camera</name>
+        <description><![CDATA[〒333-0856 埼玉県川口市芝塚原１丁目「北首都国道事務所」/ 1-chome, Shibatsukabara, Kawaguchi City, Saitama Prefecture 333-0856 "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-r298-jr-tohoku-kosenkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6815661,35.8371546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川新荒川大橋ライブカメラ / Arakawa Shinarakawa Ohashi Live Camera</name>
+        <description><![CDATA[〒332-0013 埼玉県川口市舟戸町 国道122号　新荒川大橋 「荒川下流河川事務所」/ Shinarakawa Bridge, National Highway No. 122, Funato-cho, Kawaguchi City, Saitama Prefecture 332-0013, "Arakawa downstream river office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-arakawa-shinarakawaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7239069,35.7892781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝川八丁橋観測局ライブカメラ / Shibakawa Hatchobashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県川口市木曽呂「荒川下流河川事務所」/ Kizoro, Kawaguchi City, Saitama Prefecture "Arakawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-sibakawa-hacchobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7140037,35.8619942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新芝川青木水門ライブカメラ / Shin Shiba River Aoki Suimon Live Camera</name>
+        <description><![CDATA[〒334-0004 埼玉県川口市辻４７９−２ 青木水門管理所 「埼玉県河川監視カメラ」/ Aoki Water Gate Management Office, 479-2 Tsuji, Kawaguchi City, Saitama Prefecture 334-0004  "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-shinshibakawa-aokisuimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7276922,35.8212078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新芝川領家新芝川観測局ライブカメラ / Shinshiba River Ryoke Shin Shiba River Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県川口市領家5丁目「埼玉県河川監視カメラ」/ 5-chome, Ryoke, Kawaguchi City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-ryouke-shinsibakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.746642,35.7854217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛長川毛長川舎人観測局ライブカメラ / Kenaga River Toneri Observatory Live Camera</name>
+        <description><![CDATA[〒332-0004 埼玉県川口市領家５丁目「埼玉県河川監視カメラ」/ 5-chome, Ryoke, Kawaguchi City, Saitama Prefecture 332-0004 "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawaguchi-kenaga-river-toneri.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7428494,35.787345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川松戸橋観測局ライブカメラ / Yanasegawa Matsudo Bridge Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市上安松「埼玉県河川監視カメラ」/ Kamiyasumatsu, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-yanase-river-matsudo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4928389,35.7806549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川勢揃橋観測局ライブカメラ / Yanasegawa Seizoroibashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市久米「埼玉県河川監視カメラ」/ Kume, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-yanase-river-seizoroi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.469076,35.777051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川神明橋観測局ライブカメラ / Yanasegawa Shinmei Bridge Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市荒幡「埼玉県河川監視カメラ」/ Arahata, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-yanase-river-shinmei-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4417892,35.7775632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川清柳橋観測所ライブカメラ / Yanasegawa Seiryubashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市坂之下265「埼玉県河川監視カメラ」/ 265 Sakanoshita, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5385182,35.8054968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川開明橋観測局ライブカメラ / Azuma River Kaimeibashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市元町「埼玉県河川監視カメラ」/ Motomachi, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-azuma-river-kaimeibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4636667,35.7925165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川弘法橋観測局ライブカメラ / Higashikawa Kobobashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県所沢市松郷「埼玉県河川監視カメラ」/ Matsugo, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-azuma-river-kobobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4994275,35.7946519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川東川鉄橋観測局ライブカメラ / Azuma River Azuma River Railway Bridge Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県所沢市西所沢2丁目「埼玉県河川監視カメラ」/ 2-chome Nishitokorozawa, Tokorozawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-azumagawatekkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4545591,35.7916675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川堀下富調整池上流ライブカメラ / Sunagawabori Shimotomi Adjustment Pond Upstream Live Camera</name>
+        <description><![CDATA[埼玉県所沢市下富「埼玉県荒川右岸下水道事務所」/ Shimotomi, Tokorozawa City, Saitama Prefecture "Saitama Prefecture Arakawa Right Bank Sewerage Office"<br>https://livecamera.fujiyamasan.com/saitama-tokorozawa-sunagawabori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4779788,35.8251572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川石原橋観測局ライブカメラ / Iruma River Ishiharabashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県飯能市原市場「埼玉県河川監視カメラ」/ Haraichiba,  Hanno City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2354948,35.8641083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川下河原観測局ライブカメラ / Iruma River Shitakawara Observatory Live Camera</name>
+        <description><![CDATA[埼玉県飯能市赤沢「埼玉県河川監視カメラ」/ Akazawa, Hanno City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-hanno-iruma-river-shimokawara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2076626,35.8577758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川小瀬戸観測局ライブカメラ / Iruma River Kosedo Observatory Live Camera</name>
+        <description><![CDATA[埼玉県飯能市小岩井「埼玉県河川監視カメラ」/ Koiwai, Hanno City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-hanno-iruma-river-kosedo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2615531,35.868822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川岩根橋観測局ライブカメラ / Iruma River Iwanebashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県飯能市飯能「埼玉県河川監視カメラ」/ Hanno City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3046133,35.8555336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川矢川橋観測局ライブカメラ / Iruma River Yagawa Bridge Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県飯能市矢颪「埼玉県河川監視カメラ」/ Yaoroshi, Hanno City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-hanno-iruma-river-yagawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3182093,35.8448303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都圏外郭放水路調圧水槽ライブカメラ / Metropolitan Area Outer Floodway Pressure Control Water Tank Live Camera</name>
+        <description><![CDATA[〒344-0111 埼玉県春日部市上金崎７２０ 首都圏外郭放水路 「江戸川河川事務所」/ Metropolitan Area Outer Floodway, 720 Kamikanasaki, Kasukabe City, Saitama Prefecture 344-0111, "Edogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8116612,35.9970691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都圏外郭放水路第1立坑ライブカメラ / Metropolitan Area Outer Floodway No. 1 Shaft Live Camera</name>
+        <description><![CDATA[〒344-0112 埼玉県春日部市西金野井６８５　首都圏外郭放水路 第一立坑 「江戸川河川事務所」/ Metropolitan Area Outer Floodway No. 1 Shaft,  685 Nishikananoi, Kasukabe City, Saitama Prefecture 344-0112, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-metropolitan-outer-floodway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8100138,35.9954352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新4号国道水角ライブカメラ / New No. 4 National Highway Suikaku Live Camera</name>
+        <description><![CDATA[埼玉県春日部市水角「大宮国道事務所」/ Suikaku, Kasukabe City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-suikaku-shin4.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7938369,35.967496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号下柳ライブカメラ / National Highway No. 16 Shimoyanagi Live Camera</name>
+        <description><![CDATA[埼玉県春日部市下柳「大宮国道事務所」/ Shimoyanagi, Kasukabe City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-shimoyanagi-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7838685,35.9901631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号梅田陸橋ライブカメラ / National Highway No. 16 Umeda Overpass Live Camera</name>
+        <description><![CDATA[埼玉県春日部市梅田本町2丁目 「大宮国道事務所」/ 2-chome, Umedahoncho, Kasukabe City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-r16-umeda-overpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7446405,35.9878176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号不動院野ライブカメラ / National Highway No. 16 Fudoinno Live Camera</name>
+        <description><![CDATA[埼玉県春日部市不動院野「大宮国道事務所」/ Fudoinno, Kasukabe City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-fudoinno-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7669967,35.9930404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号小渕立体地下道第3ライブカメラ / National Highway No. 16 Obuchi 3D Underpass No. 3 Live Camera</name>
+        <description><![CDATA[〒344-0007 埼玉県春日部市小渕「大宮国道事務所」/ Kobuchi, Kasukabe City, Saitama Prefecture 344-0007, "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-kobuchi-r16-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.751153,35.9950407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川牛島観測所ライブカメラ / Nakagawa Ushijima Observatory Live Camera</name>
+        <description><![CDATA[〒344-0011 埼玉県春日部市藤塚「埼玉県 河川監視カメラ」/ Fujitsuka, Kasukabe City, Saitama Prefecture 344-0011<br>"Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-nakagawa-ushijima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7792663,35.9720355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川倉田観測局ライブカメラ / Nakagawa Kurata Observatory Live Camera</name>
+        <description><![CDATA[〒344-0126 埼玉県春日部市赤崎「埼玉県河川監視カメラ」/ Akasaki, Kasukabe City, Saitama Prefecture 344-0126, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-nakagawa-kurata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8057748,35.9549455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川下吉妻ライブカメラ / Edogawa Shimoyoshitsuma Live Camera</name>
+        <description><![CDATA[〒344-0104 埼玉県春日部市下吉妻 「江戸川河川事務所」/ Shimokitsuma, Kasukabe City, Saitama Prefecture 344-0104 "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-shimokitsuma-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8099505,36.016399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川庄和排水機場ライブカメラ / Edogawa Showa drainage pump station live camera</name>
+        <description><![CDATA[〒344-0111 埼玉県春日部市上金崎　庄和排水機場 「江戸川河川事務所」/ Showa drainage pump station, Kamikanasaki, Kasukabe City, Saitama Prefecture 344-0111, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-edogawa-showa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8114375,35.9973925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新方川国道上観測局ライブカメラ / Niigata River National Highway Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県春日部市大枝「埼玉県河川監視カメラ」/ Oeda, Kasukabe City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kasukabe-oeda-niigata-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7757794,35.9380143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川新富士見橋観測所ライブカメラ / Irumagawa Shinfujimi Bridge Observatory Live Camera</name>
+        <description><![CDATA[埼玉県狭山市広瀬東2丁目「埼玉県河川監視カメラ」/ 2-chome Hirosehigashi, Sayama City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-sayama-iruma-river-shinfujimibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4029125,35.8604584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>不老川入曽調節池外観測局ライブカメラ / Furogawa Iriso Retention Pond Outside Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県狭山市南入曽 「埼玉県川の防災情報」/ Minamiiriso, Sayama City, Saitama Prefecture "Saitama Prefecture River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sayama-furo-river-iriso.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4144473,35.8320222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>不老川入曽橋観測局ライブカメラ / Furogawa Irisobashi Observatory Live Camera </name>
+        <description><![CDATA[埼玉県狭山市北入曽「埼玉県川の防災情報」/ Kitairiso, Sayama City, Saitama Prefecture "Saitama Prefecture River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sayama-furogawa-irisobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4270533,35.8370548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号原市第1ライブカメラ / National Highway No. 16 Haraichi 1st Live Camera</name>
+        <description><![CDATA[埼玉県上尾市原市「大宮国道事務所」/ Haraichi, Ageo City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-ageo-haraichi-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.627498,35.9606971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号仲町2丁目ライブカメラ / National Highway No. 17 Nakacho 2-chome Live Camera</name>
+        <description><![CDATA[埼玉県上尾市仲町2丁目「大宮国道事務所」/ 2-chome Nakacho, Ageo City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-ageo-nakacho-r17.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5940429,35.9763431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川48.3KP左岸ライブカメラ / Arakawa 48.3KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県上尾市平方 「国土交通省川の防災情報」/ Hirakata, Ageo City, Saitama Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-ageo-hirakata-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5461445,35.9433616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川50.2KP左岸ライブカメラ / Arakawa 50.2KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県上尾市畔吉 「国土交通省川の防災情報」/ Azeyoshi, Ageo City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-ageo-azeyoshi-arakawa-50-2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.541116,35.959967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝川鎌倉橋ライブカメラ / Shibakawa Kamakura Bridge Live Camera</name>
+        <description><![CDATA[埼玉県上尾市二ツ宮 「上尾市役所河川課」/ Futatsumiya, Ageo City, Saitama Prefecture "Ageo City Hall River Division"<br>https://livecamera.fujiyamasan.com/saitama-ageo-sibakawa-kamakurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6034452,35.9769824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川領家観測局ライブカメラ / Egawa Ryoke Observatory Live Camera</name>
+        <description><![CDATA[埼玉県上尾市中分4丁目 「埼玉県河川監視カメラ」/ 4-chome Nakabun, Ageo City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-ageo-egawa-ryoke.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.54307,35.9801507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川中分三丁目付近ライブカメラ / Live camera near Sakasagawa Nakabun 3-chome</name>
+        <description><![CDATA[〒362-0067 埼玉県上尾市中分３丁目「上尾市役所河川課」/ 3-chome, Nakabun, Ageo City, Saitama Prefecture 362-0067<br>"Ageo City Hall River Division"<br>https://livecamera.fujiyamasan.com/saitama-ageo-nakabun-sakasa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5496403,35.979911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原市沼川平塚橋ライブカメラ / Haraichinuma River Hiratsuka Bridge Live Camera</name>
+        <description><![CDATA[埼玉県上尾市平塚「上尾市役所河川課」/ Hiratsuka, Ageo City, Saitama Prefecture "Ageo City Hall River Division"<br>https://livecamera.fujiyamasan.com/saitama-ageo-haraichinuma-river-hiratsuka-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6140232,35.9845496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川ずずむき橋ライブカメラ / Kamogawa Zuzumuki Bridge Live Camera</name>
+        <description><![CDATA[埼玉県上尾市柏座4丁目「上尾市役所河川課」/ 4-chome, Kashiwaza, Ageo City, Saitama Prefecture "Ageo City Hall River Division"<br>https://livecamera.fujiyamasan.com/saitama-ageo-kamogawa-zuzumuki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5766957,35.9691806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号新善町地下道内回り外回りライブカメラ / National Highway No. 298 Shinzencho Underpass Inner and Outer Loop Live Camera</name>
+        <description><![CDATA[埼玉県草加市新善町「北首都国道事務所」/ Shinzencho, Soka City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-soka-r298-shinzen-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.785902,35.8480374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾瀬川一の橋観測所ライブカメラ / Ayase River Ichinohashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県草加市長栄 「埼玉県河川監視カメラ」/ Choei, Soka City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kusaka-ayase-river-ichinohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7765135,35.8593521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾瀬川谷古宇水位観測所ライブカメラ / Ayase River Yakou Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒340-0011 埼玉県草加市栄町「江戸川河川事務所」/ Sakae-cho, Soka City, Saitama Prefecture 340-0011, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-soka-ayase-river-yakoku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8029173,35.8424015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛長川毛長川谷塚観測局ライブカメラ / Kenaga River Kenaga River Yatsuka Observatory Live Camera</name>
+        <description><![CDATA[埼玉県草加市谷塚上町「埼玉県河川監視カメラ」/ Yatsukakamicho, Soka City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-soka-yatsukakami-kenaga-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7927725,35.8054484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号南荻島ライブカメラ / National highway No. 4 Minamiogishima live camera</name>
+        <description><![CDATA[埼玉県越谷市南荻島 「大宮国道事務所」/ Minamiogishima, Koshigaya City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-koshigaya-minamiogishima-r4.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7693666,35.9102655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元荒川三野宮観測所ライブカメラ / Motoara River Sannomiya Observatory Live Camera</name>
+        <description><![CDATA[埼玉県越谷市三野宮「埼玉県 河川監視カメラ」/ Sannomiya, Koshigaya City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-koshigaya-sannomiya-motoarakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7517582,35.9260555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元荒川西方観測局ライブカメラ / Motoara River Nishikata Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県越谷市相模町6丁目「埼玉県 河川監視カメラ」/ 6-chome, Sagami-cho, Koshigaya-shi, Saitama "Saitama-ken river surveillance camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8078919,35.8907672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新方川増林観測所ライブカメラ / Niigata River Mashibayashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県越谷市増林「埼玉県 河川監視カメラ」/ Mashibayashi, Koshigaya City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-koshigaya-mashibayashi-niigata-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8011905,35.9122687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号錦町中央ライブカメラ / National Highway No. 17 Nishikimachi Chuo Live Camera</name>
+        <description><![CDATA[埼玉県蕨市錦町1丁目「大宮国道事務所」/ 1-chome, Nishiki-cho, Warabi-shi, Saitama "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-warabi-nishiki-r17.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6808816,35.8211733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号戸田地下道上り第3ライブカメラ / National Highway No. 17 Toda Underpass Uphill No. 3 Live Camera</name>
+        <description><![CDATA[〒335-0034 埼玉県戸田市笹目 「大宮国道事務所」/ Sasame, Toda City, Saitama Prefecture 335-0034 "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-toda-sasame-r17-toda-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6528614,35.8170017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号美女木地下道上り第7・下り第11ライブカメラ / National Highway No. 17 Bijogi Underpass Up 7th and Down 11th Live Camera</name>
+        <description><![CDATA[〒335-0031 埼玉県戸田市美女木「大宮国道事務所」/ Bijogi, Toda City, Saitama Prefecture 335-0031 "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-toda-bijogi-17-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6413835,35.8249657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号幸魂大橋戸田側内回りライブカメラ / National highway No. 298 Sakitama Ohashi Toda side inner loop live camera</name>
+        <description><![CDATA[埼玉県戸田市美女木「北首都国道事務所」/ Bijogi, Toda City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-toda-r298-sakitama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6340541,35.8163425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川笹目橋ライブカメラ / Arakawa Sasame Bridge Live Camera</name>
+        <description><![CDATA[〒335-0037 埼玉県戸田市下笹目 国道17号　笹目橋 「荒川下流河川事務所」 / National Highway No. 17 Sasame Bridge, Shimosasame, Toda City, Saitama Prefecture 335-0037,  "Arakawa downstream river office"<br>https://livecamera.fujiyamasan.com/saitama-toda-arakawa-sasame-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6473026,35.8005019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川第一調節池警報塔ライブカメラ / Arakawa No. 1 Retention Pond Warning Tower Live Camera</name>
+        <description><![CDATA[埼玉県戸田市重瀬「荒川上流河川事務所」/ Omose, Toda City, Saitama Prefecture "Arakawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-toda-omose-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6266158,35.829384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくら川聖橋ライブカメラ / Sakuragawa Hijiribashi Live Camera</name>
+        <description><![CDATA[〒335-0036 埼玉県戸田市早瀬２丁目「戸田市役所危機管理防災課」/ 2-chome Hayase, Toda City, Saitama Prefecture 335-0036 "Crisis Management and Disaster Prevention Division, Toda City Hall"<br>https://livecamera.fujiyamasan.com/saitama-toda-sakuragawa-hijiri-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6485592,35.8091236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹目川根木橋上流ライブカメラ / Sasame River Neginohashi upstream live camera</name>
+        <description><![CDATA[〒335-0034 埼玉県戸田市笹目２丁目５−２８ 「戸田市役所危機管理防災課」/ 2-5-28 Sasame, Toda City, Saitama Prefecture 335-0034 "Crisis Management and Disaster Prevention Division, Toda City Hall"<br>https://livecamera.fujiyamasan.com/saitama-toda-sasamegawa-neginohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6559131,35.8148447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上戸田川本村上橋ライブカメラ / Kamitoda River Honmurakamihashi Live Camera</name>
+        <description><![CDATA[〒335-0026 埼玉県戸田市新曽南１丁目２「戸田市役所危機管理防災課」/ 1-2 Niizominami, Toda City, Saitama Prefecture 335-0026 "Crisis Management and Disaster Prevention Division, Toda City Hall"<br>https://livecamera.fujiyamasan.com/saitama-toda-niizominami-kamitoda-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6696314,35.8097871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号入間インターチェンジライブカメラ / National Highway No. 16 Iruma Interchange Live Camera</name>
+        <description><![CDATA[埼玉県入間市小谷田「大宮国道事務所」/ Koyata, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-koyata-r16-iruma-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3768264,35.8148745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号河原町交差点ライブカメラ / National highway No. 16 Kawaramachi intersection live camera</name>
+        <description><![CDATA[埼玉県入間市河原町「大宮国道事務所」/ Kawaramachi, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-r16-kawaramachi-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3865353,35.8422794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号扇町屋交差点ライブカメラ / National highway No. 16 Ogimachiya intersection live camera</name>
+        <description><![CDATA[〒358-0022 埼玉県入間市扇町屋５丁目９−４「大宮国道事務所」/ 5-9-4 Ogimachiya, Iruma City, Saitama Prefecture 358-0022 "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-r16-ogimachiya-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3799323,35.8279372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号扇町屋南交差点ライブカメラ / National highway No. 16 Ogimachiya South intersection live camera</name>
+        <description><![CDATA[埼玉県入間市小谷田2丁目「大宮国道事務所」/ 2-chome Koyata, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-r16-ogimachiyaminami-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.380811,35.8253615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号小谷田交差点ライブカメラ / National highway No. 16 Koyata intersection live camera</name>
+        <description><![CDATA[埼玉県入間市小谷田「大宮国道事務所」/ Koyata, Iruma City, Saitama Prefecture "Omiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3794237,35.8234716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号高倉2丁目ライブカメラ / National Highway No. 16 Takakura 2-chome Live Camera</name>
+        <description><![CDATA[埼玉県入間市高倉2丁目「大宮国道事務所」/ 2-chome Takakura, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-takakura-2-chome-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3826008,35.8393299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号高倉4丁目ライブカメラ / National Highway No. 16 Takakura 4-chome Live Camera</name>
+        <description><![CDATA[埼玉県入間市高倉4丁目「大宮国道事務所」/ 4-chome Takakura, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-takakura-4-chome-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3816464,35.8373813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号高倉5丁目ライブカメラ / National Highway No. 16 Takakura 5-chome Live Camera</name>
+        <description><![CDATA[埼玉県入間市高倉5丁目「大宮国道事務所」/ 5-chome Takakura, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-takakura-5-chome-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3802274,35.833113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号扇町屋3丁目ライブカメラ / National Highway No. 16 Ogimachiya 3-chome Live Camera</name>
+        <description><![CDATA[埼玉県入間市扇町屋3丁目「大宮国道事務所」/ 3-chome Ogimachiya, Iruma City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-iruma-ogimachiya-3-chome-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3804421,35.8293805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川野田観測局ライブカメラ / Iruma River Noda Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市野田「埼玉県河川監視カメラ」/ Noda, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-noda-iruma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3552587,35.8411541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>不老川下藤沢観測局ライブカメラ / Furugawa Shimofujisawa Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市下藤沢「埼玉県河川監視カメラ」/ Shimofujisawa, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-shimofujisawa-furo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4064132,35.8245326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>不老川宮寺観測局ライブカメラ / Furogawa Miyadera Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市宮寺「埼玉県河川監視カメラ」/ Miyadera, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-miyadera-furo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3792387,35.798461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞川霞橋観測局ライブカメラ / Kasumi River Kasumi Bridge Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市鍵山1丁目「埼玉県河川監視カメラ」/ 1-chome, Kagiyama, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-kasumi-river-kasumibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3854943,35.8425925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞川下谷ケ貫観測局ライブカメラ / Kasumi River Shimoyaganuki Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市下谷ケ貫「埼玉県河川監視カメラ」/ Shimoyaganuki, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-shimoyaganuki-kasumi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3449008,35.8174128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞川高倉観測局ライブカメラ / Kasumi River Takakura Observatory Live Camera</name>
+        <description><![CDATA[埼玉県入間市高倉4丁目「埼玉県河川監視カメラ」/ 4-chome Takakura, Iruma City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-iruma-takakura-kasumi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3823336,35.8350235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山ゴルフクラブライブカメラ / Sayama Golf Club Live Camera</name>
+        <description><![CDATA[〒358-0041 埼玉県入間市下谷ケ貫４９２ 狭山ゴルフ・クラブ / 492 Shimoyaganuki, Iruma City, Saitama Prefecture 358-0041 Sayama Golf Club<br>https://livecamera.fujiyamasan.com/saitama-iruma-shimoyaganuki-sayama-golf-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3494392,35.8028909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川流域都市下水路ライブカメラ / Egawa basin city sewage canal live camera</name>
+        <description><![CDATA[〒356-0008 埼玉県ふじみ野市元福岡３丁目１４「川越市役所」/ 3-14 Motofukuoka, Fujimino City, Saitama Prefecture 356-0008 "Kawagoe City Hall"<br>https://livecamera.fujiyamasan.com/saitama-fujimino-motofukuoka-egawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5154325,35.8862467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川34.0KP右岸ライブカメラ / Arakawa 34.0KP right bank live camera</name>
+        <description><![CDATA[埼玉県朝霞市上内間木「国土交通省川の防災情報」/ Kamiuchimagi, Asaka City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6082521,35.831004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒目川浜崎観測所ライブカメラ / Kurome River Hamasaki Observatory Live Camera</name>
+        <description><![CDATA[埼玉県朝霞市浜崎 「埼玉県河川監視カメラ」/ Hamasaki, Asaka City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-asaka-hamasaki-korome-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5944395,35.8166914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞市議会ライブカメラ / Asaka City Council Live Camera</name>
+        <description><![CDATA[〒351-8501 埼玉県朝霞市本町１丁目１−１ 朝霞市役所 / 1-1-1, Honcho, Asaka City, Saitama Prefecture 351-8501 Asaka City Hall<br>https://livecamera.fujiyamasan.com/saitama-asaka-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5935821,35.7972051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川35.5KP右岸ライブカメラ / Arakawa 35.5KP right bank live camera</name>
+        <description><![CDATA[埼玉県志木市宗岡 「国土交通省川の防災情報」/ Muneoka, Shiki City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-shiki-muneoka-arakawa-35_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5960315,35.8401921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川36.4KP右岸ライブカメラ / Arakawa 36.4KP right bank live camera</name>
+        <description><![CDATA[埼玉県志木市宗岡 「国土交通省川の防災情報」/ Muneoka, Shiki City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-shiki-muneoka-arakawa-36_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5908579,35.847166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川36.7KP右岸ライブカメラ / Arakawa 36.7KP right bank live camera</name>
+        <description><![CDATA[埼玉県志木市宗岡 「国土交通省川の防災情報」/ Muneoka, Shiki City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-shiki-muneoka-arakawa-36_7kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5889344,35.8492994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川羽根倉橋ライブカメラ / Arakawa Hanekura Bridge Live Camera</name>
+        <description><![CDATA[埼玉県志木市上宗岡「荒川上流河川事務所」/ Kamimuneoka, Shiki City, Saitama Prefecture "Arakawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-shiki-arakawa-hanekurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5896403,35.8529186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川富士見橋観測局ライブカメラ / Yanasegawa Fujimi Bridge Observatory Live Camera</name>
+        <description><![CDATA[〒353-0007 埼玉県志木市柏町６丁目「埼玉県河川監視カメラ」/ 6-chome, Kashiwa-cho, Shiki-shi, Saitama 353-0007 "Saitama River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5649557,35.8322094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川宮戸橋観測所ライブカメラ / Shingashi River Miyatobashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県志木市下宗岡1丁目 「埼玉県河川監視カメラ」/ 1-chome, Shimomuneoka, Shiki City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-shiki-shingashi-river-miyatobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5905473,35.8291116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川袋橋ライブカメラ / Shingashi River Fukurobashi Live Camera</name>
+        <description><![CDATA[埼玉県志木市上宗岡1丁目「志木市役所」/ 1-chome Kamimuneoka, Shiki City, Saitama Prefecture "Shiki City Office"<br>https://livecamera.fujiyamasan.com/saitama-shiki-shingashi-river-fukurobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5765147,35.842936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川柳瀬川合流地点ライブカメラ / Shingashi River Yanase River Confluence Live Camera</name>
+        <description><![CDATA[〒353-0004 埼玉県志木市本町２丁目３−７　しき本町桶管「志木市役所」/ Shiki Honcho Okekan, 2-3-7 Honcho, Shiki City, Saitama Prefecture 353-0004  "Shiki City Office"<br>https://livecamera.fujiyamasan.com/saitama-shiki-shingashi-yanase-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5821423,35.8345609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川高橋ライブカメラ / Yanasegawa Takahashi Live Camera</name>
+        <description><![CDATA[埼玉県志木市柏町2丁目「志木市役所」/ 2-chome, Kashiwa-cho, Shiki-shi, Saitama "Shiki City Hall"<br>https://livecamera.fujiyamasan.com/saitama-shiki-yanase-river-takahashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5733593,35.8369691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号幸魂大橋和光側外回りライブカメラ / National Highway No. 298 Sakitama Ohashi Wako Side Outer Live Camera</name>
+        <description><![CDATA[埼玉県和光市新倉5丁目「北首都国道事務所」/ 5-chome Niikura, Wako City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-wako-niikura-r298-sakitamaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6207704,35.8029605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川笹目橋ライブカメラ / Arakawa Sasame Bridge Live Camera</name>
+        <description><![CDATA[埼玉県和光市下新倉「荒川上流河川事務所」/ Shimoniikura, Wako City, Saitama Prefecture "Arakawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-wako-arakawa-sasame-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6364864,35.8006752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川29.0KP右岸ライブカメラ / Arakawa 29.0KP right bank live camera</name>
+        <description><![CDATA[〒351-0111 埼玉県和光市下新倉 「国土交通省川の防災情報」/ Shimoniikura, Wako City, Saitama Prefecture 351-0111 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-wako-shimoniikura-arakawa-29kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6423927,35.7983083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川新倉観測局ライブカメラ / Shingashi River Niikura Observatory Live Camera</name>
+        <description><![CDATA[埼玉県和光市新倉8丁目「埼玉県河川監視カメラ」/ 8-chome Niikura, Wako City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-wako-niikura-shingashi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6279407,35.8040254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越戸川新倉観測局ライブカメラ / Koedogawa Niikura Observatory Live Camera</name>
+        <description><![CDATA[埼玉県和光市新倉2丁目「埼玉県河川監視カメラ」/ 2-chome Niikura, Wako City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-wako-niikura-koedo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6150656,35.7976931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川向山観測局ライブカメラ / Shirako River Mukoyama Observatory Live Camera</name>
+        <description><![CDATA[埼玉県和光市南1丁目「埼玉県河川監視カメラ」/ 1-chome, Minami, Wako City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-wako-shirako-river-mukoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6186707,35.769937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川52.8KP左岸ライブカメラ / Arakawa 52.8KP left bank live camera</name>
+        <description><![CDATA[埼玉県桶川市川田谷 「国土交通省川の防災情報」/ Kawataya, Okegawa City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-okegawa-arakawa-kawataya-52_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.524949,35.9810239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川53.6KP左岸ライブカメラ / Arakawa 53.6KP left bank live camera</name>
+        <description><![CDATA[埼玉県桶川市川田谷 「国土交通省川の防災情報」/ Kawataya, Okegawa City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-okegawa-kawayata-arakawa-53_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5183184,35.9859216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川川田谷観測局ライブカメラ / Egawa Kawataya Observatory Live Camera</name>
+        <description><![CDATA[埼玉県桶川市川田谷「埼玉県河川監視カメラ」/ Kawataya, Okegawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-okegawa-kawataya-egawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.536373,36.0045687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤堀川北本観測局ライブカメラ / Akahori River Kitamoto Observatory Live Camera</name>
+        <description><![CDATA[埼玉県桶川市五町台「埼玉県河川監視カメラ」/ Gochodai, Okegawa City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-okegawa-gochodai-akahori-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5799169,36.027424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号潮郷橋八潮側外回りライブカメラ / National highway No. 298 Shiosatobashi Yashio side outside live camera</name>
+        <description><![CDATA[埼玉県八潮市八條 「北首都国道事務所」/ Hachijo, Yashio City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-yashio-r298-shiosatobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8418813,35.8447793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川38.4KP右岸ライブカメラ / Arakawa 38.4KP right bank live camera</name>
+        <description><![CDATA[埼玉県富士見市南畑新田「国土交通省川の防災情報」/ Nanbata Shinden, Fujimi City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-fujimi-nanbatashinden-arakawa-38_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5791367,35.8622386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川南畑橋観測局ライブカメラ / Shingashi River Nanbata Bridge Observatory Live Camera</name>
+        <description><![CDATA[〒354-0002 埼玉県富士見市上南畑「埼玉県河川監視カメラ」/ Kaminanbata, Fujimi City, Saitama Prefecture 354-0002 "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-fujimi-shingashi-river-nanbatabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5568764,35.8605438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川堀花影橋ライブカメラ / Sunagawa Hori Hanakage Bridge Live Camera</name>
+        <description><![CDATA[〒354-0031 埼玉県富士見市勝瀬 花影橋 「埼玉県荒川右岸下水道事務所」/ Hanakage Bridge, Katsuse, Fujimi City, Saitama Prefecture 354-0031, "Saitama Prefecture Arakawa Right Bank Sewerage Office"<br>https://livecamera.fujiyamasan.com/saitama-fujimi-sunagawabori-hanakage-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5437254,35.8641341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川堀蛇島調整池右岸左岸ライブカメラ / Sunagawa Hori Hebishima Retention Pond Right and Left Bank Live Camera</name>
+        <description><![CDATA[〒354-0031 埼玉県富士見市勝瀬２８６「埼玉県荒川右岸下水道事務所」/ 286 Katsuse, Fujimi City, Saitama Prefecture 354-0031, "Saitama Prefecture Arakawa Right Bank Sewerage Office"<br>https://livecamera.fujiyamasan.com/saitama-fujimi-sunagawabori-hebishima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5483895,35.8659996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号潮郷橋三郷側内回りライブカメラ / National highway No. 298 Shiosatobashi Misato side inner loop live camera</name>
+        <description><![CDATA[埼玉県三郷市天神1丁目 「北首都国道事務所」/ 1-chome, Tenjin, Misato-shi, Saitama "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-misato-tenjin-r298-shiosatobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8445337,35.8443184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[国道298号鷹野地下道内回り&外回りライブカメラ]]></name>
+        <description><![CDATA[〒341-0035 埼玉県三郷市鷹野３丁目「北首都国道事務所」/ 3-chome Takano, Misato City, Saitama Prefecture 341-0035 "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-misato-r298-takano-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8790478,35.8035089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道298号谷口地下道内回り外回りライブカメラ / National Highway No. 298 Taniguchi Underpass Inner Loop Outer Loop Live Camera</name>
+        <description><![CDATA[埼玉県三郷市谷口「北首都国道事務所」/ Yaguchi, Misato City, Saitama Prefecture "Northern Capital National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-misato-r298-yaguchi-underpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8709344,35.8253603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川三郷戸ケ崎ライブカメラ / Nakagawa Misato Togasaki Live Camera</name>
+        <description><![CDATA[〒341-0044 埼玉県三郷市戸ヶ崎「江戸川河川事務所」/ Togasaki, Misato City, Saitama Prefecture 341-0044, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-misato-togasaki-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.867526,35.8023435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大場川市助観測局ライブカメラ / Oba River Ichisuke Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県三郷市市助「埼玉県河川監視カメラ」/ Ichisuke, Misato City, Saitama Prefecture<br>"Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-misato-ichisuke-oba-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8832836,35.8281532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元荒川蓮田観測局ライブカメラ / Motoarakawa Hasuda Observatory Live Camera</name>
+        <description><![CDATA[埼玉県蓮田市貝塚 「埼玉県河川監視カメラ」/ Kaizuka, Hasuda City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-hasuda-kaizuka-motoarakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6492916,36.0163284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛川葛川合流点ライブカメラ / Kuzukawa Kuzukawa Confluence Live Camera</name>
+        <description><![CDATA[〒350-0278 埼玉県坂戸市新ケ谷 「荒川上流河川事務所」/ Shingaya, Sakado City, Saitama Prefecture 350-0278 "Arakawa Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3900695,35.9806388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛川葛川合流点ライブカメラ / Kuzukawa Kuzukawa Confluence Live Camera</name>
+        <description><![CDATA[〒350-0278 埼玉県坂戸市新ケ谷 葛川水門 「荒川上流河川事務所」/  Kuzukawa Water Gate, Shingaya, Sakado City, Saitama Prefecture 350-0278,  "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-sakado-shingaya-kuzukawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3937977,35.983179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川高麗川橋ライブカメラ / Koma River Komagawa Bridge Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市中里「荒川上流河川事務所」/ Nakazato, Sakado City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-sakado-koma-river-komagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3813236,35.9611209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川坂戸水位観測所ライブカメラ / Koma River Sakado Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒350-0271 埼玉県坂戸市上吉田「荒川上流河川事務所」/ Kamiyoshida, Sakado City, Saitama Prefecture 350-0271 "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-sakado-kamiyoshida-koma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3945138,35.9807405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川0.0KP右岸ライブカメラ / Korai River 0.0KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市上吉田「国土交通省川の防災情報」/ Kamiyoshida, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-kamiyoshida-koma-river-0kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3942619,35.9813325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川0.2KP左岸ライブカメラ / Korai River 0.2KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市新ケ谷「国土交通省川の防災情報」/ Shingaya, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-shingaya-koma-river-0_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3916334,35.9812143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川0.5KP右岸ライブカメラ / Korai River 0.5KP right bank live camera</name>
+        <description><![CDATA[埼玉県坂戸市上吉田「国土交通省川の防災情報」/ Kamiyoshida, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-kamiyoshida-koma-river-0_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3913507,35.9784064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川3.0KP左岸ライブカメラ / Koma River 3.0KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市中里「国土交通省川の防災情報」/ Nakazato, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-nakazato-koma-river-3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3816081,35.9611904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川3.3KP右岸ライブカメラ / Korai River 3.3KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市浅羽「国土交通省川の防災情報」/ Asaba, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-asaba-koma-river-3_3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3792799,35.9585678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川4.6KP右岸ライブカメラ / Korai River 4.6KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市浅羽「国土交通省川の防災情報」/ Asaba, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-asaba-koma-river-4_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3730209,35.9533097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川5.5KP右岸ライブカメラ / Korai River 5.5KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市萱方「国土交通省川の防災情報」/ Kayagata, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-kayagata-koma-river-5_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3628024,35.945356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川入西水位観測所ライブカメラ / Oppe River Nissai Water Level Observatory Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市沢木「荒川上流河川事務所」/ Sawaki, Sakado City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-sakado-sawaki-oppe-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3736101,35.9787385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川3.4KP右岸ライブカメラ / Oppe River 3.4KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市小沼「国土交通省川の防災情報」/ Konuma, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-konuma-oppe-river-3_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.443803,35.979233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川4.8KP右岸ライブカメラ / Oppe River 4.8KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市赤尾「国土交通省川の防災情報」/ Akao, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-akao-oppe-river-4_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4357474,35.9882527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川9.3KP右岸ライブカメラ / Oppe River 9.3KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市上吉田「国土交通省川の防災情報」/ Kamiyoshida, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-kamiyoshida-oppe-river-9_3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4019506,35.9845393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川11.0KP右岸ライブカメラ / Oppe River 11.0KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市東和田「国土交通省川の防災情報」/ Higashiwada, Sakado City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-sakado-higashiwada-oppe-river-11kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3831324,35.9810713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯盛川片柳観測局ライブカメラ / Iimori River Katayanagi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県坂戸市片柳「埼玉県河川監視カメラ」/ Katayanagi, Sakado City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-sakado-katayanagi-iimori-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4025969,35.9776519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川行幸観測局ライブカメラ / Nakagawa Miyuki Observatory Live Camera</name>
+        <description><![CDATA[埼玉県幸手市高須賀 「埼玉県河川監視カメラ」/ Takasuka, Satte City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-satte-takasuka-nakagawa-miyuki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7238706,36.0943795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川西関宿水位観測所ライブカメラ / Edogawa Nishisekiyado Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒340-0131 埼玉県幸手市西関宿 「江戸川河川事務所」/ Nishisekiyado, Satte City, Saitama Prefecture 340-0131 "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-satte-nishisekiyado-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7741538,36.0865972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAWAZbase高麗川ライブカメラ / CAWAZbase Koma River Live Camera</name>
+        <description><![CDATA[〒350-1245 埼玉県日高市栗坪４６　CAWAZ base / 46 Kuritsubo, Hidaka City, Saitama Prefecture 350-1245 CAWAZ base<br>https://livecamera.fujiyamasan.com/saitama-hidaka-kuritsubo-koma-river-cawabase.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3135339,35.8881598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高カントリークラブライブカメラ / Hidaka Country Club Live Camera</name>
+        <description><![CDATA[〒350-1213 埼玉県日高市高萩１２０３　日高カントリークラブ / Hidaka Country Club, 1203 Takahagi, Hidaka City, Saitama Prefecture 350-1213 <br>https://livecamera.fujiyamasan.com/saitama-hidaka-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3792507,35.8969651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川吉川水位観測所ライブカメラ / Nakagawa Yoshikawa Water Level Observatory Live Camera</name>
+        <description><![CDATA[埼玉県吉川市平沼「江戸川河川事務所」/ Hiranuma, Yoshikawa City, Saitama Prefecture "Edogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.838463,35.8846244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川道庭ライブカメラ / Nakagawa Doniwa Live Camera</name>
+        <description><![CDATA[〒342-0034 埼玉県吉川市道庭「江戸川河川事務所」/ Doniwa, Yoshikawa City, Saitama Prefecture 342-0034, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-yoshikawa-doniwa-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8438493,35.8611011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川中川台ライブカメラ / Nakagawa Nakagawadai Live Camera</name>
+        <description><![CDATA[〒342-0047 埼玉県吉川市中川台「江戸川河川事務所」/ Nakagawadai, Yoshikawa City, Saitama Prefecture 342-0047 "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-yoshikawa-nakagawadai-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8416101,35.878829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川29.0KP右岸ライブカメラ / Nakagawa 29.0KP right bank live camera</name>
+        <description><![CDATA[埼玉県吉川市高富1丁目「国土交通省川の防災情報」/ 1-chome Takadomi, Yoshikawa City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-yoshikawa-nakagawa-29kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8405062,35.869877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川市議会ライブカメラ / Yoshikawa City Council Live Camera</name>
+        <description><![CDATA[〒342-8501 埼玉県吉川市きよみ野１丁目１　吉川市役所　/  Yoshikawa City Hall, 1-1, Kiyomino, Yoshikawa City, Saitama Prefecture 342-8501<br>https://livecamera.fujiyamasan.com/saitama-yoshikawa-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8558797,35.8958917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>隼人堀川千駄野観測局ライブカメラ / Hayatohorikawa Sendano Observatory Live Camera</name>
+        <description><![CDATA[埼玉県白岡市上野田「埼玉県河川監視カメラ」/ Kaminoda, Shiraoka City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6926851,36.0119373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川堀永代橋ライブカメラ / Sunagawabori Eidaibashi Live Camera</name>
+        <description><![CDATA[〒354-0044 埼玉県入間郡三芳町北永井　永代橋 「埼玉県荒川右岸下水道事務所」/ Eidai Bridge, Kitanagai, Miyoshi-cho, Iruma-gun, Saitama 354-0044 "Saitama Prefecture Arakawa Right Bank Sewerage Office"<br>https://livecamera.fujiyamasan.com/saitama-miyoshi-sunagawabori-eidaibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5090935,35.8454635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三芳町議会ライブカメラ / Miyoshi Town Council Live Camera</name>
+        <description><![CDATA[〒354-8555 埼玉県入間郡三芳町藤久保１１００−１　三芳町役場 / Miyoshi-cho government office, 1100-1 Fujikubo, Miyoshi-cho, Iruma-gun, Saitama 354-8555<br>https://livecamera.fujiyamasan.com/saitama-miyoshi-town-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5263119,35.8283055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川15.0KP右岸ライブカメラ / Oppe River 15.0KP Right Bank Live Camera</name>
+        <description><![CDATA[〒350-0431 埼玉県入間郡毛呂山町苦林 「国土交通省川の防災情報」/ Nigabayashi, Moroyama-cho, Iruma-gun, Saitama 350-0431 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-moroyama-oppe-river-15kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3451478,35.9668364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市野川松永橋観測局ライブカメラ</name>
+        <description><![CDATA[埼玉県川島町下小見野 「埼玉県河川監視カメラ」/ Shimoomino, Kawajima Town, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-ichinogawa-matsunagabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4834221,36.0181889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市野川神明堰ライブカメラ / Ichinogawa Shinmei Weir Live Camera</name>
+        <description><![CDATA[埼玉県川島町東野 「荒川上流河川事務所」/ Higashino, Kawajima Town, Saitama Prefecture "Arakawa Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.504307,35.9958222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川53.2KP右岸ライブカメラ / Arakawa 53.2KP right bank live camera</name>
+        <description><![CDATA[埼玉県川島町山ケ谷戸「国土交通省川の防災情報」/ Yamagayato, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-arakawa-53_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5152874,35.9780705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川56.2KP右岸ライブカメラ / Arakawa 56.2KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町芝沼「国土交通省川の防災情報」/ Shibanuma, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-shibanuma-arakawa-56_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4961154,36.0047016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川-1.8KP左岸ライブカメラ / Oppe River-1.8KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町角泉 「国土交通省川の防災情報」/ Kakusen, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-kakusen-oppe-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4877562,35.9600807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川0.8KP左岸ライブカメラ / Oppe River 0.8KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町下伊草「国土交通省川の防災情報」/ Shimoigusa, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-shimoigusa-oppe-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4650232,35.9642209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川1.2KP左岸ライブカメラ / Oppe River 1.2KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町上伊草「国土交通省川の防災情報」/ Kamiigusa, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-kamiigusa-oppe-river-1_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.462875,35.967988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川5.8KP左岸ライブカメラ / Oppe River 5.8KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町長楽「国土交通省川の防災情報」/ Nagaraku, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-nagaraku-oppe-river-5_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4335832,35.9972685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川5.3KP左岸ライブカメラ / Iruma River 5.3KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県川島町出丸中郷「国土交通省川の防災情報」/ Demarunakago, Kawajima Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kawajima-demarunakako-iruma-river-5_3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5185167,35.9553822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮落川姫宮観測局ライブカメラ / Himemiyaotoshigawa Himemiya Observatory Live Camera</name>
+        <description><![CDATA[埼玉県宮代町川端2丁目 「埼玉県河川監視カメラ」/ 2-chome Kawabata, Miyashiro Town, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-miyashiro-kawabata-himemiyaotoshi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7404403,36.0084339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川船渡観測局ライブカメラ / Nakagawa Funato Observatory Live Camera</name>
+        <description><![CDATA[埼玉県杉戸町椿「埼玉県河川監視カメラ」/ Tsubaki, Sugito Town, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-sugito-nakagawa-funato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.774652,36.0348137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大落古利根川杉戸観測所ライブカメラ / Ootoshifurutonegawa Sugito Observatory Live Camera</name>
+        <description><![CDATA[埼玉県杉戸町杉戸「埼玉県河川監視カメラ」/ Sugito, Sugito Town, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-sugito-ootoshifurutone-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7235923,36.028813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川石田川合流点ライブカメラ / Tone River Ishida River Confluence Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市妻沼小島 「利根川上流河川事務所」/ Menumakojima, Kumagaya City, Saitama Prefecture "Tone River Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3640024,36.2468809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川刀水橋上流ライブカメラ / Tonegawa Tosui Bridge upstream live camera</name>
+        <description><![CDATA[埼玉県熊谷市妻沼台 「利根川上流河川事務所」/ Menumadai, Kumagaya City, Saitama Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-tonegawa-tosuibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3628866,36.239422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川休泊川排水門対岸ライブカメラ / Tone River Kyuhaku River Drainage Gate Opposite Bank Live Camera</name>
+        <description><![CDATA[〒360-0222 埼玉県熊谷市葛和田 「利根川上流河川事務所」/ Kuzuwada, Kumagaya City, Saitama Prefecture 360-0222 "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-kuzuwada-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4147366,36.2133737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川荒川大橋ライブカメラ / Arakawa Arakawa Ohashi Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市榎町「荒川上流河川事務所」/ Enoki-cho, Kumagaya-shi, Saitama "Arakawa River upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-enoki-arakawaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3784566,36.1368139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川熊谷大橋ライブカメラ / Arakawa Kumagaya Ohashi Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市押切「荒川上流河川事務所」/ Oshikiri, Kumagaya City, Saitama Prefecture "Arakawa River Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-arakawa-kumagayaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3414392,36.1414107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川久下橋ライブカメラ / Arakawa Kuge Bridge Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市久下「荒川上流河川事務所」/ Kuge, Kumagaya City, Saitama Prefecture "Arakawa Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4045668,36.1229136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川大芦橋ライブカメラ / Arakawa Oashibashi Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市小八林「荒川上流河川事務所」/ Koyatsubayashi, Kumagaya City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-arakawa-oashibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4381754,36.0841768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福川井殿橋観測所ライブカメラ / Fukukawa Idonohashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市西野「埼玉県河川監視カメラ」/ Nishino, Kumagaya City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-fukukawa-idonohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3761954,36.2061732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忍川平戸観測局ライブカメラ / Oshigawa Hirato Observatory Live Camera</name>
+        <description><![CDATA[埼玉県熊谷市戸出「埼玉県河川監視カメラ」/ Tode, Kumagaya City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-tode-oshigawa-hirato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4048397,36.1386803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U-NEO熊谷店ライブカメラ / U-NEO Kumagaya store live camera</name>
+        <description><![CDATA[〒360-0801 埼玉県熊谷市中奈良１８８９−７　U-NEO 熊谷店 (株)星オートセンター / U-NEO Kumagaya Store Hoshi Auto Center Co., Ltd.,    1889-7 Nakanara, Kumagaya City, Saitama Prefecture 360-0801<br>https://livecamera.fujiyamasan.com/saitama-kumagaya-nakanara-u-neo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.370627,36.185358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号持田インターチェンジ第1ライブカメラ / National Highway No. 17 Mochida Interchange No. 1 Live Camera</name>
+        <description><![CDATA[埼玉県行田市持田2丁目「大宮国道事務所」/ 2-chome Mochida, Gyoda City, Saitama Prefecture "Omiya National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-gyoda-r17-mochida-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.435025,36.1349967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐間水門忍川側・武蔵水路側ライブカメラ / Sama Sluice Oshi River side and Musashi Waterway Side live camera</name>
+        <description><![CDATA[埼玉県行田市佐間 「水資源機構利根導水総合事業所」/ Sama, Gyoda City, Saitama Prefecture "Water Resources Organization Tone Water Conveyance General Office"<br>https://livecamera.fujiyamasan.com/saitama-gyoda-sama-sluice-oshigawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4720771,36.1260116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根大堰魚道鮎遡上ライブカメラ / Tone Ozeki fishway sweetfish run-up live camera</name>
+        <description><![CDATA[埼玉県行田市大字須加　大堰自然の観察室 「水資源機構利根導水総合事業所」/ Ozeki Nature Observation Room, Oaza Suka, Gyoda City, Saitama Prefecture "Water Resources Organization Tone Water Conveyance General Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4737221,36.1873895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川埼玉大橋下流ライブカメラ / Tonegawa Saitama Ohashi downstream live camera</name>
+        <description><![CDATA[埼玉県加須市麦倉「利根川上流河川事務所」/ Mugikura, Kazo City, Saitama Prefecture "Tonegawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kazo-tonegawa-saitamaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6511698,36.1781617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川133.2KP右岸ライブカメラ / Tone River 133.2KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県加須市新川通「国土交通省川の防災情報」/ Shinkawadori, Kazo City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kazo-shinkawadouri-tonegawa-133_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6788036,36.160591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川本郷水位観測所ライブカメラ / Watarase River Hongo Water Level Observatory Live Camera</name>
+        <description><![CDATA[埼玉県加須市本郷「利根川上流河川事務所」/ Hongo, Kazo City, Saitama Prefecture "Tonegawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-kazo-hongo-watarase-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6928005,36.1625432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川水門橋観測局ライブカメラ / Nakagawa Suimonbashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県加須市阿佐間 「埼玉県河川監視カメラ」/ Azama, Kazo City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kazo-azama-nakagawa-suimonbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6505853,36.1300648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こだまゴルフクラブライブカメラ / Kodama Golf Club Live Camera</name>
+        <description><![CDATA[〒367-0203 埼玉県本庄市児玉町入浅見1060　こだまゴルフクラブ / Kodama Golf Club, 1060 Iriasami, Kodama-cho, Honjo-shi, Saitama 367-0203<br>https://livecamera.fujiyamasan.com/saitama-honjo-kodama-golf-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1455297,36.1979161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宥勝寺ライブカメラ / Yushoji Temple Live Camera</name>
+        <description><![CDATA[〒367-0032 埼玉県本庄市栗崎１５５　西光山 宥勝寺 / Saikozan Yusho Temple, 155 Kurizaki, Honjo City, Saitama Prefecture 367-0032<br>https://livecamera.fujiyamasan.com/saitama-hojo-saikozan-yushoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.184045,36.21604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川御陣場川合流点ライブカメラ / Tone River Ojinba River Confluence Live Camera</name>
+        <description><![CDATA[埼玉県本庄市山王堂「利根川上流河川事務所」/ Sannodo, Honjo City, Saitama Prefecture "Tone River Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1850958,36.2612759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元小山川湧泉橋観測局ライブカメラ / Motokoyama River Yusenbashi Observatory Live Camera</name>
+        <description><![CDATA[〒367-0061 埼玉県本庄市小島６丁目１０ 湧泉橋 「埼玉県河川監視カメラ」/ Yusenbashi, 6-10 Ojima, Honjo City, Saitama Prefecture 367-0061, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-hojo-motokoyamagawa-yusenbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.176362,36.2496273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>女堀川今井大橋観測所ライブカメラ / Onnahori River Imai Ohashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県本庄市四方田「埼玉県河川監視カメラ」/ Shihoden, Honjo City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-honjo-onnaborigawa-imaiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1632897,36.2220159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山川栗崎大橋ライブカメラ / Koyama River Kurisaki Ohashi Live Camera</name>
+        <description><![CDATA[〒367-0032 埼玉県本庄市栗崎 栗崎大橋「埼玉県河川監視カメラ」/ Kurisaki Ohashi, Kurizaki, Honjo City, Saitama Prefecture 367-0032, <br>"Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1888988,36.213164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関越自動車道高坂サービスエリアライブカメラ / Kanetsu Expressway Takasaka Service Area Live Camera</name>
+        <description><![CDATA[〒355-0053 埼玉県東松山市田木　高坂SA 「TSライブチャンネル」/ Takasaka SA, Tagi, Higashimatsuyama City, Saitama Prefecture 355-0053, "TS Live Channel"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-kanetsu-takasaka-sa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3835031,35.9854412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川東松山橋ライブカメラ / Tokigawa Higashimatsuyama Bridge Live Camera</name>
+        <description><![CDATA[埼玉県東松山市下押垂「荒川上流河川事務所」/ Shimooshidari, Higashimatsuyama City, Saitama Prefecture, "Arakawa upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-higashimatsuyama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4024006,36.0123388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川野本水位観測所ライブカメラ / Tokigawa Nomoto Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒355-0041 埼玉県東松山市下押垂「荒川上流河川事務所」/ Shimooshidari, Higashimatsuyama City, Saitama Prefecture 355-0041, "Arakawa upstream river office"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-nomoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4212163,36.0080668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川0.4KP右岸ライブカメラ / Tokigawa 0.4KP right bank live camera</name>
+        <description><![CDATA[埼玉県東松山市早俣 「国土交通省川の防災情報」/ Hayamata, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-0_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4224008,35.9982404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川1.6KP左岸ライブカメラ / Tokigawa 1.6KP left bank live camera</name>
+        <description><![CDATA[埼玉県東松山市下押垂 「国土交通省川の防災情報」/ Shimooshidari, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-1_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4201263,36.0083098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川2.8KP左岸ライブカメラ / Tokigawa 2.8KP left bank live camera</name>
+        <description><![CDATA[埼玉県東松山市下押垂「国土交通省川の防災情報」/ Shimooshidari, Higashimatsuyama City, Saitama Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-2_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4084993,36.0115117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川3.4KP左岸ライブカメラ / Toki River 3.4KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県東松山市下押垂「国土交通省川の防災情報」/ Shimooshidari, Higashimatsuyama City, Saitama Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-3_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4020197,36.0122203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川5.9KP右岸ライブカメラ / Tokigawa 5.9KP right bank live camera</name>
+        <description><![CDATA[埼玉県東松山市葛袋「国土交通省川の防災情報」/ Kuzubukuro, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-5_9kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3803148,36.0191759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川6.2KP右岸ライブカメラ / Tokigawa 6.2KP right bank live camera</name>
+        <description><![CDATA[埼玉県東松山市葛袋「国土交通省川の防災情報」/ Kuzubukuro, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-6_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3769349,36.0195233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川6.4KP左岸ライブカメラ / Tokigawa 6.4KP left bank live camera</name>
+        <description><![CDATA[埼玉県東松山市葛袋「国土交通省川の防災情報」/ Kuzubukuro, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tokigawa-6_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.37346,36.0230271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川6.6KP左岸ライブカメラ / Toki River 6.6KP Left Bank Live Camera</name>
+        <description><![CDATA[〒355-0072 埼玉県東松山市石橋「国土交通省川の防災情報」/ Ishibashi, Higashimatsuyama City, Saitama Prefecture 355-0072, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimastsuyama-tokigawa-6_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3713184,36.0236172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川7.5KPライブカメラ / Oppe River 7.5KP Live Camera</name>
+        <description><![CDATA[〒355-0044 埼玉県東松山市正代「国土交通省川の防災情報」/ Shodai, Higashimatsuyama City, Saitama Prefecture 355-0044 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-oppe-river-7_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4186228,35.9949303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川7.6KPライブカメラ / Oppe River 7.6KP Live Camera</name>
+        <description><![CDATA[埼玉県東松山市宮鼻「国土交通省川の防災情報」/ Miyahana, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-oppe-river-7_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4173142,35.994089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川10.4KPライブカメラ / Oppe River 10.4KP Live Camera</name>
+        <description><![CDATA[埼玉県東松山市田木「国土交通省川の防災情報」/ Tagi, Higashimatsuyama City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-oppe-river-10_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3884923,35.9851081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九十九川越辺川合流点ライブカメラ / Tsukumo River Oppe River Confluence Live Camera</name>
+        <description><![CDATA[埼玉県東松山市正代「荒川上流河川事務所」/ Shodai, Higashimatsuyama City, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-higashimatsuyama-tsukumo-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4181159,35.9949477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川昭和橋上流水位監視ライブカメラ / Tone River Showa Bridge upstream water level monitoring live camera</name>
+        <description><![CDATA[埼玉県羽生市上新郷「利根川上流河川事務所」/ Kamishingo, Hanyu City, Saitama Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-hanyu-tonegawa-showabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5077537,36.1900986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川左岸64.0KPライブカメラ / Arakawa left bank 64.0KP live camera</name>
+        <description><![CDATA[埼玉県鴻巣市糠田 「国土交通省川の防災情報」/ Nukata, Konosu City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4783318,36.0639346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川60.8KP左岸ライブカメラ / Arakawa 60.8KP left bank live camera</name>
+        <description><![CDATA[埼玉県鴻巣市滝馬室「国土交通省川の防災情報」/ Takimamuro, Konosu City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-kounosu-arakawa-60_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5020488,36.0452659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤堀川新鯉沼橋観測局ライブカメラ / Akahori River Shinkoinuma Bridge Observation Station Live Camera</name>
+        <description><![CDATA[〒365-0024 埼玉県鴻巣市常光 新鯉沼橋 「埼玉県河川監視カメラ」/ Shinkoinuma Bridge, Joko, Konosu City, Saitama Prefecture 365-0024, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kounosu-akahorigawa-shinkoinumabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5606349,36.0397124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元荒川三ツ木堰観測局ライブカメラ / Motoara River Mitsugi Weir Observation Station Live Camera</name>
+        <description><![CDATA[埼玉県鴻巣市三ツ木「埼玉県河川監視カメラ」/ Mitsugi, Konosu City, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4686891,36.0927592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川面水門元荒川側・武蔵水路側ライブカメラ / Kawazura Sluice Motoara River side and Musashi waterway side live camera</name>
+        <description><![CDATA[埼玉県鴻巣市川面「利根導水総合事業所」/ Kawazura, Konosu City, Saitama Prefecture, "Tone Water Conveyance General Office"<br>https://livecamera.fujiyamasan.com/saitama-kounosu-kawazura-sluice.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4786228,36.0991571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川上武大橋下流ライブカメラ / Tone River Jobu Ohashi Downstream Live Camera</name>
+        <description><![CDATA[埼玉県深谷市中瀬「利根川上流河川事務所」/ Nakaze, Fukaya City, Saitama Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-tonegawa-jobuohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.273201,36.2439952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川植松橋ライブカメラ / Arakawa Uematsu Bridge Live Camera</name>
+        <description><![CDATA[埼玉県深谷市本田 「荒川上流河川事務所」/ Honda, Fukaya City, Saitama Prefecture "Arakawa River Office"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-arakawa-uematsubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2815226,36.1354193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川84.0KP右岸ライブカメラ / Arakawa 84.0KP right bank live camera</name>
+        <description><![CDATA[埼玉県深谷市本田 「国土交通省川の防災情報」/ Honda, Fukaya City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-honda-arakawa-84kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2969191,36.1354177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山川内ヶ島観測所ライブカメラ / Koyama River Uchigashima Observatory Live Camera </name>
+        <description><![CDATA[埼玉県深谷市大塚 「埼玉県河川監視カメラ」/ Ozuka, Fukaya City, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-koyamagawa-uchigashima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2744141,36.224067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山川2.5KP右岸ライブカメラ / Oyama River 2.5KP right bank live camera</name>
+        <description><![CDATA[埼玉県深谷市石塚「国土交通省川の防災情報」/ Ishizuka, Fukaya City, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-sihizuka-koyamagawa-2_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3096883,36.2304457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐沢川新東橋観測所ライブカメラ / Karasawa River Shinhigashibashi Observatory Live Camera</name>
+        <description><![CDATA[〒366-0026 埼玉県深谷市稲荷町１丁目１０「埼玉県河川監視カメラ」/ 1-10 Inaricho, Fukaya City, Saitama Prefecture 366-0026 "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-fukaya-karasawagawa-shinhigashibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2868363,36.1928854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川栗橋水位観測所ライブカメラ / Tonegawa Kurihashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[埼玉県久喜市栗橋「利根川上流河川事務所」/ Kurihashi, Kuki City, Saitama Prefecture "Tonegawa Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7018835,36.1430513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元荒川栢間観測局ライブカメラ / Motoarakawa Kayama Observatory Live Camera</name>
+        <description><![CDATA[埼玉県久喜市菖蒲町下栢間「埼玉県河川監視カメラ」/ Shimokayama, Shobu-cho, Kuki-shi, Saitama, "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-kuki-shobu-shimokayama-motoarakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5817143,36.0311477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リトラス埼玉支店ライブカメラ / Litras Saitama Branch Live Camera</name>
+        <description><![CDATA[〒346-0029 埼玉県久喜市江面４３２−１　リトラス 埼玉支店 / Litras Saitama Branch, 432-1 Ezura, Kuki-shi, Saitama 346-0029<br>https://livecamera.fujiyamasan.com/saitama-kuki-ezura-retrus-saitama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6579044,36.0603559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川武蔵水路合流点ライブカメラ / Arakawa Musashi Waterway Confluence Live Camera</name>
+        <description><![CDATA[埼玉県吉見町明秋「荒川上流河川事務所」/ Meishu, Yoshimi Town, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-yoshimi-arakawa-musashi-waterway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4812749,36.0589799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川58.8KP右岸ライブカメラ / Arakawa 58.8KP right bank live camera</name>
+        <description><![CDATA[埼玉県吉見町久保田新田「国土交通省川の防災情報」/ Kubota Shinden, Yoshimi Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-yoshimi-arakawa-58_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4999118,36.028355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川63.2KP右岸ライブカメラ / Arakawa 63.2KP Right Bank Live Camera</name>
+        <description><![CDATA[埼玉県吉見町古名新田 「国土交通省川の防災情報」/ Komyo Shinden, Yoshimi Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-yoshimi-arakawa-63_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4711419,36.048666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市野川慈雲寺橋観測所ライブカメラ / Ichinogawa Jiyunjibashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県吉見町江綱「埼玉県河川監視カメラ」/ Etsuna, Yoshimi Town, Saitama Prefecture "Saitama Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/saitama-yoshimi-ichinogawa-jiunjibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4386643,36.018322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川13.8KP左岸ライブカメラ / Oppe River 13.8KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県鳩山町石坂「国土交通省川の防災情報」/ Ishizaka, Hatoyama Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-hatoyama-oppe-river-13_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3537796,35.9760191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川14.2KP左岸ライブカメラ / Oppe River 14.2KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県鳩山町赤沼「国土交通省川の防災情報」/ Akanuma, Hatoyama Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-hatoyama-oppe-river-14_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3506843,35.9717835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越辺川15.1KP左岸ライブカメラ / Oppe River 15.1KP Left Bank Live Camera</name>
+        <description><![CDATA[埼玉県鳩山町赤沼「国土交通省川の防災情報」/ Akanuma, Hatoyama Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-hatoyama-akanuma-oppe-river-15_1kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3442895,35.9680521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ときがわ花菖蒲園ライブカメラ / Tokigawa Iris Garden Live Camera</name>
+        <description><![CDATA[〒355-0342 埼玉県比企郡ときがわ町玉川２５０８　ときがわ花菖蒲園 「ときがわ町役場」/ Tokigawa Iris Garden, 2508 Tamagawa, Tokigawa-cho, Hiki-gun, Saitama 355-0342,  "Tokigawa Town Hall"<br>https://livecamera.fujiyamasan.com/saitama-tokigawa-iris-garden.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2949731,36.0080845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川川北橋ライブカメラ / Tokigawa Kawakitabashi Live Camera</name>
+        <description><![CDATA[埼玉県比企郡ときがわ町本郷「ときがわ町役場」/ Hongo, Tokigawa Town, Hiki District, Saitama Prefecture "Tokigawa Town Hall"<br>https://livecamera.fujiyamasan.com/saitama-tokigawa-tokigawa-kawakitabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2857638,36.0054133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都幾川玉川橋観測局ライブカメラ / Tokigawa Tamagawabashi Observatory Live Camera</name>
+        <description><![CDATA[埼玉県ときがわ町玉川「埼玉県河川監視カメラ」/ Tamagawa, Tokigawa Town, Saitama Prefecture, "Saitama Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2954204,36.0101501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神流川肥土ライブカメラ / Kanna River Hido Live Camera</name>
+        <description><![CDATA[〒367-0238 埼玉県児玉郡神川町肥土 「高崎河川国道事務所」/ Hido, Kamikawa-cho, Kodama-gun, Saitama 367-0238 "Takasaki River National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kamikawa-hido-kanna-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0905538,36.2242822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神流川金久保ライブカメラ / Kanna River Kanakubo Live Camera</name>
+        <description><![CDATA[〒369-0301 埼玉県児玉郡上里町金久保 「高崎河川国道事務所」/ Kanakubo, Kamisato-cho, Kodama-gun, Saitama Prefecture 369-0301 "Takasaki River National Highway Office"<br>https://livecamera.fujiyamasan.com/saitama-kamisato-kanakubo-kanna-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.139838,36.2638946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏川八町河原ライブカメラ / Karasugawa Hatchogawara Live Camera</name>
+        <description><![CDATA[〒369-0304 埼玉県児玉郡上里町八町河原 「高崎河川国道事務所」/  Hatchogawara, Kamisato-machi, Kodama-gun, Saitama Prefecture 369-0304, "Takasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1651285,36.2697901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武鉄道東上本線男衾駅西口ライブカメラ / Tobu Railway Tobu Main Line Obusuma Station West Exit Live Camera</name>
+        <description><![CDATA[埼玉県寄居町富田「東和不動産」/ Tomida, Yorii Town, Saitama Prefecture, "Towa Real Estate"<br>https://livecamera.fujiyamasan.com/saitama-yorii-obusuma-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2336021,36.1080894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川寄居水位観測所ライブカメラ / Arakawa Yorii Water Level Observatory Live Camera</name>
+        <description><![CDATA[埼玉県寄居町寄居 「荒川上流河川事務所」/ Yorii, Yorii Town, Saitama Prefecture "Arakawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/saitama-yorii-arakawa-yorii-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1988948,36.1115913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川89.8KP右岸ライブカメラ / Arakawa 89.8KP right bank live camera</name>
+        <description><![CDATA[埼玉県寄居町赤浜「国土交通省川の防災情報」/ Akahama, Yorii Town, Saitama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/saitama-yorii-akahama-arakawa-89_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2445838,36.1168805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝沢ダムライブカメラ / Takizawa Dam Live Camera</name>
+        <description><![CDATA[〒369-1901 埼玉県秩父市大滝３０２１　滝沢ダム管理所 「荒川ダム総合管理所」/ Takizawa Dam Management Office, 3021 Otaki, Chichibu City, Saitama Prefecture 369-1901  "Arakawa Dam Management Office"<br>saitama-chichibu-takizawa-dam]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8991796,35.9579211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号雷電廿六木橋ライブカメラ / National Highway No. 140 Raiden Todoroki Rokugibashi Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝 「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-raidentodoroki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9027421,35.9556426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号大滝大橋第1ライブカメラ / National Highway No. 140 Otaki Ohashi No. 1 Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-otakiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.904054,35.958097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号大滝大橋第2ライブカメラ / National Highway No. 140 Otaki Ohashi No. 2 Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-otakiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.904,35.955261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号黒文字橋第1ライブカメラ / National Highway No. 140 Kuro-moji Bridge No. 1 Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-kuromoji-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8273965,35.9224729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号黒文字橋第2ライブカメラ / National Highway No. 140 Kuro-moji Bridge No. 2 Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-kuromoji-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.827071,35.9228248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号川又ライブカメラ / National Highway No. 140 Kawamata Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-otaki-r140-kawamata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8416308,35.934295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号蒔田大橋ライブカメラ / National Highway No. 140 Maita Ohashi Live Camera</name>
+        <description><![CDATA[埼玉県秩父市蒔田 「秩父県土整備事務所」/ Maita, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-maitaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.072717,36.031684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号蒔田トンネルライブカメラ / National Highway No. 140 Maita Tunnel Live Camera</name>
+        <description><![CDATA[埼玉県秩父市蒔田 「秩父県土整備事務所」/ Maita, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-maita-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.082528,36.044194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号豆焼橋ライブカメラ / National Highway No. 140 Mameyaki Bridge Live Camera</name>
+        <description><![CDATA[埼玉県秩父市大滝「秩父県土整備事務所」/ Otaki, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-mameyaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8223948,35.9105842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号上野町交差点ライブカメラ / National Highway No. 140 Uenocho Crossing Live Camera</name>
+        <description><![CDATA[埼玉県秩父市上野町「秩父県土整備事務所」/ Uenomachi, Chichibu City, Saitama Prefecture<br>"Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r140-ueno-crossing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.087267,35.994531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道11号熊谷小川秩父線定峰峠ライブカメラ / Saitama Prefectural Road No. 11 Kumagai Ogawa Chichibu Line Sadamine Pass Live Camera</name>
+        <description><![CDATA[埼玉県秩父市定峰「秩父県土整備事務所」/ Sadamine, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1634778,36.0113721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道210号中津川三峰口停車場線赤岩トンネルライブカメラ / Saitama Prefectural Road 210 Nakatsugawa Mitsumineguchi Stop Line Akaiwa Tunnel Live Camera</name>
+        <description><![CDATA[埼玉県秩父市中津川「秩父県土整備事務所」/ Nakatsugawa, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Maintenance Office"<br>　https://livecamera.fujiyamasan.com/saitama-chichibu-nakatsugawa-r210-akaiwa-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8618913,35.9632285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道210号中津川三峰口停車場線雷電三高山トンネルライブカメラ</name>
+        <description><![CDATA[埼玉県秩父市中津川「秩父県土整備事務所」/ Nakatsugawa, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Maintenance Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-r210-mitakayama-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8465045,35.9652826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道210号中津川三峰口停車場線出合ライブカメラ / Saitama Prefectural Road 210 Nakatsugawa Mitsumineguchi Stop Line Deai Live Camera</name>
+        <description><![CDATA[埼玉県秩父市中津川「秩父県土整備事務所」/ Nakatsugawa, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Maintenance Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-nakatsugawa-r210-deai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8191568,36.0005505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道278号秩父多摩甲斐国立公園三峰線三峯神社付近ライブカメラ</name>
+        <description><![CDATA[埼玉県秩父市三峰「秩父県土整備事務所」/  Mitsumine, Chichibu City, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-chichibu-mitsumine-r278.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.931852,35.922719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笑にゃんこ王国チャンネルライブカメラ / Niko Nyanko Kingdom Channel Live Camera</name>
+        <description><![CDATA[〒369-1503 埼玉県秩父市下吉田４８３−２　笑にゃんこ王国 / Niko Nyanko Kingdom, 483-2 Shimoyoshida, Chichibu City, Saitama Prefecture 369-1503<br>https://livecamera.fujiyamasan.com/saitama-chichibu-nico-nyanko-kingdom.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0421599,36.0382028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号坂氷交差点ライブカメラ / National highway No. 299 Sakagori intersection live camera</name>
+        <description><![CDATA[埼玉県横瀬町横瀬「秩父県土整備事務所」/ Yokoze, Yokoze Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-yokoze-r299-sakagori-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.092975,35.99148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号正丸トンネル出口付近ライブカメラ / National highway No. 299 Shomaru tunnel exit live camera</name>
+        <description><![CDATA[埼玉県横瀬町芦ヶ久保「秩父県土整備事務所」/ Ashigakubo, Yokoze Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-yokoze-r299-shomaru-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1615409,35.9622886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝登山ロープウェイ宝登山頂駅ライブカメラ / Hodosan Ropeway Hodosan Mountain Top Station Live Camera</name>
+        <description><![CDATA[〒369-1621 埼玉県秩父郡皆野町金崎１７３８ 宝登山頂駅　「宝登興業株式会社」/ Hodosan Mountain Top Station, 1738 Kanasaki, Minano-cho, Chichibu-gun, Saitama 369-1621,   "Hokokogyo Co., Ltd."<br>https://livecamera.fujiyamasan.com/saitama-chichibu-hodosan-ropeway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0931986,36.0911414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号長瀞町矢那瀬ライブカメラ / National Highway No. 140 Nagatoro Town Yanase Live Camera</name>
+        <description><![CDATA[埼玉県長瀞町矢那瀬「秩父県土整備事務所」/ Yanase, Nagatoro Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-nagatoro-yanase-r140.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1538141,36.1347341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道82号長瀞玉淀自然公園線金尾峠ライブカメラ / Saitama Prefectural Road No. 82 Nagatoro Tamayodo Nature Park Line Kanao Pass Live Camera</name>
+        <description><![CDATA[埼玉県長瀞町岩田「秩父県土整備事務所」/ Iwata, Nagatoro Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-nagatoro-iwata-r82-kanao-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1408013,36.1293558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号志賀坂ライブカメラ / National Highway 299 Shigasaka Live Camera</name>
+        <description><![CDATA[埼玉県小鹿野町河原沢「秩父県土整備事務所」/ Kawarasawa, Ogano Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-ogano-kawarasawa-r299-shigasaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8481224,36.0596623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号千束峠ライブカメラ / National Highway No. 299 Senzoku Pass Live Camera</name>
+        <description><![CDATA[埼玉県小鹿野町長留「秩父県土整備事務所」/ Nagaru, Ogano Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-ogano-r299-senzoku-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0438911,36.0089025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号坂本ライブカメラ / National Highway 299 Sakamoto Live Camera</name>
+        <description><![CDATA[埼玉県小鹿野町河原沢「秩父県土整備事務所」/ Kawarasawa, Ogano Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-ogano-r299-sakamoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8593072,36.0559571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県道209号小鹿野影森停車場線長尾根峠ライブカメラ / Saitama Prefectural Road No. 209 Ogano Kagemori Stop Line Nagaone Pass Live Camera</name>
+        <description><![CDATA[埼玉県小鹿野町長留「秩父県土整備事務所」/ Nagaru, Ogano Town, Saitama Prefecture "Chichibu Prefectural Land Development Office"<br>https://livecamera.fujiyamasan.com/saitama-ogano-r209-nagaone-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0470542,35.9835806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

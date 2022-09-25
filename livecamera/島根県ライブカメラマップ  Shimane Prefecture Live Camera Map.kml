@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>島根県ライブカメラマップ / Shimane Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>島根県内ライブカメラ</name>
+      <Placemark>
+        <name>赤ハゲ山山頂ライブカメラ / Mt. Akahage Live Camera</name>
+        <description><![CDATA[〒684-0100 島根県隠岐郡知夫村（その他） アカハゲ山　「知夫村役場」/ Mt. Akahage, Chibu-mura, Oki-gun, Shimane-ken 684-0100, "Chibu Village Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0143191,36.0208468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県議会中継</name>
+        <description><![CDATA[島根県松江市内中原町<br>島根県庁県議会議事堂]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.049111,35.471479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陰のライブカメラ　松江駅 / Matsue Station</name>
+        <description>島根県松江市朝日町５８９−２ セコム山陰（株） 松江支社 「San-inNet」 / SECOM SANIN CO., LTD., Matsue Branch, 589-2 Asahi-cho, Matsue City, Shimane</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.063617,35.465004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>臨水亭から望む宍道湖</name>
+        <description><![CDATA[島根県松江市末次本町<br>臨水亭]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.053832,35.468727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川河川事務所管内周辺地図・ライブカメラ</name>
+        <description>〒689-3537 鳥取県米子市古豊千６７８  国土交通省日野川河川事務所 日野川出張所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.368637,35.4209412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足立美術館庭園ライブカメラ(Live: The Gardens of Adachi Museum)</name>
+        <description><![CDATA[〒692-0064 島根県安来市古川町３２０　足立美術館　「You Tube」/ Adachi Museum, 320 Furukawa-cho, Yasugi-shi, Shimane-ken 692-0064, "You Tube"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1941661,35.3800162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥出雲町ライブカメラ / Okuizumo Town Live Camera</name>
+        <description>〒699-1511 島根県仁多郡奥出雲町三成３５８−１　奥出雲町役場 / Okuizumo Town Hall, 358-1 Okuizumo-cho, Nita-gun, Shimane-ken 699-1511</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0025486,35.1974133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥の谷ゲレンデ・アシハラゲレンデライブカメラ / Okunotani Ski Slope and Ashihara Ski Slope Live Camera</name>
+        <description>〒699-1811 島根県仁多郡奥出雲町八川 三井野原スキー場 / Miinohara Ski Resort, Yakawa, Okuizumi-cho, Nita-gun, Shimane-ken 699-1811</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.112101,35.0871091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>男三瓶山・三瓶自然館前 / Mt. Osanbe, Shimane and Sanbe Nature Museum</name>
+        <description>島根大田市三瓶町多根１１２１−８ 県立三瓶自然館サヒメル / Sanbe Nature Museum, 1121-8 Tane, Sanbe-cho, Ota City, Shimane</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.620559,35.152863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美郷ライブカメラ / Misato Live Camera</name>
+        <description>〒699-4621 島根県邑智郡美郷町粕渕１６８ 美郷町役場 / Misato Town Hall, 168 Misato-cho, Ochi-gun, Shimane-ken 699-4621</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.590572,35.076695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琴引ライブカメラ</name>
+        <description><![CDATA[島根県飯石郡飯南町佐見<br>琴引フォレストパークスキー場]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.768316,35.054767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>縄文村ライブカメラ / Jomonmura</name>
+        <description>〒696-0103 島根県邑智郡邑南町矢上８５０３ 縄文村 / Jomonmura, 8503 Yagami, Onan-cho, Ochi-gun, Shimane</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.420273,34.870229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ライブますだ「河川監視・景勝カメラ」 / Live Masuda "River monitoring and scenic camera" ]]></name>
+        <description>〒698-0023 島根県益田市常盤町１−１　益田市役所 / Masuda City Hall, 1-1 Tokiwa-cho, Masuda-shi, Shimane-ken 698-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8428612,34.6748185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜田河川国道事務所冬期カメラ映像公開 / Hamada River and National Route Office Winter Camera Released Videos</name>
+        <description>〒697-0034 島根県浜田市相生町３９７３ 国土交通省浜田河川国道事務所 / Ministry of Land, Infrastructure and Transport Hamada River National Highway Office, 3973 Aioi-cho, Hamada-shi, Shimane-ken 697-0034</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.094068,34.894925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県水防情報システム河川カメラ / Shimane Prefecture Flood Control Information System River Camera</name>
+        <description>〒690-0887 島根県松江市殿町８ 島根県庁南庁舎 県庁河川課 / Shimane Prefectural Government Office South Building,  Prefectural Government River Division, 8 Tonomachi, Matsue-shi, Shimane-ken 690-0887</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0511358,35.4704815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道54号ライブカメラ / National Route 54 Live Camera</name>
+        <description>〒690-0017 島根県松江市西津田２丁目６−２８　国土交通省松江国道事務所 / Ministry of Land and Infrastructure Matsue National Highway Office, 2-6-28 Nishitsuda, Matsue-shi, Shimane-ken 690-0017</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0747147,35.4600528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道路カメラ情報 / Shimane Prefecture Road Camera Information</name>
+        <description>〒690-0887 島根県松江市殿町８　島根県庁土木部道路維持課 / Shimane Prefectural Government Civil Engineering Department Road Maintenance Section, 8 Tonomachi, Matsue-shi, Shimane-ken 690-0887</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0511583,35.4704872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県立大学松江キャンパスライブカメラ / Shimane Prefectural University Matsue Campus Live Camera</name>
+        <description><![CDATA[〒690-0044 島根県松江市浜乃木７丁目２４ 島根県立大学 松江キャンパス 「内田洋行(IoT百葉箱)」/ Shimane Prefectural University Matsue Campus,  7-24 Hamanogi, Matsue City, Shimane Prefecture 690-0044, "Uchida Yoko (IoT Stevenson Screen)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0604269,35.4388634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道24号松江木次線東忌部ライブカメラ / Shimane Prefectural Road No. 24 Matsue Kiji Line Higashiinbe Live Camera</name>
+        <description><![CDATA[〒690-0036 島根県松江市東忌部町 「島根県土木部道路維持課」/  Higashiinbecho, Matsue City, Shimane Prefecture 690-0036, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0437752,35.3885628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号森山ライブカメラ / National highway No. 485 Moriyama live camera</name>
+        <description><![CDATA[島根県松江市美保関町森山 「島根県土木部道路維持課」/ Moriyama, Mihonoseki-cho, Matsue City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2280048,35.5531905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍道湖末次ポンプ場ライブカメラ / Lake Shinji Suetsugu Pumping Station Live Camera</name>
+        <description><![CDATA[島根県松江市末次町86 「出雲河川事務所」/ 86 Suetsugucho, Matsue City, Shimane Prefecture "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0482465,35.4670727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大橋川大橋川出張所ライブカメラ / Ohashi River Ohashi River Branch Office Live Camera</name>
+        <description>〒690-0011 島根県松江市東津田町２３３８ 国土交通省出雲河川事務所 大橋川出張所 / Ohashigawa Branch Office, Izumo River Office, Ministry of Land, Infrastructure, Transport and Tourism, 2338 Higashitsudacho, Matsue City, Shimane Prefecture 690-0011 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.086814,35.462181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKT松江お天気ライブカメラ / NKT Matsue Weather Live Camera</name>
+        <description>〒690-0049 島根県松江市袖師町２−３８ 日本海テレビ 島根総局 /  Nihonkai TV, Shimane General Bureau  2-38 Sodeshi-cho, Matsue-shi, Shimane 690-0049 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0517533,35.4581793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍道湖夕陽ライブカメラ / The Sunset of Lake Shinji</name>
+        <description><![CDATA[島根県松江市袖師町 島根県立美術館 「しんじ湖サンセットなび」/ SHIMANE ART MUSEUM, Sodeshi-cho, Matsue City, Shimane, "Lake Shinji Sunset Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.052673,35.459691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>穴道湖袖師ライブカメラ / Lake Shinji Sodeshi Live Camera </name>
+        <description><![CDATA[島根県松江市袖師町 「出雲河川事務所」/ Sodeshi-cho, Matsue City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0509446,35.4584904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京橋川京橋川水位観測所ライブカメラ / Kyobashi River Kyobashi River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒690-0826 島根県松江市学園南１丁目 「島根県土木部河川課」/ 1-chome, Gakuenminami, Matsue City, Shimane Prefecture 690-0826,  "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0668357,35.4713294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北田川北田川水門ライブカメラ / Kitada River Kitada River Sluice Live Camera</name>
+        <description><![CDATA[〒690-0825 島根県松江市学園１丁目 「島根県土木部河川課」/ 1-chome, Gakuen, Matsue City, Shimane Prefecture 690-0825, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0674424,35.4783357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四十間堀川堀川遊覧船乗り場ライブカメラ / Shijukkenbori River Pleasure Boat Landing Live Camera</name>
+        <description><![CDATA[〒690-0887 島根県松江市殿町１９３ 大手前堀川遊覧船乗場 「島根県土木部河川課」/ Otemae Horikawa Pleasure Boat Landing, 193 Tonomachi, Matsue City, Shimane Prefecture 690-0887, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0527086,35.4735986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>比津川お茶屋橋ライブカメラ / Hidu River Ochaya Bridge Live Camera</name>
+        <description><![CDATA[〒690-0876 島根県松江市黒田町「島根県土木部河川課」/ Kuroda-cho, Matsue City, Shimane Prefecture 690-0876, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0425612,35.4798098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>比津川春日ライブカメラ / Hidu River Kasuga Bridge Live Camera</name>
+        <description><![CDATA[〒690-0876 島根県松江市黒田町「島根県土木部河川課」/ Kuroda-cho, Matsue City, Shimane Prefecture 690-0876, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0425827,35.4795128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号縁結び大橋ライブカメラ / National highway 485 matchmaking Ohashi live camera</name>
+        <description><![CDATA[島根県松江市東津田町 縁結び大橋「島根県土木部道路維持課」/ Matchmaking Ohashi,   Higashitsudacho, Matsue City, Shimane Prefecture, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0929399,35.4616678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号西尾ライブカメラ / Route 485 Nishio Live Camera</name>
+        <description><![CDATA[島根県松江市西尾町 「島根県土木部道路維持課」/ Nishio-cho, Matsue City, Shimane Prefecture "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0939631,35.4661884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日吉親水公園八雲ゆう游こいのぼりライブカメラ / Hiyoshi Water Park Yuyu Yakumo Koinobori Live Camera</name>
+        <description><![CDATA[〒690-2101 島根県松江市八雲町日吉 日吉公園 「八雲ゆう人会」/ Hiyoshi Park, Yakumo-cho, Matsue-shi, Shimane 690-2101, "Yakumo Yujinkai"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0951773,35.4175666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本シジミ研究所宍道湖ライブカメラ / Nihonshijimi Research Institute Lake Shinji Live Camera</name>
+        <description>〒699-0204 島根県松江市玉湯町林１２８０−１ 日本シジミ研究所 /  Nihonshijimi Research Institute, 1280-1 Tamayuchohayashi, Matsue City, Shimane Prefecture 699-0204</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9826311,35.4302088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Webさんいん屋上から松江城 / Matsue-jo Castle</name>
+        <description><![CDATA[〒690-0886 島根県松江市母衣町１８０−２０　（株）松江情報センター Ｗｅｂ−さんいん　/ Matsue Joho Center, Inc., 180-20 Horo-cho, Matsue City, Shimane, "Web-Sanin"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0569741,35.4738397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美保関灯台付近の風景 / The Landscape in the vincity of Mihonoseki Lighthouse</name>
+        <description><![CDATA[〒690-1501 島根県松江市美保関町美保関 美保関灯台 「境海上保安部」 / Miihonoseki Lighthous, Mihonoseki, Mihonoseki-cho, Matsue-shi, Shimane-ken 690-1501, "Sakai Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.325272,35.567352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号古志原トンネルライブカメラ / National highway No. 9 Koshihara tunnel live camera</name>
+        <description><![CDATA[〒690-0012 島根県松江市古志原 古志原トンネル 「松江国道事務所」/ Koshibara Tunnel,  Koshibara, Matsue City, Shimane Prefecture 690-0012, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0801817,35.4464064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号東津田高架橋ライブカメラ / National highway No. 9 Higashi Tsuda viaduct live camera</name>
+        <description><![CDATA[〒690-0011 島根県松江市東津田町 東津田高架橋 「松江国道事務所」/ Higashitsuda High Bridge, Higashitsuda-cho, Matsue City, Shimane Prefecture 690-0011, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0864363,35.4500052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道24号松江木次線大川端ライブカメラ / Shimane Prefectural Road No. 24 Matsue Kiji Line Okawabata Live Camera</name>
+        <description><![CDATA[〒690-0036 島根県松江市東忌部町大川端 「島根県土木部道路維持課」/ Okawabata, Higashiinbe-cho, Matsue City, Shimane Prefecture 690-0036 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.035254,35.381018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号松江ジャンクションライブカメラ / Route 485 Matsue Junction Live Camera</name>
+        <description><![CDATA[〒690-0011 島根県松江市東津田町 松江JCT 「島根県土木部道路維持課」/ 〒690-0011 Matsue JCT, Higashitsuda-cho, Matsue-shi, Shimane "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0937346,35.447836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号川津インターチェンジライブカメラ / Route 485 Kawazu Interchange Live Camera</name>
+        <description><![CDATA[〒690-0822 島根県松江市下東川津町 川津IC 「島根県土木部道路維持課」/ 〒690-0822 Kawatsu IC, Shimohigashikawazu-cho, Matsue-shi, Shimane "Shimane Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0853124,35.4900979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TSK ライブカメラ / TSK LIVE CAMERA</name>
+        <description>〒690-0841 島根県松江市向島町１４０−１山陰中央テレビジョン放送株式会社 / San-in chuo television broadcasting co.,ltd., 140-1 Mukojima-cho, Matsue-shi, Shimane-ken 690-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0636826,35.4687829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局神戸川馬木水位観測所ライブカメラ / Chugoku Regional Development Bureau Kando River Umaki Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県出雲市馬木町 「国土交通省中国地方整備局」/ Maki-cho, Izumo City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7646513,35.3383533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局斐伊川上島水位観測所ライブカメラ / Chugoku Regional Development Bureau Hii River Ueshima Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県出雲市上島町 「国土交通省中国地方整備局」/ Kamishima-cho, Izumo City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8303606,35.3395979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神テラス稲佐の浜ライブカメラ / Kami Terrace Inasa Beach Live Camera</name>
+        <description>〒699-0702 島根県出雲市大社町杵築北仮之宮２８４４−３４ 神ＴＥＲＡＳＵ / Kami TERASU, 2844-34 Taishacho Kizukikita, Izumo City, Shimane Prefecture 699-0702  </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6730107,35.4004897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県立大学出雲キャンパスライブカメラ / Shimane Prefectural University Izumo Campus Live Camera</name>
+        <description>〒693-8550 島根県出雲市西林木町１５１ 島根県立大学 出雲キャンパス / Shimane Prefectural University Izumo Campus, 151 Nishihayashigicho, Izumo City, Shimane Prefecture 693-8550 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7726074,35.3970148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道184号神立橋西詰ライブカメラ / National highway No. 184 Kandachibashi Nishizume live camera </name>
+        <description><![CDATA[島根県出雲市大津町 「島根県土木部道路維持課」/ Otsu-cho, Izumo City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7822205,35.3697373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道431号美野ライブカメラ / National Route 431 Yoshino Live Camera</name>
+        <description><![CDATA[島根県出雲市美野町 「島根県土木部道路維持課」/ Yoshino-cho, Izumo City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9109731,35.4644089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道431号菱根ライブカメラ / National highway No. 431 Hishine live camera</name>
+        <description><![CDATA[島根県出雲市大社町菱根 「島根県土木部道路維持課」/ Hishine, Taishacho, Izumo City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7092207,35.3965096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川放水路分流堰右岸下流ライブカメラ / Hiigawa spillway diversion weir right bank downstream live camera</name>
+        <description><![CDATA[島根県出雲市大津町 「出雲河川事務所」/ Otsu-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.786055,35.354546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川放水路自彊放流警報局ライブカメラ / Hii River spillway jikyo discharge warning station live camera</name>
+        <description><![CDATA[島根県出雲市上塩冶町「出雲河川事務所」/ Kamienya-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7663773,35.3457035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川馬木大橋ライブカメラ / Kando River Maki Ohashi Live Camera</name>
+        <description><![CDATA[島根県出雲市馬木町「出雲河川事務所」/ Maki-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7676492,35.3345779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川左岸古志大橋ライブカメラ / Kando River left bank Koshi Ohashi live camera</name>
+        <description><![CDATA[〒693-0031 島根県出雲市古志町 古志大橋 「出雲河川事務所」/ Koshi Ohashi, Koshi-cho, Izumo-shi, Shimane 693-003, "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7381645,35.3474296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川石新田放流警報局ライブカメラ / Kando River Sekishinden Release Warning Station Live Camera</name>
+        <description><![CDATA[島根県出雲市大島町「出雲河川事務所」/ Ojima-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6895917,35.3433955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川分流堰左岸上流ライブカメラ / Hii River branch weir left bank upstream live camera</name>
+        <description><![CDATA[島根県出雲市大津町「出雲河川事務所」/ Otsu-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7859931,35.3507152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川船津ライブカメラ / Hii River Funatsu Live Camera</name>
+        <description><![CDATA[島根県出雲市船津町「出雲河川事務所」/ Funatsu-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7946171,35.3448363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川右岸分流地点ライブカメラ / Hii River right bank branch point live camera</name>
+        <description><![CDATA[島根県出雲市斐川町出西「出雲河川事務所」/ Shussai, Hikawa-cho, Izumo-shi, Shimane<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7917682,35.3513963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川美談ライブカメラ / Hii River Midami Live Camera</name>
+        <description><![CDATA[島根県出雲市美談町「出雲河川事務所」/ Midami-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.804201,35.4121355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川島村ライブカメラ / Hii River Shimamura Live Camera</name>
+        <description><![CDATA[島根県出雲市島村町「出雲河川事務所」/ Shimamura-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8448848,35.4270732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKT出雲お天気ライブカメラ / NKT Izumo weather live camera</name>
+        <description><![CDATA[〒693-0002 島根県出雲市今市町北本町１丁目２−１さかやビル 「日本海テレビジョン放送」/ Sakaya Building, 1-2-1, Kitahoncho, Imaichi-cho, Izumo-shi, Shimane 693-0002, "Nihonkai Telecasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7552865,35.3688795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号多伎第2ライブカメラ / National highway No. 9 Taki No. 2 live camera</name>
+        <description><![CDATA[〒699-0904 島根県出雲市多伎町口田儀 「松江国道事務所」/ Taki-cho Kuchitagi, Izumo City, Shimane Prefecture 699-0904, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.595066,35.2610634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キララビーチライブカメラ / Kirara Beach Live Camera</name>
+        <description>〒699-0902 島根県出雲市多伎町多岐１３５−１ キララ多伎 / Kirara Taki, 135-1 Taki, Taki-cho, Izumo-shi, Shimane-ken 699-0902</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6322105,35.2905295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅キララ多伎キララビーチサーフィンスポットライブカメラ / Roadside Station Kirara Taki Kirara Beach Surfing Spot Live Camera</name>
+        <description><![CDATA[〒699-0902 島根県出雲市多伎町多岐１３５−１ 道の駅 キララ多伎 「見晴らしの丘公園　キララコテージ」/ Roadside station Kirara Taki,  135-1 Taki, Taki-cho, Izumo-shi, Shimane 699-0902,  "Kirara Cottage"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6324756,35.2907828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出雲縁結び空港ライブカメラ / Izumo Enmusubi Airport Live Camera</name>
+        <description><![CDATA[〒699-0551 島根県出雲市斐川町沖洲2608 出雲空港　「JAL天気情報」/ Izumo Airport, 2608 Okinosu, Hikawa-cho, Izumo-shi, Shimane-ken 699-0551, "JAL Weather Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8860537,35.4147713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出雲縁結び空港ライブカメラ / Izumo Enmusubi Airport Live Camera</name>
+        <description><![CDATA[〒699-0551 島根県出雲市斐川町沖洲２６０８ 出雲縁結び空港 「出雲空港ターミナルビル株式会社」/ Izumo Enmusubi Airport, 2608 Okinosu, Hikawa-cho, Izumo-shi, Shimane-ken 699-0551, "Izumo Airport Terminal Building Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8850756,35.4140233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川放水路分流堰左岸下流ライブカメラ / Hii River spillway diversion weir left bank downstream live camera</name>
+        <description><![CDATA[〒693-0011 島根県出雲市大津町 「出雲河川事務所」/ Otsu-cho, Izumo City, Shimane Prefecture 693-0011, "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.784927,35.3522539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川放水路上来原放流警告局ライブカメラ / Hiigawa spillway Kamikurubara discharge warning station live camera</name>
+        <description><![CDATA[島根県出雲市大津町「出雲河川事務所」/ Otsu-cho, Izumo City, Shimane Prefecture, "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7814853,35.3543462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川放水路半分放流警告局ライブカメラ / Hii River spillway hanbu discharge warning station live camera</name>
+        <description><![CDATA[島根県出雲市上塩冶町「出雲河川事務所」/ Kamienyacho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7608951,35.3409515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川放水路合流地点ライブカメラ / Kando River spillway confluence live camera </name>
+        <description><![CDATA[島根県出雲市古志町「出雲河川事務所」/ Koshi-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7453754,35.3438076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川神戸堰下流右岸ライブカメラ / Kando River Kando Weir Downstream Right Bank Live Camera</name>
+        <description><![CDATA[島根県出雲市高松町「出雲河川事務所」/ Takamatsu-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7296429,35.351199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川大披放流警告局ライブカメラ / Kando River Obiraki Warning Station Live Camera </name>
+        <description><![CDATA[島根県出雲市高松町「出雲河川事務所」/ Takamatsucho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7224852,35.3514859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川横浜放流警告局ライブカメラ / Kando River Yokohama Release Warning Station Live Camera </name>
+        <description><![CDATA[島根県出雲市大島町 「出雲河川事務所」/ Ojima-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7024778,35.3425311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川長浜第2放流警告局ライブカメラ / Kando River Nagahama 2nd Release Warning Station Live Camera</name>
+        <description><![CDATA[島根県出雲市西園町「出雲河川事務所」/ Nishizono-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6817413,35.3628963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川河口ライブカメラ / Kando River Estuary Live Camera</name>
+        <description><![CDATA[島根県出雲市大社町杵築西「出雲河川事務所」/ Kizukinishi, Taishacho, Izumo City, Shimane Prefecture, "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6753692,35.3759466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川河口ライブカメラ / Hii River Estuary Live Camera</name>
+        <description><![CDATA[島根県出雲市出島町「出雲河川事務所」/ Dejima-cho, Izumo City, Shimane Prefecture<br>"Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8761558,35.4393679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平田船川徳雲寺橋ライブカメラ / Hiratafuna River Tokuunji Bridge Live Camera</name>
+        <description><![CDATA[〒691-0015 島根県出雲市西郷町「島根県土木部河川課」/ Saigo-cho, Izumo City, Shimane Prefecture 691-0015 "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8028374,35.4383103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯谷川本田橋ライブカメラ / Yuya River Honden Bridge Live Camera</name>
+        <description><![CDATA[〒691-0001 島根県出雲市平田町本田 本田橋「島根県土木部河川課」/  Honden Bridge,  Honden, Hirata-cho, Izumo-shi, Shimane 691-0001, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8123991,35.4270463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸川所原ライブカメラ / Kando River Tokorohara Live Camera</name>
+        <description><![CDATA[〒693-0214 島根県出雲市所原町「島根県土木部河川課」/ Tokorohara-cho, Izumo-shi, Shimane 693-0214, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7613499,35.2968663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道184号佐田ライブカメラ / National highway No. 184 Sada live camera</name>
+        <description><![CDATA[〒693-0506 島根県出雲市佐田町反邊 「島根県土木部道路維持課」/  Sada-cho Tanbe, Izumo City, Shimane Prefecture 693-0506, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7124984,35.2461201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道431号大島ライブカメラ / National Route 431 Oshima Live Camera</name>
+        <description><![CDATA[〒699-0821 島根県出雲市大島町「島根県土木部道路維持課」/ Ojima-cho, Izumo-shi, Shimane 699-0821, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.701291,35.3408329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍道湖船川河口防災定点ライブカメラ / Lake Shinji Funagawa estuary disaster prevention fixed point live camera</name>
+        <description><![CDATA[島根県出雲市園町 「ひらたCATV」/ Sonocho, Izumo City, Shimane Prefecture "Hirata CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8635517,35.4462411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩津港白い船公園防災定点ライブカメラ / Shiotsu Port Shiroifune Park Disaster Prevention Fixed Point Live Camera</name>
+        <description><![CDATA[島根県出雲市塩津町「ひらたCATV」/ Shiotsu-cho, Izumo City, Shimane Prefecture<br>"Hirata CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7817859,35.4793223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひらたメイプルホテル防災定点ライブカメラ / Hirata Maple Hotel Disaster Prevention Fixed Point Live Camera</name>
+        <description><![CDATA[〒691-0001 島根県出雲市平田町２４５１ ひらたメイプルホテル「ひらたCATV」/ Hirata Maple Hotel, 2451 Hirata-cho, Izumo-shi, Shimane 691-0001, "Hirata CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8271224,35.4361946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丹堀川防災定点ライブカメラ / Tanbori River disaster prevention fixed point live camera</name>
+        <description><![CDATA[島根県出雲市平田町「ひらたCATV」/ Hirata-cho, Izumo City, Shimane Prefecture<br>"Hirata CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8095793,35.4299868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川瑞穂大橋防災定点ライブカメラ / Hii River Mizuho Ohashi Disaster Prevention Fixed Point Live Camera</name>
+        <description><![CDATA[〒691-0003 島根県出雲市灘分町上出来洲９４３−１「ひらたCATV」/ 943-1 Kamidekisu, Nadabun-cho, Izumo-shi, Shimane 691-0003 "Hirata CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8341444,35.4281303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出雲日御碕灯台 / Izumo Hinomisaki Lighthouse</name>
+        <description>〒699-0763 島根県出雲市大社町日御碕 出雲日御碕灯台 境海上保安部 / Izumo Hinomisaki Lighthouse Sakai Coast Guard, Hinomisaki, Taisha-cho, Izumo-shi, Shimane-ken 699-0763</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6293535,35.4337435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号多伎ライブカメラ / National highway No. 9 Taki live camera</name>
+        <description><![CDATA[〒699-0903 島根県出雲市多伎町小田 「松江国道事務所」/ Oda, Takicho, Izumo City, Shimane Prefecture 699-0903 "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.616387,35.2799034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号神戸橋右岸ライブカメラ / National highway No. 9 Kand bridge right bank live camera</name>
+        <description><![CDATA[〒693-0053 島根県出雲市高松町「松江国道事務所」/ Takamatsu-cho, Izumo City, Shimane Prefecture, 693-0053, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7247156,35.3555755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道184号橋波ライブカメラ / National highway No. 184 Hashinami live camera</name>
+        <description><![CDATA[島根県出雲市佐田町下橋波 「島根県土木部道路維持課」/ Shimohashinami, Sada-cho, Izumo-shi, Shimane "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6733253,35.1981546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出雲大社 [ 神門通り ] の状況 （ライブカメラ）/ Izumo Taisha (Kando Street) Live Camera</name>
+        <description>〒699-0711 島根県出雲市大社町杵築南780−4 神門通りおもてなしステーション(神門通り観光案内所) / Kandodori Omotenashi Station (Tourist Information Office), 780-4 Kizukiminami, Taisha-cho, Izumo-shi, Shimane-ken 699-0711</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6868374,35.3948163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川水系ライブカメラ / Hii River water system live camera</name>
+        <description>〒693-0023 島根県出雲市塩冶有原町５丁目１国土交通省出雲河川事務所 / Izumo River Office, Ministry of Land, Infrastructure and Transport, Enyaarihara-cho, Izumo-shi, Shimane-ken 693-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.74563,35.359275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中海中海出張所ライブカメラ / Nakaumi Nakaumi branch office live camera</name>
+        <description>〒692-0016 島根県安来市東赤江町福井町１６３７ 国土交通省出雲河川事務所 中海出張所 /  Nakaumi Branch Office, Izumo River Office, Ministry of Land, Infrastructure, Transport and Tourism, 1637 Fukuicho, Higashiakaecho, Yasugi City, Shimane Prefecture 692-0016 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.237932,35.447241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯梨川矢田ライブカメラ / Iinashi River Yata Live Camera</name>
+        <description><![CDATA[〒692-0073 島根県安来市矢田町１１−１「島根県土木部河川課」/ 11-1 Yatacho, Yasugi City, Shimane Prefecture 692-0073, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2109121,35.3912194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯梨川大渡ライブカメラ / Iinashi River Owatari Live Camera</name>
+        <description><![CDATA[〒692-0404 島根県安来市広瀬町広瀬 「島根県土木部河川課」/ Hirose, Hirose-cho, Yasugi-shi, Shimane 692-0404, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1722945,35.3653702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道45号安来木次線奥田原ライブカメラ / Shimane Prefectural Road No. 45 Yasugikisuki Line Okutawara Live Camera</name>
+        <description><![CDATA[〒692-0625 島根県安来市広瀬町奥田原 「島根県土木部道路維持課」/ Okutawara, Hirose-cho, Yasugi City, Shimane Prefecture 692-0625<br>"Shimane Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0826079,35.2817685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道432号布部ライブカメラ / National highway No. 432 Fube live camera</name>
+        <description><![CDATA[〒692-0623 島根県安来市広瀬町布部「島根県土木部道路維持課」/  Hirosecho Fube, Yasugi City, Shimane Prefecture 692-0623, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1456475,35.3032527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道9号安来伯太日南線赤屋ライブカメラ / Shimane Prefectural Road No. 9 Yasugi Hakuta Nichinan Line Akaya Live Camera</name>
+        <description><![CDATA[〒692-0321 島根県安来市伯太町赤屋「島根県土木部道路維持課」/ Akaya, Hakuta-cho, Yasugi-shi, Shimane 692-0321 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2642391,35.297749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道258号草野横田線東比田ライブカメラ / Shimane Prefectural Road 258 Kusano Yokota Line Higashihida Live Camera</name>
+        <description><![CDATA[〒692-0733 島根県安来市広瀬町東比田「島根県土木部道路維持課」/ Higashihida, Hirose-cho, Yasugi-shi, Shimane 692-0733 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1892443,35.2526011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道432号西比田ライブカメラ / National highway No. 432 Nishihida live camera</name>
+        <description><![CDATA[〒692-0731 島根県安来市広瀬町西比田「島根県土木部道路維持課」/ Nishihida, Hirose-cho, Yasugi-shi, Shimane 692-0731 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1214108,35.2377382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道45号安来木次線上山佐ライブカメラ / Shimane Prefectural Road No. 45 Yasugi Kisuki Line Ueyamasa Live Camera</name>
+        <description><![CDATA[〒692-0413 島根県安来市広瀬町上山佐「島根県土木部道路維持課」/ Kamiyamasa, Hirose-cho, Yasugi-shi, Shimane 692-0413, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1068632,35.3203874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号安来ライブカメラ / National highway No. 9 Yasugi live camera</name>
+        <description><![CDATA[〒692-0027 島根県安来市門生町 「松江国道事務所」/ Kadoucho, Yasugi City, Shimane Prefecture 692-0027, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2932393,35.4056282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道45号安来木次線広瀬ライブカメラ / Shimane Prefectural Road No. 45 Yasugi Kisuki Line Hirose Live Camera</name>
+        <description><![CDATA[〒692-0401 島根県安来市広瀬町石原「松江国道事務所」/ Ishihara, Hirose-cho, Yasugi-shi, Shimane 692-0401, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1771378,35.3811313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局斐伊川新伊萱水位観測所ライブカメラ / Chugoku Regional Development Bureau Hii River Shin-Igaya Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県雲南市加茂町三代「国土交通省中国地方整備局」/ Kamocho Mijiro, Unnan City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8840333,35.3252866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川湯村地区ライブカメラ / Hii River Yumura district live camera</name>
+        <description><![CDATA[島根県雲南市木次町湯村 「出雲河川事務所」/ Yumura, Kisuki-cho, Unnan City, Shimane Prefecture "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9089221,35.2194739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斐伊川雲南市役所ライブカメラ / Hii River Unnan City Hall Live Camera</name>
+        <description><![CDATA[〒699-1311 島根県雲南市木次町里方５２１−１「出雲河川事務所」/ 521-1 Satokata, Kisukicho, Unnan City, Shimane Prefecture 699-1311 "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9003989,35.3076557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾原ダム上流ライブカメラ / Obara Dam upstream live camera</name>
+        <description><![CDATA[〒699-1342 島根県雲南市木次町平田２１１ 尾原ダム「出雲河川事務所」/ 211 Obara Dam, Hirata, Kisuki-cho, Unnan-shi, Shimane 699-1342 "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9512506,35.2247846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三谷川三谷川排水樋門ライブカメラ / Mitani River Mitani River Drainage Gutter Gate Live Camera</name>
+        <description><![CDATA[島根県雲南市三刀屋町三刀屋東町 「島根県土木部河川課」/ Mitoyahigashimachi, Mitoya-cho, Unnan-shi, Shimane Prefecture, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8821887,35.2937186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三刀屋川坂山橋ライブカメラ / Mitoya River Sakayamabashi Live Camera</name>
+        <description><![CDATA[〒690-2404 島根県雲南市三刀屋町三刀屋 「島根県土木部河川課」/ Mitoya, Mitoya-cho, Unnan City, Shimane Prefecture 690-2404, "Shimane Prefecture Civil Engineering Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.875883,35.2847269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線恩谷ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Onya Live Camera</name>
+        <description><![CDATA[〒690-2703 島根県雲南市掛合町波多 「島根県土木部道路維持課」/ Hata, Kakeya-cho, Unnan City, Shimane Prefecture 690-2703 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7369299,35.1408663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道273号吉田頓原線吉田ライブカメラ / Shimane Prefectural Road No. 273 Yoshida Tonbara Line Yoshida Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 「島根県土木部道路維持課」/ Yoshida, Yoshida-cho, Unnan-shi, Shimane 690-2801, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8735328,35.153385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道38号掛合上阿井線吉田梅木ライブカメラ / Shimane Prefectural Road No. 38 Kakeya Kamiai Line Yoshida Umeki Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 「島根県土木部道路維持課」/ Yoshida, Yoshida-cho, Unnan-shi, Shimane 690-2801 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8735328,35.153385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線波多ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Hata Live Camera</name>
+        <description><![CDATA[〒690-2703 島根県雲南市掛合町波多「島根県土木部道路維持課」/  Hata, Kakeya-cho, Unnan-shi, Shimane 690-2703, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7146293,35.1437977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号尾原ライブカメラ / National highway 314 Ohara live camera</name>
+        <description><![CDATA[島根県雲南市木次町北原「島根県土木部道路維持課」/ Kitahara, Kisukicho, Unnan City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9628231,35.2202155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道39号湖陵掛合線松笠ライブカメラ / Shimane Prefectural Road No. 39 Koryo Kakeya Line Matsukasa Live Camera</name>
+        <description><![CDATA[〒690-2705 島根県雲南市掛合町松笠「島根県土木部道路維持課」/ Matsukasa, Kakeya-cho, Unnan City, Shimane Prefecture 690-2705 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7836242,35.219465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道25号玉湯吾妻山線川井ライブカメラ / Shimane Prefectural Road No. 25 Tamayu Azumayama Line Kawai Live Camera</name>
+        <description><![CDATA[〒699-1222 島根県雲南市大東町川井 「島根県土木部道路維持課」/ Kawai, Daito-cho, Unnan City, Shimane Prefecture 699-1222 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9733958,35.290229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道下熊谷高架橋北ライブカメラ / Matsue Expressway Shimokumaya High Bridge North Live Camera</name>
+        <description><![CDATA[〒690-2403 島根県雲南市三刀屋町下熊谷 「三次河川国道事務所」/ Shimokumaya, Mitoya-cho, Unnan City, Shimane Prefecture 690-2403 "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8966705,35.3062713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道上熊谷トンネル北坑口ライブカメラ / Matsue Expressway Kamikumagaya Tunnel North Wellhead Live Camera</name>
+        <description><![CDATA[島根県雲南市三刀屋町上熊谷 上熊谷トンネル 「三次河川国道事務所」/ Kamikumagaya Tunnel, Kamikumagaya, Mitoya-cho, Unnan City, Shimane Prefecture,  "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8896563,35.2706734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道高瀬山トンネル北坑口ライブカメラ / Matsue Expressway Takaseyama Tunnel North Wellhead Live Camera</name>
+        <description><![CDATA[島根県雲南市三刀屋町多久和 高瀬山トンネル 「三次河川国道事務所」 / Takaseyama tunnel, Takuwa, Mitoya-cho, Unnan City, Shimane Prefecture, "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8796198,35.2435717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道川尻トンネル北坑口ライブカメラ / Matsue Expressway Kawashiri Tunnel North Wellhead Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 川尻トンネル 「三次河川国道事務所」/ Kawashiri Tunnel, Yoshida, Yoshida Town, Unnan City, Shimane Prefecture 690-2801,  "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8332008,35.1826437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道雲南吉田インターチェンジライブカメラ / Matsue Expressway Unnan Yoshida Interchange Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 雲南吉田IC「三次河川国道事務所」/ Unnan-Yoshida IC,   Yoshida, Yoshida-cho, Unnan-shi, Shimane 690-2801, "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8303806,35.1662584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道杉戸第二橋北ライブカメラ / Matsue Expressway Sugito Dainibashi Kita Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 杉戸第二橋「三次河川国道事務所」/ Sugito Dainibashi,  Yoshida, Yoshida Town, Unnan City, Shimane Prefecture 690-2801,  "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.866576,35.1247654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道54号出来山ライブカメラ / National Route 54 Dekiyama Live Camera</name>
+        <description><![CDATA[〒690-2702 島根県雲南市掛合町入間 「松江国道事務所」/  Iruma, Kakeya-cho, Unnan-shi, Shimane Prefecture 690-2702,  "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7955185,35.15141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道吉田掛合インターチェンジライブカメラ / Matsue Expressway Yoshida Kakeya Interchange Live Camera</name>
+        <description><![CDATA[〒690-2801 島根県雲南市吉田町吉田 吉田掛合IC 「三次河川国道事務所」/ Yoshida Kakeya IC, Yoshida, Yoshida Town, Unnan City, Shimane Prefecture 690-2801, "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8433581,35.1949903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松江自動車道大万木トンネル北坑口ライブカメラ / Matsue Expressway Oyorogi Tunnel North Wellhead Live Camera</name>
+        <description><![CDATA[島根県雲南市吉田町吉田「三次河川国道事務所」/ Yoshida, Yoshida-cho, Unnan-shi, Shimane "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8731678,35.1187346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道24号松江木次線薦沢ライブカメラ / Shimane Prefectural Road No. 24 Matsue Kisuki Line Komozawa Live Camera</name>
+        <description><![CDATA[〒699-1204 島根県雲南市大東町薦澤 「島根県土木部道路維持課」/ Daitocho Komozawa, Unnan City, Shimane Prefecture 699-1204,   "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0316339,35.3692604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道54号波多ライブカメラ / Route 54 Hata Live Camera</name>
+        <description><![CDATA[〒690-2703 島根県雲南市掛合町波多 「松江国道事務所」/ Hata, Kakeya-cho, Unnan City, Shimane Prefecture 690-2703 "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7724638,35.134444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号横田ライブカメラ / National Route 314 Yokota Live Camera</name>
+        <description><![CDATA[島根県仁多郡奥出雲町横田「島根県土木部道路維持課」/ Yokota, Okuizumo-cho, Nita-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0778433,35.1857181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道108号印賀奥出雲線竹崎ライブカメラ / Shimane Prefectural Road 108 Inga Oku Izumo Line Takezaki Live Camera</name>
+        <description><![CDATA[〒699-1801 島根県仁多郡奥出雲町竹崎 「島根県土木部道路維持課」/ Takezaki, Okuizumo-cho, Nita-gun, Shimane 699-1801 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1650285,35.1691329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号八川駅ライブカメラ / National highway 314 Yakawa station live camera</name>
+        <description><![CDATA[〒699-1811 島根県仁多郡奥出雲町八川「島根県土木部道路維持課」/ Yakawa, Okuizumo-cho, Nita-gun, Shimane 699-1811 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0895879,35.1492343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号山根橋ライブカメラ / National highway No. 314 Yamanebashi live camera</name>
+        <description><![CDATA[〒699-1811 島根県仁多郡奥出雲町八川「島根県土木部道路維持課」/ Yakawa, Okuizumo-cho, Nita-gun, Shimane 699-1811 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.116605,35.1099443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道432号三成ライブカメラ / National highway No. 432 Minari live camera</name>
+        <description><![CDATA[〒699-1511 島根県仁多郡奥出雲町三成５５５−４「島根県土木部道路維持課」/ 555-4 Minari, Okuizumo-cho, Nita-gun, Shimane 699-1511 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0106937,35.1944089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号鴨倉ライブカメラ / National highway No. 314 Kamokura live camera</name>
+        <description><![CDATA[〒699-1515 島根県仁多郡奥出雲町鴨倉 鴨倉トンネル 「島根県土木部道路維持課」 / Kamokura Tunnel, Kamokura, Okuizumo-cho, Nita-gun, Shimane 699-1515,  "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9703352,35.215043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道25号玉湯吾妻山線佐白ライブカメラ / Shimane Prefectural Road No. 25 Tamayu Azumayama Line Sajiro Live Camera</name>
+        <description><![CDATA[〒699-1434 島根県仁多郡奥出雲町佐白 「島根県土木部道路維持課」/ Sajiro, Okuizumo-cho, Nita-gun, Shimane 699-1434 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9757465,35.2390138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号坂根ライブカメラ / Route 314 Sakane Live Camera</name>
+        <description><![CDATA[島根県仁多郡奥出雲町八川「島根県土木部道路維持課」/ Yakawa, Okuizumo-cho, Nita-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1202915,35.1022643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道432号亀嵩ライブカメラ / National highway No. 432 Kamedake live camera</name>
+        <description><![CDATA[〒699-1701 島根県仁多郡奥出雲町亀嵩1380番地１ 道の駅 酒蔵奥出雲交流館「島根県土木部道路維持課」/ Roadside Station Sakagura Okuizumo Exchange Center, 1380-1, Kamedake, Okuizumo-cho, Nita-gun, Shimane 699-1701 "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.086511,35.227255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道25号玉湯吾妻山線馬木ライブカメラ / Shimane Prefectural Road No. 25 Tamayu Azumayama Line Umaki Live Camera</name>
+        <description><![CDATA[〒699-1941 島根県仁多郡奥出雲町大馬木「島根県土木部道路維持課」/ Omaki, Okuizumo-cho, Nita-gun, Shimane 699-1941 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0585219,35.1025466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原新田ライブカメラ / Ohara Nitta Live Camera</name>
+        <description><![CDATA[島根県仁多郡奥出雲町 「奥出雲町役場」/ Okuizumo Town, Nita District, Shimane Prefecture "Okuizumo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0024194,35.197497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>代山ブルーベリー畑ライブカメラ / Shiroyama blueberry field live camera</name>
+        <description><![CDATA[〒699-1802 島根県仁多郡奥出雲町大呂 「奥出雲町役場」/ Oro, Okuizumo-cho, Nita-gun, Shimane 699-1802 "Okuizumo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1311069,35.1885934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三成遊園地ライブカメラ / Minari Amusement Park Live Camera</name>
+        <description><![CDATA[〒699-1511 島根県仁多郡奥出雲町三成１６４１−１ 三成遊園地 「奥出雲町役場」/ Minari Amusement Park, 1641-1 Minari, Okuizumo-cho, Nita-gun, Shimane 699-1511 "Okuizumo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9897931,35.1915929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横田盆地船通山ライブカメラ / Yokota Basin Mt. Sentsū Live Camera</name>
+        <description><![CDATA[〒699-1822 島根県仁多郡奥出雲町下横田「奥出雲町役場」/ Shimoyokota, Okuizumo-cho, Nita-gun, Shimane 699-1822 "Okuizumo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0826079,35.1650769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷本郷棚田風景ライブカメラ / Otani Hongo Rice Terraces Scenery Live Camera</name>
+        <description><![CDATA[〒699-1812 島根県仁多郡奥出雲町大谷 「奥出雲町役場」/ Otani, Okuizumo Town, Nita District, Shimane Prefecture, 699-1812 "Okuizumo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0486309,35.1665537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道432号王貫ライブカメラ / National highway No. 432 Onuki live camera</name>
+        <description><![CDATA[〒699-1621 島根県仁多郡奥出雲町上阿井 「島根県土木部道路維持課」/ Kamiai, Okuizumo-cho, Nita-gun, Shimane 699-1621 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9092206,35.088828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道314号三井野ライブカメラ / National Route 314 Miino Live Camera</name>
+        <description><![CDATA[〒699-1811 島根県仁多郡奥出雲町八川 「島根県土木部道路維持課」/ Yakawa, Okuizumo-cho, Nita-gun, Shimane 699-1811 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1165621,35.1096986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志津見ダム上流ライブカメラ / Shitsumi Dam upstream live camera</name>
+        <description><![CDATA[〒690-3314 島根県飯石郡飯南町角井「出雲河川事務所」/ Tsunoi, Iinan-cho, Iishi-gun, Shimane 690-3314 "Izumo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6787979,35.1718507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道273号吉田頓原線頓原奥畑ライブカメラ / Shimane Prefectural Road No. 273 Yoshida Tonbara Line Tonbara Okuhata Live Camera</name>
+        <description><![CDATA[〒690-3207 島根県飯石郡飯南町頓原 「島根県土木部道路維持課」/ Tonbara, Iinan-cho, Iishi-gun, Shimane 690-3207 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8150332,35.0888342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線志津見ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Shitsumi Live Camera</name>
+        <description>島根県飯石郡飯南町志津見 「島根県土木部道路維持課」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6900272,35.1322182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道273号吉田頓原線頓原ライブカメラ / Shimane Prefectural Road No. 273 Yoshida Tonbara Line Tonbara Live Camera</name>
+        <description><![CDATA[島根県飯石郡飯南町頓原「島根県土木部道路維持課」/ Tonbara, Iinan-cho, Iishi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7835985,35.0797696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道55号邑南飯南線赤名ライブカメラ / Shimane Prefectural Road No. 55 Ohnan Iinan Line Akana Live Camera</name>
+        <description><![CDATA[〒690-3513 島根県飯石郡飯南町下赤名 「島根県土木部道路維持課」/ Shimoakana, Iinan-cho, Iishi-gun, Shimane 690-3513 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7147944,35.0058677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道54号赤名ライブカメラ / National Route 54 Akana Live Camera</name>
+        <description><![CDATA[〒690-3401 島根県飯石郡飯南町野萱 「松江国道事務所」/ Nogaya, Iinan-cho, Iishi-gun, Shimane 690-3401 "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7440121,35.0347651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道54号晴雲トンネルライブカメラ / National Route 54 Seiun Tunnel Live Camera</name>
+        <description><![CDATA[島根県飯石郡飯南町花栗 晴雲トンネル 「松江国道事務所」/ Seiun Tunnel, Hanaguri, Iinan Town, Iishi District, Shimane Prefecture,<br> "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7816034,35.111464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三隅大平桜ライブカメラ / Misumi Ohira Sakura Live Camera</name>
+        <description><![CDATA[〒699-3214 島根県浜田市三隅町矢原１２５７ 「浜田市観光協会」/ 1257 Yabara, Misumi-cho, Hamada City, Shimane Prefecture 699-3214 "Hamada City Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9687036,34.7365555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道186号小国ライブカメラ / Route 186 Oguni Live Camera</name>
+        <description><![CDATA[島根県浜田市金城町小国 「島根県土木部道路維持課」/ Oguni, Kanagi-cho, Hamada City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1792313,34.8115921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道186号七条ライブカメラ / National highway No. 186 Shichijo live camera</name>
+        <description><![CDATA[島根県浜田市金城町七条 「島根県土木部道路維持課」/ Shichijo, Kanagi-cho, Hamada City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1583826,34.8579407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKT浜田お天気ライブカメラ / NKT Hamada Weather Live Camera</name>
+        <description><![CDATA[〒697-0017 島根県浜田市原井町１２０３−１ 道の駅 ゆうひパーク浜田 「日本海テレビジョン放送」/ Roadside Station Yuhi Park Hamada,  1203-1 Haraicho, Hamada City, Shimane Prefecture 697-0017,  "Nihonkai Television Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0715975,34.8892333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>周布川中場ライブカメラ / Sufu River Nakaba Live Camera</name>
+        <description><![CDATA[〒697-1324 島根県浜田市穂出町中場 「島根県土木部河川課」/ Nakaba, Honode-cho, Hamada City, Shimane Prefecture 697-1324 "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0373956,34.8530925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜田川中芝橋ライブカメラ / Hamada River Nakashiba Bridge Live Camera</name>
+        <description><![CDATA[島根県浜田市黒川町 中芝橋「島根県土木部河川課」/ Nakashiba Bridge, Kurokawa-cho, Hamada City, Shimane Prefecture "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.091779,34.8993563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道5号浜田八重可部線市木ライブカメラ / Shimane Prefectural Road No. 5 Hamada Yae Kabe Line Ichigi Live Camera</name>
+        <description><![CDATA[〒697-0514 島根県浜田市旭町市木 「島根県土木部道路維持課」/ Asahicho Ichiki, Hamada City, Shimane Prefecture 697-0514, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3643245,34.8310462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道5号浜田八重可部線佐野ライブカメラ / Shimane Prefectural Road No. 5 Hamada Yaekabe Line Sano Live Camera</name>
+        <description><![CDATA[島根県浜田市佐野町 「島根県土木部道路維持課」/ Sano-cho, Hamada City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1611228,34.8858642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道5号浜田八重可部線丸原ライブカメラ / Shimane Prefectural Road No. 5 Hamada Yae Kabe Line Maruhara Live Camera</name>
+        <description><![CDATA[島根県浜田市旭町丸原 「島根県土木部道路維持課」/ Maruhara, Asahicho, Hamada City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2550582,34.8694824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道5号浜田八重可部線都川ライブカメラ / Shimane Prefectural Road No. 5 Hamada Yae Kabe Line Miyakogawa Live Camera</name>
+        <description><![CDATA[〒697-0511 島根県浜田市旭町都川 「島根県土木部道路維持課」/ Asahicho Tsukawa, Hamada City, Shimane Prefecture 697-0511,  "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3052488,34.8199441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道5号浜田八重可部線坂本ライブカメラ / Shimane Prefectural Road No. 5 Hamada Yaekabe Line Sakamoto Live Camera</name>
+        <description><![CDATA[〒697-0431 島根県浜田市旭町坂本 「島根県土木部道路維持課」/ Sakamoto, Asahi-cho, Hamada City, Shimane Prefecture 697-0431 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2658282,34.8185732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道186号波佐ライブカメラ / National highway No. 186 Haza live camera</name>
+        <description><![CDATA[〒697-0211 島根県浜田市金城町波佐  「島根県土木部道路維持課」/ Haza, Kanagi-cho, Hamada City, Shimane Prefecture, 697-0211,  "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.181962,34.7678221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道52号弥栄旭インター線安城ライブカメラ / Shimane Prefectural Road No. 52 Yaei Asahi Inter Line Anjo Live Camera</name>
+        <description><![CDATA[〒697-1203 島根県浜田市弥栄町高内 「島根県土木部道路維持課」/ Takauchi, Yasaka-cho, Hamada City, Shimane Prefecture 697-1203 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1202111,34.7871813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道186号大佐山ライブカメラ / National highway No. 186 Osayama live camera</name>
+        <description><![CDATA[〒697-0212 島根県浜田市金城町長田「島根県土木部道路維持課」/ Nagata, Kanagi-cho, Hamada City, Shimane Prefecture 697-0212 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2017072,34.759438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局匹見川横田水位観測所ライブカメラ / Chugoku Regional Development Bureau Hikimi River Yokota Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県益田市横田町「国土交通省中国地方整備局」/ Yokota-cho, Masuda City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8069745,34.6233624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局高津川神田水位観測所ライブカメラ / Chugoku Regional Development Bureau Takatsugawa Kanda Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県益田市神田町 「国土交通省中国地方整備局」/ Kanda-cho, Masuda City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.798463,34.6068427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局高津川高角水位観測所ライブカメラ / Chugoku Regional Development Bureau Takatsugawa High Angle Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県益田市須子町 「国土交通省中国地方整備局」/ Sukocho, Masuda City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8270651,34.6786521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白上川1.4KP右岸ライブカメラ / Shirakami River 1.4KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県益田市市原町登郷 「国土交通省河川情報センター」/ Noborigo, Ichihara-cho, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7908886,34.6664901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白上川0.8KP左岸ライブカメラ / Shirakami River 0.8KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県益田市市原町五反田「国土交通省河川情報センター」/ Gotanda, Ichihara-cho, Masuda City, Shimane Prefecture "Ministry of Land, Infrastructure, Transport and Tourism"<br>River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7976711,34.6662312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川派川1.0KP右岸ライブカメラ / Takatsu River Hasen 1.0KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県益田市飯田町「国土交通省河川情報センター」/ Iida-cho, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8097779,34.6706461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川派川0.0KP左岸ライブカメラ / Takatsugawa River 0.0KP Left Bank Live Camera </name>
+        <description><![CDATA[島根県益田市高津2丁目「国土交通省河川情報センター」/ 2-chome Takatsu, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8204081,34.6743865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川11.2KP左岸ライブカメラ / Takatsugawa 11.2KP left bank live camera</name>
+        <description><![CDATA[島根県益田市向横田町「国土交通省河川情報センター」/ Mukaiyokotacho, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8008054,34.6187163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川9.4KP右岸ライブカメラ / Takatsugawa 9.4KP right bank live camera</name>
+        <description><![CDATA[島根県益田市横田町「国土交通省河川情報センター」/ Yokota-cho, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7920188,34.6339376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川8.4KP左岸ライブカメラ / Takatsu River 8.4KP left bank live camera </name>
+        <description><![CDATA[島根県益田市虫追町「国土交通省河川情報センター」/ Musou Town, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7912523,34.6417239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川3.0KP右岸ライブカメラ / Takatsugawa 3.0KP right bank live camera</name>
+        <description><![CDATA[島根県益田市須子町「国土交通省河川情報センター」/ Sukocho, Masuda City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8221227,34.6717277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>益田川染羽ライブカメラ / Masuda River Someba Live Camera</name>
+        <description><![CDATA[〒698-0011 島根県益田市染羽町 「島根県土木部河川課」/ Somebacho, Masuda City, Shimane Prefecture 698-0011 "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8638019,34.6797197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道191号仙道ライブカメラ / National Route 191 Sendo Live Camera </name>
+        <description><![CDATA[〒698-0212 島根県益田市美都町仙道「島根県土木部道路維持課」/ Sendo, Mito-cho, Masuda City, Shimane Prefecture, 698-0212<br>"Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9469281,34.6688007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道54号益田澄川線波田ライブカメラ / Shimane Prefectural Road No. 54 Masuda Sumikawa Line Hata Live Camera</name>
+        <description><![CDATA[島根県益田市波田町 「島根県土木部道路維持課」/ Hada-cho, Masuda City, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9359505,34.6315232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道17号津和野田万川線桂平ライブカメラ / Shimane Prefectural Road No. 17 Tsuwanoda Mankawa Line Katsurahira Live Camera</name>
+        <description><![CDATA[〒698-2254 島根県益田市桂平町 「島根県土木部道路維持課」/ Katsurahira-cho, Masuda City, Shimane Prefecture 698-2254 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7258038,34.5852769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道42号吉賀匹見線三葛ライブカメラ / Shimane Prefectural Road No. 42 Yoshiga Hikimi Line Mikazura Live Camera</name>
+        <description><![CDATA[〒698-1212 島根県益田市匹見町紙祖 「島根県土木部道路維持課」/ Hikimicho Shiso, Masuda City, Shimane Prefecture, 698-1212, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.002399,34.5081758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道488号匹見ライブカメラ / National Route 488 Hikimi Live Camera</name>
+        <description><![CDATA[〒698-1211 島根県益田市匹見町匹見 「島根県土木部道路維持課」/ Hikimi, Hikimi-cho, Masuda City, Shimane Prefecture 698-1211,<br>"Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.068285,34.5560549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道488号澄川ライブカメラ / Route 488 Sumikawa Live Camera</name>
+        <description><![CDATA[〒698-1221 島根県益田市匹見町澄川 「島根県土木部道路維持課」/ Sumikawa, Hikimi-cho, Masuda-shi, Shimane 698-1221 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9444486,34.594462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道191号都茂ライブカメラ / National highway No. 191 Tsumo live camera</name>
+        <description><![CDATA[島根県益田市美都町都茂 「島根県土木部道路維持課」/ Tsumo, Mitocho, Masuda City, Shimane Prefecture, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9914286,34.6721921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道191号道川ライブカメラ / National highway 191 Michikawa live camera</name>
+        <description><![CDATA[〒698-1201 島根県益田市匹見町道川 「島根県土木部道路維持課」/ Michikawa, Hikimi-cho, Masuda City, Shimane Prefecture 698-1201 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1078523,34.6488731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>持石海岸ライブカメラ / Mochiishi Beach Live Camera</name>
+        <description><![CDATA[〒698-0041 島根県益田市高津町「益田市役所」/ Takatsu-cho, Masuda City, Shimane Prefecture 698-0041, "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7836214,34.685375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>匹見峡キャンプ場裏匹見峡ライブカメラ / Behind Hikimikyo campsite Hitomikyo Live Camera</name>
+        <description><![CDATA[〒698-1211 島根県益田市匹見町匹見イ８５３−３ 匹見峡レストパーク 「益田市役所」/ Hikimikyo Rest Park, 853-3 Hikimi, Hikimi Town, Masuda City, Shimane Prefecture, 698-1211, <br> "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.034241,34.549685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>益田川東仙道蛍橋ライブカメラ / Masuda River East Sendo Hotarubashi Live Camera</name>
+        <description><![CDATA[島根県益田市美都町仙道 「益田市役所」/ Sendo, Mitocho, Masuda City, Shimane Prefecture, "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9319643,34.6799742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>匹見川匹見澄川橋ライブカメラ / Hikimi River Hikimi Sumikawa River Bridge Live Camera</name>
+        <description><![CDATA[〒698-1221 島根県益田市匹見町澄川 「益田市役所」/ Sumikawa, Hikimi-cho, Masuda-shi, Shimane 698-1221 "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9422599,34.5976591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川西益田大橋ライブカメラ / Takatsu River Nishimasuda Ohashi Live Camera</name>
+        <description><![CDATA[〒699-5131 島根県益田市安富町河成 西益田大橋「益田市役所」/ Konari, Yasudomi-cho, Masuda City, Shimane Prefecture, 699-5131<br>Nishi Masuda Ohashi "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.811222,34.65121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津川鴨島大橋ライブカメラ / Takatsu River Kamoshima Ohashi Live Camera</name>
+        <description><![CDATA[島根県益田市高津７丁目 鴨島大橋 「益田市役所」/ 7-chome Takatsu, Masuda City, Shimane Prefecture Kamoshima Ohashi "Masuda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8274361,34.6903113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道191号県境匹見ライブカメラ / National highway No. 191 prefectural border Hikimi live camera</name>
+        <description><![CDATA[島根県益田市匹見町臼木谷 「島根県土木部道路維持課」/ Usugiya, Hikimi-cho, Masuda-shi, Shimane "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1589463,34.6894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>益田川ライブカメラ / Masuda River Live Camera</name>
+        <description><![CDATA[〒698-0012　島根県益田市大谷町55番地　㈱大建コンサルタント / Daiken Consultant Co., Ltd., 55 Otani-cho, Masuda-shi, Shimane-ken 698-0012<br>https://livecamera.fujiyamasan.com/shimane-masuda-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.867974,34.67827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三瓶川神田橋ライブカメラ / Sampei River Kandabashi Live Camera</name>
+        <description><![CDATA[〒694-0064 島根県大田市大田町大田「島根県土木部河川課」/ Ohda, Ohda-cho, Ohda-shi, Shimane 694-0064, "Shimane Prefecture Civil Engineering Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5264409,35.1914948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>静間川八日市橋ライブカメラ / Shizuma River Yokaichibashi Live Camera</name>
+        <description><![CDATA[〒694-0044 島根県大田市長久町土江 「島根県土木部河川課」/  Doe, Nagahisa-cho, Ohda-shi, Shimane 694-0044, "River Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4761403,35.1940105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線志学ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Shigaku Live Camera</name>
+        <description><![CDATA[〒694-0222 島根県大田市三瓶町志学 「島根県土木部道路維持課」/  Sanbecho Shigaku, Oda City, Shimane Prefecture 694-0222, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.624449,35.1129872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道177号大田井田江津線大家ライブカメラ / Shimane Prefectural Road No. 177 Otaida Ezu Line Oe Live Camera</name>
+        <description><![CDATA[〒694-0433 島根県大田市大代町大家 「島根県土木部道路維持課」/ Oshirocho Oe, Oda City, Shimane Prefecture 694-0433, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4085878,35.0342524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道31号仁摩邑南線大原ライブカメラ / Shimane Prefectural Road No. 31 Nima Ohnan Line Ohara Live Camera</name>
+        <description><![CDATA[〒694-0431 島根県大田市祖式町 「島根県土木部道路維持課」/ Soshiki-cho, Oda-shi, Shimane 694-0431, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4724911,35.0612669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道56号大田佐田線山口ライブカメラ / Shimane Prefectural Road No. 56 Ota Sada Line Yamaguchi Live Camera</name>
+        <description><![CDATA[〒694-0002 島根県大田市山口町山口 「島根県土木部道路維持課」/ Yamaguchi, Yamaguchi-cho, Oda-shi, Shimane 694-0002 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6292209,35.1753953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号温泉津トンネル終点ライブカメラ / National highway No. 9 Yunotsu tunnel end point live camera</name>
+        <description><![CDATA[〒699-2501 島根県大田市温泉津町温泉津 「松江国道事務所」/ Yunotsu, Yunotsu-cho, Oda-shi, Shimane 699-2501 "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3682016,35.0933931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号馬路トンネル起点ライブカメラ / National highway No. 9 Umaji tunnel starting point live camera</name>
+        <description><![CDATA[〒699-2304 島根県大田市仁摩町馬路 新馬路トンネル 「松江国道事務所」/ Shin-Maji Tunnel, Maji, Nima-cho, Oda-shi, Shimane 699-2304 "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3877531,35.1195883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号宅野1ライブカメラ / National highway No. 9 Takuno 1 live camera</name>
+        <description><![CDATA[〒699-2302 島根県大田市仁摩町宅野「松江国道事務所」/ Takuno, Nima-cho, Oda City, Shimane Prefecture, 699-2302, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4159614,35.1645664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号静間ライブカメラ / National highway No. 9 Shizuma live camera</name>
+        <description><![CDATA[〒694-0031 島根県大田市静間町「松江国道事務所」/ Shizuma-cho, Oda-shi, Shimane 694-0031, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4577255,35.1940428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号清水ライブカメラ / National highway No. 9 Shimizu live camera</name>
+        <description><![CDATA[〒699-2502 島根県大田市温泉津町湯里「松江国道事務所」/ Yusato, Yusato-cho, Oda City, Shimane Prefecture, 699-2502, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3729834,35.0964562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号朝山ライブカメラ / National highway No. 9 Asayama live camera</name>
+        <description><![CDATA[島根県大田市朝山町仙山「松江国道事務所」/ Senyama, Asayama-cho, Oda City, Shimane Prefecture, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5747893,35.2553234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号波根登坂ライブカメラ / National highway No. 9 Hane climbing live camera</name>
+        <description><![CDATA[〒699-2211 島根県大田市波根町 「松江国道事務所」/ Hanecho, Oda City, Shimane Prefecture 699-2211, "Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5460573,35.2371786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号宅野2ライブカメラ / National highway No. 9 Takuno 2 live camera</name>
+        <description><![CDATA[〒699-2302 島根県大田市仁摩町宅野「松江国道事務所」/ Takuno, Nima-cho, Oda City, Shimane Prefecture, 699-2302<br>"Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4171094,35.1681273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号福波ライブカメラ / National highway No. 9 Fukunami live camera</name>
+        <description><![CDATA[〒699-2514 島根県大田市温泉津町福光「松江国道事務所」/ Fukumitsu, Yunotsucho, Oda City, Shimane Prefecture, 699-2514<br>"Matsue National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3397176,35.0637913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局江の川川平水位観測所ライブカメラ / Chugoku Regional Development Bureau Gouno River Kawahira Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県江津市松川町市村「国土交通省中国地方整備局」/ Matsukawacho Ichimura, Gotsu City, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2854893,34.9987443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川7.8KP左岸ライブカメラ / Gouno River 7.8KP left bank live camera</name>
+        <description><![CDATA[島根県江津市川平町南川上 「国土交通省河川情報センター」/ Minamikawakami, Kawahira-cho, Gotsu City, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2781718,35.0064052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川29.0KP左岸ライブカメラ / Gouno River 29.0KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町鹿賀「国土交通省河川情報センター」/ Shikaga, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.449558,34.9638705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川21.8KP右岸ライブカメラ / Gouno River 21.8KP right bank live camera</name>
+        <description><![CDATA[島根県江津市桜江町大貫「国土交通省河川情報センター」/ Onuki, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3837422,34.9566861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川22.0KP右岸ライブカメラ / Gouno River 22.0KP right bank live camera</name>
+        <description><![CDATA[島根県江津市桜江町大貫「国土交通省河川情報センター」/ Onuki, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3889527,34.9568549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川19.8KP右岸ライブカメラ / Gouno River 19.8KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町大貫「国土交通省河川情報センター」/ Onuki, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3663853,34.9573355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川19.0KP左岸ライブカメラ / Gouno River 19.0KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町大貫「国土交通省河川情報センター」/ Onuki, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.361493,34.9626293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川15.8KP左岸ライブカメラ / Gouno River 15.8KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町川戸「国土交通省河川情報センター」/ Kawado, Sakurae-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3328281,34.962622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川15.2KP右岸ライブカメラ / Gouno River 15.2KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町谷住郷「国土交通省河川情報センター」/ Sakuraecho Tanijugo, Gotsu City, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3291131,34.9690087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川12.5KP右岸ライブカメラ / Gouno River 12.5KP right bank live camera</name>
+        <description><![CDATA[島根県江津市松川町長良「国土交通省河川情報センター」/ Nagara, Matsukawa-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.307255,34.9790498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川8.8KP左岸ライブカメラ / Gouno River 8.8KP left bank live camera</name>
+        <description><![CDATA[島根県江津市松川町市村「国土交通省河川情報センター」/ Matsukawacho Ichimura, Gotsu City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2811746,35.0009983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川7.4KP左岸ライブカメラ / Gouno River 7.4KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県江津市川平町南川上「国土交通省河川情報センター」/ Minamikawakami, Kawahira-cho, Gotsu City, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2754669,35.0052869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川6.4KP右岸ライブカメラ / Gouno River 6.4KP right bank live camera</name>
+        <description><![CDATA[島根県江津市松川町八神「国土交通省河川情報センター」/ Yakami, Matsukawa-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2630772,35.0044815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川5.2KP右岸ライブカメラ / Gouno River 5.2KP right bank live camera</name>
+        <description><![CDATA[島根県江津市松川町八神「国土交通省河川情報センター」/ Yakami, Matsukawa-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2557851,35.0072646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川4.9KP右岸ライブカメラ / Gouno River 4.9KP right bank live camera</name>
+        <description><![CDATA[島根県江津市松川町太田「国土交通省河川情報センター」/ Ota, Matsukawa-cho, Gotsu-shi, Shimane "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2520307,35.0115244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川3.6KP右岸ライブカメラ / Gouno River 3.6KP right bank live camera</name>
+        <description><![CDATA[島根県江津市渡津町「国土交通省河川情報センター」/ Watazu-cho, Gotsu City, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2427556,35.0028787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川下の原排水樋門ライブカメラ /    Gouno River Shimonohara Drainage Gutter Gate Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町谷住郷下ノ原 「浜田河川国道事務所」/ Shimonohara, Tanijugo, Sakurae-cho, Gotsu-shi, Shimane "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3288878,34.9688592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川江の川取水場ライブカメラ / Gono River Intake Live Camera</name>
+        <description><![CDATA[島根県江津市松川町長良「浜田河川国道事務所」/ Nagara, Matsukawa-cho, Gotsu-shi, Shimane "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2976956,34.9867985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道41号桜江金城線長谷ライブカメラ / Shimane Prefectural Road No. 41 Sakurae Kinjo Line Nagatani Live Camera</name>
+        <description><![CDATA[島根県江津市桜江町長谷 「島根県土木部道路維持課」/ Nagatani, Sakurae-cho, Gotsu-shi, Shimane, "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2664107,34.9203349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石見大崎鼻灯台ライブカメラ / Iwami Osakihana Lighthouse</name>
+        <description><![CDATA[〒699-3161 島根県江津市波子町　「浜田海上保安部」 / Iwami Osakihana Lighthouse, Hashi-cho, Gotsu-shi, Shimane-ken 699-3161, "Hamada Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1523548,34.9761965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局江の川川本水位観測所ライブカメラ / Chugoku Regional Development Bureau Gono River Kawamoto Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県川本町川本上新町「国土交通省中国地方整備局」/  Kawamoto Kamishinmachi, Kawamoto Town, Shimane Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4967011,34.9967946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川36.6KP左岸ライブカメラ / Gono Rivr 36.6KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡川本町川本 「国土交通省河川情報センター」/ Kawakudari, Kawamoto Town, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5074597,34.9996141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川34.3KP左岸ライブカメラ / Gono River 34.3KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡川本町川下「国土交通省河川情報センター」/ Kawakudari, Kawamoto Town, Ochi District, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4896108,34.986781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川32.4KP左岸ライブカメラ / Gono River 32.4KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡川本町川下「国土交通省河川情報センター」/ Kawakudari, Kawamoto Town, Ochi District, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4759157,34.9766608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川川本水位観測所ライブカメラ / Gono River Kawamoto Water Level Observatory Live Camera</name>
+        <description><![CDATA[島根県邑智郡川本町川本上新町 「浜田河川国道事務所」/ Kawamoto Kamishinmachi, Kawamoto-cho, Ochi-gun, Shimane Prefecture "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.496465,34.9967594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道31号仁摩邑南線多田第2ライブカメラ / Shimane Prefectural Road No. 31 Nimaohnan Minami Line Tada No. 2 Live Camera</name>
+        <description><![CDATA[〒696-0007 島根県邑智郡川本町多田 「島根県土木部道路維持課」/ Tada, Kawamoto-cho, Ochi-gun, Shimane 696-0007 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5043637,35.0089123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道32号温泉津川本線南佐木ライブカメラ / Shimane Prefectural Road No. 32 Yunotsu Kawamoto Line Minamisaki Live Camera</name>
+        <description><![CDATA[〒696-1225 島根県邑智郡川本町南佐木 「島根県土木部道路維持課」/Minamisaki, Kawamoto-cho, Ochi-gun, Shimane Prefecture 696-1225,   "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4110458,35.0128183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線竹ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Take Live Camera</name>
+        <description><![CDATA[島根県邑智郡川本町川本 「美郷町役場」/ Kawamoto, Kawamoto-cho, Ochi-gun, Shimane "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5228465,35.0086115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都賀大橋 （江の川水系【下流】江の川 ）ライブカメラ / Toga Ohashi (Gono River system [downstream] ) Live camera</name>
+        <description><![CDATA[〒696-0704 島根県邑智郡美郷町都賀西「国土交通省中国地方整備局」/ Tsuganishi, Misato-cho, Ochi-gun, Shimane 696-0704 "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6411223,34.9492597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川63.7KP右岸ライブカメラ / Gono River 63.7KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町潮村 「国土交通省河川情報センター」/ Shiomura, Misato-cho, Echi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6331093,35.022685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川75.8KP左岸ライブカメラ / Gono River 75.8KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町上野「国土交通省河川情報センター」/ Kamino, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6449757,34.942693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川72.2KP右岸ライブカメラ / Gono River 72.2KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町長藤「国土交通省河川情報センター」/ Nagato, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6419361,34.968637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川71.4KP右岸ライブカメラ / Gono River 71.4KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町都賀行「国土交通省河川情報センター」/ Tsugayuki, Misato-cho, Ochi-gun, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6349228,34.9770645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川67.8KP左岸ライブカメラ / Gono River 67.8KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町都賀行「国土交通省河川情報センター」/ Tsugayuki, Misato-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6106963,34.9951374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川64.6KP右岸ライブカメラ / Gono River 64.6KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町潮村「国土交通省河川情報センター」/ Ushiomura, Misato-cho, Ochi-gun, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6335814,35.0182772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川62.0KP左岸ライブカメラ / Gono River 62.0KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町潮村「国土交通省河川情報センター」/ Ushiomura, Misato-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.625402,35.0401838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川54.4KP右岸ライブカメラ / Gono River 54.4KP right bank live camera</name>
+        <description><![CDATA[島根県邑智郡美郷町上川戸「国土交通省河川情報センター」/ Kamikawado, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6051652,35.0545881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川54.2KP左岸ライブカメラ / Gono River 54.2KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町浜原「国土交通省河川情報センター」/ Hamahara, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6004636,35.0562465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川51.1KP右岸ライブカメラ / Gono River 51.1KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町粕渕「国土交通省河川情報センター」/ Kasubuchi, Misato-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5882968,35.0732818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川51.0KP左岸ライブカメラ / Gono River 51.0KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町粕渕「国土交通省河川情報センター」/ Kasubuchi, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5876531,35.0703578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川47.8KP左岸ライブカメラ / Gono River 47.8KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町明塚「国土交通省河川情報センター」/ Akatsuka, Misato-cho, Ochi-gun, Shimane Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5830535,35.044545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川46.4KP左岸ライブカメラ / Gono River 46.4KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町簗瀬「国土交通省河川情報センター」/ Yanaze, Misato Town, Ochi District, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5695006,35.0419112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川44.6KP左岸ライブカメラ / Gono River 44.6KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町簗瀬「国土交通省河川情報センター」/ Yanaze, Misato Town, Ochi District, Shimane Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5556981,35.0386174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川44.2KP右岸ライブカメラ / Gono River 44.2KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町乙原「国土交通省河川情報センター」/   Onbara, Misato-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5424255,35.0246435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川41.2KP左岸ライブカメラ / Gono River 41.2KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町乙原「国土交通省河川情報センター」/ Onbara, Misato-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5367302,35.0182696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川40.6KP右岸ライブカメラ / Gono River 40.6KP Right Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町港「国土交通省河川情報センター」/ Minato, Misato Town Port, Ochi District, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5290842,35.015247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川39.8KP右岸ライブカメラ / Gono River 39.8KP right bank live camera</name>
+        <description><![CDATA[島根県邑智郡美郷町港「国土交通省河川情報センター」/ Minato, Misato Town Port, Ochi District, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5223227,35.0103222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野間雲海ビュースポットライブカメラ / Sea of Clouds Noma View Spot Live Camera</name>
+        <description><![CDATA[邑智郡美郷町粕渕 「美郷町役場」/ Kasubuchi, Misato-cho, Ochi-gun "Misato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6059534,35.1100506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川宇都井大橋ライブカメラ / Gono River Uzui Ohashi Live Camera</name>
+        <description><![CDATA[島根県邑南町宇都井 「浜田河川国道事務所」/ Uzui, Onan Town, Shimane Prefecture "Hamada River National Highway Office" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6341725,34.9069395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川都賀大橋ライブカメラ / Gono River Tsuga Ohashi Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町都賀本郷 「浜田河川国道事務所」/ Tsugahongo, Misato-cho, Ochi-gun, Shimane Prefecture "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6414871,34.9493301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線高畑ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Takahata Live Camera</name>
+        <description><![CDATA[〒699-4632 島根県邑智郡美郷町高畑 「島根県土木部道路維持課」/ Takahata, Misato-cho, Ochi-gun, Shimane 699-4632 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5843555,35.066077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道375号粕淵ライブカメラ / National highway No. 375 Kasubuchi live camera</name>
+        <description><![CDATA[〒699-4621 島根県邑智郡美郷町粕渕 「島根県土木部道路維持課」/ Kasubuchi, Misato-cho, Ochi-gun, Shimane 699-4621 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"<br>https://livecamera.fujiyamasan.com/shimane-r375-kasubuchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.578716,35.0870336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美郷町町道大原迫線大原迫ライブカメラ / Misato Town Road Ohara Sako Line Ohara Sako Live Camera</name>
+        <description><![CDATA[島根県美郷町都賀本郷大原迫「美郷町役場」/ Tsugahongo Obarazako, Misato Town, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6614015,34.9553989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道375号上野ライブカメラ / Route 375 Ueno Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町上野「美郷町役場」/ Ueno, Misato-cho, Ochi-gun, Shimane Prefecture<br>"Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6460488,34.9384364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道55号邑南飯南線村之郷ライブカメラ / Shimane Prefectural Road No. 55 Onanmisato Line Muranogo live camera</name>
+        <description><![CDATA[島根県邑智郡美郷町村之郷「美郷町役場」/ Muranogo, Misato Town, Ochi District, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5912184,34.9455969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道55号邑南飯南線魚切谷ライブカメラ / Shimane Prefectural Road No. 55 Onaniinami Line Uogiridani Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町長藤「美郷町役場」/ Nagato, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6620007,34.9669314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道291号別府川本線地頭所ライブカメラ / Shimane Prefectural Road No. 291 Beppu Kawamoto Line Jitosho Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町地頭所「美郷町役場」/ Jitosho, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5111199,35.0339614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道186号美郷大森線枦谷ライブカメラ / Shimane Prefectural Road No. 186 Misato Omori Line Kataragai Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町枦谷「美郷町役場」/ Kataragai, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4854098,35.0817895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道375号別府ライブカメラ / Route 375 Beppu Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町別府「美郷町役場」/ Beppu, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5284649,35.0999308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道40号川本波多線久保ライブカメラ / Shimane Prefectural Road No. 40 Kawamoto Hata Line Kubo Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町粕渕「美郷町役場」/ Kasubuchi, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6111514,35.0899332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美郷町林道湯谷上山線湯谷ライブカメラ / Misato Town Forest Road Yuya Kamiyama Line Yuya Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町千原「美郷町役場」/ Chihara, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6499766,35.0855081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美郷町町道八神千原線猿丸ライブカメラ / Misato Town Road Yagami Chihara Line Sarumaru Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町千原猿丸「美郷町役場」/ Chihara Sarumaru, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6618276,35.0745056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道166号美郷飯南線酒谷ライブカメラ / Shimane Prefectural Road 166 Misato Iinan Line Sakedani Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町酒谷「美郷町役場」/ Sakedani, Misato Town, Ochi District, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7115936,35.0320036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩谷川長藤ライブカメラ / Shioya River Nagato Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町長藤「美郷町役場」/ Nagato, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6452909,34.9629703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猪之谷川猪之谷ライブカメラ / Inotanigawa Inotani Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町都賀「美郷町役場」/ Tsuga, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5985083,34.9800056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>君谷川京覧原ライブカメラ / Kimitani River Kyoranbara Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町京覧原「美郷町役場」/ Kyoranbara, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5081474,35.0641305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尻無川湯抱ライブカメラ / Shirinashi River Yugakai Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町湯抱「美郷町役場」/ Yugakai, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5684011,35.0929707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沢谷川上川戸ライブカメラ / Sawadani River Kamikawado Live Camera </name>
+        <description><![CDATA[島根県邑智郡美郷町上川戸「美郷町役場」/ Kamikawado, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6195705,35.0576353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久保川法田ライブカメラ / Kubogawa Houda Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町久保「美郷町役場」/ Kubo, Misato Town, Ochi District, Shimane Prefecture "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.618907,35.080658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮内川宮内ライブカメラ / Miyauchi River Miyauchi Live Camera</name>
+        <description><![CDATA[島根県邑智郡美郷町宮内「美郷町役場」/ Miyauchi, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato Town Hall"<br>https://livecamera.fujiyamasan.com/shimane-misato-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6026098,34.9531212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道375号粕渕市街地ライブカメラ / National highway No. 375 Kasubuchi city live camera </name>
+        <description><![CDATA[〒699-4621 島根県邑智郡美郷町粕渕「美郷町役場」/ Kasubuchi, Misato-cho, Ochi-gun, Shimane Prefecture, 699-4621, "Misato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5889835,35.0761904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮谷川潮村ライブカメラ / Shioya River Ushiomura live camera</name>
+        <description><![CDATA[島根県邑智郡美郷町潮村306-1 美郷町潮谷川親水公園「美郷町役場」/ Misato-cho Shiotanigawa Water Park, 306-1 Ushiomura, Misato-cho, Ochi-gun, Shimane Prefecture, "Misato-cho government office"<br>https://livecamera.fujiyamasan.com/shimane-misato-ushio.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6329338,35.0128682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江の川86.2KP左岸ライブカメラ / Gono River 86.2KP Left Bank Live Camera</name>
+        <description><![CDATA[島根県邑智郡邑南町下口羽 「国土交通省河川情報センター」/ Shimokuchiba, Onan-cho, Ochi-gun, Shimane Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6766917,34.8910345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道261号上田所ライブカメラ / National highway No. 261 Kamitadokoro live camera</name>
+        <description><![CDATA[島根県邑智郡邑南町上田所 「島根県土木部道路維持課」/ Kamitadokoro, Onan-cho, Ochi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4914137,34.8284063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道261号中三坂ライブカメラ / National highway No. 261 Nakamisaka live camera</name>
+        <description><![CDATA[島根県邑智郡邑南町上田所 「島根県土木部道路維持課」/ Kamitadokoro, Onan-cho, Ochi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4845235,34.8169643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道261号井原ライブカメラ / National highway No. 261 Ibara live camera</name>
+        <description><![CDATA[島根県邑智郡邑南町井原 「島根県土木部道路維持課」/ Ibara, Onan-cho, Ochi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4739823,34.9264268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜田自動車道瑞穂インターチェンジライブカメラ / Hamada Expressway Mizuho Interchange Live Camera</name>
+        <description><![CDATA[〒697-0631 島根県邑智郡邑南町市木 「西日本高速道路」/  Ichigi, Onan-cho, Ochi-gun, Shimane Prefecture 697-0631, "West Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4013586,34.8292433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道7号浜田作木線矢上ライブカメラ / Shimane Prefectural Road No. 7 Hamada Sakuki Line Yakami Live Camera</name>
+        <description><![CDATA[島根県邑智郡邑南町矢上 「島根県土木部道路維持課」/ Yakami, Onan-cho, Ochi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.437986,34.893975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号青野山トンネル南ライブカメラ / National highway No. 9 Aonoyama tunnel south live camera</name>
+        <description><![CDATA[〒699-5606 島根県鹿足郡津和野町寺田 「浜田河川国道事務所」/ Terada, Tsuwano-cho, Kanoashi-gun, Shimane 699-5606<br>"Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7783688,34.4750396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号東津和野大橋ライブカメラ / National highway No. 9 Higashi Tsuwano Ohashi live camera</name>
+        <description><![CDATA[〒699-5607 島根県鹿足郡津和野町耕田 東津和野大橋 「浜田河川国道事務所」/ Higashi Tsuwano Ohashi, Koda, Tsuwano-cho, Kanoashi-gun, Shimane 699-5607, "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7886709,34.4802427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号河村ライブカメラ / National highway No. 9 Kawamura live camera</name>
+        <description><![CDATA[〒699-5212 島根県鹿足郡津和野町河村野口 「浜田河川国道事務所」/ Kawamura Noguchi, Tsuwano Town, Kanoashi District, Shimane Prefecture, 699-5212, "Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8311988,34.5512992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道13号萩津和野線高峯ライブカメラ / Shimane Prefectural Road No. 13 Hagizu Wano Line Takamine Live Camera</name>
+        <description>〒699-5614 島根県鹿足郡津和野町高峯 「島根県土木部道路維持課」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7600514,34.4510919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道13号萩津和野線名賀ライブカメラ / Shimane Prefectural Road No. 13 Hagizu Wano Line Nayoshi Live Camera</name>
+        <description><![CDATA[島根県鹿足郡津和野町名賀 「島根県土木部道路維持課」/ Nayoshi, Tsuwano-cho, Kanoashi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7000764,34.4698056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道13号萩津和野線寺田ライブカメラ / Shimane Prefectural Road No. 13 Hagizu Wano Line Terada Live Camera</name>
+        <description><![CDATA[〒699-5606 島根県鹿足郡津和野町寺田 「島根県土木部道路維持課」/ Terada, Tsuwano-cho, Kanoashi-gun, Shimane 699-5606<br>"Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.765623,34.4953707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道187号日原ライブカメラ / Route 187 Nichihara Live Camera</name>
+        <description><![CDATA[島根県鹿足郡津和野町日原 「島根県土木部道路維持課」/ Nichihara, Tsuwano-cho, Kanoashi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8392864,34.5401108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道17号津和野田万川線山下ライブカメラ / Shimane Prefectural Road No. 17 Tsuwanoda Mankawa Line Yamashita Live Camera</name>
+        <description><![CDATA[〒699-5635 島根県鹿足郡津和野町山下 「島根県土木部道路維持課」/ Yamashita, Tsuwano-cho, Kanoashi-gun, Shimane 699-5635<br>"Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7182507,34.5112515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号津和野スノーステーション南ライブカメラ / National Route 9 Tsuwano Snow Station South Live Camera</name>
+        <description><![CDATA[〒699-5612 島根県鹿足郡津和野町中座「浜田河川国道事務所」/ Nakaza, Tsuwano-cho, Kanoashi-gun, Shimane 699-5612<br>"Hamada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7755732,34.4453833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島根県道3号新南陽津和野線椛谷ライブカメラ / Shimane Prefectural Road No. 3 Shinnanyo Tsuwano Line Kabatani Live Camera</name>
+        <description><![CDATA[〒699-5303 島根県鹿足郡吉賀町柿木村椛谷　椛谷渓谷 「島根県土木部道路維持課」/ Kakinokimura Kabatani, Yoshika-cho, Kanoashi-gun, Shimane 699-5303 Kakinoki Valley "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8130641,34.3711664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道187号柿木ライブカメラ / National highway No. 187 Kakinoki live camera</name>
+        <description><![CDATA[島根県鹿足郡吉賀町柿木村柿木 「島根県土木部道路維持課」/ Kakinoki Village, Yoshika Town, Kanoashi District, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8672279,34.4426081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国自動車道六日市インターチェンジライブカメラ / Chugoku Expressway Muikaichi Interchange Live Camera</name>
+        <description><![CDATA[島根県鹿足郡吉賀町立河内 「西日本高速道路」/ Tachigouchi, Yoshika-cho, Kanoashi-gun, Shimane "West Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9458673,34.3508486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道187号広石ライブカメラ /Route 187 Hiroishi Live Camera </name>
+        <description><![CDATA[〒699-5512 島根県鹿足郡吉賀町広石 「島根県土木部道路維持課」/ Hiroishi, Yoshika-cho, Kanoashi-gun, Shimane 699-5512 "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9177117,34.3666204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道187号六日市ライブカメラ / Route 187 Muikaichi Live Camera</name>
+        <description><![CDATA[島根県鹿足郡吉賀町立河内 「島根県土木部道路維持課」/ Tachigouchi, Yoshika-cho, Kanoashi-gun, Shimane Prefecture "Road Maintenance Division, Civil Engineering Department, Shimane Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9463286,34.3492364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテル知夫の里ライブカメラ / Hotel Chibunosato Live Camera</name>
+        <description><![CDATA[〒684-0105 島根県隠岐郡知夫村仁夫1242−1 ホテル知夫の里　「知夫村役場」/ Hotel Chibunosato, 1243-1 Nibu, Chibu-mura, Oki-gun, Shimane-ken 684-0105, "Chibu Village Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0381475,36.0039603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道485号久見ライブカメラ / National highway No. 485 Kumi live camera</name>
+        <description><![CDATA[島根県隠岐郡隠岐の島町 山光久見トンネル 「島根県土木部道路維持課」/ Yamamitsu Hisami Tunnel, Okinoshima Town, Oki District, Shimane Prefecture, "Shimane Prefecture Civil Engineering Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2537425,36.3004954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

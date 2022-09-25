@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>茨城県ライブカメラマップ / Ibaraki Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamaera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>茨木県内ライブカメラ</name>
+      <Placemark>
+        <name>大子町ライブカメラ / Daigo Town Live Camera</name>
+        <description><![CDATA[〒319-3526 茨城県久慈郡大子町大子８６６ 大子町役場 / Daigo Town Office, 866 Daigo, Daigo-machi, Kuji-gun, Ibaraki 319-3526<br>https://livecamera.fujiyamasan.com/daigo-town-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.355309,36.76812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>袋田の滝ライブカメラ / Fukuroda Falls Live Camera</name>
+        <description><![CDATA[〒319-3523 茨城県久慈郡大子町袋田3-19 袋田の滝 「大子町役場」 / Fukuroda Falls, 3-19 Fukuroda, Daigo-machi, Kuji-gun, Ibaraki 319-3523, "Daigo Town Office"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-fukuroda-falls.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4072046,36.7646902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磯崎灯台からの映像 / Video from Isozaki Lighthouse</name>
+        <description><![CDATA[〒311-1202 茨城県ひたちなか市磯崎町４５９８−４ 磯崎灯台 「茨城海上保安部」 / Isozaki Lighthouse, 4598-4 Isozaki-cho, Hitachinaka-shi, Ibaraki-ken 311-1202, "Ibaraki Coast Guard"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachinaka-isozaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6258317,36.3808726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大洗リゾートアウトレット / Resort Outlets Oarai</name>
+        <description>〒311-1305 茨城県東茨城郡大洗町港中央１１−２ 大洗リゾートアウトレット / Resort Outlets Oarai, 11-2 Minatochuo, Oarai-cho, Higashiibaraki-gun, Saitama 311-1305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5686517,36.3088404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大洗WEBカメラ / Oarai WEB Camera</name>
+        <description>〒311-1305 茨城県東茨城郡大洗町港中央１０ 大洗マリンタワー / Oarai Marine Tower, 10 Minatochuo, Oarai-machi, Ibaraki-gun, Ibaraki 311-1305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5706476,36.3105518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IBSスタジオライブカメラ / IBS Studio Live Camera</name>
+        <description>〒310-0851 茨城県水戸市千波町２０８４−２ IBS茨城放送 / IBS Ibaraki Broadcasting, 2084-2 Senba-cho, Mito-shi, Ibaraki 310-0851</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4419469,36.3497277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川カメラ映像 / River Camera Videos</name>
+        <description>〒310-0851 茨城県水戸市千波町１９６２−２ 国土交通省関東地方整備局 常陸河川国道事務所 / Hitachi River National Highway Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure and Transport, 1962-2 Senba-cho, Mito-shi, Ibaraki 310-0851</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4439187,36.3450095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍戸ヒルズカントリークラブ / Shishido Hills Country Club</name>
+        <description><![CDATA[〒309-1725 茨城県笠間市南小泉１３４０ 宍戸ヒルズカントリークラブ / Shishido Hills Country Club, 1340 Minamikoizumi, Kasama-shi, Ibaraki 309-1725<br>https://livecamera.fujiyamasan.com/ibaraki-kasama-shishido-hills-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2798534,36.3255676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川市真壁町ライブカメラ / Sakuragawa City Makabe Town Live Camera</name>
+        <description>〒300-4408 茨城県桜川市真壁町真壁１９８−６６ ますだ酒店 / Masuda Liquor Shop, 198-66 Makabe, Makabe-cho, Sakuragawa-shi, Ibaraki 300-4408</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1001401,36.2773721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑波山気象観測</name>
+        <description><![CDATA[茨城県つくば市筑波<br>筑波山]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1070229,36.2259272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>築西市（下館・筑波山）カメラ</name>
+        <description><![CDATA[茨城県筑西市下館<br>NTT茨城支店]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.978008,36.304197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCTV画像（鬼怒川、小貝川のライブ映像） / Kinugawa River and Kokaigawa River Live Cameras</name>
+        <description>〒308-0841 茨城県筑西市二木成１７５３ 関東地方整備局 下館河川事務所 / Kanto Regional Development Bureau Shimodate River Office, 1753 Niginari, Chikusei-shi, Ibaraki 308-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9773645,36.2909154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿島宇宙技術センターライブカメラ / Kashima Space Technology Center Live Camera</name>
+        <description><![CDATA[〒314-0012 茨城県鹿嶋市平井８９３−１　情報通信研究機構（独立行政法人）鹿島宇宙技術センター / Kashima Space Technology Center, National Institute of Information and Communication Technology, 893-1 Hirai, Kashima-shi, Ibaraki-ken 314-0012<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-hirai-nict.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6628444,35.9549182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮来一中校庭ライブカメラ / Itako First Junior High School Ground Live Camera</name>
+        <description><![CDATA[〒311-2424 茨城県潮来市潮来１２７０ 潮来市立潮来第一中学校 / Itako first junior high school, 1270 Itako, Itako-shi, Ibaraki 311-2424<br>https://livecamera.fujiyamasan.com/ibaraki-itako-1st-junior-high-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.552886,35.94733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北利根川左岸3.7K霞ヶ浦河川事務所鉄塔ライブカメラ / Kita Tone River Left Bank 3.7K Kasumigaura River Office Steel Tower Live Camera</name>
+        <description><![CDATA[〒311-2424 茨城県潮来市潮来3510 霞ヶ浦河川事務所 / Kasumigaura River Office, 3510 Itako, Itako-shi, Ibaraki 311-2424<br>https://livecamera.fujiyamasan.com/ibaraki-itako-kitatonegawa-l-3_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5507888,35.9347396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石岡VLBI観測施設ライブカメラ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.2189085,36.2092351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>トミンモーターランドライブカメラ</name>
+        <description>〒300-0122 茨城県かすみがうら市西成井２８０　トミンモーターランド</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3187526,36.1111293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つくば駅前ライブカメラ / Tsukuba Station Live Camera</name>
+        <description><![CDATA[〒305-0031 茨城県つくば市吾妻２丁目８−８ つくばシティアビル 6F 株式会社インテック 「You Tube」 Intec Co., Ltd., 6F Tsukuba Citia Building, 2-8-8 Azuma, Tsukuba-shi, Ibaraki-ken 305-0031<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1126647,36.0837332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川ライブ映像　/ River Live Videos</name>
+        <description>〒349-1101 埼玉県久喜市栗橋北２丁目１９−１ 国土交通省利根川上流河川事務所 / Tonegawa upstream River Office, Ministry of Land, Infrastructure and Transport, 2-19-1 Kurihashikita, Kuki-shi, Saitama 349-1101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.699493,36.1438097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川合流点（久喜市） / Watarase River Confluence (Kuki City)</name>
+        <description><![CDATA[埼玉県久喜市栗橋 「利根川上流河川事務所」 / Kurihashi, Kuki-shi, Saitama, "Tonegawa River Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7024488,36.1433159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川下流ライブカメラ映像 / Tonegawa River Downstream Live Camera</name>
+        <description>〒302-0024 茨城県取手市新町1-1-2 国土交通省利根川下流河川事務所取手出張所 / Toride Branch, Tonegawa downstream river office,  Ministry of Land, Infrastructure and Transport, 1-1-2 Shinmachi, Toride-shi, Ibaraki 302-0024 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0592255,35.8941022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゴルフコースコンディションライブカメラ / Golf Course Condition Live Camera</name>
+        <description><![CDATA[〒303-0042 茨城県常総市坂手町5213 水海道ゴルフクラブ / Mitsukaido Golf Club, 5213 Sakate-machi, Joso-shi, Ibaraki-ken 303-0042<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaido-golf-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.946069,36.019549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駐車場セキュリティカメラ</name>
+        <description>〒310-0063 茨城県水戸市五軒町３丁目４−３１ NTTル・パルク栄町第1駐車場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.460152,36.383726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茨城県河川情報システム河川カメラ情報 / Ibaraki Prefecture river information system river camera information</name>
+        <description>〒310-0852 茨城県水戸市笠原町９７８−６ 茨城県庁土木部河川課 / Ibaraki prefectural government civil engineering division river section / 978-6 Kasahara-cho, Mito-shi, Ibaraki-ken 310-0852</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.446796,36.341817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑波山ライブカメラ / Mt. Tsukuba Live Camera</name>
+        <description>〒305-8555 茨城県つくば市研究学園１丁目１−１番地１ つくば市役所 / Tsukuba City Hall, 1-1-1 Kenkyugakuen, Tsukuba-shi, Ibaraki-ken 305-8555</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0765098,36.0835592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛久沼聖地公苑ライブカメラ / Ushikunumaseichikoen Live Camera</name>
+        <description><![CDATA[〒300-1264 茨城県つくば市泊崎３８３−１ 牛久沼聖地公苑 / Ushikunumaseichikoen, 383-1 Tomarizaki, Tsukuba-shi, Ibaraki-ken 300-1264<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-ushikunuma-seichi-koen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1144334,35.9526692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄橋ライブカメラ / Sakae Bridge Live Camera</name>
+        <description><![CDATA[〒300-1696 茨城県北相馬郡利根町布川８４１−１ 利根町役場 / Tone Town Hall, 841-1 Fukawa, Tone-machi, Kitasoma-gun, Ibaraki-ken 300-1696<br>https://livecamera.fujiyamasan.com/tone-sakaebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1391426,35.857783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茨城県道42号筑波山第1駐車場ライブカメラ / Ibaraki Prefectural Road No. 42 Tsukubasan 1st Parking Lot Live Camera</name>
+        <description><![CDATA[〒300-4353 茨城県つくば市沼田１６９８−１ 筑波警察署 筑波山駐在所 「つくば市役所経済部観光推進課」/  Tsukuba Police Station Tsukubayama Representative Office, 1698-1 Numata, Tsukuba City, Ibaraki Prefecture 300-4353 "Tsukuba City Hall, Economic Department, Tourism Promotion Division"<br>https://livecamera.fujiyamasan.com/tsukuba-numata-r42.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0923502,36.2121864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光山輪王寺ライブカメラ / Nikkosan Rinnoji Live Camera</name>
+        <description><![CDATA[〒321-1431 栃木県日光市山内２３００ 日光山 輪王寺 / 2300 Sannai, Nikko City, Tochigi Prefecture 321-1431 Nikkozan Rinnoji Temple<br>https://livecamera.fujiyamasan.com/nikko-rinnoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6006404,36.7549375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茨城大学天文ライブカメラ / Ibaraki University Astronomical Live Camera</name>
+        <description><![CDATA[〒310-8512 茨城県水戸市文京２丁目１−１ 茨城大学 / 2-1-1 Bunkyo, Mito City, Ibaraki Prefecture 310-8512 Ibaraki University<br>https://livecamera.fujiyamasan.com/ibaraki-mito-ibaraki-university-sky.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4432558,36.401437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号大塚ライブカメラ / National Highway No. 50 Otsuka Live Camera</name>
+        <description><![CDATA[茨城県水戸市大塚町「常陸河川国道事務所」/ Otsuka-cho, Mito City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-otsuka-r50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4014954,36.3814156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川新那珂川大橋ライブカメラ / Nakagawa Shinnakagawa Ohashi Live Camera</name>
+        <description><![CDATA[茨城県水戸市下大野町「常陸河川国道事務所」/ Shimoonocho, Mito City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-nakagawa-shinnakagawaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5568968,36.3562858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川三の丸ライブカメラ / Nakagawa Sannomaru Live Camera</name>
+        <description><![CDATA[茨城県水戸市三の丸「常陸河川国道事務所」/ Sannomaru, Mito City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-sannomaru-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4833861,36.37519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川飯富ライブカメラ / Nakagawa Iitomi Live Camera</name>
+        <description><![CDATA[茨城県水戸市飯富町「常陸河川国道事務所」/ Iitomicho, Mito City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-iitomi-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4230069,36.426087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川国田大橋ライブカメラ / Nakagawa Kunitao Bridge Live Camera</name>
+        <description><![CDATA[茨城県水戸市下国井町「常陸河川国道事務所」/ Shimokunii-cho, Mito City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-shimokunii-nakagawa-kunitaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4353292,36.4183055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川水府橋ライブカメラ / Naka River Suifu Bridge Live Camera</name>
+        <description><![CDATA[茨城県水戸市水府町「常陸河川国道事務所」/ Suifucho, Mito City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-nakagawa-suifu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4794763,36.3777939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川内川水門ライブカメラ / Nakagawa Uchikawa Water Gate Live Camera</name>
+        <description><![CDATA[茨城県水戸市青柳町上河原「常陸河川国道事務所」/ Kamikawara, Aoyagicho, Mito City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-aoyagi-nakagawa-uchikawasuimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4734035,36.389563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川19.5KP左岸ライブカメラ / Nakagawa 19.5KP left bank live camera</name>
+        <description><![CDATA[茨城県水戸市下国井町「国土交通省川の防災情報」/ Shimokunii-cho, Mito City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-shimokunii-nakagawa-19_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4354848,36.418327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川20.5KP右岸ライブカメラ / Nakagawa 20.5KP right bank live camera</name>
+        <description><![CDATA[茨城県水戸市飯富町「国土交通省川の防災情報」/ Iitomi-cho, Mito City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-iitomi-nakagawa-20_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4224785,36.4247597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川0.5KP左岸ライブカメラ / Hinuma River 0.5KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県水戸市川又町「国土交通省川の防災情報」/ Kawamata-cho, Mito City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-kawamata-hinuma-river-0_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5795984,36.3329308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川5.5KP左岸ライブカメラ / Hinuma River 5.5KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県水戸市島田町「国土交通省川の防災情報」/ Shimada-cho, Mito City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-mito-shimada-hinuma-river-5_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5460359,36.3197588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号十王町伊師ライブカメラ / National Highway No. 6 Juocho Ishi Live Camera</name>
+        <description><![CDATA[茨城県日立市十王町伊師「常陸河川国道事務所」/ Juocho Ishi, Hitachi City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachi-juo-ishi-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7121474,36.668866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号大みかライブカメラ / National Highway No. 6 Omika Live Camera</name>
+        <description><![CDATA[茨城県日立市大みか町「常陸河川国道事務所」/ Omika-cho, Hitachi City, Ibaraki Prefecture<br>"Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachi-omika-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6116146,36.5133373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十王川伊師本郷ライブカメラ / Juogawa Ishihongo Live Camera</name>
+        <description><![CDATA[茨城県日立市十王町伊師本郷「茨城県土木部河川課」/ Ishihongo, Juocho, Hitachi City, Ibaraki Prefecture, "Ibaraki Prefecture Civil Engineering Department River Division"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachi-juo-ishihongo-juo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6891533,36.6718031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川榊橋ライブカメラ / Kuji River Sakakibashi Live Camera</name>
+        <description><![CDATA[茨城県日立市下土木内町 榊橋「常陸河川国道事務所」/ Sakaki Bridge, Shimodogiuchi-cho, Hitachi City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachi-kujigawa-sakakibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5682781,36.4944389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川山田川合流点ライブカメラ / Kuji River Yamadagawa Confluence Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市粟原町「常陸河川国道事務所」/ Awabara-cho, Hitachiota City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-kuji-yamada-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5115446,36.503126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川幸久橋ライブカメラ / Kujigawa Sakiku Bridge Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市上河合町「常陸河川国道事務所」/ Kamikawaicho, Hitachiota City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-kujigawa-sakikubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5167625,36.5039515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里川機初水位観測所ライブカメラ / Satokawa Machinery First Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市幡町「常陸河川国道事務所」/ Hatacho, Hitachiota City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-satogawa-hatasome.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5406886,36.5365813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里川小菅ライブカメラ / Satokawa Kosuge Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市小菅町「常陸河川国道事務所」/ Kosuge-cho, Hitachiota City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-kosuge-satogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5046312,36.7082363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里川町屋ライブカメラ / Satogawa Machiya Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市西河内下町「茨城県土木部河川課」/ Nishigoutoshimocho, Hitachiota City, Ibaraki Prefecture, "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/?p=58935]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5405046,36.6099679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里川6.5KP右岸ライブカメラ / Satogawa 6.5KP right bank live camera</name>
+        <description><![CDATA[茨城県常陸太田市田渡町「国土交通省川の防災情報」/ Tawatari-cho, Hitachiota City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-tawatari-satogawa-6_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5433761,36.5564498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山田川常井橋水位観測所ライブカメラ / Yamadagawa Tsuneibashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県常陸太田市久米町「常陸河川国道事務所」/ Kume-cho, Hitachiota City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-yamadagawa-tokiibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4723134,36.541271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川大方ライブカメラ / Asakawa Okata live camera</name>
+        <description><![CDATA[茨城県常陸太田市大方 「茨城県土木部河川課」/  Okata, Hitachiota City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-okata-asakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4652581,36.538577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花貫川島名ライブカメラ / Hananuki River Shimana Live Camera</name>
+        <description><![CDATA[茨城県高萩市島名椎の木下「茨城県土木部河川課」/ Shimana Shiinoshita, Takahagi City, Ibaraki Prefecture, "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-takagagi-shimana-hananuki-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6933144,36.7045194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関根川下手綱ライブカメラ / Sekine River Shimotezuna Live Camera</name>
+        <description><![CDATA[茨城県高萩市高戸 「茨城県土木部河川課」/ Takado, Takahagi City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-takahagi-sekine-river-shimotezuna.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7191917,36.727715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号平潟ライブカメラ / National Highway No. 6 Hirakata Live Camera</name>
+        <description><![CDATA[茨城県北茨城市平潟町「常陸河川国道事務所」/ Hirakata-cho, Kitaibaraki City, Ibaraki Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kitaibaraki-hiragata-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7899477,36.8549044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大北川磯原ライブカメラ / Okita River Isohara Live Camera</name>
+        <description><![CDATA[茨城県北茨城市中郷町上桜井落合「茨城県土木部河川課」/ Kamisakurai Ochiai, Nakago-cho, Kitaibaraki City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-kitaibaraki-nakago-okita-river-isohara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7406763,36.7867146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大北川石岡ライブカメラ / Okita River Ishioka Live Camera</name>
+        <description><![CDATA[茨城県北茨城市中郷町石岡「茨城県土木部河川課」/ Ishioka, Nakago-cho, Kitaibaraki City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-kitaibaraki-nakago-okita-river-ishioka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7097273,36.7824508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花園川豊田ライブカメラ / Hanazono River Toyota Live Camera</name>
+        <description><![CDATA[茨城県北茨城市磯原町磯原「茨城県土木部河川課」/ Isohara, Isohara-cho, Kitaibaraki-shi, Ibaraki "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-kitaibaraki-isohara-hanazono-river-toyota.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7382644,36.7931094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠間市立笠間小学校校庭グラウンドライブカメラ / Kasama City Kasama Elementary School playground ground live camera</name>
+        <description><![CDATA[〒309-1611 茨城県笠間市笠間２６８９番地１　笠間市立笠間小学校 / Kasama City Kasama Elementary School,  2689-1, Kasama, Kasama City, Ibaraki Prefecture 309-1611<br>https://livecamera.fujiyamasan.com/ibaraki-kasama-elementary-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2565087,36.3820492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号小原ライブカメラ / National Highway No. 50 Obara Live Camera</name>
+        <description><![CDATA[〒309-1701 茨城県笠間市小原 「常陸河川国道事務所」/ Obara, Kasama City, Ibaraki Prefecture 307-1701, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasama-obara-r50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3223836,36.3707139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号福原盛土部ライブカメラ / National Highway No. 50 Fukuhara Embankment Live Camera</name>
+        <description><![CDATA[〒309-1634 茨城県笠間市福原「常陸河川国道事務所」/ Fukuhara, Kasama City, Ibaraki Prefecture 309-1634, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasama-fukuhara-r50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.188399,36.3449759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川加賀田ライブカメラ / Hinuma River Kagata Live Camera</name>
+        <description><![CDATA[茨城県笠間市下加賀田「茨城県土木部河川課」/ Shimokagada, Kasama City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraka-kasama-hinuma-river-kagata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2800669,36.3392689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川間黒ライブカメラ / Hinuma River Maguro Live Camera</name>
+        <description><![CDATA[茨城県笠間市笠間「茨城県土木部河川課」/ Kasama, Kasama City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-kasama-hinuma-river-maguro.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2515662,36.3892416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川4.5KP左岸ライブカメラ / Nakagawa 4.5KP left bank live camera</name>
+        <description><![CDATA[茨城県ひたちなか市三反田 「国土交通省川の防災情報」/ Mitanda, Hitachinaka City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachinaka-mitanda-nakagawa-4_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5538469,36.3600616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川5.5KP左岸ライブカメラ / Nakagawa 5.5KP left bank live camera</name>
+        <description><![CDATA[茨城県ひたちなか市三反田 「国土交通省川の防災情報」/ Mitanda, Hitachinaka City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachinaka-mitanda-nakagawa-5_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.543467,36.3659675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川5.5KP+340m左岸ライブカメラ / Nakagawa 5.5KP + 340m left bank live camera</name>
+        <description><![CDATA[茨城県ひたちなか市三反田「国土交通省川の防災情報」/ Mitanda, Hitachinaka City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachinaka-mitanda-nakagawa-5_5kp_340m.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5397038,36.3658085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川左岸7.5KP+450ライブカメラ / Nakagawa left bank 7.5KP + 450 live camera</name>
+        <description><![CDATA[茨城県ひたちなか市勝倉「国土交通省川の防災情報」/ Katsukura, Hitachinaka City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachinaka-nakagawa-7_5kp_450.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5184227,36.371872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川富岡橋ライブカメラ / Kuji River Tomiokabashi Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市富岡「常陸河川国道事務所」/ Tomioka, Hitachiomiya City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-kujigawa-tomiokabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4269772,36.5511007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川舟生橋ライブカメラ / Kuji River Funyu Bridge Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市家和楽「茨城県土木部河川課」/ Yawara, Hitachiomiya City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-kujigawa-funyubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3913029,36.6576245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川辰ノ口ライブカメラ / Kuji River Tatsunokuchi Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市辰ノ口「常陸河川国道事務所」/ Tatsunokuchi, Hitachiomiya City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiota-tatsunokuchi-kuji-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4216452,36.5944078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川25.5KP右岸ライブカメラ / Kuji River 25.5KP Right Bank Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市下町「国土交通省川の防災情報」/ Shimocho, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-shimocho-kuji-river-25_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4231792,36.5523074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川25.5KP左岸ライブカメラ / Kuji River 25.5KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市富岡「国土交通省川の防災情報」/ Tomioka, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-tomioka-kuji-river-25_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4263335,36.5562072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川26.0KP右岸ライブカメラ / Kuji River 26.0KP Right Bank Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市高渡町「国土交通省川の防災情報」/ Takawatari-cho, Hitachiomiya-shi, Ibaraki, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-takawatari-kuji-river-26kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4204563,36.5578161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川26.5KP右岸ライブカメラ / Kuji River 26.5KP Right Bank Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市小倉「国土交通省川の防災情報」/ Ogura, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-ogura-kuji-river-26_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.422366,36.5613909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川右岸27.0KP+300ライブカメラ / Kuji River right bank 27.0KP + 300 live camera</name>
+        <description><![CDATA[〒319-2214 茨城県常陸大宮市鷹巣「国土交通省川の防災情報」/ Takasu, Hitachiomiya City, Ibaraki Prefecture 319-2214 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-takasu-kuji-river-27kp_300.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4124955,36.5651136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川27.0KP左岸ライブカメラ / Kuji River 27.0KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市小倉「国土交通省川の防災情報」/ Ogura, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-ogura-kuji-river-27kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4164919,36.5649864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川野口水位観測所ライブカメラ / Nakagawa Noguchi Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県常陸大宮市野口「常陸河川国道事務所」/ Noguchi, Hitachiomiya City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-noguchi-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3329126,36.5480315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川左岸29.0KPライブカメラ / Nakagawa left bank 29.0KP live camera</name>
+        <description><![CDATA[茨城県常陸大宮市小場「国土交通省川の防災情報」/ Oba, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-oba-nakagawa-29kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3956906,36.4927086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川左岸31.0KP+320ライブカメラ / Nakagawa left bank 31.0KP + 320 live camera</name>
+        <description><![CDATA[茨城県常陸大宮市小場「国土交通省川の防災情報」/ Oba, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-oba-nakagawa-31kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.386583,36.5096893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川左岸39.0KP+330ライブカメラ / Nakagawa left bank 39.0KP + 330 live camera</name>
+        <description><![CDATA[茨城県常陸大宮市野口「国土交通省川の防災情報」/ Noguchi, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-noguchi-nakagawa-39kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3155125,36.5553904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川左岸40.3kライブカメラ / Nakagawa left bank 40.3k live camera</name>
+        <description><![CDATA[茨城県常陸大宮市野口「国土交通省川の防災情報」/ Noguchi, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3106202,36.559103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川右岸41.2kライブカメラ / Nakagawa right bank 41.2k live camera</name>
+        <description><![CDATA[茨城県常陸大宮市下伊勢畑「国土交通省川の防災情報」/ Shimoisehata, Hitachiomiya City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hitachiomiya-shimoisehata-nakagawa-41_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2977016,36.5607066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川木島大橋ライブカメラ / Kuji River Kijima Ohashi Live Camera</name>
+        <description><![CDATA[〒311-0136 茨城県那珂市門部 「常陸河川国道事務所」/ Kadobe, Naka City, Ibaraki Prefecture 311-0136, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-naka-kadobe-kujigawa-kijimaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4799312,36.4902034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川右岸28.7kライブカメラ / Nakagawa right bank 28.7k live camera</name>
+        <description><![CDATA[〒311-0126 茨城県那珂市下江戸「国土交通省川の防災情報」/ Shimoedo, Naka City, Ibaraki Prefecture 311-0126, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-naka-shimoedo-nakagawa-28_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3967702,36.4849108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川下石崎ライブカメラ / Hinuma River Shimoishizaki Live Camera</name>
+        <description><![CDATA[茨城県茨城町下石崎「茨城県土木部河川課」/ Shimoishizaki, Ibaraki Town, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-ibarakimachi-shimoishizaki-hinuma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.528801,36.2944018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川高橋ライブカメラ / Hinuma River Takahashi Live Camera</name>
+        <description><![CDATA[茨城県茨城町奥谷「茨城県土木部河川課」/ Okunoya, Ibaraki Town, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-ibarakimachi-okunoya-hinuma-river-takahashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4236121,36.2898106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川海門橋ライブカメラ / Nakagawa Kaimonbashi Live Camera</name>
+        <description><![CDATA[茨城県大洗町磯浜町 「常陸河川国道事務所」/ Isohama-cho, Oarai-cho, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-oarai-nakagawa-kaimonbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5909508,36.3344244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>涸沼川2.5KP右岸ライブカメラ / Hinuma River 2.5KP Right Bank Live Camera</name>
+        <description><![CDATA[茨城県大洗町磯浜町「国土交通省川の防災情報」/ Isohama-cho, Oarai-cho, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-oarai-ishohama-hinuma-river-2_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5684645,36.3232182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川江川排水樋門ライブカメラ / Nakagawa Egawa drainage gutter gate live camera</name>
+        <description><![CDATA[茨城県城里町上泉 「常陸河川国道事務所」/ Kamiizumi, Shirosato Town, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shirosato-nakagawa-egawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3970041,36.4846779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川右岸28.5KP+610ライブカメラ / Nakagawa right bank 28.5KP + 610 live camera</name>
+        <description><![CDATA[茨城県城里町下圷「国土交通省川の防災情報」/ Shimoakutsu, Shirosato Town, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-shirosato-nakagawa-right-28_5kp-610.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3931095,36.4887665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川豊岡第一排水樋管ライブカメラ / Kuji River Toyooka Daiichi Drainage Gutter Pipe Live Camera</name>
+        <description><![CDATA[茨城県那珂郡東海村豊岡「常陸河川国道事務所」/ Toyooka, Tokai-mura, Naka-gun, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tokai-toyooka-kuji-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6085661,36.4808901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月待の滝ライブカメラ / Tsukimachi Waterfall Live Camera</name>
+        <description><![CDATA[〒319-3556 茨城県久慈郡大子町川山１３６９−１　月待の滝もみじ苑「大子町役場」/ 1369-1 Kawayama, Daigo-cho, Kuji-gun, Ibaraki 319-3556, Momijien at Tsukimachi Waterfall "Daigo Town Hall"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-tsukimachi-falls.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3735885,36.8100188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥久慈男体山ライブカメラ / Okukuji Nantaisan Live Camera</name>
+        <description><![CDATA[〒319-3361 茨城県久慈郡大子町頃藤２２１１　大円地山荘「大子町役場」/ Ooenji Sanso, 2211 Korofuji, Daigo Town, Kuji District, Ibaraki Prefecture 319-336, "Daigo Town Hall"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-nantaisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4210721,36.7175614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川下野宮ライブカメラ / Kuji River Shimonomiya Live Camera</name>
+        <description><![CDATA[茨城県大子町下野宮「茨城県土木部河川課」/ Shimonomiya, Daigo Town, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-shimonomiya-kuji-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3818993,36.8162468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川久慈川橋ライブカメラ / Kujigawa Kujigawabashi live camera</name>
+        <description><![CDATA[茨城県大子町大子小久慈「茨城県土木部河川課」/ Kokuji Daigo, Daigo Town, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-kujigawa-kujigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.357677,36.7622259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈川下津原橋ライブカメラ / Kuji River Shimotsuharabashi Live Camera</name>
+        <description><![CDATA[茨城県大子町袋田「茨城県土木部河川課」/ Fukuroda, Daigo Town, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-daigo-kujigawa-shimotsubarabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3826453,36.7440569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号上高津高架橋ライブカメラ / National Highway No. 6 Kamitakatsu Viaduct Live Camera</name>
+        <description><![CDATA[茨城県土浦市上高津「常陸河川国道事務所」/ Kamitakatsu, Tsuchiura City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-r6-kamitakatsu-viaduct.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1777076,36.0782309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道125号ライブカメラ / National Highway 125 Live Camera</name>
+        <description><![CDATA[〒300-0042 茨城県土浦市城北町１８−８　着物お手入れ専門店 扇屋 / Kimono care specialty store Ogiya, 18-8 Johokumachi, Tsuchiura City, Ibaraki Prefecture 300-0042 <br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-johoku-r125.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.199622,36.087507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦沖宿ライブカメラ / Kasumigaura Nishiura Okijuku Live Camera</name>
+        <description><![CDATA[茨城県土浦市沖宿町「霞ヶ浦河川事務所」/ Okijukumachi, Tsuchiura City, Ibaraki Prefecture<br>"Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-okijuku-kasumigaura-nishiura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2408795,36.0720652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦土浦港ライブカメラ / Kasumigaura Nishiura Tsuchiura Port Live Camera</name>
+        <description><![CDATA[茨城県土浦市港町1丁目「霞ヶ浦河川事務所」/ 1-chome, Minatomachi, Tsuchiura City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2100413,36.0790824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦霞ヶ浦河川事務所土浦出張所鉄塔ライブカメラ / Kasumigaura Nishiura Kasumigaura River Office Tsuchiura Branch Office Steel Tower Live Camera</name>
+        <description><![CDATA[〒300-0822 茨城県土浦市蓮河原町４４９７　国土交通省 関東地方整備局 霞ヶ浦河川事務所 土浦出張所 / Tsuchiura Branch Office, Kasumigaura River Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, 4497 Hasukawaramachi, Tsuchiura City, Ibaraki Prefecture 300-0822 <br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-hasukawara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.217068,36.074026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川匂橋ライブカメラ / Sakuragawa Nioi Bridge Live Camera</name>
+        <description><![CDATA[茨城県土浦市桜町2丁目10-9 匂橋水位観測所 「茨城県土木部河川課」/ Nioi Bridge Water Level Observatory, 2-10-9 Sakuramachi, Tsuchiura City, Ibaraki Prefecture,  "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-sakuragawa-nioibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1964885,36.0768087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川桜橋ライブカメラ / Sakuragawa Sakurabashi live camera</name>
+        <description><![CDATA[茨城県土浦市田土部「茨城県土木部河川課」/ Tadobe, Tsuchiura City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-sakuragawa-sakurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.127171,36.1299288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川藤沢新田ライブカメラ / Sakuragawa Fujisawa Shinden Live Camera</name>
+        <description><![CDATA[茨城県土浦市藤沢新田 「茨城県土木部河川課」/ Fujisawa Shinden, Tsuchiura City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-tsuchiura-fujisawashinden-sakura-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1430872,36.1135869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号新利根川橋上りライブカメラ / National highway No. 4 Shintonegawa Bridge up live camera</name>
+        <description><![CDATA[茨城県古河市水海 「宇都宮国道事務所」/ Mizuumi, Koga City, Ibaraki Prefecture "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-koga-r4-shintonegawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7599836,36.1284487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川左岸3.6K古河水位観測所ライブカメラ / Watarase River Left Bank 3.6K Koga Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県古河市桜町 「利根川上流河川事務所」/ Sakuramachi, Koga City, Ibaraki Prefecture "Tonegawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-koga-sakuramachi-watarase-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6959917,36.1924308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川左岸0.3KPライブカメラ / Watarase River left bank 0.3KP live camera</name>
+        <description><![CDATA[茨城県古河市鳥喰「国土交通省川の防災情報」/ Torihami, Koga City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-koga-torihami-watarase-river-0_3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6981622,36.1614913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦34.56KPライブカメラ / Kasumigaura 34.56 KP Live Camera</name>
+        <description><![CDATA[茨城県石岡市石川「国土交通省川の防災情報」/ Ishikawa, Ishioka City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-ishioka-kasumigauranishiura-34_56kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.324151,36.1457723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恋瀬川石岡ライブカメラ / Koisegawa Ishioka Live Camera</name>
+        <description><![CDATA[茨城県石岡市石岡国分「茨城県土木部河川課」/ Ishioka Kokubu, Ishioka City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-ishioka-ishioka-koise-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.267944,36.1800969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恋瀬川下川橋ライブカメラ / Koisegawa Shimokawabashi Live Camera</name>
+        <description><![CDATA[茨城県石岡市柿岡竹の内「茨城県土木部河川課」/ Kakioka Takenouchi, Ishioka City, Ibaraki Prefecture, "Ibaraki Prefecture Civil Engineering Department River Division"<br>https://livecamera.fujiyamasan.com/ibaraki-ishioka-koisegawa-shimokawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2022984,36.2378775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恋瀬川光安寺橋ライブカメラ / Koisegawa Koanjibashi Live Camera</name>
+        <description><![CDATA[茨城県石岡市片野「石岡市役所」/ Katano, Ishioka City, Ibaraki Prefecture "Ishioka City Hall"<br>https://livecamera.fujiyamasan.com/ibaraki-ishioka-koisegawa-koanjibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2090774,36.2206641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸44.75k田川合流点ライブカメラ / Kinugawa Right Bank 44.75K Tagawa Confluence Live Camera</name>
+        <description><![CDATA[茨城県結城市久保田「下館河川事務所」/ Kubota, Yuki City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yuki-kinugawa-tagawa-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9063621,36.2823368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川中央岸38.75k水管橋ライブカメラ / Kinugawa Central bank 38.75k water pipe bridge live camera</name>
+        <description><![CDATA[〒307-0023 茨城県結城市山王 「下館河川事務所」/ Sanno, Yuki City, Ibaraki Prefecture 307-0023 "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yuki-sanno-kinugawa-suikankyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.893133,36.2383722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸41K川岸揚水機場ライブカメラ / Kinugawa Right Bank 41K Riverbank Pumping Station Live Camera</name>
+        <description><![CDATA[〒307-0021 茨城県結城市上山川 「下館河川事務所」/ Kamiyamakawa, Yuki City, Ibaraki Prefecture 307-0021 "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yuki-kamiyamakawa-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8624059,36.2625481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸0.3K文巻水位観測所ライブカメラ / Kokaigawa Left Bank 0.3K Fumaki Water Level Observatory Live Camera </name>
+        <description><![CDATA[茨城県龍ケ崎市小通幸谷町「下館河川事務所」/ Kotorikoyamachi, Ryugasaki City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-ryugasaki-kokaigawa-fumimaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1288509,35.9253929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸5.2K中郷水位観測所ライブカメラ / Kokaigawa Left Bank 5.2K Nakago Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県龍ケ崎市川原代町「利根川下流河川事務所」/ Kawarashiromachi, Ryugasaki City, Ibaraki Prefecture "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-ryugasaki-kokaigawa-nakago.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1431038,35.911991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍ケ崎市議会ライブカメラ / Ryugasaki City Council Live Camera</name>
+        <description><![CDATA[〒301-8611 茨城県龍ケ崎市番地３７１０　龍ケ崎市役所 / Ryugasaki City Hall, 3710, Ryugasaki City, Ibaraki Prefecture, 301-8611<br>https://livecamera.fujiyamasan.com/ibaraki-ryugasaki-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1822745,35.9115207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑波サーキットライブカメラ / Tsukuba Circuit Live Camera</name>
+        <description><![CDATA[〒304-0824 茨城県下妻市村岡乙１５９　筑波サーキット / 159 Muraoka Otsu, Shimotsuma City, Ibaraki Prefecture 304-0824 Tsukuba Circuit<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-tsukuba-circuit.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9198231,36.1501421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸27.7K水辺の楽校ライブカメラ / Kinugawa right bank 27.7K waterside paradise live camera </name>
+        <description><![CDATA[茨城県下妻市別府 「下館河川事務所」/ Beppu, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-beppu-kinugawa-27_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9448629,36.1535294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸27.9k水辺の楽校ライブカメラ / Kinugawa left bank 27.9k waterside paradise live camera</name>
+        <description><![CDATA[茨城県下妻市鎌庭「下館河川事務所」/ Kamaniwa, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-kinugawa-left-27_9k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.947588,36.1567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸27k鎌庭水位観測所ライブカメラ / Kinugawa left bank 27k Kamaniwa water level observatory live camera</name>
+        <description><![CDATA[茨城県下妻市鎌庭 「下館河川事務所」/ Kamaniwa, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-kinugawa-left-27k-kamaniwa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9488132,36.152256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸44.3K豊原橋ライブカメラ / Kokaigawa Left Bank 44.3K Toyohara Bridge Live Camera</name>
+        <description><![CDATA[茨城県下妻市高道祖「下館河川事務所」/ Takasai, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-takasai-kokaigawa-toyoharabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0124924,36.1812165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸45.7K糸繰川水門ライブカメラ / Kokai River Right Bank 45.7K Itokuri River Sluice Gate Live Camera</name>
+        <description><![CDATA[茨城県下妻市古沢「下館河川事務所」/ Furusawa, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-kokaigawa-itokurigawa-slice-gate.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9955853,36.1861748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸44.2K柳原樋管ライブカメラ / Kokaigawa Right Bank 44.2K Yagiwara Gutter Live Camera</name>
+        <description><![CDATA[茨城県下妻市柳原「下館河川事務所」/ Yagiwara, Shimotsuma City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-shimotsuma-yagiwara-kokai-river-right-44_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.011398,36.1789389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根新田町内会防災千代田堀上流側・下流側ライブカメラ / Neshinden Town Association Disaster Prevention Chiyodabori Upstream / Downstream Live Camera</name>
+        <description><![CDATA[茨城県常総市中妻町「わがまちねしんでん」/ Nakatsumamachi, Joso City, Ibaraki Prefecture "My Town Neshinden"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-nakatsuma-chiyodabori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9936534,36.0481444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸16K美妻橋ライブカメラ  / Kinugawa Right Bank 16K Mitsumabashi Live Camera</name>
+        <description><![CDATA[茨城県常総市中妻町「下館河川事務所」/ Nakatsumamachi, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-kinugawa-mitsumabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9785373,36.0643302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸22.25K石下大橋ライブカメラ / Kinugawa right bank 22.25K Ishige Ohashi live camera</name>
+        <description><![CDATA[茨城県常総市本石下「下館河川事務所」/ Motoishige, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-kinugawa-ishigeohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9683582,36.1108679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸14.0K中妻町ライブカメラ / Kinugawa Left Bank 14K Nakatsumamachi Live Camera</name>
+        <description><![CDATA[茨城県常総市中妻町「下館河川事務所」/ Nakatsumamachi, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-nakatsuma-kinugawa-left-14k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9886964,36.0468606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸12K水海道水位観測所ライブカメラ / Kinugawa Left Bank 12K Mitsukaido Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県常総市水海道本町「下館河川事務所」/ Mitsukaido Honmachi, Joso City, Ibaraki Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaidohoncho-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9849472,36.021564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸25.25K国生ライブカメラ / Kinugawa Right Bank 25.25K Kossho Live Camera</name>
+        <description><![CDATA[茨城県常総市国生「下館河川事務所」/ Kossho, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-kossho-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9506056,36.1372102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸23.10K本石下ライブカメラ / Kinugawa Right Bank 23.10K Motoishige Live Camera</name>
+        <description><![CDATA[茨城県常総市本石下「下館河川事務所」/ Motoishige, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-motoishige-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9689973,36.1181683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸7.7K水海道浄化センターライブカメラ / Kinugawa Right Bank 7.7K Mitsukaido Purification Center Live Camera</name>
+        <description><![CDATA[〒303-0042 茨城県常総市坂手町１３０　常総市 水海道浄化センター「下館河川事務所」/   Joso City Mizukaido Purification Center, 130 Sakatemachi, Joso City, Ibaraki Prefecture 303-0042,  "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-sakatemachi-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9725441,35.9941997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸9.3K豊坂樋管ライブカメラ / Kinugawa Right Bank 9.3K Toyosaka Gutter Live Camera</name>
+        <description><![CDATA[茨城県常総市坂手町「下館河川事務所」/ Sakatemachi, Joso City, Ibaraki Prefecture<br>"Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibarki-joso-kinugawa-toyosaka-hikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9727591,36.010769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸13.25K千代田掘排水樋管ライブカメラ / Kinugawa Left Bank 13.25K Chiyoda digging drainage gutter pipe live camera</name>
+        <description><![CDATA[茨城県常総市小山戸町「下館河川事務所」/ Koyamadomachi, Joso City, Ibaraki Prefecture<br>"Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-koyamado-kinugawa-chiyodabori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9868733,36.0391758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸8.5k高野救急排水機場ライブカメラ / Kinugawa left bank 8.5k Takano emergency drainage pump station live camera</name>
+        <description><![CDATA[〒303-0033 茨城県常総市水海道高野町「下館河川事務所」/ Mitsukaido Koyama Town, Joso City, Ibaraki Prefecture 303-0033<br>"Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaidokoya-kinugawa-left-8_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9742025,36.0034884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸19.5K花島第二揚水機場ライブカメラ / Kinugawa right bank 19.5K Hanashima No. 2 pumping station live camera</name>
+        <description><![CDATA[茨城県常総市花島町「下館河川事務所」/ Hanashimamachi, Joso City, Ibaraki Prefecture<br>"Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-hanashima-kinugawa-right-19_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9609973,36.0869206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸21K篠山水門ライブカメラ / Kinugawa Right Bank 21K Shinoyama Water Gate Live Camera</name>
+        <description><![CDATA[〒300-2721 茨城県常総市篠山　篠山水門 「下館河川事務所」/ Shinoyama Water Gate,   Shinoyama, Joso City, Ibaraki Prefecture 300-2721,  "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-shinoyama-kinugawa-right-21k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.962609,36.1016698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸4.25Kライブカメラ / Kinugawa right bank 4.25K live camera</name>
+        <description><![CDATA[茨城県常総市内守谷町「国土交通省川の防災情報」/ Uchimoriyamachi, Joso City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-uchimoriya-kinugawa-right-4_25k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9566346,35.9767608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸13.0Kライブカメラ / Kinugawa right bank 13.0K live camera</name>
+        <description><![CDATA[茨城県常総市羽生町「国土交通省川の防災情報」/ Hanyumachi, Joso City, Ibaraki Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-hanyu-kinugawa-right-13k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9821208,36.0392151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸25.4K常総橋ライブカメラ / Kokaigawa Right Bank 25.4K Josobashi Live Camera</name>
+        <description><![CDATA[〒303-0013 茨城県常総市箕輪町「下館河川事務所」/ Minowamachi, Joso City, Ibaraki Prefecture 303-0013, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-minowa-kokaigawa-right-25_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0174821,36.0307924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸36K上郷水位観測所ライブカメラ / Kokai River Right Bank 36K Kamigo Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県常総市本豊田「下館河川事務所」/ Mototoyoda, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mototoyoda-kokaigawa-right-36k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0008551,36.1036188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸22.6KP水海道水位観測所ライブカメラ / Kokaigawa Right Bank 22.6KP Mitsukaido Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒303-0022 茨城県常総市水海道渕頭町　小貝川水海道水位観測所 「下館河川事務所」/ Kokaigawa Mitsukaido Water Level Observatory,  Mitsukaido Fuchigashiramachi, Joso City, Ibaraki Prefecture 303-0022, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaidofuchigashira-kokaigawa-right-22_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9972429,36.0180918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸20.86K川又水位観測所ライブカメラ / Kokai River Right Bank 20.86K Kawamata Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒303-0032 茨城県常総市水海道川又町　川又自記水位流量観測所「下館河川事務所」/ Kawamata Self-written Water Level Flow Observatory, Mitsukaido Kawamata Town, Joso City, Ibaraki Prefecture 303-0032, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaidokawamata-kokaigawa-r-20_86k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9922963,36.0036592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸22.1K水海道山田町ライブカメラ / Kokai River right bank 22.1K Mitsukaido Yamadacho live camera</name>
+        <description><![CDATA[〒303-0031 茨城県常総市水海道山田町 「下館河川事務所」/ Mitsukaido Yamada Town, Joso City, Ibaraki Prefecture 303-0031, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mitsukaidoyamada-kokaigawa-r-22_1k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9892566,36.010362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸23K水海道一里塚ライブカメラ / Kokaigawa Right Bank 23K Mitsukaido Ichirizuka Live Camera </name>
+        <description><![CDATA[〒303-0016 茨城県常総市新井木町「下館河川事務所」/ Araigimachi, Joso City, Ibaraki Prefecture 303-0016, "Shimodate River Office"<br> https://livecamera.fujiyamasan.com/ibaraki-joso-araigi-kokaigawa-r-23k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0020847,36.0246488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸35K本豊田ライブカメラ / Kokaigawa Left Bank 35K Mototoyoda Live Camera</name>
+        <description><![CDATA[茨城県常総市本豊田「下館河川事務所」/ Mototoyoda, Joso City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-mototoyoda-kokaigawa-left-35k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0047604,36.1022926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸23.6KPライブカメラ / Kokai River right bank 23.6KP live camera</name>
+        <description><![CDATA[茨城県常総市新井木町 「国土交通省川の防災情報」 / Araigimachi, Joso City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-araigi-kokaigawa-r-23_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0079084,36.0227697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八間堀川三坂新田ライブカメラ / Hakkenbori River Misakashinden Live Camera</name>
+        <description><![CDATA[茨城県常総市三坂新田町「茨城県土木部河川課」/ Misakashindenmachi, Joso City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-hakkenborigawa-misakashinden.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9927676,36.0754875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新八間堀川石洗堰ライブカメラ / Shinhakkenbori River Ishirai Weir Live Camera</name>
+        <description><![CDATA[茨城県常総市水海道橋本町「茨城県土木部河川課」/ Mitsukaido Hashimotocho, Joso City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-joso-shinhakkenborigawa-ishiaraizeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9985226,36.0268248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号38.1KP大利根橋ライブカメラ / National Highway No. 6 38.1KP Otone Bridge Live Camera</name>
+        <description><![CDATA[茨城県取手市新町4丁目「常陸河川国道事務所」/ 4-chome, Shinmachi, Toride-shi, Ibaraki "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-r6-38_1kp-otonebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0591465,35.8953514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸81.75KP相野谷川排水機場ライブカメラ / Tone River left bank 81.75KP Ainoyagawa drainage pump station live camera</name>
+        <description><![CDATA[〒302-0001 茨城県取手市小文間１６５　国土交通省相野谷川排水機場「利根川下流河川事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Aino Tanigawa Drainage Pump Station, 165 Omonma, Toride City, Ibaraki Prefecture 302-0001,  "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-omonma-tonegawa-l-81_75kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0948088,35.8887361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸85KP新町樋門ライブカメラ / Tone River left bank 85KP Shinmachi Himon live camera</name>
+        <description><![CDATA[茨城県取手市新町「利根川下流河川事務所」/ Shinmachi, Toride City, Ibaraki Prefecture "Tonegawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-shinmachi-tonegawa-l-85kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0588777,35.8942374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸87.2KPライブカメラ / Tone River left bank 87.2KP live camera</name>
+        <description><![CDATA[茨城県取手市稲「国土交通省川の防災情報」/ Ina, Toride City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-ina-tonegawa-l-87_2kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0408829,35.9016918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸3.4k藤代防災ステーションライブカメラ / Kokai River right bank 3.4k Fujishiro disaster prevention station live camera</name>
+        <description><![CDATA[〒300-1511 茨城県取手市椚木１０３ 県南総合防災センター 「下館河川事務所」 / Prefectural South Comprehensive Disaster Prevention Center, 103 Kunugi, Toride-shi, Ibaraki 300-1511  "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-kunugi-kokaigawa-r-3_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.100227,35.930471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸9.4K岡ライブカメラ / Kokai River right bank 9.4K Oka live camera</name>
+        <description><![CDATA[茨城県取手市岡「下館河川事務所」 / Oka, Toride City, Ibaraki Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-oka-kokaigawa-r-9_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0530219,35.9331738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸0.5KPライブカメラ / Kokai River right bank 0.5KP live camera</name>
+        <description><![CDATA[茨城県取手市宮和田 「国土交通省川の防災情報」/ Miyawada, Toride City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-miyawada-kokaigawa-r-0_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.126791,35.9267201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご取手下高井ECO発電所ライブカメラ / Ichigo Toride Shimotakai ECO Power Plant Live Camera</name>
+        <description><![CDATA[〒302-0038 茨城県取手市下高井「いちごECOエナジー」/ Shimotakai, Toride City, Ibaraki Prefecture 302-0038 "Ichigo ECO Energy"<br>https://livecamera.fujiyamasan.com/ibaraki-toride-shimotakai-solar-power-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0260931,35.9274666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>取手市議会ライブカメラ / Toride City Council Live Camera</name>
+        <description><![CDATA[〒302-8585 茨城県取手市寺田５１３９　取手市役所 / Toride City Hall, 5139 Terada, Toride City, Ibaraki Prefecture 302-8585<br>https://livecamera.fujiyamasan.com/ibaraki-toride-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.050359,35.9114593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛久大仏ライブカメラ / Ushiku Buddha Live Camera</name>
+        <description><![CDATA[〒300-1288 茨城県牛久市久野町１９２３　牛久浄苑 / Ushiku Jyoen, 1923 Kuno-cho, Ushiku-shi, Ibaraki 300-1288<br>https://livecamera.fujiyamasan.com/ibaraki-ushiku-kuno-ushiku-budda.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2180153,35.9800151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑波山女体山山頂ライブカメラ / Mt. Tsukuba Nyotaisan summit live camera</name>
+        <description><![CDATA[〒300-4352 茨城県つくば市筑波１ 女体山「筑波山チャンネル」/ Nyotaisan, 1 Tsukuba, Tsukuba City, Ibaraki Prefecture 300-4352,  "Tsukubayama Channel"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-nyotaisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.106651,36.2254072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑波山梅まつりライブカメラ / Tsukuba Plum Festival Live Camera</name>
+        <description><![CDATA[〒300-4353 茨城県つくば市沼田　筑波山梅林「筑波山チャンネル」/  Tsukubasan Bairin,  Numata, Tsukuba City, Ibaraki Prefecture 300-4353, "Tsukubasan Channel"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-plum-festival.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0908043,36.2132883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸27.6KPライブカメラ / Kokai River left bank 27.6KP live camera</name>
+        <description><![CDATA[茨城県つくば市真瀬「国土交通省川の防災情報」/ Mase, Tsukuba City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-kokaigawa-l-27_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0274785,36.0489925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸39.8KPライブカメラ / Kokai River left bank 39.8KP live camera </name>
+        <description><![CDATA[〒300-2616 茨城県つくば市吉沼五人受「国土交通省川の防災情報」/  Yoshinumagoninuke, Tsukuba City, Ibaraki Prefecture 300-2616,  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br> https://livecamera.fujiyamasan.com/ibaraki-tsukuba-yoshinuma-kokaigawa-l-39_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0039178,36.142664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川君島橋ライブカメラ / Sakuragawa Kimishimabashi live camera</name>
+        <description><![CDATA[茨城県つくば市君島「茨城県土木部河川課」/ Kimijima, Tsukuba City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukuba-sakuragawa-kimishimabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0853473,36.1622802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道51号清水ライブカメラ / National Highway No. 51 Shimizu Live Camera</name>
+        <description><![CDATA[茨城県鹿嶋市清水「	常陸河川国道事務所」/ Shimizu, Kashima City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-shimizu-r51.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6441624,36.0046894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦神宮橋ライブカメラ / Kasumigaura Kitaura Jingu Bridge Live Camera</name>
+        <description><![CDATA[茨城県鹿嶋市大船津 「霞ヶ浦河川事務所」/ Ofunatsu, Kashima City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-kasumigaurakitaura-jingubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6101368,35.9647274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦左岸6.22KPライブカメラ / Kasumigaura Kitaura Left Bank 6.22KP Live Camera</name>
+        <description><![CDATA[〒314-0041 茨城県鹿嶋市沼尾「国土交通省川の防災情報」/ Numao, Kashima City, Ibaraki Prefecture 314-0041, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-kasumigaurakitaura-l-6_22kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5966828,36.0039062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鰐川左岸2.1KP掘割川ライブカメラ / Wani River Left Bank 2.1KP Horiwari River Live Camera</name>
+        <description><![CDATA[茨城県鹿嶋市鰐川「霞ヶ浦河川事務所」/ Wanigawa, Kashima City, Ibaraki Prefecture<br>"Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-wanigawa-horiwarigawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6294451,35.9399212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鰐川左岸2.23KPライブカメラ / Wani River left bank 2.23KP live camera</name>
+        <description><![CDATA[茨城県鹿嶋市根三田「国土交通省川の防災情報」/ Nesanda, Kashima City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-kashima-nesanda-wanigawa-l-2_23kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6274669,35.9407781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道51号北利根橋ライブカメラ / National Highway No. 51 Kitatonebashi Live Camera</name>
+        <description><![CDATA[茨城県潮来市永山「常陸河川国道事務所」/ Nagayama, Itako City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-r51-kitatonebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5074553,35.9588553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦外浪逆浦トンボ公園ライブカメラ / Kasumigaura Outer Wave Sakaura Dragonfly Park Live Camera</name>
+        <description><![CDATA[茨城県潮来市徳島「霞ヶ浦河川事務所」/ Tokushima, Itako City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-kasumigaura-sotoura-tonbokoen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6080835,35.923952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦外浪逆浦5.3KP左岸ライブカメラ / Kasumigaura Sotona Sakaura 5.3KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県潮来市日の出「国土交通省川の防災情報」/ Hinode, Itako City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-kasumigaura-sotonasakaura-l-5_3kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5897952,35.9311567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸0K麻生湖岸ライブカメラ / Kasumigaura Nishiura Lake Aso Live Camera</name>
+        <description><![CDATA[茨城県潮来市永山「霞ヶ浦河川事務所」/ Nagayama, Itako City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-kasumigaura-nishiura-r-0k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5002808,35.9615755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸0.7k永山ライブカメラ / Kasumigaura Nishiura Left Bank 0.7k Nagayama Live Camera</name>
+        <description><![CDATA[茨城県潮来市永山「霞ヶ浦河川事務所」/ Nagayama, Itako City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-nagayama-kasumigaura-nishiura-l-0_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5016251,35.9701342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦右岸4.5K水原洲吠崎ライブカメラ / Kasumigaura Kitaura Right Bank 4.5K Mizuharasuhoezaki Live Camera</name>
+        <description><![CDATA[茨城県潮来市水原「霞ヶ浦河川事務所」/ Mizuwara, Itako City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-mizuhara-kasumigaura-kitaura-r-4_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5799397,35.978726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北利根川左岸4.2K前川水門ライブカメラ / Kita Tone River Left Bank 4.2K Maekawa Water Gate Live Camera</name>
+        <description><![CDATA[茨城県潮来市潮来「霞ヶ浦河川事務所」/ Itako City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-kitatonegawa-maekawa-sluice.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5452805,35.936411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前川潮来大橋ライブカメラ / Maekawa Itako Ohashi Live Camera</name>
+        <description><![CDATA[茨城県潮来市潮来「茨城県土木部河川課」/ Itako, Itako City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-itako-maekawa-itakoohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5547158,35.9422795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸93.3K稲戸井越流堤下流ライブカメラ / Tone River left bank 93.3K Inatoi Etsuryutei downstream live camera</name>
+        <description><![CDATA[〒302-0125 茨城県守谷市高野 「利根川上流河川事務所」/ Koya, Moriya City, Ibaraki Prefecture 302-0125 "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-moriya-koya-tonegawa-l-93_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9863336,35.9173166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号岡芹ICライブカメラ / National Highway No. 50 Okazeri IC Live Camera</name>
+        <description><![CDATA[茨城県筑西市岡芹 「常陸河川国道事務所」/ Okazeri, Chikusei City, Ibaraki Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-r50-okazeri-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9682862,36.3261956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸45.7K川島水位観測所ライブカメラ / Kinugawa River Left Bank 45.7K Kawashima Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒308-0854 茨城県筑西市女方　川島水位雨量観測所 「下館河川事務所」/ Kawashima Water Level Rainfall Observatory, Ozakata, Chikusei City, Ibaraki Prefecture, 308-0854, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-ozakata-kinugawa-l-45_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9114077,36.290812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸46.3KJR水戸線鬼怒川鉄橋ライブカメラ / Kinugawa Right Bank 46.3K JR Mito Line Kinugawa Iron Bridge Live Camera</name>
+        <description><![CDATA[茨城県筑西市下川島「下館河川事務所」/ Shimokawashima, Chikusei City, Ibaraki Prefecture "Shimokawa River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-shimokawashima-kinugawa-r-46_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9055934,36.2964344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川51.02KP左岸ライブカメラ / Kinugawa 51.02KP Left Bank Live Camera</name>
+        <description><![CDATA[茨城県筑西市下江連 「国土交通省川の防災情報」/  Shimoezure, Chikusei City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-shimoezure-kinugawa-l-51_02k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9173668,36.3361767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸61.4K常盤橋ライブカメラ / Kokai River right bank 61.4K Tokiwa Bridge live camera</name>
+        <description><![CDATA[茨城県筑西市直井「下館河川事務所」/ Naoi, Chikusei City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-naoi-kokaigawa-r-61_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0022132,36.3154593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸53K黒子水位観測所ライブカメラ / Kokai River left bank 53K Kuroko water level observatory live camera</name>
+        <description><![CDATA[〒308-0105 茨城県筑西市西保末　黒子水位観測所 「下館河川事務所」/ Kuroko Water Level Observatory,  Nishihozue, Chikusei City, Ibaraki Prefecture 308-0105, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-nishihozue-kokaigawa-l-53k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9964763,36.2500395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸49.2K福岡新田ライブカメラ / Kokai River left bank 49.2K Fukuoka Shinden live camera</name>
+        <description><![CDATA[〒308-0000 茨城県筑西市福岡新田「下館河川事務所」/ Fukuoka Shinden, Chikusei City, Ibaraki Prefecture 308-0000, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-fukuokashinden-kokaigawa-l-49_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0052922,36.2130573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸49.8KPライブカメラ / Kokai River left bank 49.8KP live camera</name>
+        <description><![CDATA[茨城県筑西市赤浜 「国土交通省川の防災情報」/ Akahama, Chikusei City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-akahama-kokaigawa-l-49_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0053866,36.2186924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸56.6KPライブカメラ / Kokai River right bank 56.6KP live camera</name>
+        <description><![CDATA[茨城県筑西市西石田 「国土交通省川の防災情報」/ Nishiishita, Chikusei City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-nishiishita-kokaigawa-r-56_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9934146,36.2761227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸68.4KPライブカメラ / Kokai River left bank 68.4KP live camera</name>
+        <description><![CDATA[茨城県筑西市小栗「国土交通省川の防災情報」/ Oguri, Chikusei City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-oguri-kokaigawa-l-68_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0131766,36.3751008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川仙在ライブカメラ / Gogyogawa Senzai Live Camera</name>
+        <description><![CDATA[茨城県筑西市稲野辺「茨城県土木部河川課」/ Inanobe, Chikusei City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-inanobe-gogyogawa-senzai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9774605,36.3181558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川桂橋ライブカメラ / Gogyogawa Katsura Bridge Live Camera</name>
+        <description><![CDATA[茨城県筑西市樋口「茨城県土木部河川課」/ Higuchi, Chikusei City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-chikusei-higuchi-gogyogawa-katsurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9784156,36.3706856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸104K莚打水位監視ライブカメラ / Tone River left bank 104K Mushirouchi water level monitoring live camera</name>
+        <description><![CDATA[茨城県坂東市莚打 「利根川上流河川事務所」/ Mushirouchi, Bando City, Ibaraki Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-bando-mushirouchi-tonegawa-l-104k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8919862,35.9869996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸109.0KPライブカメラ / Tone River left bank 109.0KP live camera</name>
+        <description><![CDATA[茨城県坂東市長谷「国土交通省川の防災情報」/ Nagaya, Bando City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-bando-nagaya-tonegawa-l-109kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8689754,36.0212122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸109.6KPライブカメラ / Tone River left bank 109.6KP live camera</name>
+        <description><![CDATA[茨城県坂東市長谷「国土交通省川の防災情報」/ Nagaya, Bando City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-bando-nagaya-tonegawa-l-109_6kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8674412,36.0258111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸40.0KP横利根水位観測所ライブカメラ / Tone River Left Bank 40.0KP Yokotone Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒300-0726 茨城県稲敷市西代「利根川下流河川事務所」/ Nishishiro, Inashiki City, Ibaraki Prefecture 300-0726 "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-nishishiro-tonegawa-l-40kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4851036,35.9180646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦信太古渡ライブカメラ / Kasumigaura Nishiura Shidafutto Live Camera</name>
+        <description><![CDATA[茨城県稲敷市信太古渡 「霞ヶ浦河川事務所」/ Shidafutto, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-23_9k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3460276,35.9807785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸17.3K西の洲ライブカメラ / Kasumigaura Nishiura Right Bank 17.3K Nishinosu Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-17_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3977084,35.9847695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸14.7K西の洲下流ライブカメラ / Kasumigaura Nishiura Right Bank 14.7K Nishinosu Downstream Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-14_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4192065,35.9852823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸11.8K浮島ライブカメラ / Kasumigaura Nishiura Right Bank 11.8K Ukishima Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-11_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4489205,35.9765783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸12.8K浮島上流ライブカメラ / Kasumigaura Nishiura Right Bank 12.8K Ukishima Upstream Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-12_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4370592,35.9802629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸8.5K妙岐ノ鼻ライブカメラ / Kasumigaura Nishiura Right Bank 8.5K Myoginohana Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-8_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4581246,35.9609027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸1.6K西浦耕地ライブカメラ / Kasumigaura Nishiura Right Bank 1.6K Nishiurakochi Live Camera</name>
+        <description><![CDATA[茨城県稲敷市浮島 「霞ヶ浦河川事務所」/ Ukishima, Inashiki City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-1_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4891727,35.9521202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸6.8KPライブカメラ / Kasumigaura Nishiura Right Bank 6.8KP Live Camera</name>
+        <description><![CDATA[茨城県稲敷市上須田「国土交通省川の防災情報」/ Kamisuda, Inashiki City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-inashiki-kasumigaura-nishiura-r-6_8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4509613,35.9463302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦中岸20.4K出島ライブカメラ / Kasumigaura Nishiura Nakagishi 20.4K Dejima Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市坂「霞ヶ浦河川事務所」/ Saka, Kasumigaura City, Ibaraki Prefecture,  "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-nishiura-c-20_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3748859,36.0697733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦中岸23.3k沖ノ内ライブカメラ / Kasumigaura Nishiura Nakagishi 23.3k Okinouchi Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市田伏「霞ヶ浦河川事務所」/ Tabuse, Kasumigaura City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-c-23_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3937771,36.0888998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦中岸14.4K牛渡ライブカメラ / Kasumigaura Nishiura Central Bank 14.4K Ushiwata Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市牛渡「霞ヶ浦河川事務所」/ Ushiwata, Kasumigaura City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-nishiura-c-14_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3468699,36.0631777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦中岸12.5K崎浜ライブカメラ / Kasumigaura Nishiura Nakagishi 12.5K Sakihama Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市加茂「霞ヶ浦河川事務所」/ Kamo, Kasumigaura City, Ibaraki Prefecture, "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-c-12_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.294109,36.0609745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦16.82KPライブカメラ / Kasumigaura Nishiura 16.82KP Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市牛渡「霞ヶ浦河川事務所」/ Ushiwata, Kasumigaura City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-nishiura-16_82kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3408886,36.0620546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦22.7KPライブカメラ / Kasumigaura Nishiura 22.7KP Live Camera</name>
+        <description><![CDATA[茨城県かすみがうら市田伏「霞ヶ浦河川事務所」/ Tabuse, Kasumigaura City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kasumigaura-nishiura-22_7kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3924299,36.0849566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜川塙世橋ライブカメラ / Sakuragawa Hanawaze Bridge Live Camera</name>
+        <description><![CDATA[茨城県桜川市真壁町「茨城県土木部河川課」/ Makabe-cho, Sakuragawa City, Ibaraki Prefecture, "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-sakuragawa-makabe-sakuragawa-hanawazebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0857123,36.2788094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広域波崎RDFセンター津波監視ライブカメラ / Wide Area Hasaki RDF Center Tsunami Surveillance Live Camera</name>
+        <description><![CDATA[〒314-0408 茨城県神栖市波崎９６０２　広域波崎ＲＤＦセンター 「神栖市役所」/ Wide Area Hasaki RDF Center, 9602 Hasaki, Kamisu City, Ibaraki Prefecture 314-0408,  "Kamisu City Hall"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-hasaki-kashimanada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8179196,35.7666993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸16.5K太田新田ライブカメラ / Tone River left bank 16.5K Ota Nitta live camera</name>
+        <description><![CDATA[茨城県神栖市太田「利根川下流河川事務所」/ Ota, Kamisu City, Ibaraki Prefecture "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-ota-tonegawa-l-16_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7223144,35.822249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸3.0KPライブカメラ / Tone River left bank 3.0KP live camera</name>
+        <description><![CDATA[茨城県神栖市波崎「国土交通省川の防災情報」/ Hasaki, Kamisu City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.820186,35.7456812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦外浪逆浦左岸1.75KPライブカメラ / Kasumigaura Sotonasakaura Left Bank 1.75KP Live Camera</name>
+        <description><![CDATA[茨城県神栖市筒井「国土交通省川の防災情報」/ Tsutsui, Kamisu City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-kasumigaura-sotonasakaura-l-1_75kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6140287,35.9134979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川左岸0.6K常陸川水門上流全体ライブカメラ / Hitachi River left bank 0.6K Hitachi River water gate upstream whole live camera</name>
+        <description><![CDATA[茨城県神栖市太田「霞ヶ浦河川事務所」/ Ota, Kamisu City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-hitachigawa-l-0_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7077519,35.8424878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川左岸0.5K霞ヶ浦河川事務所波崎出張所鉄塔ライブカメラ / Hitachi River Left Bank 0.5K Kasumigaura River Office Hasaki Branch Office Steel Tower Live Camera</name>
+        <description><![CDATA[〒314-0254 茨城県神栖市太田3109　国土交通省関東地方整備局霞ケ浦河川事務所 波崎出張所 / Kasumigaura River Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism Hasaki Branch Office, 3109 Ota, Kamisu City, Ibaraki Prefecture 314-0254 <br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-ota-hitachigawa-l-0_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.70989,35.8416301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川右岸1.0K常陸川水門右岸上流ライブカメラ / Hitachi River Right Bank 1.0K Hitachi River Water Gate Right Bank Upstream Live Camera</name>
+        <description><![CDATA[茨城県神栖市横瀬「霞ヶ浦河川事務所」/ Yokose, Kamisu City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-yokose-hitachigawa-r-1k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7035676,35.8422476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川左岸0.8K常陸川水門左岸上流ライブカメラ / Hitachi River Left Bank 0.8K Hitachi River Water Gate Left Bank Upstream Live Camera</name>
+        <description><![CDATA[茨城県神栖市横瀬「霞ヶ浦河川事務所」/ Yokose, Kamisu City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-yokose-hitachigawa-l-0_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7067196,35.8432707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川右岸0.3K常陸川水門右岸下流ライブカメラ / Hitachi River right bank 0.3K Hitachi River water gate right bank downstream live camera</name>
+        <description><![CDATA[茨城県神栖市太田「霞ヶ浦河川事務所」/ Ota, Kamisu City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-ota-hitachigawa-r-0_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7080916,35.8383728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川左岸0.3K常陸川水門左岸下流ライブカメラ / Hitachi River left bank 0.3K Hitachi River water gate left bank downstream live camera</name>
+        <description><![CDATA[茨城県神栖市太田「霞ヶ浦河川事務所」/ Ota, Kamisu City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-kamisu-ota-hitachigawa-l-0_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7116102,35.839404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常陸川左岸0.6K常陸川水門ライブカメラ / Hitachi River Left Bank 0.6K Hitachi River Water Gate Live Camera</name>
+        <description><![CDATA[〒314-0254 茨城県神栖市太田「霞ヶ浦河川事務所」/ Ota, Kamisu City, Ibaraki Prefecture 314-0254, "Kasumigaura River Office"<br> https://livecamera.fujiyamasan.com/ibaraki-kamisu-ota-hitachigawa-water-gate.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7078091,35.8409306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸3.27KPライブカメラ / Kasumigaura Nishiura Left Bank 3.27KP Live Camera</name>
+        <description><![CDATA[茨城県行方市麻生「国土交通省川の防災情報」/ Aso, Namegata City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4823862,35.9840345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸10.37KPライブカメラ / Kasumigaura Nishiura Left Bank 10.37KP Live Camera</name>
+        <description><![CDATA[茨城県行方市於下「国土交通省川の防災情報」/ Oshita, Namegata City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-10_37kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4532602,36.0310634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸19.49KPライブカメラ / Kasumigaura Nishiura Left Bank 19.49KP Live Camera</name>
+        <description><![CDATA[茨城県行方市玉造甲「国土交通省川の防災情報」/ Tamatsukuri Ko, Namegata City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-19_49kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4017055,36.0960351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸14.3K井上ライブカメラ / Kasumigaura Nishiura Left Bank 14.3K Inoue Live Camera</name>
+        <description><![CDATA[茨城県行方市井上「霞ヶ浦河川事務所」/ Inoue, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-14_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4283906,36.0585672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸11.9k五町田ライブカメラ / Kasumigaura Nishiura Left Bank 11.9k Gochoda Live Camera</name>
+        <description><![CDATA[茨城県行方市船子「霞ヶ浦河川事務所」/ Funako, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-11_9k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.443341,36.0425067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸8.4K小高ライブカメラ / Kasumigaura Nishiura Left Bank 8.4K Odaka Live Camera</name>
+        <description><![CDATA[茨城県行方市橋門「霞ヶ浦河川事務所」/ Hashikado, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-8_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4594122,36.0166233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸4.3K天王崎ライブカメラ / Kasumigaura Nishiura Left Bank 4.3K Tennozaki Live Camera</name>
+        <description><![CDATA[茨城県行方市麻生「霞ヶ浦河川事務所」/ Aso, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-l-4_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4752272,35.9857351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦湖上湖心ライブカメラ / Kasumigaura Nishiura Lake Heart Live Camera </name>
+        <description><![CDATA[茨城県行方市井上「霞ヶ浦河川事務所」/ Inoue, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-nishiura-koshin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4011797,36.0358556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦右岸14.5K白浜ライブカメラ / Kasumigaura Kitaura Right Bank 14.5K Shirahama Live Camera</name>
+        <description><![CDATA[茨城県行方市白浜「霞ヶ浦河川事務所」/  Shirahama, Namegata City, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-kitaura-r-14_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5601807,36.0282303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦右岸21.04KPライブカメラ / Kasumigaura Kitaura Right Bank 21.04 KP Live Camera</name>
+        <description><![CDATA[茨城県行方市天掛「国土交通省川の防災情報」/ Amagake, Namegata City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-kitaura-r-21_04kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.542045,36.0527867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦右岸25.47KPライブカメラ / Kasumigaura Kitaura Right Bank 25.47 KP Live Camera</name>
+        <description><![CDATA[茨城県行方市山田「国土交通省川の防災情報」/ Yamada, Namegata City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-namegata-kasumigaura-kitaura-r-25_47kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5323381,36.0725113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴川北浦橋ライブカメラ / Tomoegawa Kitaura Bridge Live Camera</name>
+        <description><![CDATA[茨城県鉾田市串挽「茨城県土木部河川課」/ Kushihiki, Hokota City, Ibaraki Prefecture "River Division, Civil Engineering Department, Ibaraki Prefecture"<br>https://livecamera.fujiyamasan.com/ibaraki-hokota-tomoegawa-kitaurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5017938,36.1491426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦左岸27.5K田中川水門ライブカメラ / Kasumigaura Kitaura Left Bank 27.5K Tanaka River Sluice Live Camera</name>
+        <description><![CDATA[茨城県鉾田市烟田「霞ヶ浦河川事務所」/ Kamata, Hokota City, Ibaraki Prefecture<br>"Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-hokota-kasumigaura-kitaura-l-27_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5182046,36.1404927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦左岸19.5KPライブカメラ / Kasumigaura Kitaura Left Bank 19.5KP Live Camera</name>
+        <description><![CDATA[茨城県鉾田市札「国土交通省川の防災情報」/ Fuda,  Hokota City, Ibaraki Prefecture,  <br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hokota-kasumigaura-kitaura-l-19_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5432536,36.0861083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦北浦右岸35.95KPライブカメラ / Kasumigaura Kitaura Right Bank 35.95KP Live Camera</name>
+        <description><![CDATA[茨城県鉾田市串挽「国土交通省川の防災情報」/ Kushihiki, Hokota City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-hokota-kasumigaura-kitaura-r-35_95kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5162466,36.1399122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご鉾田青柳ECO発電所ライブカメラ / Ichigo Hokota Aoyagi ECO Power Plant Live Camera</name>
+        <description><![CDATA[茨城県鉾田市青柳「いちごECOエナジー」/ Aoyagi, Hokota City, Ibaraki Prefecture "Ichigo ECO Energy"<br>https://livecamera.fujiyamasan.com/ibaraki-hokota-aoyagi-ichigo-solar-power-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.45097,36.1587195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川左岸6.5KPライブカメラ / Kinugawa left bank 6.5KP live camera</name>
+        <description><![CDATA[茨城県つくばみらい市小絹「国土交通省川の防災情報」/ Kokinu, Tsukubamirai City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukubamirai-kokinu-kinugawa-l-6_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9745474,35.986252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川右岸25.4K常総橋上流ライブカメラ / Kokai River right bank 25.4K Joso Bridge upstream live camera</name>
+        <description><![CDATA[茨城県常総市箕輪町「下館河川事務所」/ Minowamachi, Joso City, Ibaraki Prefecture<br>"Shimodate River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.024609,36.0307192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸23.0K樛木ライブカメラ / Kokai River left bank 23.0K Tsukinuki live camera</name>
+        <description><![CDATA[茨城県つくばみらい市樛木「下館河川事務所」/ Tsukinuki, Tsukubamirai City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukubamirai-kokaigawa-l-23kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0034652,36.0178093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸22.2K北袋ライブカメラ / Kokai River left bank 22.2K Kitabukuro live camera</name>
+        <description><![CDATA[茨城県つくばみらい市北袋「下館河川事務所」/ Kitabukuro, Tsukubamirai City, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukubamirai-kitabukuro-kokaigawa-l-22_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9970523,36.0137155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川左岸24.4KPライブカメラ / Kokai River left bank 24.4KP live camera</name>
+        <description><![CDATA[茨城県つくばみらい市押砂「国土交通省川の防災情報」/ Oshizuna, Tsukubamirai City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-tsukubamirai-kokaigawa-l-24_4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0153094,36.0257158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦左岸27.68KPライブカメラ / Kasumigaura Nishiura Left Bank 27.68 KP Live Camera</name>
+        <description><![CDATA[茨城県小美玉市小川「国土交通省川の防災情報」/ Ogawa, Omitama City, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-omitama-kasumigaura-nishiura-l-27_68kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3579671,36.1489949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸27.81KPライブカメラ / Kasumigaura Nishiura Right Bank 27.81KP Live Camera</name>
+        <description><![CDATA[茨城県美浦村大山「国土交通省川の防災情報」/ Oyama, Miho Village, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3731773,36.001824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸29.0K大山ライブカメラ / Kasumigaura Nishiura Right Bank 29.0K Daisen Live Camera</name>
+        <description><![CDATA[茨城県美浦村大山「霞ヶ浦河川事務所」/ Oyama, Miho Village, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-miho-kasumigaura-nishiura-r-29k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3731064,36.0089212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸27.4K大山下流ライブカメラ / Kasumigaura Nishiura Right Bank 27.4K Oyama Downstream Live Camera</name>
+        <description><![CDATA[茨城県美浦村大山「霞ヶ浦河川事務所」/ Oyama, Miho Village, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-miho-kasumigaura-nishiura-r27_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3690008,36.0001228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸39.9K舟子ライブカメラ / Kasumigaura Nishiura Right Bank 39.9K Funako Live Camera</name>
+        <description><![CDATA[茨城県美浦村舟子「霞ヶ浦河川事務所」/ Funako, Miho Village, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-miura-kasumigaura-nishiura-r-39_9k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.276567,36.0341201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸38.1K木原ライブカメラ / Kasumigaura Nishiura Right Bank 38.1K Kihara Live Camera</name>
+        <description><![CDATA[茨城県美浦村木原「霞ヶ浦河川事務所」/ Kihara, Miho Village, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-miho-kasumigaura-nishiura-r-38_1k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2945066,36.0280846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸32.7K牛込ライブカメラ / Kasumigaura Nishiura Right Bank 32.7K Ushigome Live Camera</name>
+        <description><![CDATA[茨城県美浦村牛込「霞ヶ浦河川事務所」/ Ushigome, Miho Village, Ibaraki Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-miho-kasumigaura-nishiura-r-32_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3453316,36.0298729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美浦村高橋川ライブカメラ / Miho Village Takahashi River Live Camera</name>
+        <description><![CDATA[茨城県稲敷郡美浦村「美浦村役場」/ Miho Village, Inashiki District, Ibaraki Prefecture<br>"Miho Village Hall"<br>https://livecamera.fujiyamasan.com/ibaraki-miho-takahashi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3019858,36.0046011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞ヶ浦西浦右岸41.59KPライブカメラ / Kasumigaura Nishiura Right Bank 41.59 KP Live Camera</name>
+        <description><![CDATA[茨城県阿見町島津「国土交通省川の防災情報」/ Shimazu, Ami Town, Ibaraki Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ibaraki-ami-kasumigaura-nishiura-r-41_59kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.258086,36.034861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸55KP金江津ライブカメラ / Tonegawa Left Bank 55KP Kanaetsu Live Camera</name>
+        <description><![CDATA[〒300-1403 茨城県稲敷郡河内町金江津　国土交通省 関東地方整備局 利根川下流河川事務所 金江津出張所 / Kanaetsu Branch Office, Tonegawa Downstream River Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, Kanaetsu, Kawachi-cho, Inashiki-gun, Ibaraki 300-1403<br>https://livecamera.fujiyamasan.com/ibaraki-kawachi-tonegawa-l-55kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3435802,35.882489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸37.25K平方水位観測所ライブカメラ / Kinugawa right bank 37.25K Hirakata water level observatory live camera</name>
+        <description><![CDATA[茨城県八千代町高崎「下館河川事務所」/ Takasaki, Yachiyo Town, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yachiyo-kinugawa-r-37_25kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9109694,36.2236911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸33.2KP今里ライブカメラ / Kinugawa right bank 33.2KP Imazato live camera</name>
+        <description><![CDATA[茨城県八千代町今里「下館河川事務所」/ Imazato, Yachiyo-cho, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yachiyo-imazato-kinugawa-r-33_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.928108,36.1952361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸28.75K山川排水樋管ライブカメラ / Kinugawa right bank 28.75K Yamakawa drainage gutter pipe live camera</name>
+        <description><![CDATA[〒300-3539 茨城県結城郡八千代町仁江戸　山川排水樋管「下館河川事務所」/ Yamakawa drainage pipe,  Niedo, Yachiyo-cho, Yuki-gun, Ibaraki 300-3539,  "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yachiyo-niedo-kinugawa-r-28_75k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.939745,36.1646939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸34.5K野爪排水樋管ライブカメラ / Kinugawa right bank 34.5K Notsume drainage gutter pipe live camera</name>
+        <description><![CDATA[茨城県八千代町川尻「下館河川事務所」/ Kawajiri, Yachiyo Town, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yachiyo-kawajiri-kinugawa-r-34_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9177228,36.2020376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川右岸33.75K西豊田揚水機場ライブカメラ / Kinugawa right bank 33.75K Nishi Toyoda pumping station live camera</name>
+        <description><![CDATA[茨城県結城郡八千代町川尻「下館河川事務所」/ Kawajiri, Yachiyo Town, Yuki District, Ibaraki Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-yachiyo-kawajiri-kinugawa-r-33_75k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9245889,36.1943097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号新利根川橋下りライブカメラ / National highway No. 4 Shintonegawa Bridge down live camera</name>
+        <description><![CDATA[茨城県猿島郡五霞町大福田「宇都宮国道事務所」/ Ofukuda, Goka Town, Sashima District,  Ibaraki Prefecture "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/ibaraki-goka-r4-shintonegawa-bridge-down.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7549368,36.1230387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川右岸122K江戸川流頭部ライブカメラ / Tonegawa Edogawa style head live camera</name>
+        <description><![CDATA[茨城県猿島郡五霞町山王「利根川上流河川事務所」/ Sanno, Goka-machi, Sashima-gun, Ibaraki "Tonegawa upstream river office"<br>https://livecamera.fujiyamasan.com/ibaraki-goka-sanno-tonegawa-r-122k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7711165,36.1069513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川右岸129.5K栗橋水衝部ライブカメラ / Tonegawa Right Bank 129.9K Kurihashi Water Opposition Live Camera</name>
+        <description><![CDATA[茨城県猿島郡五霞町川妻「利根川上流河川事務所」/ Kawatsuma, Goka-cho, Sashima-gun, Ibaraki "Tonegawa upstream river office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7136941,36.1330365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸120K境大橋下流ライブカメラ / Tone River left bank 120K Sakai Bridge downstream live camera</name>
+        <description><![CDATA[茨城県猿島郡境町「利根川上流河川事務所」/ Sakai-machi, Sashima-gun, Ibaraki Prefecture "Tonegawa Upstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-sakai-tonegawa-l-120k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7988793,36.099237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川左岸78.5KP押付水位観測所ライブカメラ / Tone River Left Bank 78.5KP Oshitsuke Water Level Observatory Live Camera</name>
+        <description><![CDATA[茨城県利根町布川「利根川下流河川事務所」/ Fukawa, Tone Town, Ibaraki Prefecture "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/ibaraki-tone-fukawa-tonegawa-l-78_5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1293568,35.8707649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>三重県ライブカメラマップ / Mie Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>三重県のライブカメラ<br>https://livecamera.fujiyamasan.com/mieken.html<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>三重県内ライブカメラ</name>
+      <Placemark>
+        <name>中里貯水池ライブカメラ / Nakasato Dam Live Camera</name>
+        <description>〒511-0501 三重県いなべ市藤原町鼎 中里ダム / Nakasato Dam, Kanae, Fujiwara-cho, Inabe-shi, Mie 511-0501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4821471,35.2210174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道365号コミュニティ消防センターライブカメラ / CTY National Highway 365 Community Fire Center Live Camera</name>
+        <description><![CDATA[〒511-0518 三重県いなべ市藤原町坂本　コミュニティー消防センター 「CTY情報カメラ」/ Community Fire Center, Sakamoto, Fujiwara-cho, Inabe-shi, Mie Prefecture 511-0518, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4725646,35.1748339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹山方面ライブカメラ / Mt. Ibuki Live Camera</name>
+        <description><![CDATA[〒511-0592 いなべ市藤原町市場115番地  いなべ市役所藤原庁舎 「Weather News」/ Inabe City Hall Fujiwara Government Building, 115 Ichiba, Fujiwara-cho, Inabe-shi 511-0592, "Weather News"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4943634,35.172054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道306号鎌田交差点ライブカメラ / CTY National Highway No. 306 Kamata intersection live camera</name>
+        <description><![CDATA[三重県いなべ市北勢町阿下喜 鎌田交差点 「CTY情報カメラ」 / Kamata Intersection, Ageki, Hokusei-cho, Inabe-shi, Mie, "CTY information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5106114,35.1538847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道421号いなべ市役所員弁庁舎前ライブカメラ / CTY National Highway No. 421 Inabe City Office Live Camera</name>
+        <description><![CDATA[三重県いなべ市員弁町楚原 「CTY情報カメラ」/ Sohara, Inabe-cho, Inabe-shi, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5610333,35.1151428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY宇賀川いなべ市役所大安庁舎ライブカメラ / CTY Ugagawa River Inabe City Hall Daian Government Office Live Camera</name>
+        <description>〒511-0292 三重県いなべ市大安町大井田２７０５ いなべ市役所大安庁舎「CTY情報カメラ」/  Inabe City Hall Daian Government Office, 2705 Oida, Oyasu-cho, Inabe-shi, Mie Prefecture 511-0292 “CTY Information Camera”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5383038,35.0945738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゴルフ場ライブカメラ / Golf Course Live Camera</name>
+        <description>〒511-0122 三重県桑名市多度町古野2692 東建多度カントリークラブ・名古屋 / Tokentado Country Club Nagoya, 2692 Kono, Tado-cho, Kuwana-shi, Mie-ken 511-0122</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.593612,35.127369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテル多度温泉ライブカメラ / Hotel Tado Onsen Live Camera</name>
+        <description>〒511-0122 三重県桑名市多度町古野２６９２ ホテル多度温泉  / Hotel Tado Onsen, 2692 Furuno, Tado-cho, Kuwana-shi, Mie 511-0122</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.593628,35.127296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道258号新多度橋ライブカメラ / National highway No. 258 Shintado bridge live camera </name>
+        <description><![CDATA[〒511-0102 三重県桑名市多度町香取 新多度橋 「三重河川国道事務所」/ Shintado Bridge, Katori, Tado-cho, Kuwana-shi, Mie Prefecture 511-0102, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6477963,35.1381509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>揖斐川ライブカメラ / Ibi River Live Camera</name>
+        <description>三重県桑名市多度町上之郷 木曽川下流河川事務所 / Kisogawa Downstream River Office, Kaminogo, Tado-cho, Kuwana-shi, Mie</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.662884,35.133913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>揖斐川二郷橋ライブカメラ / Ibi River Nigobashi Bridge Live Camera</name>
+        <description>三重県桑名市 二郷橋 「木曽川下流河川事務所」/ Nigobashi Bridge, Kuwana-shi, Mie Prefecture “Kiso River Lower River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6637904,35.1330457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バリスティック ライブカメラ / Ballistic Live Camera</name>
+        <description><![CDATA[〒511-1143 三重県桑名市長島町西外面１２３３−３ バリスティック / WAKEBOARD SHOP BALLISTIC, 1233-3 Nishidomo, Nagashima-cho, Kuwana-shi, Mie-ken 511-1143<br>https://livecamera.fujiyamasan.com/kuwana-marine.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.69474,35.090022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川中流域西川ライブカメラ / Kiso River middle basin Nishikawa live camera</name>
+        <description>三重県桑名市長島町西川 「木曽川下流河川事務所」/ Nishikawa, Nagashima-cho, Kuwana-shi, Mie “Kiso River Lower River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6886441,35.1189429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川中流域ライブカメラ長島出張所鉄塔カメラ / Kiso River middle basin live camera Nagashima branch office tower camera</name>
+        <description>〒511-1112 三重県桑名市長島町大倉１７−５２国土交通省 中部地方整備局 木曽川下流河川事務所 長島出張所 /  Kiso River Lower River Office, Nagashima Branch Office, Chubu Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, 17-52 Okura, Nagashima-cho, Kuwana-shi, Mie Prefecture 11-1112</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7027688,35.1085785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道1号長島町ライブカメラ / CTY National Road 1 Nagashima Town Live Camera</name>
+        <description><![CDATA[三重県桑名市長島町「CTY情報カメラ」 / Nagashima-cho, Kuwana-shi, Mie, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7008623,35.0869738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川遠浅ライブカメラ / Nagara River Toasa Live Camera</name>
+        <description><![CDATA[〒511-1146 三重県桑名市長島町十日外面 「木曽川下流河川事務所」/ Tokadomo, Nagashima-cho, Kuwana-shi, Mie Prefecture 511-1146, " Kiso River Downstream River Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6958899,35.084045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川下流域ライブカメラ / Kisogawa Lower Basin Live Camera</name>
+        <description>〒511-0002 三重県桑名市福島４６５ 国土交通省　中部地方整備局 木曽川下流河川事務所 / Ministry of Land, Infrastructure and Transport Chubu Regional Development Bureau Kisogawa Downstream River Office, 465 Fukushima, Kuwana-shi, Mie-ken 511-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.687497,35.07827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>揖斐川JR関西本線橋梁上流ライブカメラ / Ibigawa JR Kansai Main Line bridge upstream live camera</name>
+        <description><![CDATA[三重県桑名市大字上之輪新田 「木曽川下流河川事務所」/ Kaminowa Shinden, Kuwana-shi, Mie Prefecture "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6801663,35.0899767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川木曽川大橋右岸ライブカメラ / Kisogawa Kisogawa Ohashi Bridge right bank live camera</name>
+        <description>〒511-1133 三重県桑名市長島町横満蔵 木曽川下流河川事務所 / Kiso River Lower River Office,  Yokomakura, Nagashima-cho, Kuwana-shi, Mie Prefecture 511-1133</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7273008,35.0530975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ナガシマスパーランドライブカメラ / Nagashima Resort Live Camera</name>
+        <description>〒511-1192 三重県桑名市長島町浦安３３３ ナガシマスパーランド / Nagashima Resort, 333  Urayasu, Nagashima-cho, Kuana-shi, Mie-ken 511-1192</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.730948,35.029434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下流域ライブカメラ浦安（木曽川）カメラ / Downstream live camera Urayasu (Kisogawa) camera</name>
+        <description><![CDATA[〒511-1135 三重県桑名市長島町浦安 「木曽川下流河川事務所」/ Urasasu, Nagashima-cho, Kuwana-shi, Mie 511-1135 "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7380863,35.0346475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川下流河川事務所城南排水機場ライブカメラ / Kiso River Lower River Office Jonan Drainage Pump Station Live Camera</name>
+        <description>〒511-0843 三重県桑名市 大字太平町 中部地方整備局木曽川下流河川事務所 城南排水機場 / Chubu Regional Development Bureau Kiso River Lower River Office Jonan Drainage Pumping Station, Taihei-cho, Kuwana-shi, Mie Prefecture 511-0843</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7085047,35.028633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道23号日本ハム桑名プラントライブカメラ / CTY National Route 23 Nippon Ham Kuwana Plant Live Camera</name>
+        <description><![CDATA[〒498-0814 三重県桑名郡木曽岬町大字三崎６０１−１ 日本ハム食品 桑名プラント 「CTY情報カメラ」/ Nihonham Foods Kuwana Plant, 601-1 Misaki, Kisosaki-cho, Kuwana-gun, Mie Prefecture 498-0814,  "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7445939,35.0659149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY木曽川木曽岬町役場ライブカメラ / CTY Kisogawa River Kisosaki Town Office Live Camera</name>
+        <description><![CDATA[〒498-8503 三重県桑名郡木曽岬町大字西対海地２５１ 木曽岬町役場 「CTY情報カメラ」/ Kisosaki Town Office, 251 Nishitaiganji, Kisosaki-cho, Kuwana-gun, Mie 498-8503, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7313534,35.0759579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川木曽川大橋左岸ライブカメラ / Kisogawa Kisogawa Ohashi Left Bank Live Camera</name>
+        <description><![CDATA[三重県木曽岬町白鷺 「木曽川下流河川事務所」/ Hakuro, Kisosaki-cho, Mie, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.732669,35.062914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号木曽川大橋ライブカメラ / National Road 23 Kiso River Bridge Live Camera</name>
+        <description>三重県桑名郡木曽岬町 木曽川大橋 / Kisogawa Ohashi, Kisosaki-cho, Kuwana-gun, Mie Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.728908,35.060789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北勢国道事務所 / Hokusei National Highway Office</name>
+        <description>〒510-8013 三重県四日市市南富田町4番6号 / 4-6 Minamitomida-cho, Yokkaichi-shi, Mie 510-8013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6499555,35.00136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東名阪側・ナガシマ温泉側カメラ / Higashimeihan Side and Nagashima Resort Side Cameras</name>
+        <description>〒511-0911 三重県桑名市額田３１７　ビジネスホテルビーエル桑名 / Business Hotel BL Kuana, 317 Nukata, Kuwana-shi, Mie 511-0911</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.643851,35.059299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御在所ロープウェイ山上公園駅ライブカメラ / Gozaisho Roapway Sanjo Park Station</name>
+        <description><![CDATA[三重県三重郡菰野町菰野 御在所ロープウェイ / Gozaisho Roapway, Komono, Komono-cho, Mie-gun, Mie<br>https://livecamera.fujiyamasan.com/gozaisho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4245538,35.0198046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道477号菰野町宿野ライブカメラ / CTY National Road 477 Komono Town Sukunoo Live Camera</name>
+        <description><![CDATA[三重県三重郡菰野町大字宿野 「CTY情報カメラ」 / Shukuno, Komono-cho, Mie-gun, Mie, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5283314,35.0041851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY菰野町潤田ライブカメラ / CTY Komono Town Uruda Live Camera</name>
+        <description><![CDATA[〒510-1253 三重県三重郡菰野町大字潤田１２５０ 菰野町図書館 「CTY情報カメラ」/ Komono Town Library, 1250 Uruda, Komono-cho, Mie-gun, Mie 510-1253, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.507346,35.019946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中里ダム 貯水池ライブ映像 / Nakazato dam reservoir live image</name>
+        <description>〒510-1233 三重県三重郡菰野町菰野７９６１−２ (独法)水資源機構 三重用水管理所 / Independent administrative agency Water resources organization Mie Water Control Center, 7961-2 Komono, Komono-cho, Mie-gun, Mie-ken 510-1233</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.492848,35.000567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲母（きらら）峰 ライブカメラ画像 / Kiraramine Live Camera Image</name>
+        <description><![CDATA[〒512-1105 三重県四日市市水沢町２４９１ 水沢小学校 / Suizawa Elementary School, 2491 Suizawa-cho, Yokkaichi-shi, Mie-ken 512-1105<br>https://livecamera.fujiyamasan.com/mizusawa-kirara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4786642,34.9733205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY情報カメラ / CTY Information Camera</name>
+        <description>〒510-0093 三重県四日市市本町８−２ ㈱シー・ティー・ワイ / CTY.,Ltd., 8-2 Honmachi, Yokkaichi-shi, Mie-ken 510-0093</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.629529,34.964918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY三重県道27号東名阪自動車道鈴鹿インターチェンジ付近ライブカメラ / CTY Mie Prefectural Road 27 Live camera near Suzuka Interchange on the Higashi-Meihan Expressway</name>
+        <description><![CDATA[三重県鈴鹿市長澤町「CTY情報カメラ」/ Nagasawa-cho, Suzuka-shi, Mie "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4878126,34.9319058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道23号SKNET前ライブカメラ / CTY National Route 23 SKNET Live Camera</name>
+        <description><![CDATA[〒513-0031 三重県鈴鹿市一ノ宮町１３５６（株）ＳＫ−ＮＥＴ「CTY情報カメラ」 / SK-NET, 1356 Ichinomiya-cho, Suzuka-shi, Mie 513-0031 "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6053797,34.8999757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY鈴鹿市立神戸中学校前木田橋ライブカメラ / CTY Suzuka City Kobe Junior High School Kidabashi live camera</name>
+        <description><![CDATA[〒513-0038 三重県鈴鹿市十宮町１３３５ 鈴鹿市立神戸中学校 「CTY情報カメラ」 / Suzuka City Kobe Junior High School, 1335 Tonomiya-cho, Suzuka-shi, Mie 513-0038 "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.575421,34.89417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道1号鈴鹿市上野交差点ライブカメラ / CTY National highway No. 1 Suzuka city Ueno intersection live camera</name>
+        <description><![CDATA[〒513-0017 三重県鈴鹿市上野町 上野交差点 「CTY情報カメラ」/ Ueno intersection, Ueno-cho, Suzuka 513-0017, Mie Prefecture, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5428201,34.8918658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴鹿川定五郎橋ライブカメラ / Suzukagawa Sadagoro Bridge Live Camera</name>
+        <description><![CDATA[三重県鈴鹿市上野町 定五郎橋 「三重河川国道事務所」/ Sadagoro Bridge, Ueno-cho, Suzuka-shi, Mie Prefecture, "Mie River National Road Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5441189,34.8888384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY鈴鹿市役所屋上ライブカメラ / CTY Suzuka City Hall rooftop live camera</name>
+        <description><![CDATA[〒513-8701 三重県鈴鹿市神戸１丁目１８−１８ 鈴鹿市役所 「CTY情報カメラ」/ Suzuka City Hall, 1-18-18 Kobe, Suzuka-shi, Mie Prefecture 513-8701, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5842092,34.8818796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY中央道路鈴鹿市消防本部ライブカメラ / CTY Chuo Road Suzuka City Fire Department Live Camera</name>
+        <description><![CDATA[〒513-0802 三重県鈴鹿市飯野寺家町２１７−１ 鈴鹿市消防本部 「CTY情報カメラ」/Suzuka-shi firefighting headquarters, 217-1 Iinodera-cho, Suzuka-shi, Mie 513-0802, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.577421,34.875758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY三重県道6号南若松町ライブカメラ / CTY Mie Prefectural Road No. 6 Minami Wakamatsu Town Live Camera</name>
+        <description><![CDATA[〒510-0227 三重県鈴鹿市南若松町 「CTY情報カメラ」/ Minamiwakamatsu-cho, Suzuka-shi, Mie Prefecture 510-0227 "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6097171,34.853029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTYフジクラタワー東方面ライブカメラ / CTY Fujikura Tower East Live Camera</name>
+        <description><![CDATA[〒510-0226 三重県鈴鹿市岸岡町１８００ （株）フジクラ 鈴鹿事業所 「CTY情報カメラ」/ Fujikura Suzuka Works Co., Ltd., 1800 Kishioka-cho, Suzuka-shi, Mie Prefecture 510-0226,  "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5954475,34.8507345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY道伯5交差点鈴鹿平安閣ライブカメラ / CTY Dohaku 5 intersection Suzuka Heiankaku live camera</name>
+        <description><![CDATA[〒513-0805 三重県鈴鹿市算所町１２３３−１ コンフェット 鈴鹿平安閣「CTY情報カメラ」 / Confetto Suzuka Heiankaku, 1233-1 Sanjo-cho, Suzuka-shi, Mie 513-0805, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5484817,34.8688698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY中央道路汲川原橋南詰交差点ライブカメラ / CTY Chuo Road Kumigawara Bridge Minamizume intersection live camera</name>
+        <description><![CDATA[〒513-0834 三重県鈴鹿市庄野羽山 汲川原橋南詰交差点付近「CTY情報カメラ」 / Kumagawarabashi Minamizume intersection,  Shonohayama, Suzuka-shi, Mie prefecture 513-0834, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5270936,34.8722809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY中央道路塩川病院前ライブカメラ / CTY Chuo Road Shiokawa Hospital Live camera</name>
+        <description><![CDATA[〒513-0844 三重県鈴鹿市平田１丁目３−７ 塩川病院「CTY情報カメラ」/ Shiokawa Hospital, 1-3-7 Hirata, Suzuka-shi, Mie Prefecture 513-0844  "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.539507,34.8743584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY三重県道41号野町交差点ライブカメラライブカメラ / CTY Mie Prefectural Road No. 41 Nomachi intersection Live camera Live camera</name>
+        <description><![CDATA[〒510-0218 三重県鈴鹿市野町西 野町交差点 「CTY情報カメラ」/ Nomachi intersection, Nomachinishi, Suzuka-shi, Mie 510-0218, "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.565492,34.8532736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY三重県道41号住吉3丁目ライブカメラ / CTY Mie Prefectural Road 41 Sumiyoshi 3-chome Live Camera</name>
+        <description><![CDATA[〒513-0825 三重県鈴鹿市住吉町「CTY情報カメラ」/ Sumiyoshi-cho, Suzuka-shi, Mie Prefecture 513-0825 "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5333912,34.8588885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY安楽川和泉橋ライブカメラ / CTY Anraku River Izumi Bridge Live Camera</name>
+        <description><![CDATA[〒513-0008 三重県鈴鹿市西冨田町 安楽川和泉橋「CTY情報カメラ」/ Anrakugawa Izumibashi, Nishitomita-cho, Suzuka-shi, Mie Prefecture 513-0008, "CTY information camera '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4974904,34.8761922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新名神高速道路亀山ジャンクションライブカメラ / Shinmeishin Expressway Kameyama Junction Live Camera</name>
+        <description><![CDATA[〒519-0221 三重県亀山市辺法寺町 亀山ジャンクション「中日本高速道路」/ Kameyama Junction, Henbouji-cho, Kameyama-shi, Mie Prefecture 519-0221, "Nakanihon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4558008,34.8963391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTYサーキット道路鈴鹿サーキット付近ライブカメラ /  CTY circuit road Suzuka circuit Live camera</name>
+        <description><![CDATA[〒510-0201 三重県鈴鹿市稲生町 鈴鹿サーキット前交差点「CTY情報カメラ」  / Intersection in front of Suzuka Circuit, Inou-cho, Suzuka-shi, Mie Prefecture 510-020,"CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5380858,34.8480326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴鹿サーキット上空カメラ / Suzuka Circuit Sky Camera</name>
+        <description><![CDATA[〒510-0295 三重県鈴鹿市稲生町７９９２ 鈴鹿サーキット / Suzuka Circuit, 7992 Ino-cho, Suzuka-shi, Mie-ken 510-0295<br>https://livecamera.fujiyamasan.com/suzukainao.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5389658,34.8455603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY国道23号白子駅前ライブカメラ / CTY National Route 23 Shirako Station Live Camera</name>
+        <description><![CDATA[〒510-0241 三重県鈴鹿市白子駅前 白子駅前「CTY情報カメラ」/ Station square, Shirakoekimae, Suzuka-shi, Mie prefecture 510-024, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.589458,34.8347678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY白子駅西ロータリーライブカメラ / CTY Shirako Station West Rotary Live Camera</name>
+        <description><![CDATA[〒510-0241 三重県鈴鹿市白子駅前２２ 白子駅西ロータリー 「CTY情報カメラ」/ Shirako station west rotary, 22 Shirakoekimae, Suzuka c-shi, Mie prefecture 510-0241 "CTY information camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5897265,34.8346743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY白子漁港ライブカメラ / CTY Shirako fishing port live camera</name>
+        <description><![CDATA[〒510-0242 三重県鈴鹿市白子本町白子町 白子漁港 「CTY情報カメラ」/ Shirako Fishing Port, Shirakohonmachi, Shirako-cho, Suzuka-shi, Mie Prefecture 510-0242, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.592541,34.8308664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTYサーキット道路稲生3丁目交差点ライブカメラ / CTY circuit road Inou 3-chome intersection live camera</name>
+        <description><![CDATA[〒510-0204 三重県鈴鹿市稲生西３丁目「CTY情報カメラ」/ 3-chome, Inounishi, Suzuka-shi, Mie Prefecture 510-0204, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5588904,34.8405152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTY中ノ川伊勢鉄道線ライブカメラ / CTY Nakanogawa River Ise Railway Live Camera </name>
+        <description><![CDATA[〒510-0251 三重県鈴鹿市徳田町「CTY情報カメラ」/ Tokuda-cho, Suzuka-shi, Mie 510-0251, "CTY Information Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5475598,34.824148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[味の素「バード・サンクチュアリ」 / Ajinomoto "Bird Sanctuary"]]></name>
+        <description><![CDATA[〒510-0885 三重県四日市市日永１７３０ 味の素東海事業所 / Ajinomoto Tokai Office,  1730 Hinaga, Yokkaichi-shi, Mie-ken 510-0885<br>https://livecamera.fujiyamasan.com/yokkaichi-bird.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6128449,34.9438105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道１号鈴鹿峠道路状況 / National Highway No.1, Suzuka Pass</name>
+        <description><![CDATA[三重県亀山市関町坂下鈴鹿峠 「三重河川国道事務所」 / Suzukatouge, Sakashita, Seki-cho, Kameyama-shi, Mie, "Mie River and National Highway Office"<br>https://livecamera.fujiyamasan.com/suzukatouge-r1.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.337585,34.888712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号市之瀬冬期路面状況ライブカメラ / National highway No. 1 Ichinose winter road condition live camera</name>
+        <description><![CDATA[三重県亀山市関町市瀬「三重河川国道事務所」/ Seki-cho, Ichinose, Kameyama-shi, Mie Prefecture, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3715552,34.8682218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道関ジャンクション第3ライブカメラ / Meihan National Highway Seki Junction 3rd Live Camera</name>
+        <description><![CDATA[三重県亀山市関町古厩 関ジャンクション(関JCT) 「北勢国道事務所」 / Seki Junction, Furumaya, Seki-cho, Kameyama-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4033445,34.8424235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道久我東ライブカメラ / Meihan National Highway Kuga East Live Camera</name>
+        <description><![CDATA[〒519-1116 三重県亀山市関町久我「北勢国道事務所」/ Kuga, Seki-cho, Kameyama-shi, Mie 519-1116, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3687657,34.8414454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道関トンネル東第2ライブカメラ / Meihan Highway Kan Tunnel East 2nd Live Camera</name>
+        <description><![CDATA[三重県亀山市関町越川 名阪国道関トンネル東「北勢国道事務所」/Meihan National Highway Seki Tunnel East, Echigawa, Seki-cho, Kameyama-shi, Mie Prefecture, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3564793,34.8372307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道関トンネル西第2ライブカメラ / Meihan National Highway Seki Tunnel West 2nd Live Camera</name>
+        <description><![CDATA[〒519-1125 三重県亀山市加太向井 名阪国道 & 関トンネル「北勢国道事務所」 / Meihan National Highway & Seki Tunnel, Kabutomukai, Kameyama-shi, Mie Prefecture 519-1125, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3442407,34.8375247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道向井東ライブカメラ / Mukai East Live Camera on Meihan National Highway</name>
+        <description><![CDATA[〒519-1125 三重県亀山市加太向井 向井IC 「北勢国道事務所」/ Mukai IC, Kabutomukai, Kameyama-shi, Mie Prefecture 519-1125, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3409173,34.8378433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道板屋インターチェンジ第3ライブカメラ / Meihan National Highway Itaya Interchange 3rd Live Camera</name>
+        <description><![CDATA[〒519-1129 三重県亀山市加太板屋 名阪国道 板屋 IC 「北勢国道事務所」/ Meita National Highway Itaya IC, Kataitaya, Kameyama-shi, Mie Prefecture 519-1129, "Hokusei National Highway Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3207084,34.8397584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道中在家西ライブカメラ / Meihan Expressway Nakazaikenishi Live Camera</name>
+        <description><![CDATA[〒519-1127 三重県亀山市加太中在家 「北勢国道事務所」/ Kabutonakazaike, Kameyama-shi, Mie 519-1127, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2912296,34.8348926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道加太トンネル上りライブカメラ / Meihan Expressway Kabuto Tunnel Up Line Live camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町 名阪国道 & 加太トンネル 上り「北勢国道事務所」/ Kabuto Tunnel, Tsuge-machi, Iga-shi, Mie 519-1402, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2758313,34.8354423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道加太トンネル西ライブカメラ / Meihan Expressway Kabuto Tunnel West Live Camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町 名阪国道 & 加太トンネル 「北勢国道事務所」/ Kabuto Tunnel, Tsuge-machi, Iga-shi, Mie 519-1402, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2762224,34.835151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT名阪国道伊賀インターチェンジライブカメラ / ICT Meihan National Highway Iga Interchange Live Camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町６４２７伊賀SA付近「伊賀上野ケーブルテレビ」/ near Iga SA, 6427 Tsuge-machi, Iga-shi, Mie Prefecture 519-1402, "Iga Ueno Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2500606,34.8373996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT三重県道775号甲賀阿山線玉滝ライブカメラ / ICT Mie Prefectural Road 775 Koga Ayama Line Tamataki Live Camera</name>
+        <description><![CDATA[〒518-1322 三重県伊賀市玉瀧「伊賀上野ケーブルテレビ」/ Tamataki, Iga-shi, Mie 518-1322, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1695764,34.8610878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道伊賀大橋ライブカメラ / Meihan Expressway Iga Ohashi Live Camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町 名阪国道 & 伊賀大橋 「北勢国道事務所」/ Igaohashi Bridge,  Tsuge-machi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2692586,34.8383659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道伊賀インターチェンジライブカメラ / Meihan Expressway Iga Interchange Live Camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町 「北勢国道事務所」/ Iga Interchange, Tsuge-machi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2572283,34.8392887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道伊賀サービスエリアライブカメラ / Meihan Expressway Iga Service Area Live Camera</name>
+        <description><![CDATA[〒519-1402 三重県伊賀市柘植町６４２７ 伊賀SA（上り）「北勢国道事務所」/ Iga SA, 6427 Tsuge-machi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2503074,34.8369593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道柘植ライブカメラ / Meihan Expressway Tsuge Live Camera</name>
+        <description><![CDATA[三重県伊賀市柘植町 「北勢国道事務所」/ Tsuge-machi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2462634,34.8347271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道上柘植インターチェンジライブカメラ / Meihan Expressway Kamitsuge Interchange Live Camera</name>
+        <description><![CDATA[三重県伊賀市上村「北勢国道事務所」/ Ue-mura, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2370965,34.8308757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道下柘植東ライブカメラ / Meihan Expressway Shimotsuge East Live Camera</name>
+        <description><![CDATA[三重県伊賀市下柘植 「北勢国道事務所」/ Shimotsuge, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2273811,34.8236244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道下柘植西ライブカメラ / Meihan Expressway Shimotsuge West Live Camera</name>
+        <description><![CDATA[三重県伊賀市下柘植 「北勢国道事務所」/ Shimotsuge, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.215983,34.8183082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道25号新堂ライブカメラ / ICT Route 25 Shindo Live Camera</name>
+        <description><![CDATA[〒519-1416 三重県伊賀市新堂 「伊賀上野ケーブルテレビ」/ Shindo, Iga-shi, Mie Prefecture 519-1416, "Iga Ueno Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2098602,34.8226881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道御代東ライブカメラ / Meihan Expressway Miyohigashi Live Camera</name>
+        <description><![CDATA[〒519-1412 三重県伊賀市下柘植 「北勢国道事務所」/ Shimotsuge, Iga-shi, Mie Prefecture 519-1412, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2123842,34.8147547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT名阪国道御代インターチェンジ付近ライブカメラ /  ICT Meihan National Highway Miyo Interchange Live Camera</name>
+        <description><![CDATA[〒519-1424 三重県伊賀市川東 御代IC 御代インターチェンジ 「伊賀上野ケーブルテレビ」/ Miyo Interchange, Kawato, Iga-shi, Mie Prefecture 519-1424, "Iga Ueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2035691,34.8112672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道御代西ライブカメラ / Meihan Expressway Midainishi Live Camera</name>
+        <description><![CDATA[〒519-1425 三重県伊賀市川西「北勢国道事務所」/ Kawanishi, Iga-shi, Mie 519-1425, "Hoksei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.197841,34.8089532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道25号名阪国道壬生野ライブカメラ / National Road 25 Meihan Expressway Mibuno live camera</name>
+        <description><![CDATA[三重県伊賀市西之沢荒打848 「北勢国道事務所」/ 848 Nishinosawa, Iga-shi, Mie,  "Hoksei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1888853,34.8035969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT三重県道49号甲南阿山伊賀線柏野ライブカメラ / ICT Mie Prefectural Road No. 49 Konan Ayama Iga Line Kashiwano Live Camera</name>
+        <description><![CDATA[三重県伊賀市柏野「伊賀上野ケーブルテレビ」/ Kashiwano, Iga-shi, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1819438,34.8156974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT平田大山田橋ライブカメラ / ICT Hirataoyamada Bridge Live Camera</name>
+        <description><![CDATA[〒518-1422 三重県伊賀市平田６５６−１ 伊賀市役所 大山田支所 「伊賀上野ケーブルテレビ」/ Hirata, Iga-shi, Mie 518-1422, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2188369,34.7638568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT伊賀街道上阿波ライブカメラ / ICT Igakaido Kamiawa Live Camera</name>
+        <description><![CDATA[三重県伊賀市上阿波「伊賀上野ケーブルテレビ」/ Kamiawa, Iga-shi, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3093695,34.7713907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT佐那具町佐那具橋ライブカメラ / ICT Sanagu Town Sanagubashi Bridge Live Camera </name>
+        <description><![CDATA[〒518-0001 三重県伊賀市佐那具町 「伊賀上野ケーブルテレビ」/ Sanagu-cho, Iga-shi, Mie 518-0001, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1651962,34.8037405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道佐那具ライブカメラ / Meihan Expressway Sanagu Live Camera</name>
+        <description><![CDATA[〒518-0001 三重県伊賀市佐那具町 「北勢国道事務所」/ Sanagu-cho, Iga-shi, Mie 518-000, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1780386,34.7977586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道西之澤ライブカメラ / Meihan Expressway Nishinosawa Live Camera</name>
+        <description><![CDATA[〒518-0001 三重県伊賀市佐那具町「北勢国道事務所」/ Sanagu-cho, Iga-shi, Mie 518-0001, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1752169,34.7967895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道千歳ライブカメラ / Meihan Expressway Chitose Live Camera</name>
+        <description><![CDATA[三重県伊賀市千歳 「北勢国道事務所」/ Chitose, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1672239,34.7938685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柘植川山神ライブカメラ / Tsuge River Yagami Live Camera</name>
+        <description><![CDATA[三重県伊賀市大谷「国土交通省河川情報センター」/ Otani, Iga-shi, Mie Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1392158,34.793099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柘植川三田第3ライブカメラ / Tsuegawa Mita third live camera</name>
+        <description><![CDATA[〒518-0007 三重県伊賀市服部町「国土交通省河川情報センター」/ Hattori-cho, Iga-shi, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1353148,34.7863058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柘植川三田第2ライブカメラ / Tsuegawa Mita second live camera</name>
+        <description><![CDATA[三重県伊賀市三田 「国土交通省河川情報センター」/ Mita, Iga-shi, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1288764,34.7852877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>服部川三田ライブカメラ（服部川・柘植川・服部川柘植川合流地点） / Hattori River Mita Live Camera (Confluence of the Hattori River and Tsuge River)</name>
+        <description><![CDATA[〒518-0022 三重県伊賀市三田 「国土交通省河川情報センター」/ Mita, Iga-shi, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1286685,34.7829174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>服部川野間ライブカメラ / Hattori River Noma Live Camera</name>
+        <description><![CDATA[〒518-0023 三重県伊賀市野間 新居遊水地「国土交通省河川情報センター」 /Arai Reservoir, Noma, Iga-shi, Mie Prefecture 518-0023 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.121216,34.786819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川木興橋ライブカメラ / Kizu River Kiko Bridge Live Camera</name>
+        <description><![CDATA[〒518-0845 三重県伊賀市木興町 木興橋「国土交通省河川情報センター」 / Kikobashi, Kiko-cho, Iga-shi, Mie Prefecture 518-0845, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.116079,34.7593802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道163号上野農人町ライブカメラ / ICT National Highway 163 Uenononinmachi Live Camera</name>
+        <description><![CDATA[三重県伊賀市上野農人町 「伊賀上野ケーブルテレビ」/ Uenononin-machi, Iga-shi, Mie, "Iga Ueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1368571,34.767668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT銀座通り上野丸之内ライブカメラ / ICT Ginza Street Ueno Marunouchi Live Camera</name>
+        <description><![CDATA[〒518-0873 三重県伊賀市上野丸之内「伊賀上野ケーブルテレビ」/ Uenomarunouchi, Iga-shi, Mie Prefecture 518-0873, "Iga Ueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1290959,34.7680875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道163号島ヶ原町区ライブカメラ / ICT Route 163 Shimagahara Town Live Camera</name>
+        <description><![CDATA[三重県伊賀市島ヶ原町区 島ヶ原浄化ｾﾝﾀｰ付近 / Near Shimagahara Purification Center, Shimagaharacho-ku, Iga-shi, Mie Prefecture, "Iga Ueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.048428,34.7639487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川八幡排水樋門ライブカメラ / Kizugawa Hachiman drainage gutter live camera</name>
+        <description><![CDATA[三重県伊賀市守田町「国土交通省河川情報センター」 / Morita-cho, Iga-shi, Mie Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1187875,34.7560775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道一之宮ライブカメラ / Meihan Expressway Ichinomiya Live Camera</name>
+        <description><![CDATA[三重県伊賀市一之宮 「北勢国道事務所」/ Ichinomiya, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1598551,34.7855709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道中瀬インターチェンジライブカメラ / Meihan Expressway Nakase Interchange Live Camera</name>
+        <description><![CDATA[三重県伊賀市荒木 中瀬インターチェンジ 「北勢国道事務所」/ Nakase IC, Araki, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1568074,34.7715828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道友生ライブカメラ / Meihan Expressway Tomono Live Camera</name>
+        <description><![CDATA[三重県伊賀市西明寺 「北勢国道事務所」/ Saimyouji, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1509776,34.7580879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT名阪国道友生インターチェンジ付近ライブカメラ / ICT Meihan National Highway Tomoh Interchange Live camera</name>
+        <description><![CDATA[三重県伊賀市生琉里 友生インターチェンジ「伊賀上野ケーブルテレビ」 / Tomono Interchange, Furusato, Iga-sh, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1469431,34.7547465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I.C.T ライブカメラ / I.C.T Live Camera</name>
+        <description>〒518-0835 三重県伊賀市緑ケ丘南町２３３２　伊賀上野ケーブルテレビ（株）/ Igaueno Cable Television, 2332 Minami-machi, Midorigaoka, Iga-shi, Mie-ken 518-0835</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.145824,34.754855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道久米川橋ライブカメラ / Meihan Expressway Kumegawa Bridge Live Camera</name>
+        <description><![CDATA[三重県伊賀市下友生 「北勢国道事務所」/ Shimotomono, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1438763,34.7533934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道422号上野桑町ライブカメラ / ICT National Route 422 Ueno Kuwamachi Live Camera</name>
+        <description><![CDATA[〒518-0842 三重県伊賀市上野桑町 「伊賀上野ケーブルテレビ」/ Uenokuwa-machi, Iga-shi, Mie Prefecture 518-0842, "Iga Ueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1327201,34.7552391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道上野東インターチェンジ第1ライブカメラ / Meihan National Highway Ueno East Interchange 1st Live Camera</name>
+        <description><![CDATA[〒518-0823 三重県伊賀市四十九町 上野東IC 「北勢国道事務所」/ Ueno-higashi IC, Shijuku-machi, Iga-shi, Mie 518-0823, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1340491,34.7530508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道25号名阪国道上野東ライブカメラ / Meihan Expressway Uenohigashi Live Camera</name>
+        <description><![CDATA[三重県伊賀市久米町 上野東IC 「北勢国道事務所」/ Ueno-higashi IC, Kume-cho, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.132967,34.7530541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道上野東インターチェンジ第3ライブカメラ / Meihan National Highway Ueno East Interchange 3rd Live Camera</name>
+        <description><![CDATA[〒518-0824 三重県伊賀市守田町「北勢国道事務所」/ Morita-cho, Iga-shi, Mie 518-0824,  "Hokusei National Highway Office '"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1231774,34.7486936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道上野インターチェンジライブカメラ / Meihan National Road Ueno Interchange Live Camera</name>
+        <description><![CDATA[〒518-0824 三重県伊賀市守田町 上野IC 「北勢国道事務所」/ Ueno IC, Morita-cho, Iga-shi, Mie 518-0824, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1225025,34.7493851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川大野木ライブカメラ / Kizu River Ohnogi Live Camera</name>
+        <description><![CDATA[三重県伊賀市大野木 「国土交通省川の防災情報CCTVカメラ」/ Onogi, Iga City, Mie Prefecture "Ministry of Land, Infrastructure, Transport and Tourism CCTV Camera on River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1159807,34.7474105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道木津川橋ライブカメラ / Meihan Expressway Kizugawa Bridge Live Camera</name>
+        <description><![CDATA[三重県伊賀市大内「北勢国道事務所」/ Ouchi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1190012,34.7448923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道大内西ライブカメラ / Meihan Expressway Ouchi East Live Camera</name>
+        <description><![CDATA[三重県伊賀市大内「国土交通省中部地方整備局北勢国道事務所」/ Ouchi, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1019238,34.7343125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道368号上之庄ライブカメラ / ICT National Route 368 Kaminosho Live Camera</name>
+        <description><![CDATA[三重県伊賀市上之庄「伊賀上野ケーブルテレビ」/ Uenosho, Iga-shi, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1214362,34.729634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[知事室LIVE中継 / Governor's Office LIVE Relay]]></name>
+        <description>〒514-0006 三重県津市広明町１３ 三重県庁 / Mie Prefectural Government, 13 Hiroaki-cho, Tsu-shi, Mie-ken 514-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.50873,34.730327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重県庁前交差点ライブカメラ / Mie Prefectural Office front intersection live camera</name>
+        <description><![CDATA[三重県津市広明町 / Komei-cho, Tsu-shi, Mie<br>https://livecamera.fujiyamasan.com/tsucityis.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.507252,34.7298544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津市定点カメラ / Fixed point camera in Tsu City</name>
+        <description><![CDATA[三重県津市乙部５−３ フェニックスメディカルセンター USTREAM / Phoenix Medical Center, 5-3 Otobe, Tsu-shi, Mie, "USTREAM"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.516296,34.717053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号雲出大橋ライブカメラ / National Road 23 Kumozu Ohashi Live Camera</name>
+        <description>〒514-0305 三重県津市雲出島貫町 / Kumozushimanuki-cho, Tsu-shi, Mie 514-0305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5193501,34.6494114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道422号沖ライブカメラ / ICT National Highway 422 Oki Live Camera</name>
+        <description><![CDATA[三重県伊賀市沖「伊賀上野ケーブルテレビ」/ Oki, Iga-shi, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1518894,34.7181964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT阿保戎橋ライブカメラ / ICT Abo Ebisu Bridge Live Camera</name>
+        <description><![CDATA[518-0226 三重県伊賀市阿保１４１１ 伊賀市役所 青山支所 「伊賀上野ケーブルテレビ」 /  Iga City Hall Aoyama Branch, 1411 Abo, Iga City, Mie Prefecture 518-0226, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.177871,34.669612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT上神戸暗崎橋ライブカメラ / ICT Kamikanbe Anzaki Bridge Live Camera</name>
+        <description><![CDATA[〒518-0116 三重県伊賀市上神戸「伊賀上野ケーブルテレビ」/ Kamikanbe, Iga-shi, Mie, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.151405,34.6884283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道伊賀上野パーキングエリアライブカメラ / Meihan National Highway Iga Ueno Parking Area Live Camera</name>
+        <description><![CDATA[〒518-1152 三重県伊賀市予野 伊賀上野PA (下りのみ) 「国土交通省中部地方整備局北勢国道事務所」/ Igaueno Parking Area, Yono, Iga-shi, Mie, "Hokusei National Highway Office,]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0946366,34.7283328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道白樫インターチェンジライブカメラ / Meihan Expressway Shirakashi Interchange Live Camera</name>
+        <description><![CDATA[〒518-1151 三重県伊賀市白樫 白樫IC「国土交通省中部地方整備局北勢国道事務所」/ Shirakashi IC, Shirakashi, Iga-shi, Mie Prefecture, "Hokusei National Highway Office, Chubu Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0854583,34.723687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道白樫東ライブカメラ / Meihan Expressway Shirakasi East Live Camera</name>
+        <description><![CDATA[三重県伊賀市治田  「国土交通省中部地方整備局北勢国道事務所」/ Haruta, Iga-shi, Mie Prefecture, "Chubu National Road Office, Chubu Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0821848,34.7194421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道白樫西ライブカメラ / Meihan Expressway Shirakashi West Live Camera</name>
+        <description><![CDATA[三重県伊賀市治田 「国土交通省中部地方整備局北勢国道事務所」/ Haruta, Iga-shi,  Mie Prefecture, "Chubu National Road Office, Chubu Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0790468,34.7125305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道治田東ライブカメラ / Meihan Expressway Hatsutahigashi Live Camera</name>
+        <description><![CDATA[三重県伊賀市治田「北勢国道事務所」/ Hatsuta, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0759182,34.7063334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT名阪国道治田インターチェンジ付近ライブカメラ / ICT Meihan National Highway Interchange Live Camera</name>
+        <description><![CDATA[〒518-1155 三重県伊賀市治田 治田IC 「伊賀上野ケーブルテレビ」/ Hatsuta IC, Hatsuta, Iga-shi, Mie 518-1155, "Igaueno Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0756063,34.706036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICT国道368号安場ライブカメラ / ICT National highway No.368 Anba live camera</name>
+        <description><![CDATA[〒518-1145 三重県伊賀市安場「伊賀上野ケーブルテレビ」/ Yasuba, Iga-shi, Mie Prefecture 518-1145, "Iga Ueno Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1076928,34.6712238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads国道368号八幡ライブカメラ / ads National highway No.368 Hachiman live camera</name>
+        <description><![CDATA[〒518-0605 三重県名張市八幡 八幡2号公園付近 「ads.navi」/ Hachiman No.2 Park, Hachiman, Nabari-shi, Mie Prefecture 518-0605, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1047083,34.6546135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads国道165号すずらん台口ライブカメラ / ads National Road 165 Suzurandai Live Camera</name>
+        <description><![CDATA[三重県名張市すずらん台 「ads.navi」/ Suzurandai, Nabari-shi, Mie, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.151897,34.645225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads名張川大屋戸橋ライブカメラ / ads Nabari River Oyadobashi Bridge live camera</name>
+        <description><![CDATA[〒518-0733 三重県名張市大屋戸 大屋戸橋 「ads.navi」/ Oyadobashi, Oyado, Nabari-shi, Mie 518-0733, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0941496,34.630286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads国道165号名張警察署付近ライブカメラ / ads National Road 165 Near Nabari Police Station Live Camera</name>
+        <description>三重県名張市蔵持町芝出 名張警察署付近 / Near Nabari Police Station, Shibade, Kuramochi-cho, Nabari-shi, Mie</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1120725,34.6287453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads国道165号夏見ライブカメラ / ads National highway No. 165 Natsumi live camera</name>
+        <description><![CDATA[〒518-0441 三重県名張市夏見 「ads.navi」/ Natsumi, Nabari-shi, Mie 518-0441, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1042066,34.620273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads名張川新夏見橋ライブカメラ / ads Nabari River Shinnatsumi Bridge Live Camera</name>
+        <description>〒518-0441 三重県名張市夏見 新夏見橋「ads.navi」/ Shinnatsumibashi, Natsumi, Nabari-shi, Mie 518-0441</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1036493,34.6193227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads名張川沖津藻大橋ライブカメラ / ads Nabari River Okitsumo Ohashi Live Camera </name>
+        <description><![CDATA[〒518-0441 三重県名張市夏見 沖津藻大橋 「ads.navi」 / Okitsumoohashi, Natsumi, Nabari-shi, Mie 518-0441, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.099,34.61697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名張川名張大橋ライブカメラ / Nabari River Nabari Ohashi Live Camera</name>
+        <description>三重県名張市 名張大橋 「名張川上流河川事務所」/ Nabari Ohashi, Nabari City, Mie Prefecture “Upstream Nabari River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0816703,34.6190613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads宇陀川黒田大橋ライブカメラ / ads Uda River Kurodaohashi Bridge Live Camera</name>
+        <description><![CDATA[〒518-0734 三重県名張市黒田 黒田大橋 「ads.navi」/ Kuroda Ohashi, Kuroda, Nabari City, Mie Prefecture 518-0734, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0843751,34.6147059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads宇陀川赤目中学校ライブカメラ / ads Udagawa Akame Junior High School Live Camera </name>
+        <description><![CDATA[〒518-0444 三重県名張市箕曲中村２１９ 名張市立赤目中学校 「ads.navi」/ Akame Junior High School, 219 Minowanaka-mura, Nabari-shi, Mie 518-0444, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0815138,34.6091545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads名張川名張大橋ライブカメラ / ads Nabari River Nabari Ohashi Live Camera</name>
+        <description><![CDATA[〒518-0444 三重県名張市箕曲中村１８−２（株）アドバンスコープ / Advance Corp., 18-2 Minowanaka-mura, Nabari-shi, Mie Prefecture 518-0444, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.085232,34.616246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ads国道165号安部田ライブカメラ / ads National highway No. 165 Abeda live camera</name>
+        <description><![CDATA[〒518-0737 三重県名張市安部田 「ads.navi」/ Abeda, Nabari-shi, Mie 518-0737, "ads.navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0606581,34.5959586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松阪市　今の北の空 / The Present North Sky in Matsusaka City</name>
+        <description><![CDATA[三重県松阪市 まつさかNOW / Matsusaka-shi, "MATSUSAKA NOW"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5271,34.579235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓮ダムライブカメラ / Ren Dam Live Camera</name>
+        <description><![CDATA[〒515-1615 三重県松阪市飯高町森1810-11  蓮ダム管理所 / Ren Dam Management Office, 1810-11 Mori, Iitaka-cho,  Matsusaka-shi, Mie-ken 515-1615<br>https://livecamera.fujiyamasan.com/hachisudam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2104169,34.3765688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>櫛田川13.2KP右岸ライブカメラ / Kushidagawa 13.2KP right bank live camera</name>
+        <description><![CDATA[三重県多気郡多気町荒蒔 「国土交通省河川情報センター」/ Aramaki, Taki-cho, Taki-cho, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5478464,34.509985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川新橋ライブカメラ / Sanagawa River Shinbashi Live Camera</name>
+        <description><![CDATA[三重県多気郡多気町西池上 「三重河川国道事務所」 / Nishiikegami, Taki-cho, Taki-gun, Mie, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5659406,34.5144358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川池上橋ライブカメラ / Sana River Ikegami Bridge Live Camera</name>
+        <description><![CDATA[〒519-2156 三重県多気郡多気町西池上 池上橋 「三重河川国道事務所」 / Nishiikegami, Taki-cho, Taki-gun, Mie 519-2156, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5619553,34.506004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川大峯橋ライブカメラ / Sanagawa Ominebashi live camera</name>
+        <description><![CDATA[〒519-2157 三重県多気郡多気町五佐奈１１００ 大峰橋 「三重河川国道事務所」/ Ominebashi Bridge, 110 Gosana, Taki-cho, Taki-gun, Mie 519-2157, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.556447,34.4964303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>櫛田川両郡水位観測所ライブカメラ / Kushida River Ryogun Water Level Observatory Live Camera</name>
+        <description><![CDATA[三重県多気郡多気町相可「三重河川国道事務所」/ Ouka, Taki-cho, Taki-gun, Mie, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5427434,34.4981859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川西山橋水位観測所ライブカメラ / Sanagawa Nishiyamabashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[三重県多気郡多気町西山 「三重河川国道事務所」/ Nishiyama, Taki-cho, Taki-gun, Mie,  "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5535808,34.4883351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川5.0KP左岸ライブカメラ / Sanagawa 5.0KP Left Bank Live Camera</name>
+        <description><![CDATA[三重県多気郡多気町油夫「国土交通省河川情報センター」/ Yubu, Taki-cho, Taki-gun, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5508745,34.4824698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>櫛田川18.2KP右岸ライブカメラ / Kushidagawa 18.2KP right bank live camera</name>
+        <description><![CDATA[三重県多気郡多気町鍬形「国土交通省河川情報センター」/ Kuwagata, Taki-cho, Taki-gun, Mie, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5003887,34.4994632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五桂池ふるさと村保護猫ライブカメラ / Gokatsuraike Furusato village protection cat live camera</name>
+        <description>〒519-2174 三重県多気郡多気町五桂９５６ 五桂池ふるさと村 / Gokatsuraike Furusato Village, 956 Gokatsura, Taki-cho, Taki-gun, Mie 519-2174</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5521288,34.4668763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号前村ライブカメラ / National Road 42 Mae Village Live Camera</name>
+        <description><![CDATA[〒519-2175 三重県多気郡多気町前村 「紀勢国道事務所」/ Mae-mura, Taki-cho, Taki-gun, Mie 519-2175, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5221524,34.4641111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号栃原ライブカメラ / National Route 42 Tochihara Live Camera</name>
+        <description>三重県多気郡大台町栃原 「紀勢国道事務所」/ Tochihara, Odai-cho, Taki-gun, Mie, “Kise National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5186688,34.4469863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号上三瀬ライブカメラ / National Road 42 Kamimise Live Camera</name>
+        <description><![CDATA[三重県多気郡大台町上三瀬 「紀勢国道事務所」/ Kamimise, Oda-cho, Taki-gun, Mie, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4176829,34.4067519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号下三瀬ライブカメラ / National highway No. 42 Shimomise live camera</name>
+        <description>三重県多気郡大台町下三瀬 「紀勢国道事務所」 / Shimomise, Odai-cho, Taki-gun, Mie, “Kise National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4369024,34.4062689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号勝瀬ライブカメラ / National Road 42 Katsuse Live Camera</name>
+        <description><![CDATA[〒519-2704 三重県度会郡大紀町阿曽 「紀勢国道事務所」/ Aso, Taiki-cho, Dokai-gun, Mie Prefecture 519-2704, "Kise National Highway Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4248894,34.3356135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号柏野ライブカメラ / National highway No. 42 Kashiwano live camera</name>
+        <description><![CDATA[三重県度会郡大紀町柏野 「紀勢国道事務所」/ Kashiwano, Taiki-cho, Watarai-gun, Mie, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4248894,34.3085686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号荷坂トンネル坑口松阪側ライブカメラ / National highway No. 42 Kazaka tunnel pit Matsusaka side live camera</name>
+        <description><![CDATA[三重県度会郡大紀町大内山 「紀勢国道事務所」/ Ouchiyama, Taiki-cho, Watarai-gun, Mie Prefecture, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3585955,34.2390918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川東豊浜町ライブカメラ / Miyagawa Higashi-Toyohama Live Camera</name>
+        <description><![CDATA[〒515-0502 三重県伊勢市東豊浜町 「三重河川国道事務所」/ Higashitoyohama-cho, Ise-shi, Mie Prefecture 515-0502, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7115929,34.5366016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川河口部右岸ライブカメラ / Miyagawa estuary right bank live camera</name>
+        <description><![CDATA[〒516-0001 三重県伊勢市大湊町 「三重河川国道事務所」/ Ominato-cho, Ise City, Mie Prefecture 516-0001, "Mie River National Highway Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7357609,34.5291809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川1.6KP左岸ライブカメラ / Miyagawa 1.6KP left bank live camera</name>
+        <description><![CDATA[〒515-0503 三重県伊勢市樫原町 「国土交通省河川情報センター」/ Kashihara-cho, Ise-shi, Mie Prefecture 515-0503 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7159868,34.5298191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川排水機場ライブカメラ / Setagawa River drainage pump live camera</name>
+        <description><![CDATA[〒516-0006 三重県伊勢市田尻町 勢田川排水機場 「三重河川国道事務所」/ Seta River Drainage Station, Tajiri-cho, Ise-shi, Mie Prefecture 516-0006, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7367935,34.5080499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五十鈴川浜田排水樋管ライブカメラ / Isuzu River Hamada drain gutter live camera</name>
+        <description><![CDATA[〒519-0607 三重県伊勢市二見町西  浜田排水樋管「三重河川国道事務所」/ West Hamada drainage gutter, Futamichonishi, Ise-shi, Mie Prefecture 519-0607, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7599405,34.5127208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川勢田川橋ライブカメラ / Seita River Seitagawa Bridge Live Camera</name>
+        <description><![CDATA[三重県伊勢市 勢田川橋 「三重河川国道事務所」/ Setagawa Bridge, Ise-shi, Mie Prefecture, "Mie River National Road Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7378755,34.5027224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川桜づつみライブカメラ / Miyagawa Sakuradutsumi Live Camera</name>
+        <description><![CDATA[〒516-0804 三重県伊勢市御薗町長屋 「三重河川国道事務所」/  Nagaya, Misono-cho, Ise City, Mie Prefecture 516-0804 "Mie River National Highway Office"<br>https://livecamera.fujiyamasan.com/ise-miyagawa-sakura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7056625,34.5125925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号宮川大橋ライブカメラ / National highway No.23 Miyagawa Ohashi live camera</name>
+        <description><![CDATA[〒515-0504 三重県伊勢市磯町 国道23号 & 宮川大橋 「三重河川国道事務所」/ Miyagawa Ohashi, Iso-cho, Ise-shi, Mie Prefecture 515-0504, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6975182,34.5112322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川JR宮川橋梁ライブカメラ / Miyagawa JR Miyagawa Bridge Live Camera</name>
+        <description><![CDATA[〒519-0503 三重県伊勢市小俣町元町 「三重河川国道事務所」/ Motomachi, Omata-cho, Ise-shi, Mie Prefecture 519-0503, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6777773,34.5081864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川6.4KP左岸ライブカメラ / Miyagawa 6.4KP left bank live camera</name>
+        <description><![CDATA[〒519-0504 三重県伊勢市小俣町宮前 「国土交通省河川情報センター」/ Miyamae, Obata-cho, Ise-shi, Mie 519-0504, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6812478,34.4997154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川宮川橋ライブカメラ / Miyagawa Miyagawa Bridge Live Camera</name>
+        <description><![CDATA[〒516-0061 三重県伊勢市宮川 「三重河川国道事務所」/ Miyagawa, Ise City, Mie Prefecture 516-0061, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.686229,34.4972448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川度会橋水位観測所ライブカメラ / Miyagawa River Watarai Bridge Water level observatory Live Camera</name>
+        <description><![CDATA[三重県伊勢市小俣町宮前 度会橋水位観測所(度会大橋水位観測所)「三重河川国道事務所」/ Watarai Bridge Water level observatory, Obama-cho, Ise-shi, Mie Prefecture, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6836538,34.4930462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川伊勢市上水道宮川出張所水管橋ライブカメラ / Miyagawa Ise City Water Supply Miyagawa Branch Water Tube Bridge Live Camera</name>
+        <description><![CDATA[三重県伊勢市中須町 「三重河川国道事務所」/ Nakasu-cho, Ise-shi, Mie Prefecture, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.67657,34.48397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川8.6KP左岸ライブカメラ / Miyagawa 8.6KP left bank live camera</name>
+        <description><![CDATA[三重県伊勢市中須町「国土交通省河川情報センター」/ Nakasu-cho, Ise-shi, Mie Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6777287,34.4826611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川小田古川排水樋門ライブカメラ / Miyagawa Oda Furukawa drainage gutter live camera</name>
+        <description><![CDATA[〒516-1102 三重県伊勢市佐八町 「三重河川国道事務所」/ Saha-cho, Ise-shi, Mie Prefecture 516-1102, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6669933,34.4710761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川辻久留四号排水樋管ライブカメラ / Miyagawa Tsuji Kurume No. 4 drainage gutter live camera</name>
+        <description><![CDATA[〒516-0066 三重県伊勢市辻久留 「三重河川国道事務所」/ Tsujikuru, Ise-shi, Mie Prefecture 516-0066, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6856253,34.4828788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川勢田大橋水位観測所ライブカメラ / Seta River Seta Ohashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[三重県伊勢市田尻町 「三重河川国道事務所」/ Tajiri-cho, Ise-shi, Mie Prefecture, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7297178,34.5005745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川JR参宮線橋梁神久1丁目ライブカメラ / Setagawa JR Sangu Line Bridge Jinkyu 1-chome Live Camera</name>
+        <description><![CDATA[〒516-0017 三重県伊勢市神久１丁目 「三重河川国道事務所」/ 1-chome, Jinkyu, Ise-shi, Mie Prefecture, 516-0017, ""Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7179359,34.4906008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川JR参宮線橋梁吹上2丁目ライブカメラ / Setagawa JR Sangu Line Bridge Fukiage 2-chome live camera</name>
+        <description><![CDATA[〒516-0073 三重県伊勢市吹上２丁目 「三重河川国道事務所」/ 2-chome, Fukiage, Ise-shi, Mie Prefecture 516-0073, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7146132,34.4899865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢神宮外宮北御門ライブカメラ / Ise Shrine Geku Kitami Gate Live Camera</name>
+        <description><![CDATA[〒516-0074 三重県伊勢市本町 「伊勢地域観光交通対策協議会」/ Hon-machi, Ise-shi, Mie 516-0074, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.705235,34.4892409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢神宮外宮前ライブカメラ / Ise Jingu Geku-mae live camera</name>
+        <description><![CDATA[〒516-0042 三重県伊勢市豊川町「伊勢地域観光交通対策協議会」/ Toyokawa-cho, Ise-shi, Mie 516-0042, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7057949,34.4882949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川簀子橋ライブカメラ / Setagawa Kawakobashi live camera</name>
+        <description><![CDATA[〒516-0037 三重県伊勢市岩渕 「三重河川国道事務所」/ Iwabuchi, Ise-shi, Mie 516-0037, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7146132,34.4877298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重県道32号明倫小学校前ライブカメラ / Mie Prefectural Road No. 32 Meirin Elementary School Live Camera</name>
+        <description><![CDATA[〒516-0036 三重県伊勢市岡本１丁目１８−２１ 伊勢市立 明倫小学校  「伊勢地域観光交通対策協議会」/ Ise City Meirin Elementary School, 1-18-21 Okamoto, Ise-shi, Mie Prefecture 516-0036,  "Ise Area Tourism and Traffic Measures Council"<br> https://livecamera.fujiyamasan.com/ise-r32-oakamoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7103485,34.484224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勢田川岡本水位観測所ライブカメラ / Setagawa River Okamoto Water Observatory Live Camera</name>
+        <description><![CDATA[〒516-0036 三重県伊勢市岡本 「三重河川国道事務所」/ Okamoto, Ise-shi, Mie Prefecture 516-0036, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7103848,34.4830499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号伊勢インターチェンジ付近ライブカメラ / National Route 23 Ise interchange Live camera</name>
+        <description><![CDATA[〒516-0014 三重県伊勢市楠部町「伊勢地域観光交通対策協議会」/ Kusube-cho, Ise-shi, Mie 516-0014, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7319414,34.4804624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢道伊勢料金所ライブカメラ / Ise Toll Gate Live Camera</name>
+        <description><![CDATA[〒516-0035 三重県伊勢市勢田町 「伊勢地域観光交通対策協議会」/ Seita-cho, Ise-shi, Mie 516-0035, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.714215,34.4743885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重県道32号伊勢西インターチェンジ付近ライブカメラ / Mie Prefectural Road 32 Ise West Interchange Live camera</name>
+        <description><![CDATA[〒516-0035 三重県伊勢市勢田町 伊勢西IC 「伊勢地域観光交通対策協議会」/ Seta-cho, Ise-shi, Mie 516-0035, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7095682,34.4721438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重県道32号猿田彦神社前ライブカメラ / Mie Prefectural Road No. 32 Sarutahiko Shrine Live Camera</name>
+        <description><![CDATA[〒516-0026 三重県伊勢市宇治浦田２丁目１−１０ 猿田彦神社 「伊勢地域観光交通対策協議会」/ Sarutahiko Shrine, 2-10 Ujiurata, Ise City, Mie Prefecture 516-0026,   "Ise Area Tourism Traffic Countermeasures Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7204155,34.4671109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号内宮B1駐車場付近ライブカメラ / National highway No.23 Naigu B1 parking lot live camera</name>
+        <description><![CDATA[〒516-0026 三重県伊勢市宇治浦田１丁目１３ 伊勢市営 内宮B1駐車場「伊勢地域観光交通対策協議会」/ Ise City Operated Naiku B1 Parking, 1-13 Ujiurata, Ise-shi, Mie Prefecture 516-0026,  "Ise Area Tourism Traffic Countermeasures Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.722932,34.467023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢市営宇治第3駐車場(内宮B3駐車場)ライブカメラ / Ise City-operated Uji No. 3 Parking Lot (Naiku B3 Parking Lot) </name>
+        <description><![CDATA[〒516-0026 三重県伊勢市宇治浦田１丁目１３ 伊勢市営宇治第3駐車場(内宮B3駐車場) 「伊勢地域観光交通対策協議会」/  Ise City-operated Uji No. 3 Parking Lot (Naiku B3 Parking Lot) ,1-13  Ujiurata, Ise-shi, Mie Prefecture 516-0026,    "Ise Area Tourism Traffic Countermeasures Council" <br>https://livecamera.fujiyamasan.com/ise-naigu3-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7241799,34.4664102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号宇治浦田町交差点ライブカメラ / National highway 23 Uji-Urata-cho intersection live camera</name>
+        <description><![CDATA[〒516-0026 三重県伊勢市宇治浦田 宇治浦田町交差点 「伊勢地域観光交通対策協議会」/Uji-Urata-cho Intersection, Uji-Urata, Ise-shi, Mie 516-0026, "Ise area sightseeing traffic measures meeting" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7216456,34.4659696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重県道32号浦田橋ライブカメラ / Mie Prefectural Road No. 32 Uratabashi Live Camera </name>
+        <description><![CDATA[三重県伊勢市宇治館町 「伊勢地域観光交通対策協議会」/ Ujikan-cho, Ise-shi, Mie, "Ise Area Tourism Traffic Countermeasures Council"<br>https://livecamera.fujiyamasan.com/ise-r32-uratabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7252404,34.4647454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号神宮会館前ライブカメラ / National highway No.23 Jingu Kaikan live camera </name>
+        <description><![CDATA[〒516-0025 三重県伊勢市宇治中之切町１５２神宮会館 「伊勢地域観光交通対策協議会」/ Jingu Kaikan, 152 Uji-Nakanogiri-cho, Ise-shi, Mie 516-0025,  "Ise Area Tourism Traffic Countermeasures Council"<br>https://livecamera.fujiyamasan.com/ise-r23-jingukaikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7213342,34.4628129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢市の様子ウェブカメラ / Ise City Web Cam</name>
+        <description>「らくらく伊勢詣で」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.723907,34.459849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢神宮内宮前第1ライブカメラ / Ise Shrine Naikumae first live camera</name>
+        <description><![CDATA[〒516-0024 三重県伊勢市宇治今在家町「伊勢地域観光交通対策協議会」/ Ujiimazaike-cho, Ise-shi, Mie 516-0024, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7222608,34.4593159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢神宮内宮前第2ライブカメラ /Ise Shrine Naigu second live camera </name>
+        <description><![CDATA[三重県伊勢市宇治今在家町 伊勢神宮内宮前 「伊勢地域観光交通対策協議会」/ Ujiimazaike-cho, Ise-shi, Mie, "Ise Area Tourism Transport Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.721837,34.4589797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝熊山頂展望台 / Asama mountaintop observatory live camera</name>
+        <description><![CDATA[〒516-0021 三重県伊勢市朝熊町185 朝熊山頂展望台 「伊勢志摩スカイライン」 / Asama mountaintop observatory, 185 Asama-cho, Ise-shi, Mie-ken 516-0021, "Ise-shima Skyline"<br>https://livecamera.fujiyamasan.com/asakumasan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7917107,34.4597567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>汁谷川小社曽根ライブカメラ / Shiruyagawa River Ogososone Live Camera</name>
+        <description><![CDATA[〒519-0422 三重県度会郡玉城町小社曽根 「玉城町役場」/ Ogososone, Tamaki-cho, Watarai-gun, Mie 519-0422, "Tamaki Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6524305,34.4778526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川11.4KP左岸ライブカメラ / Miyagawa 11.4KP left bank live camera</name>
+        <description><![CDATA[三重県度会郡玉城町岩出 「国土交通省河川情報センター」 / Iwade, Tamaki-cho, Watarai-gun, Mie Prefecture, ""Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.65469,34.4647189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥羽海上保安部庁舎からの映像 / Image from Toba Coast Guard Office Hall</name>
+        <description><![CDATA[〒517-0011 三重県鳥羽市鳥羽１－２３８３－２８ 鳥羽運輸総合庁舎３階 鳥羽海上保安部 / Toba Coast Guard Office, Toba Transportation General Building 3rd Floor, 1-2383-28 Toba, Toba-shi, Mie-ken 517-0011<br>https://livecamera.fujiyamasan.com/tobakaijo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.844567,34.489367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号揖斐長良大橋ライブカメラ / National highway No.23 Ibi Nagara Ohashi live camera</name>
+        <description><![CDATA[三重県桑名市 揖斐長良大橋 「三重河川国道事務所」/  Ibi Nagara Ohashi  Bridge, Kuwana-shi, Mie, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7059999,35.0540192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重大学大学院水産実験所ライブカメラ / Mie University Graduate School Fisheries Experiment Station Live Camera</name>
+        <description>〒517-0703 三重県志摩市志摩町和具 三重大学大学院生物資源学研究科附属水産実験所 / Fisheries Experimental Station, Graduate School of Bioresource Sciences, Mie University, Kagu, Shima-cho, Shima City, Mie Prefecture 517-0703</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8046694,34.2757468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志摩半島横山から見た英虞湾 / Ago Bay from Yokoyama, Shima Peninsula</name>
+        <description><![CDATA[三重県志摩市阿児町鵜方 インターネット自然研究所 / Internet Nature Information System, Ugata, Ago-cho, Shima-shi, Mie<br>https://livecamera.fujiyamasan.com/shima-agowan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.789441,34.271935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重大学 LiveCamera (public版) / Mie University Live Camera</name>
+        <description><![CDATA[〒514-8507 三重県津市栗真町屋町１５７７ 三重大学生物資源学研究科 / Graduate School of Bioresources, Mie University, 1577 Kuriyamachiya-cho, Tsu-shi, Mie-ken 514-8507<br>https://livecamera.fujiyamasan.com/miedaigaku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.523589,34.746053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紀勢国道事務所 / Kise National Highway Office</name>
+        <description>〒515-0005 三重県松阪市鎌田町１４４−６ / 144-6 Kamata-cho, Matsusaka-shi, Mie 515-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5325928,34.5819205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重四水系ライブカメラ・国道1号鈴鹿峠ライブカメラ・中勢バイパスライブカメラ / Mie Four Drainage Systems Live Camera, National Route 1 Suzuka Pass Live Camera, Chusei Bypass Live Camera</name>
+        <description>〒514-8502　津市広明町297 三重河川国道事務所 / Mie River and National Highway Office,  Hiroaki-cho, Tsu-shi, Mie-ken 514-8502</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5060657,34.7340303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大王崎灯台ライブカメラ / Daiozaki Lighthouse</name>
+        <description><![CDATA[〒517-0603 三重県志摩市大王町波切５４ 鳥羽海上保安部 / Toba Coast Guard, 54 Namikiri, Daio-cho, Shima-shi, Mie-ken 517-0603<br>https://livecamera.fujiyamasan.com/daiozaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.899498,34.276155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石倉渡船ライブカメラ / Ishikura Ferry Live Camera</name>
+        <description>三重県北牟婁郡紀北町 石倉渡船 くまどこほっとねっと / Kumadoko Hotnet, Ishikura Watashibune, Kihoku-cho, Kitamuro-gun, Mie</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.348529,34.209602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大杉谷ライブカメラ / Ohsugidani Live Camera </name>
+        <description><![CDATA[〒519-2634 三重県多気郡大台町大杉140-40 公益社団法人 大杉谷登山センター / Ohsugidani Tozan Center, 140-40 Ohsugi, Odai-cho, Taki-gun, Mie-ken 519-2634<br>https://livecamera.fujiyamasan.com/osugidani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1526142,34.2261994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号東長島ゲートライブカメラ/ National Road 42 Higashinagashima Gate Live Camera</name>
+        <description><![CDATA[〒519-3204 三重県北牟婁郡紀北町東長島 「紀勢国道事務所」/ Higashinagashima, Kihoku-cho, Kitamuro-gun, Mie 519-3204, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3576702,34.2156557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くまどこライブカメラ　紀伊長島港 / Port of Kiinagashima</name>
+        <description><![CDATA[三重県北牟婁郡紀北町紀伊長島区東長島 東紀州ほっとねっと くまどこ / Higashinagashima, Kiinagashima-ku, Kihoku-cho, Kitamuro-gun, Mie, "Higashikishu Hot Net Kumadoko"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.34855,34.20962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号便の山ライブカメラ / National Road 42 Binnoyama Live Camera</name>
+        <description><![CDATA[〒519-3408 三重県北牟婁郡紀北町便ノ山 「紀勢国道事務所」/ Binnoyama, kihoku-cho, Kitamuro-gun, Mie 519-3408, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1732912,34.1134041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号尾鷲トンネル坑口尾鷲側ライブカメラ / National highway No. 42 Owase tunnel pit Owase side live camera</name>
+        <description><![CDATA[三重県尾鷲市南浦丑ノ谷 尾鷲トンネル 「紀勢国道事務所」/ Owase tunnel, Minamiura Onotani, Owase-shi, Mie,  "Kise national highway office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1924116,34.088617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾鷲海上保安部庁舎からの映像 / Image from the Owase Coast Guard Office Hall</name>
+        <description><![CDATA[〒 519-3612 尾鷲市林町１－２９ 尾鷲海上保安部尾鷲港湾合同庁舎 / Owase Coast Guard Owase Port Government Building, 1-29 Hayashi-machi, Owase-shi, Mie-ken 519-3612<br>https://livecamera.fujiyamasan.com/owasekaijo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2019623,34.0717066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号矢ノ浜ゲートライブカメラ / National highway No. 42 Yanohama gate live camera</name>
+        <description><![CDATA[〒519-3671 三重県尾鷲市矢浜 「紀勢国道事務所」/ Yahama, Owase-shi, Mie Prefecture 519-3671, "Kise National Road Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1974261,34.0605478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号矢ノ川トンネル坑口賀田側ライブカメラ / National highway No. 42 Yanogawa tunnel pit Kada side live camera</name>
+        <description><![CDATA[三重県尾鷲市 矢ノ川トンネル　「紀勢国道事務所」/ Yanogawa Tunnel, Owase-shi, Mie Prefecture, "Kise National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1490062,33.9986203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号佐田坂ライブカメラ / National Route 42 Satazaka Live Camera</name>
+        <description><![CDATA[三重県熊野市大泊町佐田坂 「紀勢国道事務所」/ Satazaka, Odomari-cho, Kumano-shi, Mie Prefecture, "Kisei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1074846,33.9183952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号大泊ゲートライブカメラ / National highway No. 42 Ohdomari gate live camera</name>
+        <description><![CDATA[〒519-4322 三重県熊野市大泊町 「紀勢国道事務所」/ Odomari-cho, Kumano-shi, Mie Prefecture 519-4322, "Kisei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1111904,33.9144421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤木城ライブカメラ / Akagi Castle Live Camera</name>
+        <description><![CDATA[〒519-5404 三重県熊野市 紀和町赤木 赤木城跡　「熊野市役所」/ Akagi Castle Ruins, Akagi, Kiwa-cho, Kumano-shi, Mie-ken 519-5404, "Kumano City Official Web Site"<br>https://livecamera.fujiyamasan.com/akagijo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.953182,33.8955616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くまどこライブカメラ　さぎりの里 / Kumadoko Live Camera Sagiri no Sato</name>
+        <description><![CDATA[〒519-5322 三重県南牟婁郡御浜町上野６１６−２ さぎりの里　「上野東紀州ほっとネット くまどこ」 / 616 Ueno, Ohama-cho, Minamimuro-gun, Mie-ken 519-5322, "Higashikishu Hot Net Kumadoko"<br>https://livecamera.fujiyamasan.com/minamimuro.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9820852,33.8584422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大里輪中堤大里第3樋門ライブカメラ / Ozato Wajutei Ozato 3rd Himon Live Camera</name>
+        <description><![CDATA[〒519-5835 三重県南牟婁郡紀宝町大里 「国土交通省川の防災情報CCTVカメラ」/ Osato, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9467693,33.798221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川大里第1ライブカメラ / Onotani River Osato 1st Live Camera</name>
+        <description><![CDATA[三重県南牟婁郡紀宝町大里 「国土交通省川の防災情報CCTVカメラ」/ Osato, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9893881,33.7765691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川高岡第2ライブカメラ / Onotani River Takaoka 2nd Live Camera</name>
+        <description><![CDATA[三重県南牟婁郡紀宝町高岡 「国土交通省川の防災情報CCTVカメラ」/ Takaoka, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9849508,33.7701277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川高岡橋上流ライブカメラ /Onotanigawa River Takaokabashi Bridge upstream live camera </name>
+        <description><![CDATA[三重県南牟婁郡紀宝町高岡 「国土交通省川の防災情報CCTVカメラ」/ Takaoka, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9788788,33.763484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川高岡第1ライブカメラ / Onotani River Takaoka 1st Live Camera</name>
+        <description><![CDATA[三重県南牟婁郡紀宝町高岡 「国土交通省川の防災情報CCTVカメラ」/ Takaoka, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9729991,33.7577836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川湯の谷橋ライブカメラ / Onotani River Yunotani Bridge Live Camera</name>
+        <description><![CDATA[三重県紀宝町鮒田 「国土交通省川の防災情報CCTVカメラ」/ Funata, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9735239,33.7507491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川弁慶橋陸閘ライブカメラ / Aino Tanigawa Benkei Bridge Rikko Live Camera</name>
+        <description><![CDATA[三重県南牟婁郡紀宝町鮒田 「国土交通省川の防災情報CCTVカメラ」/ Funata, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9770007,33.7439131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相野谷川鮒田西陸閘ライブカメラ / Onotani River Funada Nishirikko Live Camera</name>
+        <description><![CDATA[〒519-5714 三重県南牟婁郡紀宝町鮒田 「国土交通省川の防災情報CCTVカメラ」/ Funata, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9726051,33.7433501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川鮒田水門第2ライブカメラ / Kumanogawa Funada Sluice 2nd Live Camera</name>
+        <description><![CDATA[三重県南牟婁郡紀宝町鮒田 「国土交通省川の防災情報CCTVカメラ」/ Funata, Kiho-cho, Minamimuro-gun, Mie Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.979464,33.7384485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東正寺ライブカメラ / Tosho-ji Temple Live Camera</name>
+        <description>三重県南牟婁郡紀宝町鵜殿６８６ / 686 Udono, Kiho-cho, Minamimuro-gun, Mie</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.003704,33.735725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川成川ライブカメラ / Kumanogawa River Narukawa Live Camera</name>
+        <description>〒519-5713 三重県南牟婁郡紀宝町成川 「国土交通省河川情報センター」/ Narukawa, Kiho-cho, Minamimuro-gun, Mie Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9966176,33.7344975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川矢渕第1ライブカメラ / Kumano River Yabuchi 1st Live Camera</name>
+        <description>三重県南牟婁郡紀宝町鵜殿 「国土交通省河川情報センター」/ Udono, Kiho-cho, Minamimuro-gun, Mie Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0133158,33.7297227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川矢渕第2ライブカメラ / Kumano River Yabuchi 2nd Live Camera</name>
+        <description>三重県南牟婁郡紀宝町鵜殿 「国土交通省河川情報センター」/ Udono, Kiho-cho, Minamimuro-gun, Mie Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0037123,33.7330483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川北檜杖ライブカメラ / Kumano River Kitahidue Live Camera</name>
+        <description>三重県南牟婁郡紀宝町北檜杖 「国土交通省河川情報センター」/ Kitahidue, Kiho-cho, Minamimuro-gun, Mie Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9737788,33.7283822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いなべ市農業公園パークゴルフ場ライブカメラ /  Inabe City Agricultural Park Park Golf Course Live Camera</name>
+        <description><![CDATA[〒511-0501 三重県いなべ市藤原町鼎３０７１ いなべ市農業公園 パークゴルフ場 / Inabe City Agricultural Park Park Golf Course, 3071 Kanae, Fujiwara-cho, Inabe-shi, Mie 511-0501<br>https://livecamera.fujiyamasan.com/inabe-fujiwara-parkgolf.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4897371,35.2321759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川越町防災カメラ / Kawagoe Town disaster prevention camera</name>
+        <description>〒510-8588 三重県三重郡川越町大字豊田一色２８０  川越町役場 / Kawagoe Town Office, 280 Toyotaisshiki, Kawagoe-cho, Mie-gun, Mie Prefecture 510-8588 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.673971,35.02295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四日市防波堤信号所からの映像 / Video from Yokkaichi Breakwater Signal Station</name>
+        <description>〒510-0051 三重県四日市市千歳町５−１ 四日市海上保安部 / Yokkaichi Coast Guard, 5-1 Chitose-cho, Yokkaichi-shi, Mie Prefecture 510-0051</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.636965,34.952456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス南黒田高架橋ライブカメラ / National Route 23 Nakase Bypass Minami Kuroda Viaduct Live Camera</name>
+        <description><![CDATA[〒510-0316 三重県津市河芸町南黒田 南黒田高架橋 「三重河川国道事務所」/ Minamikuroda Viaduct, Minamikuroda Kawage-machi, Tsu-shi, Mie Prefecture 510-0316, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5102454,34.7862409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス安濃川橋下りライブカメラ / National highway No. 23 Nakase bypass Annogawa bridge down live camera</name>
+        <description>〒514-0055 三重県津市南河路 / Minamikawaji, Tsu-shi, Mie Prefecture 514-0055</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4789712,34.7206922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス高茶屋ランプライブカメラ / National highway No. 23 Nakase bypass Takachaya lamp live camera</name>
+        <description><![CDATA[三重県津市高茶屋小森町 高茶屋ランプ 「三重河川国道事務所」 / Takachaya Lamp, Takachaya Komori-cho , Tsu-shi, Mie Prefecture "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4929088,34.6692878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス久居相川交差点ライブカメラ / National highway No. 23 Nakase bypass Hisai Aikawa intersection live camera</name>
+        <description><![CDATA[三重県津市久居相川町 久居相川交差点 「三重河川国道事務所」/ Hisaiaikawa intersection, Hisaiaikawa-cho, Tsu-shi, Mie Prefecture,  "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4882685,34.6884349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス野田ライブカメラ / Route 23 Nakase Bypass Noda Live Camera</name>
+        <description><![CDATA[〒514-0826 三重県津市野田 「三重河川国道事務所」/ Noda, Tsu-shi, Mie 514-0826, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4645436,34.7120308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道23号中勢バイパス安東ライブカメラ / National highway No. 23 Nakase bypass Antou live camera</name>
+        <description><![CDATA[〒514-0064 三重県津市長岡町「三重河川国道事務所」/ Nagaoka-cho, Tsu-shi, Mie 514-0064, "Mie River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4839141,34.7414655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波瀬川4.0KP左岸ライブカメラ / Hasegawa 4.0KP left bank live camera</name>
+        <description><![CDATA[〒515-2521 三重県津市一志町井関 「国土交通省河川情報センター」/ Isegi, Ichishi-cho, Tsu-shi, Mie 515-2521, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center""]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4226182,34.6500551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波瀬川3.4KP左岸ライブカメラ / Hazegawa River 3.4KP left bank live camera</name>
+        <description><![CDATA[〒515-2516 三重県津市一志町田尻「国土交通省河川情報センター」/ Tajiri, Ichishi-cho, Tsu-shi, Mie 525-2516, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4311101,34.653117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲出川14.0KP左岸ライブカメラ / Kumoide River 14.0KP Left bank live camera</name>
+        <description><![CDATA[〒514-1255 三重県津市庄田町「国土交通省河川情報センター」/ Shoda-cho, Tsu-shi, Mie Prefecture 514-1255 "Ministry of Land, Infrastructure, Transport and Tourism River Informationi center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4230001,34.6711788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲出川2.4KP左岸ライブカメラ / Kumoide River 2.4KP left bank live camera</name>
+        <description><![CDATA[三重県津市香良洲町 「国土交通省河川情報センター」/ Karasu-cho, Tsu-shi, Mie,  "Ministry of Land, Infrastructure, Transport and Tourism River Informationi center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5325295,34.647636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲出古川2.4KP左岸ライブカメラ / Kumozu Furukawa 2.4KP left bank live camera </name>
+        <description>〒514-0302 三重県津市雲出伊倉津町「国土交通省河川情報センター」/ Kumoduiguradu-cho, Tsu-shi, Mie 514-0302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5272846,34.6518604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川西外面ライブカメラ / Nagara River Nishidomo Live Camera</name>
+        <description><![CDATA[〒511-1143 三重県桑名市長島町西外面 「木曽川下流河川事務所」/ Nishidomo, Nagashima-cho, Kuwana-shi, Mie 511-1143, "Kiso River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6922669,35.0947705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>揖斐川中流域ライブカメラ福永カメラ / Ibi River middle basin live camera Fukunaga camera</name>
+        <description><![CDATA[〒511-0112 三重県桑名市多度町福永 「木曽川下流河川事務所」/ Fukunaga, Tado-cho, Kuwana-shi, Mie 511-0112 "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6536372,35.1448529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中流域ライブカメラ肱江川水位観測所カメラ / Middle watershed live camera Hijie River water level observatory camera</name>
+        <description><![CDATA[〒511-0114 三重県桑名市多度町中須 「木曽川下流河川事務所」/ Nakasu, Tado-cho, Kuwana-shi, Mie 511-0114 "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6544895,35.1296077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道（国道25号バイパス） 山の神橋ライブカメラ / Meihan national highway (National highway No. 25 bypass) Yamanokamibashi live camera</name>
+        <description><![CDATA[〒519-1125 三重県亀山市加太向井 山の神橋 「北勢国道事務所」 / Yamanokamibashi, Kameyama-shi, Mie Prefecture 519-1125, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3364996,34.8361021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道25号名阪国道新五月橋ライブカメラ / National Road 25 Meihan Expressway Shinsatsukibashi Bridge Live Camera</name>
+        <description><![CDATA[三重県伊賀市冶田「北勢国道事務所」/ Hatsuta, Iga-shi, Mie, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0632477,34.6989926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹谷川赤水町ライブカメラ / Taketani River Akozucho Live Camera</name>
+        <description><![CDATA[〒512-1204 三重県四日市市赤水町１４５１−１ 赤水町子ども広場 「株式会社シー・ティー・ワイ」/ 1451-1 Akozu-cho, Yokkaichi-shi, Mie 512-1204 Akozu-cho Children's Square "CTY Co., Ltd."<br>https://livecamera.fujiyamasan.com/yokkaichi-akozu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5552239,35.0120674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十四川近鉄富田駅付近ライブカメラ / Jushigawa Kintetsu Tomida Station Live Camera</name>
+        <description><![CDATA[〒510-8013 三重県四日市市南富田町15－11　四日市高同窓会館 「株式会社シー・ティー・ワイ」/ Yokkaichi High Alumni Hall, 15-11 Minamitomida-cho, Yokkaichi-shi, Mie 510-8013 "CTY Co., Ltd."<br>https://livecamera.fujiyamasan.com/yokkaichi-minamitomida.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6481131,35.0052311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海蔵川三重県工業研究所窯業研究室ライブカメラ / Kaizo River Mie Industrial Research Institute Ceramics Laboratory Live Camera</name>
+        <description><![CDATA[〒510-0805 三重県四日市市東阿倉川 東阿倉川７８８　三重県工業研究所 窯業研究室 「株式会社シー・ティー・ワイ」/ Ceramics Laboratory, Mie Industrial Research Institute, 788 Higashiakuragawa, Yokkaichi City, Mie Prefecture 510-0805 <br>"CTY Co., Ltd."<br>https://livecamera.fujiyamasan.com/yokkaichi-higashikuragawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.620059,34.98123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内部川4.8KP左岸ライブカメラ / Utsube River 4.8KP Left Bank Live Camera</name>
+        <description><![CDATA[三重県四日市市貝家町「河川情報センター」/ Kaigecho, Yokkaichi City, Mie Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yokkaichi-utsube-4-8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5696854,34.9289558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内部川6.0KP左岸ライブカメラ / Utsube River 6.0KP Left Bank Live Camera</name>
+        <description><![CDATA[三重県四日市市北小松町 「一般財団法人河川情報センター」/ Kitakomatsucho, Yokkaichi City, Mie Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yokkaichi-utsube-6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5617728,34.9235276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[宇賀川いなべ市大安公民館ライブカメラ / Uga River Inabe City Da'an Public Hall Live Camera]]></name>
+        <description><![CDATA[〒511-0274 三重県いなべ市大安町大井田２７０４　いなべ市大安公民館 「株式会社シー・ティー・ワイ」/ 2704 Oida, Daian-cho, Inabe-shi, Mie 511-0274 Daian Public Hall, Inabe-shi "CTY Co., Ltd."<br>https://livecamera.fujiyamasan.com/inabe-daian-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.53584,35.095465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菰野町図書館ライブカメラ / Komonomachi Library Live Camera</name>
+        <description><![CDATA[〒510-1253 三重県三重郡菰野町潤田１２５０　菰野町図書館 「株式会社 シー・ティー・ワイ」/  Komono-cho Library, 1250 Uruda, Komono-machi, Mie-gun, Mie-gun 510-1253 "CTY Co., Ltd."<br>https://livecamera.fujiyamasan.com/mie-komono-uruda.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5071234,35.0192145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

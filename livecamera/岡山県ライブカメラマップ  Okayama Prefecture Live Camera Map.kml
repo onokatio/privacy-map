@@ -1,0 +1,2814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>岡山県ライブカメラマップ / Okayama Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>岡山県内ライブカメラ</name>
+      <Placemark>
+        <name>パノラマ・レイクサイドライブカメラ / Panorama and Lakeside Live Camera</name>
+        <description>〒708-0601 岡山県苫田郡鏡野町上齋原２０３７　恩原高原スキー場 / Ombara Kogen Ski Resort, 2037 Kamisaibara, Kagamino-cho, Tomata-gun, Okayama-ken 708-0601</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9809655,35.3126693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒜山高原センター ジョイフルパーク / Hiruzen Kogen Center Joyful Park</name>
+        <description>〒717-0602 岡山県真庭市蒜山上福田１２０５−１９７ ヒルゼン高原センター ジョイフルパーク / Hiruzen Kogen Center Joyful Park, 1205-197 Hiruzen Kamifukuda, Maniwa-shi, Okayama-ken 717-0602</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.635335,35.291414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川の様子ライブカメラ / Asahikawa Live Camera</name>
+        <description>〒719-3201 岡山県真庭市久世2603　割烹旅館おかもと / Kappo Ryokan (Hotel) Okamoto, 2603 Kuse, Maniwa-shi, Okayama-ken 719-3201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7463812,35.0776496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒜山高原からみた蒜山三座 / Hiruzensanza from Hiruzen Kogen</name>
+        <description><![CDATA[岡山県真庭市蒜山上福田　蒜山高原 「インターネット自然研究所」/ Hiruzen Kogen, Hiruzenkamifukuda, Maniwa-shi, Okayama-ken, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.668036,35.294847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒜山ライブカメラ / Hiruzen Live Camera</name>
+        <description>〒717-0503 岡山県真庭市蒜山富山根３０３−１　蒜山観光協会 / Hiruzen Tourist Association, 303-1 Hiruzentomiyamane, Maniwa-shi, Okayama-ken 717-0503</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.672302,35.2801289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒜山サイクリング概況ライブカメラ / Hiruzen Cycling</name>
+        <description>岡山県真庭市蒜山下福田 蒜山下福田消防署付近 / Hiruzen Shimofukuda Fire Department,  Hiruzen Shimofukuda, Maniwa City, Okayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.679409,35.281361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝央町河川道路監視カメラ / Shuo Town River and Road Surveillance Cameras</name>
+        <description>〒709-4316　岡山県勝田郡勝央町勝間田201 勝央町役場 / Shouo Town Hall, 201 Katsumada, Shouo-cho, Katsuta-gun, Okayama 709-4316</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1161585,35.041792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯郷温泉ライブカメラ / Yunogo Onsen Live Camera</name>
+        <description>〒707-0062 岡山県美作市湯郷３１９ 湯郷温泉旅館協同組合 / Yumogo Onsen Ryokan Cooperative Association, Yunogo, Mimasaka-shi, Okayama-ken 707-0062</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.137359,34.994004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北房コスモスの里 / Hokubo Cosmos Village</name>
+        <description>岡山県真庭市上水田 コスモスの里特産品ふれあいセンター / Cosmos Village Specialty contact center, Kamimizuta, Maniwa City, Okayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.654819,34.970867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新見市ネットワークカメラ / Niimi City Network Camera </name>
+        <description><![CDATA[岡山県新見市新見３１０−３ 新見市役所 天気・道路・河川情報 / Niimi City Office, 310-3 Niimi, Niimi City, Okayama, "Information of Weather, Roads and Rivers"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.470368,34.977109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きびプラザライブカメラ / Kibi Plaza Live Camera</name>
+        <description>〒716-1241 岡山県加賀郡吉備中央町吉川４８６０−６ ㈱吉備高原都市サービス / Kibikogen Urban Services Co., Ltd., 4860‐6 Yoshikawa, Kibi Chuo-cho, Kaga-gun, Okayama-ken 716-1241</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.760669,34.8350647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星空公園ライブカメラ / Hoshizora Park Live Camera</name>
+        <description><![CDATA[〒714-1405 岡山県井原市美星町宇戸１１６５−５４ 井原市星空公園　「美星町観光協会」/ Ibara City Hoshizora Park, 1165-54 Uto, Bisei-cho, Ibara-shi, Okayama-ken 714-1405, "Bisei Town Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5711035,34.6799929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[美星天文台の天気「お天気カメラ」/ The Weather of Bisei Astronomical Observatory "Weather Camera"]]></name>
+        <description>〒714-1411 岡山県井原市美星町大倉１７２３−７０　美星天文台 / Bisei Astronomical Observatory, 1723-70 Okura, Bisei-cho, Ibara-shi, Okayama-ken 714-1411</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.545397,34.672008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井原市のライブカメラ映像 / Live Videos of Ibara City</name>
+        <description><![CDATA[〒715-0014 岡山県井原市七日市町１２−１ アクティブライフ井原 「井原市役所」 / Activelife Ibara, 12-1 Nanukaichi-cho, Ibara-shi, Okayama-ken 715-0014, "Ibara City Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.468089,34.595743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡山県冬期道路気象情報システム / Okayama Prefecture Winter Road Meteorological Information System</name>
+        <description>〒700-0824 岡山県岡山市北区内山下２丁目４−６　岡山県土木部道路整備課保全班 / Okayama Prefecture Civil Engineering Department Road Maintenance Division Conservation Team, 2-4-6 Uchisange, Kita-ku, Okayama-shi, Okayama-ken 700-0824</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9344141,34.6613205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三川（吉井川・高梁川・旭川）ライブカメラ / Yoshii River, Takahashi River and Asahikawa River Live Cameras</name>
+        <description>〒700-0914 岡山県岡山市北区鹿田町２丁目４−３６ 国土交通省中国地方整備局岡山河川事務所 / Okayama River Office, 2-4-36 Shikada-cho, Kita-ku, Okayama-shi, Okayama-ken 700-0914</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9180129,34.6510601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛窓ライブカメラ / Ushimado Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市牛窓町牛窓 草木造船 「AECS for PC」 / Ushimado, Ushimado-cho, Setouchi City, Okayama, "AECS for PC"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.170253,34.615939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇野港ライブカメラ / Uno Port Live Camera</name>
+        <description>岡山県玉野市宇野１丁目２−１２ 宇野港 株式会社NICS / Uno Port, Nippon Information Control System Inc., 1-2-12 Uno, Tamano City, Okayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.949904,34.489704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲羽山からみた瀬戸内海 / Seto Inland Sea from Mt. Washu (Washu-zan)</name>
+        <description><![CDATA[岡山県倉敷市下津井吹上 鷲羽山 インターネット自然研究所 / Mt. Washu, Fukiage, Shimotsui, Kurashiki City, Okayama, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.799057,34.445176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ノースヴィレッジライブカメラ / North Village Live Camera</name>
+        <description><![CDATA[〒709-4311 岡山県勝田郡勝央町岡１１００ 農業公園おかやまファーマーズ・マーケット ノースヴィレッジ / Okayama Farmer's Market North Village, 1100 Oka, Shuo-cho, Katsuta-gun, Okayama-ken 709-4311]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.134706,35.0388325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方道路ライブ画像 / Chugoku Region Road Live Images</name>
+        <description>〒700-0031 岡山県岡山市北区富町２丁目１９−１２　国土交通省中国地方整備局岡山国道事務所 / Ministry of Land, Infrastructure and Transport Chugoku Regional Development Bureau Okayama National Highway Office, 2-19-12 Tomi-machi, Kita-ku, Okayama-shi, Okayama-ken 700-0031</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.907592,34.664758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川旭川ダムライブカメラ / Asahikawa Asahikawa Dam Live Camera</name>
+        <description><![CDATA[〒709-3101 岡山県岡山市北区建部町鶴田９３１ 旭川ダム 「国土交通省河川情報センター」/  Asahigawa Dam, 931 Tazuta, Takebe-cho, Kita-ku, Okayama-shi, Okayama 709-3101,  "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8566393,34.9134486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川八幡橋ライブカメラ / Asahi River Yahata Bridge Live camera</name>
+        <description><![CDATA[岡山県岡山市北区建部町福渡 「国土交通省河川情報センター」/ Fukuwatari, Takebe-cho, Kita-ku, Okayama-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9023906,34.8688995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇甘川中泉橋ライブカメラ / Ukai River Nakaizumi Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区御津中泉「国土交通省河川情報センター」/ Mitsunakaizumi, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8867852,34.8111879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川金川大橋ライブカメラ / Asahi River Kanagawa Ohashi Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区御津金川「国土交通省河川情報センター」/ Mitsukanagawa, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9367076,34.8003626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川御津宇垣ライブカメラ / Asahi River Mitsuugaki Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区御津宇垣「国土交通省河川情報センター」/ Mitsuugaki, Kita-ku, Okayama City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9261391,34.7809026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川牟佐ライブカメラ / Asahi River Musa Live Camera </name>
+        <description><![CDATA[岡山県岡山市北区牟佐「国土交通省河川情報センター」/ Musa, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism" /]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9616049,34.7416518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足守川生石橋ライブカメラ / Ashimori River Oishi Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区門前「国土交通省河川情報センター」/ Monzen, Kita-ku, Okayama City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8077085,34.6932966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹ヶ瀬川首部橋ライブカメラ / Sasagase River Kobe Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区首部「国土交通省河川情報センター」/ Kobe, Kita Ward, Okayama City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8987558,34.6844445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹ヶ瀬川比丘尼橋ライブカメラ / Sasagase River Bikuni Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区尾上「国土交通省河川情報センター」/ Onoue, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8761974,34.6644709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足守川撫川橋ライブカメラ / Ashimori River Natsukawa River Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区撫川「国土交通省河川情報センター」/ Natsukawa, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8420671,34.6422778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局旭川岡山県庁河川ライブカメラ / China Regional Development Bureau Asahi River Okayama Prefectural Government River Live Camera</name>
+        <description><![CDATA[〒700-8570 岡山県岡山市北区内山下２丁目４−６ 岡山県庁 「国土交通省中国地方整備局」/ Okayama Prefectural Office, 2-4-6 Uchisange, Kita-ku, Okayama-shi, Okayama 700-8570, "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9346752,34.6617726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TSCテレビせとうち岡山空港ライブカメラ / TSC TV Setouchi Okayama Airport Live Camera</name>
+        <description><![CDATA[〒701-1131 岡山県岡山市北区日応寺１２７７ 岡山空港（岡山桃太郎空港）「テレビ瀬戸内」/ Okayama Airport (Momotaro Okayama Airport) , 1277 Nichioji, Kita-ku, Okayama-shi, Okayama 701-1131 "TV Setouchi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8558042,34.7579784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川16.6KP左岸ライブカメラ / Asahi River 16.6KP left bank live camera</name>
+        <description><![CDATA[岡山県岡山市北区玉柏「国土交通省河川情報センター」/ Tamagashi, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9747811,34.7221807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川15.0KP左岸ライブカメラ / Asahi River 15.0KP left bank live camera</name>
+        <description><![CDATA[岡山県岡山市北区中原「国土交通省河川情報センター」/ Nakahara, Kita-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9596818,34.7119099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川9.5KP右岸ライブカメラ / Asahi River 9.5KP right bank live camera</name>
+        <description><![CDATA[岡山県岡山市北区出石町2丁目「国土交通省河川情報センター」/ 2-chome, Izushi-cho, Kita-ku, Okayama-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9313628,34.6723359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSKラジオライブカメラ / RSK radio live camera</name>
+        <description>〒700-0823 岡山県岡山市北区丸の内２丁目１−３ ＲＳＫ山陽放送（株）本社 / RSK Sanyo Broadcasting Co., Ltd. Headquarters 2-3-1, Marunouchi, Kita-ku, Okayama-shi, Okayama 700-0823</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.932589,34.664553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川新大原橋ライブカメラ / Asahi River Shin-Oharabashi Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区玉柏「岡山河川事務所」/ Tamagashi, Kita-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9707973,34.7213245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川合同用水堰ライブカメラ / Asahi River Joint Aqueduct Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区玉柏 「岡山河川事務所」/ Tamagashi, Kita-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9693764,34.7223357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川大原ライブカメラ / Asahi River Ohara Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区玉柏「岡山河川事務所」/ Tamagashi, Kita-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9719783,34.7140036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川玉柏ライブカメラ / Asahi River Tamagashi Live Camera</name>
+        <description><![CDATA[〒701-2142 岡山県岡山市北区玉柏 「岡山河川事務所」/  Tamagashi, Kita-ku, Okayama-shi, Okayama 701-2142,  "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9651325,34.7200063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川上ノ原ライブカメラ / Asahi River Uenohara Live Camera</name>
+        <description><![CDATA[〒701-2155 岡山県岡山市北区中原「岡山河川事務所」/ Nakahara, Kita-ku, Okayama City, Okayama Prefecture 701-2155, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9496391,34.7035234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川下ノ原ライブカメラ / Asahi River Shimonohara Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区中原「岡山河川事務所」/ Nakahara, Kita-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.946482,34.6974699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川岡山県庁ライブカメラ / Asahi River Okayama Prefectural Office Live Camera</name>
+        <description><![CDATA[〒700-8570 岡山県岡山市北区内山下２丁目４−６ 岡山県庁 「岡山河川事務所」/ Okayama Prefectural Office, 2-4-6 Uchisange, Kita-ku, Okayama-shi, Okayama 700-8570, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9351795,34.6616667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足守川今保ライブカメラ / Ashimori River Imabou Live Camera</name>
+        <description><![CDATA[〒701-0152 岡山県岡山市北区延友 「岡山県河川カメラ」/ Nobutomo, Kita-ku, Okayama City, Okayama Prefecture 701-0152 "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.86374,34.6392611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹ヶ瀬川笹ヶ瀬ライブカメラ / Sasagase River Sasagase Live Camera</name>
+        <description><![CDATA[〒701-0143 岡山県岡山市北区白石 「岡山県河川カメラ」/ Shiraishi, Kita-ku, Okayama City, Okayama Prefecture 701-0143 "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8756795,34.6518084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川中ノ原ライブカメラ / Asahi River Nakanohara Live Camera</name>
+        <description><![CDATA[岡山県岡山市北区中原地先「岡山県河川カメラ」/ Nakahara, Kita-ku, Okayama City, Okayama Prefecture "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9507441,34.7060845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局旭川新鶴見橋ライブカメラ / Chugoku Regional Development Bureau Asahikawa Shin-Tsurumi Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区古京町 「国土交通省中国地方整備局」/ Furugyo-cho, Naka-ku, Okayama-shi, Okayama "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9329345,34.6697965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川10.6KP左岸ライブカメラ / Asahi River 10.6KP left bank live camera</name>
+        <description><![CDATA[〒703-8258 岡山県岡山市中区西川原 「国土交通省河川情報センター」/ Nishigawara, Naka-ku, Okayama City, Okayama Prefecture 703-8258 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9345421,34.6803049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川3.6KP左岸ライブカメラ / Asahi River 3.6KP left bank live camera</name>
+        <description><![CDATA[岡山県岡山市中区平井「国土交通省河川情報センター」/ Hirai, Naka-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9496855,34.6288184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間川12.4KP左岸ライブカメラ / Hyakken River 12.4KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区竹田「国土交通省河川情報センター」/ Takeda, Naka-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9436252,34.6812401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間川7.0KP左岸ライブカメラ / Hyakken River 7.0KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区米田「国土交通省河川情報センター」/ Yoneda, Naka-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9957972,34.672027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間川5.6KP右岸ライブカメラ / Hyakken River 5.6KP Right Bank Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区海吉「国土交通省河川情報センター」/ Miyoshi, Naka-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.990378,34.6603185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川桜橋ライブカメラ / Asahi River Sakura Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区桜橋 「岡山河川事務所」/ Sakurabashi, Naka-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9318447,34.6487065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川中原ライブカメラ / Asahi River Nakahara Live Camera</name>
+        <description><![CDATA[〒703-8252 岡山県岡山市中区中島 「岡山河川事務所」/ Nakashima, Naka-ku, Okayama City, Okayama Prefecture 703-8252 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9424867,34.6888583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川竹田分流点ライブカメラ / Asahi River Takeda branch point live camera</name>
+        <description><![CDATA[〒703-8251 岡山県岡山市中区竹田「岡山河川事務所」/ Takeda, Naka-ku, Okayama City, Okayama Prefecture 703-8251<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9401023,34.6832232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川新鶴見橋ライブカメラ / Asahi River Shin-Tsurumi Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区古京町「岡山河川事務所」/ Furugyo-cho, Naka-ku, Okayama City, Okayama Prefecture, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9337306,34.6708139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川御幸ライブカメラ / Asahi River Miyuki Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区御幸町「岡山河川事務所」/ Miyuki-cho, Naka-ku, Okayama City, Okayama Prefecture, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9328128,34.6526189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川小橋ライブカメラ / Asahi River Kobashi Bridge Live Camera</name>
+        <description><![CDATA[〒703-8293 岡山県岡山市中区小橋町 「岡山河川事務所」/  Kobashi-cho, Naka-ku, Okayama-shi, Okayama 703-8293, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9368236,34.6586939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川江崎ライブカメラ / Asahi River Ezaki Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区江崎 「岡山河川事務所」/ Ezaki, Naka-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9567466,34.6212902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川平井ライブカメラ / Asahi River Hirai Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区平井「岡山河川事務所」/  Hirai, Naka-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9504492,34.6277085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間川東川原ライブカメラ / Hyakuken River Higashigawara Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区東川原「岡山河川事務所」/ Higashigawara, Naka-ku, Okayama City, Okayama Prefecture, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9431986,34.6804138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川江並ライブカメラ / Asahi River Enami Live Camera</name>
+        <description><![CDATA[岡山県岡山市中区江並地先「岡山河川事務所」/ Enami, Naka-ku, Okayama City, Okayama Prefecture, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9637997,34.6134155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川楢部橋ライブカメラ / Suna River Narabe Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区沼 「国土交通省河川情報センター」/ Numa, Higashi-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.040531,34.7081906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局吉井川御休ライブカメラ / China Regional Development Bureau Yoshii River Gokyu Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区一日市 「国土交通省中国地方整備局」/ Hitoichi, Higashi-ku, Okayama City, Okayama Prefecture "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0891331,34.7140118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川20.2KP左岸ライブカメラ / Yoshii River 20.2KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区瀬戸町弓削「国土交通省中国地方整備局」/ Yuge, Seto-cho, Higashi-ku, Okayama-shi, Okayama "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.090496,34.7519138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川寺山ライブカメラ / Yoshii River Terayama Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区寺山 「岡山河川事務所」/ Terayama, Higashi-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0810336,34.7090767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川久保ライブカメラ / Yoshii River Kubo Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区久保「岡山河川事務所」/ Kubo, Higashi-ku, Okayama City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0532575,34.664187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川西大寺空間監視ライブカメラ / Yoshii River Saidaiji Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区金岡東町「岡山河川事務所」/ Kanaoka Higashimachi, Higashi-ku, Okayama City, Okayama Prefecture<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0300802,34.6473665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川九蟠ライブカメラ / Yoshii River Kuban Live Camera</name>
+        <description><![CDATA[〒704-8161 岡山県岡山市東区九蟠 「岡山河川事務所」/  Kuban, Higashi-ku, Okayama-shi, Okayama 704-8161,  "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0318162,34.6138621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川弓削第2ライブカメラ / Yoshii River Yugedai Second Live Camera</name>
+        <description><![CDATA[〒709-0843 岡山県岡山市東区瀬戸町弓削 「岡山河川事務所」/ Yuge, Seto-cho, Higashi-ku, Okayama-shi, Okayama 709-0843 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1007844,34.7546324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川弓削空間監視ライブカメラ / Yoshii River Yuge Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県岡山市東区瀬戸町弓削「岡山河川事務所」/ Yuge, Seto-cho, Higashi-ku, Okayama-shi, Okayama, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1043968,34.7490682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川上道ライブカメラ / Suna River Jodou Live Camera</name>
+        <description><![CDATA[〒709-0611 岡山県岡山市東区楢原 「岡山県河川カメラ」/ Narabara, Higashi-ku, Okayama City, Okayama Prefecture 709-0611 "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.061556,34.7020958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川浅越橋ライブカメラ / Suna River Asagoe River Live Camera</name>
+        <description><![CDATA[〒704-8181 岡山県岡山市東区浅越「岡山県河川カメラ」/ Asagoe, Higashi-ku, Okayama City, Okayama Prefecture 704-8181 "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0282462,34.6635452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡山市瀬戸内海ライブカメラ / Okayama City Seto Inland Sea Live Camera</name>
+        <description><![CDATA[岡山県岡山市南区 「kogushi」/ Minami-ku, Okayama City, Okayama Prefecture "kogushi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8864226,34.587625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹ヶ瀬川大樋橋ライブカメラ / Sasagase River Ohi Bridge Live Camera</name>
+        <description><![CDATA[岡山県岡山市南区米倉「国土交通省河川情報センター」/ Yonegura, Minami-ku, Okayama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.889416,34.6284326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小串地区沿岸ライブカメラ / Kogushi district coastal live camera</name>
+        <description><![CDATA[岡山県岡山市南区小串3385 「岡山県危機管理課」/ 3385 Kogushi, Minami-ku, Okayama City, Okayama Prefecture "Okayama Prefecture Crisis Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0294741,34.5979515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小串漁業協同組合ライブカメラ / Kogushi Fisheries Cooperative Live Camera</name>
+        <description>〒702-8016 岡山県岡山市南区小串３３８５−５ 小串漁協 / Kogushi Fisheries Cooperative, 3385-5 Kogushi, Minami-ku, Okayama City, Okayama Prefecture 702-8016</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0297952,34.5970376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溜川新橋ライブカメラ / Tame River Shinbashi Bridge Live Camera</name>
+        <description><![CDATA[岡山県倉敷市玉島1丁目 「国土交通省河川情報センター」/ 1-chome, Tamashima, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6737116,34.5451055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里見川大正橋ライブカメラ / Satomi River Taisho Bridge Live Camera</name>
+        <description><![CDATA[〒713-8122 岡山県倉敷市玉島中央町３丁目 「国土交通省河川情報センター」/ 3-chome, Tamashima Chuo-cho, Kurashiki-shi, Okayama 713-8122 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6674984,34.5442118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真谷川服部橋ライブカメラ / Madani River Hattori Bridge Live Camera</name>
+        <description><![CDATA[岡山県倉敷市玉島服部 「国土交通省河川情報センター」/ Tamashima Hattori, Kurashiki City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6804851,34.6102592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高馬川真備町箭田ライブカメラ / Takama River Mabi Town Yata Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町箭田 「国土交通省河川情報センター」/ Mabicho Yata, Kurashiki City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.687699,34.6262693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末政川瞽女橋ライブカメラ / Suemasa River Gose Bridge Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町有井「国土交通省河川情報センター」/ Arii, Mabi-cho, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7037912,34.6396316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局小田川八高堰ライブカメラ / China Regional Development Bureau Odagawa Hakko Weir Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町尾崎 「国土交通省中国地方整備局」/ Osaki, Mabi-cho, Kurashiki-shi, Okayama "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6608857,34.6212725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局小田川下二万ライブカメラ / China Regional Development Bureau Oda Shimonima live camera</name>
+        <description><![CDATA[〒710-1314 岡山県倉敷市真備町下二万 「国土交通省中国地方整備局」/ Shimonima, Mabi-cho, Kurashiki-shi, Okayama 710-1314, "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7118528,34.6232784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局高梁川酒津ライブカメラ / China Regional Development Bureau Takahashi River Sakazu Live Camera</name>
+        <description><![CDATA[岡山県倉敷市酒津「国土交通省中国地方整備局」/ Sakazu, Kurashiki City, Okayama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7483579,34.620455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川7.0KP左岸ライブカメラ / Odagawa 7.0KP left bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町妹 「国土交通省河川情報センター」/ Se, Mabi-cho, Kurashiki City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6516173,34.6209096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川6.8KP右岸ライブカメラ / Odagawa 6.8KP right bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町妹「国土交通省河川情報センター」/ Se, Mabi-cho, Kurashiki City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6532382,34.6194775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川6.4KP左岸ライブカメラ / Odagawa 6.4KP left bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町妹「国土交通省河川情報センター」/ Se, Mabi-cho, Kurashiki City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6574331,34.6209784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川4.2KP右岸ライブカメラ / Odagawa 4.2KP right bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町服部「国土交通省河川情報センター」/ Hattori, Mabi-cho, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6811014,34.6194962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川3.4KP左岸ライブカメラ / Odagawa 3.4KP left bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町箭田「国土交通省河川情報センター」/ Yata, Mabi-cho, Kurashiki City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6896753,34.6218425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川0.6KP右岸ライブカメラ / Odagawa 0.6KP right bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町川辺 「国土交通省河川情報センター」/ Kawabe, Mabi-cho, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7155216,34.6286847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川13.8KP右岸ライブカメラ / Takahashi River 13.8KP right bank live camera</name>
+        <description><![CDATA[岡山県倉敷市真備町川辺「国土交通省河川情報センター」/ Kawabe, Mabi-cho, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7225259,34.631423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川7.8KP右岸ライブカメラ / Takahashi River 7.8KP right bank live camera</name>
+        <description><![CDATA[岡山県倉敷市船穂町水江「国土交通省河川情報センター」/  Mizue, Funao-cho, Kurashiki-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7219709,34.5977651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IoT百葉箱倉敷市立下津井西小学校ライブカメラ / IoT Hyakuyobako Kurashiki City Shimotsui Nishi Elementary School Live Camera</name>
+        <description>〒711-0927 岡山県倉敷市下津井１丁目１７−１６ 倉敷市立下津井西小学校 / 1-17-16 Shimotsui, Kurashiki City, Okayama Prefecture 711-0927 Kurashiki City Shimotsui Nishi Elementary School</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.797341,34.439031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川水江ライブカメラ / Takahashi River Mizue Live Camera</name>
+        <description><![CDATA[岡山県倉敷市水江 「岡山河川事務所」/ Mizue, Kurashiki City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7391348,34.602239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川真備ライブカメラ / Takahashi River Mabi Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町川辺 「岡山河川事務所」/ Kawabe, Mabi-cho, Kurashiki-shi, Okayama "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.724401,34.6381555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川川辺ライブカメラ / Takahashi River Kawabe Live Camera</name>
+        <description><![CDATA[〒710-1313 岡山県倉敷市真備町川辺 「岡山河川事務所」/ Kawabe, Mabi-cho, Kurashiki-shi, Okayama 710-1313, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7214344,34.6324551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川西阿知ライブカメラ / Takahashi River Nishiachi Live Camera</name>
+        <description><![CDATA[岡山県倉敷市西阿知町「岡山河川事務所」/ Nishiachi-cho, Kurashiki City, Okayama Prefecture, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7306988,34.5963632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川船穂第2ライブカメラ / Takahashi River Funao 2nd Live Camera</name>
+        <description><![CDATA[〒710-0261 岡山県倉敷市船穂町船穂 「岡山河川事務所」/ Funao, Funao-cho, Kurashiki-shi, Okayama 710-0261 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6998731,34.5859906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川片島ライブカメラ / Takahashi River Katashima Live Camera</name>
+        <description><![CDATA[岡山県倉敷市片島町 「岡山河川事務所」/ Katashima-cho, Kurashiki-shi, Okayama "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7101682,34.5689252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川潮止堰ライブカメラ / Takahashi River tide weir live camera</name>
+        <description><![CDATA[〒712-8001 岡山県倉敷市連島町西之浦５９１２−３ 岡山県企業局工業用水道事務所 「岡山河川事務所」/ Okayama Prefecture Enterprise Bureau Industrial Waterworks Office, 5912-3 Nishinoura, Tsurajima-cho, Kurashiki-shi, Okayama 712-8001, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7036461,34.5553497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川鶴新田ライブカメラ / Takahashi River Tsurushinden Live Camera</name>
+        <description><![CDATA[〒712-8006 岡山県倉敷市連島町鶴新田「岡山河川事務所」/ Tsurushinden, Tsurajima-cho, Kurashiki-shi, Okayama 712-8006 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7118528,34.5379824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川小田川合流点ライブカメラ / Takahashi River Odagawa Confluence Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町川辺 「岡山河川事務所」/ Kawabe, Mabi-cho, Kurashiki-shi, Okayama "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7227871,34.6297327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川杉森樋門ライブカメラ / Odagawa Sugimori Himon Live Camera</name>
+        <description><![CDATA[岡山県倉敷市真備町箭田「岡山河川事務所」/ Yata, Kurashiki City, Okayama Prefecture<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6911325,34.6201806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川下二万ライブカメラ / Oda River Shimonima Live Camera</name>
+        <description><![CDATA[〒710-1314 岡山県倉敷市真備町下二万「岡山河川事務所」/ Shimonima, Mabi-cho, Kurashiki-shi, Okayama 710-1314 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7118528,34.6232784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KCT鷲羽山情報ライブカメラ / KCT Washuzan Information Live Camera</name>
+        <description><![CDATA[岡山県倉敷市大畠「倉敷ケーブルテレビ(KCT)」/  Obatake, Kurashiki City, Okayama Prefecture "Kurashiki Cable Television (KCT)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8128692,34.4357286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川船穂第1ライブカメラ / Takahashi River Funao 1st Live Camera</name>
+        <description><![CDATA[岡山県倉敷市西阿知町西原 「岡山河川事務所」/ Nishibara, Nishiachi-cho, Kurashiki-shi, Okayama "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7174395,34.5851146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉島地区沿岸ライブカメラ / Tamashima area coastal live camera</name>
+        <description><![CDATA[岡山県倉敷市玉島柏島 「岡山県危機管理課」/ Tamashima Kashiwajima, Kurashiki City, Okayama Prefecture "Okayama Prefecture Crisis Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6635613,34.5302462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陽自動車道早島支線倉敷ジャンクションライブカメラ / Sanyo Expressway Hayashima Branch Line Kurashiki Junction Live Camera</name>
+        <description><![CDATA[〒710-0002 岡山県倉敷市生坂 倉敷JCT 「NEXCO西日本」/ Kurashiki JCT, Ikusaka, Kurashiki City, Okayama Prefecture 710-0002,   "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7914457,34.6266311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陽自動車道岡山ジャンクション～倉敷ジャンクションライブカメラ / Sanyo Expressway Okayama Junction-Kurashiki Junction Live Camera</name>
+        <description><![CDATA[〒701-0115 岡山県倉敷市二子 「NEXCO西日本」/ Futago, Kurashiki City, Okayama Prefecture 701-0115 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8075849,34.6387118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川広岡桜橋ライブカメラ / Kamogawa Hirooka Sakurabashi Live Camera</name>
+        <description><![CDATA[岡山県玉野市広岡 「国土交通省河川情報センター」/ Hirooka, Tamano City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.887,34.4987395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇野地区沿岸ライブカメラ / Uno area coastal live camera</name>
+        <description><![CDATA[岡山県玉野市築港1丁目7352-13 「岡山県危機管理課」/ 1-7352-13 Chikko, Tamano City, Okayama Prefecture "Okayama Prefecture Crisis Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9508043,34.4929735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾坂川寺道橋ライブカメラ / Osaka River Teramichi Live Camera</name>
+        <description><![CDATA[岡山県笠岡市甲弩 「国土交通省河川情報センター」/ Kono, Kasaoka City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5488393,34.5937206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご笠岡岩野池ECO発電所ライブカメラ / Strawberry Kasaoka Iwanoike ECO Power Plant Live Camera</name>
+        <description><![CDATA[岡山県笠岡市山口 いちご笠岡岩野池ECO発電所 「いちごECOエナジー」/ Ichigo Kasaoka Iwanoike ECO Power Plant, Yamaguchi, Kasaoka City, Okayama Prefecture, "Ichigo ECO Energy"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5219701,34.5698971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠岡地区沿岸ライブカメラ / Kasaoka area coastal live camera</name>
+        <description><![CDATA[〒714-0081 岡山県笠岡市笠岡２４３５ 「岡山県危機管理課」/ 2435 Kasaoka, Kasaoka City, Okayama Prefecture 714-0081 "Crisis Management Division, Okayama Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5031743,34.5035141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川金比羅橋ライブカメラ / Odagawa Konpira Bridge Live Camera</name>
+        <description><![CDATA[岡山県井原市芳井町吉井 「国土交通省河川情報センター」/ Yoshii, Yoshii-cho, Ibara-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4333008,34.6323184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川日羽水位観測所ライブカメラ / Takahashi River Hiwa Water Level Observatory Live Camera </name>
+        <description><![CDATA[岡山県総社市日羽 「国土交通省河川情報センター」/ Hiwa, Soja City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6816376,34.7142048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川22.6KP左岸ライブカメラ / Takahashi River 22.6KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県総社市宍粟「国土交通省河川情報センター」/ Shisawa, Soja City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7191556,34.7036483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川16.4KP右岸ライブカメラ / Takahashi River 16.4KP Right Bank Live Camera</name>
+        <description><![CDATA[岡山県総社市下原 「国土交通省河川情報センター」/ Shimobara, Soja City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.724974,34.6532011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>備中国分寺五重塔ライブカメラ / Bitchū Kokubunji Five-storied Pagoda Live Camera</name>
+        <description><![CDATA[〒719-1123 岡山県総社市上林１０４６ 「総社市役所」/ 1046 Kanbayashi, Soja City, Okayama Prefecture 719-1123 "Soja City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.782188,34.666389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川清音古地ライブカメラ / Takahashi River Kiyonekochi Live Camera</name>
+        <description><![CDATA[岡山県総社市清音古地 「岡山河川事務所」/ Kiyonekochi, Soja City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.731696,34.6268088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川清音ライブカメラ / Takahashi River Kiyone Live Camera</name>
+        <description><![CDATA[岡山県総社市清音上中島 「岡山河川事務所」/ Kiyonekaminakashiima, Soja City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7302582,34.6462931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川湛井堰ライブカメラ / Takahashi River Tatai Weir Live Camera</name>
+        <description><![CDATA[岡山県総社市井尻野 「岡山河川事務所」/ Ijirino, Soja City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7285266,34.6907104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川秦ライブカメラ / Takahashi River Hada Live Camera</name>
+        <description><![CDATA[岡山県総社市秦 「岡山河川事務所」/ Hada, Soja City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.721645,34.7020496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川井尻野ライブカメラ / Takahashi River Ijirino Live Camera</name>
+        <description><![CDATA[岡山県総社市井尻野 「岡山河川事務所」/ Ijirino, Soja City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7228722,34.6784937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川清音上中島ライブカメラ / Takahashi River Kiyone Kaminakashima Live Camera</name>
+        <description><![CDATA[〒719-1175 岡山県総社市清音上中島「岡山河川事務所」/ Kiyonekaminakashima, Soja City, Okayama Prefecture 719-1175 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7298168,34.6432851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川宍粟ライブカメラ / Takahashi River Shisawa Live Camera</name>
+        <description><![CDATA[〒719-1153 岡山県総社市宍粟 「岡山河川事務所」/  Shisawa, Soja City, Okayama Prefecture 719-1153, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7166438,34.7108387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川総社ライブカメラ / Takahashi River Soja Live Camera</name>
+        <description><![CDATA[岡山県総社市中原地先「岡山河川事務所」/ Nakabara, Soja City, Okayama Prefecture<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7274899,34.6710776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川落合橋ライブカメラ / Takahashi River Ochiai Bridge Live Camera</name>
+        <description><![CDATA[岡山県高梁市段町 「国土交通省河川情報センター」/ Dancho, Takahashi City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6019006,34.7803994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成羽川成羽町総門橋ライブカメラ / Nariwa River Nariwa Town Somonbashi Live Camera</name>
+        <description><![CDATA[岡山県高梁市成羽町下原 「国土交通省河川情報センター」/ Shimohara, Nariwa-cho, Takahashi-shi, Okayama "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5331968,34.7811405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川川面簡易水道ライブカメラ / Takahashi River Kawamo Simple Water Supply Live Camera</name>
+        <description><![CDATA[岡山県高梁市川面町 「高梁市河川監視カメラ」/ Kawamocho, Takahashi City, Okayama Prefecture "Takahashi City River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5957081,34.8475567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川高梁大橋ライブカメラ / Takahashi River Takahashi Ohashi Live Camera</name>
+        <description><![CDATA[岡山県高梁市落合町近似 「高梁市河川監視カメラ」/ Ochiai-cho, Takahashi-shi, Okayama "Takahashi-shi river monitoring camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6108765,34.7908521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成羽川長屋橋ライブカメラ / Nariwa River Nagayabashi Live Camera</name>
+        <description><![CDATA[岡山県高梁市備中町長屋 「高梁市河川監視カメラ」/ Nagaya, Bitchu-cho, Takahashi-shi, Okayama "Takahashi-shi river surveillance camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4614561,34.7875561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成羽川総門橋ライブカメラ / Nariwa River Somonbashi Live Camera</name>
+        <description><![CDATA[岡山県高梁市成羽町成羽 「高梁市河川監視カメラ」/ Nariwa, Nariwa Town, Takahashi City, Okayama Prefecture "Takahashi City River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5352508,34.7830265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成羽川小瀬橋ライブカメラ / Nariwa River Ozebashi Live Camera</name>
+        <description><![CDATA[岡山県高梁市落合町阿部 「高梁市河川監視カメラ」/ Abe, Ochiai-cho, Takahashi-shi, Okayama "Takahashi-shi river surveillance camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5763698,34.779577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川成羽川合流点神崎橋ライブカメラ / Takahashi River Nariwa River Confluence Kanzaki Bridge Live Camera</name>
+        <description><![CDATA[岡山県高梁市玉川町玉「高梁市河川監視カメラ」/ Tama, Tamagawa-cho, Takahashi City, Okayama Prefecture "Takahashi City River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5945555,34.7751336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川河内谷ライブカメラ / Takahashi River Kawachidani Live Camera</name>
+        <description><![CDATA[岡山県高梁市玉川町玉「高梁市河川監視カメラ」/ Tama, Tamagawacho, Takahashi City, Okayama Prefecture "Takahashi City River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.604044,34.7675244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川玉川橋ライブカメラ / Takahashi River Tamagawa Bridge Live Camera</name>
+        <description><![CDATA[岡山県高梁市玉川町玉 「高梁市河川監視カメラ」/ Tama, Tamagawa-cho, Takahashi-shi, Okayama, "Takahashi-shi river surveillance camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6050895,34.7568898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川坂根空間監視ライブカメラ / Yoshii River Sakane Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県備前市坂根「岡山河川事務所」/ Sakane, Bizen City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1045557,34.7265705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日生地区沿岸ライブカメラ / Hinase area coastal live camera</name>
+        <description><![CDATA[岡山県備前市日生町日生864 「岡山県危機管理課」/ 864 Hinase, Hinase Town, Bizen City, Okayama Prefecture, "Okayama Prefecture Crisis Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2685199,34.7309807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千町川明見橋ライブカメラ / Sencho River Myoken Bridge Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市邑久町本庄 「国土交通省河川情報センター」/ Honjo, Oku-cho, Setouchi City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1212788,34.6613537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>干田川歩道橋ライブカメラ / Kanda River pedestrian bridge live camera</name>
+        <description><![CDATA[岡山県瀬戸内市長船町福里「国土交通省河川情報センター」/ Fukusato, Osafune-cho, Setouchi City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.124816,34.6960703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川長船空間監視ライブカメラ / Yoshii River Osafune Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市長船町長船 「岡山河川事務所」/ Osafune, Osafune-cho, Setouchi City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1034284,34.7240809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川福岡1空間監視ライブカメラ / Yoshii River Fukuoka 1 Space Surveillance Live Camera </name>
+        <description><![CDATA[〒701-4265 岡山県瀬戸内市長船町福岡 「岡山河川事務所」/ Fukuoka, Osafune-cho Setouchi City, Okayama Prefecture 701-4265,  "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0936543,34.7020642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川福岡2空間監視ライブカメラ / Yoshii River Fukuoka 2 Space Surveillance Live Camera </name>
+        <description><![CDATA[〒701-4265 岡山県瀬戸内市長船町福岡 「岡山河川事務所」/ Fukuoka, Osafune-cho, Setouchi City, Okayama Prefecture 701-4265, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0936543,34.7020642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川豆田空間監視ライブカメラ / Yoshii River Mameda Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市邑久町豆田「岡山河川事務所」/  Mameda, Okucho, Setouchi City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0821873,34.6879157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川本村ライブカメラ / Yoshii River Honmura Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市邑久町福山 「岡山河川事務所」/ Fukuyama, Okucho, Setouchi City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0568182,34.6614412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千町川瀬戸内市消防本部南側県道ライブカメラ / Sencho River Setouchi City Fire Department South Side Prefectural Road Live Camera</name>
+        <description><![CDATA[〒701-4214 岡山県瀬戸内市邑久町本庄１７９５ 瀬戸内市消防本部 「瀬戸内市役所」/ Setouchi City Fire Department, 1795 Honjo, Oku-cho, Setouchi-shi, Okayama 701-4214, "Setouchi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.125001,34.660883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>干田川福田地域コミュニティセンター桜橋付近ライブカメラ / Hoshida River Fukuda Local Community Center Sakurabashi Live Camera</name>
+        <description><![CDATA[岡山県瀬戸内市邑久町福中549 「瀬戸内市役所」/ 549 Fukunaka, Okucho, Setouchi City, Okayama Prefecture, "Setouchi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0769971,34.6711701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>干田川国府小学校前福里橋付近ライブカメラ / Fukusato Bridge Live Camera in front of Kokufu Elementary School</name>
+        <description><![CDATA[〒701-4275 岡山県瀬戸内市長船町福里８５３「瀬戸内市役所」/ 853 Fukusato, Osafune-cho, Setouchi City, Okayama Prefecture 701-4275 "Setouchi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1209062,34.697166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛窓地区沿岸ライブカメラ / Ushimado area coastal live camera</name>
+        <description><![CDATA[〒701-4302 岡山県瀬戸内市牛窓町牛窓３００９ 「岡山県危機管理課」/ 3009 Ushimado, Ushimado-cho, Setouchi-shi, Okayama 701-4302 "Crisis Management Division, Okayama Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1648927,34.6145183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千町川邑久町漁港市場東ライブカメラ / Sencho River Oku Town Fishing Port Market East Live Camera</name>
+        <description><![CDATA[〒701-4501 岡山県瀬戸内市邑久町虫明４２５６ 「瀬戸内市役所」/ 4256 Mushiage, Oku-cho, Setouchi-shi, Okayama 701-4501 "Setouchi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2120853,34.6835666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川下市橋ライブカメラ / Sunagawa Shimoichibashi Live Camera</name>
+        <description><![CDATA[岡山県赤磐市下市 「国土交通省河川情報センター」/ Shimoichi, Akaiwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0181924,34.7528446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川26.8KP左岸ライブカメラ / Yoshii River 26.8KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県赤磐市奥吉原「国土交通省河川情報センター」/ Okuyoshihara, Akaiwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1248529,34.7920683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川23.6KP右岸ライブカメラ / Yoshii River 23.6KP Right Bank Live Camera</name>
+        <description><![CDATA[岡山県赤磐市釣井「国土交通省河川情報センター」/ Tsurui, Akaiwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1012256,34.7784682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川21.8KP左岸ライブカメラ / Yoshii River 21.8KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県赤磐市勢力 「国土交通省河川情報センター」/ Seiriki, Akaiwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0935892,34.7658588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川吉原ライブカメラ / Yoshii River Yoshiwara Live Camera</name>
+        <description><![CDATA[岡山県赤磐市吉原 「岡山河川事務所」/ Yoshihara, Akaiwa City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1104549,34.7931746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川勢力空間監視ライブカメラ / Yoshii River Seiriki Space Surveillance Live Camera</name>
+        <description><![CDATA[〒709-0715 岡山県赤磐市勢力「岡山河川事務所」/ Akaiwa City, Okayama Prefecture 709-0715 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1102895,34.7681663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小野田川徳富ライブカメラ / Onoda River Tokudomi Live Camera</name>
+        <description><![CDATA[〒709-0716 岡山県赤磐市徳富 「岡山河川事務所」/ Tokudomi, Akaiwa City, Okayama Prefecture 709-0716 "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0936543,34.7779499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川千躰空間監視ライブカメラ / Yoshii River Senda Space Surveillance Live Camera</name>
+        <description><![CDATA[岡山県赤磐市千躰 「岡山河川事務所」/ Senda, Akaiwa City, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1079294,34.7827523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里見川新御影橋ライブカメラ / Satomi River Shin Mikagebashi Live Camera</name>
+        <description><![CDATA[岡山県浅口市金光町占見新田 「国土交通省河川情報センター」/ Urami Shinden,  Konko-cho, Asakuchi City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6269937,34.5415369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄島地区沿岸ライブカメラ / Yorishima area coastal live camera</name>
+        <description><![CDATA[岡山県浅口市寄島町中安倉3980「岡山県危機管理課」/ 3980 Chuagura, Yorishima-cho, Asakuchi-shi, Okayama "Okayama Prefecture Crisis Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5982789,34.4931321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川佐伯大橋ライブカメラ / Yoshiigawa Saeki Ohashi Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町佐伯 佐伯大橋「国土交通省<br>河川情報センター」/ Saeki Ohashi, Saeki, Wake Town, Wake District, Okayama Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0966815,34.8460162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局金剛川大田原ライブカメラ / Chugoku Regional Development Bureau Kongo River Otawara Live Camera</name>
+        <description><![CDATA[岡山県和気町大田原 「国土交通省中国地方整備局」/ Otawara, Wake Town, Okayama Prefecture "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1574512,34.8047264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局吉井川新田原井堰下流ライブカメラ / China Regional Development Bureau Yoshii River Shintawarai Dam Downstream Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町益原「国土交通省中国地方整備局」/ Masubara, Wake-cho, Wake-gun, Okayama Prefecture "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.131895,34.8304896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川28.3KP左岸ライブカメラ / Yoshii River 28.3KP Left Bank Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町和気「国土交通省河川情報センター」/ Wake, Wake-cho, Wake-gun, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1423788,34.7951739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛川藤野ライブカメラ / Kongo River Fujino Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町藤野 「岡山河川事務所」/ Fujino, Wake-cho, Wake-gun, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1762864,34.8079953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛川和気ライブカメラ / Kongo River Wake Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町「岡山河川事務所」/ Wake Town, Wake District, Okayama Prefecture<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1514293,34.800003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛川合流点ライブカメラ / Kongo River Confluence Live Camera</name>
+        <description><![CDATA[岡山県和気郡和気町和気「岡山河川事務所」/ Wake, Wake-cho, Wake-gun, Okayama Prefecture "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.142293,34.7948391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川原ライブカメラ / Yoshii River Hara Live Camera</name>
+        <description><![CDATA[〒709-0461 岡山県和気郡和気町原「岡山河川事務所」/  Wake Town, Wake District, Okayama Prefecture 709-0461, "Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.131669,34.7963673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川本ライブカメラ / Yoshii River Hon live camera</name>
+        <description><![CDATA[岡山県和気郡和気町本「岡山河川事務所」/ Wake Town, Wake District, Okayama Prefecture<br>"Okayama River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1200296,34.7949909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川中央橋ライブカメラ / Oda River Chuo Bridge Live Camera</name>
+        <description><![CDATA[岡山県小田郡矢掛町浅海 「国土交通省河川情報センター」/ Asumi, Yakage Town, Oda District, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.561223,34.6089722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡山自動車道賀陽インターチェンジ～有漢インターチェンジライブカメラ / Okayama Expressway Kayo Interchange-Ukan Interchange Live Camera </name>
+        <description><![CDATA[〒716-1131 岡山県加賀郡吉備中央町上竹 「NEXCO西日本」/ Kamitake, Kibichuo-cho, Kaga-gun, Okayama 716-1131 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6711099,34.8410063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂川兼田橋ライブカメラ / Kamo River Kaneda Bridge Live Camera</name>
+        <description><![CDATA[岡山県津山市川崎 「国土交通省河川情報センター」/ Kawasaki, Tsuyama City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0380058,35.0597706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川吹屋町ライブカメラ / Yoshii River Fukiya Town Live Camera</name>
+        <description><![CDATA[〒708-0886 岡山県津山市昭和町 「岡山県河川カメラ」/ Showa Town, Tsuyama City, Okayama Prefecture 708-0886, "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9943179,35.0554145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川井倉連絡橋ライブカメラ / Takahashi River Ikura Connecting Bridge Live Camera</name>
+        <description><![CDATA[岡山県新見市井倉 「国土交通省河川情報センター」/ Ikura, Niimi City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5241294,34.9281441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川小坂部川合流部ライブカメラ / Takahashi River Kosakabe River Confluence Live Camera</name>
+        <description><![CDATA[岡山県新見市唐松「国土交通省河川情報センター」/ Karamatsu, Niimi City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4971989,34.9522074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川河本ダムライブカメラ / Nishikawa Komoto Dam Live Camera</name>
+        <description><![CDATA[岡山県新見市金谷 「国土交通省河川情報センター」/ Kanaya, Niimi City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4586917,34.9598025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国自動車道大佐サービスエリア下りライブカメラ / Chugoku Expressway Colonel Service Area Down Live Camera</name>
+        <description><![CDATA[〒719-3506 岡山県新見市大佐田治部３９１４ 大佐サービスエリア(大佐SA) 「NEXCO西日本」/ 3914 Osatajibe, Niimi City, Okayama Prefecture 719-3506 Osa Service Area (Osa SA) "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5415822,35.0365723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神代川神郷下神代ライブカメラ / Kojiro River Shingoshimokojiro Live Camera</name>
+        <description><![CDATA[〒719-3611 岡山県新見市神郷下神代３９３６ 「新見市役所」/ 3936 Shingoshimokojiro, Niimi City, Okayama Prefecture 719-3611 "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3970484,34.9924486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川西方江道橋ライブカメラ / Takahashi River Nishikata Edo Bridge Live Camera</name>
+        <description><![CDATA[岡山県新見市西方「新見市役所」/ Nishikata, Niimi City, Okayama Prefecture, "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4644664,34.9856148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川下長屋ライブカメラ / Takahashi River Shimonagaya Live Camera</name>
+        <description><![CDATA[岡山県新見市長屋「新見市役所」/ Nagaya, Niimi City, Okayama Prefecture "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4912794,34.938947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁川高尾昭和橋ライブカメラ / Takahashi River Takao Showa Bridge Live Camera</name>
+        <description><![CDATA[〒718-0003 岡山県新見市高尾２４８１−８ 新見ビジネスシティーホテル「新見市役所」/ Niimi Business City Hotel, 2481-8 Takao, Niimi City, Okayama Prefecture 718-0003,  "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4605299,34.9887426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道182号九の坂トンネルライブカメラ / National highway No. 182 Kunosaka tunnel live camera</name>
+        <description><![CDATA[岡山県新見市上市 「新見市役所」/ Kamiichi, Niimi City, Okayama Prefecture, "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4186704,35.0170035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道180号新見千屋温泉いぶきの里ライブカメラ / National Route 180 Niimi Senya Onsen Ibuki no Sato Live Camera</name>
+        <description><![CDATA[〒718-0104 岡山県新見市千屋花見１３３６−５ 新見千屋温泉 いぶきの里 「新見市役所」/  Niimi Senya Onsen Ibuki no Sato, 1336-5 Chiyahanami, Niimi City, Okayama Prefecture 718-0104  "Niimi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4104447,35.1685652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新見市役所屋上ライブカメラ / Niimi City Hall Rooftop Live Camera</name>
+        <description>〒718-8501 岡山県新見市新見３１０−３ 新見市役所 / Niimi City Hall, 310-3 Niimi, Niimi City, Okayama Prefecture 718-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4703496,34.9769919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡山県道8号新見日南線谷田峠ライブカメラ / Okayama Prefectural Road No. 8 Niimi Nichinan Line Tandadawa Pass Live Camera</name>
+        <description><![CDATA[〒719-2801 岡山県新見市神郷釜村 「岡山県土木部道路整備課保全班」/ Shingokamamura, Niimi City, Okayama Prefecture 719-2801 "Maintenance Group, Road Maintenance Division, Civil Engineering Department, Okayama Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3970188,35.0842551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひるぜん農園農産物直売所ライブカメラ / Hiruzen Farm Agricultural Products Direct Sales Office Live Camera</name>
+        <description>〒717-0504 岡山県真庭市蒜山下福田４６２ ひるぜん農園 / 462 Hiruzen Farm, Hiruzenshimofukuda, Maniwa City, Okayama Prefecture 717-0504</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6804608,35.2808879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川湯原ダムライブカメラ / Asahikawa Yubara Dam Live Camera</name>
+        <description><![CDATA[〒717-0402 岡山県真庭市湯原温泉 「国土交通省河川情報センター」/ Yubara Onsen, Maniwa City, Okayama Prefecture 717-0402 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7326784,35.208072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川いずみ橋ライブカメラ / Asahikawa Izumibashi Live Camera</name>
+        <description><![CDATA[岡山県真庭市中島「国土交通省河川情報センター」/ Nakashima, Maniwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7529235,35.0742481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川落合大橋ライブカメラ / Asahikawa Ochiai Ohashi Live Camera</name>
+        <description><![CDATA[岡山県真庭市向津矢「国土交通省河川情報センター」/ Mukatsuya, Maniwa City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7566788,35.0172349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSK蒜山ライブカメラ / RSK Hiruzen Live Camera</name>
+        <description><![CDATA[〒717-0602 岡山県真庭市蒜山上福田１２０５−２８１ 休暇村 蒜山高原 「山陽放送(RSK)」/ Kyukamura Hiruzen Kogen, 1205-281 Hiruzenkamifukuda, Maniwa City, Okayama Prefecture 717-0602,  "Sanyo Broadcasting (RSK)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6302204,35.294892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目木川目木ライブカメラ / Meki River Meki Live Camera</name>
+        <description><![CDATA[岡山県真庭市目木 「真庭市役所」/ Meki, Maniwa City, Okayama Prefecture "Maniwa City Hall"<br>https://livecamera.fujiyamasan.com/maniwa-meki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.780259,35.0766164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道313号湯原地内ライブカメラ / Live camera on National Route 313 Yuhara</name>
+        <description><![CDATA[岡山県真庭市豊栄「真庭市役所」/ Toyosaka, Maniwa City, Okayama Prefecture "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7299225,35.1850048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米子自動車道蒜山高原サービスエリア上りライブカメラ / Yonago Expressway Hiruzen Kogen Service Area Uphill Live Camera</name>
+        <description><![CDATA[〒717-0604 岡山県真庭市蒜山西茅部２０１５−１ 蒜山高原SA (上り) 「NEXCO西日本」/ Hiruzen-Kogen SA, 2015-1 Hiruzen-Kayabe, Maniwa-shi, Okayama 717-0604 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6281249,35.2730098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>備中川垂水ライブカメラ / Bitchu River Tarumi Live Camera</name>
+        <description><![CDATA[〒719-3155 岡山県真庭市下方 「岡山県河川カメラ」/ Shimogata, Maniwa City, Okayama Prefecture 719-3155, "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7310142,35.0087419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河内川下河内地内ライブカメラ / Kouchi River Shimogouchi Live Camera</name>
+        <description><![CDATA[〒719-3122 岡山県真庭市下河内「真庭市役所」/  Shimogouchi, Maniwa City, Okayama Prefecture 719-3122, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7860615,35.0308679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅醍醐の里ライブカメラ / Roadside Station Daigo no Sato Live Camera</name>
+        <description><![CDATA[〒719-3152 岡山県真庭市鹿田３９１−１ 道の駅 醍醐の里 「真庭市役所」/ Road Station Daigo no Sato, 391-1 Katta, Maniwa City, Okayama Prefecture 719-3152, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.725222,34.991363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真庭市役所落合支局ライブカメラ / Maniwa City Hall Ochiai Branch Live Camera </name>
+        <description><![CDATA[〒719-3144 岡山県真庭市落合垂水１９０１−５ 真庭市役所落合支局「真庭市役所」/ 1901-5 Ochiaitarumi, Maniwa City, Okayama Prefecture 719-3144 Maniwa City Hall Ochiai Branch "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7523748,35.0182276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒尾三坂川ゲート久世地内ライブカメラ / Kuroo Misaka River Gate Kuse Live Camera</name>
+        <description><![CDATA[〒719-3201 岡山県真庭市久世「真庭市役所」/ Kuse, Maniwa City, Okayama Prefecture 719-3201, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7381978,35.0881374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川勝山地内ライブカメラ / Asahikawa Katsuyama live camera</name>
+        <description><![CDATA[岡山県真庭市勝山「真庭市役所」/  Katsuyama, Maniwa City, Okayama Prefecture  717-0013, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7118528,35.0888276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月田川月田地内ライブカメラ / Tsukida River Tsukida Local Live Camera</name>
+        <description><![CDATA[〒717-0024 岡山県真庭市月田「真庭市役所」/ Tsukida, Maniwa City, Okayama Prefecture 717-0024, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6581085,35.042036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神庭の滝ライブカメラ / Kanba Falls Live Camera</name>
+        <description><![CDATA[〒717-0004 岡山県真庭市神庭「真庭市役所」/ Kanba, Maniwa City, Okayama Prefecture 717-0004,   "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6790385,35.1181342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝山町並み保存地区ライブカメラ / Katsuyama Townscape Preservation Area Live Camera</name>
+        <description><![CDATA[〒717-0013 岡山県真庭市勝山 勝山・町並み保存地区「真庭市役所」/ Katsuyama Townscape Preservation District, Katsuyama, Maniwa City, Okayama Prefecture 717-0013, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6910049,35.0817736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道181号美甘ライブカメラ / National highway No. 181 Mikamo live camera</name>
+        <description>〒717-0105 岡山県真庭市美甘４１３４ 真庭市役所 美甘振興局 地域振興課 / Maniwa City Hall, Mikamo Promotion Bureau, Regional Promotion Division, 4134 Mikamo, Maniwa City, Okayama Prefecture 717-0105 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.62391,35.157156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川都喜足地内ライブカメラ / Asahikawa Tsugitaru Live Camera</name>
+        <description><![CDATA[〒717-0415 岡山県真庭市都喜足「真庭市役所」/ Tsugitaru, Maniwa City, Okayama Prefecture 717-0415, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7262246,35.1493157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗谷川種地内ライブカメラ / Kuriya River Tane live camera</name>
+        <description><![CDATA[〒717-0424 岡山県真庭市種「真庭市役所」/ Tane, Maniwa City, Okayama Prefecture 717-0424,   "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6711099,35.2075797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯原温泉ライブカメラ / Yubara Onsen Live Camera</name>
+        <description>〒717-0402 岡山県真庭市湯原温泉６８　プチホテルゆばらリゾート / Petit Hotel Yubara Resort, 68 Yubara Onsen, Maniwa City, Okayama-ken 717-0402</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7311775,35.2015225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯原温泉街ライブカメラ / Yubara Onsen Town Live Camera</name>
+        <description><![CDATA[岡山県真庭市湯原温泉「真庭市役所」/ Yubara Onsen, Maniwa City, Okayama Prefecture "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.731594,35.201411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯原温泉ライブカメラ / Yubara Onsen Live Camera</name>
+        <description><![CDATA[岡山県真庭市豊栄１５７０−２ 油屋別館 蒜山・大山Walker / Aburaya Bekkan, 1570-2 Toyosaka, Maniwa City, Okayama, "Hiruzen Daisen Walker"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.730714,35.204181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川蒜山上長田地内ライブカメラ / Asahikawa Hiruzenkaminagata live camera</name>
+        <description><![CDATA[〒717-0505 岡山県真庭市蒜山上長田「真庭市役所」/ Hiruzenkaminagata, Maniwa City, Okayama Prefecture 717-0505 , "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7046653,35.3039347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号八束ライブカメラ / National Route 482 Yatsuka Live Camera</name>
+        <description><![CDATA[〒717-0505 岡山県真庭市蒜山上長田「真庭市役所」/  Hiruzenkaminagata, Maniwa City, Okayama Prefecture 717-0505, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7046653,35.3039347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上蒜山と牧場 / Hiruzen and ranch</name>
+        <description><![CDATA[〒717-0501 岡山県真庭市蒜山中福田９５６−２２２　蒜山酪農農協ひるぜんジャージーランド　「真庭市役所」/ Hiruzen Dairy Cooperative Hiruzen Jersey Land, 956-222 Hiruzennakafukuda, Maniwa City, Okayama Prefecture  717-0501,  "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.653045,35.302326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中蒜山ライブカメラ / Nakahiruzen Live Camera</name>
+        <description><![CDATA[〒717-0504 岡山県真庭市蒜山下福田３０５真庭市 蒜山振興局 「真庭市役所」/ Maniwa City Hiruzen Promotion Bureau, 305 Hiruzenshimofukuda, Maniwa City, Okayama Prefecture 717-0504  "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.687847,35.282737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒜山三座ライブカメラ / Hiruzen Sanza Live Camera</name>
+        <description><![CDATA[〒717-0604 岡山県真庭市蒜山西茅部１５０１茅部神社「真庭市役所」/ Kayabe Shrine, 1501 Hiruzennishikayabe, Maniwa City, Okayama Prefecture 717-0604 "Maniwa City Hall"<br>https://livecamera.fujiyamasan.com/hiruzensanza.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6227319,35.259811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひるぜんベアバレースキー場米子自動車道ライブカメラ / Hiruzen Bear Valley Ski Resort Yonago Expressway Live Camera</name>
+        <description><![CDATA[〒717-0611 岡山県真庭市蒜山本茅部６４４−１０５　ひるぜんベアバレースキー場「真庭市役所」/ Hiruzen Bear Valley Ski Resort , 644-105 Hiruzenhonkayabe, Maniwa City, Okayama Prefecture 717-0611, "Maniwa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5963226,35.2612212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[美甘宿場桜ライブカメラ / Mikamo's Cherry Blossom Live Camera]]></name>
+        <description><![CDATA[〒717-0105 岡山県真庭市美甘　美甘宿場桜「真庭市役所」/ Mikamo's Cherry Blossom,     Mikamo, Maniwa City, Okayama Prefecture 717-0105, "Maniwa City Hall"<br>https://livecamera.fujiyamasan.com/maniwa-mikamo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6228493,35.1557621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>醍醐桜ライブカメラ / Daigo-Sakura Live Camera</name>
+        <description><![CDATA[〒719-3145 岡山県真庭市西河内５６８−２ 「真庭市役所」/ 568-2 Nishigouchi, Maniwa City, Okayama Prefecture 719-3145 "Maniwa City Hall"<br>https://livecamera.fujiyamasan.com/maniwa-daigozakura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7346525,35.0244587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米子自動車道蒜山インターチェンジライブカメラ / Yonago Expressway Hiruzen Interchange Live Camera</name>
+        <description><![CDATA[〒717-0604 岡山県真庭市蒜山西茅部 蒜山インターチェンジ  「NEXCO西日本」/  Hiruzen Interchange, Hiruzen Nishikayabe Maniwa City, Okayama Prefecture 717-0604, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.618052,35.2722607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝川三星大橋ライブカメラ / Takigawa Mitsuboshi Ohashi Live Camera</name>
+        <description><![CDATA[岡山県美作市明見 「国土交通省河川情報センター」/ Myoken, Mimasaka City, Okayama Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1484172,35.0133466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川王子橋ライブカメラ / Yoshinogawa Ojibashi Live Camera</name>
+        <description><![CDATA[岡山県美作市福本「国土交通省河川情報センター」/ Fukumoto, Mimasaka City, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1217278,34.9358476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IoT百葉箱美作市立美作第一小学校ライブカメラ / IoT Hyakuyobako Mimasaka City Mimasaka Daiichi Elementary School Live Camera</name>
+        <description><![CDATA[〒707-0062 岡山県美作市湯郷５８ 美作市立美作第一小学校 「内田洋行(IoT百葉箱)」/ Mimasaka City Mimasaka Daiichi Elementary School, 58 Yunogo, Mimasaka City, Okayama Prefecture 707-0062  "Hiroyuki Uchida (IoT Stevenson Screen)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.13801,34.998242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原川大原ライブカメラ / Ohara River Ohara Live Camera</name>
+        <description><![CDATA[〒707-0033 岡山県美作市大原「美作市役所」/  Ohara, Mimasaka City, Okayama Prefecture 707-0033, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1957505,34.9787172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海田川海田橋ライブカメラ / Kaita River Kaita Bridge Live Camera</name>
+        <description><![CDATA[岡山県美作市海田「美作市役所」/ Kaita, Mimasaka City, Okayama Prefecture "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1521222,34.9692795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾谷川尾谷ライブカメラ / Otanigawa Otani Live Camera</name>
+        <description><![CDATA[〒701-2601 岡山県美作市尾谷「美作市役所」/ Otani, Mimasaka City, Okayama 701-2601 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1554129,34.9504037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河会川滝宮ダムライブカメラ / Kawai River Takimiya Dam Live Camera</name>
+        <description><![CDATA[〒701-2612 岡山県美作市滝宮７−１ 瀧の宮ダム 「美作市役所」/ Takimiya Dam, 7-1Takimiya, Mimasaka City, Okayama 701-2612 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2066324,34.9302139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河会川中川渡瀬ライブカメラ / Kawakai River Nakagawa Watase Live Camera</name>
+        <description><![CDATA[〒701-2615 岡山県美作市中川「美作市役所」/ Nakagawa, Mimasaka City, Okayama 701-2615 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1554129,34.9147879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白水川白水ライブカメラ / Shiramizu River Shiramizu Live Camera</name>
+        <description><![CDATA[〒709-4251 岡山県美作市白水 「美作市役所」/ Shiramizu, Mimasaka City, Okayama Prefecture 709-4251, "Mimasaka City Hall" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2621146,34.9661615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>後山川東吉田ライブカメラ / Ushiroyama River Higashiyoshida Live Camera</name>
+        <description><![CDATA[〒707-0406 岡山県美作市東吉田「美作市役所」/  Higashiyoshida, Mimasaka City, Okayama Prefecture 707-0406, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3473041,35.1401517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川古町下ライブカメラ / Yoshinogawa Furumachi Shita Live Camera</name>
+        <description><![CDATA[〒707-0412 岡山県美作市古町「美作市役所」/ Furumachi, Mimasaka City, Okayama Prefecture 707-0412, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3189246,35.1265963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川上川川上ダムライブカメラ / Kawakami River Kawakami Dam Live Camera</name>
+        <description><![CDATA[〒707-0421 岡山県美作市川上 川上ダム（美作市）「美作市役所」/ Kawakami Dam (Mimasaka City),  Kawakami, Mimasaka City, Okayama Prefecture 707-0421, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3034392,35.1201836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川上川大野体育館ライブカメラ / Kawakami River Ohno Gymnasium Live Camera</name>
+        <description><![CDATA[〒707-0421 岡山県美作市川上「美作市役所」/ Kawakami, Mimasaka City, Okayama Prefecture 707-0421, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2999955,35.1175487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川豆田ライブカメラ / Yoshinogawa Mameda Live Camera</name>
+        <description><![CDATA[〒709-4214 岡山県美作市豆田「美作市役所」/ Mameda, Mimasaka City, Okayama Prefecture 709-4214 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2739556,35.0518203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川稔橋ライブカメラ / Yoshinogawa Minoru Bridge Live Camera</name>
+        <description><![CDATA[〒709-4234 岡山県美作市江見「美作市役所」/  Emi, Mimasaka City, Okayama Prefecture 709-4234, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.227759,35.0163303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>粟井川粟井小学校ライブカメラ / Awai River Awai Elementary School Live Camera</name>
+        <description><![CDATA[〒709-4203 岡山県美作市小野５３０ 美作市立粟井小学校「美作市役所」/ Mimasaka City Awai Elementary School, 530 Ono, Mimasaka City, Okayama Prefecture 709-4203 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2456497,35.0756284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梶並川梶並浄化場ライブカメラ / Kajinami River Kajinami Purification Plant Live Camera</name>
+        <description><![CDATA[〒707-0204 岡山県美作市右手「美作市役所」/ Ute, Mimasaka City, Okayama Prefecture 707-0204, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2431628,35.1791198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梶並川勝田浄化場ライブカメラ / Kajinami River Katsuta Purification Plant Live Camera</name>
+        <description><![CDATA[〒707-0134 岡山県美作市矢田 勝田浄化センター 「美作市役所」/ Katsuta Purification Center, Yada, Mimasaka City, Okayama Prefecture 707-0134,  "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1900515,35.0558342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山家川角南浄化場ライブカメラ / Yamaie River Sunami Purification Plant Live Camera</name>
+        <description><![CDATA[〒709-4251 岡山県美作市白水８３１「美作市役所」/ 831 Shiramizu, Mimasaka City, Okayama Prefecture 709-4251 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2574541,34.9757856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山家川万善郵便局ライブカメラ / Yamaie River Manzen Post Office Live Camera</name>
+        <description><![CDATA[〒709-4254 岡山県美作市万善１３−４ 万善郵便局「美作市役所」/ Manzen Post Office, 13-4 Manzen, Mimasaka City, Okayama Prefecture 709-4254 "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2092331,34.9603053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川平福山口橋ライブカメラ / Yoshino River Hirafuku Yamaguchi Bridge Live Camera</name>
+        <description><![CDATA[〒707-0023 岡山県美作市平福「美作市役所」/ Hirafuku, Mimasaka City, Okayama Prefecture  707-0023, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1933786,35.0131542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川林野泰平橋ライブカメラ / Yoshino River Hayashino Taiheibashi Live Camera</name>
+        <description><![CDATA[〒707-0041 岡山県美作市林野「美作市役所」/ Hayashino, Mimasaka City, Okayama Prefecture 707-0041, "Mimasaka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.149478,35.003173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取自動車道大原インターチェンジライブカメラ / Tottori Expressway Ohara Interchange Live Camera</name>
+        <description><![CDATA[〒707-0416 岡山県美作市今岡 大原IC「鳥取河川国道事務所」/  Ohara IC, Imaoka, Mimasaka City, Okayama Prefecture 707-0416, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3319902,35.1031641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新庄村がいせん桜 / Gaisen Cherry Tree in Shinjo Village</name>
+        <description><![CDATA[〒717-0201 岡山県真庭郡新庄村 出雲街道新庄宿脇本陣木代邸前 / Izumo Kaido Shinjoyado Waki Honjin Kiyo-tei, Shinjo-mura, Maniwa-gun, Okayama-ken 717-0201<br>https://livecamera.fujiyamasan.com/maniwa-shinjoyado.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5691189,35.1766038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川中谷ライブカメラ / Yoshii River Nakadani Live Camera</name>
+        <description><![CDATA[〒708-0353 岡山県苫田郡鏡野町中谷 「国土交通省河川情報センター」/ Nakadani, Kagamino-cho, Tomata-gun, Okayama 708-0353 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8577691,35.1278632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鏡野町富高齢者センターライブカメラ / Kagaminocho Tomi Elderly Center Live Camera</name>
+        <description><![CDATA[〒708-0701 岡山県苫田郡鏡野町富西谷 「鏡野町役場」/ Tominishidani, Kagamino-cho, Tomata-gun, Okayama 708-0701<br>"Kagamino Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8195382,35.1807966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鏡野町Webカメラ / Kagamino Town Web Camera</name>
+        <description>〒708-0324 岡山県苫田郡鏡野町竹田６６０ 鏡野町役場 / Kagamino Town Hall, 660 Takeda, Kagamino-cho, Tomata-gun, Okayama-ken 708-0324</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.93291,35.091839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川杉橋ライブカメラ / Yoshii River Sugibashi Live Camera</name>
+        <description><![CDATA[〒708-0426 岡山県苫田郡鏡野町西屋 「吉井川管理所」/ Nishiya, Kagamino-cho, Tomata-gun, Okayama 708-0426 "Yoshii River Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8911965,35.1795543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苫田ダムライブカメラ / Tomata Dam Live Camera</name>
+        <description>〒708-0434 岡山県苫田郡鏡野町土生１５９２ 苫田ダム管理所 / Tomata Dam Management Office, 1592 Habu, Kagamino-cho, Tomata-gun, Okayama-ken 708-0434</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.893042,35.127631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡山県道65号久世中和線のとろ温泉天空の湯前ライブカメラ / Okayama Prefectural Road No. 65 Kusechuka Line Tenkyunoyu Live Camera</name>
+        <description><![CDATA[〒708-0701 岡山県苫田郡鏡野町富西谷２０９１−１０ のとろ温泉天空の湯 「岡山県土木部道路整備課保全班」/ Notoro Onsen Tenku no Yu, Tominishidani 2091-10, Kagamino-cho, Tomata-gun, Okayama Prefecture 708-0701,   "Okayama Prefecture Civil Engineering Department Road Maintenance Division Maintenance Group"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7965793,35.2010774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅奥津温泉Webカメラ / Roadside Station Okutsu Onsen Web Camera</name>
+        <description><![CDATA[〒708-0503 岡山県苫田郡鏡野町奥津４６３　道の駅奥津温泉　「鏡野町役場」/ Roadside Station Okutsu Onsen, 463 Okutsu, Kagamino-cho, Tomata-gun, Okayama-ken 708-0503, "Kagamino Town Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.922913,35.223413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恩原湖ライブカメラ / Onbara Lake Live Camera</name>
+        <description><![CDATA[〒708-0601 岡山県苫田郡鏡野町上齋原 恩原湖「鏡野町役場」/ Lake Onbara, Kamisaibara, Kagamino Town, Tomata District, Okayama Prefecture 708-060, "Kagamino Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9883632,35.3038729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥津渓ライブカメラ/ Okutsukei Live Camera</name>
+        <description><![CDATA[〒708-0504 岡山県苫田郡鏡野町奥津川西１６−２「鏡野町役場」/ 16-2 Okutsukawanishi, Kagamino Town, Tomata District, Okayama Prefecture 708-0504 "Kagamino Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9153206,35.2138942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>のとろ温泉天空の湯ライブカメラ / Notoro Onsen Tenkunoyu Live Camera</name>
+        <description><![CDATA[〒708-0701 岡山県苫田郡鏡野町富西谷２０９１−１０ のとろ温泉天空の湯「鏡野町役場」/  Notoro Onsen Tenku no Yu, 2091-10 Tominishidani, Kagamino-cho, Tomata-gun, Okayama Prefecture 708-0701, "Kagamino Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7970406,35.2010686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道179号石越ライブカメラ / National highway No. 179 Ishikoshi live camera</name>
+        <description><![CDATA[〒708-0601 岡山県苫田郡鏡野町上齋原１１８２ 「鏡野町役場」/ 1182 Kamisaibara, Tomata District, Okayama Prefecture 708-0601<br>"Kagamino Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9424478,35.2889817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オガワエコノス岡山工場木チップ製造施設ライブカメラ / Ogawa Econos Okayama Factory Wood Chip Manufacturing Facility Live Camera</name>
+        <description>〒709-4321 岡山県勝田郡勝央町太平台８９−８（株）オガワエコノス 岡山工場 / Ogawa Econos Okayama Factory, 89-8 Taiheidai, Shoo-cho, Katsuta-gun, Okayama Prefecture 709-4321</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1040314,35.0583229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町道千本平線中国道高架下ライブカメラ / Town road Senbondaira line Chugoku Expressway underpass live camera</name>
+        <description><![CDATA[〒709-4316 岡山県勝田郡勝央町勝間田 「勝央町役場」/ Katsumada, Shoo-cho, Katsuta-gun, Okayama 709-4316 "Shoo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1070193,35.0439262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝川東吉田上橋ライブカメラ / Takikawa Higashiyoshida Kamihashi Live Camera</name>
+        <description><![CDATA[〒709-4314 岡山県勝田郡勝央町東吉田「勝央町役場」/ Higashiyoshida, Shoo Town, Katsuta District, Okayama Prefecture 709-4314 "Shoo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.117417,35.0255765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝川石生前田橋ライブカメラ / Takigawa Ishu Maedabashi Live Camera</name>
+        <description><![CDATA[岡山県勝央町石生「勝央町役場」/ Ishu, Shoo Town, Okayama Prefecture "Shoo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1545112,35.0818007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈義中学校ライブカメラ / Nagi Junior High School Live Camera</name>
+        <description><![CDATA[〒708-1311 岡山県勝田郡奈義町久常１９３ 奈義町立奈義中学校 「奈義町役場」/ 193 Hisatsune, Nagi-cho, Katsuta-gun, Okayama 708-1311 Nagi Town Nagi Junior High School "Nagi Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1789735,35.1207047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈義町総合運動公園ライブカメラ / Nagi Sports Park Live Camera</name>
+        <description><![CDATA[〒708-1312 岡山県勝田郡奈義町柿１０７４奈義町総合運動公園「奈義町役場」/ 1074 Kaki, Nagi Town, Katsuta District, Okayama Prefecture 708-1312 Nagi Town General Sports Park "Nagi Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1904843,35.1186898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈義小学校正門前ライブカメラ / Live camera in front of the main gate of Nagi Elementary School</name>
+        <description><![CDATA[〒708-1324 岡山県勝田郡奈義町広岡１２６１奈義町立奈義小学校 「奈義町役場」/ Nagi-cho Nagi Elementary School, 1261 Hirooka, Nagi-cho, Katsuta-gun, Okayama 708-1324  "Nagi-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.176736,35.118858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈義町役場屋上ライブカメラ / Nagi Town Office Rooftop Live Camera</name>
+        <description>〒708-1392 岡山県勝田郡奈義町豊沢３０６−１ 奈義町役場 / Nagi Town Office, 306-1 Toyosawa, Nagi-cho, Katsuta-gun, Okayama 708-1392 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1774255,35.1230239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号奈義ループ橋南ライブカメラ / National Route 53 Nagi Loop Bridge South Live Camera</name>
+        <description><![CDATA[〒708-1302 岡山県勝田郡奈義町小坂「岡山国道事務所」/ Kosaka, Nagi-cho, Katsuta-gun, Okayama 708.1302, "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2144311,35.1560358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号天神橋南ライブカメラ / National highway No. 53 Tenjinbashi south live camera</name>
+        <description><![CDATA[〒708-1301 岡山県勝田郡奈義町馬桑 「岡山国道事務所」/  Maguwa, Nagi-cho, Katsuta-gun, Okayama Prefecture 708-1301,  "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2052367,35.1698776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号馬桑登坂下りライブカメラ / National highway No. 53 Maguwa uphill downhill live camera</name>
+        <description><![CDATA[〒708-1301 岡山県勝田郡奈義町馬桑 「岡山国道事務所」/  Maguwa, Nagi-cho, Katsuta-gun, Okayama Prefecture 708-1301, "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2052367,35.1698776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号黒尾トンネル南ライブカメラ / National highway No. 53 Kuroo tunnel south live camera</name>
+        <description><![CDATA[岡山県勝田郡奈義町馬桑「岡山国道事務所」/ Maguwa, Nagi-cho, Katsuta-gun, Okayama Prefecture "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2098352,35.1840783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号奈義ループ橋ライブカメラ / National Route 53 Nagi Loop Bridge Live Camera</name>
+        <description><![CDATA[〒708-1301 岡山県勝田郡奈義町馬桑 国道 53 号線　馬桑ループ橋「岡山国道事務所」/  National Route 53 Maguwa Loop Bridge,  Maguwa, Nagi Town, Katsuta District, Okayama Prefecture 708-1301, "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2137077,35.1581509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号奈義トンネル北ライブカメラ / National Route 53 Nagi Tunnel North Live Camera</name>
+        <description><![CDATA[〒708-1302 岡山県勝田郡奈義町小坂「岡山国道事務所」/ Kosaka, Nagi-cho, Katsuta-gun, Okayama 708.1302, "Okayama National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2147469,35.1420987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道373号道の駅あわくらんどライブカメラ / National Route 373 Road Station Awakurand Live Camera</name>
+        <description><![CDATA[〒707-0503 岡山県英田郡西粟倉村影石４１８ 道の駅 あわくらんど 「岡山県土木部道路整備課保全班」/ Roadside Station Awakurand,  418 Kageishi, Nishiawakura-mura, Aida-gun, Okayama 707-0503, "Okayama Prefecture Civil Engineering Department Road Maintenance Division Maintenance Group"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3354535,35.1797626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取自動車道あわくらトンネル起点坑外ライブカメラ / Tottori Expressway Awakura Tunnel starting point outside mine live camera</name>
+        <description><![CDATA[〒707-0503 岡山県英田郡西粟倉村影石 あわくらトンネル 「鳥取河川国道事務所」/ Awakura Tunnel, Kageishi, Nishiawakura Village, Aida District, Okayama Prefecture 707-0503, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3334326,35.1905469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号ライブカメラ</name>
+        <description>国土交通省中国地方整備局岡山国道事務所.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2082655,35.1852258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西粟倉村ライブカメラ / Nishiawakura Village Live Camera</name>
+        <description>〒707-0503 岡山県英田郡西粟倉村影石２ 西粟倉村役場 / Nishiawakura Village Office, 2 Kageishi, Nishiawakura-son, Aida-gun, Okayama-ken 707-0503</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.336228,35.171423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上神目河川監視ライブカメラ / Kamikome River Surveillance Live Camera</name>
+        <description><![CDATA[〒709-3626 岡山県久米郡久米南町上神目「久米南町役場」/ Kamikome, Kumenan Town, Kume District, Okayama Prefecture 709-3626<br>"Kumenan Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.931756,34.9182371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下弓削河川監視ライブカメラ / Shimoyuge River Surveillance Live Camera</name>
+        <description><![CDATA[岡山県久米南町下弓削「久米南町役場」/ Shimoyuge, Kumenan Town, Okayama Prefecture "Kumenan Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9607922,34.9306143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川昭和橋ライブカメラ / Yoshii River Showa Bridge Live Camera</name>
+        <description><![CDATA[岡山県久米郡美咲町柵原 「国土交通省河川情報センター」/ Yanahara, Misaki-cho, Kume-gun, Okayama Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0607479,34.953233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉井川周匝ライブカメラ / Yoshiigawa Susai Live Camera</name>
+        <description><![CDATA[〒708-1526 岡山県久米郡美咲町高下 「岡山県河川カメラ」/  Koge, Misaki-cho, Kume-gun, Okayama Prefecture 708-1526, "Okayama Prefecture River Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1049431,34.9271909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

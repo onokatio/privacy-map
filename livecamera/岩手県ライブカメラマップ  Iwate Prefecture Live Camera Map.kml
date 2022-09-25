@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>岩手県ライブカメラマップ / Iwate Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>Fujiyama Live Japan<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>岩手県内ライブカメラ</name>
+      <Placemark>
+        <name>洋野町防災情報ライブカメラ / Hirono Town Disaster Prevention Live Camera</name>
+        <description>〒028-8802 岩手県九戸郡洋野町大野第８地割４７−２ 洋野町役場 / Hiro Town Hall, 47-2 Dai 8 Jiwari, Ono, Hirono-cho, Kunohe-gun, Iwate-ken 028-8802</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6248331,40.2842629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈市文化会館 / Kuji City Cultural Center</name>
+        <description><![CDATA[〒028-0051 岩手県久慈市川崎町１７−１ 久慈市文化会館 「久慈市防災監視カメラ」/ Kuji City Cultural Center, 17-1 Kawasaki-cho, Kuji-shi, Iwate-ken 028-0051, "Kuji City Disaster Prevention Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.778715,40.1919634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈地区合同庁舎「久慈市防災監視カメラ」</name>
+        <description>〒028-8042 岩手県久慈市八日町１−１ 久慈地区合同庁舎 / Kuji District Government Building</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.763802,40.192135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈港内・外ライブカメラ</name>
+        <description><![CDATA[岩手県久慈市長内町<br>釜石港湾事務所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.796439,40.194479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈市漁業協同組合</name>
+        <description><![CDATA[岩手県久慈市長内町第４２地割 <br>久慈市漁業協同組合<br>防災監視カメラ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.793349,40.192934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久慈市防災監視カメラ</name>
+        <description><![CDATA[岩手県久慈市川崎町１<br>久慈市役所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.775475,40.19048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥中山高原スキー場ライブカメラ / Okunakayamakogen Ski Resort Live Camera</name>
+        <description>〒028-5134 岩手県二戸郡一戸町奥中山字西田子６６２－１ 奥中山高原スキー場 / Okunakayamakogen Ski Resort, Okunakayama, Ichinohe-machi, Ninohe-gun, Iwate-ken 028-5134</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1904626,40.0833678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一戸町内ライブカメラ / Ichinohe Town Live Camera</name>
+        <description>〒028-5311 岩手県二戸郡一戸町高善寺大川鉢２４−９　一戸町役場 / Ichinohe Town Hall, 24-9 Okawabachi, Kozenji, Ichinohe-cho, Ninohe-gun, Iwate-ken 028-5311</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.295478,40.213025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラin八幡平 / Live Camera in Hachimantai</name>
+        <description><![CDATA[〒028-7302 岩手県八幡平市八幡平温泉郷 天然温泉の宿 アンダンテ（安暖庭）/ Natural hot spring inn "Andante", Onsenkyo, Hachimantai, Hachimantai-shi, Iwate-ken 028-7302]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.982227,39.900387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡平リゾートライブカメラ / Hachimantai Resort Live Camera</name>
+        <description>〒028-7302 岩手県八幡平市松尾寄木第１地割５０９−１ 八幡平リゾートパノラマスキー場 / Hachimantai Resort Panorama Ski Resort, 509-1 Dai 1 Jiwari, Matsuoyoriki, Hachimantai-shi, Iwate-ken 028-7302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.977421,39.890081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>盛岡市内・岩手山ライブカメラ / Morioka City and Mt. Iwatesan Live Camera</name>
+        <description>〒020-8550 岩手県盛岡市上田３丁目１８−８　岩手大学 藤本研究室 / Fujimoto Laboratory, Iwate University, 3-18-8 Ueda, Ueda, Morioka-shi, Iwate-ken 020-8550</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.138375,39.71582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>盛岡市八幡通りライブカメラ / Morioka City Hachimandori Street Live Camera</name>
+        <description>〒020-0872岩手県盛岡市八幡町8-26  (有)渡引建具店 / Watarihiki Joinery Store Limited company, 8-26 Hachiman-cho, Morioka-shi, Iwate-ken 020-0872</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.161785,39.69672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川ダムリアルタイム情報 / Kitakami River Dam Realtime Information</name>
+        <description>〒020-0123 岩手県盛岡市下厨川字四十四田1 東北地方整備局北上川ダム統合管理事務所 / KitakamiRiver Integrated DAM Management office, 1 Shijushita, Shimokuriyagawa, Morioka-shi, Iwate-ken 020-0123</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1458747,39.7548276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安比高原ライブカメラ / Appi Kogen Live Camera</name>
+        <description><![CDATA[〒028-7306 岩手県八幡平市安比高原１１７−１ （株）岩手ホテル＆リゾート安比高原スキー場 / IWATE HOTEL & RESORT INC, 117-1 Appi Kogen, Hachimantai-shi, Iwate-ken 028-7306]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9703661,40.002168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩手山ライブカメラ</name>
+        <description><![CDATA[岩手県八幡平市<br>NTT東日本岩手支店]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.000831,39.853258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩手山・盛岡市内ライブカメラ / Mt. Iwatesan and Morioka City Live Camera</name>
+        <description>〒020-0021 岩手県盛岡市中央通１丁目６−１ ＮＴＴ東日本岩手支店第１ビル / NTT East Japan Iwte Branch Building 1, 1-6-1 Chuodori, Morioka-shi, Iwate-ken 020-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.149139,39.704684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫波町 国道４号 from 細川産業ビル2F / Shiwa Twon National Route from Hosokawasangyo Building 2F</name>
+        <description>〒028-3441 岩手県紫波郡紫波町上平沢馬場７−３　（有）ホロニック・システムズ / Holonic Systems Ltd., 7-3 Kamihirasawababa, Shiwa-cho, Shiwa-gun, Iwate-ken 028-3441</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1075775,39.5564795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮古カントリークラブコース映像 / Miyako Country Club Course Video</name>
+        <description>〒027-0097 岩手県宮古市崎山第４地割８６−３ 宮古カントリークラブ / Miyako Country Club, 86-3 Dai 4 Jiwari, Sakiyama, Miyako-shi, Iwate-ken 027-0097 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.9631002,39.6982635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄土ヶ浜ライブカメラ / Jodogahama Beach Live Camera</name>
+        <description><![CDATA[岩手県宮古市 「宮古旅手帳 宮古観光協会」/ Miyako-shi, Iwate-ken, "Miyako Tabitecho, Miyako Tourism Cultural Exchange Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.981597,39.648757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の早池峰山 / Mt. Hayachinesan Live Camera</name>
+        <description>〒028-2512 岩手県宮古市鈴久名第４地割５−４　静峰苑 / Seihouen, 5-4 Dai 4 Jiwari, Suzukuna, Miyako-shi, Iwate-ken 028-2512</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5868098,39.5966524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜石・久慈港ライブカメラ / Kamaishi and Kuji Port Live Camera</name>
+        <description>〒026-0011 岩手県釜石市港町２丁目７−２７ 釜石港湾事務所 / Kamaishi Port Office, 2-7-27 Minato-machi, Kamaishi-shi, Iwate-ken 026-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.8850375,39.2686439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜石市復興ライブカメラ / Kamaishi City Reconstruction Live Camera</name>
+        <description>〒026-0021 岩手県釜石市只越町３丁目９−１３ 釜石市 危機管理監 防災危機管理課 防災係 / Crisis management supervision Disaster prevention crisis management section Disaster prevention staff, 3-9-13 Tadagoe-cho, Kamaishi-shi, Iwate-ken 026-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.885716,39.275813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠野テレビライブカメラ / Tono TV Live Camera</name>
+        <description>〒028-0541 岩手県遠野市松崎町白岩薬研淵１−２ 株式会社遠野テレビ / Tono TV, 1-2 Shiraiwayakenbuchi, Matsuzaki-cho, Tono-shi, Iwate-ken 028-0541</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.53703,39.343028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>めがね橋ライブカメラ / Meganebashi Bridge Live Camera</name>
+        <description><![CDATA[岩手県遠野市宮守町 「遠野テレビ」 / Miyamori-cho, Tono-shi, Iwate-ken, "Tono TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.349626,39.347175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カッパ淵ライブカメラ / Kappa Deep Pool Live Camera</name>
+        <description><![CDATA[〒028-0555 岩手県遠野市土淵町土淵 カッパ淵 「遠野テレビ」/ Kappabuchi, Tsuchibuchi, Tsuchibuchi-cho, Tono-shi, Iwate-ken 028-0555, "Tono TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5706582,39.3541749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅風の丘 / Michinoeki Kazenooka</name>
+        <description><![CDATA[〒028-0531 岩手県遠野市綾織町新里８地割 道の駅遠野風の丘 「遠野テレビ」 / Michinoeki Kazenooka, Nissatohachichiwari, Ayaori-cho, Tono-shi, Iwate-ken 028-0531, "Tono TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5006833,39.3307608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なべくら展望台 / Nabekura Observatory</name>
+        <description><![CDATA[〒028-0524 岩手県遠野市遠野町４地割 鍋倉展望台 「遠野テレビ」 / Nabekura Observatory, Yonchiwari, Tono-cho, Tono-cho, Tono-shi, Iwate-ken 028-0524, "Tono TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5290986,39.3267569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夏油高原スキー場ライブカメラ / Geto Kogen Ski Resort Live Camera</name>
+        <description>〒024-0322 岩手県北上市和賀町岩崎新田国有林内　夏油高原スキー場 / Geto Kogen Ski Resort, Kokuyurinnai, Iwasakinitta, Waga-cho, Kitakami-shi, Iwate-ken 024-0322</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9062865,39.2366298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>展勝地ライブカメラ / Tenshochi Live Camera</name>
+        <description>〒024-0093 岩手県北上市本石町１丁目５−１９ 北上ケーブルテレビ（株）/ Kitakami Cable TV, Inc., 1-5-19 Hongoku-cho, Kitakami-cho, Iwate-ken 024-0093</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.115777,39.290556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大船渡・陸前高田ライブカメラ / Ofunato Bay and Rikuzentakata Live Camera</name>
+        <description>〒022-0002 岩手県大船渡市大船渡町鷹頭９−１（株）東海新報社 / Tokai Shimpo, 9-1 Takato, Ofunato-cho, Ofunato-shi, Iwate-ken 022-0002 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.71079,39.030274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大船渡魚市場ライブカメラ / Ofunato Fish Market Live Camera</name>
+        <description>〒022-0002 岩手県大船渡市大船渡町永沢２０９ 大船渡魚市場 / Ofunato Fish Market, 209 Nagasawa, Ofunato-cho, Ofunato-shi, Iwate-ken 022-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.7227752,39.0524754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川・国道4号・46号・釜石道のリアルタイム情報 / Kitakami River, National Route 4, Route 46 and Kamaishi Road Realtime Information</name>
+        <description>〒020-0066 岩手県盛岡市上田４丁目２−２ 岩手河川国道事務所 / Iwate River and National Highway Ofice, 4-2-2 Ueda, Morioka-shi, Iwate-ken 020-0066</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1373712,39.7197953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大船渡湾ライブカメラ / Ofunato Bay Live Camera</name>
+        <description><![CDATA[岩手県大船渡市大船渡町 「Web東海新報」/ Ofunato-cho, Ofunato-shi, Iwate-ken, "Web Tokai Shimpo"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.716166,39.035253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>陸前高田ライブカメラ / Rikuzentakata Live Camera</name>
+        <description>〒029-2205 岩手県陸前高田市高田町長砂60−1　キャピタルホテル1000　（社）陸前高田みらい会議 / Rikuzentakata Mirai Conference, Capital Hotel 1000, 60-1 Nagasuka, Takata-cho, Rikuzentakata-shi, Iwate-ken 029-2205</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.641416,39.014322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磐井川（一関市萩荘）ライブカメラ / Iwai River (Ichinoseki City Hagiso) Live Camera</name>
+        <description>〒021-0866 岩手県一関市南新町６０　岩手日日新聞社 / Iwate Nichinichi Shimbun, 60 Minamishinmachi, Ichinoseki-shi, Iwate-ken 021-0866</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.135792,38.924594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霊桃寺境内定点カメラライブ映像（You Tube）/ Reitoji temple inside fixed point camera live image, You Tube</name>
+        <description>〒029-4208 岩手県奥州市前沢区山下７２　霊桃寺 / Reitoji Temple, 72 Yamashita, Maezawa-ku, Oshu-shi, Iwate-ken 029-4208</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.120479,39.052621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内河川ライブカメラ / Iwate River  Live Camera</name>
+        <description>〒986-0861 宮城県石巻市蛇田新下沼８０ 北上川下流河川事務所 / Kitakami River Downstream River Office, 80 Hebitashinshimonuma, Ishinomaki-shi, Miyagi-ken 986-0861</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2875012,38.4429455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩手県盛岡市の国道106号線、中ノ橋の様子</name>
+        <description>〒028-3621 岩手県紫波郡矢巾町広宮沢第１０地割５０１−２５　さくらシステムサービス</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.118626,39.634102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内道路ライブカメラ / Roads in Iwate Prefecture Live Camera</name>
+        <description><![CDATA[〒020-0023 岩手県盛岡市内丸１０−１岩手県県土整備部道路環境課 「岩手県道路情報提供サービス」/ Iwate Prefecture Land Improvement Department Road Environment Section, 10-1 Uchimaru, Morioka-shi, Iwate-ken 020-0023, "Iwate Prefecture Road Information Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.152642,39.703567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸の道路ライブカメラ / Sanriku Road Live Camera</name>
+        <description>〒027-0029 岩手県宮古市藤の川４−１ 国土交通省 東北地方整備局 三陸国道事務所 / Sanriku National Road Office, 4-1 Fujinokawa, Miyako-shi, Iwate-ken 027-0029</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.960184,39.615629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝名川志和ライブカメラ / Shiwa Takinagawa Live Camera</name>
+        <description><![CDATA[岩手県紫波町上平沢「一般社団法人河川情報センター」/ Kamihirasawa, Shiwa Town, Iwate Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/shiwa-kamihirasawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1084207,39.5533303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小川川小川ライブカメラ / Ogawa River Ogawa Live Camera</name>
+        <description><![CDATA[〒026-0046 岩手県釜石市桜木町 「一般社団法人河川情報センター」/ Sakuragicho, Kamaishi City, Iwate Prefecture 026-0046 "River Information Center"<br>https://livecamera.fujiyamasan.com/kamaishi-kogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.8377717,39.2667689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

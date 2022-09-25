@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>山梨県ライブカメラマップ / Yamanashi Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>山梨県内ライブカメラ</name>
+      <Placemark>
+        <name>【期間限定】富士芝桜祭りライブカメラ / [Limited time offer] Fuji Shiba Sakura Festival Live Camera</name>
+        <description><![CDATA[〒401-0337 山梨県南都留郡富士河口湖町本栖「富士芝桜まつり事務局」/ Motosu, Fujikawaguchiko Town, Minamitsuru District, Yamanashi Prefecture 401-0337 "Fuji Shiba Sakura Festival Secretariat"<br>https://livecamera.fujiyamasan.com/fuji-shibazakura-festival.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6011307,35.4436558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>冨士ヶ嶺ライブカメラ / Fujigane Live Camera</name>
+        <description><![CDATA[山梨県南都留郡冨士河口湖町冨士ヶ嶺 「冨士河口湖町役場」 /  Fujigane, Fuji Kawaguchiko-cho, Minamitsuru-gun, Yamanashi, "Fujikawaguchiko Town Hall"<br>https://livecamera.fujiyamasan.com/fujigane.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.619266,35.415635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ(富士ドクタービレッジから) / Mount Fuji webcams Fuji-Doctor-Village from Japan.</name>
+        <description><![CDATA[〒401-0338 山梨県南都留郡富士河口湖町富士ヶ嶺１２−６０２ 富士ドクタービレッジ（富士ヶ嶺高原別荘地）管理事務所 / Fuji Doctor Village (Fujigane Kogen Villa) Management Office, 12-602 Fujigane, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0338 <br>https://livecamera.fujiyamasan.com/fujigane-doctor-village.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6300677,35.4284746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>精進湖からの富士山 / Mt. Fuji from Lake Shoji</name>
+        <description>〒401-0336 山梨県南都留郡 富士河口湖町精進 山田屋ホテル「子抱き冨士」 / Lake Shoji Yamadaya Hotel, Shoujin, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi-ken 401-0336</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6027756,35.4914416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description><![CDATA[〒401-0336 山梨県南都留郡冨士河口湖町精進 精進湖ふじみ荘 「Fujigoko.TV」 / Shojiko Fujimiso, Shoji, Fuji Kawaguchiko-cho, Minami Tsuru-gun, Yamanashi 401-0336, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.604589,35.492054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西湖いやしの里根場 / Saiko Iyashi no Sato Nemba</name>
+        <description><![CDATA[〒401-0332 山梨県南都留郡富士河口湖町西湖根場２７１０ 「冨士河口湖町役場」 / 2710 Nemba, Saiko, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi, "Fujikawaguchiko Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6615159,35.5049813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ（西湖・樹海）/ Mt. Fuji live camera (West Lake / Jukai)</name>
+        <description><![CDATA[〒401-0333 山梨県南都留郡富士河口湖町西湖西２−１ ひがしむら　「富士五湖TV」/ Higashimura, 2-1 Saikonishi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0333, "Fuji Five Lakes TV"<br>https://livecamera.fujiyamasan.com/saiko-jukai-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6635763,35.5003882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西湖からの富士山 / Mt. Fuji from Lake Saiko</name>
+        <description>〒401-0332 山梨県南都留郡富士河口湖町西湖２５０２ 西湖レストハウス / Saiko Rest House, 2502 Saiko, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0332</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6645196,35.5013821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ（河口湖勝山カメラ） / Mt. Fuji Live Camera (Lake Kawaguchi Katsuyama Camera）</name>
+        <description>山梨県南都留郡冨士河口湖町勝山３７５８－１　勝山観光協会 / Katsuyama tourism association, 3758-1 Katsuyama, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.738956,35.507287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山と河口湖生中継ライブカメラ / Mt. Fuji and Lake Kawaguchi Live Camera</name>
+        <description>山梨県南都留郡冨士河口湖町船津 冨士河口湖町役場 / Fujikawaguchiko Town Hall, Funatsu, Fuji Kawaguchiko-cho, Minamitsuru-gun, Yamanashi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.755093,35.49726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ（五合目の富士山ライブ映像）</name>
+        <description>富士山五合目観光協会</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7627082,35.495503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河口湖全景ライブカメラ / Lake Kawaguchi Live Camera</name>
+        <description><![CDATA[山梨県南都留郡冨士河口湖町船津 冨士レークホテル 「Fujigoko.TV」 / Fuji Lake Hotel, Funatsu, Fuji Kawaguchiko-cho, Minami Tsuru-gun, Yamanashi, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.766165,35.504073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description>〒401-0302 山梨県南都留郡富士河口湖町小立１２２６ 河口湖レイクサイドホテル / Kawaguchiko Lakeside Hotel, 1226 Kodachi, Fuji Kawaguchiko-cho, Minamitsuru-gun, Yamanashi-ken 401-0302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.761203,35.5084525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河口湖逆さ富士カメラ / Upside down Mt. Fuji camera</name>
+        <description><![CDATA[〒401-0303 山梨県南都留郡富士河口湖町浅川７０ ホテル風のテラスくくな / Hotel Kaze no Terrace Kukuna, 70 Asakawa, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0303<br>https://livecamera.fujiyamasan.com/kawaguchiko-kukuna.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7715077,35.5133476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山と河口湖 / Mt. Fuji and Lake Kawaguchi</name>
+        <description>〒401-0305 山梨県南都留郡富士河口湖町大石２５７８ コテージ 戸沢センター / Cottage TOZAWA CENTER, 2578 Oishi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7538055,35.5226866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ（河口湖大石湖畔カメラ） / Mt. Fuji Live Camera (Lake Kawaguchi Oishi Lakeside Camera）</name>
+        <description><![CDATA[〒401-0305 山梨県南都留郡富士河口湖町大石２９５４−１ カントリーレイクシステムズ / Country Lake Systems, 2954-1 Oishi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0305<br>https://livecamera.fujiyamasan.com/kawaguchi-country-lake-systems.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7502861,35.524333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ(河口湖大石高台カメラ) / Mt. Fuji live camera (Kawaguchiko Oishi hill camera)</name>
+        <description><![CDATA[〒401-0305 山梨県南都留郡富士河口湖町大石２８９７　ぶらっと河口湖　「富士五湖TV」/ Blatt Kawaguchiko, 2897 Oishi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0305, "Fuji Five Lakes TV"<br>https://livecamera.fujiyamasan.com/fujisan-blatt-kawaguchiko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7434059,35.5285513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ！ （河口湖：秀峰閣湖月より）</name>
+        <description>〒401-0304 山梨県南都留郡 富士河口湖町河口２３１２ 秀峰閣 湖月 「USTREAM」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.761712,35.525258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ビュー4Kライブカメラ / Mt. Fuji view 4K live camera</name>
+        <description><![CDATA[〒401-0304 山梨県南都留郡富士河口湖町河口１９３８−８　Fuji Viewest Villa RAKUWA / Fuji Viewest Villa RAKUWA, Kawaguchi 1938-8, Fujikawaguchiko Town, Minamitsuru District, Yamanashi Prefecture 401-0304<br>https://livecamera.fujiyamasan.com/fuji-viewest-villa-rakuwa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7669481,35.5306452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ(河口湖母の白滝) / Mt. Fuji Live Camera (Hahanoshirataki, Lake Kawaguchiko)</name>
+        <description><![CDATA[〒401-0304 山梨県南都留郡富士河口湖町河口　あぅんカフェ 「富士五湖TV」/ Aun Cafe, Kawaguchi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi 401-0304 ,  "Fuji Five Lakes TV"<br>https://livecamera.fujiyamasan.com/kawaguchi-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7798759,35.5343991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>絶景くんの富士山中継 / Mt. Fuji Live Camera</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村平野４７９−２<br> 山中湖交流プラザ「きらら」 「山中湖村観光課公式サイト」 / Lake Yamanaka Exchange Plaza "Kirara", 479-2 Hirano, Yamanakako-mura, Minamitsuru-gun, Yamanashi 401-0502, "Yamanakako Village Tourism Division Official Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9013262,35.4195697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>絶景ちゃんの富士山中継（現在の富士山）</name>
+        <description><![CDATA[〒401-0501 山梨県南都留郡山中湖村山中１３１３ 花の都公園・清流の里　「山中湖村観光課公式サイト」<br>https://livecamera.fujiyamasan.com/yamanaka-kirara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8531721,35.4388291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ(山中湖高台から)  / Mount Fuji webcams (Lake Yamanakako) from Japan.</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村平野３１１６ 山中湖グリーンタウン管理事務所 「FujigokoTV」/ Yamanakako Green Town Management Office, 3116 Hirano, Yamanakako-mura, Minamitsuru-gun, Yamanashi 401-0502  "Fujigoko TV"<br>https://livecamera.fujiyamasan.com/yamanakako-green-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.874074,35.429842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ（山中湖長池）/ Mt. Fuji live camera (Lake Yamanaka Nagaike)</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村平野３２１５　（株）丸格建築 「富士五湖TV」/ Marukaku Architecture Co., Ltd.,  3215 Hirano, Yamanakako Village, Minamitsuru District, Yamanashi Prefecture 401-0502, <br>"Fuji Five Lakes TV"<br>https://livecamera.fujiyamasan.com/markaku-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.87244,35.427078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ワンズリゾート山中湖富士山ライブカメラ / Wan's Resort Lake Yamanaka Mt. Fuji Live Camera]]></name>
+        <description><![CDATA[〒401-0501 山梨県南都留郡山中湖村山中３４３−１　Wan's Resort 山中湖 / Wan's Resort Lake Yamanaka, 343-1 Yamanaka, Yamanakako Village, Minamitsuru District, Yamanashi Prefecture 401-0501<br>https://livecamera.fujiyamasan.com/wansresort-yamanakako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8576641,35.4126081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山中湖畔ライブカメラ / Yamanaka Lakeside Live Camera</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村旭日丘506-296 旭日丘観光 / Asahigaoka Kanko (Tourism), 506-296 Asahigaoka, Yamanakako-mura, Minamitsuru-gun, Yamanashi 401-0502<br>https://livecamera.fujiyamasan.com/yamanaka-asahi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8742044,35.4008747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ （山中湖平野カメラ） / Mt. Fuji Live Camera （Lake Yamanaka Hirano Camera）</name>
+        <description><![CDATA[山梨県南都留郡山中湖村平野　山中湖白銀荘 「Fujigoko.TV」 / Lake Yamanaka Hotel Shirogane, Hirano, Yamanakako-mura, Minamitsuru-gun, Yamanashi, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9027102,35.4217949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村平野５２０−４５　民宿グリーンヒルズニューみなみ(宿、宿泊施設)<br>https://livecamera.fujiyamasan.com/yamanaka-minami.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.909134,35.420398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道138号籠坂峠ライブカメラ / National Highway No. 138 Kagosaka Pass Live Camera</name>
+        <description><![CDATA[〒401-0502 山梨県南都留郡山中湖村平野 籠坂峠 「甲府河川事務所」/ Kagosaka Pass, Hirano, Yamanakako Village, Minamitsuru District, Yamanashi Prefecture 401-0502, "Kofu River Office"<br>https://livecamera.fujiyamasan.com/r138-kagosaka-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8640327,35.3926552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじてんライブカメラ / Fujiten Live Camera</name>
+        <description>〒401-0320 山梨県南都留郡鳴沢村 富士山8545−1 ふじてんリゾート 「冨士観光開発」 / Fujiten Resort, 8545-1 Fujisan, Narusawa-mura, Minamitsuru-gun, Yamanashi-ken 401-0320</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6879354,35.4420564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山五合目のライブ映像 / Live Video from Fuji Fifth Stage</name>
+        <description>〒401-0301 山梨県南都留郡鳴沢村 富士山五合目 / Fuji fifth stage, Narusawa-mura, Minami Tsuru-gun, Yamanashi 401-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.733463,35.394997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京王一次別荘地富士山ライブカメラ / Keio primary villa Mt. Fuji live camera</name>
+        <description><![CDATA[〒401-0320 山梨県南都留郡鳴沢村鳴沢１０４４３ 京王富士スバル高原別荘地第１次管理事務所 / Keio Fuji Subaru Kogen Villa 1st Management Office, 10443 Narusawa, Narusawa-mura, Minamitsuru-gun, Yamanashi 401-0320<br>https://livecamera.fujiyamasan.com/keio-holiday-home.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7411951,35.456541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ （忍野八海カメラ） / Mt. Fuji Live Camera （Oshino Hakkai Camera）</name>
+        <description><![CDATA[〒401-0511 山梨県南都留郡忍野村忍草354 忍野八海池本  「Fujigoko.TV」 / Oshino Hakkai Ikemoto, 354 Shibokusa, Oshino-mura, Minamitsuru-gun, Yamanashi 401-0511, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.83292,35.460355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忍野村役場保健福祉センター富士山ライブカメラ</name>
+        <description><![CDATA[〒401-0511 山梨県南都留郡忍野村忍草１４４５−１ 忍野村 保健福祉センター<br>https://livecamera.fujiyamasan.com/oshino-village-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8474513,35.4584229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description>〒401-0512 山梨県南都留郡忍野村内野２６６１ 忍野スカイスポーツ倶楽部 / Oshino Sky Sport Club, 2661 Uchino, Oshino-mura, Minamitsuru-gun, Yamanashi 401-0512 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.863153,35.46455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>交通情報カメラ （国道139昭和大入口交差点カメラ）/ Traffic Information Camera</name>
+        <description><![CDATA[〒403-0016 山梨県富士吉田市松山１２２９ 貸別荘パインツリー 「Fujigoko.TV」 / 1229 Matsuyama, Fujiyoshida-shi, Yamanashi 403-0016, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7826656,35.4807534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description>山梨県富士吉田市下吉田 YBS山梨放送　/ YBS Yamanashi Broadcasting System, Shimoyoshida, Fujiyoshida-shi, Yamanashi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.803244,35.497924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description>〒403-0007 山梨県富士吉田市中曽根１丁目４−３１ 永寿電気（有） 「Fujigoko.TV」 / Eiju Denki Limited Company, 1-4-31 Nakasone, Fujiyoshida-shi, Yamanashi 403-0007</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7996895,35.4853842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji live camera</name>
+        <description><![CDATA[〒403-0005 山梨県富士吉田市上吉田２丁目１−１１　テクト本社 「株式会社エッチ・エス・ストロング」/ Tect Headquarters, 2-1-11 Kamiyoshida, Fujiyoshida City, Yamanashi 403-0005  "HS Strong Co., Ltd."<br>https://livecamera.fujiyamasan.com/kamiyoshida-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7974112,35.4836362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明見湖（ハス池）ライブカメラ / Lake Asumi （Lotus Pond） Live Camera</name>
+        <description><![CDATA[〒403-0002 山梨県富士吉田市小明見 「Fujigoko.TV」 / Koasumi, Fujiyoshida-shi, Yamanashi 403-0002, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.829111,35.490569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description><![CDATA[山梨県富士吉田市中曽根2丁目 「Fujigoko.TV」 / Nakasone, Fujiyoshida-shi, Yamanashi, "Fujigoko.TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8019266,35.4591186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>冨士北麓からみた富士山 / Mt. Fuji from Fuji Hokuroku</name>
+        <description><![CDATA[〒403-0005 山梨県富士吉田市上吉田５５９７−１ 環境省生物多様性センター　「インターネット自然研究所」 / Biodiversity Center of Japan, 5597-1 Kamiyoshida, Fujiyoshida-shi, Yamanashi 403-0005, "Internet Nature Information System"<br>https://livecamera.fujiyamasan.com/fujiyoshida-kankyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7631121,35.4560298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ / Mt. Fuji Live Camera</name>
+        <description>〒403-0006 山梨県富士吉田市新屋 山梨県富士吉田市新屋１４００ 富士カーム 人材開発センター 富士研修所/ Fuji Calm, Shinya, Fujiyoshida-shi, Yamanashi-ken 403-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7952726,35.4687968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山北麓フラックス富士山ライブカメラ / Mt. Fuji North Foot Flux Mt. Fuji Live Camera</name>
+        <description><![CDATA[〒403-0005 山梨県富士吉田市上吉田　「インターネット自然研究所」/ Kamiyoshida, Fujiyoshida City, Yamanashi Prefecture 403-0005 "Internet Nature Research Institute"<br>https://livecamera.fujiyamasan.com/kamiyoshida-fujiflux-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7894596,35.4073103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[南側・富士山方向 & 北側・荒川ダム方向ライブカメラ / South Mt. Fuji direction & North Arakawa Dam direction]]></name>
+        <description><![CDATA[〒400-1217 山梨県甲府市猪狩町１２６２ 昇仙峡ロープウェイ ロープウェイ山頂パノラマ台駅 / Shosenkyo Ropeway Summit Panorama PlatformStation, 1262 Ikari-cho, Kofu-shi, Yamanashi 400-1217<br>https://livecamera.fujiyamasan.com/shosenkyo-ropeway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5547852,35.7487934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>昇仙峡のシンボル「覚円峰」（昇仙峡グリーンライン県営駐車場）</name>
+        <description><![CDATA[〒400-1214 山梨県甲府市高成町 昇仙峡 / Shosenkyo, Takanari-cho, Kofu-shi, Yamanashi-ken 400-1214<br>https://livecamera.fujiyamasan.com/kakuenhou.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5673637,35.7452718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>甲府盆地と富士山 / Kofu Basin and Mt. Fuji</name>
+        <description><![CDATA[山梨県甲府市猪狩町 昇仙峡ロープウェイ山頂駅 「昇仙峡観光協会」 / Shosenkyo Ropeway Mountaintop Station, Ikari-cho, Kofu-shi, Yamanashi, "Shosenkyo Tourism Association"<br>https://livecamera.fujiyamasan.com/shosenkyo-ropeway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5550645,35.7488112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新荒川橋西側カメラ / Shinarakawa Bridge West Camera</name>
+        <description><![CDATA[山梨県甲府市下飯田2丁目 「NNS LiveCamera」/ 2-chome Shimoiida, Kofu City, Yamanashi Prefecture "NNS Live Camera"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-shinarakawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.551313,35.6639175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルプス通り貢川交番前交差点ライブカメラ / Alps-dori Kugawakoban intersection live camera</name>
+        <description><![CDATA[山梨県甲府市上石田1丁目 「日本ネットワークサービス」/ 1-chome, Kamiishida, Kofu City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-kamiishida.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5504564,35.6587279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相川相川一之橋ライブカメラ / Aikawa Aikawa Ichinohashi Live Camera</name>
+        <description><![CDATA[山梨県甲府市宝１丁目「一般財団法人河川情報センター」/ 1-chome, Takara, Kofu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-aikawa-ichinohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5606071,35.667493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山の手通り愛宕トンネル西側ライブカメラ / Yamanote-dori Atago tunnel west side live camera</name>
+        <description><![CDATA[山梨県甲府市元紺屋町「日本ネットワークサービス」/ Motokonyamachi, Kofu City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-atagotunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.575229,35.6710491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相川大橋ライブカメラ / Aikawa Ohashi Live Camera</name>
+        <description><![CDATA[山梨県甲府市和田町「一般財団法人河川情報センター」/ Wadamachi, Kofu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-aikawaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5657452,35.6853991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平和通り遠光寺交差点ライブカメラ / Heiwadori Onkoji intersection live camera</name>
+        <description><![CDATA[山梨県甲府市伊勢「日本ネットワークサービス」/ Ise, Kofu City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-enkoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.567953,35.6483121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川新平和橋ライブカメラ / Arakawa Shinheiwa Bridge Live Camera</name>
+        <description><![CDATA[山梨県甲府市伊勢4丁目「一般財団法人河川情報センター」/ 4-chome, Ise, Kofu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-arakawa-shinheiwabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5636088,35.6402623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号小瀬スポーツ公園入口交差点ライブカメラ / National highway No. 20 Kose Sports Park entrance intersection live camera</name>
+        <description><![CDATA[山梨県甲府市住吉4丁目「日本ネットワークサービス」/ 4-chome, Sumiyoshi, Kofu City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-sumiyoshi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5839009,35.6369354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>濁川玉諸左岸排水機場ライブカメラ / Nigorikawa Tamamoro left bank drainage pump station live camera</name>
+        <description><![CDATA[山梨県甲府市西高橋町「河川情報センター」/ Nishitakahashi Town, Kofu City, Yamanashi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-nigorigawa-nishitakahashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5961651,35.637212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雁坂みち十郎橋西交差点ライブカメラ / Karisaka Michi Jurohashi Nishi intersection live camera</name>
+        <description><![CDATA[山梨県甲府市桜井町 「日本ネットワークサービス」/ Sakuraicho, Kofu City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-jurobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.615661,35.6587048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平等川新恵比寿歩道橋ライブカメラ / Byodo River Shinebisu Overpass live camera</name>
+        <description><![CDATA[山梨県笛吹市石和町東油川「一般財団法人河川情報センター」/ Higashiaburakawa, Isawa-cho, Fuefuki-shi, Yamanashi "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-isawa-byodogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5971458,35.6262099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川新二川橋ライブカメラ / Arakawa Shinfutakawa Bridge Live Camera</name>
+        <description><![CDATA[〒400-0054 山梨県甲府市西下条町「一般財団法人河川情報センター」/ Nishishimojomachi, Kofu City, Yamanashi Prefecture 400-0054 "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-arakawa-shinfutakawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5733571,35.6023958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝戸川白山橋ライブカメラ / Takitogawa Hakusanbashi Live Camera</name>
+        <description><![CDATA[山梨県甲府市下曽根町 「河川情報センター」/ Shimosone-cho, Kofu City, Yamanashi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-kofu-hakusanbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5657559,35.5883903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝戸川滝川橋ライブカメラ / Takidogawa Takigawabashi live camera</name>
+        <description><![CDATA[山梨県甲府市中畑町 「河川情報センター」/ Nakabatake-cho, Kofu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamamashi-kofu-takigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5928304,35.5755629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NNS国道20号広瀬交差点ライブカメラ / NNS Route 20 Hirose intersection live camera</name>
+        <description><![CDATA[〒406-0035 山梨県笛吹市石和町広瀬１３７４ ニューライフカタクラ 石和店「日本ネットワークサービス(NNS)」/ New Life Katakura Ishiwa Store, 1374 Hirose, Isawa-cho, Fuefuki-shi, Yamanashi 406-0035,  "Japan Network Service (NNS)"<br>https://livecamera.fujiyamasan.com/isawa-hirose-r20.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6229968,35.6447844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹市役所ライブカメラ / Fuefuki City Hall Live Camera</name>
+        <description><![CDATA[〒406-8510 山梨県笛吹市石和町市部７７７ 笛吹市役所 本館 / Fuefuki City Hall Main Building, 777, Isawa-cho, Fuefuki-shi, Yamanashi 406-8510<br>https://livecamera.fujiyamasan.com/yamanashi-fuefuki-isawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.63973,35.647296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹川石和ライブカメラ / Fuefuki River Ishiwa Live Camera</name>
+        <description><![CDATA[〒406-0031 山梨県笛吹市石和町市部 「甲府河川国道事務所」/Isawacho, Fuefuki City, Yamanashi Prefecture  406-0031, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/isawa-ichibe-fuefuki-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6401409,35.6492664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR 中央本線ライブカメラ② （春日居町 ⇔ 石和温泉）甲府・松本方面下り向き / JR Chuo Main Line Live Camera ② (Kasugaicho ⇔ Isawa Onsen) Downward toward Kofu / Matsumoto</name>
+        <description><![CDATA[〒406-0012 山梨県笛吹市春日居町熊野堂「The Dramatic 中央本線。」/ Kumanodo, Kasugai-cho, Fuefuki-shi, Yamanashi 406-0012<br>"The Dramatic Chuo Main Line."<br>https://livecamera.fujiyamasan.com/kasugaitown.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6520467,35.6707018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹市役所一宮支所御坂町方面ライブカメラ / Fuefuki City Hall Ichinomiya Branch Misakacho Live Camera</name>
+        <description><![CDATA[〒405-0073 山梨県笛吹市一宮町末木８０７−６笛吹市役所 一宮支所 / Fuefuki City Hall Ichinomiya Branch, 807-6 Sueki, Ichinomiya-cho, Fuefuki-shi, Yamanashi 405-0073 <br>https://livecamera.fujiyamasan.com/yamanashi-fuefuki-ichinomiya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6919254,35.6469681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンメドウズ清里テラス富士山ライブカメラ / Sun Meadows Kiyosato Terrace Mt. Fuji Live Camera</name>
+        <description><![CDATA[〒407-0311 山梨県北杜市大泉町西井出８２４０−１ サンメドウズ清里スキー場/清里テラス 「北杜市観光協会」/ Sun Meadows Kiyosato Ski Resort / Kiyosato Terrace, 82401 Nishiide, Oizumi-cho, Hokuto-shi, Yamanashi 407-0311, <br> "Hokuto City Tourism Association"<br>https://livecamera.fujiyamasan.com/sunmeadows-kiyosato-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4144551,35.9475542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スキー場・ハイランドライブカメラ / Ski Resort Live Camera</name>
+        <description>〒409-1501 山梨県北杜市大泉町西井出８２４０－１ サンメドウズ清里スキー場 / Sun Meadows Kiyosato Ski Resort, 8240-1 Nishiide, Oizumi-cho, Hokuto-shi, Yamanashi-ken 409-1501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4142129,35.9482865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清里の森管理センターライブカメラ / Kiyosato no Mori Management Center Live Camera</name>
+        <description><![CDATA[〒407-0301 山梨県北杜市高根町清里３５４５−１清里の森 「(株)清里の森管理公社」/ Kiyosato no Mori, 3545-1 Kiyosato, Takane-cho, Hokuto-shi, Yamanashi 407-0301,  "Kiyosato no Mori Management Corporation"<br>https://livecamera.fujiyamasan.com/takane-kiyosatonomori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4362548,35.928789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八ヶ岳アウトレットカメラ / Yatsugatake Outlet Camera</name>
+        <description><![CDATA[〒408-0044 山梨県北杜市小淵沢町4000　八ヶ岳リゾートアウトレットモール　北杜市観光協会「北杜市ライブカメラ」/ Resort Outlets Yatsugatake, 4000 Kobuchisawa-cho, Hokuto-shi, Yamanashi-ken 408-0044, "Hokuto City Sightseeing Association - Hokuto City Live Camera" <br>https://livecamera.fujiyamasan.com/kobuchisawa-yatsugatake-outlet.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3077002,35.8862686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八ヶ岳リゾートアウトレットライブカメラ / Yatsugatake Resort Outlet Live Camera</name>
+        <description><![CDATA[〒408-0044 山梨県北杜市小淵沢町４０００ 八ヶ岳リゾートアウトレット 「北杜市観光協会」 / Yatsugatake Resort Outlet, 4000 Kobuchisawa-cho, Hokuto-shi, Yamanashi 408-0044<br> "Hokuto City Tourism Association"<br>https://livecamera.fujiyamasan.com/kobuchisawa-yatsugatake-outlet.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3083764,35.8863793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清泉寮八ヶ岳牧場ライブカメラ / Seisen-ryo Yatsugatake Ranch Live Camera</name>
+        <description><![CDATA[〒407-0301 山梨県北杜市高根町清里３５４５ 清泉寮 「北杜市観光協会」/ Seisen-ryo, 3545 Kiyosato, Takane-cho, Hokuto-shi, Yamanashi 407-0301  "Hokuto-shi Tourism Association"<br>https://livecamera.fujiyamasan.com/yamanashi-hokuto-seisenryo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4184894,35.9245007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小淵沢道の駅カメラ / Kobuchisawa Roadside Station Camera</name>
+        <description><![CDATA[〒408-0044 山梨県北杜市小淵沢町２９６８−１ 北杜市観光協会「北杜市ライブカメラ」/ 2968-1 Kobuchisawa-cho, Hokuto-shi, Yamanashi-ken 408-0044, "Hokuto City Sightseeing Association - Hokuto City Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3161956,35.8788848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>甲斐大泉温泉パノラマの湯ライブカメラ / Kaioizumi Onsen Panoramanoyu Live Camera</name>
+        <description>〒409-1501 山梨県北杜市大泉町西井出８２４０−１ 甲斐大泉温泉パノラマの湯　北杜市観光協会「北杜市ライブカメラ」/ Kaioizumi Onsen Panoramanoyu, 8240-1 Nishiide, Oizumi-cho, Hokuto-shi, Yamanashi-ken 409-1501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4086656,35.894671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大泉谷戸八ヶ岳ライブカメラ / Oizumi Yato Yatsugatake Live Camera</name>
+        <description><![CDATA[〒409-1502 山梨県北杜市大泉町谷戸 「北杜市観光協会」/ Yato, Oizumi-cho, Hokuto-shi, Yamanashi 409.1502 "Hokuto-shi Tourism Association"<br>https://livecamera.fujiyamasan.com/oizumi-yato-yatsugatake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3688834,35.9036516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中部DrivingWeather中央自動車道小淵沢バスストップライブカメラ / Chubu Driving Weather Chuo Expressway Kobuchisawa Bus Stop Live Camera</name>
+        <description><![CDATA[〒408-0044 山梨県北杜市小淵沢町 中央道小淵沢（バス）「ウェザーニュース」/ Chuodo Kobuchizawa (bus), Kobuchisawa-cho, Hokuto-shi, Yamanashi 408-0044  "Weathernews"<br>https://livecamera.fujiyamasan.com/yamanashi-kobuchisawabs.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3114,35.87085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大泉谷戸富士山ライブカメラ / Oizumi Yato Mt. Fuji Live Camera</name>
+        <description><![CDATA[〒408-0037 山梨県北杜市長坂町中島４４０２ 北の杜ＣＣ 「北杜市観光協会」/ Hokuto CC,  4402 Nakajima, Nagasaka-cho, Hokuto-shi, Yamanashi 408-0037,  "Hokuto-shi Tourism Association"<br>https://livecamera.fujiyamasan.com/oizumi-yato-fujisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.342296,35.8275368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北杜市ライブカメラ / Hokuto City Live Camera</name>
+        <description><![CDATA[〒408-0002 山梨県北杜市高根町村山北割３２６１ 北杜市観光協会 / Hokuto city sightseeing association, 3261 Murayamakitawari, Takane-cho, Hokuto-shi, Yamanashi-ken 408-0002<br>https://livecamera.fujiyamasan.com/hokutocity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4133866,35.8374869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金生遺跡甲斐駒ライブカメラ / Kinsei Ruins Kaikoma Live Camera</name>
+        <description><![CDATA[〒409-1502 山梨県北杜市大泉町谷戸１０５金生遺跡「北杜市観光協会」/ Kinsei Ruins, 105 Yato, Oizumi-cho, Hokuto-shi, Yamanashi 409.1502, "Hokuto City Tourism Association"<br>https://livecamera.fujiyamasan.com/oizumi-yato-kinseiiseki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3850261,35.8482699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きららシティライブカメラ / Kirara City Live Camera</name>
+        <description><![CDATA[〒408-0034 山梨県北杜市長坂町大八田１６０　ショッピングセンター きららシティ / Shopping Center Kirara City, 160 Obatta, Nagasaka-cho, Hokuto City, Yamanashi Prefecture 408-0034<br>https://livecamera.fujiyamasan.com/nagasaka-obatta-kiraracity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.390844,35.833008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武川町実相寺カメラ / Mukawa Town Jissoji Temple Live Camera</name>
+        <description>〒408-0306 山梨県北杜市武川町山高２７６３ 実相寺 北杜市観光協会「北杜市ライブカメラ」/ Jissoji Temple, 2763 Yamataka, Mukawa-cho, Hokuto-shi, Yamanashi-ken 408-0306</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3675083,35.7807895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茅ヶ岳定点観測 / Kayagatake Fixed-point Observation</name>
+        <description>山梨県韮崎市本町 / Hon-cho, Nirasaki-shi, Yamanashi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4495434,35.7078933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夜叉神峠ライブカメラ / Yashajin Toge (Pass) Live Camera</name>
+        <description>〒400-0241 山梨県南アルプス市芦安芦倉１５７０ 南アルプス芦安山岳館 「南アルプスNET」 / Minami Alps Ashiyasu Sangaku-kan (Mountain Museum), 1570 Ashikura, Ashiyasu, Minami Alps-shi, Yamanashi 400-0241</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3610546,35.6331977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[本栖湖「千円札の富士山」/ Lake Motosu "Mt. Fuji of a thousand yen bill"]]></name>
+        <description><![CDATA[〒409-3104 山梨県南巨摩郡身延町中ノ倉 中ノ倉峠展望地 「身延町役場」 / Nakanokura Pass Observatory Area, Nakanokura, Minobu-cho, Minamikoma-gun, Yamanashi-ken 409-3104, "Minobu Town Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5728952,35.4756209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ</name>
+        <description><![CDATA[山梨県南巨摩郡富士川町天神中條<br>富士川町役場]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.461423,35.561243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹川フルーツ公園 / Fuefukigawa Fruit Park</name>
+        <description><![CDATA[〒405-0043 山梨県山梨市江曽原１４８８ 「山梨市役所」 / 1488 Ezohara, Yamanashi-shi, Yamanashi 405-0043, "Yamanashi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6644442,35.7020391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅まきおかカメラ</name>
+        <description><![CDATA[山梨県山梨市牧丘町<br>山梨市役所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.718357,35.754732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅みとみカメラ / Roadside Station Mitomi Camera</name>
+        <description><![CDATA[〒404-0201 山梨県山梨市三富川浦１８２２−１ 「山梨市役所」 / 1822-1 Kawaura, Mitomi, Yamanashi-shi, Yamanashi 404-0201, "Yamanashi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.756123,35.859405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明誠ライブカメラ / Meisei Live Camera</name>
+        <description><![CDATA[〒409-0112 山梨県上野原市上野原３２００ 日本大学明誠高等学校 / Nihon University Meisei Senior High School, 3200 Uenohara, Uenohara-shi, Yamanashi 409-0112<br>https://livecamera.fujiyamasan.com/meisei.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.115689,35.631401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号・桂川橋・上野原市内 / National Route 20, Katsuragawa Bridge and Uenohara City</name>
+        <description><![CDATA[〒409-0112 山梨県上野原市上野原３８３２　上野原市役所 / Uenohara City Hall, 3832 Uenohara, Uenohara-shi, Yamanashi-ken 409-0112<br>https://livecamera.fujiyamasan.com/uenoharacity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.108696,35.630315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[日本三奇橋 名勝猿橋 / Japan Three Rare Bridges "Saruhashi Bridge"]]></name>
+        <description><![CDATA[〒409-0614 山梨県大月市猿橋町猿橋５５－７ 「大月市役所」 / 55-7 Saruhashi, Saruhashi-machi, Otsuki-shi, Yamanashi 409-0614, "Otsuki City Hall"<br>https://livecamera.fujiyamasan.com/saruhashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9802185,35.6157385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩殿山からの富士山 / Mt. Fuji from Mt. Iwadono</name>
+        <description><![CDATA[〒401-0004 山梨県大月市賑岡町強瀬８１−１ 岩殿山ふれあいの館 「大月市役所」 / Mt. Iwadono Friendship Museum, 81-1 Kowaze, Nigioka-machi, Otsuki-shi, Yamanashi 401-0004, "Otsuki City Hall"<br>https://livecamera.fujiyamasan.com/iwadonoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9492845,35.6192445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大月駅前と岩殿山（濱野屋屋上）ライブカメラ / Live camera in front of Otsuki station and Mt. Iwadonoya (Hamanoya rooftop)</name>
+        <description><![CDATA[〒401-0013 山梨県大月市大月１丁目１−３−３ ビジネスホテル 濱野屋　「大月市役所」/ Business Hotel Hamanoya, 1-3-3 Otsuki, Otsuki City, Yamanashi 401-0013  "Otsuki City Hall"<br>https://livecamera.fujiyamasan.com/hamanoya-otsuki-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9424251,35.6126254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラで見る富士山 / Mt. Fuji seen with a live camera</name>
+        <description><![CDATA[〒409-3701 山梨県笛吹市芦川町上芦川　新道峠 　「ふえふき観光ナビ」/ Shindo Pass,  Ashigawa, Ashigawa-cho, Fuefuki-shi, Yamanashi 409-3701, "Fuefuki Sightseeing Navi"<br>https://livecamera.fujiyamasan.com/yamanashi-shindopass-mtfuji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7315212,35.5464213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山ライブカメラ(本栖湖千円札カメラ) / Mt. Fuji live camera (Lake Motosu 1000 yen bill camera)</name>
+        <description><![CDATA[〒409-3104 山梨県南巨摩郡身延町中ノ倉２９２６ 浩庵キャンプ場「Fujigoko.TV」/ Kouan Camp Site, 2926 Nakanokura, Minobu-cho, Minamikoma-gun, Yamanashi-ken 409-3104, "Fujigoko.TV"<br>https://livecamera.fujiyamasan.com/motosu-kouan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5747821,35.4732557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久遠寺境内ライブカメラ / The Precincts of the Kuon-ji Temple</name>
+        <description><![CDATA[〒409-2593 山梨県南巨摩郡 身延町身延３５６７ 身延山久遠寺 / Minobusan Kuonji (Mt. Minobu Kuon-ji Temple), 3567 Minobu, Minobu-cho, Minami Koma-gun, Yamanashi-ken 409-2593<br>https://livecamera.fujiyamasan.com/minobusan-kuonji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.425052,35.382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南部町防災カメラ / Nanbu Town Disaster Prevention Camera</name>
+        <description><![CDATA[〒409-2102 山梨県南巨摩郡南部町福士２８５０５−２ 南部町役場 / Nanbu Town Hall, 28505-2 Fukushi, Nanbu-cho, Minamikoma-gun, Yamanashi-ken 409-2102<br>https://livecamera.fujiyamasan.com/nanbutown.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4861205,35.2423595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央自動車道双葉JCT南側カメラ / Chuo Expressway Futaba JCT South Camera</name>
+        <description><![CDATA[山梨県甲斐市下今井　「道路状況ライブカメラ」NNS日本ネットワークサービス / Shimoimai, Kai City, Yamanashi Prefecture "Road Situation Live Camera" NNS Japan Network Service<br>https://livecamera.fujiyamasan.com/yamanashi-kai-futaba-jct.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5050088,35.6812371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南アルプス市主要道路情報ライブカメラ / Minamialps City Major Road Information Live Camera</name>
+        <description>〒400-0222 山梨県南アルプス市飯野２９７０　白根ケーブルネットワーク（株）/ Shirane Cable Network, 2970 Iino, Minamialps-shi, Yamanashi-ken 400-0222</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.460204,35.638554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ｌｉｖｅカメラ今の山梨 / Live Camera Current Yamanashi</name>
+        <description>〒406-0817 山梨県笛吹市御坂町大野寺１３７５ 平井観光農園 / Hirai Tourism Farm, 1375 Onoji, Misaka-cho, Fuefuki-shi, Yamanashi-ken 406-0817</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6728974,35.60772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川カントリー倶楽部現在の様子 / Sakaigawa Country Club</name>
+        <description><![CDATA[〒406-0851 山梨県笛吹市境川町小黒坂２２６６ 境川カントリー倶楽部 / Sakaigawa Country Club, 2266 Kogurosaka, Sakaigawa-cho, Fuefuki-shi, Yamanashi-ken 406-0851<br>https://livecamera.fujiyamasan.com/sakaigawacountry.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6359099,35.5857634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹市内ライブカメラ / Fuefuki City Live Camera</name>
+        <description><![CDATA[〒406-0031 山梨県笛吹市石和町市部７７７ 笛吹市役所 本館 / Fuefuki City Hall Main Building, 777 Ichibe, Isawa-cho, Fuefuki-shi, Yamanashi-ken 406-0031<br>https://livecamera.fujiyamasan.com/fuefukicity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.63973,35.647296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七面山ライブカメラ / Shichimensan Live Camera</name>
+        <description><![CDATA[〒409-2733 山梨県南巨摩郡早川町赤沢 七面山 / Shichimensan, Akazawa, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2733<br>https://livecamera.fujiyamasan.com/yamanashi-shichimensan-fuji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3507664,35.3704774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>濁川大円川橋ライブカメラ / Nigori River Daiengawa Bridge Live Camera</name>
+        <description><![CDATA[〒400-0805 山梨県甲府市酒折１丁目 「一般財団法人河川情報センター」/ 1-chome, Sakaori, Kofu City, Yamanashi Prefecture 400-0805 "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-nigorigawa-daiengawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5975518,35.656482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川金石橋ライブカメラ / Arakawa Kanaishibashi Live Camera</name>
+        <description><![CDATA[山梨県甲府市山宮町「一般財団法人河川情報センター」/ Yamamiya-cho, Kofu-shi, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-arakawa-kaneishibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5241299,35.6992509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川千松橋ライブカメラ / Arakawa Senmatsuhashi Live Camera</name>
+        <description><![CDATA[山梨県甲府市千塚4丁目「一般財団法人河川情報センター」/ 4-chome, Chizuka, Kofu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-arakawa-senmatsubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5353533,35.6819457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩川穂坂橋ライブカメラ / Shiokawa Hosakabashi Live Camera</name>
+        <description><![CDATA[山梨県韮崎市穂坂町宮久保 「一般財団法人河川情報センター」/ Miyakubo, Hosakamachi, Nirasaki City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/hosaka-miyakubo-shiokawa-hosakabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4562773,35.7205162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川穴山橋ライブカメラ / Kamanashi River Anayamabashi Live Camera</name>
+        <description><![CDATA[山梨県韮崎市円野町上円井「一般財団法人河川情報センター」/ Tsuburai, Marunomachikami, Nirasaki City, Yamanashi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/maruno-kamanashi-anayamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4027821,35.7612596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御勅使川御勅使上橋ライブカメラ / Midai River Midaikami Bridge Live Camera</name>
+        <description><![CDATA[山梨県韮崎市旭町上條南割「一般財団法人河川情報センター」/ Kamijominamiwari, Asahimachi, Nirasaki City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/asahi-midaigawa-midaikamibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4401151,35.664627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号船山橋北詰交差点ライブカメラ / National highway No. 20 Funayamabashi Kitazume intersection live camera</name>
+        <description><![CDATA[山梨県韮崎市本町３丁目「日本ネットワークサービス」/ 3-chome, Honcho, Nirasaki City, Yamanashi Prefecture, "Nihon Network Service"<br>https://livecamera.fujiyamasan.com/r20-funayama-bridge-kitadume-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4544154,35.7024989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹窪太陽光発電所ライブカメラ / Takekubo Solar Power Plant Live Camera</name>
+        <description><![CDATA[〒407-0263 山梨県韮崎市穴山町 竹窪太陽光発電所 / Takekubo Solar Power Plant, Anayamamachi, Nirasaki City, Yamanashi Prefecture 407-0263<br>https://livecamera.fujiyamasan.com/anayama-takekubo-solar-power-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4137924,35.7551955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スポーツランドやまなしライブカメラ / Sportsland Yamanashi Live Camera</name>
+        <description><![CDATA[〒407-0171 山梨県韮崎市穂坂町柳平２４９２スポーツランド山梨 / Sportsland Yamanashi,  2492 Yanagitaira, Hosakamachi, Nirasaki City, Yamanashi Prefecture 407-0171<br>https://livecamera.fujiyamasan.com/yamanashi-nirasaki-sportland.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5073578,35.7618164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川船山橋ライブカメラ / Kamanashi River Funayama Bridge Live Camera</name>
+        <description><![CDATA[〒407-0024 山梨県韮崎市本町３丁目「甲府河川国道事務所」/ 3-chome, Honcho, Nirasaki City, Yamanashi Prefecture 407-0024<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-kamanashi-funayamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4556157,35.7019783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号韮崎ライブカメラ / National Route 20 Nirasaki Live Camera</name>
+        <description><![CDATA[〒407-0051 山梨県韮崎市円野町上円井「甲府河川国道事務所」/ Kamitsuburai, Marunomachi, Nirasaki City, Yamanashi Prefecture 407-0051<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/maruno-kamitsuburai-r20-nirasaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3863436,35.7640146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号御勅使川橋ライブカメラ / National Route 42 Midaigawabashi Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市六科「白根ケーブルネットワーク株式会社」/ Mujina, Minami Alps City, Yamanashi Prefecture, "Shirane Cable Network Co., Ltd."<br>https://livecamera.fujiyamasan.com/yamanashi-r42-midaigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4647752,35.6711407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号白根IC西交差点ライブカメラ / National highway No. 52 Shirane IC west intersection live camera</name>
+        <description><![CDATA[〒400-0221 山梨県南アルプス市在家塚５９５−１ 道の駅 しらね 「白根ケーブルネットワーク株式会社」/ Road Station Shirane, 595-1 Zaiketsuka, Minami-Alps City, Yamanashi Prefecture 400-0221  "Shirane Cable Network Co., Ltd."<br>https://livecamera.fujiyamasan.com/yamanashi-r52ic-shiranenishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.471106,35.6377089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山梨県道20号甲斐早川線信玄橋西交差点ライブカメラ / Yamanashi Prefectural Road No. 20 Kai Hayakawa Line Shingenbashi West Intersection Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市上高砂「白根ケーブルネットワーク」/ Kamitakasuna, Minami Alps City, Yamanashi Prefecture,  "Shirane Cable Network"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-shingenbashinishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4962355,35.6635153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号十五所交差点ライブカメラ / National highway No. 52 Jugosho intersection live camera</name>
+        <description><![CDATA[山梨県南アルプス市吉田「白根ケーブルネットワーク」/ Yoshida, Minami-Alps City, Yamanashi Prefecture "Shirane Cable Network"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-jugosho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4784226,35.6205383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号南アルプスIC西交差点ライブカメラ / National Route 52 Minami Alps IC West Intersection Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市十日市場「山梨県南アルプス市・富士川町道路ライブカメラ」/ Tokaichiba, Minami-Alps City, Yamanashi Prefecture " Yamanashi Prefecture Minami Alps City and Fujikawa Town Road Live Camera"<br>https://livecamera.fujiyamasan.com/yamanashi-r52ic-minamialpsnishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4789087,35.6136344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道140号三郡橋北交差点ライブカメラ / National highway No. 140 Sangunbashi north intersection live camera</name>
+        <description><![CDATA[山梨県南アルプス市東南湖「白根ケーブルネットワーク」/ Higashinango, Minami-Alps City, Yamanashi Prefecture "Shirane Cable Network"<br>https://livecamera.fujiyamasan.com/yamanashi-r140-sangunbashikita.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4840587,35.5733727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山梨県道12号韮崎南アルプス中央線浅原橋西交差点ライブカメラ / Yamanashi Prefectural Road No. 12 Nirasaki South Alps Chuo Line Asaharabashi Nishi Intersection Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市藤田 「山梨県南アルプス市・富士川町道路ライブカメラ」/ Fujita, Minami-Alps City, Yamanashi Prefecture " Yamanashi Prefecture Minami-Alps City and  Fujikawa Town Road Live Camera"<br>https://livecamera.fujiyamasan.com/yamanashi-r12-asaharabashinishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5043671,35.5942405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号小笠原橋ライブカメラ / National Route 42 Ogasawarabashi Live Camera</name>
+        <description><![CDATA[〒400-0306 山梨県南アルプス市小笠原４７１−８ 南アルプス市 櫛形社会福祉会館「山梨県南アルプス市・富士川町道路ライブカメラ」/ Minami Alps City Kushigata Social Welfare Hall, 471-8 Ogasahara, Minami-Alps City, Yamanashi Prefecture 400-0306,  "Live camera on the road in Fujikawa Town, Minami Alps City, Yamanashi Prefecture"<br>https://livecamera.fujiyamasan.com/yamanashi-r420-ogasawarabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.465752,35.611721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坪川川上橋ライブカメラ / Tsubagawa Kawakami Bridge Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市川上 「一般財団法人河川情報センター」/ Kawakami, Minami-Alps City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-tsubokawa-kawakamibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4632408,35.5930825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坪川五明大橋ライブカメラ / Tsubagawa Gomei Ohashi Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市荊沢「一般財団法人河川情報センター」/ Barazawa, Minami-Alps City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-tsubokawa-gomeiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4696823,35.5766844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝沢川南湖橋ライブカメラ / Takizawa River Nanko Bridge Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市西南湖「一般財団法人河川情報センター」/ Nishinango, Minami-Alps City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-takizawagawa-seinango.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4830246,35.5901703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝沢川戸田橋ライブカメラ / Takizawa River Todabashi Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市戸田「一般財団法人河川情報センター」/ Toda, Minami-Alps City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-takizawagawa-todabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4801676,35.5833746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルプス通り開国橋西交差点ライブカメラ / Alps Street Kaikokubashi West Intersection Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市上今諏訪 「山梨県南アルプス市・富士川町道路ライブカメラ」/ Kamiimasuwa, Minami-Alps City, Yamanashi Prefecture "Road Live Camera, Fujikawa Town, Minami-Alps City, Yamanashi Prefecture"<br>https://livecamera.fujiyamasan.com/yamanashi-kaikokubashinishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5004171,35.6367571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川浅原橋ライブカメラ / Kamanashi River Asahara Bridge Live Camera</name>
+        <description><![CDATA[〒400-0333 山梨県南アルプス市浅原「甲府河川国道事務所」/ Asabara, Minami-Alps City, Yamanashi Prefecture 400-0333 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-kamanashi-asabarabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5049707,35.5927923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夜叉神峠南アルプスライブカメラ / Yashajintoge Minami Alps Live Camera</name>
+        <description><![CDATA[〒400-0241 山梨県南アルプス市芦安芦倉 夜叉神峠「南アルプスNET」/ Yashajintoge,  Ashiyasuashikura, Minami-Alps City, Yamanashi Prefecture 400-0241,  "Minami Alps NET"<br>https://livecamera.fujiyamasan.com/yamanashi-minamialps-yashajintouge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.336389,35.6375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩川駒井橋ライブカメラ / Shiokawa Komaibashi Live Camera</name>
+        <description><![CDATA[山梨県北杜市明野町三之蔵「一般財団法人河川情報センター」/ Sannokura, Akeno-cho, Hokuto-shi, Yamanashi "River Information Center"<br>https://livecamera.fujiyamasan.com/shiokawa-komaibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4499708,35.7373359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩川三村橋ライブカメラ / Shiokawa Mimurabashi Live Camera</name>
+        <description><![CDATA[〒408-0204 山梨県北杜市明野町上手 三村橋 「一般財団法人河川情報センター」/ Mimurabashi, Uede, Akenocho, Hokuto City, Yamanashi Prefecture 408-0204<br>"General Incorporated Foundation River Information Center"<br>https://livecamera.fujiyamasan.com/shiokawa-mimurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4368368,35.7538232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩川甲子橋ライブカメラ / Shiokawa Kinoenebashi Live Camera</name>
+        <description><![CDATA[山梨県北杜市明野町下神取「一般財団法人河川情報センター」/ Shimokandori, Akeno-cho, Hokuto-shi, Yamanashi "River Information Center"<br>https://livecamera.fujiyamasan.com/shiokawa-kinoenebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4274583,35.7743973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大武川砂防堰堤ライブカメラ / Omu River Sabo Dam Live Camera</name>
+        <description><![CDATA[〒408-0314 山梨県北杜市白州町大坊 「富士川砂防事務所」/ Hakushucho Daibo, Hokuto City, Yamanashi Prefecture 408-0314, "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/omu-river-sabo-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2941167,35.759041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大武川駒城橋ライブカメラ / Omugawa Komajobashi Live Camera</name>
+        <description><![CDATA[〒408-0313 山梨県北杜市白州町横手「富士川砂防事務所」/ Yokote, Hakushu-cho, Hokuto City, Yamanashi Prefecture 408-0313<br>"Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/yokote-omu-river-komaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2493058,35.7626999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大武川大武川橋ライブカメラ / Omu River Omu River Bridge Live Camera</name>
+        <description><![CDATA[山梨県北杜市武川町三吹「富士川砂防事務所」/ Mifuki, Mukawa-cho, Hokuto-shi, Yamanashi "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/mukawa-omu-river-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3802925,35.7868097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>濁川下流砂防堰堤ライブカメラ / Nigori river downstream sabo dam live camera</name>
+        <description><![CDATA[〒408-0315 山梨県北杜市白州町白須「富士川砂防事務所」/ Shirasu, Hakushu-cho, Hokuto-shi, Yamanashi 408-0315 "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/hakushu-nigorigawa-sabodam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2493058,35.7988614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>流川下流砂防堰堤ライブカメラ / Nagare River downstream sabo dam live camera</name>
+        <description><![CDATA[〒408-0317 山梨県北杜市白州町下教来石「富士川砂防事務所」/ Shimokyoraishi, Hakushu-cho, Hokuto City, Yamanashi Prefecture 408-0317, "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/hakushu-nagaregawa-sabodam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.234377,35.833199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾白川下流砂防堰堤ライブカメラ / Ojiro River downstream sabo dam live camera</name>
+        <description><![CDATA[〒408-0313 山梨県北杜市白州町横手「富士川砂防事務所」/ Yokote, Hakushu-cho, Hokuto City, Yamanashi Prefecture 408-0313<br>"Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/hakushu-yokote-ojiragawa-sabodam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2474175,35.7626999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾白川第二砂防堰堤ライブカメラ / Ojira River No. 2 Sabo Dam Live Camera</name>
+        <description><![CDATA[〒408-0315 山梨県北杜市白州町白須「富士川砂防事務所」/ Shirasu, Hakushu-cho, Hokuto-shi, Yamanashi 408-0315 "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/hakushu-shirasu-ojiragawa-sabodam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2502607,35.7988614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小尾平太陽光発電所ライブカメラ / Oodaira Solar Power Plant Live Camera</name>
+        <description><![CDATA[〒408-0036 山梨県北杜市長坂町中丸 「山梨自然エネルギー発電」/ Nakamaru, Nagasaka-cho, Hokuto City, Yamanashi Prefecture 408-0036 "Yamanashi Renewable Energy Power Generation"<br>https://livecamera.fujiyamasan.com/yamanashi-hokuto-oodairasolar.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3564152,35.8328395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>増富太陽光発電所ライブカメラ / Masutomi Solar Power Plant Live Camera</name>
+        <description><![CDATA[〒408-0101 山梨県北杜市須玉町小尾「株式会社北杜星」/ Obi, Sutama-cho, Hokuto-shi, Yamanashi 408-0101 "Hokutosei Co., Ltd."<br>https://livecamera.fujiyamasan.com/yamanashi-hokuto-masutomisolar.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5487397,35.8888716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白州太陽光発電所ライブカメラ / Hakushu Solar Power Plant Live Camera</name>
+        <description><![CDATA[〒408-0318 山梨県北杜市白州町上教来石「山梨自然エネルギー発電」/ Kamikyoraishi, Hakushu-cho, Hokuto-shi, Yamanashi 〒408-0318, "Yamanashi Renewable Energy Power Generation"<br>https://livecamera.fujiyamasan.com/yamanashi-hokuto-hakushusolar.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2741962,35.8500662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷戸太陽光発電所ライブカメラ / Yato Solar Power Plant Live Camera</name>
+        <description><![CDATA[〒409-1502 山梨県北杜市大泉町谷戸「山梨自然エネルギー発電」/ Yato, Oizumi-cho, Hokuto City, Yamanashi Prefecture 409.1502<br>"Yamanashi Renewable Energy Power Generation"<br>https://livecamera.fujiyamasan.com/yamanashi-hokuto-yatosolar.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3688834,35.9036516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号武川ライブカメラ / National Route 20 Mukawa Live Camera</name>
+        <description><![CDATA[〒408-0302 山梨県北杜市武川町牧原 「甲府河川国道事務所」/  Makihara, Mukawa-cho, Hokuto-shi, Yamanashi 408-0302, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-mukawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3863436,35.7821212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号白州ライブカメラ / Route 20 Hakushu Live Camera</name>
+        <description><![CDATA[〒408-0312 山梨県北杜市白州町台ヶ原「甲府河川国道事務所」/ Daigahara, Hakushu-cho, Hokuto City, Yamanashi Prefecture 408-0312<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-hakushu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3414571,35.8039129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルプス通り開国橋東側ライブカメラ / Live camera on the east side of Kaikokubashi on Alps Street</name>
+        <description><![CDATA[山梨県甲斐市西八幡 「日本ネットワークサービス」/ Nishiyahata, Kai City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-kai-kaikokubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.510102,35.6380221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号竜王駅入口交差点ライブカメラ / National highway No. 20 Ryuo station entrance intersection live camera</name>
+        <description><![CDATA[山梨県甲斐市竜王「日本ネットワークサービス」/ Ryuo, Kai City, Yamanashi Prefecture "Japan Network Service"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-ryuo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5175911,35.6638094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川蛇山橋ライブカメラ / Sakaigawa Hebiyama Bridge Live Camera</name>
+        <description><![CDATA[〒406-0853 山梨県笛吹市境川町藤垈「一般財団法人河川情報センター」/ Fujinuta, Sakaigawa-cho, Fuefuki-shi, Yamanashi 406-0853 "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-sakaigawa-hebiyamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6163371,35.58366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平等川梅之木橋ライブカメラ / Byodo River Umenokibashi Live Camera</name>
+        <description><![CDATA[山梨県笛吹市石和町東高橋「一般財団法人河川情報センター」/ Higashitakahashi, Isawa-cho, Fuefuki-shi, Yamanashi "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-byodo-umenokibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6062651,35.6374492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹川桃林橋ライブカメラ / Fuefuki River Momorinbashi Live Camera</name>
+        <description><![CDATA[〒409-3831 山梨県中央市大田和 「甲府河川国道事務所」/ Odawa, Chuo City, Yamanashi Prefecture 409-3831,  "Kofu River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5224741,35.5774074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花鳥山一本杉公園ライブカメラ / Hanatoriyama Ipponsugi Park Live Camera </name>
+        <description><![CDATA[〒406-0816 山梨県笛吹市八代町竹居５０５１ 花鳥山一本杉公園 花鳥山展望台「笛吹市役所」/ Hanatoriyama Ipponsugi Park Hanatoriyama Observatory, 5051 Takei, Yatsushiro-cho, Fuefuki-shi, Yamanashi 406-0816, "Fuefuki City Hall"<br>https://livecamera.fujiyamasan.com/yamanashi-fuefuki-hanatoriyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.666544,35.6033987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重川赤尾堰堤ライブカメラ / Omokawa Akao Dam Live Camera</name>
+        <description><![CDATA[山梨県甲州市塩山赤尾「一般財団法人河川情報センター」/ Enzanakao, Koshu City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-omokawa-akaodam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7396546,35.7097608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日川葡萄橋ライブカメラ / Hikawa Budou Bridge Live Camera</name>
+        <description><![CDATA[山梨県甲州市勝沼町下岩崎「一般財団法人河川情報センター」/ Shimoiwasaki, Katsunuma-cho, Koshu-shi, Yamanashi "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-hikawa-budobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7226732,35.66146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号勝沼ライブカメラ / National highway No. 20 Katsunuma live camera</name>
+        <description><![CDATA[〒409-1205 山梨県甲州市大和町鶴瀬 「甲府河川国道事務所」/ Tsuruse, Yamato-cho, Koshu-shi, Yamanashi 409-1205, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r20-yamato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.771872,35.6483612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山萩原ライブカメラ / Mt. Fuji Hagiwara Live Camera</name>
+        <description><![CDATA[〒404-0022 山梨県甲州市塩山上萩原「気象庁」/ Enzankamihagihara, Koshu City, Yamanashi Prefecture 404-0022, "Japan Meteorological Agency"<br>https://livecamera.fujiyamasan.com/yamanashi-enzan-hagiwara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8296806,35.7337531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦川新田橋ライブカメラ / Ashikawa Shinden Bridge Live Camera</name>
+        <description><![CDATA[山梨県市川三郷町市川大門「一般財団法人河川情報センター」/ Ichikawadaimon, Ichikawamisato Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yamanashi-ashikawa-shindenbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5045971,35.5678907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市川三郷町役場ライブカメラ / Ichikawamisato Town Hall Government Building Live Camera</name>
+        <description>〒409-3601 山梨県西八代郡市川三郷町市川大門１７９０−３ 市川三郷町役場 / Ichikawamisato-cho government office, 1790-3 Ichikawadaimon, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3601 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.502504,35.5652106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市川三郷町役場三珠庁舎ライブカメラ</name>
+        <description>〒409-3612 山梨県西八代郡市川三郷町上野２７１４−２ 市川三郷町役場三珠庁舎 / Ichikawamisato-cho government office Sanju Government building, 2714-2 Ueno, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3612 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5153236,35.5650108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山田川山田橋ライブカメラ / Yamadagawa Yamadabashi Live Camera</name>
+        <description><![CDATA[山梨県西八代郡市川三郷町落居 「市川三郷町役場」/ Ochii, Ichikawamisato Town, Nishiyatsushiro District, Yamanashi Prefecture "Ichikawamisato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4745414,35.5078322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩間排水機場ライブカメラ / Iwama drainage pump station live camera</name>
+        <description><![CDATA[〒409-3244 山梨県西八代郡市川三郷町岩間 「市川三郷町役場」/ Iwama, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3244 "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4612362,35.4961176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>簡易水道木戸前水源ライブカメラ / Simple water supply Kido-mae water source live camera</name>
+        <description><![CDATA[山梨県市川三郷町岩間 「市川三郷町役場」/ Iwama, Ichikawamisato Town, Yamanashi Prefecture "Ichikawamisato Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4583359,35.4913236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つむぎの湯ライブカメラ / Tsumugi no Yu Live Camera</name>
+        <description><![CDATA[〒409-3243 山梨県西八代郡市川三郷町鴨狩津向６４０ 六郷の里 つむぎの湯 「市川三郷町役場」/ Rokugo-no-sato Tsumugi-no-Yu, 640 Kamogaritsumugi, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3243  "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.458061,35.482098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市川三郷町役場六郷庁舎ライブカメラ / Ichikawamisato Town Hall Rokugo Government Building Live Camera</name>
+        <description><![CDATA[〒409-3244 山梨県西八代郡市川三郷町岩間４９５「市川三郷町役場」/ 495 Iwama, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3244 "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4633831,35.4959872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大同排水機場ライブカメラ / Datong drainage pump station live camera</name>
+        <description><![CDATA[〒409-3603 山梨県西八代郡市川三郷町黒沢「市川三郷町役場」/ Kurosawa, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3603 "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4737282,35.5263397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下大鳥居排水機場ライブカメラ / Shimoodorii drainage pump station live camera</name>
+        <description><![CDATA[〒409-3605 山梨県西八代郡市川三郷町下大鳥居 「市川三郷町役場」/ Shimoodorii, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3605 "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4812248,35.5499216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田排水機場ライブカメラ / Takada drainage pump station live camera</name>
+        <description><![CDATA[〒409-3606 山梨県西八代郡市川三郷町高田９０８ 高田排水機場「市川三郷町役場」/ Takata drainage pump station, 908 Takata, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3606,  "Ichikawamisato-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4805626,35.5566826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦川新田橋ライブカメラ / Ashikawa Shinden Bridge Live Camera</name>
+        <description><![CDATA[山梨県市川三郷町市川大門「市川三郷町役場」/ Ichikawadaimon, Ichikawamisato Town, Yamanashi Prefecture, "Ichikawamisato Town Hall"<br>https://livecamera.fujiyamasan.com/yamanashi-ashikawa-shindenbashi-2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5049428,35.5680851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大マチ用水制水門ライブカメラ / Large gusset water control lock live camera</name>
+        <description><![CDATA[山梨県市川三郷町市川大門「市川三郷町役場」/ Ichikawadaimon, Ichikawamisato Town, Yamanashi Prefecture, "Ichikawamisato Town Hall"<br>https://livecamera.fujiyamasan.com/yamanashi-ichikawadaimon-omachi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5116697,35.5565597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大塚排水機場ライブカメラ / Otsuka drainage pump station live camera</name>
+        <description><![CDATA[〒409-3611 山梨県西八代郡市川三郷町大塚1061-8 大塚排水機場「市川三郷町役場」/ Otsuka drainage pump station, 1061-8 Otsuka, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3611  "Ichikawamisato-cho government office"<br>https://livecamera.fujiyamasan.com/yamanashi-otsuka-drainage-pump.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.51969,35.5725073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上野排水機場ライブカメラ / Ueno drainage pump station live camera</name>
+        <description><![CDATA[〒409-3612 山梨県西八代郡市川三郷町上野１４５７−１「市川三郷町役場」/ 1457-1 Ueno, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3612 "Ichikawamisato-cho government office"<br>https://livecamera.fujiyamasan.com/yamanashi-ueno-drainage-pump.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5088186,35.5729537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市川三郷町立大塚小学校ライブカメラ / Ichikawamisato Municipal Otsuka Elementary School Live Camera</name>
+        <description><![CDATA[〒409-3611 山梨県西八代郡市川三郷町大塚４２６４ 市川三郷町立大塚小学校「市川三郷町役場」/  Ichikawamisato-cho Otsuka Elementary School, 4264 Otsuka, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3611 "Ichikawamisato-cho government office"<br>https://livecamera.fujiyamasan.com/yamanashi-ichikawamisato-otsuka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.537605,35.570192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川清水端ライブカメラ / Fuji River Shimizubata Live Camera</name>
+        <description><![CDATA[〒409-3603 山梨県西八代郡市川三郷町黒沢 「甲府河川国道事務所」/ Kurosawa, Ichikawamisato-cho, Nishiyatsushiro-gun, Yamanashi 409-3603 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-fujiriver-shimizubata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4715824,35.5263397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大春木沢大春木砂防堰堤ライブカメラ / Oharukisawa Oharuki Sabo Dam Live Camera</name>
+        <description><![CDATA[〒409-2733 山梨県南巨摩郡早川町赤沢 「富士川砂防事務所」/ Akasawa, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2733 "Fuji River Sabo Office"<br>https://livecamera.fujiyamasan.com/yamanashi-hayakawa-akasawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3738715,35.3754098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早川春木川合流点ライブカメラ / Hayakawa Harukigawa Confluence Live Camera</name>
+        <description><![CDATA[〒409-2732 山梨県南巨摩郡早川町高住「富士川砂防事務所」/ Koju, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2732<br>"Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/yamanashi-hayakawa-koju.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3663895,35.4063616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲又谷川稲又第三砂防堰堤第1ライブカメラ / Inamata Tanigawa Inamata No. 3 Sabo Dam No. 1 Live Camera</name>
+        <description><![CDATA[〒409-2734 山梨県南巨摩郡早川町雨畑「富士川砂防事務所」/ Amehata, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2734<br>"Fujikawa Sabo Office"<br> https://livecamera.fujiyamasan.com/yamanashi-inamatadani-amahata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.299098,35.3576411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒桂河内川早川合流点ライブカメラ / Tsuzuragouchi River Hayakawa Confluence Live Camera</name>
+        <description><![CDATA[〒409-2704 山梨県南巨摩郡早川町大原野「富士川砂防事務所」/ Oharano, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2704<br>"Fujikawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3539219,35.4760764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内河内川内河内砂防堰堤ライブカメラ / Uchikouchi River Uchikouchi Sabo Dam Live Camera</name>
+        <description><![CDATA[〒409-2703 山梨県南巨摩郡早川町新倉「富士川砂防事務所」/ Arakura, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2703<br>"Fujikawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3289951,35.5064456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早川木挽崩沢砂防堰堤ライブカメラ / Hayakawa Kobikikuzuresawa Sabo Dam Live Camera</name>
+        <description><![CDATA[〒409-2701 山梨県南巨摩郡早川町奈良田「富士川砂防事務所」/ Narada, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2701<br>"Fujikawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2891359,35.5984813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒桂河内川黒桂河内第二砂防堰堤ライブカメラ / Tsuzuragouchi River Tsuzuragouchi No. 2 Sabo Dam Live Camera</name>
+        <description><![CDATA[〒409-2711 山梨県南巨摩郡早川町黒桂「富士川砂防事務所」/ Tsuzura, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2711<br>"Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/yamanashi-tsuduragouchi-2ndsabo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2692172,35.4631198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒桂河内川早川合流点ライブカメラ  / Tsuzuragouchi River Hayakawa Confluence Live Camera</name>
+        <description><![CDATA[山梨県南巨摩郡早川町新倉「富士川砂防事務所」/ Arakura, Hayakawa-cho, Minamikoma-gun, Yamanashi "Fujikawa Sabo Office"<br>https://livecamera.fujiyamasan.com/yamanashi-tsuzuragouchi-hayakawa-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3387617,35.4717227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早川町防災ライブカメラ / Hayakawa Town Disaster Prevention Live Camera</name>
+        <description><![CDATA[〒409-2732 山梨県南巨摩郡早川町高住７５８ 早川町役場 / 758 Koju, Hayakawa-cho, Minamikoma-gun, Yamanashi 409-2732 Hayakawa Town Hall<br>https://livecamera.fujiyamasan.com/yamanashi-hayakawa-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.3631392,35.412653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号古屋敷ライブカメラ / National highway No. 52 Furuyashiki live camera</name>
+        <description><![CDATA[〒409-2523 山梨県南巨摩郡身延町波木井 「甲府河川国道事務所」/ Hakii, Minobu-cho, Minamikoma-gun, Yamanashi 409-2523 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/hakii-r52-furuyashiki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4462495,35.3807203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川南部ライブカメラ / Fuji River Southern Part Live Camera</name>
+        <description><![CDATA[山梨県南巨摩郡南部町南部 「甲府河川国道事務所」/ Nambu, Nambu Town, Minamikoma District, Yamanashi Prefecture, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-fujiriver-nambu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4588459,35.2819755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号万沢ライブカメラ / National highway No. 52 Manzawa live camera</name>
+        <description><![CDATA[〒409-2103 山梨県南巨摩郡南部町万沢 「甲府河川国道事務所」/ Manzawa, Nambu-cho, Minamikoma-gun, Yamanashi 409-2103 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-nambu-manzawa-r52.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5168527,35.2034511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号切久保峠ライブカメラ / National highway No. 52 Kirikubo pass live camera</name>
+        <description><![CDATA[〒409-2103 山梨県南巨摩郡南部町万沢 「甲府河川国道事務所」/ Manzawa, Nambu-cho, Minamikoma-gun, Yamanashi 409-2103 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-kirikubopass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5157369,35.2063002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号大和峠ライブカメラ / National highway No. 52 Owa Pass live camera</name>
+        <description><![CDATA[〒409-2213 山梨県南巨摩郡南部町大和 大和峠「甲府河川国道事務所」/ Owa Pass, Owa, Nambu Town, Minamikoma District, Yamanashi Prefecture 409-2213, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-nambu-owa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4535894,35.2712707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号相又ライブカメラ / National highway No. 52 Aimata live camera</name>
+        <description><![CDATA[〒409-2211 山梨県南巨摩郡南部町中野 「甲府河川国道事務所」/ Nakano, Nambu-cho, Minamikoma-gun, Yamanashi 409-2211 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-nambu-nakano.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4462495,35.3079006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号富士川大橋西交差点ライブカメラ / National highway No. 52 Fujikawa Ohashi west intersection live camera</name>
+        <description><![CDATA[山梨県富士川町青柳町1161-1 ローソン 富士川増穂インター店駐車場 「山梨県南アルプス市・富士川町道路ライブカメラ」/ Lawson Fujikawa Masuho Inter Store Parking Lot, 1161-1 Aoyagimachi, Fujikawa Town, Yamanashi Prefecture, "Live camera on the road in Fujikawa Town, Minami Alps City, Yamanashi Prefecture"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-fujikawa-aoyagi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4707459,35.5589291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号増穂ライブカメラ / National highway No. 52 Masuho live camera</name>
+        <description><![CDATA[〒400-0601 山梨県南巨摩郡富士川町鰍沢「甲府河川国道事務所」/ Kajikazawa, Fujikawa-cho, Minamikoma-gun, Yamanashi 400-0601<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-fujikawa-kajikazawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4462495,35.530725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道52号箱原ライブカメラ / National highway No. 52 Hakobara live camera</name>
+        <description><![CDATA[〒400-0604 山梨県南巨摩郡富士川町箱原 「甲府河川国道事務所」/ Hakobara, Fujikawa-cho, Minamikoma-gun, Yamanashi 400-0604 "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/yamanashi-r52-fujikawa-hakobara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4512446,35.5101065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央自動車道談合坂サービスエリアライブカメラ / Chuo Expressway Dangozaka Service Area Live Camera</name>
+        <description><![CDATA[〒409-0125 山梨県上野原市野田尻 中央自動車道　談合坂SA (下り) 「中日本高速道路」/ Chuo Expressway Dangozaka SA (down), Notajiri, Uenohara City, Yamanashi Prefecture 409-0125<br> "Central Nippon Expressway"<br>https://livecamera.fujiyamasan.com/dangozaka-sa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0639344,35.6328407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央自動車道初狩パーキングエリアライブカメラ / Chuo Expressway Hatsukari Parking Area Live Camera</name>
+        <description><![CDATA[〒401-0021 山梨県大月市初狩町下初狩１３８２　初狩PA (下り) 「中日本高速道路」/ Hatsukari PA (down), 1382 Shimohatsukari, Hatsukari-machi, Otsuki-shi, Yamanashi 401-0021  "Central Nippon Expressway"<br>https://livecamera.fujiyamasan.com/hatsukari-parking-area.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8853379,35.5998674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号梁川ライブカメラ / National Highway No. 20 Yanagawa Live Camera</name>
+        <description><![CDATA[〒409-0504 山梨県大月市梁川町新倉　「甲府河川国道事務所」/ Niikura, Yanagawamachi, Otsuki City, Yamanashi Prefecture 409-0504<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/r20-yanagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0589836,35.6119432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号笹子ライブカメラ / National Highway No. 20 Sasago Live Camera</name>
+        <description><![CDATA[〒401-0023 山梨県大月市笹子町白野「甲府河川事務所」/ Shirano, Sasagomachi, Otsuki City, Yamanashi Prefecture 401-0023 "Kofu River Office"<br>https://livecamera.fujiyamasan.com/r20-sasago.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8447708,35.5897791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号初狩ライブカメラ / National Route 20 Hatsukari Live Camera</name>
+        <description><![CDATA[山梨県大月市初狩町「甲府河川事務所」/ Hatsukarimachi, Otsuki City, Yamanashi Prefecture, "Kofu River Office"<br>https://livecamera.fujiyamasan.com/r20-hatsukari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8749635,35.6022629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道139号田野倉ライブカメラ / National Highway 139 Tanokura Live Camera</name>
+        <description><![CDATA[〒402-0001 山梨県都留市田野倉「甲府河川国道事務所」/ Tanokura, Tsuru City, Yamanashi Prefecture 402-0001, "Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/r139-tanokura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9379168,35.5940613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K0右岸ライブカメラ / Kamanashi River K0 Right Bank Live Camera</name>
+        <description><![CDATA[〒400-0604 山梨県南巨摩郡富士川町箱原「河川情報センター」/ Hakobara, Fujikawa-cho, Minamikoma-gun, Yamanashi 400-0604<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k0.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4584543,35.5094561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K2左岸ライブカメラ / Kamanashi River K2 left bank live camera</name>
+        <description><![CDATA[山梨県富士川町鹿島「河川情報センター」/ Kashima, Fujikawa Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4606294,35.5120537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K5右岸ライブカメラ / Kamanashi River K5 Right Bank Live Camera</name>
+        <description><![CDATA[〒400-0604 山梨県南巨摩郡富士川町箱原「河川情報センター」/ Hakobara, Fujikawa-cho, Minamikoma-gun, Yamanashi 400-0604<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k5.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4549657,35.5151592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K40左岸ライブカメラ / Kamanashi River K40 Left Bank Live Camera</name>
+        <description><![CDATA[〒400-0602 山梨県南巨摩郡富士川町駅前通「河川情報センター」/ Ekimaedori, Fujikawa-cho, Minamikoma-gun, Yamanashi 400-0602<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k40.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4639218,35.5410263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K50右岸ライブカメラ / Kamanashi River K50 right bank live camera</name>
+        <description><![CDATA[山梨県富士川町青柳町「河川情報センター」/ Aoyagimachi, Fujikawa Town, Yamanashi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4688276,35.5508737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H129右岸ライブカメラ / Fuji River H129 Right Bank Live Camera</name>
+        <description><![CDATA[山梨県南巨摩郡南部町万沢「河川情報センター」/ Manzawa, Nambu Town, Minamikoma District, Yamanashi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/manzawa-fujikawa-h129.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5116567,35.2270931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H169右岸ライブカメラ / Fuji River H169 right bank live camera</name>
+        <description><![CDATA[山梨県南部町南部「河川情報センター」/ Nanbu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/nambu-fujikawa-h169.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4577965,35.2805031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H174右岸ライブカメラ / Fuji River H174 right bank live camera</name>
+        <description><![CDATA[山梨県南部町南部「河川情報センター」/ Nanbu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/nambu-fujikawa-h174.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4570066,35.2893266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H175左岸ライブカメラ / Fuji River H175 Left Bank Live Camera</name>
+        <description><![CDATA[山梨県南巨摩郡南部町内船「河川情報センター」/ Utsubuna, Nambu Town, Minamikoma District, Yamanashi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/utsubuna-fujikawa-h175.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4584126,35.2921719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H181右岸ライブカメラ / Fuji River H181 right bank live camera</name>
+        <description><![CDATA[山梨県南部町中野「河川情報センター」/ Nakano, Nambu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/nambu-fujikawa-h181.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4513194,35.3020007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K194右岸ライブカメラ / Kamanashi River K194 Right Bank Live Camera</name>
+        <description><![CDATA[山梨県南アルプス市上高砂「河川情報センター」/ Kamitakasuna, Minami Alps City, Yamanashi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/kamanashi-river-k194.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4932029,35.6733961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H205右岸ライブカメラ / Fuji River H205 right bank live camera</name>
+        <description><![CDATA[〒409-2533 山梨県南巨摩郡身延町清子 「河川情報センター」/ Seigo, Minobu-cho, Minamikoma-gun, Yamanashi 409-2533 "River Information Center"<br>https://livecamera.fujiyamasan.com/seigo-fujikawa-h205.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.447094,35.3412481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H206左岸ライブカメラ / Fuji River H206 Left Bank Live Camera</name>
+        <description><![CDATA[山梨県身延町和田 「河川情報センター」/ Wada, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/wada-fujikawa-h206.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4469438,35.3444162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H210左岸ライブカメラ / Fuji River H210 left bank live camera</name>
+        <description><![CDATA[山梨県身延町和田 「河川情報センター」/ Wada, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/wada-fujikawa-h210.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4424162,35.3478466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H224右岸ライブカメラ / Fuji River H224 right bank live camera</name>
+        <description><![CDATA[山梨県身延町大野「河川情報センター」/ Ono, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/ono-fujikawa-h224.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4499832,35.3665714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H226左岸ライブカメラ / Fuji River H226 left bank live camera</name>
+        <description><![CDATA[山梨県身延町丸滝「河川情報センター」/Marutaki, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/marutaki-fujikawa-h226.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4535477,35.3703324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H230右岸ライブカメラ / Fuji River H230 right bank live camera</name>
+        <description><![CDATA[山梨県身延町波木井「河川情報センター」/ Hakii, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/hakii-fujikawa-h230.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4481777,35.3772282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H233左岸ライブカメラ / Fuji River H233 Left Bank Live Camera</name>
+        <description><![CDATA[山梨県身延町帯金「河川情報センター」/ Obikane, Minobu Town, Yamanashi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/obikane-fujikawa-h233.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4520279,35.3850388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H274左岸ライブカメラ / Fuji River H274 Left Bank Live Camera</name>
+        <description><![CDATA[山梨県身延町宮木「河川情報センター」/ Miyaki, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/miyaki-fujikawa-h274.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4443017,35.4458625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H300右岸ライブカメラ / Fuji River H300 right bank live camera</name>
+        <description><![CDATA[山梨県身延町西嶋「河川情報センター」/ Nishijima, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/nishijima-fujikawa-h300.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4537742,35.4885864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H303右岸ライブカメラ / Fuji River H303 right bank live camera</name>
+        <description><![CDATA[山梨県身延町西嶋「河川情報センター」/ Nishijima, Minobu Town, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/nishijima-fujikawa-h303.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.451607,35.4930256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川H302左岸ライブカメラ</name>
+        <description><![CDATA[山梨県市川三郷町岩間「河川情報センター」<br>https://livecamera.fujiyamasan.com/iwama-fujikawa-h302.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4553621,35.4927332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士川F52右岸ライブカメラ / Fuji River F52 right bank live camera</name>
+        <description><![CDATA[山梨県中央市大田和「河川情報センター」/ Odawa, Chuo City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/odawa-fujikawa-f52.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5287429,35.5813241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜無川K181左岸ライブカメラ / Kamanashi River K181 Left Bank Live Camera</name>
+        <description><![CDATA[山梨県甲斐市竜王「河川情報センター」/ Ryuo, Kai City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/ryuo-kamanashi-river-k181.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.502613,35.6636516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平等川岩下橋ライブカメラ / Byodo River Iwashita Bridge Live Camera</name>
+        <description><![CDATA[山梨県山梨市上岩下 「河川情報センター」/ Kamiiwashita, Yamanashi City, Yamanashi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/kamiiwashita-byodo-river-iwashita-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6581722,35.685102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笛吹川亀甲橋ライブカメラ / Fuefuki River Kikkoubashi Live Camera</name>
+        <description><![CDATA[〒405-0006 山梨県山梨市小原西「甲府河川国道事務所」/ Kobaranishi, Yamanashi City, Yamanashi Prefecture 405-0006<br>"Kofu River National Highway Office"<br>https://livecamera.fujiyamasan.com/fuefuki-river-kikkou-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6909147,35.693712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北河口湖観光協会第1・第2ライブカメラ / Kitakawaguchiko Tourism Association 1st and 2nd live cameras</name>
+        <description>〒401-0304 山梨県南都留郡富士河口湖町河口３１３１−２ 北河口湖観光協会 / Kitakawaguchiko Tourism Association, 3131-2 Kawaguchi, Fujikawaguchiko-cho, Minamitsuru-gun, Yamanashi Prefecture  401-0304</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.770704,35.5174867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

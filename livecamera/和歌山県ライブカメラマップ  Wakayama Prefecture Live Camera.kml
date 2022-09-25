@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>和歌山県ライブカメラマップ / Wakayama Prefecture Live Camera</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>和歌山県内ライブカメラ</name>
+      <Placemark>
+        <name>紀の川フライトパーク / Kinokawa Flight Park</name>
+        <description>〒649-6413 和歌山県紀の川市竹房391 / 391 Takebusa, Kinokawa-shi, Wakayama 649-6413</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3736853,34.2497142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根来寺ライブカメラ / Negoroji Temple Live Camera</name>
+        <description>〒649-6202 和歌山県岩出市根来２２８６ 根来寺 / Negoroji Temple, 2286 Negoro, Iwade-shi, Wakayama-ken 649-6202</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.316672,34.287166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波情報ライブ映像 / Wave information live image</name>
+        <description>〒640-0114 和歌山県和歌山市磯の浦 磯の浦海水浴場 / Isonoura Beach, Isonoura, Wakayama-shi, Wakayama-ken 640-0114</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.0948048,34.2590132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磯の浦ライブカメラ / Isonoura Live Camera</name>
+        <description><![CDATA[和歌山県和歌山市磯の浦 「和歌山県サーフィン連盟」 / Isonoura, Wakayama-shi, Wakayama, "Wakayama Prefecture Surfing Federation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.089264,34.260692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紀州加太からみた紀淡海峡 / Kitan Strait from Kishu Kada</name>
+        <description><![CDATA[和歌山県和歌山市深山 「インターネット自然研究所」 / Miyama, Wakayama-shi, Wakayama-ken, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.071497,34.278496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海南市防災災害情報カメラ / Kainan City Disaster Prevention and Disaster Information Camera</name>
+        <description>〒642-8501 和歌山県海南市南赤坂11番地 海南市役所 / Kainan City Hall, 11 Minamiakasaka,  Kainan-shi, Wakayama-ken 642-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.2395751,34.1575747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根来寺ライブカメラ / Negoroji Live Camera</name>
+        <description>和歌山県岩出市西野２０９ 岩出市役所 / Iwade City Hall, 209 Nishino, Iwade-shi, Wakayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.311437,34.256294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九度山町防災用河川ライブカメラ / Kudoyama Town Disaster Prevention River Live Camera</name>
+        <description>〒648-0101 和歌山県伊都郡九度山町九度山１１９０　九度山町役場 / Kudoyama Town Hall, 1190 Kudoyama, Kudoyama-cho, Ito-gun, Wakayama-ken 648-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5622404,34.287191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高町水門カメラ / Hidaka Water Gate Camera</name>
+        <description>〒649-1213 和歌山県日高郡日高町高家６２６ 日高町役場 / Hidaka Town Hall, 626 Takaie, Hidaka-cho, Hidaka-gun, Wakayama-ken 649-1213</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.141084,33.925682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由良町ライブカメラ / Yura Town Live Camera</name>
+        <description>〒649-1111 和歌山県日高郡由良町里１２２０−１由良町役場 / Yura Town Hall, 1220-1 Sato, Yura-cho, Hidaka-gun, Wakayama-ken 649-1111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1183509,33.9592254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みなべ町防災災害カメラ / Minabe Town Disaster Prevention Camera</name>
+        <description>〒645-0002 和歌山県日高郡みなべ町芝７４２ みなべ町役場 / Minabe Town Hall, 742 Shiba, Minabe-cho, Hidaka-gun, Wakayama-ken 645-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.321436,33.77237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野龍神スカイライン 護摩壇山付近の様子 / Koya Ryujin Skyline, A view of Mt. Gomadan</name>
+        <description>〒645-0415 和歌山県田辺市龍神村西376 田辺市龍神行政局 1F 龍神観光協会 / Tanabe City Ryujin Administrative Bureau 1F Ryujin Tourist Association, 376 Ryujin-mura Nishi, Tanabe-shi, Wakayama-ken 645-0415</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.488543,33.89379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍神行政局ライブカメラ / Ryujin Administrative Authority Live Camera</name>
+        <description>〒645-0415 和歌山県田辺市龍神村西３７６ 龍神行政局 / Ryujin Gyoseikyoku (Administrative Authority), 376 Ryujin Muranishi, Tanabe-shi, Wakayama 645-0415</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.48857,33.89377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釣太郎ライブカメラ / Tsuritaro Live Camera</name>
+        <description>〒645-0003 和歌山県日高郡みなべ町堺677-3　釣太郎みなべ店 / Tsuritaro Minabe, 677-3 Sakai, Minabe-cho, Hidaka-gun, Wakayama-ken 645-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3344498,33.7455212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ田辺市目良元島 天神崎 （釣太郎提供）</name>
+        <description>和歌山県田辺市目良　「釣太郎」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3509344,33.7303827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上富田町防災・観光カメラ / Kamitonda Town Disaster Prevention and Sightseeing Cameras</name>
+        <description>〒649-2105 和歌山県西牟婁郡上富田町朝来７６３ 上富田町役場 / Kamitonda Town Hall, 763 Asso, Kamitonda-cho, Nishimuro-gun, Wakayama-ken 649-2105</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4288529,33.6964228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋上から見た白良浜 / Shirarahama seen from rooftop</name>
+        <description>〒649-2211 和歌山県西牟婁郡白浜町868 ホテルむさし / Hotel Musashi, 868 Shirahama-cho, Nishimuro-gun, Wakayama-ken 649-2211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.344138,33.685211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三段壁ライブカメラ / Sandanbeki Live Camera</name>
+        <description>〒649-2211 和歌山県西牟婁郡白浜町（その他）２９２７−５２ 三段壁洞窟 / Sandanbeki Cave, 2927-52 Shirahama-cho, Nishimuro-gun, Wakayama-ken 649-2211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3356674,33.6660255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釣太郎 白浜店 / Tsuritaro Shirahama Shop</name>
+        <description>〒649-2325 和歌山県西牟婁郡白浜町富田袋谷1552-2 / 1552-2 Tonda Fukurodani, Shirahama-cho, Nishimuro-gun, Wakayama 649-2325</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3996706,33.6334785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝の拝ライブカメラ / Takinohai Live Camera</name>
+        <description><![CDATA[〒649-4216 和歌山県東牟婁郡古座川町小川　滝の拝　「古座川町役場」/ Takinohai, Kogawa, Kozagawa-cho, Higashimuro-gun, Wakayama-ken 649-4216, "Kozagawa Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7656275,33.6026306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七川ダムライブカメラ / Shichikawa Dam Live Camera</name>
+        <description><![CDATA[〒649-4442 和歌山県東牟婁郡古座川町佐田１０１６　七川ダム管理事務所　「古座川町役場」/ Shichikawa Dam Management Office, 1016 Sada, Kozagawa-cho, Higashimuro-gun, Wakayama-ken 649-4442, "Kozagawa Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6880755,33.5912275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古座川町ライブカメラ / Kozagawa Town Live Camera</name>
+        <description>〒649-4104 和歌山県東牟婁郡古座川町高池６７３−２ 古座川町役場 / Kozagawa Town Hall, 673-2 Takaike, Kozagawa-cho, Higashimuro-gun, Wakayama-ken 649-4104</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.814791,33.5318703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串本海中公園（海中景観）ライブカメラ / Kushimoto Marine Park (Underwater Landscape) Live Camera</name>
+        <description>〒649-3514 和歌山県東牟婁郡串本町有田1157  串本海中公園 / Kushimoto Marine Park, 1157 Arita, Kushimoto-cho, Higashimuro-gun, Wakayama-ken 649-3514</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7448951,33.4808355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和歌山県串本の海・ライブ映像（リヴァージュ・スパひきがわ内、釣太郎提供）　</name>
+        <description>〒649-2511 和歌山県西牟婁郡 白浜町日置１０１３−２５　リヴァージュ・スパひきがわ</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4283782,33.571636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の串本の海 / The Sea of Kushimoto</name>
+        <description>和歌山県東牟婁郡串本町高富 オレンジハウス / ORANGE HOUSE, Takatomi, Kushimoto-cho, Higashimuro-gun, Wakayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.754323,33.483286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宮市ライブカメラ / Shingu City Live Camera</name>
+        <description>〒647-8555 和歌山県新宮市春日1-1 新宮市役所 / Shingu City Hall, 1-1 Kasuga, Shingu-shi, Wakayama-ken 647-8555</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.99231,33.724358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串本町ライブカメラ / Kushimoto Town Live Camera</name>
+        <description>和歌山県東牟婁郡串本町串本１８００ 串本町役場 / Kushimoto Town Hall, 1800 Kushimoto, Kushimoto-cho, Higashimuro-gun, Wakayama</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.781574,33.472547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串本町桟橋からの天気カメラ / Weather camera from Kushimoto-cho pier</name>
+        <description><![CDATA[〒649-3503 和歌山県東牟婁郡串本町串本１７３５−６７ 民宿ちゃいむ / Guest House "Chime", 1735-67 Kushimoto, Kushimoto-cho, Higashimuro-gun, Wakayama-ken 649-3503]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7814987,33.4688329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和歌山県串本の海・ライブ映像（釣太郎提供）</name>
+        <description>〒649-3502 和歌山県東牟婁郡串本町潮岬１１５９　浜中渡船待合所　「釣太郎」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7702708,33.4475601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮岬風力実験所からの眺望 / View from Shionomisaki Wind Effect Laboratory</name>
+        <description>〒649-3502 和歌山県東牟婁郡串本町潮岬３３４９−１３４　京都大学農学部 附属亜熱帯植物実験所防災研究所潮岬風力実験所 / Kyoto University Faculty of Agriculture Subtropical Plant Laboratory Disaster Prevention Research Institute Shionomisaki Wind Effect Laboratory, 3349-134 Shionomisaki, Kushimoto-cho, Higashimuro-gun, Wakayama-ken 649-3502</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.756561,33.4472952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮岬灯台からの映像 / Shionomisaki Lighthouse Live Camera</name>
+        <description>〒649-3502 和歌山県東牟婁郡串本町潮岬２８７７ 潮岬灯台 田辺海上保安部 / Shionomisaki Lighthouse of Tanabe Coast Guard, 2877 Shionomisaki, Kushimoto-cho, Higashimuro-gun, Wakayama-ken 649-3502</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7542586,33.4376103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道42号ライブカメラ / National Route 42 Live Camera</name>
+        <description>〒646-0003 和歌山県田辺市中万呂１４２ 国土交通省近畿地方整備局 紀南河川国道事務所 / Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau Kinan River National Highway Office, 142 Nakamaro, Tanabe-shi, Wakayama-ken 646-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.398291,33.736085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南紀白浜町日置の海ライブカメラ / Nanki Shirahama Town Hiki Sea Live Camera </name>
+        <description><![CDATA[〒649-2511 和歌山県西牟婁郡白浜町日置　日置海岸　「釣太郎」 /  Hiki Beach,  Hiki, Shirahama-cho, Nishimuro-gun, Wakayama Prefecture 649-2511, " Tsuttarou Inc."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4386424,33.5666335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

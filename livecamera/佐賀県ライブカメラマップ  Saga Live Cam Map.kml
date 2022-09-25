@@ -1,0 +1,2045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>佐賀県ライブカメラマップ / Saga Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>佐賀県内ライブカメラ</name>
+      <Placemark>
+        <name>玄海町　浜野浦の棚田 / Terraced Rice Fields in Hamanoura, Genkai</name>
+        <description>佐賀県東松浦郡玄海町浜野浦 「佐賀広域観光なび」 / Hamanoura, Genkai-cho, Higashi Matsuura-gun, Saga, Saga Regional Tourism Navi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.847155,33.491124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玄海町ライブカメラ / Genkai Town Live Camera</name>
+        <description>〒847-1421 佐賀県東松浦郡玄海町諸浦３４８ 玄海町役場 / Genkai Town Office, 348 Moroura, Genkai-cho, Higashimatsuura-gun, Saga-ken 847-1421</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.874685,33.472171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぴーぷるライブカメラ / People Live Camera</name>
+        <description>〒847-0871 佐賀県唐津市東大島町３番１１号　（株）唐津ケーブルテレビジョン / Karatsu Cable Television Corporation., 3-11 Higashioshima-cho, Karatsu-shi, Saga-ken 847-0871</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.963625,33.471472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐津ライブカメラ / Karatsu City</name>
+        <description>〒847-0014 佐賀県唐津市西城内１−１ 唐津市役所 / Karatsu City Hall, 1-1 Nishijonai, Karatsu-shi, Saga-ken 847-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.968133,33.450206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐津城の桜・藤の花 / Karatsu-jo Castle, Karatsu Baseball Field</name>
+        <description><![CDATA[〒847-0016 佐賀県唐津市東城内８−１ 唐津城  「ぴ～ぷるライブカメラ」 / 8 Higashijonai, Karatsu-shi, Saga-ken 847-0016, "People Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9781962,33.4535273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>観音の滝ライブカメラ / Kannon Waterfall</name>
+        <description>佐賀県唐津市 唐津市役所 / Karatsu City, Saga, Karatsu City Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.130138,33.435166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見帰りの滝 / Mikaeri no Taki (Waterfall), Karatsu</name>
+        <description>佐賀県唐津市相知町伊岐佐 唐津市役所 / Ikisa, Ochi-cho, Karatsu City, Saga 849-3223, Karatsu City Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.039158,33.367739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木ダムライブカメラ / Kyuragi Dam, Karatsu City</name>
+        <description>〒849-3111 佐賀県唐津市厳木町広瀬446−4 厳木ダム管理所 / Kyuragi Dam Office, 446-4 Hirose, Kyuragi-machi, Karatsu-shi, Saga-ken 849-3111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.10293,33.326512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道263号三瀬トンネル / National Highway Route 263, Mitsuse Tunnel</name>
+        <description><![CDATA[佐賀県佐賀市三瀬村三瀬 三瀬トンネル 「佐賀県道路公社」 / Mitsuse Tunnel, Mitsuse, Mitsuse-mura, Saga-shi, Saga-ken, "Saga Road Public Corporation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.275922,33.463382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道385号東脊振トンネル道路情報  / National Route 385 Higashisefuri Tunnel Road Information</name>
+        <description>〒842-0101 佐賀県神埼郡吉野ヶ里町松隈１７３９−５ 東脊振トンネル有料道路料金所 佐賀県道路公社 / Higashisefuri Tunnel Toll Road Toll Gate of Saga Road Public Corporation, 1739-5 Matsukuma, Yoshinogari-cho, Kanzaki-gun, Saga-ken 842-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.39602,33.38856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>どんどんどんの森 / Don 3 no Mori (Don-Don-Don no Mori), Saga City</name>
+        <description>〒840-8585 佐賀県佐賀市天神3丁目2-23 （株）佐賀新聞社 / Saga Shimbun Co., Ltd., 3-2-23 Tenjin, Saga-shi, Saga-ken 840-8585</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2905774,33.2617555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎自動車道金立SA (上り)ライブカメラ / Nagasaki Motor Road Kinryu SA (Uplink) Live Camera</name>
+        <description><![CDATA[〒849-0906 佐賀県佐賀市金立町大字金立 長崎自動車道金立SA (上り)　「西日本高速道路株式会社 大分高速道路事務所」 / Nagasaki Motor Road Kinryu SA (Uplink), Kinryu, Kinryu-machi, Saga-shi, Saga-ken 849-0906, "West Japan Highway Co., Ltd. Oita Expressway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3111372,33.3295954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小城市水害監視カメラシステム / Ogi City Flood Monitoring Camera System</name>
+        <description>〒845-8511　佐賀県小城市三日月町長神田2312番地2 小城市役所 / Ogi City Hall, 2312-2 Chokanda, Mikaduki-cho, Ogi-shi, Saga 845-8511</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2168403,33.2737175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊万里湾カブトガニ繁殖地 ライブカメラ / Imari Bay horseshoe crab field live camera</name>
+        <description><![CDATA[〒848-0043 佐賀県伊万里市木須町　多々良海岸 「伊万里ケーブルテレビジョン株式会社ライブ配信」/ Tadara Coast, Kisu-cho, Imari-shi, Saga-ken 848-0043, "Imari Cable Television Ltd. Live distribution "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8530199,33.2942968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ケーブルワン防災チャンネルウェブサイト / Cable One Disaster Prevention Channel Web Site</name>
+        <description>〒843-0023 佐賀県武雄市武雄町大字昭和３６０　（株）ケーブルワン / Cable One Corporation, 360 Showa, Takeo-cho, Takeo-shi, Saga-ken 843-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.029305,33.1931464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐賀県ライブカメラ太良町</name>
+        <description><![CDATA[佐賀県藤津郡太良町<br>USTREAM]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.178933,33.019459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路情報ライブカメラ / Road Information Live Camera</name>
+        <description>〒849-0924 佐賀県佐賀市新中町５−１０　国土交通省 九州地方整備局 佐賀国道事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Saga National Highway Office, 5-10 Shinnaka-machi, Saga-shi, Saga-ken 849-0924</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.298091,33.274773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐賀市防災情報カメラ / Saga City disaster prevention information camera</name>
+        <description>〒840-0803 佐賀県佐賀市栄町１−１ 佐賀市役所 / Saga City Hall, 1-1 Sakae-machi, Saga-shi, Saga-ken 840-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.300838,33.263546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄江今重橋ライブカメラ / Honjoue Imashige Bridge Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市西与賀町厘外「佐賀県庁県土整備部河川砂防課」/ Ringe, Nishiyoka Town, Saga City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.270472,33.2337235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川塩土井排水樋門ライブカメラ / Kasegawa Shiodoi drainage gutter live camera</name>
+        <description><![CDATA[佐賀県佐賀市大和町池上 「国土交通省河川情報センター」/ Ikenoue, Yamato Town, Saga City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.245078,33.2729173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早津江川戸ヶ里ライブカメラ / Hayatsuegawa River Togari Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市川副町犬井道 「川の防災情報CCTVカメラ」/ Inuido, Kawasoe Town, Saga City, Saga Prefecture, "River disaster prevention information CCTV camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3211346,33.175149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐賀江川城原川合流点ライブカメラ / Sagaegawa RiverJobaru River Confluence Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市蓮池町小松 「筑後川河川事務所」 / Komatsu, Hasuike Town, Saga City, Saga Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3722416,33.2440099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐賀江川筑後川河川事務所諸富出張所ライブカメラ / Sagae River Chikugo River Office Morotomi Branch Live Camera</name>
+        <description><![CDATA[〒840-0004 佐賀県佐賀市蓮池町小松２５０ 国土交通省 九州地方整備局 筑後川河川事務所 諸富出張所 「筑後川河川事務所」/ Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Chikugo River Office Morotomi Branch Office, 250 Komatsu, Hasuike Town, Saga City, Saga Prefecture 840-0004, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.371554,33.244457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早津江川中川副樋管ライブカメラ / Hayatsuegawa River Nakagawa Deputy Gutter Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市川副町早津江「筑後川河川事務所」/ Hayatsue, Kawasoe Town, Saga City, Saga Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3381414,33.1963514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諸富川大中島ライブカメラ / Morotomigawa Onakashima Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市諸富町徳富「筑後川河川事務所」/ Tokutomi, Morotomi Town, Saga City, Saga Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.367315,33.2238457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐賀江川筑後川合流点ライブカメラ / Sagae River Chikugo River Confluence Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市諸富町徳富「筑後川河川事務所」/ Tokutomi, Morodomi Town, Saga City, Saga Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3702773,33.2272525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有明海東与賀海岸ライブカメラ / Ariake Sea Higashi-Yoka Coast Live Camera</name>
+        <description><![CDATA[〒840-2221 佐賀県佐賀市東与賀町大字下古賀２８８５−２ 「佐賀県県土整備部河川砂防課」/  2885-2 Shimokoga, Higashiyoka-cho, Saga-shi, Saga 840-2221, "Saga Prefecture Soil Maintenance Department River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2725059,33.1741281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福富排水機場ライブカメラ / Fukutomi Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0203 佐賀県佐賀市久保田町大字新田３５７０ 福富排水機場 「佐賀市役所」/ Fukutomi Drainage Pump Station, 3570, Nitta, Kubota-cho, Saga City, Saga Prefecture 849-0203, "Saga City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2506987,33.221653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城東川佐賀県道294号薬師丸佐賀停車場線橋梁ライブカメラ / Jotogawa Saga Prefectural Road 294 Yakushimaru Saga Stop Line Bridge Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市兵庫北1丁目 「佐賀市役所」/ 1-chome, Hyogokita, Saga City, Saga Prefecture "Saga City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3103197,33.2655899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上碇川（県道松尾・佐賀停車場線の橋梁）</name>
+        <description><![CDATA[佐賀県佐賀市鍋島町八戸溝 「佐賀市防災情報」/ Yaemizo, Nabeshima Town, Saga City, Saga Prefecture "Saga City Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2684212,33.2610175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>どんどんどんの森天神橋ライブカメラ /Dondondonnomori Tenjinbashi live camera</name>
+        <description><![CDATA[佐賀県佐賀市天神3丁目 「佐賀市役所」/ 3-chome Tenjin, Saga City, Saga Prefecture<br>"Saga City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.292471,33.2594116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十間堀川（勧興公民館前）ライブカメラ / Jikkenhorigawa River (in front of Kanko Community Center) live camera</name>
+        <description><![CDATA[〒840-0814 佐賀県佐賀市成章町３−１８ 佐賀市立勧興公民館 / Saga City Kanko Community Center, 3-18, Seisho-cho, Saga-shi, Saga 840-0814, "Saga City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2976853,33.2557171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大溝川藤木橋ライブカメラ / Omizogawa Fujikibashi live camera</name>
+        <description><![CDATA[佐賀県佐賀市駅前中央3丁目 「佐賀市役所」/  3-chome, Ekimae Chuo, Saga City, Saga Prefecture, "Saga City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3042653,33.2670069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川嘉瀬川ダム上流第1ライブカメラ / Kasegawa Kasegawa dam upstream first live camera</name>
+        <description><![CDATA[佐賀県佐賀市富士町大字畑瀬 「武雄河川事務所」/ Hatase, Fuji Town, Saga City, Saga Prefecture "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2156208,33.3981544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川嘉瀬川ダム上流第2ライブカメラ / Kasegawa Kasegawa dam upstream 2nd live camera</name>
+        <description><![CDATA[〒840-0541 佐賀県佐賀市富士町大字関屋 「武雄河川事務所」/ Sekiya, Fuji Town, Saga City, Saga Prefecture 840-0541,  ``Takeo River Office'' ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2322362,33.4140283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川嘉瀬川ダム上流第3ライブカメラ / Kasegawa Kasegawa dam upstream 3rd live camera</name>
+        <description><![CDATA[〒840-0531 佐賀県佐賀市富士町大字栗並 「武雄河川事務所」/  Kurinami, Fuji Town, Saga City, Saga Prefecture 840-0531, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1913283,33.4017114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川嘉瀬川ダム上流第4ライブカメラ / Kasegawa Kasegawa dam upstream 4th live camera</name>
+        <description><![CDATA[〒840-0533 佐賀県佐賀市富士町大字大串 「武雄河川事務所」/  Ogushi, Fuji Town, Saga City, Saga Prefecture 840-0533, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.183655,33.4164483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川大堰ライブカメラ / Kasegawa Oyan Live Camera</name>
+        <description><![CDATA[〒849-0203 佐賀県佐賀市久保田町大字新田８６  「武雄河川事務所」/ 86 Nitta, Kubota Town, Saga City, Saga Prefecture 849-0203, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2438234,33.2391174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川嘉瀬川ダム堤体下流ライブカメラ / Kasegawa Kasegawa dam downstream camera live camera</name>
+        <description><![CDATA[佐賀県佐賀市富士町大字畑瀬「武雄河川事務所」/ Hatase, Fuji Town, Saga City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2172087,33.3981186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川東山田ライブカメラ / Kasegawa Higashiyamada Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市大和町大字東山田「武雄河川事務所」/ Higashiyamada, Yamato-cho, Saga City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2654531,33.3047106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川荻野ライブカメラ / Kasegawa Ogino Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市嘉瀬町荻野 「武雄河川事務所」/ Ogino, Kase Town, Saga City, Saga Prefecture "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2501246,33.2541971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川川上ライブカメラ / Kasegawa Kawakami Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市大和町大字川上「武雄河川事務所」/  Kawakami, Yamato-cho, Saga City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2552345,33.3180907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早津江川川副大橋ライブカメラ / Hayatsuegawa Kawasoe Ohashi Live Camera</name>
+        <description><![CDATA[佐賀県佐賀市川副町大字大詫間 川副大橋 「筑後川河川事務所」/ Kawazoe-Ohashi, Odakuma, Kawasoe Town, Saga City, Saga Prefecture,  "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3379642,33.1835364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道208号諸富橋ライブカメラ / National highway No. 208 Morotomi Bridge live camera</name>
+        <description><![CDATA[〒840-2105 佐賀県佐賀市諸富町大字諸富津 「佐賀国道事務所」/ Morodomitsu, Morodomi-cho, Saga City, Saga Prefecture 840-2105, "Saga National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3628555,33.2220284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号嘉瀬橋ライブカメラ / National highway No. 34 Kasebashi live camera</name>
+        <description><![CDATA[佐賀県佐賀市嘉瀬町荻野 嘉瀬橋「佐賀国道事務所」/ Kasebashi, Ogino, Kase Town, Saga City, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2431342,33.2459427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安良川幸津橋ライブカメラ / Arakawa River Saitsu Bridge Live Camera</name>
+        <description><![CDATA[佐賀県鳥栖市轟木町 「佐賀県庁県土整備部河川砂防課」/ Todoroki Town, Tosu City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4976753,33.3618821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝満川大木川水門ライブカメラ / Homan River Oki River Sluice Live Camera</name>
+        <description><![CDATA[佐賀県鳥栖市水屋町「国土交通省河川情報センター」/ Mizuya Town, Tosu City, Saga Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5272576,33.3431467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前川排水機場内水位ライブカメラ / Maegawa drainage pump water level live camera</name>
+        <description><![CDATA[〒841-0046 佐賀県鳥栖市真木町 「筑後川河川事務所」/ Maki Town, Tosu City, Saga Prefecture 841-0046, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5146617,33.3446841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝満川轟木排水機場内水位ライブカメラ / Homan River Todoroki Drainage Pump Station Water Level Live Camera</name>
+        <description><![CDATA[〒841-0046 佐賀県鳥栖市真木町「筑後川河川事務所」/ Maki Town, Tosu City, Saga Prefecture 841-0046, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5116728,33.345228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安良川喜平橋ライブカメラ / Arakawa Kihirabashi Live Camera</name>
+        <description><![CDATA[〒841-0061 佐賀県鳥栖市轟木町「筑後川河川事務所」/ Todoroki-cho, Tosu City, Saga Prefecture 841-0061, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4999942,33.3634497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号田代橋ライブカメラ / National highway No. 34 Tashirobashi live camera</name>
+        <description><![CDATA[佐賀県鳥栖市田代昌町 田代橋 「佐賀国道事務所」/ Tashirobashi, Tashiro-cho, Tosu City, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5274176,33.3938295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道鳥栖ジャンクション大分方面ライブカメラ / Kyushu Expressway Tosu Junction Oita Live Camera</name>
+        <description><![CDATA[〒841-0011 佐賀県鳥栖市永吉町 鳥栖JCT 「NEXCO西日本」/ Tosu JCT, Nagayoshi Town, Tosu City, Saga Prefecture 841-0011, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5383557,33.3967064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号轟木佐賀側ライブカメラ / National highway No. 34 Todoroki Saga side live camera</name>
+        <description><![CDATA[佐賀県鳥栖市轟木町 「佐賀国道事務所」/ Todoroki-cho, Tosu City, Saga Prefecture "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5015606,33.3646325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今出川今出橋ライブカメラ / Imadegawa Imadebashi Live Camera</name>
+        <description><![CDATA[佐賀県多久市北多久町多久原大工田 「佐賀県庁県土整備部河川砂防課」/ Takubaru, Taku Town, Taku City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.125514,33.2882009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川道祖元第2樋管ライブカメラ / Ushidugawa River Sayanomoto No.2 Hikan Live Camera</name>
+        <description><![CDATA[佐賀県多久市多久町 「国土交通省河川情報センター」/ Taku Town, Taku City, Saga Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0794364,33.258465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川晴気川合流点ライブカメラ / Ushizugawa Haruki River Confluence Live Camera </name>
+        <description><![CDATA[佐賀県多久市東多久町別府「武雄河川事務所」/ Beppu, Higashitaku Town, Taku City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1876606,33.2526335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川船津ライブカメラ / Ushizugawa Funatsu Live Camera</name>
+        <description><![CDATA[〒846-0012 佐賀県多久市東多久町大字別府「武雄河川事務所」/ Beppu, Higashitaku Town, Taku City, Saga Prefecture 846-0012, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1503923,33.2857913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川小井手堰ライブカメラ / Ushizugawa Koite Weir Live Camera</name>
+        <description><![CDATA[佐賀県多久市多久町 「武雄河川事務所」/ Taku Town, Taku City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0940595,33.2557337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川妙見橋ライブカメラ / Ushizugawa Myokenbashi live camera</name>
+        <description><![CDATA[佐賀県多久市東多久町別府羽佐間「武雄河川事務所」/ Beppu Hasama, Higashitaku Town, Taku City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1463328,33.2754712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川牟田辺排水機場越流堤ライブカメラ</name>
+        <description><![CDATA[〒846-0024 佐賀県多久市南多久町 「武雄河川事務所」/ Minamitaku Town, Taku City, Saga Prefecture 846-0024, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1401146,33.2714797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川庄川ライブカメラ / Ushizugawa Shogawa Live Camera</name>
+        <description><![CDATA[佐賀県多久市南多久町「武雄河川事務所」/ Minamitaku Town, Taku City, Saga Prefecture<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1196719,33.2599806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川鰐ノ瀬ライブカメラ / Ushidugawa RIver Waninose Live Camera </name>
+        <description>佐賀県多久市南多久町下多久牟田辺 / Shimotaku Mutanabe, Minamitaku Town, Taku City, Saga Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.132474,33.2573885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川長尾ライブカメラ / Ushidugawa River Nagao Live Camera</name>
+        <description><![CDATA[佐賀県多久市南多久町 「武雄河川事務所」/ Minamitaku Town, Taku City, Saga Prefecture<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1196719,33.2599806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号赤坂大橋ライブカメラ / National highway No. 34 Akasaka Ohashi live camera</name>
+        <description><![CDATA[佐賀県多久市東多久町 「佐賀国道事務所」/ Higashitaku Town, Taku City, Saga Prefecture<br>"Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1587247,33.2871715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川武内ライブカメラ / Takeura Matsuura Live Camera</name>
+        <description><![CDATA[〒849-2342 佐賀県武雄市武内町大字真手野「佐賀県庁県土整備部河川砂防課」/ Mateno, Takeuchi-cho, Takeo-shi, Saga Prefecture 849-2342, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9761012,33.2304134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高橋川高橋ライブカメラ / Takahashi River Takahashi live camera</name>
+        <description><![CDATA[佐賀県武雄市朝日町甘久 「佐賀県庁県土整備部河川砂防課」/ Amahisa, Asahi Town, Takeo City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0390588,33.2129948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武雄市立武雄小学校ライブカメラ / Takeo City Takeo Elementary School live camera</name>
+        <description>〒843-0024 佐賀県武雄市武雄町９１５９ / 9159 Takeo-cho, Takeo-shi, Saga Prefecture 843-0024, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0186325,33.1991411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川蔵堂ライブカメラ / Rokkakugawa Kurado live camera</name>
+        <description><![CDATA[〒849-2203 佐賀県武雄市北方町芦原５８−１ 蔵堂入江排水機場 「武雄河川事務所」/ Kurado Irie drainage pumping station, 58-1 Ashihara, Kitakata Town, Takeo City, Saga Prefecture 849-2203, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.089397,33.212453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川焼米排水機場赤坂水門外水ライブカメラ / Rokkaku River Yakimai drainage pump station Akasaka Sluice outside water live camera</name>
+        <description><![CDATA[〒849-2201 佐賀県武雄市北方町９６−２ 焼米排水機場 「武雄河川事務所」/ Yakimai drainage station, 96-2 Kitakatacho, Takeo-shi, Saga 849-2201, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0884,33.214604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川大日堰ライブカメラ / Rokkakugawa Dainichi weir live camera</name>
+        <description><![CDATA[〒843-0013 佐賀県武雄市橘町「武雄河川事務所」/ Tachibana Town, Takeo City, Saga Prefecture 843-0013, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0536923,33.1793258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川潮見橋ライブカメラ / Rokkaku River Shiomibashi Live Camera</name>
+        <description><![CDATA[〒843-0013 佐賀県武雄市橘町大字大日「武雄河川事務所」/ Dainichi, Tachibana Town, Takeo City, Saga Prefecture 843-0013, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0607469,33.1766094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川川添川排水機場川添水門ライブカメラ / Rokkakugawa Kawazoe River Drainage Pump Station Kawazoe Sluice Live Camera</name>
+        <description><![CDATA[〒849-2204 佐賀県武雄市北方町 川添川排水機場「武雄河川事務所」/ Kawazoe River Drainage Station, Kitakata Town, Takeo City, Saga Prefecture 849-2204, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0574223,33.2123592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川医王寺ライブカメラ /  Rokkakugawa Ioji Temple Live Camera</name>
+        <description><![CDATA[〒849-2203 佐賀県武雄市北方町芦原3677−3 医王寺川排水機場「武雄河川事務所」/ Iojiji River Drainage Station, 3677-3 Ashihara, Kitakata Town, Takeo City, Saga Prefecture 849-2203,  "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0662804,33.212382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川新橋ライブカメラ / Rokkakugawa Shimbashi Live Camera</name>
+        <description><![CDATA[〒849-2201 佐賀県武雄市北方町大字志久 「武雄河川事務所」/ Shiku, Kitakatacho, Takeo City, Saga Prefecture 849-2201, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0739905,33.2138107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川東川水門ライブカメラ / Rokkakugawa Higashikawa Sluice Live Camera</name>
+        <description><![CDATA[〒843-0013 佐賀県武雄市橘町大字大日「武雄河川事務所」/ Dainichi, Tachibana Town, Takeo City, Saga Prefecture 843-0013<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0586011,33.1764657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川板橋排水機場屋上ライブカメラ / Rokkaku River Itabashi Drainage Pump Station Rooftop Live Camera</name>
+        <description><![CDATA[〒843-0012 佐賀県武雄市二俣「武雄河川事務所」/ Futamata, Takeo City, Saga Prefecture 843-0012, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0530201,33.2055637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武雄川高橋排水機場甘久水門ライブカメラ / Takeo River Takahashi Drainage Pump Station Amaku Sluice Live Camera</name>
+        <description><![CDATA[〒843-0001 佐賀県武雄市朝日町１５２１−６ 高橋排水機場 「武雄河川事務所」/ Takahashi Drainage Pumping Station 1521-6 Asahi-cho, Takeo City, Saga Prefecture 843-0001, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0439979,33.2080947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武雄川高橋水門ライブカメラ / Takeo River Takahashi Sluice Live Camera</name>
+        <description><![CDATA[〒843-0001 佐賀県武雄市朝日町大字甘久 「武雄河川事務所」/ Takahashi Drainage Pumping Station 1521-6 Asahi-cho, Takeo City, Saga Prefecture 843-0001, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0402377,33.2175372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武内町亀の甲松浦川ライブカメラ / Takeuchi Town Kamenokou Matsuura River Live Camera</name>
+        <description><![CDATA[〒849-2342 佐賀県武雄市武内町大字真手野 「ケーブルワン」/ Mateno, Takeuchi-cho, Takeo-shi, Saga Prefecture 849-2342, "Cable One"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9761012,33.2304134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下西山交差点ライブカメラ  / Shimonishiyama intersection live camera</name>
+        <description><![CDATA[佐賀県武雄市武雄町武雄 下西山交差点 「ケーブルワン」/ Shimonishiyama intersection,  Takeo , Takeo, Saga Prefecture, "Cable One"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0109195,33.190127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津江川牛津江ライブカメラ / Ushidue River Ushidue Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町柿樋瀬「佐賀県庁県土整備部河川砂防課」/ Kakihise, Ushizu Town, Ogi City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2001137,33.2486584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祇園川深町水位観測所ライブカメラ / Giongawa Fukamachi Water Level Observatory Live Camera</name>
+        <description><![CDATA[佐賀県小城市三日月町堀江 「国土交通省河川情報センター」/ Horie, MikadukiTown, Ogi City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2349379,33.2714996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川三条川合流点ライブカメラ / Ushidu River Sanjo River Confluence Live Camera </name>
+        <description><![CDATA[佐賀県小城市芦刈町三王崎「武雄河川事務所」/ Sanouzaki, Ashikari-machi, Ogi City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1990007,33.2222225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川船津ライブカメラ / Ushidugawa River Funatsu Live Camera</name>
+        <description><![CDATA[佐賀県小城市小城町池上「武雄河川事務所」/ Ikegami, Ogi Town, Ogi City, Saga Prefecture<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1669196,33.2766639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川砥川大橋ライブカメラ / Ushidugawa River Togawa Ohashi Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町上砥川 砥川大橋 「小城市役所」/ Togawa Ohashi, Kamitogawa, Ushizu Town, Ogi City, Saga Prefecture, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1942458,33.2465163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>晴気川船田橋ライブカメラ / Harukegawa River Funada Bridge Live Camera</name>
+        <description><![CDATA[佐賀県小城市小城町船田「小城市役所」/ Funada, Ogi Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1874918,33.2773115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川海遊ふれあいパークライブカメラ / Rokkakugawa Kaiyu Fureai Park Live Camera</name>
+        <description><![CDATA[〒849-0313 佐賀県小城市芦刈町永田３０３３−１ 海遊ふれあいパーク 「小城市役所」/ Kaiyu Fureai Park, 3033-1 Nagata, Ashikari-cho, Ogi-shi, Saga  849-0313, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2060383,33.1965628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三日月1号排水路放流口ライブカメラ / Mikaduki No. 1 drainage channel live camera</name>
+        <description><![CDATA[佐賀県小城市三日月町樋口 「小城市役所」/ Higuchi, Mikaduki Town, Ogi City, Saga Prefecture, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2139899,33.2701817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三日月1号排水路放流点ライブカメラ / Mikaduki No. 1 drainage channel discharge live camera</name>
+        <description><![CDATA[佐賀県小城市牛津町柿樋瀬 「小城市役所」/ Kakihise, Ushizu Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2172439,33.2563915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祇園川北郷水路取水口ライブカメラ / Gion River Kitago Waterway Intake Live Camera</name>
+        <description><![CDATA[佐賀県小城市小城町岩蔵「小城市役所」/ Iwakura, Ogi Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1945109,33.3091159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川水路砥川保育園北ライブカメラ / Ushizu River Waterway Togawa Nursery School North Live Camera</name>
+        <description><![CDATA[〒849-0305 佐賀県小城市牛津町上砥川１４１３−１ 小城市立砥川保育園 「小城市役所」/ Ogi City Togigawa Nursery School, 1413-1 Kamitogawa, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0305, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.180207,33.235338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津駅南2号排水路ライブカメラ / Ushizu Station South 2 Drainage Channel Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町牛津「小城市役所」/ Ushizu, Ushizu Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2006034,33.2472627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前満江地下道市道前満江線ライブカメラ / Maemae Underpass Michimae Line Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町勝「小城市役所」/ Ushizu-cho, Ogi City, Saga Prefecture "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1989013,33.2508297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>晴気川三岳寺橋ライブカメラ / Haruke River Sangakuji Bridge Live Camera</name>
+        <description><![CDATA[佐賀県小城市小城町池上「小城市役所」/ Ikegami, Ogi Town, Ogi City, Saga Prefecture<br>Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1894096,33.2655672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津江川江津樋管ライブカメラ / Ushidu River Etsu Gutter Tube Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町柿樋瀬「小城市役所」/ Kakihise, Ushizu Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2003586,33.2491167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津江川勝堰ライブカメラ / Ushizuegawa River Katsu Weir Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町勝「小城市役所」/ Ushizu Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1989341,33.2647474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津江川円長寺堰ライブカメラ / Ushizuegawa Enchoji Weir Live Camera</name>
+        <description><![CDATA[佐賀県小城市牛津町勝「小城市役所」/ Ushizu-cho, Ogi City, Saga Prefecture "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2002886,33.2551594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福所江川福所江第2排水機場Aライブカメラ / Fukushoegawa Fukushoe 2nd drainage pumping station A live camera</name>
+        <description><![CDATA[佐賀県小城市芦刈町下古賀445−3「小城市役所」/ 445-3 Shimokoga, Ashikari-machi, Ogi-shi, Saga "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.226673,33.221984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福所江川社搦排水機場ライブカメラ / Fukusho Egawa Ogarami drainage pumping station live camera</name>
+        <description><![CDATA[佐賀県小城市芦刈町下古賀 「小城市役所」/ Shimokoga, Ashikari Town, Ogi City, Saga Prefecture, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2290813,33.2009628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川一本松排水機場ライブカメラ / Ushizugawa Ipponmatsu drainage pumping station live camera</name>
+        <description><![CDATA[〒849-0314 佐賀県小城市芦刈町三王崎 一本松排水機場 「小城市役所」/ Ipponmatsu drainage pumping station, Sannozaki, Ashikari-cho, Ogi City, Saga Prefecture 849-0314, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2000557,33.215031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川戸崎排水機場ライブカメラ / Ushizugawa Tozaki Drainage Pump Station Live Camera</name>
+        <description>〒849-0314 佐賀県小城市芦刈町三王崎１２６７−１ 小城市役所 排水機場戸崎排水機場 /  Ogi City Hall Drainage Pump Station Tozaki Drainage Pump Station, 1267-1 Sannosaki, Ashikari-cho, Ogi-shi, Saga Prefecture 849-0314 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1916756,33.2177516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川三王崎排水機場Aライブカメラ / Ushizugawa Sannosaki Drainage Pump Station A Live Camera</name>
+        <description><![CDATA[〒849-0314 佐賀県小城市芦刈町三王崎１９８６−３ 小城市 三王崎排水機場 「小城市役所」/ Ogi City Sannosaki Drainage Pumping Station, 1986-3 Sannosaki, Ashikari-cho, Ogi-shi, Saga Prefecture 849-0314, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1954419,33.2240784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川川越排水機場ライブカメラ / Ushizugawa Kawagoe Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0315 佐賀県小城市芦刈町浜枝川１９７１−４「小城市役所」/ 1971-4 Hamaedakawa, Ashkarimachi, Ogi City, Saga Prefecture 849-0315 "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1915481,33.2331869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川満神排水機場ライブカメラ / Ushizugawa Manjin Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0305 佐賀県小城市牛津町上砥川１０７５−１ 小城市 満神排水機場 「小城市役所」/ Ogi-shi Manjin drainage pumping station, 1075-1 Kamitogawa, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0305, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.188301,33.235582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川友田排水機場ライブカメラ / Ushizugawa Tomoda Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0303 佐賀県小城市牛津町牛津３６７−３  小城市役所 排水機場友田排水機場 「小城市役所」/ Ogi City Hall Drainage Pump Station Tomoda Drainage Pump Station, 367-3 Ushizu, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0303, <br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.196155,33.243812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川上坪排水機場ライブカメラ / Ushizu River Kamitsubo Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0305 佐賀県小城市牛津町上砥川３８−１小城市役所 排水機場上坪排水機場 「小城市役所」/ Ogi City Hall Drainage Station Kamitsubo Drainage Station, 38-1 Kamitogawa, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0305, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1888172,33.2471336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川前満江排水機場ライブカメラ / Ushizugawa Maemae Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0303 佐賀県小城市牛津町勝 牛津町牛津 小城市役所 排水機場前満江排水機場 「小城市役所」/ Ogi City Hall Drainage Pump Station Mae Mie Drainage Pump Station, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0303, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.193164,33.248733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川山崎排水機場ライブカメラ / Ushizugawa Yamazaki Drainage Pump Station Live Camera
+</name>
+        <description><![CDATA[〒845-0012 佐賀県小城市小城町池上１２９６−１ 山崎排水機場 「小城市役所」/ Yamazaki Drainage Pumping Station, 1296-1 Ikegami, Ogimachi, Ogi City, Saga Prefecture 845-0012<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.177742,33.26121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉瀬川三日月排水機場ライブカメラ / Kasegawa Mikaduki Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒845-0032 佐賀県小城市三日月町金田 社88−2 小城市三日月排水機場 「小城市役所」/ 88-2 Kaneda, Mikazuki-cho, Ogi-shi, Saga Prefecture 845-0032 Ogi-shi Mikazuki drainage pumping station ``Ogi-shi government office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.242689,33.2543091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祇園川三日月東部排水機場ライブカメラ / Gion River Mikaduki Eastern Drainage Pump Live Camera</name>
+        <description><![CDATA[〒845-0031 佐賀県小城市三日月町堀江１９３１−２ 小城市 三日月東部排水機場 「小城市役所」/ Ogi City Mikaduki East  Drainage Pump Station, 1931-2 Horie, Crescent Town, Ogi City, Saga Prefecture 845-0031, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2418757,33.2684215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川橋内排水機場ライブカメラ / Ushizugawa Bridge drainage pump live camera</name>
+        <description><![CDATA[〒845-0012 佐賀県小城市小城町池上5342−3 小城市 橋内排水機場 「小城市役所」/ Ogi-shi Drainage pumping station, 5342-3 Ikegami, Ogi-cho, Ogi-shi, Saga 845-0012, "Ogi-shi government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.188031,33.253497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川芦刈第二排水機場ライブカメラ / Ushizugawa Ashikari Second Drainage Pump Live Camera</name>
+        <description><![CDATA[佐賀県小城市芦刈町永田 「小城市役所」/ Nagata, Ashikari Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2015013,33.2058715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川芦刈第一排水機場ライブカメラ / Rokkakugawa Ashikari First Drainage Pump Live Camera</name>
+        <description><![CDATA[〒849-0313 佐賀県小城市芦刈町永田１７８３ 小城市役所 排水機場・芦刈第１排水機場 「小城市役所」/  Ogi City Hall Drainage Pump Station/Ashikari First Drainage Pump Station,  1783 Nagata, Ashikari-machi, Ogi-shi, Saga Prefecture 883-0313, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.213185,33.198951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福所江川新村排水機場ライブカメラ / Fukusho Egawa Sinchon drainage pumping station live camera</name>
+        <description><![CDATA[〒849-0312 佐賀県小城市芦刈町下古賀新村1252-1 小城市役所 排水機場・新村排水機場「小城市役所」/ Ogi City Hall Drainage Pump Station/Shinmura Drainage Pump Station, 1252-1 Shimokoga-Shinmura, Ashikari-cho, Ogi-shi, Saga Prefecture 849-0312, "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.224831,33.215894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福所江放水路境川橋ライブカメラ / Fukushoe spillway Sakaigawabashi live camera</name>
+        <description><![CDATA[佐賀県小城市牛津町柿樋瀬 「小城市役所」/ Kakihise, Ushizu Town, Ogi City, Saga Prefecture<br>"Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.218016,33.2474928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国営幹線水路ライブカメラ / National highway live camera</name>
+        <description><![CDATA[佐賀県小城市牛津町柿樋瀬  「小城市役所」/ Kashiwase, Ushizu Town, Ogi City, Saga Prefecture "Ogi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2129566,33.247796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川水管橋ライブカメラ / Ushizu River Suidobashi Live Camera</name>
+        <description><![CDATA[〒849-0304 佐賀県小城市牛津町下砥川 「武雄河川事務所」/ Shimotogawa, Ushizu Town, Ogi City, Saga Prefecture 849-0304, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.183655,33.2281647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川虎坊ライブカメラ / Ushizugawa Torabo Live Camera</name>
+        <description><![CDATA[佐賀県小城市芦刈町浜枝川「武雄河川事務所」/ Hamaedagawa, Ashikari Town, Ogi City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1990007,33.2363538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川武雄河川事務所牛津出張所ライブカメラ / Ushizugawa Takeo River Office Ushizu Branch Live Camera</name>
+        <description><![CDATA[〒849-0305 佐賀県小城市牛津町上砥川４７−９  国土交通省 武雄河川事務所 牛津出張所 「武雄河川事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Takeo River Office Ushizu Branch Office, 47-9 Kamitogawa, Ushizu-cho, Ogi-shi, Saga Prefecture 849-0305, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.190184,33.24647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川牛津江排水機場屋上ライブカメラ / Ushizu River Ushizue Drainage Pump Station Rooftop Live Camera</name>
+        <description><![CDATA[〒849-0303 佐賀県小城市牛津町牛津　牛津江排水機場「武雄河川事務所」/ Ushidue Drainage Station, Ushidu, Ushidu Town, Ogi City, Saga Prefecture 849-0303, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1950448,33.2466162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川山崎ライブカメラ / Ushidugawa Yamazaki Live Camera</name>
+        <description><![CDATA[佐賀県小城市小城町池上「武雄河川事務所」/ Ikegami, Ogi Town, Ogi City, Saga Prefecture<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1785389,33.2678292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川住ノ江橋ライブカメラ / Rokkakugawa Suminoe Bridge Live Camera</name>
+        <description><![CDATA[佐賀県小城市芦刈町永田「武雄河川事務所」/ Nagata, Ashikari-cho, Ogi-shi, Saga "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.209229,33.2041281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川弁財排水機場ライブカメラ / Ushizugawa Bensai Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0313 佐賀県小城市芦刈町永田１０８９ 弁財排水機場 「武雄河川事務所」/ Benzai drainage pump station, 1089 Nagata, Ashikari-machi, Ogi-shi, Saga Prefecture 849-0313,  "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2021257,33.2061978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川一本松排水機場排水樋管ライブカメラ / Ushidugawa Ipponmatsu drainage pumping station drain gutter live camera</name>
+        <description><![CDATA[〒849-0314 佐賀県小城市芦刈町三王崎「武雄河川事務所」/ Sannozaki, Ashikari-cho, Ogi City, Saga Prefecture 849-0314, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2000021,33.2148515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川三条排水機場排水樋管ライブカメラ / Ushidu River Sanjo Drainage Pump Station Drain Pipe Live Camera</name>
+        <description><![CDATA[〒849-0314 佐賀県小城市芦刈町三王崎 三条排水機場「武雄河川事務所」/ Sanjo drainage pump station, Sannozaki, Ashikari-cho, Ogi City, Saga Prefecture 849-0314, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1959039,33.222759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛津川三条排水機場ライブカメラ / Ushidugawa Sanjo Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒849-0314 佐賀県小城市芦刈町三王崎 三条排水機場 「武雄河川事務所」/  Sanjo drainage pump station, Sannozaki, Ashikari-cho, Ogi City, Saga Prefecture 849-0314, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1956786,33.2225794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号牛津大橋終点側ライブカメラ / National highway No. 34 Ushizu Ohashi end side live camera</name>
+        <description><![CDATA[佐賀県小城市牛津町上砥川 牛津大橋「佐賀国道事務所」/ Ushizu Ohashi, Kamitogawa Ushizu Town, Ogi City, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1931891,33.2470984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号五条高架橋ライブカメラ / National highway No. 34 Gojo viaduct live camera</name>
+        <description><![CDATA[〒845-0033 佐賀県小城市三日月町樋口「日本道路交通情報センター」/ Higuchi, Crescent Town, Ogi City, Saga Prefecture 845-0033<br>"Japan Road Traffic Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2216923,33.2614047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩田川塩田橋ライブカメラ / Shioda River Shiotabashi live camera</name>
+        <description><![CDATA[〒849-1411 佐賀県嬉野市塩田町大字馬場下甲 「佐賀県庁県土整備部河川砂防課」/ Babashitako, Shiota Town, Ureshino City, Saga Prefecture 849-1411, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0504932,33.1286353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号不動山ライブカメラ / Route 34 Fudoyama Live Camera</name>
+        <description><![CDATA[〒843-0305 佐賀県嬉野市嬉野町大字不動山 「佐賀国道事務所」/ Fudoyama, Ureshino-cho, Ureshino City, Saga Prefecture 843-0305<br> "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9452915,33.091068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号俵坂佐賀側ライブカメラ / National highway No. 34 Tawarazaka Saga side live camera </name>
+        <description><![CDATA[〒843-0305 佐賀県嬉野市嬉野町大字不動山「佐賀国道事務所」/  Ureshino Town, Ureshino City, Saga Prefecture 843-0305,   "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9452915,33.091068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城原川直鳥橋ライブカメラ / Jobarugawa River Naotori Bridge Live Camera</name>
+        <description><![CDATA[佐賀県神埼市千代田町直鳥 「国土交通省河川情報センター」/ Natori, Chiyoda-cho, Kanzaki City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3726908,33.2748591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城原川ふるさと大橋ライブカメラ / Jobarugawa River Furusato Ohashi Live Camera</name>
+        <description><![CDATA[佐賀県神埼市神埼町竹「国土交通省河川情報センター」/ Take, Kanzaki-cho, Kanzaki-shi, Saga<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3673598,33.3182964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川浮島排水機場内水位ライブカメラ / Chikugo River Ukishima drainage pump water level live camera</name>
+        <description>〒842-0063 佐賀県神埼市千代田町迎島 浮島排水機場 / Ukishima Drainage Pumping Station, Kyojima, Chiyoda Town, Kanzaki City, Saga Prefecture 842-0063</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4023445,33.2507779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城原川夫婦井樋橋ライブカメラ / Jobarugawa River Fufuibibashi Live Camera</name>
+        <description><![CDATA[佐賀県神埼市神埼町本告牟田「筑後川河川事務所」/  Motoorimuta, Kanzaki-machi, Kanzaki-shi, Saga Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.368252,33.2920039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城原川屋敷橋ライブカメラ / Jobarugawa River Yashikibashi Live Camera</name>
+        <description><![CDATA[佐賀県神埼市神埼町竹「筑後川河川事務所」/ Take, Kanzaki-cho, Kanzaki-shi, Saga<br>"Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3669361,33.3117743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田手川城東橋ライブカメラ / Tadegawa River Jotobashi Live Camera</name>
+        <description><![CDATA[佐賀県神埼市千代田町下板 「筑後川河川事務所」/ Shimozaka, Chiyoda Town, Kanzaki City, Saga Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3936767,33.2785905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号神埼橋ライブカメラ / National highway No. 34 Kanzakibashi live camera</name>
+        <description><![CDATA[〒842-0011 佐賀県神埼市神埼町竹 「佐賀国道事務所」/ 842-0011 Take, Kanzaki-cho, Kanzaki-shi, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.362442,33.3186609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道基山パーキングエリア上りライブカメラ / Kyushu Expressway Kiyama parking area upstream live camera</name>
+        <description><![CDATA[〒841-0201 佐賀県三養基郡基山町大字小倉２０９７−１ 基山PA (上り) 「NEXCO西日本」/ Kiyama PA (up), 207-1 Kokura, Kiyama-cho, Sanyo-gun, Saga Prefecture 841-0201, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5296036,33.4408001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道3号基山駅前ライブカメラ / National highway No. 3 Kiyama station square live camera </name>
+        <description><![CDATA[〒841-0201 佐賀県三養基郡基山町大字小倉 「佐賀国道事務所」/ Kokura, Kiyama-cho, Sanyogi-gun, Saga Prefecture 841-0201<br>"Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.532318,33.4212567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>通瀬川小原橋ライブカメラ / Dusegawa River Obarubashi  Live Camera</name>
+        <description><![CDATA[佐賀県みやき町東尾 「佐賀県庁県土整備部河川砂防課」/ Higashio, Miyaki Town, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4589045,33.329545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寒水川中津隈8号橋ライブカメラ / Shouzugawa Nakatsukuma No.8 Bridge Live Camera</name>
+        <description><![CDATA[佐賀県みやき町中津隈「佐賀県庁県土整備部河川砂防課」/ Nakatsukuma, Miyaki Town, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4489691,33.3213021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川玉江排水樋管ライブカメラ / Rokkakugawa Tamae drainage gutter live camera</name>
+        <description><![CDATA[佐賀県大町町福母 「国土交通省河川情報センター」/ Fukumo, Omachi-cho, Saga "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1009874,33.2079637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川八ツ江ライブカメラ / Rokkakugawa Yatsue Live Camera</name>
+        <description><![CDATA[〒849-2101 佐賀県杵島郡大町町大字大町 「武雄河川事務所」/ Omachi, Omachi-cho, Kishima-gun, Saga Prefecture 849-2101, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1222325,33.2189268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大町駅前ライブカメラ / Omachi station front live camera</name>
+        <description><![CDATA[〒849-2102 佐賀県杵島郡大町町大字福母「ケーブルワン」/ Fukumo, Omachi-cho, Kishima-gun, Saga Prefecture 849-2102, "Cable One"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1064731,33.2124115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江北バイパスライブカメラ / Kohoku Bypass Live Camera</name>
+        <description><![CDATA[佐賀県江北町山口 「ケーブルワン」/ Yamaguchi, Kohoku Town, Saga Prefecture,  "Cable One"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1618575,33.2174184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号佐留志高架橋ライブカメラ / National highway No. 34, Sarushi viaduct live camera </name>
+        <description><![CDATA[〒849-0502 佐賀県杵島郡江北町大字佐留志 「佐賀国道事務所」/ 〒849-0502 Sarushi, Kohoku-cho, Kishima-gun, Saga Prefecture<br>"Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1683053,33.2105452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川鳴江排水機場外水ライブカメラ / Rokkakugawa Narue drainage pump station outside water live camera</name>
+        <description><![CDATA[〒849-0503 佐賀県杵島郡江北町大字惣領分３６６７−１ 鳴江排水機場 「武雄河川事務所」/ Narue Drainage Pumping Station 3667-1, Sōryobu, Kohoku-cho, Kishima-gun, Saga Prefecture 849-0503<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1852466,33.20585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川東古川排水機場排水樋門ライブカメラ / Rokkaku River Higashi Furukawa Drainage Pump Station Drain Gutter Live Camera</name>
+        <description><![CDATA[〒849-0504 佐賀県杵島郡江北町大字八町３９３−１ 東古川排水機場 「武雄河川事務所」/ Higashi-Furukawa Drainage Pump Station, 393-1 Hachimachi, Kohoku-cho, Kishima-gun, Saga / 849-0504, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.154923,33.1940002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川西古川排水機場空間監視ライブカメラ / Rokkakugawa Nishi Furukawa drainage pump station space monitoring live camera</name>
+        <description><![CDATA[〒849-0504 佐賀県杵島郡江北町大字八町 西古川排水機場「武雄河川事務所」/ Nishi Furukawa drainage pumping station, 849-0504 Hachimachi, Kohoku-cho, Kishima-gun, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.147063,33.1958632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川大西ライブカメラ / Rokkakugawa Onishi Live Camera</name>
+        <description><![CDATA[〒849-0505 佐賀県杵島郡江北町大字下小田 「武雄河川事務所」/ Shimooda, Kohoku-cho, Kishima-gun, Saga Prefecture 849-0505, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1414338,33.207973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有明海有明海岸ライブカメラ / Ariake Sea Ariake Coast Live Camera</name>
+        <description><![CDATA[佐賀県杵島郡白石町「佐賀県県土整備部河川砂防課」/ Shiraishi Town, Kishima District, Saga Prefecture, "Saga Prefecture Soil Maintenance Department River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1433886,33.1809913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川河口堰下流右岸ライブカメラ / Live camera on the right bank downstream of the river mouth of the Rokkaku River</name>
+        <description><![CDATA[佐賀県杵島郡白石町大字福富 「武雄河川事務所」/ Fukutomi, Shiraishi-machi, Kishima-gun, Saga, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1855897,33.1808448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川馬田橋ライブカメラ / Rokkakugawa Matabashi Live Camera</name>
+        <description><![CDATA[佐賀県杵島郡白石町神辺 馬田橋「武雄河川事務所」/ Matabashi, Kannabe, Shiraishi-cho, Kishima-gun, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1172758,33.2001892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六角川大町橋ライブカメラ / Rokkakugawa Omachibashi live camera</name>
+        <description><![CDATA[佐賀県杵島郡白石町大字大渡「武雄河川事務所」/ Oto, Shiraishi-cho, Kishima-gun, Saga<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1081477,33.2066843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新有明漁港ライブカメラ / New Ariake fishing port live camera</name>
+        <description><![CDATA[〒849-1202 佐賀県杵島郡白石町大字新明 「ケーブルワン」/ Shinmei, Shiraishi-cho, Kishima-gun, Saga Prefecture 849-1202<br>"Cable One"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.168903,33.1295675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇木川久里崎橋ライブカメラ / Ukigawa Kurisakibashi live camera</name>
+        <description><![CDATA[佐賀県唐津市柏崎「佐賀県庁県土整備部河川砂防課」/ Kashiwazaki, Karatsu City, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0106023,33.411619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>半田川大橋ライブカメラ / Hadagawa River Ohashi Live Camera</name>
+        <description><![CDATA[佐賀県唐津市鏡 「佐賀県庁県土整備部河川砂防課」/ Kagami, Karatsu City, Saga Prefecture,<br>"Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0019426,33.4249591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川中山警報所ライブカメラ / Kyuragi River Nakayama Warning Station Live Camera</name>
+        <description><![CDATA[佐賀県唐津市相知町中山 「国土交通省河川情報センター」/ Nakayama,Ouchi Town, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0178966,33.3489077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川和田山排水樋管ライブカメラ / Matsuura River Wadayama drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市相知町佐里「国土交通省河川情報センター」/ Sari, Ouchi Town, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9927744,33.3462169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川久保排水樋管ライブカメラ / Matsuura River Kubo drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市相知町久保「国土交通省河川情報センター」/ Kubo, Aichi Town, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9994755,33.3535666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川下牟田部排水樋管ライブカメラ / Matsuuragawa Shimomutabe drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市相知町牟田部「国土交通省河川情報センター」/ Mutabe, Ouchi-cho, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.991696,33.3783867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川城排水樋管ライブカメラ / Matsuura River Shiro drain gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市久里「国土交通省河川情報センター」/ Kuri, Karatsu City, Saga Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9835452,33.3992759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川養母田3号排水樋管ライブカメラ / Matsuura River Yabuta No. 3 drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市養母田 「国土交通省河川情報センター」/ Yabuta, Karatsu City, Saga Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9818437,33.4101778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳須恵川北波多徳須恵ライブカメラ / Tokusue River Kitahata Tokusue Live Camera</name>
+        <description><![CDATA[佐賀県唐津市北波多徳須恵 「国土交通省河川情報センター」/ Tokusue Kitahata, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9507124,33.3888704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳須恵川大杉北崎2号排水樋管ライブカメラ / Tokusuegawa Osugi Kitazaki No.2 drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市北波多大杉「国土交通省河川情報センター」/ Kitahata Osugi, Karatsu City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.956847,33.385236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳須恵川山本河原2号排水樋管ライブカメラ / Tokusuegawa Yamamotogawara No. 2 drainage gutter live camera</name>
+        <description><![CDATA[佐賀県唐津市山本「国土交通省河川情報センター」/ Yamamoto, Karatsu City, Saga Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9709793,33.4009571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川厳木ダム下田堰ライブカメラ / Kyuragi River Kyuragi Dam Shimoda Weir Live Camera </name>
+        <description><![CDATA[〒849-3101 佐賀県唐津市厳木町天川「武雄河川事務所」/ Amagawa, Kyuragi Town, Karatsu City, Saga Prefecture 849-3101, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1299138,33.3596445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川野々平測水堰ライブカメラ / Itsukugi River Nonohira water measuring weir live camera</name>
+        <description><![CDATA[〒849-3101 佐賀県唐津市厳木町天川「武雄河川事務所」/ Amagawa, Kyuragi Town, Karatsu City, Saga Prefecture 849-3101, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.129313,33.3596535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川厳木ダム中央公園ライブカメラ / Kyuragi River Kyuragi Dam Central Park live camera</name>
+        <description><![CDATA[〒849-3111 佐賀県唐津市厳木町広瀬 厳木ダム中央公園「武雄河川事務所」/ Kyuragi Dam Central Park, Hirose, Kyuragi Town, Karatsu City, Saga Prefecture 849-3111, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1051808,33.3286355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川中島橋ライブカメラ / Kyuragi River Nakajima Bridge Live Camera</name>
+        <description><![CDATA[〒849-3112 佐賀県唐津市厳木町中島２６９「武雄河川事務所」/ 269 Nakajima, Kyuragi Town, Karatsu City, Saga Prefecture 849-3112,<br>"Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0733374,33.3122955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厳木川岩屋橋ライブカメラ / Kyuragigawa Iwayabashi Live Camera</name>
+        <description><![CDATA[〒849-3216 佐賀県唐津市厳木町岩屋 「武雄河川事務所」/ Iwaya, Kyuragi Town, Karatsu City, Saga Prefecture 849-3216, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0376898,33.3243224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川アザメの瀬ライブカメラ / Matsuura River Azamenose Live Camera</name>
+        <description><![CDATA[〒849-3233 佐賀県唐津市相知町佐里「武雄河川事務所」/ Sari, Ouchi-cho, Karatsu City, Saga Prefecture 849-3233, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.993717,33.3399803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳須恵川徳須恵橋ライブカメラ / Tokusue River Tokusue Bridge Live Camera</name>
+        <description><![CDATA[〒847-1201 佐賀県唐津市北波多徳須恵「武雄河川事務所」/ Kitahata Tokusue, Karatsu City, Saga Prefecture 847-1201, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9517115,33.3777833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川徳須恵川合流点ライブカメラ / Matsuura River Tokusue River Confluence Live Camera</name>
+        <description><![CDATA[佐賀県唐津市久里「武雄河川事務所」/ Kuri, Karatsu City, Saga Prefecture, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9796813,33.4080021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川沖鶴排水機場ライブカメラ / Matsuura River Okiduru Drainage Pump Live Camera</name>
+        <description><![CDATA[〒847-0034 佐賀県唐津市中原２８９４ 沖鶴排水機場「武雄河川事務所」/ Okitsuru drainage pump station, 2894 Nakahara, Karatsu City, Saga Prefecture 847-0034, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9889884,33.4154559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川松浦大堰上流ライブカメラ /Matsuura River Matsuura Ozeki upstream live camera </name>
+        <description><![CDATA[〒847-0031 佐賀県唐津市原「武雄河川事務所」/ Hara, Karatsu City, Saga Prefecture 847-0031, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9979153,33.4212505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川武雄河川事務所松浦川出張所ライブカメラ</name>
+        <description><![CDATA[〒847-0031 佐賀県唐津市原１７５４ 国土交通省 九州地方整備局 武雄河川事務所 松浦川出張所「武雄河川事務所」/ Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Takeo River Office Matsuura River Branch Office, 1754 Hara, Karatsu City, Saga Prefecture 847-0031, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.994179,33.426311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川和多田救急排水機場ライブカメラ / Matsuura River Watada Emergency Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒847-0074 佐賀県唐津市和多田先石１１−７８和多田救急排水機場「武雄河川事務所」/ Watada Emergency Drainage Station, 11-78 Watada Sakiishi, Karatsu City, Saga Prefecture 847-0074, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9891103,33.4378985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号椿ノ原ライブカメラ / National highway No. 202 Tsubakinohara live camera</name>
+        <description><![CDATA[〒849-3133 佐賀県唐津市厳木町本山「佐賀国道事務所」/ Motoyama, Kyuragi Town, Karatsu City, Saga Prefecture 849-3133, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0312627,33.3282803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号浜玉橋ライブカメラ / National highway No. 202 Hamatamabashi live camera</name>
+        <description><![CDATA[〒849-5104 佐賀県唐津市浜玉町渕上 浜玉橋「佐賀国道事務所」/ Hamatamabashi, Fuchigami, Hamatamacho, Karatsu City, Saga Prefecture 849-5104, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0433864,33.4551077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道203号一本松跨線橋ライブカメラ / National highway No. 203 Ipponmatsu overpass live camera</name>
+        <description><![CDATA[佐賀県唐津市厳木町「佐賀国道事務所」/ Kyuragi Town, Karatsu City, Saga Prefecture,<br>"Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0698395,33.3112087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道203号成川内橋ライブカメラ / National highway No. 203 Narukawauchi Bridge live camera</name>
+        <description><![CDATA[佐賀県唐津市厳木町牧瀬「日本道路交通情報センター」/ Makise, Kyuragi Town, Karatsu City, Saga Prefecture, "Japan Road Traffic Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0658731,33.306679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横田川ライブカメラ / Yokotagawa live camera</name>
+        <description><![CDATA[〒849-5131 佐賀県唐津市浜玉町浜崎「唐津市役所」/ Hamasaki, Hamatama-cho, Karatsu City, Saga Prefecture 849-5131, "Karatsu City Hall"<br>https://livecamera.fujiyamasan.com/saga-karatsu-yokota-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0422319,33.4449829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉島川ライブカメラ / Tamashima River Live Camera</name>
+        <description><![CDATA[〒849-5104 佐賀県唐津市浜玉町渕上 「唐津市役所」/ Fuchigami, Hamatama Town, Karatsu City, Saga Prefecture 849-5104<br>"Karatsu City Hall"<br>https://livecamera.fujiyamasan.com/saga-karatsu-tamashima-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.046224,33.4537748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鏡山展望所ライブカメラ / Kagamiyama Observatory Live Camera</name>
+        <description><![CDATA[〒847-0022 佐賀県唐津市鏡鏡山山頂「唐津市役所」/ Karatsu City, Saga Prefecture 847-0022,  "Karatsu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0180433,33.4305767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新田川黄金橋ライブカメラ / Nittagawa Koganebashi Live Camera</name>
+        <description><![CDATA[〒848-0031 佐賀県伊万里市二里町八谷搦東八谷搦 「佐賀県庁県土整備部河川砂防課」/ Higashihachiyagarami, Hachiyagarami, Niri Town, Imari City, Saga Prefecture 848-0031, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.869484,33.2772269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有田川長井手ライブカメラ / Arita River Nagaide live camera </name>
+        <description><![CDATA[〒848-0033 佐賀県伊万里市二里町中里乙 「佐賀県庁県土整備部河川砂防課」/ Nakazato Otsu, Niri-cho, Imari City, Saga Prefecture 848-0033<br>"Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8591977,33.2457372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳須恵川古里橋下流ライブカメラ / Tokusuegawa Furusato Bridge Downstream Live Camera</name>
+        <description><![CDATA[佐賀県伊万里市南波多町古里 「国土交通省河川情報センター」/ Furusato, Minami Hata Town, Imari City, Saga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9278313,33.3392864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川桃ノ川橋ライブカメラ / Matsuura River Momonokawabashi live camera</name>
+        <description><![CDATA[〒849-5261 佐賀県伊万里市松浦町桃川 「武雄河川事務所」/ Momokawa, Matsuura Town, Imari City, Saga Prefecture 849-5261, <br> "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9632657,33.2660251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川川西橋ライブカメラ / Matsuura River Kawanishibashi Live Camera</name>
+        <description><![CDATA[〒849-5251 佐賀県伊万里市大川町大川野 「武雄河川事務所」/ Okawano, Okawa Town, Imari City, Saga Prefecture 849-5251, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9735343,33.2998234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川大川野排水機場ライブカメラ / Matsuura River Okawano drainage pumping station live camera </name>
+        <description><![CDATA[〒849-5251 佐賀県伊万里市大川町大川野 大川野排水機場「武雄河川事務所」/ Okawano drainage pumping station, Okawano, Okawa Town, Imari City, Saga Prefecture 849-5251,  "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9703381,33.3075252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松浦川駒鳴ライブカメラ / Matsuura River Komane Live Camera</name>
+        <description><![CDATA[〒849-5253 佐賀県伊万里市大川町駒鳴 「武雄河川事務所」/ Komanaki, Okawa-cho, Imari City, Saga Prefecture 849-5253, "Takeo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9658331,33.3287292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号府招ライブカメラ / National highway No. 202 Fuchu live camera</name>
+        <description><![CDATA[佐賀県伊万里市南波多町府招 「佐賀国道事務所」/ Fumaneki, Minami Hata Town, Imari City, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.914466,33.2918482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号二里跨線橋ライブカメラ / National highway No. 202 Niri overpass live camera</name>
+        <description><![CDATA[佐賀県伊万里市二里町「佐賀国道事務所」/ Niri Town, Imari City, Saga Prefecture, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8424788,33.2533171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西九州自動車道南波多谷口インターチェンジライブカメラ / West Kyushu Expressway South Hataya Taniguchi Interchange Live Camera</name>
+        <description><![CDATA[〒848-0002 佐賀県伊万里市南波多町古里 南波多谷口IC 「佐賀国道事務所」/ Minami Hata Taniguchi IC, Furusato,   Minato Hata Town, Imari City, Saga Prefecture 848-0002, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9206247,33.3423732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号水留ライブカメラ / National highway 202 Mizudome live camera </name>
+        <description><![CDATA[佐賀県伊万里市南波多町水留 「佐賀国道事務所」/ Minamihata-cho, Imari City, Saga, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9340354,33.3424259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玄海町公民館値賀分館ライブカメラ / Genkai Town Public Hall Saga Branch Live Camera </name>
+        <description><![CDATA[〒847-1432 佐賀県東松浦郡玄海町大字平尾８４７ 玄海町公民館値賀分館 「玄海町役場」/ Genkai-cho public hall Nega branch, 847 Hirao, Genkai-cho, Higashimatsuura-gun, Saga 847-1432,  "Genkai-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8453772,33.4954527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有田川菅野橋ライブカメラ / Arita River Suganobashi Live Camera</name>
+        <description><![CDATA[佐賀県有田町大野乙 「佐賀県庁県土整備部河川砂防課」/ Ohno Otsu, Arita Town, Saga Prefecture, "Saga Prefectural Government Prefectural Land Maintenance Department River Sabo Section"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8939481,33.1744002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道35号中樽ライブカメラ / National highway No. 35 Nakataru live camera</name>
+        <description><![CDATA[〒844-0002 佐賀県西松浦郡有田町中樽 「佐賀国道事務所」/  Nakataru, Arita-cho, Nishimatsuura-gun, Saga Prefecture 844-0002, <br>"Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9067572,33.1838172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

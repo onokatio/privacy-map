@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>鳥取県ライブカメラマップ / Tottori Prefecture Live Camera</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>鳥取県内ライブカメラ</name>
+      <Placemark>
+        <name>氷ノ山ライブカメラ / Hyonosen Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町 わかさ氷ノ山山頂 若桜町役場 / Wakasa Hyonosen Summit, Wakasa-cho, Yazu-gun, Tottori, "Wakasa Town Hall"<br>https://livecamera.fujiyamasan.com/tottori-hyonosen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5138551,35.354161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取マリーナライブカメラ / Tottori Marina Live Camera</name>
+        <description>鳥取市港町10-1 有限会社鳥取マリーナ / Tottori Marina Limited Company, 10-1 Minato-cho, Tottori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.194221,35.537377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取空港ライブカメラ</name>
+        <description>〒680-0947 鳥取県鳥取市湖山町西４−１１０−５　鳥取砂丘コナン空港　鳥取空港管理事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1679318,35.5265621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伏野海岸ライブカメラ / Fuseno Coast Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市伏野 浜辺のアトリエ  / Beach Atelier, Fuseno, Tottori City, Tottori, "USTREAM"<br>https://livecamera.fujiyamasan.com/tottori-fushino-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.13002,35.527896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>わかさ氷ノ山スキー場ライブカメラ</name>
+        <description><![CDATA[〒680-0728 鳥取県八頭郡 若桜町つく米631-13　わかさ氷ノ山スキー場<br>https://livecamera.fujiyamasan.com/tottori-hyonosen-ski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4909312,35.353239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若桜町防災カメラ / Wakasa Town Disaster Prevention Camera</name>
+        <description><![CDATA[〒680-0701 鳥取県八頭郡若桜町若桜８０１−５　若桜町役場 / Wakasa Town Hall, 801-5 Wakasa, Wakasa-cho, Yazu-gun, Tottori-ken 680-0701<br>https://livecamera.fujiyamasan.com/tottori-wakasa-bousai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4010021,35.3401697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の三朝橋ライブカメラ / Misasa Bridge</name>
+        <description>鳥取県東伯郡三朝町三朝 三朝温泉 / Misasa Onsen, Misasa, Misasa-cho, Tohaku-gun, Tottori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.893771,35.410424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おやきやおやき前ライブカメラ / Oyaki-ya Oyaki</name>
+        <description><![CDATA[鳥取県倉吉市新町１丁目２４２３−２ おやきや おやき<br>USTREAM / Oyaki-ya Oyaki, 1-2423-2 Shin-machi, Kurayoshi City, Tottori, "USTREAM" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.823701,35.432273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山町萩原ライブカメラ</name>
+        <description><![CDATA[大山町 萩原　県道赤碕大山線　萩原神社横「中海テレビ放送」<br>https://livecamera.fujiyamasan.com/tottori-daisen-hagiwara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5799846,35.4389039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>だいせんホワイトリゾートライブカメラ / Daisen White Resort</name>
+        <description><![CDATA[鳥取県西伯郡大山町大山 だいせんホワイトリゾート / Daisen White Resort, Daisen, Daisen-cho, Saihaku-gun, Tottori<br>https://livecamera.fujiyamasan.com/tottori-daisen-ski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5349886,35.3963615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桝水高原ライブカメラ / Masumizu Kogen Live Camera</name>
+        <description><![CDATA[〒689-4214 鳥取県西伯郡伯耆町岩立桝水高原1067−2 大山ますみず高原スノーパーク / Daisen Masumizu Kogen Snow Park, 1067--2 Masumizukogen, Iwatate, Hoki-cho, Saihaku-gun, Tottori-ken 689-4214<br>https://livecamera.fujiyamasan.com/tottori-masumizukogen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5174247,35.36956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山　沢情報 / Daisen Valley Information</name>
+        <description>鳥取県日野郡江府町 日野総合事務所 県土整備局 / Hino Tottori General Office, Prefectural land Development Bureau, Kofu-cho, Hino-gun, Tottori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.542423,35.355246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山鏡ヶ成からみた烏ヶ山 / Karasuga-sen from Daisen  Kagamiganaru </name>
+        <description><![CDATA[鳥取県日野郡江府町御机鏡ヶ成 「インターネット自然研究所」 / Kagaminagaru, Mitsukue, Kofu-cho, Hino-gun, Tottori, Internet Nature Information System<br>https://livecamera.fujiyamasan.com/tottori-karasugasen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.590252,35.345288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥大山ライブカメラ / Okudaisen Live Camera</name>
+        <description><![CDATA[〒689-4401 鳥取県日野郡江府町大字江尾475 江府町役場 総務課 / Kofu Town Office Administrative Division, 475 Ebi, Kofu-cho, Hino-gun, Tottori 689-4401<br>https://livecamera.fujiyamasan.com/tottori-okudaisen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4888649,35.2834625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米子水鳥公園のコハクチョウ / Bewick of Yonago waterfowl park</name>
+        <description><![CDATA[〒683-0855 鳥取県米子市彦名新田６６５ 米子水鳥公園 / Yonago Waterbird Park, 665 Hikona Shinden, Yonago-shi, Tottori-ken 683-0855<br>https://livecamera.fujiyamasan.com/tottori-yonago-waterfowl-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.284566,35.4443444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水木しげる文庫ライブカメラ / Mizuki Shigeru Library Live Camera</name>
+        <description>〒684-0005 鳥取県境港市松ヶ枝町31番地 株式会社千年王国 / Sennenoukoku Corporation, 31 Matsugae-cho, Sakaiminato-shi, Tottori-ken 684-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.22699,35.546282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夢みなとタワーライブ映像 / Yumeminato Tower Live Video</name>
+        <description>〒684-0046 鳥取県境港市竹内団地２５５−３ 夢みなとタワー / Yumeminato Tower, 255-3 Takenouchi Danchi, Sakaiminato-shi, Tottori-ken 684-0046</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.259225,35.51981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHUKAI TELEVISION</name>
+        <description>〒683-0852 鳥取県米子市河崎610　株式会社中海テレビ放送 / Chukai Cable Television, 610 Kawasaki, Yonago, Tottori 683-0852</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3119947,35.4567156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>皆生温泉の海ライブカメラ / The Sea of Kaike Onsen Live Camera</name>
+        <description>〒683-0001 鳥取県米子市皆生温泉３丁目４−２５ 松月 / Hotel Shogetsu, 3-4-25 Kaike Onsen, Yonago-shi, Tottori-ken 683-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.362372,35.458503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSS STUDIO LIVE CAMERA</name>
+        <description>〒683-0805 鳥取県米子市西福原１丁目１−７１ 山陰放送本社 / BSS (Broadcasting System of San-in), 1-1-71 Nishifukuhara, Yonago-shi, Tottori-ken 683-0805</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3398731,35.4385753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテルわこうライブカメラ / Hotel Wakow Live Camera</name>
+        <description><![CDATA[〒683-0802 鳥取県米子市東福原２丁目１−１　ホテルわこう　「中海テレビ放送」/ Hotel Wakow, 2-1-1 Higashifukubara, Yonago City, Tottori Prefecture 683-0802  "Chukai Television Broadcasting System"<br>https://livecamera.fujiyamasan.com/tottori-yonago-hotelwako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3420436,35.439057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川河川事務所ライブカメラ / Hinogawa River Office Live Camera</name>
+        <description><![CDATA[〒689-3537 鳥取県米子市古豊千６７８ 国土交通省 日野川河川事務所 / Ministry of Land, Infrastructure, Transport and Tourism Hinogawa River Office, 678 Kohochi, Yonago City, Tottori Prefecture 689-3537<br>https://livecamera.fujiyamasan.com/tottori-hinogawa-sabo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3686161,35.4211609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県防災情報システム 河川監視カメラ提供システム / Tottori prefecture disaster prevention information system river monitoring camera provision system</name>
+        <description>〒680-0011 鳥取県鳥取市東町１丁目２２０ 鳥取県庁 河川課 / Tottori Prefectural Government River Division, 1-220 Higashi-machi, Tottori-shi, Tottori-ken 680-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2376717,35.5038686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川ライブカメラ / Sendai River Live Camera</name>
+        <description>〒680-0803 鳥取県鳥取市田園町４丁目400 鳥取河川国道事務所 / Tottori River National Highway Office, 4-400 Denen-cho, Tottori-shi, Tottori-ken 680-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.222584,35.513067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とっとり雪道Navi / Tottori Snow-covered Road Navi</name>
+        <description>〒680-0011 鳥取県鳥取市東町１丁目２２０ 鳥取県道路企画課 / Tottori Prefecture Road Planning Division, 1-220 Higashi-machi, Tottori-shi, Tottori-ken 680-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2382578,35.5034628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県内道路ライブカメラ / Tottori Prefecture Road Live Camera</name>
+        <description>〒682-0018 鳥取県倉吉市福庭町１丁目１８　国土交通省倉吉河川国道事務所 / Ministry of Land, Infrastructure and Transport Kurayoshi River National Highway Office, 1-18 Fukuba-cho, Kurayoshi-shi, Tottori-ken 682-0018</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.847414,35.461982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局千代川行徳水位観測所ライブカメラ / Chugoku Regional Development Bureau Sendai River Yukinori Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒680-0921 鳥取県鳥取市古海「国土交通省中国地方整備局」/ Furumi, Tottori City, Tottori Prefecture 680-0921, "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.207608,35.4944326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道53号松並町交差点ライブカメラ / National highway No. 53 Matsunamicho intersection live camera</name>
+        <description><![CDATA[〒680-0801 鳥取県鳥取市松並町２丁目２−１６０ 城北ビル 308 株式会社プラスビッツ / Plus Bits Co., Ltd., Johoku Building 308, 2-2-160 Matsunami-cho, Tottori-shi, Tottori 680-0801 <br>https://livecamera.fujiyamasan.com/tottori-matsunami-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2203885,35.5173294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川23.8KP左岸ライブカメラ / Sendai River 23.8KP left bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市用瀬町美成 「国土交通省河川情報センター」/ Mochigasecho Minari, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2021718,35.3517457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川22.2KP左岸ライブカメラ / Sendai River 22.2KP left bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町和奈見「国土交通省河川情報センター」/ Wanami, Kawahara-cho, Tottori-shi, Tottori "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2099814,35.3611981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川19.0KP左岸ライブカメラ / Sendai River 19.0KP Left Bank Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町佐貫「国土交通省河川情報センター」/ Sanuki, Kawahara-cho, Tottori-shi, Tottori "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.200478,35.3813995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川17.8KP左岸ライブカメラ / Sendai River 17.8KP left bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町曳田「国土交通省河川情報センター」/ Hiketa, Kawahara-cho, Tottori-shi, Tottori "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.19939,35.3912916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川16.8KP右岸ライブカメラ / Sendai River 16.8KP right bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町徳吉「国土交通省河川情報センター」/ Tokuyoshi, Kawahara-cho, Tottori-shi, Tottori "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.204233,35.3995232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川14.6KP左岸ライブカメラ / Sendai River 14.6KP Left Bank Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町袋河原「国土交通省河川情報センター」/ Fukurogawara, Kawahara-cho, Tottori-shi, Tottori "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2049099,35.4184101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川7.8KP右岸ライブカメラ / Sendai River 7.8KP right bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市叶1丁目「国土交通省河川情報センター」/ 1-chome, Kano, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2154837,35.4769951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川6.8KP左岸ライブカメラ / Sendai River 6.8KP left bank live camera </name>
+        <description><![CDATA[鳥取県鳥取市菖蒲「国土交通省河川情報センター」/ Shobu, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2128076,35.485539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川4.8KP右岸ライブカメラ / Sendai River 4.8KP right bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市古市「国土交通省河川情報センター」/ Furuichi, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.217415,35.5042345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>袋川6.6KP左岸ライブカメラ / Fukurogawa 6.6KP left bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市国府町町屋「国土交通省河川情報センター」/ Kokufucho Machiya, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2763741,35.4747452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>袋川6.2KP左岸ライブカメラ / Fukurogawa 6.2KP left bank live camera</name>
+        <description><![CDATA[鳥取県鳥取市国府町町屋「国土交通省河川情報センター」/ Kokufucho Machiya, Tottori City, Tottori Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2751081,35.4762043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NKT鳥取お天気ライブカメラ / NKT Tottori Weather Live Camera</name>
+        <description>〒680-8572 鳥取県鳥取市田園町４丁目３６０ 日本海テレビジョン放送 本社 / Nihonkai Telecasting Headquarters, 4-360 Denencho, Tottori City, Tottori Prefecture 680-8572 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2232406,35.5150844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川福部町湯山ライブカメラ / Egawa Fukubecho Yuyama Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市福部町湯山 「鳥取県河川課」/ Yuyama, Fukube-cho, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2573241,35.5447356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野坂川南安長ライブカメラ / Nosaka River Minamiyasunaga Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市南安長 「鳥取県河川課」/ Minamiyasunaga, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2083075,35.5045527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清水川吉成南町ライブカメラ / Shimizu River Yoshinari Minamimachi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市吉成南町 「鳥取県河川課」/ Yoshinari Minamimachi, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2163603,35.4861069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山白川宮長ライブカメラ / Yamashiro River Miyanaga Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市宮長「鳥取県河川課」/ Miyanaga, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2255567,35.4759137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂田川放水路杉崎ライブカメラ / Sunada River Floodway Sugisaki Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市杉崎 「鳥取県河川課」/ Sugizaki, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2458941,35.4636826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大路川東大路第2ライブカメラ / Oro River Higashioro 2nd Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市東大路 「鳥取県河川課」/ Higashioro, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2406252,35.4654341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大路川東大路第3ライブカメラ / Oro River Higashioro 3rd Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市東大路「鳥取県河川課」/ Higashioro, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2418046,35.4671223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大路川米里ライブカメラ / Oro River Yonesato Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市久末「鳥取県河川課」/ Hisasue, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2390213,35.4623002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有富川菖蒲ライブカメラ / Aritomi River Shobu live camera</name>
+        <description><![CDATA[鳥取県鳥取市菖蒲 「鳥取県河川課」/ Shobu, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1922475,35.477316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂見川長谷ライブカメラ / Sunamigawa Hase Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市長谷 「鳥取県河川課」/ Hase, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2029099,35.4357674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湖山川金沢ライブカメラ / Koyama River Kanazawa Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市金沢 「鳥取県河川課」/ Kanazawa, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1330857,35.4972728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜村川気高町浜村ライブカメラ / Hamamura River Ketakacho Hamamura Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町浜村「鳥取県河川課」/ Hamamura, Ketakacho, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.056359,35.5109126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝見川気高町勝見ライブカメラ / Kachimi River Ketakacho Kachimi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町勝見「鳥取県河川課」/ Kachimi Ketakacho, Tottori City, Tottori Prefecture "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.052382,35.5094973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日置川青谷町青谷ライブカメラ / Hikigawa Aoyacho Aoya Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町青谷「鳥取県河川課」/ Aoya, Aoya-cho, Tottori-shi, Tottori "River Division, Tottori Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9968481,35.518559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取砂丘第1ライブカメラ / Tottori Sand Dunes 1st Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市福部町湯山 「鳥取砂丘再生会議事務局」/ Yuyama, Fukube-cho, Tottori City, Tottori Prefecture "Tottori Sand Dunes Revitalization Conference Secretariat"<br>https://livecamera.fujiyamasan.com/tottori-sakyu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2359202,35.5445628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取砂丘第2ライブカメラ / Tottori Sand Dunes 2nd Live Camera</name>
+        <description><![CDATA[〒680-0001 鳥取県鳥取市浜坂１３９０−２３０ ニュー砂丘荘「鳥取砂丘再生会議事務局」/ 1390-230 Hamasaka, Tottori City, Tottori Prefecture 680-0001 New Sand Dunes "Tottori Sand Dunes Revitalization Conference Secretariat"<br>https://livecamera.fujiyamasan.com/tottori-sakyu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2268495,35.534098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川福部駅前ライブカメラ / Shiomigawa Fukube station square live camera</name>
+        <description><![CDATA[鳥取県鳥取市福部町細川 「鳥取県危機管理局」/ Hosokawa, Fukube-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2847275,35.5460021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川潮止水門ライブカメラ / Shiomi River tide stop lock live camera</name>
+        <description><![CDATA[鳥取県鳥取市福部町細川「鳥取県危機管理局」/ Hosokawa, Fukube-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2775307,35.5577304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐治川佐治町福園ライブカメラ / Saji River Sajicho Fukuzono Live Camera</name>
+        <description><![CDATA[〒689-1316 鳥取県鳥取市佐治町福園「鳥取県危機管理局」/  Fukuzono, Saji-cho, Tottori-shi, Tottori 689-1316, "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1031608,35.3386012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三谷川河原町今在家ライブカメラ / Mitanigawa Kawaramachi Imazaike Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町今在家 「鳥取県危機管理局」/ Kawaharacho Imazaike, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2060229,35.4046635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川河口福部町岩戸ライブカメラ / Shiomi River Estuary Fukubecho Iwado Live Camera </name>
+        <description><![CDATA[鳥取県鳥取市福部町岩戸 「鳥取県危機管理局」/ Iwado, Fukube-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2756266,35.5620278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河内川気高町下光元ライブカメラ / Kouchi River Ketakacho Shimomitsumoto Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町下光元「鳥取県危機管理局」/ Shimomitsumoto, Ketakacho, Tottori City, Tottori Prefecture, "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0736458,35.4914189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝部川吉川ライブカメラ / Kachibe River Yoshikawa Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町吉川「鳥取県危機管理局」/ Yoshikawa, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9912685,35.5154479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野坂川古海ライブカメラ / Nosaka River Furumi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市古海「鳥取県危機管理局」/ Furumi, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1985565,35.4982845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大路川吉成ライブカメラ / Orogawa Yoshinari Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市吉成 「鳥取県危機管理局」/ Yoshinari, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2182585,35.4856243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大路川東大路第1ライブカメラ / Oro River Higashioro 1st Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市東大路 「鳥取県危機管理局」/ Higashioro, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2412777,35.4698035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陰道青谷羽合道路吉川トンネル付近ライブカメラ / San-in Expressway Aoya Haai Road Yoshikawa Tunnel Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町吉川 「倉吉河川国道事務所」/ Yoshikawa, Aoya-cho, Tottori-shi, Tottori "Kurayoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9882786,35.5138109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道37号岩美八東線延興寺ライブカメラ / Tottori Prefectural Road 37 Iwami Hachito Line Engoji Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町延興寺 「鳥取県危機管理局」/ Engoji, Iwami Town, Iwami District, Tottori Prefecture, "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.336875,35.5148766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道304号妙徳寺鹿野線洞谷ライブカメラ / Tottori Prefectural Road 304 Myotokuji Kano Line Horadani Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市洞谷 「鳥取県危機管理局」/ Horadani, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1010933,35.4625844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道293号鳥取郡家線越路ライブカメラ / Tottori Prefectural Road No. 293 Tottori Koge Line Koshiji Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市越路「鳥取県危機管理局」/ Koeji, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2315354,35.4420467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道281号河内槙原線河内安蔵ライブカメラ / Tottori Prefectural Road No. 281 Kawachi Makihara Line Kawachi Azusa Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市河内「鳥取県危機管理局」/ Kouchi, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.065574,35.4067977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道280号俵原青谷線青谷町河原ライブカメラ / Tottori Prefectural Road No. 280 Tawarahara Aoya Line Aoyacho Kawara Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町河原「鳥取県危機管理局」/ Kawara, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0149155,35.4588138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道274号青谷停車場井手線青谷町青谷ライブカメラ / Tottori Prefectural Road No. 274 Aoya Stop Ide Line Aoya Town Aoya Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町青谷「鳥取県危機管理局」/ Aoya, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9982828,35.5177049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道259号泊絹見青谷線青谷町絹見ライブカメラ / Tottori Prefectural Road No. 259 Tomari Kinumi Aoya Line Aoyacho Kinumi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町絹見「鳥取県危機管理局」/ Kinumi, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9657428,35.5001101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道191号矢矯松原線矢矯ライブカメラ / Tottori Prefectural Road No. 191 Yahagi Matsubara Line Yahagi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市矢矯「鳥取県危機管理局」/ Yahagi, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0996623,35.4522687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道51号倉吉川上青谷線青谷町桑原ライブカメラ / Tottori Prefectural Road No. 51 Kurayoshi River Kamiotani Line Aoyacho Kuwabara Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町桑原「鳥取県危機管理局」/ Kuwabara, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9664569,35.4484238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道280号俵原青谷線青谷町小畑ライブカメラ / Tottori Prefectural Road No. 280 Tawarahara Aoya Line Aoyacho Obata Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町小畑「鳥取県危機管理局」/ Obata, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0105237,35.4510644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道188号池谷福部停車場線福部町左近ライブカメラ / Tottori Prefectural Road No. 188 Ikeya Fukube Stop Line Fukubecho Sakon Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市福部町左近 「鳥取県危機管理局」/ Sakon, Fukube-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3073048,35.5136619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道154号上地中河原線国府町上地ライブカメラ / Tottori Prefectural Road No. 154 Uechi Nakagawara Line Kokufucho Uechi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市国府町上地「鳥取県危機管理局」/ Kokufucho Waji, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3722346,35.4505963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道280号俵原青谷線青谷町青谷ライブカメラ / Tottori Prefectural Road 280 Tawarahara Aoya Line Aoya Town Aoya Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市青谷町青谷 「鳥取県危機管理局」/ Aoya, Aoya-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.999122,35.5133879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道189号高路古海線高路ライブカメラ / Tottori Prefectural Road No. 189 Koro Furuumi Line Koro Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市高路「鳥取県危機管理局」/　Koro, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1573534,35.4369812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道21号鳥取鹿野倉吉線高住ライブカメラ / Tottori Prefectural Road No. 21 Tottori Kanokurayoshi Line Takazumi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市高住「鳥取県危機管理局」/ Takazumi, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1559749,35.4979142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道21号鳥取鹿野倉吉線御熊ライブカメラ / Tottori Prefectural Road No. 21 Tottori Kanokurayoshi Line Mikuma Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市御熊「鳥取県危機管理局」/ Mikuma, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1042101,35.4949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道182号宝木停車場上光線気高町上光ライブカメラ / Tottori Prefectural Road No. 182 Takaragi Stop Kamimitsu Ketakacho Kamimitsu Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町上光「鳥取県危機管理局」/ Kamimitsu, Ketakacho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0800769,35.4873454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道233号矢口鹿野線気高町二本木ライブカメラ / Tottori Prefectural Road No. 233 Yaguchi Kano Line Ketakacho Nihongi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町二本木 「鳥取県危機管理局」/ Nihongi, Ketakacho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0670846,35.4899052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道32号郡家鹿野気高線鹿野町岡木ライブカメラ / Tottori Prefectural Road No. 32 Gunya Shikano Kitaka Line Shikanocho Okaki Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市鹿野町岡木「鳥取県危機管理局」/ Okaki, Shikano-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0528135,35.4927609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道21号鳥取鹿野倉吉線鹿野町河内ライブカメラ / Tottori Prefectural Road No. 21 Tottori Kanokurayoshi Line Shikanocho Kawachi Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市鹿野町河内「鳥取県危機管理局」/ Kouchi, Shikano-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.019205,35.4148028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道32号郡家鹿野気高線岩坪ライブカメラ / Tottori Prefectural Road No. 32 Gunya Kano Ketaka Line Iwatsubo Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市岩坪「鳥取県危機管理局」/ Iwatsubo, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1145477,35.4034167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道31号鳥取国府岩美線国府町栃本ライブカメラ / Tottori Prefectural Road No. 31 Tottori Kokufu Iwami Line Kokufucho Tochimoto Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市国府町栃本「鳥取県危機管理局」/ Tochimoto, Kokufucho, Tottori City, Tottori Prefecture, "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3622874,35.4696186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道118号加茂用瀬線用瀬町江波ライブカメラ / Tottori Prefectural Road 118 Kamo Mochigase Line Mochigasecho Enami Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市用瀬町江波「鳥取県危機管理局」/ Enami, Mochigase-cho, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1389006,35.3100042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号佐治町余戸ライブカメラ / National Route 482 Sajicho Yodo Live Camera </name>
+        <description><![CDATA[鳥取県鳥取市佐治町余戸「鳥取県危機管理局」/ Sajicho Yodo, Tottori City, Tottori Prefecture, "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0835026,35.3269058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号用瀬町赤波ライブカメラ / National Route 482 Mochigasecho Akanami Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市用瀬町赤波「鳥取県危機管理局」/ Mochigasecho Akanami, Tottori City, Tottori Prefecture "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2192177,35.3515802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道196号杣小屋曳田線河原町北村ライブカメラ / Tottori Prefectural Road No. 196 Hikida Line Kawaharacho Kitamura Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市河原町北村 「鳥取県危機管理局」/ Kitamura, Kawahara-cho, Tottori-shi, Tottori "Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1231792,35.3786843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取自動車道円通寺高架橋ライブカメラ / Tottori Expressway Entsuji High Bridge Live Camera</name>
+        <description><![CDATA[〒680-1144 鳥取県鳥取市円通寺 「鳥取河川国道事務所」/ Entsuji, Tottori City, Tottori Prefecture 680-1144 "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2139915,35.4403242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取自動車道美成高架橋ライブカメラ / Tottori Expressway Minari High Bridge Live Camera</name>
+        <description><![CDATA[〒689-1212 鳥取県鳥取市用瀬町美成 美成高架橋 「	鳥取河川国道事務所」/  Minari High Bridge, Minari, Mochigase-cho, Tottori-shi, Tottori 689-1212, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1937836,35.3528588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道29号津ノ井ライブカメラ / National highway No. 29 Tsunoi live camera</name>
+        <description><![CDATA[〒689-1102 鳥取県鳥取市津ノ井 「鳥取河川国道事務所」/ Tsunoi, Tottori City, Tottori Prefecture 689-1102 "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2559569,35.4630905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道29号鳥取雪寒基地ライブカメラ / National highway No. 29 Tottori snow cold base live camera</name>
+        <description><![CDATA[〒680-0911 鳥取県鳥取市千代水１丁目 「鳥取河川国道事務所」/ 1-chome, Chiyosui, Tottori City, Tottori Prefecture 680-0911<br>"Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.204051,35.5170734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号塩見川橋ライブカメラ / National highway No. 9 Shiomi Kawabashi live camera</name>
+        <description><![CDATA[〒689-0102 鳥取県鳥取市福部町細川 塩見川橋 「鳥取河川国道事務所」/ Shiomi River Bridge,   Hosokawa, Fukube-cho, Tottori City, Tottori Prefecture 689-0102,  "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2804452,35.5543491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号浜村雪寒基地ライブカメラ / National highway No. 9 Hamamura snow cold base live camera</name>
+        <description><![CDATA[〒689-0331 鳥取県鳥取市気高町浜村 「鳥取河川国道事務所」/ Hamamura, Ketakacho, Tottori City, Tottori Prefecture 689-0331<br>"Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0556095,35.5154676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号船磯ライブカメラ / National highway No. 9 Funaiso live camera</name>
+        <description><![CDATA[鳥取県鳥取市気高町八束水船磯 「鳥取河川国道事務所」/ Yakkamifunaiso, Ketaka Town, Tottori City, Tottori Prefecture, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0115004,35.5253051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新袋川宮ノ下ライブカメラ / Shinbukuro River Miyanoshita Live Camera</name>
+        <description><![CDATA[〒680-0151 鳥取県鳥取市国府町宮下 「鳥取河川国道事務所」/ Miyashita, Kokufu-cho, Tottori City, Tottori Prefecture 680-0151 "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2704036,35.482108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川袋河原ライブカメラ / Chiyogawa Fukurogawara Live Camera</name>
+        <description><![CDATA[〒680-1201 鳥取県鳥取市河原町袋河原 「鳥取河川国道事務所」/ Fukurogawara, Kawahara-cho, Tottori-shi, Tottori 680-1201, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1969363,35.4163725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川用瀬ライブカメラ / Sendai River Mochigase Live Camera</name>
+        <description><![CDATA[〒689-1211 鳥取県鳥取市用瀬町別府 「鳥取河川国道事務所」/  Beppu, Mochigase-cho, Tottori-shi, Tottori 689-1211, "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.18389,35.3370986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代川行徳ライブカメラ / Sendai River Live Camera</name>
+        <description><![CDATA[〒680-0921 鳥取県鳥取市古海 「鳥取河川国道事務所」/ Furumi, Tottori City, Tottori Prefecture 680-0921 "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-sendai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.207608,35.4944326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取砂丘ライブカメラ / Tottori Sand Dunes Live Camera</name>
+        <description><![CDATA[〒680-0001 鳥取県鳥取市浜坂１３１８ 鳥取ゴルフ倶楽部 「鳥取県東武広域行政管理組合」 /  Tottori Golf Club, 1318 Hamasaka, Tottori-shi, Tottori-ken 680-0001<br>https://livecamera.fujiyamasan.com/tottori-sakyu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.22894,35.531947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号白兎トンネル東ライブカメラ / National Highway No. 9 Hakuto Tunnel East Live Camera </name>
+        <description><![CDATA[鳥取県鳥取市白兎 「鳥取河川国道事務所」/ Hakuto, Tottori City, Tottori Prefecture "Tottori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1107822,35.5248531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号辰巳峠ライブカメラ / National Route 482 Tatsumi Pass Live Camera</name>
+        <description><![CDATA[〒689-1326 鳥取県鳥取市佐治町栃原 「鳥取県危機管理局」/ Tochiwara, Saji-cho, Tottori City, Tottori Prefecture 689-1326 "Tottori Prefecture Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0151539,35.3188713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湖山池公園ライブカメラ / Koyamaike Park Live Camera</name>
+        <description><![CDATA[〒680-1417 鳥取県鳥取市桂見 湖山池公園 「鳥取市公式ウェブサイト」 /  Koyamaike Park, Katsurami, Tottori-shi, Tottori-ken 680-1417, "Tottori City Official Website"<br>https://livecamera.fujiyamasan.com/tottori-koyamaike-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1539884,35.5015536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湖山池ライブカメラ / Lake Koyama Live Camera</name>
+        <description><![CDATA[鳥取県鳥取市金沢 湖山池 「水とみどりのオアシスとっとり2013」 / Lake Koyama, Kanazawa, Tottori City, Tottori, "Tottori, the Oasis of Water and Green, 2013"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.133368,35.504492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東浜海水浴場コミュニティセンター局ライブカメラ / Higashihama Beach Community Center Station Live Camera</name>
+        <description><![CDATA[〒681-0011 鳥取県岩美郡岩美町陸上３３ 岩美町立東コミュニティーセンター 「鳥取県海岸監視カメラ」/  Iwami-cho East Community Center, 33 Iwami-cho, Iwami-gun, Tottori 681-0011, "Tottori Coast Surveillance Camera"<br>https://livecamera.fujiyamasan.com/tottori-higashihama-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.360611,35.600035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東浜海水浴場東浜局ライブカメラ / Higashihama Beach Higashihama Station Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町陸上「鳥取県海岸監視カメラ」/ Kugami, Iwami-cho, Iwami-gun, Tottori Prefecture, "Tottori Prefecture Coastal Surveillance Camera"<br>https://livecamera.fujiyamasan.com/tottori-higashihama-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3653725,35.6016025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浦富海水浴場浦富局ライブカメラ / Uradome Beach Uradome Bureau Live Camera</name>
+        <description><![CDATA[〒681-0003 鳥取県岩美郡岩美町浦富 浦富海水浴場 「鳥取県土整備事務局鳥取県海岸監視カメラ」/ Uradome beach, Uradome, Iwami-cho, Iwami-gun, Tottori Prefecture 681-0003, <br>"Tottori Prefecture Soil Maintenance Office Tottori Prefecture Coastal Surveillance Camera"<br>https://livecamera.fujiyamasan.com/tottori-uradome-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.325065,35.5904335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒲生川岩井ライブカメラ / Gamou River Iwai Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町岩井「鳥取県河川課」/ Iwami, Iwami-cho, Iwami-gun, Tottori Prefecture "River Division, Tottori Prefecture"<br>https://livecamera.fujiyamasan.com/tottori-gamou-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3659084,35.5558319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒲生川下流岩本ライブカメラ / Gamou River downstream Iwamoto live camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町岩本 「鳥取県庁鳥取県危機管理局」/ Iwamoto, Iwami Town, Iwami District, Tottori Prefecture, "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-gamou-iwamoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3048708,35.5789759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川長郷ライブカメラ / Odagawa Chogo Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町長郷「鳥取県庁鳥取県危機管理局」/ Chogo, Iwami-cho, Iwami-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-odariver-chogo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3385939,35.5328417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒲生川河崎ライブカメラ / Gamou River Kawasaki Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町河崎「鳥取県庁鳥取県危機管理局」/ Kawasaki, Iwami-cho, Iwami-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-gamou-kawasaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3268415,35.5646401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩美町立岩美中学校ライブカメラ / Iwami Municipal Iwami Junior High School Live Camera</name>
+        <description><![CDATA[〒681-0003 鳥取県岩美郡岩美町浦富７０７ 岩美町立岩美中学校 「内田洋行(IoT百葉箱)」/ Iwami-cho Iwami Junior High School, 707 Uradome, Iwami-cho, Iwami-gun, Tottori 681-0003, "Uchida Yoko (IoT Stevenson Screen)"<br>https://livecamera.fujiyamasan.com/tottori-iwami-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.33017,35.57482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道31号鳥取国府岩美線洗井ライブカメラ / Tottori Prefectural Road No. 31 Tottori Kokufu Iwami Line Arai Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町洗井「鳥取県庁鳥取県危機管理局」/ Arai, Iwami-cho, Iwami-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-iwami-r31.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4020499,35.5061892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道256号陸上岩井線田河内ライブカメラ / Tottori Prefectural Road 256 Land Iwai Line Tanokouji Live Camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町田河内「鳥取県庁鳥取県危機管理局」/ Tanokouji, Iwami-cho, Iwami-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-iwami-r256.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3718462,35.5709697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号岩井ライブカメラ / National highway No. 9 Iwai live camera</name>
+        <description><![CDATA[〒681-0024 鳥取県岩美郡岩美町岩井「鳥取河川国道事務所」/ Iwai, Iwami-cho, Iwami-gun, Tottori 681-0024, "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-iwami-r9.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3703741,35.5551192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号駟馳山ライブカメラ / National highway No. 9 Shichisan live camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町浦富 駟馳山バイパス 「鳥取河川国道事務所」/Shichisan Bypass, Uradome, Iwami Town, Iwami District, Tottori Prefecture, "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-shichisan-r9.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.312411,35.572915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道178号陸上ライブカメラ / National highway 178 Kugami live camera</name>
+        <description><![CDATA[鳥取県岩美郡岩美町陸上「鳥取県庁鳥取県危機管理局」/ Kugami, Iwami-cho, Iwami-gun, Tottori Prefecture, "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-iwami-r178.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3734246,35.5997796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号蒲生ライブカメラ / National highway No. 9 Gamo live camera</name>
+        <description><![CDATA[〒681-0031 鳥取県岩美郡岩美町蒲生「鳥取河川国道事務所」/ Gamo, Iwami-cho, Iwami-gun, Tottori Prefecture 681-0031, "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-gamo-r9.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3969274,35.5263413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八東川若桜ライブカメラ / Hattogawa Wakasa Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町若桜 「鳥取県河川課」/ Wakasa, Wakasa-cho, Yazu-gun, Tottori Prefecture "River Division, Tottori Prefecture"<br>https://livecamera.fujiyamasan.com/tottori-wakasa-hattogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4031648,35.3397344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道72号若桜下三河線吉川ライブカメラ / Tottori Prefectural Road No. 72 Wakasakura Shimomikawa Line Yoshikawa Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町吉川「鳥取県庁鳥取県危機管理局」/ Yoshikawa, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefecture Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-wakasa-r72.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4174576,35.2728185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号茗荷谷ライブカメラ / National Route 482 Myogadani Live Camera</name>
+        <description><![CDATA[〒680-0727 鳥取県八頭郡若桜町茗荷谷「鳥取県庁鳥取県危機管理局」/ Myogadani, Wakasa-cho, Yazu-gun, Tottori Prefecture 680-0727,   "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-nagasuna-r482.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4701557,35.3515683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号長砂ライブカメラ / National Route 482 Nagasuna Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町町長砂「鳥取県庁鳥取県危機管理局」/ Nagasuna, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-nagasuna-r482.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4229498,35.3363386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号渕見ライブカメラ / National Route 482 Fuchimi Live Camera</name>
+        <description><![CDATA[〒680-0727 鳥取県八頭郡若桜町茗荷谷「鳥取県庁鳥取県危機管理局」/ Myogadani, Wakasa-cho, Yazu-gun, Tottori Prefecture 680-0727, "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"<br> https://livecamera.fujiyamasan.com/tottori-fuchimi-r482.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4611691,35.3467158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道103号若桜湯村温泉線赤松ライブカメラ / Tottori Prefectural Road 103 Wakasa Yumura Onsen Line Akamatsu Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町赤松「鳥取県庁鳥取県危機管理局」/ Akamatsu, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefecture Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-akamatsu-r103.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3944593,35.3602172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道176号若桜停車場線若桜ライブカメラ / Tottori Prefectural Road No. 176 Wakasa Stop Line Wakasa Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町若桜「鳥取県庁鳥取県危機管理局」/ Wakasa, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefecture Crisis Management Bureau"<br>https://livecamera.fujiyamasan.com/tottori-wakasa-r176.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4022743,35.3391218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥取県道103号若桜湯村温泉線諸鹿ライブカメラ / Tottori Prefectural Road 103 Wakasa Yumura Onsen Line Moroga Live Camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町諸鹿「鳥取県庁鳥取県危機管理局」/ Moroga, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4270634,35.3890726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道482号つくよねライブカメラ / National highway 482 Tsukuyone live camera</name>
+        <description><![CDATA[鳥取県八頭郡若桜町つく米「鳥取県庁鳥取県危機管理局」/ Tsukuyone, Wakasa-cho, Yazu-gun, Tottori Prefecture "Tottori Prefectural Office Tottori Prefectural Crisis Management Bureau" <br>https://livecamera.fujiyamasan.com/tottori-tsukuyone-r482.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4922353,35.3542182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道29号小船ライブカメラ / National highway No. 29 Obune live camera</name>
+        <description><![CDATA[〒680-0734 鳥取県八頭郡若桜町小船「鳥取河川国道事務所」/ Obune, Wakasa-cho, Yazu-gun, Tottori Prefecture, 680-0734, "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-obune-r29.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4687124,35.2986454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道29号落折ライブカメラ / National highway No. 29 Ochiori live camera</name>
+        <description><![CDATA[〒680-0735 鳥取県八頭郡若桜町落折「鳥取河川国道事務所」/ Ochiori, Wakasa-cho, Yazu-gun, Tottori 680-0735 "Tottori River National Highway Office"<br>https://livecamera.fujiyamasan.com/tottori-ochiori-r29.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4983747,35.2916932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川河川事務所皆生海岸ライブカメラ / Hinogawa River Office Kaike Beach Live Camera</name>
+        <description><![CDATA[〒683-0001 鳥取県米子市皆生温泉４丁目２０ 皆生海浜公園 「日野川河川事務所」/ Kaike Seaside Park, 4-20 Kaike Onsen, Yonago City, Tottori Prefecture 683-0001"Hinogawa River Office"<br>https://livecamera.fujiyamasan.com/tottori-kaike-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.358619,35.457754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>法勝寺川城山ライブカメラ / Hosshoji River Shiroyama Live Camera</name>
+        <description><![CDATA[鳥取県西伯郡南部町鴨部「一般財団法人河川情報センター」/ Kamobe, Nambu-cho, Saihaku-gun, Tottori Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tottori-nambu-hoshoji-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3249589,35.3375152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>愛知県ライブカメラマップ / Aichi Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/<br>愛知県内のライブカメラ<br>http://livecamera.fujiyamasan.com/aichiken.html]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>愛知県内ライブカメラ</name>
+      <Placemark>
+        <name>名古屋市科学館太陽望遠鏡本体ライブカメラ</name>
+        <description>〒460-0008 愛知県名古屋市中区栄２丁目１７−１ 芸術と科学の杜・白川公園内 名古屋市科学館</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8991663,35.1648842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛知北ＦＭ放送スタジオ / Aichi Kita FM Broadcasting Studio</name>
+        <description><![CDATA[愛知県犬山市西古券 まちの放送室　84.2MHz / Aichi Kita FM Broadcasting Studio "United North, " Nishikoken, Inuyama-shi, Aichi]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.939774,35.384572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FM AICHI STUDIO CAMERA</name>
+        <description>愛知県名古屋市中区千代田 ㈱エフエム愛知 / FM AICHI, Chiyoda, Naka-ku, Nagoya-shi, Aichi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.915312,35.156758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アニコム損害保険中部支店ライブカメラ / Anicom General Insurance Chubu Branch Live Camera</name>
+        <description>〒460-0008 愛知県名古屋市中区栄２丁目４−１ 広小路栄ビルディング 4階 / 4F, Hirokoji Sakae Building 2-4-1 Sakae, Naka-ku, Nagoya-shi 460-0008, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9012838,35.1681909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名古屋港海上交通センター（東）（西）からの映像 / Picture from Nagoya Port Maritime Traffic Center (East) (West)</name>
+        <description>〒455-0848 愛知県名古屋市港区金城ふ頭３丁目１ 海上保安庁 名古屋港海上交通センター / Japan Coast Guard Nagoya Port Maritime Traffic Center, 3-1 Kinjofuto, Minato-ku, Nagoya-shi, Aichi-ken 455-0848</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8462287,35.0349116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名古屋海上保安部ライブカメラ-名古屋港ガーデンふ頭からの映像/  Nagoya Coast Guard Live Camera - Picture from Nagoya Harbor Garden Head</name>
+        <description>〒455-0032 愛知県名古屋市港区入船２丁目３−１２ 海上保安庁第四管区海上保安本部 / Japan Coast Guard Fourth Regional Coast Guard Headquarters, 2-3-12 Irifune, Minato-ku, Nagoya-shi, Aichi-ken 455-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8815418,35.0924496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名古屋城本丸御殿復元工事 / Restoration Project of Nagoya-jo Castle</name>
+        <description>愛知県名古屋市中区本丸 名古屋城 / Nagoya-ji Castle, Honmaru, Naka-ku, Nagoya-shi, Aichi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.897674,35.184489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名鉄電車ライブカメラ / Meitetsu Train Live Camera</name>
+        <description>愛知県名古屋市熱田区神宮 株式会社メイエレック / Mayelec Co., Ltd.,  Jingu, Atsuta-ku, Nagoya-shi, Aichi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.912667,35.122445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名古屋駅ライブカメラ / Nagoya Station Live Camera</name>
+        <description><![CDATA[〒450-0002 愛知県名古屋市中村区名駅１丁目１−４　名古屋駅 「株式会社キャッチネットワーク」/ Nagoya Station, 1-4 1-4 Meieki, Nakamura-ku, Nagoya-shi 450-0002, Japan, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8815369,35.170915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号ライブカメラ / National Route 153 Live Camera</name>
+        <description><![CDATA[〒467-0833 愛知県名古屋市瑞穂区鍵田町２丁目３０ 名古屋国道事務所 / Nagoya National Highway Office, 2-30 Kagita-cho, Mizuho-ku, Nagoya-shi, Aichi 467-0833<br>https://livecamera.fujiyamasan.com/toyotar153.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9340551,35.1201543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ラジコンサーキットRCCライブカメラ / RC Circuit RCC Live Camera</name>
+        <description>〒444-2135 愛知県岡崎市大門５丁目６−１２ ラジコンサーキットRCC / RC Circuit RCC 5-6-12 Daimon, Okazaki-shi, Aichi Prefecture 444-2135</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1538615,34.9844174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿乗川筒針ライブカメラ / Kanori River Tsutsubari Live Camera</name>
+        <description><![CDATA[愛知県岡崎市筒針町 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Tsutsubari-cho, Okazaki-shi, Aichi Prefecture, "Aichi Prefecture Construction Department River Division Aichi Prefecture River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1349942,34.9509451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙川茅原沢ライブカメラ / Otogawa River Chiharasawa Live Camera</name>
+        <description>〒444-3335 愛知県岡崎市茅原沢町梁野１０６ 「愛知県建設部河川課 愛知県河川監視カメラ情報」/ 106 Ryono, Chiharazawa-machi, Okazaki-shi, Aichi 444-3335 “Aichi Prefecture Construction Department, River Division, Aichi River Monitoring Camera Information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2432185,34.9372009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊賀川伊賀川水位観測所ライブカメラ / Iga River Iga River Water Observatory Live Camera</name>
+        <description><![CDATA[〒444-0071 愛知県岡崎市稲熊町５丁目３６ 「愛知県建設部河川課愛知県河川監視カメラ情報」/ 5-36, Inaguma-cho, Okazaki-shi, Aichi 444-0071, "Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1769077,34.9664677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙川大平ライブカメラ / Oto River Ohira Live Camera</name>
+        <description><![CDATA[〒444-0005 愛知県岡崎市岡町北久保 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Kitakubo, Oka-cho, Okazaki-shi, Aichi 444-0005, "Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2053965,34.9322197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川岡崎大橋ライブカメラ / Yahagi River Okazakiohashi Bridge Live Camera</name>
+        <description><![CDATA[愛知県岡崎市大門2丁目 「豊橋河川事務所」/ 2-chome, Daimon, Okazaki-shi, Aichi, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.147204,34.9842861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡崎大橋岡崎市（矢作川）ライブカメラ / Okazaki Ohashi Okazaki City (Yahagi River) live camera</name>
+        <description><![CDATA[愛知県岡崎市 岡崎大橋 「キャッチネットワーク」/ Okazaki Ohashi Okazaki City (Yahagi River) live camera, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1462062,34.983451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川葵大橋ライブカメラ / Yahagigawa River Aoi Ohashi live camera</name>
+        <description><![CDATA[愛知県岡崎市細川町 「豊橋河川事務所」/ Hosokawa-cho, Okazaki-shi, Aichi, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1595504,35.0244497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川東名矢作川橋ライブカメラ / Yahagi River Tomei Yahagi River Bridge Live Camera </name>
+        <description><![CDATA[〒444-2148 愛知県岡崎市仁木町家下 矢作川橋 (東名) 「豊橋河川事務所」/ Ieshita, Nitsuki-cho, Okazaki-shi, Aichi 444-2148, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1619387,35.0152982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川天神橋ライブカメラ / Yahagi River Tenjin Bridge Live Camera</name>
+        <description><![CDATA[〒444-2147 愛知県岡崎市畝部東町中堤外 「	豊橋河川事務所」/ Unebehigashi-machi, Okazaki-shi, Aichi 444-2147, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1655712,35.0035657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川日名橋ライブカメラ / Yahagi River Kyumeibashi Bridge Live Camera</name>
+        <description><![CDATA[〒444-0917 愛知県岡崎市日名北町 日名橋 「豊橋河川事務所」/ Hinabashi, Hinakita-machi, Okazaki-shi, Aichi Prefecture, 444-0917, Japan, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1474007,34.9751147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛環矢作川橋付近ライブカメラ / Aikan Yahagi River Live Camera</name>
+        <description><![CDATA[〒444-2135 愛知県岡崎市大門 「豊橋河川事務所」/ Daimon, Okazaki-shi, Aichi Prefecture, 444-2135, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1483967,34.9894887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川矢作橋ライブカメラ / Yahagi River Yahagi Bridge Live Camera</name>
+        <description>〒444-0943 愛知県岡崎市矢作町市場 矢作橋 「豊橋河川事務所」/ Yahagibashi Bridge, Ichiba, Yahagi-cho, Okazaki-shi, Aichi 444-0943</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1496255,34.9591312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>碧南市明石町（国道247号）ライブカメラ / National Road 247 Hekinan City Akashi Town Live Camra</name>
+        <description><![CDATA[〒447-0866 愛知県碧南市明石町 「株式会社キャッチネットワーク」/ Akashi-cho, Hekinan-shi, Aichi prefecture 447-0866, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9817249,34.8997742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川JR東海道本線ライブカメラ / Yahagi River JR Tokaido Line Live Camera</name>
+        <description><![CDATA[〒444-0933 愛知県岡崎市渡町宮前 「豊橋河川事務所」/ Miyamae, Watari-cho, Okazaki-shi, Aichi 444-0933, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1407812,34.9407775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光川三条ライブカメラ / Nikko River Sanjo Live Camera</name>
+        <description><![CDATA[〒494-0005 愛知県一宮市西五城板倉前西切 「愛知県建設部河川課」/ Nishikiri, Nishiitsushiroitakuramae, Ichinomiya-shi, Aichi 494-0005, ""Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.762098,35.2985591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光川戸苅ライブカメラ / Nikko River Togari Live Camera</name>
+        <description><![CDATA[〒491-0374 愛知県一宮市萩原町築込西古川 「愛知県建設部河川課」/ Tsukikominishikogawa, Hagiwara-cho, Ichinomiya-shi, Aichi 491-0374, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.749965,35.2696328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光川戸苅ライブカメラ / Nikko River Togari Live Camera</name>
+        <description><![CDATA[〒491-0375 愛知県一宮市萩原町戸苅 「愛知県建設部河川課」/ Togari, Hagiwara-cho, Ichinomiya-shi, Aichi 491-0375, "River Division, Aichi Prefecture Construction Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7490583,35.2734288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川起ライブカメラ / Kiso River Okoshi Live Camera</name>
+        <description><![CDATA[〒494-0006 愛知県一宮市起堤町 「木曽川上流河川事務所」/ Okoshitsutsumi-machi, Ichinomiya-shi, Aichi 494-0006, "Kiso River Upper River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7345522,35.309521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>半田空の科学館ライブカメラ / Handa Sky Science Museum Live Camera</name>
+        <description>〒475-0928 愛知県半田市桐ケ丘４丁目4−２１０ 半田空の科学館 / Handa Sky Science Museum, 4-4-21 Kirigaoka, Handa-shi, Aichi 475-0928</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.91308,34.891489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内津川内津川旧河川ライブカメラ / Utsutsukawa River Live Camera</name>
+        <description>〒487-0025 愛知県春日井市出川町 「国土交通省河川情報センター」/ Degawa-cho, Kasugai-shi, Aichi Prefecture, 487-0025, Japan “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0169603,35.2650053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内津川松本ライブカメラ / Utsutsu River Matsumoto Live Camera</name>
+        <description>〒487-0027 愛知県春日井市松本町 「国土交通省河川情報センター」/ Matsumoto-cho, Kasugai-shi, Aichi Prefecture, 487-0027, Japan “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0209009,35.2730298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet地蔵川八田川交差部ライブカメラ / CCNet Jizogawa Yatagawa intersection live camera</name>
+        <description><![CDATA[愛知県春日井市追進町 「CCNet」/ Tsuishin-cho, Kasugai-cho, Aichi, "CCNet"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9399055,35.2238861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IoT百葉箱春日井市立出川小学校ライブカメラ / IoT Hyakuyo Box Kasugai City Degawa Elementary School Live Camera</name>
+        <description><![CDATA[〒487-0025 愛知県春日井市出川町８丁目３−１ 春日井市立出川小学校 「IoT百葉箱」/ Dekawa Elementary School, 8-3-1 Izumigawa-cho, Kasugai-shi, Aichi Prefecture, 487-0025, Japan "IoT Hyakuya Box"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0144301,35.2640554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八田川味美ライブカメラ / Hatta River Ajiyoshi Live Camera</name>
+        <description><![CDATA[〒486-0968 愛知県春日井市味美町 「愛知県建設部河川課」/ Ajiyoshi-cho, Kasugai-shi, Aichi 486-0968, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9410522,35.2377907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川勝川橋上流ライブカメラ / Shonai River Katsugawabashi upstream live camera</name>
+        <description><![CDATA[〒486-0945 愛知県春日井市勝川町１丁目 「庄内川河川事務所」/ 1-chome, Katsukawa-cho, Kasugai-shi, Aichi 486-0945, "Shonaigawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9469817,35.2170188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川東名阪下流ライブカメラ / Shonai River Higashimeihan Downstream Live Camera</name>
+        <description><![CDATA[〒486-0932 愛知県春日井市松河戸町 「庄内川河川事務所」/ Matsukawato-cho, Kasugai-shi, Aichi Prefecture, 486-0932, "Shonaigawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9716757,35.2182918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川内津川合流部ライブカメラ /  Shonai River Utsutsu River Confluence Live Camera</name>
+        <description><![CDATA[〒486-0833 愛知県春日井市上条町５丁目 「庄内川河川事務所」/ 5-chome, joujo-cho, Kasugai-shi, Aichi 486-0833, Japan, ""Shonaigawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9884056,35.2384226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道19号内津トンネル下りライブカメラ / National highway No. 19 Utsutsu tunnel down live camera</name>
+        <description><![CDATA[〒480-0301 愛知県春日井市内津町 「多治見砂防国道事務所」/ Utsutsu-cho, Kasugai-shi, Aichi Prefecture, 480-0301, "Tajimi Sabo National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0631679,35.3279542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目比川目比ライブカメラ / Mukui River Mukui Live Camera</name>
+        <description><![CDATA[愛知県津島市葉刈町字九日田489番地先 「愛知県建設部河川課」 / 489 Hakari-cho, Tsushima-shi, Aichi, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7608069,35.1919925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>碧南市港本町（国道247号）ライブカメラ / National Road 247 Hekinan City Minatohonmachi Town Live Camera
+</name>
+        <description><![CDATA[〒447-0844 愛知県碧南市港本町「株式会社キャッチネットワーク」/ Minatohon-machi, Hekinan-shi, Aichi prefecture 447-0866, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9732234,34.8678815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷PA（伊勢湾岸道路）ライブカメラ / Kariya PA (Ise Wangan Road) Live Camera</name>
+        <description><![CDATA[〒448-0007 愛知県刈谷市東境町吉野２２−３ 刈谷PA（下り）「株式会社キャッチネットワーク」/ Kariya PA, Yoshino, Higashisakai-cho, Kariya-shi, Aichi prefecture, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0462689,35.0412692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷市港町（平成大橋）ライブカメラ / Kariya City Heisei Ohashi Bridge Live Camera</name>
+        <description><![CDATA[〒448-0835 愛知県刈谷市港町 「株式会社キャッチネットワーク」/ Minato-machi, Kariya-shi, Aichi prefecture, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9817249,34.9808601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キャッチライブカメラ / KATCH LIVE CAMERA</name>
+        <description>〒448-0803 愛知県刈谷市野田町大ヒゴ−１キャッチネットワーク / KATCH NETWORK INC., Ohigo-1, Noda-cho, Kariya-shi, Aichi-ken 448-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.039265,34.961573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷駅ライブカメラ / Kariya Station Live Camera</name>
+        <description><![CDATA[〒448-0028 愛知県刈谷市桜町１丁目 刈谷駅  「株式会社キャッチネットワーク」/ Kariya Station, 1-chome Sakura-machi, Kariya-shi, Aichi 448--0028, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0089279,34.9911366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷市高須町（猿渡川）ライブカメラ / Kariya City Takasu Town Saruwatari River Live Camera</name>
+        <description><![CDATA[〒448-0812 愛知県刈谷市高須町 「株式会社キャッチネットワーク」/ Takasu-cho, Kariya-shi, Aichi Prefecture 448-0812, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0093782,34.9808808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷市泉田町（境川）ライブカメラ / Kariya City Izumida Town Sakai River Live Camera</name>
+        <description><![CDATA[〒448-0004 愛知県刈谷市泉田町 「キャッチネットワーク」/ Izumida-cho, Kariya-shi, Aichi 448-0004 , "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0002426,35.025841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>籠川京町ライブカメラ / Kagogawa Kyomachi Live Camera</name>
+        <description><![CDATA[〒471-0063 愛知県豊田市京町４丁目 「国土交通省河川情報センター」/ 4-chome Kyomachi, Toyota-shi, Aichi Prefecture 471-0063, Japan "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1675928,35.1063249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逢妻女川千足ライブカメラ / Aidumame River Senzoku Live Camera</name>
+        <description><![CDATA[〒471-0047 愛知県豊田市西新町９丁目 「国土交通省河川情報センター」/ 9-chome Nishishin-cho, Toyota-shi, Aichi 471-0047, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1109394,35.0770902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逢妻男川若林ライブカメラ / Aidumaogawa River Wakabayashi Live Camera</name>
+        <description><![CDATA[〒473-0923 愛知県豊田市中根町小根崎 「国土交通省河川情報センター」/ Konezaki, Nakane-cho, Toyota-shi, Aichi 473-0923,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0914603,35.0207142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>トヨタ町南ライブカメラ / Toyata Town South Live Camera</name>
+        <description><![CDATA[〒470-1201 愛知県豊田市豊栄町１丁目８８ プラザホテル豊田 「ひまわりネットワーク(まちクル)」/ Plaza Hotel Toyota, 1-88, Houei-cho, Toyota-shi, Aichi 470-1201, Japan "Himawari Network (Machikuru)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1560133,35.0516149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊田大橋ライブカメラ / Toyotaohashi Bridge Live Camera</name>
+        <description><![CDATA[〒471-0016 愛知県豊田市千石町７丁目２ 豊田スタジアム 「ひまわりネットワーク(まちクル)」/ 7-2 Sengoku-cho, Toyota-shi, Aichi 471-0016, Japan Toyota Stadium "Himawari Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.17092,35.0845608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>家下川上郷公園ライブカメラ / Yashita River Kamigo Park Live Camera</name>
+        <description><![CDATA[〒470-1218 愛知県豊田市上郷町５丁目３−１ 「豊田市役所」/ 5-3-1 Kamigo-cho, Toyota-shi, Aichi Prefecture 470-1218, "Toyota City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1345863,35.0163305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川平成記念橋ライブカメラ / Yahagi River Heisei Memorial Bridge Live Camera</name>
+        <description><![CDATA[〒471-0073 愛知県豊田市川田町３丁目 平成記念橋 「ひまわりネットワーク(まちクル)」/ Heisei Memorial Bridge, 3-chome, Kawada-cho, Toyota-shi, Aichi 471-0073,  ""Sunflower Network (Machikuru)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1766717,35.1015866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒田川名倉川合流点ライブカメラ / Kuroda River Nagura River Confluence Live Camera</name>
+        <description><![CDATA[〒441-2513 愛知県豊田市稲武町シモ田２０−１ 豊田市立稲武小学校 「豊田市役所河川監視ライブカメラ」/  Inabu Elementary School, 20-1 Shimota, Inabu-cho, Toyota-shi, Aichi 441-2513, Japan"Toyota City River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5072788,35.2172913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安城市今本町（国道1号）ライブカメラ / Anjo City Imahon Town (National Road) Live Camera</name>
+        <description><![CDATA[〒446-0008 愛知県安城市今本町 「株式会社キャッチネットワーク」/ Imahon-machi, Anjo-shi, Aichi 446-0008, "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0765516,34.9953308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川旭農林会館ライブカメラ / Yahagi River Asahi Agriculture and Forestry Hall Live Camera</name>
+        <description>〒444-2846 愛知県豊田市小渡町七升蒔１３−１３ 旭農林会館 「豊田市役所河川監視ライブカメラ」/ Asahi Agricultural and Forestry Hall, 13-13 Shichishomaki, Odo-cho, Toyota-shi, Aichi Prefecture 444-2846</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3616237,35.2281444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大桑川巴川合流点ライブカメラ / Okuwagawa Tomoegawa Confluence Live Camera</name>
+        <description><![CDATA[〒444-3207 愛知県豊田市大桑町 別当56 豊田市立巴ヶ丘小学校 「豊田市役所河川監視ライブカメラ」/ Tomoegaoka Elementary School 56, Owaku-cho, Toyota-shi, Aichi Prefecture 444-3207, "Toyota City Hall river monitoring live camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3807873,35.041771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足助川巴川合流点ライブカメラ / Asukegawa Tomoegawa Confluence Live Camera</name>
+        <description><![CDATA[〒444-2424 愛知県豊田市足助町宮ノ後２６−２ 豊田市足助支所 「豊田市役所河川監視ライブカメラ」/ Toyota-shi Asuke Sub-branch, 26-2 Miyanogo, Asuke-cho, Toyota-shi, Aichi 444-2424,   "Toyota City Hall River Monitoring Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3119258,35.1343978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿摺川月原公民館ライブカメラ / Azurigawa Tsukihara Community Center Live Camera</name>
+        <description><![CDATA[〒444-2527 愛知県豊田市月原町上向田 月原公民館 「 豊田市役所河川監視ライブカメラ」/ Tsukihara Community Center, Kamikoda, Tsukihara-cho, Toyota-shi, Aichi Prefecture 444-2527, ""Toyota City Office River Surveillance Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2762579,35.1811639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[田代川北栄こども園ライブカメラ / Tashiro River Hokuei Children's Institution Live Camera ]]></name>
+        <description><![CDATA[〒470-0565 愛知県豊田市下仁木町仲硲428−1 豊田市立 北栄こども園 「 豊田市役所河川監視ライブカメラ」/ Toyota City Hokuei Children's Park, 428-1 Nakashiki, Shimoniki-cho, Toyota-shi, Aichi 470-0565, "Toyota City Hall Live Monitoring Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2970871,35.249716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯野川豊田市役所藤岡支所ライブカメラ / Iinogawa River Toyota City Office Fujioka Branch Live Camera</name>
+        <description>〒470-0451 愛知県豊田市藤岡飯野町田中２４５ 豊田市 藤岡支所 「 豊田市役所河川監視ライブカメラ」/ Toyota City Fujioka Branch, 245 Tanaka, Iino-cho, Fujioka, Aichi Prefecture 470-0451, “Toyota City Hall River Monitoring Live Camera”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.206647,35.197805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴川松平支所ライブカメラ / Tomoe Matsudaira branch live camera</name>
+        <description><![CDATA[〒444-2216 愛知県豊田市九久平町寺前１６ 松平支所(松平コミュニティセンター) 「 豊田市役所河川監視ライブカメラ」/ Matsudaira Branch (Matsudaira Community Center), 16 Teramae, Kukudaira-cho, Toyota-shi, Aichi 444-2216 "Toyota City Hall River Monitoring Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2142664,35.0545647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逢妻女川駒場町ライブカメラ / Aidumame River Komaba Town Live Camera</name>
+        <description>〒473-0925 愛知県豊田市駒場町新生58 豊田市立駒場小学校 「 豊田市役所河川監視ライブカメラ」/</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0540399,35.0194583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逢妻女川堤町ライブカメラ / Aidumame River Tsutsumi Town Live Camera</name>
+        <description><![CDATA[〒473-0932 愛知県豊田市堤町 「 豊田市役所河川監視ライブカメラ」/ Tsutsumi-cho, Toyota-shi, Aichi 473-0932,   "Toyota City Hall river monitoring live camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0948078,35.0517429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作ダム下流付近ライブカメラ / Yahagi Dam Downstream Live Camera</name>
+        <description><![CDATA[〒444-2841 愛知県豊田市閑羅瀬町東畑６７−４矢作ダム 「豊橋河川事務所」/ Yahagi Dam 67-4 Higashihata, Shizurase-cho, Toyota-shi, Aichi 444-2841, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4194155,35.2369883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川時瀬河川敷公園ライブカメラ / Yahagi River Tokise Riverbed Park Live Camera </name>
+        <description><![CDATA[〒444-2847 愛知県豊田市時瀬町仲平５１ 時瀬河川敷公園 「豊橋河川事務所」/ Tokase Riverbed Park, 51 Nakadaira, Tokise-cho, Toyota -shi, Aichi Prefecture 444-2847, "Tokihashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3765388,35.2406269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川日の出橋ライブカメラ / Yahagi River Hinode Bridge Live Camera</name>
+        <description><![CDATA[〒444-2846 愛知県豊田市小渡町船戸 日の出橋 「豊橋河川事務所」/ Hinodebashi Bridge,  Funado, Odo-cho, Toyota-shi, Aichi Prefecture 444-2846, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3616681,35.2323466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川有平橋ライブカメラ / Yahagi River Yuhei Bridge Live Camera</name>
+        <description><![CDATA[愛知県豊田市平畑町 有平橋 「豊橋河川事務所」/ Arihirahashi Bridge, Hirahata-cho, Toyota-shi, Aichi Prefecture, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.331015,35.225744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川笹戸橋ライブカメラ / Yahagi River Sasado Bridge Live Camera</name>
+        <description><![CDATA[〒444-2826 愛知県豊田市笹戸町惣作 笹戸橋 「豊橋河川事務所」/ Sasadobashi Bridge, Sosaku, Sasado-cho, Toyota-shi, Aichi 444-2826, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3216724,35.2160886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川上川口やなライブカメラ / Yahagi River Kamikawaguchi Live Camera</name>
+        <description><![CDATA[〒470-0421 愛知県豊田市上川口町神田１１２ 川口やな 「豊橋河川事務所」/ Kawaguchiyana, 112 Kanda, Kamikawaguchi-cho, Toyota-shi, Aichi 470-0421 "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2762188,35.1942472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川阿摺ダムライブカメラ / Yahagi River Asuri Dam Live Camera</name>
+        <description><![CDATA[〒444-2527 愛知県豊田市月原町丸竹 矢作 川 阿摺ダム 「豊橋河川事務所」/ Yahagi River Asuri Dam, Marutake, Tsukihara-cho, Toyota-shi, Aichi Prefecture 444-2527, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2550128,35.1674664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川広梅橋ライブカメラ / Yahagi River Hiroumebashi Bridge Live Camera</name>
+        <description><![CDATA[愛知県豊田市東広瀬町 広梅橋「豊橋河川事務所」/ Hiroumebashi, Higashihirose-cho, Toyota-shi, Aichi Prefecture, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2192872,35.1518601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川平戸橋ライブカメラ / Yahagi River Hirado Bridge Live Camera</name>
+        <description><![CDATA[〒470-0331 愛知県豊田市平戸橋町波岩 平戸橋 「豊橋河川事務所」/ Hiwatobashi Bridge, Namiiwa, Hiratobashi-cho, Toyota-shi, Aichi Prefecture, 470-033, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1892969,35.1165303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川高橋ライブカメラ / Yahagi River Takahashi Live Camera</name>
+        <description><![CDATA[〒471-0021 愛知県豊田市中島町 「豊橋河川事務所」/ Nakajima-cho, Toyota-shi, Aichi 471-0021, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.167288,35.0895771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川久澄橋ライブカメラ / Yahagi River Kyuchobashi Bridge Live Camera</name>
+        <description><![CDATA[〒471-0806 愛知県豊田市白浜町 久澄橋 「豊橋河川事務所」/ Kyuchobashi, Shirahama-cho, Toyota-shi, Aichi 471-0806, "Toyohashi River Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1662508,35.0824676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川篭川合流点付近ライブカメラ / Yahagi River Kagogawa Confluence Live Camera</name>
+        <description><![CDATA[〒471-0072 愛知県豊田市落合町 「豊橋河川事務所」/ Ochiai-cho, Toyota-shi, Aichi Prefecture 471-0072, " Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1709452,35.1013103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川加茂川水門ライブカメラ / Yahagi River Kamo River Sluice Live Camera</name>
+        <description><![CDATA[〒471-0811 愛知県豊田市御立町１３丁目 「豊橋河川事務所」/ 13-chome, Ontachi-cho, Toyota-shi, Aichi 471-0811, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.167932,35.0797959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川竜宮橋ライブカメラ / Yahagi River Ryugubashi Bridge Live Camera</name>
+        <description><![CDATA[〒471-0812 愛知県豊田市野見町６丁目 「豊橋河川事務所」/6-chome, Nomi-cho, Toyota-shi, Aichi 471-0812, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1773459,35.0683289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川加茂橋ライブカメラ / Yahagi River Kamo Bridge Live Camera</name>
+        <description><![CDATA[〒444-2527 愛知県豊田市月原町 加茂橋 「豊橋河川事務所」/ Kamohashi Bridge, Tsukihara-cho, Toyota-shi, Aichi Prefecture, 444-2527, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2703972,35.1833648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川明治頭首工ライブカメラ / Yahagi River Meijitoushuko Live Camera</name>
+        <description><![CDATA[〒471-0822 愛知県豊田市水源町６丁目 水源橋 「豊橋河川事務所」/Mizugenbashi, 6-chome, Suigen-cho, Toyota-shi, Aichi 471-0822, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1781611,35.0459928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号中切町ライブカメラ / National Road 153 Nakagiri Town  Live Camera</name>
+        <description><![CDATA[〒470-0315 愛知県豊田市中切町 「ひまわりネットワーク」/ Nakagiri-cho, Toyota-shi, Aichi 470-0315, "Himawari Network"<br>https://livecamera.fujiyamasan.com/toyotar153.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2789493,35.1286077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊田外環状曙町ライブカメラ / Toyota Outer Loop Akebonocho Live Camera</name>
+        <description><![CDATA[〒471-0835 愛知県豊田市曙町「ひまわりネットワーク」/ Akebono-cho, Toyota-shi, Aichi 471-0835, "Himawari Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1301215,35.057028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号小田木東ヘアピンライブカメラ / National Road 153 Otagi East Hairpin Live Camera</name>
+        <description><![CDATA[〒441-2525 愛知県豊田市小田木町 「名古屋国道事務所(めいこくWEB)」/ Otagi-cho, Toyota-shi, Aichi 441-2525, "Nagoya National Highway Office Meikoku WEB"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4539427,35.1830185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号郡界橋ライブカメラ / National Road 153 Gunkaikyo Live Camera</name>
+        <description><![CDATA[〒444-2601 愛知県豊田市明川町栃平 「名古屋国道事務所めいこくWEB」/ Tochidaira, Akikawa-cho, Toyota-shi, Aichi Prefecture, 444-2601 “Nagoya National Highway Office Meikoku WEB”<br>https://livecamera.fujiyamasan.com/toyotar153.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4046279,35.1704323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号明川岩立ライブカメラ / National highway No. 153 Akegawa Iwatate live camera</name>
+        <description><![CDATA[〒444-2601 愛知県豊田市明川町 「名古屋国道事務所めいこくWEB」/ Akikawa-cho, Toyota-shi, Aichi 444-2601 “Meikoku WEB, Nagoya National Highway Office”<br>https://livecamera.fujiyamasan.com/toyotar153.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4200501,35.1688945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号大野瀬トンネル飯田側ライブカメラ / National highway No. 153 Onose tunnel Iida side live camera</name>
+        <description><![CDATA[〒441-2511 愛知県豊田市大野瀬町 国道153号 & 大野瀬トンネル 「名古屋国道事務所めいこくWEB」/  Route 153 & Onose tunnel, Onose-cho, Toyota-shi, Aichi 441-2511, "Nagoya National Highway Office Meikoku WEB"<br>https://livecamera.fujiyamasan.com/toyotar153.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5457742,35.2639076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道419号梅坪町9丁目ライブカメラ / National Road 419 Umetsubo-cho 9-chome Live Camera</name>
+        <description><![CDATA[〒471-0064 愛知県豊田市梅坪町９丁目 「ひまわりネットワーク(まちクル)」/ 9-chome, Umetsubo-cho, Toyota-shi, Aichi 471-0064, "Himawari Network Machikuru"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1624122,35.0987151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号挙母町ライブカメラ / National Road 153 Koromo Town Live Camera</name>
+        <description><![CDATA[〒471-0023 愛知県豊田市挙母町 「ひまわりネットワーク(まちクル)」/  Koromo-cho, Toyota-shi, Aichi Prefecture 471-0023, "Himawari Network (Machikuru)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1624122,35.0829446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道153号小坂町10丁目ライブカメラ / National Road 153 Kozaka Town 10-chome Live Camera</name>
+        <description><![CDATA[〒471-0035 愛知県豊田市小坂町１０丁目 「ひまわりネットワーク(まちクル)」/ 10-chome, Kosaka-cho, Toyota-shi, Aichi 471-0035, Japan, "Himawari Network Machikuru"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1453504,35.0845131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道301号御立町3丁目ライブカメラ / National Road 301 Mitachi Town 3-chome Live Camera</name>
+        <description><![CDATA[〒471-0811 愛知県豊田市御立町 「ひまわりネットワーク(まちクル)」/ Mitachi-cho, Toyota-shi, Aichi 471-0811, "Himawari Network Machikuru"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1715548,35.0773546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安城市柿碕町（市道四十目三ツ訳線）ライブカメラ /Anjo City Kakizaki Town (City Road Yotsumemitsuwake Line) Live Camera</name>
+        <description><![CDATA[〒446-0003 愛知県安城市柿碕町 「株式会社キャッチネットワーク」/ Kakizaki-cho, Anjo-shi, Aichi 446-0003, ""KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1203773,34.9783998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川東海道新幹線高架付近ライブカメラ / Yahakawa Tokaido Shinkansen elevated live camera</name>
+        <description><![CDATA[〒444-1152 愛知県安城市川島町上堤東 「豊橋河川事務所」/ Kamitsutsumihigashi, Kawashima-cho, Anjo-shi, Aichi 444-1152, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1100262,34.9203236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川安城市水防監視所ライブカメラ / Yahagi River Anjo City Flood Control Station Live Camera</name>
+        <description><![CDATA[〒444-1162 愛知県安城市小川町天神 「豊橋河川事務所」/ Tenjin, Ogawa-cho, Anjo-shi, Aichi Prefecture 444-1162, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1051558,34.9024082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川新鹿乗川排水機場ライブカメラ / Yahagi River Shin-Kanorigawa River Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒444-1163 愛知県安城市木戸町丸池 「豊橋河川事務所」/ Maruike, Kido-cho, Anjo-shi, Aichi 444-1163, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0929818,34.8937156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川志貴野橋ライブカメラ / Yahagi River Shikanobashi Bridge Live Camera</name>
+        <description><![CDATA[〒444-1164 愛知県安城市藤井町大畑 「豊橋河川事務所」/ Ohata, Fujii-cho, Anjo-shi, Aichi 444-1164, "Toyohashi RIver Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0805066,34.8919396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田支川・追田雨水幹線ライブカメラ / Kanda tributary / Oeda rainwater trunk live camera</name>
+        <description><![CDATA[愛知県安城市 「河川水位観測システム」/ Anjo-shi, Aichi, ""River water level observation system"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0803192,34.9586164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高棚北IC（国道23号）ライブカメラ / National Road 23 Takatanakita IC Live Camera</name>
+        <description><![CDATA[〒446-0053 愛知県安城市高棚町芦池 高棚北IC  「株式会社キャッチネットワーク」/ Takatanakita IC, Ashiike, Takatana-cho, Anjo-shi, Aichi 446-0053, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0372913,34.959801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安城市赤松町（半場川）ライブカメラ / Anjo City Akamatsu Town Hanba River Live Camera</name>
+        <description><![CDATA[愛知県安城市 半場川 「株式会社キャッチネットワーク」/ Hanba River, Anjo-shi,  "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0488327,34.9194922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KATCH追田川安城市城南町ライブカメラ / KATCH Otagawa Anjo City Jonan Town Live Camera</name>
+        <description><![CDATA[〒446-0043 愛知県安城市城南町 「キャッチネットワーク」/Jonan-cho, Anjo-shi, Aichi Prefecture 446-0043, "Katch Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0789854,34.9513176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川安城出張所ライブカメラ / Yahagi River Anjo branch office live camera</name>
+        <description><![CDATA[〒444-1164 愛知県安城市藤井町南居林 「豊橋河川事務所」/ Minamibayashi, Fujii-cho, Anjo-shi, Aichi Prefecture, 444-1164."Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0698593,34.8915228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田支川柿碕町第1ライブカメラ</name>
+        <description>〒446-0003 愛知県安城市柿碕町</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1203773,34.9783998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西尾東IC（国道23号）ライブカメラ / National Road 23 Nishiohigashi IC Live Camera</name>
+        <description><![CDATA[〒445-0026 愛知県西尾市江原町西柄 西尾東インタ 「株式会社キャッチネットワーク」/ Nishiohigashi IC, Nishitsuka, Ewara-cho, Nishio-shi, Aichi 445-0026, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0901333,34.8672397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西尾市吉良町（宮崎海岸）ライブカメラ / Nishio City Kira Town Miyazaki Coast Live Camera</name>
+        <description><![CDATA[愛知県西尾市吉良町 「株式会社キャッチネットワーク」/ Kira-cho, Nishio-shi, Aichi, "KATCHNETWORK INC." ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0959333,34.7814517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新郷瀬川羽黒ライブカメラ / Shingose River Haguro Live Camera</name>
+        <description><![CDATA[〒484-0805 愛知県犬山市羽黒新外山 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Haguro Shintoyama, Inuyama-shi, Aichi Prefecture 484-0805 , "Aichi Prefecture Construction Department River Division Aichi Prefecture River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9638127,35.352402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐久島（外海）ライブカメラ / Saku Island Open Sea Live Camera</name>
+        <description><![CDATA[愛知県西尾市 佐久島 「株式会社キャッチネットワーク」/ Saku Island, Nishio City, Aichi Prefecture,  "KATCHNETWORK INC." ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0400589,34.7289853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐久島（東港）ライブカメラ / Sakushima Higashi Port Live Camera</name>
+        <description><![CDATA[愛知県西尾市 佐久島 東港「株式会社キャッチネットワーク」/ East Port, Saku Island, Nishio City, Aichi Prefecture, Aichi, "KATCHNETWORK INC." ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0485676,34.7181011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢崎川矢崎川水位観測所ライブカメラ / Yazaki River Yazaki River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒444-0533 愛知県西尾市吉良町寺嶋 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Terashima, Kira-cho, Nishio-shi, Aichi Prefecture 444-0533 "Aichi Prefecture Construction Department River Division Aichi Prefecture River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0862874,34.8326863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西尾市一色町（佐久島行船のりば）ライブカメラ / Nishio City Isshiki Town (boat line bound for Sakushima) Live Camera</name>
+        <description>〒444-0424 愛知県西尾市一色町小薮船江東 一色さかな広場佐久島行船のりば / Isshiki Fish Square Sakushima Bus Stop, Koyabune, Isshiki-cho, Nishio-shi, Aichi Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.015583,34.794318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北浜川北浜ライブカメラ / Kitahama River Kitahama Live Camera</name>
+        <description>愛知県西尾市徳永町八ツ田</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0288122,34.8417383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[国宝犬山城＆御岳ライブカメラ /  National Treasure Inuyama Castle & Otake live camera]]></name>
+        <description><![CDATA[〒484-0079 愛知県犬山市木津 「USTREAM」 / Kotsutsu, Inuyama-shi, Aichi-ken 484-0079, "USTREAM"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9276074,35.3746247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬山市継鹿尾木曽川左岸59.6Km犬山水位観測所ライブカメラ / Kiso River Left Bank 59.6Km Inuyama Water Level Observatory Live Camera</name>
+        <description><![CDATA[愛知県犬山市継鹿尾 「木曽川上流河川事務所」/ Tsugao, Inuyama-shi, Aichi, "Kiso River Upper River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.962767,35.3988218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川曽本ライブカメラ / Gojo River Somoto Live Camera</name>
+        <description><![CDATA[〒483-8128 愛知県江南市小折本町柳橋  「国土交通省河川情報センター」/ Yanagibashi, Koorihon-machi, Konan-shi, Aichi Prefecture 483-8128, ""Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/konan-gojo-river-somoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8779831,35.3064115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川すいとぴあ江南ライブカメラ / Kiso River Suitopia Konan Live Camera</name>
+        <description><![CDATA[〒483-8007 愛知県江南市草井町西２００ すいとぴあ江南 「木曽川上流河川事務所」/ Suitopia Konan, 200 Nishi, Kusai-cho, Konan-shi, Aichi Prefecture 483-8007,  "Kiso River Upper River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.878698,35.370979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川祖父江簡易水位ライブカメラ / Kiso River Sobue Simple water level live camera</name>
+        <description><![CDATA[〒495-0037 愛知県稲沢市祖父江町拾町野 「木曽上流河川事務所」/Jicchouno, Sobue-cho, Inazawa-shi, Aichi 495-0037, " Kiso Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6983054,35.257617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三宅川井堀ライブカメラ / Miyake River Ibori Live Camera</name>
+        <description><![CDATA[愛知県稲沢市井堀川東町 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Iborikawa Higashi-cho, Inazawa-shi, Aichi Prefecture "Aichi Prefecture Construction Department River Division Aichi Prefecture River Monitoring Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7653826,35.2285917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>領内川祖父江ライブカメラ / Ryonai River Sobue Live Camera</name>
+        <description><![CDATA[〒495-0014 愛知県稲沢市祖父江町大牧三反田１２２ 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Omaki Santanda, Sobue-cho, Inazawa-shi, Aichi Prefecture 495-0014, ""Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7205926,35.2354578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>領内川諏訪ライブカメラ / Ryonai River Suwa Live Camera</name>
+        <description><![CDATA[愛知県稲沢市平和町 「愛知県建設部河川課(愛知県河川監視カメラ情報)」/ Heiwa-cho, Inazawa-shi, Aichi Prefecture "Aichi Prefecture Construction Department River Division (Aichi River surveillance camera information)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7357609,35.2081825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masuo Home Page</name>
+        <description>愛知県東海市 東海ライブ気象台 / Tokai live weather stations, Tokai-shi, Aichi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.902351,35.022968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる名鉄太田川駅ライブカメラ / Chitamaru Meitetsu Otagawa Station Live Camera </name>
+        <description><![CDATA[〒477-0031 愛知県東海市大田町後田２０−１「ちたまるナビ(ちたまるNavi)」/ 20-1 Gota, Ota-cho, Tokai-shi, Aichi 477-0031, "Chitamaru Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8935937,35.0195313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる名和北交差点ライブカメラ / Chitamaru Nawakita Intersection Live Camera </name>
+        <description><![CDATA[〒476-0002 愛知県東海市名和町 「ちたまるナビ」/ Nawa-cho, Tokai-shi, Aichi 476-0002, "Chitamaru Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9198183,35.0515528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる西知多産業道路大田町付近ライブカメラ / Chitamaru Nishi Chita Industrial Road Otamachi Live Camera</name>
+        <description><![CDATA[〒477-0031 愛知県東海市大田町下浜田１６５ 「ちたまるNAVI」/ 165 Shimohamada, Ota-cho, Tokai-shi, Aichi 477-0031, "Chitamaru NAVI"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8872786,35.0213217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>延命寺永代供養墓ライブカメラ / Enmeiji Temple Eternal memorial service Live Camera</name>
+        <description>〒474-0023 愛知県大府市大東町１丁目２７９ 宝龍山延命寺 / Horyuzan Enmeiji Temple, 1-279 Daito-cho, Obu-shi, Aichi 474-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9709626,35.009124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川信濃川樋門ライブカメラ / Shinano River Shinano River Himon Live Camera</name>
+        <description><![CDATA[〒477-0034 愛知県東海市養父町正神 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Shoshin, Yabu-machi, Tokai-shi, Aichi 477-0034, ""Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.875559,35.0079149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大田川順見橋ライブカメラ / Ota River Junken Bridge Live Camera</name>
+        <description><![CDATA[〒477-0032 愛知県東海市加木屋町順見 「東海市役所東海市河川水位等情報提供サービス」/ Junken, Kagiya-machi, Tokai-shi, Aichi Prefecture 477-0032, "Tokai City Hall Tokai City River Water Level Information Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9031407,34.9955912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡内川木庭中橋ライブカメラ / Watauchi River Konbanakahashi Bridge Live Camera</name>
+        <description><![CDATA[〒476-0011 愛知県東海市富木島町 「東海市役所(東海市河川水位等情報提供サービス)」/ Fukishima-cho, Tokai-shi, Aichi 476-0011, "Tokai City Hall (Tokai City River Water Level Information Service)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.924671,35.0177056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土留木川山東橋ライブカメラ / Todomeki River Yamahigashi Bridge Live Camera</name>
+        <description><![CDATA[〒476-0002 愛知県東海市名和町北三ケ月 「東海市役所東海市河川水位等情報提供サービス」/ Kita-Mikkatsuki, Nawa-cho, Tokai-shi, Aichi Prefecture 476-0002,  "Tokai City Hall Tokai City River Water Level Information Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.912866,35.0575216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土留木川南柴田樋門第2ライブカメラ / Todomeki River Minamishibatahimon Second Live Camera</name>
+        <description><![CDATA[〒476-0001 愛知県東海市南柴田町 「東海市役所東海市河川水位等情報提供サービス」/ Minamishibata-cho, Tokai-shi, Aichi Prefecture 476-0001, "Tokai City Hall Tokai City River Water Level Information Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9016248,35.0626584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる大府高校北交差点ライブカメラ / Chitamaru Obu High School North Intersection Live Camera</name>
+        <description><![CDATA[〒474-0036 愛知県大府市月見町５丁目２５４ 「ちたまるNAVI」/ 5-254 Tsukimi-cho, Obu-shi, Aichi 474-0036, "Chitamaru NAVI"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9569266,35.0049955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまるJR大府駅ライブカメラ / Chitamaru JR Obu Station Live Camera</name>
+        <description><![CDATA[〒474-0025 愛知県大府市中央町３丁目６７ 「ちたまるナビ(ちたまるNavi)」/ 3-67 Chuo-cho, Obu-shi, Aichi 474-0025, "Chitamaru NAVI"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9620505,35.00917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知立駅ライブカメラ / Chiryu Station Live Camera</name>
+        <description><![CDATA[〒472-0037 愛知県知立市栄２丁目６０ 知立駅 「株式会社キャッチネットワーク」/ Sakae, Chiryu-shi, Aichi 472-0037, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.039871,35.0060178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中IC（国道23号）ライブカメラ / Nishinaka IC National Road 23 Live Camera</name>
+        <description><![CDATA[〒472-0016 愛知県知立市西中町南新切 町北吹戸 西中 I.C. (下り入口)「株式会社キャッチネットワーク」/ Nishinaka-machi, Chiryu-shi, Aichi 472-0016, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0393554,34.98608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知立市西町（国道1号）ライブカメラ / Chiryu City Nishimachi (National Road 1) Live Camera</name>
+        <description><![CDATA[〒472-0023 愛知県知立市西町 「株式会社キャッチネットワーク」/ Nishimachi, Chiryu-shi, Aichi 472-0023, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0400589,35.0131629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知立市逢妻町（逢妻川）ライブカメラ / Chiryu City Aizuma Town Aizuma River Live Camera</name>
+        <description><![CDATA[〒472-0021 愛知県知立市逢妻町 「株式会社キャッチネットワーク」/ Aizuma-cho, Chiryu-shi, Aichi 472-0021, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0400589,35.0176668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知立市八ツ田町（猿渡川）ライブカメラ / Chiryu City Yatsuda Town Saruwatari River Live Camera</name>
+        <description><![CDATA[〒472-0012 愛知県知立市八ツ田町 「株式会社キャッチネットワーク」/ Yatsuda-cho, Chiryu-shi, Aichi 472-0012, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0616642,34.9944638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野田IC（国道23号）ライブカメラ / National Road 23 Noda IC Live Camera</name>
+        <description><![CDATA[〒448-0806 愛知県刈谷市松栄町２丁目 野田IC 「株式会社キャッチネットワーク」/ Noda IC, 2-chome, Matsusakae-cho, Kariya-shi, Aichi 472-0806, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0366956,34.9779493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる新舞子ライブカメラ / Chitamaru Shinmaiko Live Camera</name>
+        <description><![CDATA[〒478-0035 愛知県知多市大草大瀬１１７−６０ 新舞子公園 「ちたまるナビ」/ Shinmaiko Park, 117-60 Okusaose, Chita-shi, Aichi 478-0035, "Chitamaru Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8270452,34.9459801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる西知多産業道路朝倉インターチェンジ周辺ライブカメラ / Chitamaru Nishi Chita Industrial Road Asakura interchange Live camera</name>
+        <description><![CDATA[〒478-0047 愛知県知多市緑町 「ちたまるナビ」/ Midori-machi, Chita-shi, Aichi 478-0047, "Chitamaru Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8676812,35.0005131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢田川平子ライブカメラ / Yata River Hirako Live Camera</name>
+        <description><![CDATA[愛知県尾張旭市庄中町 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Shonaka-cho, Owariasahi-shi, Aichi Prefecture, "Aichi Prefecture Construction Department River Division Aichi River Monitoring Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0153036,35.2027976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高浜市芳川町（国道419号）ライブカメラ / Takahama City Yoshikawa Town (National Road 419) Live Camera</name>
+        <description><![CDATA[〒444-1335 愛知県高浜市芳川町 「株式会社キャッチネットワーク」/ Yoshikawa-cho, Takahama-shi, Aichi 444-1335, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9817249,34.935821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高浜市碧海町（衣浦大橋）ライブカメラ / Takahama Aomi Town Kinuuraohashi Live Camera
+</name>
+        <description><![CDATA[〒444-1324 愛知県高浜市碧海町 「株式会社キャッチネットワーク」/ Aomi-cho, Takahama-shi, Aichi 444-1324, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9841541,34.9188632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川の様子 / Gojo River</name>
+        <description><![CDATA[〒482-0022 愛知県岩倉市栄町１丁目６６　岩倉市役所 / Iwakura City Hall, 1-66 Sakae-machi, Iwakura-shi, Aichi-ken 482-0022<br>https://livecamera.fujiyamasan.com/gojoriver.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8714105,35.2795371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊明IC（国道23号）ライブカメラ / National Road 23 Toyoake IC Live Camera</name>
+        <description><![CDATA[〒470-1161 愛知県豊明市栄町元屋敷 豊明 I.C. (下り入口) 「株式会社キャッチネットワーク」/ Toyoake I.C., Motoyashiki, Sakae-machi, Toyoake-shi, Aichi 470-116, "KATCHNETWORK INC."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.001743,35.0397137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet天王川大久伝排水機場ライブカメラ / CCNet Tennogawa Okuden Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒470-1111 愛知県豊明市大久伝町中 「CCNet」/ Naka, Okute-cho, Toyoake-shi, Aichi 470-1111, "CCNet"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.025773,35.0533422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet天白川国道153号付近ライブカメラ /  CCNet Tenshirakawa Route 153 Live camera</name>
+        <description><![CDATA[〒470-0132 愛知県日進市梅森町西田面 「CCNet」/ Umemori-cho, Nisshin-shi, Aichi 470-0132, "CCNet"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0133142,35.129711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光川古瀬水位観測所ライブカメラ / Nikkogawa Furuse Water Level Observatory Live Camera </name>
+        <description><![CDATA[〒496-8004 愛知県愛西市古瀬町村前１４　「愛知県建設部河川課」/ 14 "Furuse Town Village, Aisei City, Aichi Prefecture, 496-8004" "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7501728,35.1896603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光川古瀬ライブカメラ / Nikko River Furuse Live Camera</name>
+        <description><![CDATA[〒496-8004 愛知県愛西市古瀬町 「愛知県建設部河川課」/ Furuse-cho, Aisai-shi, Aichi 496-8004, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7520809,35.1890874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川立田大橋下流ライブカメラ / </name>
+        <description><![CDATA[〒496-0946 愛知県愛西市立田町 「木曽川下流河川事務所」/ Tatsuda-cho, Aisai-shi, Aichi Prefecture 496-0946, "Kiso River Lower River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6850215,35.1431069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川船頭平閘門ライブカメラ / Kiso River Sendohirakoumon Live Camera</name>
+        <description><![CDATA[〒496-0946 愛知県愛西市立田町十六石山 「木曽川下流河川事務所」/ Jurokuishiyama, Tateta-cho, Aisai-shi, Aichi Prefecture 496-0946, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6810974,35.131002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川福原ライブカメラ / Nagara River Fukuhara Live Camera</name>
+        <description><![CDATA[〒496-0947 愛知県愛西市福原新田町 「木曽川下流河川事務所」/ Fukuharashinden-cho, Aisai-shi, Aichi 496-0947, ""Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6832104,35.1294186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川長良川大橋ライブカメラ / Nagara River Nagara River Ohashi Live Camera
+</name>
+        <description><![CDATA[愛知県愛西市 長良川大橋 「木曽川下流河川事務所」 / Nagara River Bridge, Aisai-shi, Aichi, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6734472,35.146228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川立田大橋ライブカメラ / Kiso River Tatsuta Ohashi Bridge Live Camera</name>
+        <description><![CDATA[〒496-0946 愛知県愛西市立田町 「木曽川下流河川事務所」/ Tatsuta-cho, Aisai-shi, Aichi, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6766773,35.1475877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川東海大橋下流ライブカメラ / Nagara River Tokai Ohashi downstream live camera</name>
+        <description><![CDATA[愛知県愛西市江西町 「木曽川下流河川事務所」/ Enishi-cho, Aisai-shi, Aichi, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6934745,35.2196539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川東海大橋ライブカメラ / Kisogawa River Tokai Bridge Live Camera</name>
+        <description><![CDATA[〒496-8042 愛知県愛西市給父町 「木曽川下流河川事務所」/ Kyufu-cho, Aisai-shi, Aichi 496-8042, "Kiso River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6838141,35.2243183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川水場川排水機場ライブカメラ / Shinkawa Mizuba River Drainage Pump Station Live Camera </name>
+        <description><![CDATA[〒452-0901 愛知県清須市阿原向北 「愛知県建設部河川課」/ Kohoku Awara, Kiyosu-shi, Aichi Prefecture 452-0901, "Aichi Prefecture Construction Department River Division '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8631369,35.2143764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川春日ライブカメラ / Gojo River Kasuga Live Camera</name>
+        <description><![CDATA[愛知県清須市春日　「愛知県建設部河川課」/ Kasuga, Kiyosu City, Aichi Prefecture "Aichi Prefecture Construction Department River Division" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8422385,35.2328986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川野田ライブカメラ / Gojo River Noda Live Camera</name>
+        <description><![CDATA[〒452-0962 愛知県清須市春日野田町 「愛知県建設部河川課」/ Kasuganoda-cho, Kiyosu-shi, Aichi Prefecture 452-0962, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8473866,35.2253631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川清洲ライブカメラ / Gojo River Seishu Live Camera</name>
+        <description><![CDATA[〒452-0942 愛知県清須市清洲 「愛知県建設部河川課」/ Kiyosu, Kiyosu-shi, Aichi 452-0942, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8410273,35.2133036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川法界門橋ライブカメラ / Gojogawa River Hokaimonbashi live camera</name>
+        <description><![CDATA[愛知県清須市桃栄2丁目 法界門橋 「愛知県建設部河川課」/ 2-chome, Toei, Kiyosu-shi, Aichi, ""Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8382916,35.1964099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川新川橋ライブカメラ / Shinkawa Shinkawabashi live camera</name>
+        <description><![CDATA[〒452-0914 愛知県清須市土器野 「愛知県建設部河川課」/ Dokino, Kiyosu-shi, Aichi Prefecture 452-0914, "Aichi Prefecture Construction Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8525352,35.1931528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川庄内川水防センターライブカメラ / Shonai River Shonai River Flood Control Center Live Camera</name>
+        <description><![CDATA[愛知県清須市西枇杷島町枇杷池 みずとぴぁ 庄内 庄内川水防センター 「庄内川河川事務所」/ Shonaigawa Flood Control Center, Bibiike, Nishibiwajima-cho, Kiyosu-shi, Aichi Prefecture, "Shonaigawa River River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8603777,35.1920349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川枇杷島観測所ライブカメラ / Shonaigawa Biwajima Observatory Live Camera </name>
+        <description><![CDATA[〒452-0021 愛知県清須市西枇杷島町小田井１丁目 「庄内川河川事務所」/ 1-chome, Odai, Nishibiwajima-cho, Kiyosu-shi, Aichi 452-0021, Japan, "Shonaigawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8734379,35.2032193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北名古屋市役所東庁舎 / Kitanagoya City Hall East Building</name>
+        <description>〒481-8501 愛知県北名古屋市熊之庄御榊60番 / 60 Misakaki, Kumanosho, Kitanagoya-shi, Aichi 481-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8862045,35.2504644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北名古屋市役所西庁舎 / Kita Nagoya City Hall West building</name>
+        <description>〒481-8531 愛知県北名古屋市西之保清水田15番地 / 15 Shimizuda, Nishinoho, Kitanagoya-shi, Aichi 481-8531</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8660879,35.2457243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>お天気カメラ(南方向) / Weather camera (South direction)</name>
+        <description>〒481-0041 愛知県北名古屋市九之坪　私設北名古屋お天気センター / Private North Nagoya Weather Center, Kunotsubo, Kitanagoya-shi, Aichi-ken 481-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8683615,35.2319281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川鴨田川排水機場ライブカメラ / Shinkawa Kamoda River drainage pumping station live camera </name>
+        <description><![CDATA[〒481-0041 愛知県北名古屋市九之坪鴨田１３７ 「愛知県建設部河川課」/ 137 Kamoda, Kita-Nagoya-shi, Aichi Prefecture 481-0041, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8787309,35.2273614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川久地野ライブカメラ / Shinkawa Kujino Live Camera</name>
+        <description><![CDATA[〒481-0012 愛知県北名古屋市久地野権現 「愛知県建設部河川課」/ Kujinogongen, Kita-Nagoya-shi, Aichi Prefecture 481-0012, "Aichi Prefecture Construction Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8976838,35.2357879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>合瀬川中江川排水機場ライブカメラ / Aisegawa Nakaegawa drainage pumping station live camera</name>
+        <description><![CDATA[〒481-0002 愛知県北名古屋市片場八反 「愛知県建設部河川課」/ Hachitan Kataba, Kita-Nagoya-shi, Aichi Prefecture 481-0002, "Aichi Prefecture Construction Department, River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8998058,35.2454162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川中流付近ライブカメラ /Gojo River Middle Stream Live Camera</name>
+        <description><![CDATA[〒481-0005 愛知県北名古屋市薬師寺 「北名古屋市役所」/ Yakushiji, Kitanagoya-shi, Aichi 481-0005, "Kitanagoya City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8779831,35.2615779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川電車川排水機場ライブカメラ / Shinkawa train river drainage pump live camera </name>
+        <description><![CDATA[〒481-0044 愛知県北名古屋市加島新田南田面 「北名古屋市役所」/ Kashimashinden, Kita-Nagoya-shi, Aichi Prefecture 481-0044, "Kita-Nagoya City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8760135,35.2263681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水場川長田ライブカメラ / Mizuba River Nagata Live Camera</name>
+        <description><![CDATA[〒481-0035 愛知県北名古屋市宇福寺長田 「北名古屋市役所」 / Ufuji Nagata, Kitanagoya-shi, Aichi Prefecture 481-0035, " Kita Nagoya City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8489008,35.2476128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨田川鴨田橋ライブカメラ / Kamoda River Kamotabashi live camera</name>
+        <description><![CDATA[〒481-0041 愛知県北名古屋市九之坪 「北名古屋市役所」/ Kunotsubo, Kita-Nagoya-shi, Aichi Prefecture 481-004, "Kita-Nagoya City Hall '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.876165,35.2344255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川広瀬橋ライブカメラ / Gojo River Hirose Bridge Live Camera</name>
+        <description><![CDATA[愛知県北名古屋市鍜治ケ一色西二丁目 広瀬橋 「北名古屋市役所」/ 2-chome, Nishi, Kajigaishiki, Kitanagoya-shi, Aichi, "Kitanagoya City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8524707,35.2644132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川尾張大橋ライブカメラ / Kiso River Owari Ohashi Bridge Live Camera</name>
+        <description><![CDATA[〒498-0016 愛知県弥富市小島町附新田 「木曽川下流河川事務所」/ Nitta, Kojima-cho, Yatomi-shi, Aichi Prefecture 498-0016, "Kiso River Lower River Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7158214,35.106893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川弥富水位観測所ライブカメラ / Kisogawa Yatomi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒498-0016 愛知県弥富市小島町 「木曽川下流河川事務所」/ Kojima -cho, Yatomi-shi, Aichi Prefecture 498-0016, " Kiso River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.712801,35.1094783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）リトラス名古屋支店のライブカメラ映像 / Live camera image of Nagoya Branch of RETRUS CO.,LTD. Co., Ltd.</name>
+        <description><![CDATA[〒498-0045 愛知県弥富市稲元6丁目26　（株）リトラス名古屋 /  RETRUS CO.,LTD. Co., Ltd. of Nagoya, 6-26 Inamoto, Yatomi-shi, Aichi-ken 498-0045<br>https://livecamera.fujiyamasan.com/nagoya-retrus.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7681941,35.0767965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川犬山ライブカメラ / Kiso River Inuyama Live Camera</name>
+        <description><![CDATA[愛知県犬山市大字継鹿尾 「木曽川上流河川事務所」/ Tsuguo, Inuyama-shi, Aichi, "Kiso River Upper River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9635092,35.3940153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川ライブカメラ １ / Kiso River Live Camera 1</name>
+        <description>江南市草井町 木曽川左岸 51.0Km すいとぴあ江南 / Kiso River Left Bank, Suitopia Konan, Kusai-cho, Konan-shi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.878705,35.3711001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福田川新居屋ライブカメラ / Fukuda River Niiya Live Camera</name>
+        <description><![CDATA[〒490-1105 愛知県あま市新居屋上権現６１ 「愛知県建設部河川課愛知県河川監視カメラ情報」/ 61 Gongen, Niiyakami, Ama-shi, Aichi 490-1105, "Aichi Prefecture Construction Department River Section Aichi River Monitoring Camera Information]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8126945,35.1934683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蟹江川木田ライブカメラ / Kaniegawa Kida Live Camera</name>
+        <description><![CDATA[〒490-1221 愛知県あま市金岩 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Kanaiwa, Ama-shi, Aichi Prefecture 490-1221, "Aichi Prefecture Construction Department, River Division, Aichi River Monitoring Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7926016,35.1963794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川萱津橋ライブカメラ / Shinkawa Kayutsubashi Live Camera</name>
+        <description><![CDATA[〒490-1114 愛知県あま市下萱津 「愛知県建設部河川課」/ Shimogayazu, Ama-shi, Aichi Prefecture, 490-1114, "Aichi Prefecture Construction Department, River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8386892,35.1825696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet春木川境川合流部ライブカメラ / CCNet Haruki River Sakaigawa Confluence Live Camera</name>
+        <description><![CDATA[〒470-0162 愛知県愛知郡東郷町大字春木天白 「CCNet」/ Harukitenpaku,Togo-cho, Aichi-gun, Aichi 470-0162, "CCNet"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0554131,35.0915004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山川豊山ライブカメラ / Oyama Town Toyoyama Live Camera</name>
+        <description><![CDATA[愛知県豊山町豊場大山139 「愛知県建設部河川課愛知県河川監視カメラ情報」/ 139 Toyobaoyama, Toyoyama-cho, Aichi Prefecture "Aichi Prefecture Construction Department River Division Aichi Prefecture River Monitoring Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9069922,35.2502609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet五条川大口町ライブカメラ / Gojo River Oguchi Town Live Camera</name>
+        <description><![CDATA[〒480-0144 愛知県丹羽郡大口町下小口 「CCNet」/ Shimokoguchi, Oguchi-cho, Niwa-gun, Aichi 480-0144, "CCNet"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9137531,35.3350909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蟹江川須成ライブカメラ / Kanie River Sunari Live Camera</name>
+        <description><![CDATA[〒497-0031 愛知県海部郡蟹江町大字須成井ノ蕪 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Sunari Inaba, Kanie-cho, Kaifu-gun, Aichi 497-0031, "Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7860223,35.1491127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蟹江川蟹江ライブカメラ / Kanie River Kanie Live Camera</name>
+        <description><![CDATA[愛知県海部郡蟹江本町栄花野 「愛知県建設部河川課愛知県河川監視カメラ情報」/ Eigano, Kaniehon-cho, Kaifu-gun, Aichi, ""Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.790932,35.1122617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善太川善太ライブカメラ / Zenta River Zenta River Zenta Live Camera</name>
+        <description><![CDATA[〒497-0043 愛知県海部郡蟹江町大字新千秋後東４１２ 「愛知県建設部河川課愛知県河川監視カメラ情報」/ 412 Shin-Chiaki-gohigashi, Kanie-cho, Kaifu-gun, Aichi 497-0043 "Aichi Prefectural Construction Department River Division Aichi Prefectural River Surveillance Camera Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7792359,35.1146194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福山川福住ライブカメラ / Fukuyama River Fukuzumi Live Camera</name>
+        <description><![CDATA[〒470-2202 愛知県知多郡阿久比町大字福住平野 「阿久比町役場」/ Fukuzumiheiya, Agui-cho, Chita-gun, Aichi Prefecture 470-2202, "Akui-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9204248,34.945527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿久比川白沢ライブカメラ / Agui River Shirasawa Live Camera</name>
+        <description><![CDATA[〒470-2201 愛知県知多郡阿久比町大字白沢 「阿久比町役場」/ Shirasawa, Agui-cho, chita-gun, Aichi 470-2201, "Agui Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.914966,34.954946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豆搗川武豊線高架下ライブカメラ / Live camera under the elevated Toyogawa Taketoyo line</name>
+        <description><![CDATA[〒470-2103 愛知県知多郡東浦町大字石浜川尻 「東浦町役場」/Ishihama Kawajiri, Higashiura-cho, Chita-gun, Aichi Prefecture 470-2103, " Higashiura Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9717054,34.9626777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる衣浦港ライブカメラ / Chitamaru Kinuura Port Live Camera</name>
+        <description>〒470-2105 愛知県知多郡東浦町大字藤江亥子新田 みどり浜2 東浦みどり浜緑地 / Higashiura green beach green space, Fujie, Higashiura-cho, Chita-gun, Aichi 470-2105</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.976477,34.9398489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちたまる東浦町役場周辺ライブカメラ / Chitamaru Higashiura Town Office Live Camera</name>
+        <description><![CDATA[〒470-2102 愛知県知多郡東浦町大字緒川政所２０ 東浦町役場 「ちたまるNAVI」/  Higashiura Town Office, 20 Ogawamandokoro, Higashiura-cho, Chita-gun, Aichi Prefecture 470-2102 Higashiura Town Office "Chitamaru NAVI"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9652933,34.9766915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡田川屋敷橋ライブカメラ / Okada River Yashiki Bridge Live Camera</name>
+        <description><![CDATA[〒470-2102 愛知県知多郡東浦町大字緒川宮戸 「東浦町役場」/ Ogawa Miyado, Higashiura-cho, Chita-gun, Aichi Prefecture 470-2102, "Higashiura Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9698839,34.987769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿久比川3003号橋ライブカメラ / Agui River 3003 Bridge Live Camera</name>
+        <description><![CDATA[〒470-2102 愛知県知多郡東浦町大字緒川寿久茂 「東浦町役場」/ Hisashige Ogawa, Higashiura-cho, Chita-gun, Aichi Prefecture 470-2102, "Higashiura Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9170888,34.9690992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いこい日間賀島ライブカメラ</name>
+        <description>〒470-3504 愛知県知多郡南知多町大字日間賀島 日間賀島</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0060226,34.7051045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川新川水位観測局ライブカメラ / Shinkawa Shinkawa water level observation station live camera </name>
+        <description><![CDATA[〒470-2531 愛知県知多郡武豊町大字冨貴外堀 「武豊町役場」/ Fukisotobori,Taketoyo-cho, Chita-gun, Aichi Prefecture 470-253, "Taketoyo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9152693,34.8315022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀川堀川水位観測局ライブカメラ / Horikawa Horikawa water level observation station live camera </name>
+        <description><![CDATA[〒470-2541 愛知県知多郡武豊町字目堀 「武豊町役場」/ Mebori, Taketoyo-cho, Chita-gun, Aichi 470-2541, "Taketoyo Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9152693,34.8461484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅水川浅水川水位観測局ライブカメラ / Asami River Asami River Water Level Observation Station Live Camera</name>
+        <description><![CDATA[〒470-2314 愛知県知多郡武豊町字浅水 「武豊町役場」 / Asamizu, Taketoyo-cho, Chita-gun,  Aichi Prefecture 470-2314, "Taketoyo Town Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9201215,34.8640471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石川石川水位観測局ライブカメラ / Ishikawa Ishikawa water level observation station live camera</name>
+        <description><![CDATA[〒470-2311 愛知県知多郡武豊町字石川 「武豊町役場」/ Ishikawa, Taketoyo-cho, Chita-gun, Aichi Prefecture 470-2311, "Taketoyo Town Hall '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9204248,34.8678408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸田サーキットYRP桐山ライブカメラ / Koda Circuit YRP Kiriyama Live Camera</name>
+        <description><![CDATA[〒444-0126 愛知県額田郡幸田町大字桐山 「幸田サーキットYRP桐山」 /Kiriyama, Kota-cho, Nukata-gun, Aichi Prefecture 444-0126,  "Koda Circuit YRP Kiriyama"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1435227,34.8429345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仲田ガードライブカメラ / Nakata Guard Live Camera</name>
+        <description><![CDATA[〒444-0116 愛知県額田郡幸田町大字芦谷餅田 「幸田町役場」/  Ashiya Mochida, Kota-cho, Nukata-gun, Aichi Prefecture 444-0116, "`` Koda Town Office '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1646977,34.856238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広田川なかよし橋ライブカメラ / Hirota River Nakayoshi Bridge Live Camera</name>
+        <description><![CDATA[〒444-0116 愛知県額田郡幸田町大字芦谷 「幸田町役場」/ Ashiya, Kota-cho, Nukata-gun, Aichi Prefecture 444-0116, "Koda Town Hall'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1764315,34.8538567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦田ガードライブカメラ / Nishikita Guard Live Camera</name>
+        <description><![CDATA[〒444-0113 愛知県額田郡幸田町大字菱池 「幸田町役場」/ Hishiike, Kota-cho, Nukata-gn, Aichi Prefecture 444-0113, "Koda Town Hall'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1605839,34.8751973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲田ガードライブカメラ / Washida Gurad Live Camera</name>
+        <description><![CDATA[〒444-0117 愛知県額田郡幸田町大字相見 「幸田町役場」/ Aimi, Kota-cho, Aichi Prefecture, "Koda Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1642406,34.8869488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅田川浜道ライブカメラ / Umeda River Hamamichi Live Camera</name>
+        <description><![CDATA[〒441-8122 愛知県豊橋市天伯町天伯 「国土交通省河川情報センター」/ Tenhaku, Tenhaku-cho, Toyohashi-shi, Aichi Prefecture 441-8122 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4079957,34.71013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊橋競輪ライブカメラ / Toyohashi bicycle race live camera</name>
+        <description>〒440-0066 愛知県豊橋市東田町８７ 豊橋競輪場 / 87 Toyohashi Bicycle Racetrack, Higashida-cho, Toyohashi City, Aichi Prefecture 440-0066</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4172983,34.7703585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳生川花田ライブカメラ / Yagyu River Hanada Live Camera</name>
+        <description><![CDATA[〒440-0851 愛知県豊橋市前田南町１丁目 「国土交通省河川情報センター」/ 1-chome, Maedaminami-machi, Toyohashi-shi, Aichi 440-0851, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3900813,34.7547861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十間川二十間川合流点ライブカメラ / Jukengawa Nijukengawa Confluence Live Camera</name>
+        <description><![CDATA[〒441-8087 愛知県豊橋市牟呂町 「豊橋市役所豊橋市河川ライブカメラ」/  Muro-cho, Toyohashi City, Aichi Prefecture, 441-8087, "Toyohashi City Hall Toyohashi City River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3498545,34.752507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川上流事務所 ライブカメラ映像 / Kisogawa upstream office live camera picture</name>
+        <description>〒500-8801 岐阜県岐阜市忠節町５丁目１ 国土交通省 中部地方整備局　木曽川上流河川事務所 / Ministry of Land, Infrastructure and Transport Chubu Regional Development Bureau Kisogawa Upstream River Office, 5-1 Chusetsu-cho, Gifu-shi, Gifu-ken 500-8801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7495188,35.4282115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川ライブカメラ 2 / Kiso River Live Camera 2</name>
+        <description>〒491-0135 愛知県一宮市光明寺浦崎２１−３ ツインアーチ１３８</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8090105,35.3576962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大口町五条ライブ / Oguchi Town Gojo Live Camera</name>
+        <description><![CDATA[〒480-0144 愛知県丹羽郡大口町下小口７丁目１５５ 大口町役場  「USTREAM」 / Oguchi Town Hall, 7-155 Shimooguchi, Oguchi-cho, Niwa-gun, Aichi-ken 480-0144, "USTREAM"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.907764,35.332519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名鉄電車ライブカメラ / Meitetsu Train Live Camera</name>
+        <description>〒452-0017 愛知県清須市西枇杷島町下砂入８４ 株式会社メイエレック / Mayelec Co., Ltd., Suiri, Nishibiwajima-cho, Kiyosu-shi, Aichi-ken 425-0017</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.866024,35.1954802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛知県川の防災情報 / Disaster information on Aichi prefecture river</name>
+        <description>〒460-0001 愛知県名古屋市中区三の丸３丁目１−２ 愛知県庁建設部河川課計画 / Aichi Prefectural Government Construction Division River Division Plan, 3-1-2 Sannomaru, Naka-ku, Nagoya-shi, Aichi-ken 460-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9065647,35.1801883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内川流域の水位と雨量の情報、監視カメラ / Information on water level and rainfall in the Shonai River basin, surveillance camera</name>
+        <description>〒462-0052 愛知県名古屋市北区福徳町５丁目５２ 庄内川河川事務所 / Shonai Office of River, Chubu Regional Development Bureau, Ministry of Land, Infrastructure and Transport, 5-52 Fukutoku-cho, Kita-ku, Nagoya-shi, Aichi-ken 462-0052</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9008323,35.2131444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茶臼山高原ライブカメラ / Chausuyama Kogen Live Camera</name>
+        <description><![CDATA[〒449-0405 愛知県北設楽郡豊根村坂宇場御所平７０−１８５ 茶臼山高原/一般財団法人茶臼山高原協会 / General Foundation Corporation Chausuyamakogen Association, 70-185 Sakaubagoshodaira, Toyone-mura, Kitashitara-gun, Aichi-ken 449-0405<br>https://livecamera.fujiyamasan.com/chausuyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.656129,35.220662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茶臼山高原スキー場 / Mt. Chausu Plateau Sky Area</name>
+        <description><![CDATA[愛知県北設楽郡豊根村坂宇場 インターネット百葉箱 / Sakauba, Toyone-mura, Kitashitara-gun, Aichi, "Internet Instrument Shelter"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.655945,35.220521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川新城桜淵付近 / Toyokawa Shinshiro Sakurabuchi</name>
+        <description><![CDATA[〒441-1331 愛知県新城市庭野八名井田　「ティーズ防災情報」/ Yanaida, Niwano, Shinshiro-shi, Aichi-ken 441-1331, "Ts Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shinshiro.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5054768,34.8950486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川市河川情報 / Toyokawa City River Information</name>
+        <description>〒442-0068 愛知県豊川市諏訪１丁目1番地 豊川市役所 / Toyokawa City Hall, 1-1 Suwa, Toyokawa-shi, Aichi-ken 442-0068</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3758597,34.8266843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊橋市河川ライブカメラ / Toyohashi City Rivers Live Camera</name>
+        <description><![CDATA[〒440-8501 豊橋市今橋町1番地 豊橋市役所　建設部河川課 / Construction Department Rivers Division, Toyohashi City Hall, 1 Imahashi-cho, Toyohashi-shi, Aichi 440-8501<br>https://livecamera.fujiyamasan.com/toyohashiriver.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3915865,34.7696787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[豊橋駅前付近(1)&(2) / Toyohashi station front (1) & (2)]]></name>
+        <description><![CDATA[〒440-0888 愛知県豊橋市駅前大通１丁目５５　「豊橋ケーブルネットワーク ティーズ防災情報」/ 1-55 Ohdori, Ekimae, Toyohashi-shi, Aichi-ken 440-0888, "Toyohashi Cable Network inc."<br>https://livecamera.fujiyamasan.com/toyohashieki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.383956,34.7621834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川防災情報 / River disaster prevention information</name>
+        <description><![CDATA[〒441-8149 愛知県豊橋市中野町字平西１−６ 国土交通省中部地方整備局 豊橋河川事務所 / Ministry of Land, Infrastructure and Transport Chubu Regional Development Bureau Toyohashi River Office, 1-6 Tairanishi, Nakano-cho, Toyohashi-shi, Aichi-ken 441-8149<br>https://livecamera.fujiyamasan.com/toyohashibousai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.375709,34.7356489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠州灘ライブカメラ / Enshunaada Live Camera</name>
+        <description><![CDATA[〒441-3123 愛知県豊橋市小松原町浜４１社会福祉法人 王寿會 / Social welfare corporation<br>Oujukai, 41 Hama, Komatsubara-cho, Toyohashi-shi, Aichi-ken 441-3123]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.43813,34.669038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幡豆ライブカメラ / Hazu Live Camera</name>
+        <description><![CDATA[〒444-0702 愛知県西尾市寺部町林添　「やろまいネット幡豆」/ Hayashizoe, Terabe-cho, Nishio-shi, Aichi-ken 440-0702, "Yaromai Net Hazu"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1254039,34.789779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名古屋空港ライブカメラ / Nagoya Airport Live Camera</name>
+        <description>〒480-0202 愛知県西春日井郡豊山町大字豊場 名古屋飛行場（県営名古屋空港）/ Nagoya Airfield (prefectural Nagoya Airport), Toyoba, Toyoyama-cho, Nishikasugai-gun, Aichi 480-0202 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9202286,35.2537569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内海天気ライブカメラ / Utsumi Weather Live Camera</name>
+        <description>〒470-3321 愛知県知多郡南知多町内海浜岡部9 ATグループ健康保険組合愛知トヨタ 内海保養所 / AT Group Health Insurance Union Aichi Toyota Utsumi Recreation Center, 9 Hamaokabe, Utsumi, Minamichita-cho, Chita-gun, Aichi-ken 470-3321</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.86825,34.737873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸田町道路・河川ライブカメラ / Kota Town Road and River Live Camera</name>
+        <description>〒444-0113 愛知県額田郡幸田町菱池元林１−１ 幸田町役場 / Kota Town Hall, 1-1 Hishiikemotobayashi, Kota-cho, Nukata-gun, Aichi-ken 444-0113</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.165664,34.864428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の美浜サーキット / Current Mihama Circuit</name>
+        <description>〒470-3235 愛知県知多郡美浜町野間馬池１６　美浜サーキット・クニモト / Mihama Circuit, 16 Nomaumaike, Mihama-cho, Chita-gun, Aichi-ken 470-3235</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8728598,34.7622539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊良湖岬ライブカメラ / Irago Cape Live Camera</name>
+        <description><![CDATA[〒441-3623 愛知県田原市日出町骨山１４６０−３６　「ティーズ防災情報」/ 1460-36 Honeyama, Hi-cho, Tahara-shi, Aichi-ken 441-3623, "Ts Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/irakomisaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0363464,34.5813276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢湾・伊良湖水道 / Ise Bay and Irako Water Ways</name>
+        <description>愛知県田原市伊良湖町古山 伊勢湾海上交通センター / Ise Bay Traffic Advisory Service Center, Koyama, Irako-cho, Tahara-shi, Aichi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.016592,34.580383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢湾海上交通センター（北西）からの映像 / Image from the Ise Bay Maritime Traffic Center (northwest)</name>
+        <description><![CDATA[〒441-3624 愛知県田原市伊良湖町古山２８１４−３８ 伊勢湾海上交通センター / Ise Bay Maritime Transportation Center, 2814-38 Koyama, Irago-cho, Tahara-shi, Aichi-ken 441-3624<br>https://livecamera.fujiyamasan.com/isewan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0164736,34.5804302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川美矢井橋ライブカメラ / Yahagi River Miyaibashi Bridge Live Camera</name>
+        <description><![CDATA[〒444-0935 愛知県岡崎市下佐々木町東浦 美矢井橋 「豊橋河川事務所」/ Miyaibashi Bridge, Higashiura, Shimosasaki-cho, Okazaki-shi, Aichi 444-0935, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.118363,34.927394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢作川上塚橋ライブカメラ</name>
+        <description>〒447-0808 愛知県碧南市鷲塚町５丁目 上塚橋</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0292146,34.8843655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海中排水路駒形町ライブカメラ / Underwater drainage Komagata live camera</name>
+        <description><![CDATA[〒441-8145 愛知県豊橋市駒形町 「豊橋市河川ライブカメラ」/ Komagata Town, Toyohashi City, Aichi Prefecture 441-8145, "Toyohashi City River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3669841,34.7281724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川横須賀町ライブカメラ / Egawa Yokosuka Town Live Camera</name>
+        <description>〒440-0093 愛知県豊橋市横須賀町</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3694316,34.7813388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前芝住宅津波監視ライブカメラ / Maeshiba Housing Tsunami Monitoring Live Camera</name>
+        <description><![CDATA[〒441-0156 愛知県豊橋市西浜町３−１ 「豊橋市役所防災危機管理課」/ 3-1, Nishihama-cho, Toyohashi City, Aichi Prefecture, 441-0156 "Disaster Risk Management Section, Toyohashi City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3315138,34.7846449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩谷排水路船渡町ライブカメラ / Shioya Drainage Funato Town Live Camera</name>
+        <description><![CDATA[〒441-8072 愛知県豊橋市船渡町 「豊橋市役所豊橋市河川ライブカメラ」/ Funato Town, Toyohashi City, Aichi Prefecture 441-8072 "Toyohashi City Hall Toyohashi City River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3486311,34.7236586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紙田川清水川合流点ライブカメラ / Kamita River Shimizu River Confluence Live Camera</name>
+        <description><![CDATA[〒441-3301 愛知県豊橋市老津町 「豊橋市役所豊橋市河川ライブカメラ」/ Oitsu Town, Toyohashi City, Aichi 441-3301, Japan, "Toyohashi City Hall Toyohashi City River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3363995,34.6979877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内張川駒形町ライブカメラ / Uchibari River Komagata Town Live Camera</name>
+        <description><![CDATA[〒441-8145 愛知県豊橋市駒形町 「豊橋市河川ライブカメラ」/ Komagata-cho, Toyohashi-shi, Aichi 441-8145, "Toyohashi City River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3669841,34.7281724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅田川西高師町ライブカメラ / Umedagawa Nishitakashi Town Live Camera</name>
+        <description><![CDATA[〒441-8154 愛知県豊橋市西高師町 「豊橋市河川ライブカメラ」/ Nishitakashi-cho, Toyohashi-shi, Aichi 441-8154, "Toyohashi City River LIve Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3865677,34.71621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜池支線排水路西幸町ライブカメラ / Hamaike branch line drainage channel Saisaimachi live camera</name>
+        <description><![CDATA[〒441-8113 愛知県豊橋市西幸町 「豊橋市河川ライブカメラ」/ Nishimiyuki-cho, Toyohashi-shi, Aichi 441-8113, "Toyohashi River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4122824,34.7284141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百々池排水路浜道町ライブカメラ / Hakudoike Drainage Road Hamadori Live Camera</name>
+        <description>〒441-8117 愛知県豊橋市浜道町 「豊橋市河川ライブカメラ」/ Toyohashi River Live Camera, Hamadori Town, Toyohashi City, Aichi 441-8117, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4061587,34.7178428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>トーチカ排水路西幸町ライブカメラ / Tochika drainage channel Saiyuki Town live camera </name>
+        <description><![CDATA[〒441-8113 愛知県豊橋市西幸町 「豊橋市河川ライブカメラ」/ Nishimiyuki Town, Toyohashi City, Aichi Prefecture 441-8113, "Toyohashi River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4122824,34.7284141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カモメリア津波監視ライブカメラ / Camo Melia Tsunami Surveillance Live Camera </name>
+        <description>〒441-8075 愛知県豊橋市神野ふ頭町３−２９ カモメリア / Camomeria, 3-29 Jinnofutocho, Toyohashi City, Aichi Prefecture, 441-8075, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3297879,34.7323442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東山排水路大岩町ライブカメラ / Higashiyama drainage channel Oiwa-cho live camera</name>
+        <description><![CDATA[愛知県豊橋市大岩町 「豊橋市河川ライブカメラ」/ Oiwa-cho, Toyohashi-shi, Aichi "Toyohashi-shi river live camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4416862,34.7229191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大石三丁目クリニック駐車場ライブカメラ / Oishi Sanchome Clinic Parking Live Camera</name>
+        <description>〒440-0853 愛知県豊橋市佐藤３丁目１８−４ 大石三丁目クリニック / Oishi Sanchome Clinic, 3-18-4 Sato, Toyohashi City, Aichi Prefecture 440-0853</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4100459,34.742293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川牛川霞ライブカメラ / Toyokawa Ushikawa Kasumi Live Camera</name>
+        <description><![CDATA[〒440-0084 愛知県豊橋市下地町神田 「豊橋河川事務所」/ Kanda, Shimoji-cho, Toyohashi-shi, Aichi 440-0084, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3908526,34.7752822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヲイホテ排水路牛川町ライブカメラ / OYHOTE Drainage Channel Ushikawa Town Live Camera </name>
+        <description><![CDATA[愛知県豊橋市牛川町 「豊橋市河川ライブカメラ」/ Ushikawa Town, Toyohashi City, Aichi Prefecture "Toyohashi River Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4135072,34.7776768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川JR豊川橋ライブカメラ / Toyokawa River JR Toyokawa Bridge Live Camera</name>
+        <description><![CDATA[〒441-8001 愛知県豊橋市野田町野田 「豊橋河川事務所」/ Noda, Noda-cho, Toyohashi-shi, Aichi 441-8001, Japan, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3704305,34.777853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川豊川出張所鉄塔ライブカメラ / Toyokawa Toyokawa Branch Office Tower Live Camera </name>
+        <description><![CDATA[〒440-0071 愛知県豊橋市北島町北島３６４ 「豊橋河川事務所」/ 364 Kitajima, Kitajima-cho, Toyohashi-shi, Aichi 440-0071, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3788001,34.7761969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川上渡津橋ライブカメラ / Toyokawa River Kamiwatatsu Bridge Live Camera</name>
+        <description><![CDATA[〒441-8008 愛知県豊橋市三ツ相町西外川原 「豊橋河川事務所」/ Nishitogawara, Mitsui-cho, Toyohashi-shi, Aichi 441-8008, Japan, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3605008,34.7764096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川豊橋市役所屋上ライブカメラ / Toyokawa Toyohashi City Hall rooftop live camera</name>
+        <description><![CDATA[〒440-0801 愛知県豊橋市今橋町 「豊橋河川事務所」/ Imabashi Town, Toyohashi City, Aichi Prefecture 440-0801, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.39575,34.7694619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川豊橋市上下水道局ライブカメラ / Toyokawa Toyohashi City Waterworks Bureau Live Camera</name>
+        <description><![CDATA[〒440-0016 愛知県豊橋市牛川町下モ田２９番地１ 「豊橋市上下水道局」/ 29 Shimomoda, Ushikawa-cho, Toyohashi City, Aichi Prefecture 440-0016, "Toyohashi City Waterworks Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.398887,34.772369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川佐土ライブカメラ / Sana River Sado Live Camera</name>
+        <description><![CDATA[〒442-0017 愛知県豊川市佐土町 「国土交通省河川情報センター」/ Sado-cho, Toyokawa-shi, Aichi 442-0017, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3893222,34.8360603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>音羽川国府ライブカメラ / Otowagawa Kokufu Live Camera</name>
+        <description><![CDATA[〒442-0854 愛知県豊川市国府町「国土交通省河川情報センター」/  Kokufu-cho, Toyokawa City, Aichi Prefecture, 442-0854, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3253934,34.830245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川NTT鉄塔付近ライブカメラ / Toyokawa NTT Tower Live Camera</name>
+        <description><![CDATA[〒440-0016 愛知県豊橋市牛川町下野　「豊橋河川事務所」/ Shimono, Ushikawa-cho, Toyohashi-shi, Aichi 440-0016, Japan, ""Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4142954,34.7837825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道248号錦町1丁目ライブカメラ / National Road 248 Nishiki Town 1-chome Live Camera</name>
+        <description><![CDATA[〒471-0877 愛知県豊田市錦町１丁目 「ひまわりネットワーク(まちクル)」/ 1-chome, Nishiki-machi, Toyota-shi, Aichi 471-0877, "Himawari Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1590603,35.075005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道248号下市場ライブカメラ / National Road 248 Shimoichiba Live Camera</name>
+        <description><![CDATA[〒471-0875 愛知県豊田市下市場町 「ひまわりネットワーク(まちクル)」/ Shimoichiba-cho, Toyota-shi, Aichi 471-0875, "Himawari Network Machikuru"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1587556,35.0655771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川曽野ライブカメラ / Gojo River Sono Live Camera</name>
+        <description><![CDATA[〒482-0003 愛知県岩倉市曽野町隅田 「国土交通省河川情報センター」/ Sumida, Seno-cho, Iwakura-shi, Aichi 482-0003 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/iwakura-sono-gojoriver.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8782861,35.2659158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川大村樋門ライブカメラ / Toyokawa Omura Himon Live Camera</name>
+        <description><![CDATA[愛知県豊橋市下地町 「豊橋河川事務所」/ Shimoji-cho, Toyohashi-shi, Aichi, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3877919,34.7813264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川下条橋右岸下流ライブカメラ / Toyokawa Shimojo Bridge Right Bank Downstream Live Camera </name>
+        <description><![CDATA[〒442-0822 愛知県豊川市行明町高畑 「豊橋河川事務所」/ Takahata, Gyomei-cho, Toyokawa City, Aichi Prefecture 442-0822, "Toyohashi River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4015664,34.7983068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川金沢橋ライブカメラ / Toyokawa Kanazawa Bridge Live Camera</name>
+        <description><![CDATA[〒441-1222 愛知県豊川市豊津町新地 「豊橋河川事務所」/ Shinchi, Toyotsu Town, Toyokawa City, Aichi Prefecture, 441-1222, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4361717,34.8525721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CCNet御馬漁港ライブカメラ / CCNet Mima fishing port live camera</name>
+        <description><![CDATA[〒441-0311 愛知県豊川市御津町御馬東 「CCNet」/Mizumato, Mitsu-cho, Toyokawa-shi, Aichi 441-0311, Japan, "CCNet '']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3137785,34.8020275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>音羽川豊成橋ライブカメラ / Otowa River Toyonaribashi Bridge Live Camera</name>
+        <description><![CDATA[〒442-0845 愛知県豊川市為当町 「豊川市役所豊川市河川情報」/ Tameto-cho, Toyokawa City, Aichi Prefecture 442-0845, "Toyokawa City Office, Toyokawa City River Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3232506,34.8196722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川四ツ谷橋ライブカメラ / Sana River Yotsuya Bridge Live Camera</name>
+        <description><![CDATA[〒442-0876 愛知県豊川市中部町１丁目 「豊川市河川情報」/ 1-chome, Chubu-cho, Toyokawa-shi, Aichi 442-0876, "Toyokawa City River Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3700435,34.8217998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川金沢霞堤内ライブカメラ / Toyokawa Kanazawa Kasumi Live Camera</name>
+        <description><![CDATA[〒441-1212 愛知県豊川市金沢町村下 「豊橋河川事務所」/ Murashita, Kanazawa Town, Toyokawa City, Aichi Prefecture, 441-1212, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4413798,34.8488692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川東名豊川橋ライブカメラ / Toyokawa Tomei Toyokawabashi Live Camera</name>
+        <description><![CDATA[愛知県豊川市向河原町大柳 「豊橋河川事務所」/ Oyanagi, Mukougawara-cho, Toyokawa-shi, Aichi, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4223881,34.8372919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川豊橋市役所屋上ライブカメラ / Toyokawa Toyohasi City Office Live Camera</name>
+        <description><![CDATA[〒440-0801 愛知県豊橋市今橋町１ 「豊橋河川事務所」/ 1 Imabashicho, Toyohashi City, Aichi Prefecture 440-0801,  "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.391511,34.7692439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川権現山ライブカメラ / Toyokawa Gongenyama Live Camera</name>
+        <description><![CDATA[〒442-0812 愛知県豊川市三上町権現下 「豊橋河川事務所」/ Gongenshita, Mikami-cho, Toyokawa-shi, Aichi 442-0812, "Toyohashi River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4352527,34.8173468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川古川排水機場ライブカメラ / Toyokawa Furukawa Drainage Pump Station Live Camera</name>
+        <description><![CDATA[愛知県豊川市柑子町 「豊橋河川事務所」/ Kouji-cho, Toyokawa-shi, Aichi Prefecture, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3981989,34.8056337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒲郡クラシックホテル竹島三河湾ライブカメラ / Gamagori Classic Hotel Takeshima Mikawa Bay Live Camera</name>
+        <description>〒443-0031 愛知県蒲郡市竹島町１５−１ 蒲郡クラシックホテル / Gamagori Classic Hotel, 15-1 Takeshima-cho, Gamagori-shi, Aichi 443-0031 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.23564,34.8159819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三谷ヨットハーバー南向ライブカメラ / Mitani yacht harbor south facing live camera</name>
+        <description>〒443-0021 愛知県蒲郡市三谷町若宮２６１ 三谷ヨットハーバー / Mitani Yacht Harbor, 261 Wakamiya, Mitani-cho, Gamagori-shi, Aichi Prefecture 443-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.251457,34.8067292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>橋田鼻灯台からの映像 / Video from Hashidahana Lighthouse</name>
+        <description>〒443-0105 愛知県蒲郡市西浦町大山  橋田鼻 / Hashidahana, Oyama, Nishiura-cho, Gamagori-shi, Aichi-ken 443-0105</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1695859,34.765211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川放水路前芝ライブカメラ / Toyokawa spillway Maebashi live camera</name>
+        <description><![CDATA[〒441-0152 愛知県豊橋市前芝町東 「豊橋河川事務所」/ Maebashihigashi-cho, Toyohashi City, Aichi Prefecture, 441-0152, "Toyohashi River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3415976,34.7820675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川横川堰堤ライブカメラ / Toyokawa Yokogawa dam bank live camera</name>
+        <description><![CDATA[〒441-1945 愛知県新城市玖老勢横手 「豊橋河川事務所」/ Kuroze Yokote, Shinshiro City, Aichi Prefecture, 441-1945, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5484142,34.9806879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川長楽橋上流付近ライブカメラ / Toyokawa Nagarakubashi upstream Live camera</name>
+        <description><![CDATA[〒441-1945 愛知県新城市玖老勢新田 「豊橋河川事務所」/ Kuroze Nitta, Shinshiro City, Aichi Prefecture 441-1945, "Toyohashi River Office']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5511773,34.9764969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川長楽観測所ライブカメラ / Toyokawa Nagara Observatory Live Camera</name>
+        <description><![CDATA[〒441-1945 愛知県新城市玖老勢平松下 「豊橋河川事務所」/ Kushirodaira Matsushita, Shinshiro City, Aichi Prefecture, 441-1945, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5542476,34.9676246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川牛渕橋ライブカメラ / Toyokawa Ushibuchi Bridge Live Camera</name>
+        <description><![CDATA[〒441-1633 愛知県新城市乗本舟津 「豊橋河川事務所」/ Norimoto Funatsu, Shinshiro City, Aichi Prefecture, 441-1633, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.561617,34.920381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川新城橋ライブカメラ / Toyokawa Shinshiro Bridge Live Camera</name>
+        <description><![CDATA[〒441-1342 愛知県新城市石田万福 「豊橋河川事務所」/ Ishidamanpuku , Shinshiro City, Aichi Prefecture 441-1342, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4937962,34.8932273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊川牟呂松原頭首工下流付近ライブカメラ / Toyokawa Muro Matsubara Head Downstream Live Camera</name>
+        <description><![CDATA[〒441-1345 愛知県新城市豊島 「豊橋河川事務所」/ Toshima, Shinshiro City, Aichi Prefecture, 441-1345, "Toyohashi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4674282,34.8779198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道474号三遠トンネル北ライブカメラ</name>
+        <description>愛知県新城市 三遠トンネル 「浜松河川国道事務所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6597291,34.9822542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道474号三遠大島トンネル北ライブカメラ / National highway No. 474 Sanen Oshima tunnel north live camera</name>
+        <description>〒441-1603 愛知県新城市名号 三遠大島トンネル</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6596338,34.9843488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道474号三遠名号トンネル南ライブカメラ / National highway No. 474 Sanenmei tunnel South live camera</name>
+        <description><![CDATA[〒441-1603 愛知県新城市名号 三遠名号トンネル 「浜松河川国道事務所」/ Sanenmyogo Tunnel, Myogo, Shinshiro-shi, Aichi prefecture, 441-1603, "Hamamatsu River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6613361,34.9922658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道474号三遠名号トンネル北ライブカメラ / National highway No. 474 Sanenmei tunnel north live camera</name>
+        <description><![CDATA[〒441-1603 愛知県新城市名号 三遠名号トンネル 「浜松河川国道事務所」/ Sanenmyogo Tunnel, Shinshiro-shi, Aichi prefecture 441-1603, "Hamamatsu River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6662079,34.9984468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道474号鳳来峡インターチェンジライブカメラ / National highway No. 474 Horaikyo interchange live camera</name>
+        <description><![CDATA[〒441-1603 愛知県新城市名号丹野 「浜松河川国道事務所」/Tanno, Shinshiro City, Aichi Prefecture 441-1603, "Hamamatsu River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6647386,34.9993548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤羽根漁港ライブカメラ / Akabane fishing port live camera</name>
+        <description><![CDATA[〒441-3505 愛知県田原市池尻町下り畑 「田原市役所」/  Kudaribatake, Ikejiri-cho, Tahara-shi, Aichi 441-3505, Japan, "Tahara City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.186796,34.6055757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊勢湾海上交通センター南西ライブカメラ / Isewan Maritime Transportation Center Southwest Live Camera</name>
+        <description><![CDATA[〒441-3624 愛知県田原市伊良湖町古山２８１４−３８ 「伊勢湾海上交通センター」/ 2814-38 Koyama, Irako-cho, Tahara-shi, Aichi 441-3624 "Isewan Marine Transportation Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0165425,34.5804766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大入川琴瀬山ライブカメラ / Oiragawa Kotoyama Live Camera</name>
+        <description><![CDATA[〒449-0203 愛知県北設楽郡東栄町東薗目琴瀬山 「浜松河川国道事務所」/  Higashisonome Kotoseyama, Toei-cho, Kitashitara-gun, Aichi Prefecture 449-0203, "Hamamatsu River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.7596223,35.0947265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条川大口町ライブカメラ / Gojo River Oguchi Town Live Camera</name>
+        <description><![CDATA[〒480-0144 愛知県丹羽郡大口町下小口６丁目１５０　大口町 総合運動場 「CCNet」/ Oguchi-cho General Athletic Field, 6-150 Shimooguchi, Oguchi-cho, Niwa-gun, Aichi 480-0144 "CCNet"<br>https://livecamera.fujiyamasan.com/oguchi-gojo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9092756,35.3303025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山崎川瑞穂ライブカメラ / Mizuho Yamazaki River Live Camera</name>
+        <description><![CDATA[〒467-0012 愛知県名古屋市瑞穂区豊岡通「一般財団法人河川情報センター」/ Toyookadouri, Mizuho-ku, Nagoya-shi, Aichi 467-0012 "River Information Center"<br>https://livecamera.fujiyamasan.com/nagoya-mizuho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9416273,35.1218687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐奈川佐土ライブカメラ / Sanagawa Sado Live Camera</name>
+        <description><![CDATA[愛知県豊川市佐土町「一般財団法人河川情報センター」/ Sadocho, Toyokawa City, Aichi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/toyokawa-sado-sanariver.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3877698,34.835184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛知県豊田市内道路ライブカメラ / Aichi Prefecture Toyota City Road Live Camera</name>
+        <description><![CDATA[〒471-0061 愛知県豊田市若草町３丁目３２−８ ひまわりネットワーク / Sunflower Network 3-32-8 Wakakusa-cho, Toyota City, Aichi Prefecture 471-0061<br>https://livecamera.fujiyamasan.com/toyotacityroad.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1521648,35.1082771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

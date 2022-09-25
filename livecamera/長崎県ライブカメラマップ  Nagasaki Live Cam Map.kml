@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>長崎県ライブカメラマップ / Nagasaki Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>http://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>長崎県内ライブカメラ</name>
+      <Placemark>
+        <name>大村湾ＰＡライブカメラ / Omura Bay PA Live Camera</name>
+        <description><![CDATA[〒859-3923 長崎県東彼杵郡 東彼杵町瀬戸郷　大村湾ＰＡ上り　「西日本高速道路株式会社 大分高速道路事務所」/ Omura bay PA uplink, Setogo, Higashisonogi-cho, Higashisonogi-gun, Nagasaki-ken 859-3923, "West Japan Highway Co., Ltd. Oita Expressway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9474788,33.0168553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>施設内ライブカメラ配信 / Live cameras distribution on site</name>
+        <description>〒851-2102 長崎県西彼杵郡時津町浜田郷６６９−２６　平木工業（株）/ Hiraki industry.Co,LTD, 669-26 Hamadago, Togitsu-cho, Nishitogitsugun, Nagasaki-ken 851-2102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.858546,32.83076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎市内ライブカメラ / Nagasaki City</name>
+        <description><![CDATA[長崎県長崎市西町２１−１０ 「安心だねっと長崎」 / 21-10 Nishi-machi, Nagasaki City, Nagasaki, "Anshin da Net Nagasaki"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.853013,32.787689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎大学正門前 / Nagasaki University main-gate-of-nagasaki-u-ac</name>
+        <description>〒852-8521 長崎県長崎市文教町１−１４長崎大学 / Nagasaki University, Bunkyo-machi, Nagasaki-shi, Nagasaki-ken 852-8521</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8631727,32.7852587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎大学医学部キャンパスライブカメラ / Nagasaki University School of Medicine Campus Live Camera</name>
+        <description>〒852-8523 長崎県長崎市坂本１−１２−４ 長崎大学坂本地区キャンパス 医学部医学科 (正門、国道206号) / NAGASAKI UNIVERSITY SCHOOL OF MEDICINE, 1-12-4 Sakamoto, Nagasaki-shi, Nagasaki-ken 852-8253</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8685369,32.7728056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いまの長崎（長崎港、NCC屋上カメラ、佐世保港）</name>
+        <description>〒852-8104 長崎県長崎市茂里町３−２　長崎文化放送(株) (ＮＣＣ)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.862907,32.764045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎ウォッチングライブカメラ / Nagasaki City</name>
+        <description>長崎県長崎市立山２丁目１６−１ ホテル長崎 KTNテレビ長崎 / 2-16-1 Tateyama, Nagasaki City, Nagasaki, Hotel Nagasaki, KTN TV Nagasaki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.875565,32.755376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の長崎市 / Current Nagasaki City</name>
+        <description>〒850-0037 長崎県長崎市金屋町１−７　(株)テレビ長崎 (ＫＴＮ) / Television Nagasaki Co.,Ltd., 1-7 Kanaya-machi, Nagasaki-shi, Nagasaki-ken 850-0037</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8739006,32.7491662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎港常盤出島地区 / Nagasaki Port Tokiwa Dejima District in Nagasaki City</name>
+        <description>〒850-0843 長崎県長崎市常盤町22−17 長崎水辺の森公園 / NAGASAKI SEASIDE PARK, 22-17 Tokiwa-machi, Nagasaki-shi, Nagasaki-ken 850-0843 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8687951,32.7413354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川　/ Honmyo River, Nagasaki</name>
+        <description>長崎県諫早市長田町 / Nagatamachi, Isahaya City, Nagasaki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0835323,32.855112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲仙市内ライブカメラ / Unzen City Live Camera</name>
+        <description>〒859-1107 長崎県雲仙市吾妻町牛口名７１４　雲仙市役所 / Unzen City Office, 714 Ushiguchimyo, Azuma-cho, Unzen-shi, Nagasaki-ken 859-1107</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1875004,32.8351989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>普賢岳と仁田峠付近 / Fugendake and Nita Pass</name>
+        <description>〒854-0621 長崎県雲仙市小浜町雲仙551 雲仙ロープウェイ / Unzen Ropeway, 551 Unzen, Obama-cho, Unzen-shi, Nagasaki-ken 854-0621</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2855778,32.750711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三島灯台からの映像 / Image from Mitsushima Lighthouse</name>
+        <description><![CDATA[長崎県対馬市上対馬町鰐浦　「対馬海上保安部」/ Waniura, Kamitsushima-machi, Tsushima-shi, Nagasaki-ken, "Tsushima Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.4436431,34.7239429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豆酘崎灯台からの映像 / Image from Tsutsusaki Lighthouse</name>
+        <description><![CDATA[〒817-0154 長崎県対馬市厳原町豆酘　「対馬海上保安部」 / Tsutsu, Iduhara-machi, Tsushima-shi, Nagasaki-ken 817-0154, "Tsushima Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.1684625,34.1040374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若宮灯台からの映像 / Images from Wakamiya Lighthouse</name>
+        <description><![CDATA[長崎県壱岐市勝本町 若宮灯台　「唐津海上保安部」/ Wakamiya Lighthouse, Katsumoto-cho, Iki-shi, Nagasaki-ken, "Karatsu Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.6862221,33.8694178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小値賀の風景ライブカメラ / Ojika-cho, Nagasaki</name>
+        <description>長崎県北松浦郡小値賀町野崎郷 野崎島ワイルドパーク自然学習村 小値賀町役場 / Nozakigo, Ojika-cho, Kita Matsuura-gun, Nagasaki, Nozakijima Wild Park, Ojika Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.128666,33.187344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五島列島・大瀬崎</name>
+        <description><![CDATA[長野県五島市<br>インターネット自然研究所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.840704,32.695661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬埼ディファレンシャルGPS局からの映像 / Image from Osezaki differential GPS station</name>
+        <description><![CDATA[〒853-0411 長崎県五島市玉之浦町玉之浦　大瀬崎灯台　「長崎海上保安部」/ Osezaki Lighthouse, Tamanoura, Tamanoura-machi, Goto-shi, Nagasaki-ken 853-0411, "Nagasaki Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.6001264,32.6127125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路・河川防災情報 / Road and River Disaster Prevention Information</name>
+        <description>〒851-0121 長崎県長崎市宿町３１６−１ 国土交通省長崎河川国道事務所 / Ministry of Land, Infrastructure and Transport Nagasaki River National Highway Office, 316-1 Shuku-machi, Nagasaki-shi, Nagasaki-ken 851-0121</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9392708,32.7630683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎大学病院正面玄関側患者用駐車場ライブカメラ / Nagasaki University Hospital Front entrance patient parking live camera</name>
+        <description>〒852-8102 長崎県長崎市坂本１丁目７−１ 長崎大学病院 / Nagasaki University Hospital, 7-1-8 Sakamoto, Nagasaki 852-8102, Nagasaki Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8682063,32.769493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【NCC】長崎空港ライブ / [NCC] Nagasaki Airport Live</name>
+        <description><![CDATA[〒856-0816 長崎県大村市箕島町５９３ 長崎空港 「NCC長崎文化放送」/ Nagasaki Airport, 593 Minoshima-cho, Omura-shi, Nagasaki 856-0816, "NCC Nagasaki Cultural Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9184937,32.913643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平木工業事務所内ライブカメラ / Hiraki industry office live camera</name>
+        <description>〒851-2206 長崎県長崎市三京町２８４２−１ 平木工業（株）/ Hiraki Industry Co., Ltd., 2842-1 Sankyo-cho, Nagasaki-shi, Nagasaki 851-2206,</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7603847,32.8480859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しまばら火張山花公園 / Shimabara Hibariyama Flower Park</name>
+        <description><![CDATA[〒855-0076 長崎県島原市上折橋町１４６５−２ しまばら火張山公園 「Love Blue長崎県島原市」/ 1465-2 Kamamibashicho, Shimabara City, Nagasaki Prefecture 855-0076 Shimabara Hibariyama Park "Love Blue Shimabara City, Nagasaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3378185,32.7900072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秩父が浦眉山ライブカメラ / Chichibugaura Mayuyama Live Camera</name>
+        <description><![CDATA[〒855-0864 長崎県島原市秩父が浦町 「LoveBlue長崎県島原市」/ Chibabugaura Town, Shimabara City, Nagasaki Prefecture 855-0864 "Love Blue Shimabara City, Nagasaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3720047,32.7584559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲仙岳垂木台地南ライブカメラ / Unzendake Taruki Plateau South Live Camera</name>
+        <description><![CDATA[長崎県島原市南千本木町 「気象庁」/ Minamisenbongi-cho, Shimabara-shi, Nagasaki "Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3280037,32.7796017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千本木1号砂防ダムライブカメラ / Senbongi No. 1 Sabo Dam Live Camera</name>
+        <description>長崎県島原市上折橋町 「雲仙復興事務所」/ Unzen Reconstruction Office, Kamioribashi-cho, Shimabara City, Nagasaki Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3382097,32.7874651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯江川災関ダムライブカメラ / Yuegawa disaster barrier dam live camera</name>
+        <description><![CDATA[長崎県島原市有明町大三東戊 「雲仙復興事務所」/ Amiake-cho, Shimabara-shi, Nagasaki Osan Tohoku "Unzen Reconstruction Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3114151,32.8155323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千本木台地雲仙普賢岳ライブカメラ / Senbongi Plateau Unzen Fugendake Live Camera</name>
+        <description>長崎県島原市北千本木町 「雲仙復興事務所」/ Unzen Reconstruction Office, Kita-Senbongi-cho, Shimabara City, Nagasaki Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3254519,32.7876731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水無川3号遊砂地右岸雲仙普賢岳ライブカメラ / Mizunashi River No. 3 sandbank right bank Unzen Fugendake live camera</name>
+        <description>長崎県島原市札の元町 「雲仙復興事務所」/ Unzen Reconstruction Office, Satsunomoto Town, Shimabara City, Nagasaki Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3554284,32.7483357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州地方整備局本明川ライブカメラ / Kyushu Regional Development Bureau Honmeigawa Live Camera</name>
+        <description>〒854-0011 長崎県諫早市八天町２０−１５ 国土交通省長崎河川国道事務所 諫早出張所 / Nagasaki River National Highway Office, Ministry of Land, Infrastructure, Transport and Tourism Isahaya Branch Office, 20-15 Hatten-cho, Isahaya, Nagasaki Prefecture 854-0011 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0600861,32.846845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川鉄道橋ライブカメラ / Honmeigawa Railway Bridge Live Camera</name>
+        <description><![CDATA[〒854-0006 長崎県諫早市天満町 「長崎河川国道事務所」/ Tenma Town, Isahaya City, Nagasaki Prefecture 854-0006, "``Nagasaki River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0460066,32.8567686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川裏山水位観測所ライブカメラ / Honmei River Urayama Water Level Observatory Live Camera</name>
+        <description><![CDATA[長崎県諫早市天満町 「長崎河川国道事務所」/ "Nagasaki River National Highway Office", Tenma Town, Isahaya City, Nagasaki Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0444913,32.8525435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川高城橋ライブカメラ / Honmyo River Takashiro Bridge Live Camera</name>
+        <description><![CDATA[長崎県諫早市八天町 「長崎河川国道事務所」/ Hatten Town, Isahaya City, Nagasaki Prefecture<br>"Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0527276,32.8461099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川半造川合流点ライブカメラ / Honmyo River Hanzo River Confluence Live Camera</name>
+        <description>長崎県諫早市仲沖町 「長崎河川国道事務所」/ Nakaoki Town, Isahaya City, Nagasaki “Nagasaki River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.076584,32.8479048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本明川不知火水位観測所ライブカメラ / Honmyo River Shiranui Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒859-0301 長崎県諫早市長田町 「長崎河川国道事務所」/ Nagata Town, Isahaya City, Nagasaki Prefecture 859-0301, "``Nagasaki River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0761242,32.8730254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号下大渡野高架橋ライブカメラ / National Road 34 Shimoowatano Viaduct Live Camera</name>
+        <description><![CDATA[長崎県諫早市下大渡野町 「長崎河川国道事務所」/ Shimoowatano-cho, Isahaya City, Nagasaki Prefecture, "Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0145913,32.8824058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道57号宝原橋ライブカメラ / National highway No. 57 Takarabara live camera</name>
+        <description><![CDATA[長崎県雲仙市小浜町雲仙 「長崎河川国道事務所」/ Unzen, Unzen City, Nagasaki Prefecture<br>"Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2628986,32.7421048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲仙岳野岳ライブカメラ / Unzendake Nodake Live Camera</name>
+        <description><![CDATA[〒854-0621 長崎県雲仙市小浜町雲仙 野岳 「気象庁」/ Nodake, Unzen, Obama Town, Unzen City, Nagasaki Prefecture 854-0621, "JMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2856418,32.7448189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野木場監視所雲仙普賢岳ライブカメラ / Ono Kiba Observatory Unzen Fugendake Live Camera</name>
+        <description><![CDATA[〒859-1505 長崎県南島原市深江町戊２１００−１ 「大野木場監視所」/ 2100-1, Fukae-cho, Minamishimabara-shi, Nagasaki Prefecture 859-1505 Ono, "Kiba Observatory"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3400286,32.7455533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩床山雲仙普賢岳山頂溶岩ドームライブカメラ / Iwatoyama Unzen Fugendake summit lava dome live camera</name>
+        <description><![CDATA[長崎県南島原市深江町戊 「雲仙復興事務所」/ Fukae Town, Minamishimabara City, Nagasaki Prefecture, "Unzen Reconstruction Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2935452,32.7397456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCC佐世保港ライブカメラ / NCC Sasebo Port Live Camera</name>
+        <description>〒857-0855 長崎県佐世保市新港町８ 鯨瀬ターミナル 「NCC長崎文化放送」/ NGC Nagasaki Cultural Broadcasting, Geise Terminal, 8 Shinko Town, Sasebo City, Nagasaki Prefecture 857-0855</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7226581,33.162565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西九州自動車道竹辺町ライブカメラ / Nishikyushu Expressway Takebe Town Live Camera </name>
+        <description>長崎県佐世保市竹辺町 「長崎河川国道事務所」/ Takebe Town, Sasebo City, Nagasaki “Nagasaki River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.6789061,33.1986307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西九州自動車道佐世保中央インターチェンジライブカメラ / Nishi Kyushu Expressway Sasebo Chuo Interchange Live Camera</name>
+        <description><![CDATA[〒857-0047 長崎県佐世保市矢岳町１ 佐世保中央IC 「長崎河川国道事務所」/  Sasebo Central IC, 1 Yadake-cho, Sasebo-shi, Nagasaki 857-0047, "Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7102151,33.1728834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道205号長畑ライブカメラ / National highway No. 205 Nagahata live camera</name>
+        <description><![CDATA[長崎県佐世保市長畑町 「長崎河川国道事務所」/ Nagahata Town, Sasebo City, Nagasaki Prefecture, "Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.817394,33.0848723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道35号木原町ライブカメラ / National highway No. 35 Kihara town live camera</name>
+        <description><![CDATA[〒859-3166 長崎県佐世保市木原町 「長崎河川国道事務所」/ Kihara Town, Sasebo City, Nagasaki Prefecture 859-3166, "Nagasaki River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8553399,33.1656792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西九州自動車道滑栄免ライブカメラ / West Kyushu Expressway Gurei Live Camera</name>
+        <description><![CDATA[〒859-4523 長崎県松浦市今福町滑栄免 「佐賀国道事務所」/ Naberubaemen, Imafuku-cho, Matsuura City, Nagasaki Prefecture 859-4523, "Saga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.787145,33.3441684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道34号俵坂ライブカメラ / National Highway No. 34 Tawarazaka Live Camera</name>
+        <description><![CDATA[〒859-3802 長崎県東彼杵郡東彼杵町坂本郷 俵坂峠 「長崎河川国道事務所」/ Sakamotogo, Higashisonogi-cho, Higashisonogi-gun, Nagasaki Prefecture 859-3802, "Nagasaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9600273,33.0642306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>対馬野生生物保護センターツシマヤマネコ / Tsushima Wildlife Conservation Center Tsushima Wildcat</name>
+        <description>〒817-1603 長崎県対馬市上県町佐護西里２９５６−５ 対馬野生生物保護センター / Tsugo Wildlife Conservation Center, 2956-5 Sago Nishizato, Kami prefecture town, Tsushima city, Nagasaki prefecture 817-1603</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.323027,34.643612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

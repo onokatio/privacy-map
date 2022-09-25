@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>神奈川県ライブカメラマップ / Kanagawa Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>神奈川県内ライブカメラ</name>
+      <Placemark>
+        <name>武蔵小杉駅前ライブカメラ / Musashi-Kosugi Station Live Camera</name>
+        <description><![CDATA[〒211-0063 神奈川県川崎市中原区小杉町１丁目４０３ 武蔵小杉タワープレイス高層棟 （株）メタテクノ 「YouTube」/ Metatechno Co. Ltd., Musasikosugi Tower Place, 1-403 Kosugi-machi, Nakahara-ku, Kawasaki-shi, Kanagawa-ken 211-0063<br>https://livecamera.fujiyamasan.com/musashikosugi-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6582917,35.5776107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ルアーポンドライブカメラ / Lure Pong drive camera</name>
+        <description><![CDATA[〒215-0013 神奈川県川崎市麻生区王禅寺１２２７−２ FISH ON 王禅寺 / FISH ON OZENJI, 1227-2 Ozenji, Aso-ku, Kawasaki-shi, Kanagawa 215-0013<br>https://livecamera.fujiyamasan.com/fishon-ozenji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5229661,35.5906507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>評判堂ライブカメラ / Hyobando Live Camera</name>
+        <description><![CDATA[〒210-0816 神奈川県川崎市川崎区大師町１２ 飴評判堂 / Ame Hyobando, 12 Daishi-machi, Kawasaki-ku, Kawasaki-shi, Kanagawa-ken 210-0816<br>https://livecamera.fujiyamasan.com/kawasaki-hyobandou.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7318991,35.5343992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本牧船舶通航信号所 / Honmoku Vessel Traffic Signal Staiton</name>
+        <description><![CDATA[〒231-0811 神奈川県横浜市中区本牧ふ頭１ 第三管区海上保安本部 横浜海上保安部 / Third Regional Coast Guard Headquarters Yokohama Coast Guard, 1 Honmokufuto, Naka-ku, Yokohama-shi, Kanagawa 231-0811<br>https://livecamera.fujiyamasan.com/honmoku-signal.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6783839,35.4298776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本牧ふ頭ライブカメラ / Honmokufuto Live Camera</name>
+        <description><![CDATA[神奈川県横浜市中区本牧ふ頭 本牧ふ頭ＢＣコンテナターミナル / Honmokufuto BC Container Terminal, Honmoku Futo, Naka-ku, Yokohama-shi, Kanagawa<br>https://livecamera.fujiyamasan.com/honmokuterminal.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6750692,35.4403935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の大桟橋の様子 / Osanbashi</name>
+        <description>神奈川県横浜市中区海岸通１丁目 横浜港大さん橋国際客船ターミナル / OSANBASHI YOKOHAMA INTERNATIONAL PASSENGER TERMINAL, 1-chome Kaigan-dori, Naka-ku, Yokohama-shi, Kanagawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.647732,35.451756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大岡川＆ランドマーク方面＋京急：Live Camera / Ooka River and landmark direction + Keikyu: Live Camera</name>
+        <description><![CDATA[神奈川県横浜市中区 大岡川付近 / Ooka River, Naka-ku, Yokohama-shi, Kanagawa-ken<br>https://livecamera.fujiyamasan.com/koganemachieki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6322983,35.4493201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の横浜の空ライブカメラ / Today's Sky of Yokohama]]></name>
+        <description><![CDATA[〒２４０－００１２　横浜市保土ヶ谷区月見台９－２８  有限会社ワイネットシステム / Y Net System Co., Ltd., 9-28 Tsukimidai, Hodogaya-ku, Yokohama-shi 240-0012<br>https://livecamera.fujiyamasan.com/yokohamamm21.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.594882,35.449921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉街道港南中央付近ライブカメラ / Kamakura Highway Konan Chuo Live Camera</name>
+        <description><![CDATA[神奈川県横浜市港南区港南中央通　「QINT's Home Page」 / Konanchuo-dori, Kona-ku, Yokohama-shi, Kanagawa<br>https://livecamera.fujiyamasan.com/kamakura-konan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.589936,35.400656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横浜ベイサイドマリーナライブカメラ / Yokohama Bayside Marina Live Camera</name>
+        <description><![CDATA[〒236-0007 神奈川県横浜市金沢区白帆１横浜ベイサイドマリーナ株式会社 / Yokohama Bayside Marina Co., Ltd. 1 Shiraho, Kanazawa-ku, Yokohama-shi, Kanagawa 236-0007<br>https://livecamera.fujiyamasan.com/yokohama-bayside.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6479247,35.380219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貞昌院ライブカメラ / Teishoin Temple Live Camera</name>
+        <description><![CDATA[〒233-0012 神奈川県横浜市港南区上永谷５−１−３ 貞昌院 / Teishoin, 5-1-3 Kaminagaya, Konan-ku, Yokohama-shi, Kanagawa 233-0012<br>https://livecamera.fujiyamasan.com/teishoin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.570205,35.403795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸塚駅周辺ライブカメラ / Totsuka Station Live Camera</name>
+        <description><![CDATA[〒244-0003 神奈川県横浜市戸塚区戸塚町 / Totsuka-cho, Totsuka-ku, Yokohama-shi, Kanagawa-ken 244-0003<br>https://livecamera.fujiyamasan.com/totsukaeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5342039,35.4007664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三浦縦貫道・真鶴道路ライブカメラ / Miura Jukan Road and Manaduru Road Live Cameras </name>
+        <description>〒231-0023　神奈川県横浜市中区山下町1番地シルクセンター423号室 神奈川県道路公社 / Kanagawa Prefecture Road Corporation, Room 423 Silkcenter, 1 Yamashita-cho, Naka-ku, Yokohama-shi, Kanagawa-ken 231-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6451657,35.4472062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みなとみらい / Minatomirai</name>
+        <description>〒220-8110 横浜市西区みなとみらい2-2-1 横浜ランドマークタワー10F 横浜エフエム放送株式会社 / Yokohama F.M. Broadcasting Co.,Ltd., Yokohama Landmark Tower 10F, 2-2-1 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa 220-8110</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6310914,35.4549721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横浜一望ライブカメラ / Yokohama overlooking live camera</name>
+        <description><![CDATA[〒241-0022 神奈川県横浜市旭区鶴ケ峰２丁目８２−１　ココロット鶴ヶ峰 / Cocolot Tsurugamine, 2-82-1 Tsurugamine, Asahi-ku, Yokohama-shi, Kanagawa-ken 241-0002<br>https://livecamera.fujiyamasan.com/yokohama-cocolot.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5500221,35.4748282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横浜市都筑区センター駅前ライブカメラ / Live camera in front of Center Station in Tsuzuki Ward, Yokohama City</name>
+        <description><![CDATA[〒224-0032 神奈川県横浜市都筑区茅ケ崎中央１−１センター南駅 / Center Minami Station, 1-1, Chigasaki Chuo, Tsuzuki-ku, Yokohama-shi, Kanagawa 224-0032, Japan<br>https://livecamera.fujiyamasan.com/yokohama-gusuku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5745099,35.5455828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スノーヴァ新横浜ゲレンデのライブ配信 / Snova Shinyokohama Gerende Live Camera</name>
+        <description><![CDATA[〒230-0072 神奈川県横浜市鶴見区梶山１丁目２−４３ スノーヴァ新横浜 / Snova Shinyokohama, 1-2-43 Kajio, Tsurumi-ku, Yokohama-shi, Kanagawa 230-0072<br>https://livecamera.fujiyamasan.com/yokohama-snova.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6588255,35.5245999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シーボニアライブカメラ / Seabonia Live Camera</name>
+        <description><![CDATA[〒238-0225 神奈川県三浦市三崎町小網代１２８６ シーボニアマリーナ / Seabonia Marina, 1286 Koajiro, Misaki-machi, Miura-shi, Kanagawa 238-0225<br>https://livecamera.fujiyamasan.com/seabonia-marina.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6206093,35.1627403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>剱埼灯台からの映像 / Tsurugisaki Lighthouse Live Camera</name>
+        <description><![CDATA[〒238-0104 神奈川県三浦市南下浦町松輪　剱埼灯台　海上保安庁 / Tsurugisaki Lighthouse, Matsuwa, Minamishitaura-machi, Miura-shi, Kanagawa-ken 238-0104<br>https://livecamera.fujiyamasan.com/tsurugisaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6771486,35.1413203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みうら・みさき海の駅 うらりマルシェ / Miura and Misaki Sea Station Urari Marche</name>
+        <description><![CDATA[〒238-0243 神奈川県三浦市三崎５丁目３−１ / 5-3-1 Misaki, Miura-shi, Kanagawa 238-0243<br>https://livecamera.fujiyamasan.com/miura-misaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6165606,35.1409572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江ノ島東浜ライブカメラ / Enoshima Higashihama Live Camera</name>
+        <description><![CDATA[〒251-0035 神奈川県藤沢市片瀬海岸１丁目１５−１ 片瀬東浜海水浴場 「波通」 / Katase Higashihama Beach,  1-15-1 Katase Kaigan, Fujisawa-shi, Kanagawa 251-0035, "Namitsui"<br>https://livecamera.fujiyamasan.com/katase-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4863188,35.3074887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵠沼海岸波通ライブカメラ / Kugenumakaigan Namitsu Live Camera</name>
+        <description><![CDATA[〒251-0037 神奈川県藤沢市鵠沼海岸 / Kugenumakaigan, Fujisawa-shi, Kanagawa Prefecture 251-0037<br>https://livecamera.fujiyamasan.com/kugenuma-coast-2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.468211,35.3192618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江ノ島辻堂ライブカメラ / Enoshima Tsujido Live Camera</name>
+        <description><![CDATA[〒251-0046 神奈川県藤沢市辻堂西海岸４丁目　辻堂海水浴場　「波通」 / Tsujido Beach, 4-chome, Tsujidonishikaigan, Fujisawa-shi, Kanagawa Prefecture, 251-0046, Japan, "Namitsu"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4531928,35.318131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湘南のリアルタイムな波情報</name>
+        <description>〒251-0037 神奈川県藤沢市鵠沼海岸２丁目１６−１１ コーストライン</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.469305,35.317469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リビエラ逗子マリーナライブカメラ / Riviera Zushi Marina Live Camera</name>
+        <description><![CDATA[〒249-0008 神奈川県逗子市小坪５−２３−９ リビエラ逗子マリーナ / Riviera Zushi Marina, 5-23-9 Kotsubo, Zushi-shi, Kanagawa 249-0008<br>https://livecamera.fujiyamasan.com/zushimarina.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5545383,35.2971058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神奈川県道路公社 逗子海岸駐車場（逗子海岸ロードオアシス）ライブカメラ / Kanagawa Prefectural Road Corporation Zushi Beach Parking (Zushi Beach Road Oasis) Live Camera</name>
+        <description><![CDATA[〒249-0007 神奈川県逗子市新宿５丁目５−３−２８ / 5-5-3-28 Shinjuku, Zushi-shi, Kanagawa 249-0007<br>https://livecamera.fujiyamasan.com/zushi-coast-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5663145,35.2933953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茅ヶ崎海岸ライブカメラ / Chigasaki Coast Live Camera</name>
+        <description><![CDATA[〒253-0054 神奈川県茅ヶ崎市東海岸南３丁目１２ 茅ヶ崎海岸 「藤沢土木事務所」/ Chigasaki Coast, 3-12 Higashikaiganminami, Chigasaki-shi, Kanagawa 253-0054, "Fujisawa Civil Engineering Office"<br>https://livecamera.fujiyamasan.com/chigasaki-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4107706,35.3179243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大磯海岸ライブカメラ / Oiso Coast Live Camera</name>
+        <description><![CDATA[〒255-0003 神奈川県中郡大磯町大磯 大磯海水浴場 「平塚土木事務所」/ Oiso beach, Oiso, Oiso-machi, Naka-gun, Kanagawa 255-0003, "Hiratsuka Civil Engineering Office"<br>https://livecamera.fujiyamasan.com/oiso-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.318871,35.3089278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中津川カントリークラブライブカメラ / Nakatsugawa Country Club Live Camera</name>
+        <description><![CDATA[〒243-0202 神奈川県厚木市中荻野１９４１　中津川カントリークラブ / Nakatsugawa Country Club, 1941 Nakahagino, Atsugi-shi, Kanagawa-ken 243-0202<br>https://livecamera.fujiyamasan.com/nakatsugawa-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.309798,35.5182387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本厚木カンツリークラブライブカメラ / Hon-Atsugi Country Club Live Camera</name>
+        <description><![CDATA[〒243-0213 神奈川県厚木市飯山１７００　本厚木カンツリークラブ / Hon-Atsugi Country Club, 1700 Iiyama, Atsugi-shi, Kanagawa-ken 243-0213<br>https://livecamera.fujiyamasan.com/honatsugi-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3369548,35.4615095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清川村役場庁舎ライブカメラ / Kiyokawa Village Hall Live Camera</name>
+        <description><![CDATA[〒243-0112 神奈川県愛甲郡清川村煤ヶ谷２２１６ 清川村役場 / Kiyokawa Village Hall, 2216 Susugaya, Kiyokawa-mura, Aiko-gun, Kanagawa-ken 243-0112<br>https://livecamera.fujiyamasan.com/kiyokawamura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2764313,35.4823919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮ヶ瀬湖ライブカメラ / Lake Miyagase Live Camera</name>
+        <description><![CDATA[〒243-0111 神奈川県愛甲郡清川村宮ヶ瀬９４０−４  県立宮ヶ瀬やまなみセンター / Prefectural Miyagase Yamanami Center, 940-4 Miyagase, Kiyokawa-mura, Aiko-gun, Kanagawa 243-0111<br>https://livecamera.fujiyamasan.com/miyagaseko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.224436,35.525328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松田山ライブカメラ / Matsudayama Live Camera</name>
+        <description>〒258-0003 神奈川県足柄上郡松田町松田惣領２９５１ 松田山ハーブガーデン / Matsudayama Herb Garden, 2951 Matsudasoryo, Matsuda-cho, Ashigarakami-gun, Kanagawa 258-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.137597,35.351676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松田山ライブカメラ / Mt. Matsuda Live Camera</name>
+        <description><![CDATA[〒258-0003 神奈川県足柄上郡松田町松田惣領２０３７　松田町役場 / Matsuda Town Hall, 2037 Matsudasoryo, Matsuda-machi, Ashigarakami-gun, Kanagawa-ken 258-0003<br>https://livecamera.fujiyamasan.com/matsudayama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1393761,35.3481611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>開成水辺FSのいまライブカメラ / Kaisei Forest Springs Live Camera</name>
+        <description><![CDATA[〒258-0021 神奈川県足柄上郡開成町吉田島３３３８　開成水辺フォレストスプリングス / Fishing Park Kaisei Forest Springs, 3338 Yoshidajima, Kaisei-machi, Ashigarakami-gun, Kanagawa-ken 258-0021<br>https://livecamera.fujiyamasan.com/kaisei-forest-spring.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.132018,35.337791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東名高速の大和トンネル付近の交通ライブ映像 / Live camera near the Tomei Expressway Yamato Tunnel</name>
+        <description><![CDATA[〒242-0029 神奈川県大和市上草柳 東名高速道路 大和トンネル / Tomei Expressway Yamato Tunnel, Kamisakuyanagi, Yamato-shi, Kanagawa Prefecture 242-0029<br>https://livecamera.fujiyamasan.com/yamato-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4503896,35.4761923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾瀬市防災気象情報 / Ayase City Disaster Prevention Weather Information</name>
+        <description><![CDATA[神奈川県綾瀬市 / Ayase-shi, Kanagawa<br>https://livecamera.fujiyamasan.com/ayase-bousai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4276365,35.4366072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サニーサイドマリーナウラガ / Sunny Side Marina Uraga</name>
+        <description>〒239-0821 神奈川県横須賀市東浦賀２丁目２２−２ サニーサイドマリーナウラガ / Sunny Side Marina Uraga, 2-22-2 Higashiuraga, Yokosuka-shi, Kanagawa-ken 239-0821</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.724032,35.240451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シティマリーナヴェラシスライブカメラ / City Marina Velasis Live Camera</name>
+        <description><![CDATA[〒239-0824 神奈川県横須賀市西浦賀４丁目１１−５　シティマリーナヴェラシス / City Marina Velasis, 4-11-5 Nishiuraga, Yokosuka-shi, Kanagawa-ken 239-0824<br>https://livecamera.fujiyamasan.com/citymarinavelasis.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7232562,35.2351418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三浦縦貫道路衣笠IC付近ライブカメラ / Live camera near Kinugasa IC on Miura Transit Road</name>
+        <description><![CDATA[神奈川県横須賀市衣笠町 「神奈川県道路公社」/ Kinugasa-cho, Yokosuka-shi, Kanagawa, "Kanagawa Prefectural Road Corporation"<br>https://livecamera.fujiyamasan.com/kinugasaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6601613,35.2415109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三浦縦貫道路林出口付近ライブカメラ / Miura Jukan Road Hayashi Exit Live Camera</name>
+        <description><![CDATA[神奈川県横須賀市太田和 三浦縦貫道路 / Miura Jukan Road, Ohtawa, Yokosuka-shi, Kanagawa<br>https://livecamera.fujiyamasan.com/hayashideguchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6373609,35.2247311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>観音崎からみた東京湾浦賀水道 / Uragasuido and Tokyo Bay from Kannonzaki</name>
+        <description>〒239-0813 神奈川県横須賀市鴨居４丁目１１９５　東京湾海上交通センター / Tokyo Wan Vessel Traffic Service Center, 4-1195 Kamoi, Yokosuka-shi, Kanagawa 239-0813</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.743433,35.257797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京湾ライブカメラ神奈川 / Tokyo Bay Live Camera Kanagawa</name>
+        <description><![CDATA[〒239-0808 神奈川県横須賀市大津町１丁目２２大津漁港 / Otsu Fishing Port, 1-22 Otsu-cho, Yokosuka-shi, Kanagawa 239-0808<br>https://livecamera.fujiyamasan.com/otsugyoko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6971297,35.264042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】相模湖・湖上ライブカメラ / Lake Sagami Live Camera</name>
+        <description>〒229-0101 神奈川県相模原市緑区与瀬382　勝瀬観光株式会社(勝瀬ボート) / Katsuse Tourism Corporation, 382 Yose, Midori-ku, Sagamihara-shi, Kanagawa-ken 229-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.188854,35.612312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ相模湖区間 / Live Camera Lake Sagamihara Section</name>
+        <description><![CDATA[相模原市緑区与瀬～相模原市緑区吉野 「相武国道事務所」 / Yose, Midori-ku, Sagamihara-shi to Yoshino, Midori-ku, Sagamihara-shi, "Sobu National Highway Office"<br>https://livecamera.fujiyamasan.com/r20sagamiko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1870624,35.6168483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相模原グリーンテニスクラブWebカメラ / Sagamihara Green Tennis Club Webcam</name>
+        <description><![CDATA[〒252-0333 神奈川県相模原市南区東大沼２丁目１０−４１　相模原グリーンテニスクラブ / Sagamihara Green Tennis Club, 2-10-41 Higashionuma, Minami-ku, Sagamihara-shi, Kanagawa-ken 252-0333<br>https://livecamera.fujiyamasan.com/sagamihara-teniss.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4186589,35.5421296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮ヶ瀬ダムライブカメラ / Miyagase Dam Live Camera</name>
+        <description><![CDATA[〒252-0156 神奈川県相模原市緑区青山字南山2145-50 相模川水系広域ダム管理事務所 / Sagami River water system wide area dam management office, 2145-50 Minamiyama, Midori-ku, Sagamihara-shi, Kanagawa 252-0156<br>https://livecamera.fujiyamasan.com/miyagasedam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2493915,35.5438199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津久井観光センターライブカメラ / Tsukui Tourism Center Live Camera</name>
+        <description><![CDATA[〒252-0152 神奈川県相模原市緑区太井１２７４−２  津久井湖観光センター / Lake Tsukui Tourism Center, 1274-2 Futoi, Midori-ku, Sagamihara-shi, Kanagawa 252-0152<br>https://livecamera.fujiyamasan.com/tsukuikankocenter.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.280162,35.586934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津久井浜ライブカメラ / Tsukui Beach Live Camera</name>
+        <description><![CDATA[神奈川県横須賀市津久井 / Tsukui, Yokosuka-shi, Kanagawa-ken, "TROPTYLE"<br>https://livecamera.fujiyamasan.com/tsukuihama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6659527,35.1940803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三浦・津久井浜ライブカメラ / Miura and Tsukuihama Live Camera</name>
+        <description>〒239-0843 神奈川県横須賀市津久井１丁目４−１０ シャロウ・リーフ・ウィンドサーフ / Shallow Reef Wind Surf, 1-4-10 Tsukui, Yokosuka-shi, Kanagawa-ken 29-0843</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.664301,35.193609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>橋本駅ライブカメラ / Hashimoto Station Live Camera</name>
+        <description><![CDATA[〒252-0143 神奈川県相模原市緑区橋本６丁目 橋本駅 / Hashimoto Station, 6 Hashimoto, Midori-ku, Sagamihara-shi, Kanagawa 252-0143<br>https://livecamera.fujiyamasan.com/hashimotoeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.34505,35.595082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>医療衛生学部ライブカメラ / School of Allied Health Science Live Camera</name>
+        <description>〒252-0373 神奈川県相模原市南区北里1-15-1 北里大学 相模原キャンパス / Kitasato University Sagamihara Campus, 1-15-1 Kitasato, Minami-ku, Sagamihara-shi, Kanagawa 252-0373</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3932651,35.5395602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相模原市中央区プーズネット事務所前ライブカメラ / Live camera in front of the Poosenet office in Chuo-ku, Sagamihara</name>
+        <description>〒252-0235 神奈川県相模原市中央区相生４丁目５−１ 小島ビル 1F 合資会社 プーズネット / POOSNET, Kojima Building 1F, 4-5-1 Aioi, Chuo-ku, Sagamihara-shi, Kanagawa 252-0235</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3818055,35.5643729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉段葛ライブカメラ / Kamakura Dankazura Live Camera</name>
+        <description>〒248-0006 神奈川県鎌倉市小町２−１１−１９ （株）豊島屋 本店 / Toshimaya Head Office Ltd., 2-11-19 Komachi, Kamakura-shi, Kanagawa 248-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5525674,35.3204653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉ローンテニス倶楽部ライブカメラ / Kamakura Lawn Tennis Club Live Camera</name>
+        <description><![CDATA[〒248-0027 神奈川県鎌倉市笛田２丁目８−３３　鎌倉ローンテニス倶楽部 / Kamakura Lawn Tennis Club 2-8-33 Fueda, Kamakura-shi, Kanagawa-ken 248-0027<br>https://livecamera.fujiyamasan.com/kamakuralawn.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.515103,35.325958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HALE SURF２階テラスよりLive / Live from the 2nd floor terrace HALE SURF</name>
+        <description>〒248-0033 神奈川県鎌倉市腰越３丁目１１−１２ 石川ビル1階　HALEサーフィンスクール / HALE Surf School, Ishikawa Building 1F, 3-11-12 Koshigoe, Kamakura-shi, Kanagawa-ken 248-0033</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4890804,35.3083765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉市七里ガ浜ライブカメラ / CITY KAMAKURA LIVE CAM</name>
+        <description>〒248-0012 神奈川県鎌倉市御成町１８−１０ 鎌倉市役所 / Kamakura City Hall, 18-10 Onari-machi, Kamakura-shi, Kanagawa-ken 248-0012</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5466871,35.3192254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葉山ダイビングポイント24時間  LIVE / Hayama diving point 24 hours LIVE</name>
+        <description><![CDATA[〒248-0025 神奈川県鎌倉市七里ガ浜１丁目９ (株)湘南DIVE.com / Shonan DIVE.com / 1-9 Shichirigahama, Kamakura-shi, Kanagawa-ken 248-0025<br>https://livecamera.fujiyamasan.com/hayama-diving.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.509704,35.30709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由比ヶ浜ライブカメラ（アマンダンブルー鎌倉）/  Yuigahama Live Camera (Amanda Blue Kamakura)</name>
+        <description><![CDATA[〒248-0013 神奈川県鎌倉市材木座５丁目２−２５アマンダンブルー鎌倉 / Amanda Blue Kamakura 2-2-5 Zaimokuza, Kamakura-shi, Kanagawa 248-0013, Japan<br>https://livecamera.fujiyamasan.com/kamakura-yuigahama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5462444,35.3089327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉海岸（由比ヶ浜）ライブカメラ / Kamakura Coast Yuigahama Live Camera</name>
+        <description><![CDATA[〒248-0014 神奈川県鎌倉市由比ガ浜４丁目 由比ガ浜海水浴場 / Yuigahama Beach, 4-chome Yuigahama, Kamakura City, Kanagawa Prefecture 248-0014<br>https://livecamera.fujiyamasan.com/kamakura-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5422222,35.3092694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葉山港ライブカメラ / Hayama Port Live Camera</name>
+        <description><![CDATA[〒240-0112 神奈川県三浦郡葉山町堀内５０ 葉山港 「リビエラ」/ Hayama Port, 50 Horiuchi, Hayama Town, Miura District, Kanagawa Prefecture, 240-0112<br>https://livecamera.fujiyamasan.com/hayamaport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5680982,35.2839208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葉山マリーナハーバーライブカメラ / Hayama Marina Harbor Live Camera  </name>
+        <description><![CDATA[〒240-0112 神奈川県三浦郡葉山町堀内50−2　葉山マリーナ / Hayama Marina, 50-2 Horiuchi, Hayama-cho, Miura-gun, Kanagawa 240-0112<br>https://livecamera.fujiyamasan.com/hayama-marina.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.568897,35.28296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森戸海岸のライブカメラ / Morito coast live camera</name>
+        <description><![CDATA[〒240-0112 神奈川県三浦郡葉山町堀内９０１ 葉山元町商店会 / Hayama Moto-machi Shouten-kai, 901 Horiuchi, Hayama-cho, Miura-gun, Kanagawa 240-0112<br>https://livecamera.fujiyamasan.com/morido-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5730671,35.2752855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京大学海洋アライアンス平塚沖総合実験タワー(平塚沖波浪観測塔灯) / The University of Tokyo Marine Alliance Hiratsuka Offshore Experimental Tower (Hiratsuka Offshore Wave Observation Tower Light)</name>
+        <description><![CDATA[神奈川県平塚市 / Hiratsuka-shi, Kanagawa<br>https://livecamera.fujiyamasan.com/hiratsukaoki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.345817,35.3054763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平塚市内河川ライブカメラ / Hiratsuka City River Live Camera</name>
+        <description><![CDATA[〒254-0041 神奈川県平塚市浅間町９−１ 平塚市役所 防災危機管理課 「ひらつか防災気象ウェブ」/ Hiratsuka City Hall Disaster Crisis Management Division, 9-1 Sengen-cho, Hiratsuka-shi, Kanagawa-ken 254-0041, "Hiratsuka Disaster Weather Web"<br>https://livecamera.fujiyamasan.com/hiratsuka-rivers.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3494006,35.3354928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駐車場ライブカメラ / Parking Live Camera</name>
+        <description>〒254-0043 神奈川県平塚市紅谷町１６−４相模石油株式会社 / Sagami Oil Co., Ltd. 16-4 Koyacho, Hiratsuka-shi, Kanagawa Prefecture, 254-0043 Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.346766,35.327941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秦野市防災気象情報ライブカメラ / Hadano City disaster prevention weather information Live Camera</name>
+        <description><![CDATA[〒257-0045 神奈川県秦野市桜町１丁目３−２　秦野市役所　/ Hadano City Hall, 1-3-2 Sakura-machi, Hadano-shi, Kanagawa 257-0045<br>https://livecamera.fujiyamasan.com/hadano-bousai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2201958,35.3746604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒匂川定点カメラ（報徳橋付近）/ Sakawa River Fixed Point (Hotoku Bridge)</name>
+        <description><![CDATA[〒250-0852 神奈川県小田原市栢山６０ 株式会社スプロテック / SPROTEC, 60 Kayama, Odawara-shi, Kanagawa-ken 250-0852<br>https://livecamera.fujiyamasan.com/odawara-hotokubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.147879,35.311768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田原城ライブカメラ / Odawara-jo Castle Live Camera</name>
+        <description><![CDATA[〒250-0014 神奈川県小田原市城内６ 小田原城 「小田原市役所」/ Ojowara-jo Castle, 6 Jonai, Odawara-shi, Kanagawa Prefecture 250-0014, "Odawara City Hall" <br>https://livecamera.fujiyamasan.com/odawaracity.html<br>https://livecamera.fujiyamasan.com/odawarajo-umaya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1535136,35.2509493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根ウェブカメラ / Hakone Web Camera</name>
+        <description><![CDATA[〒250-0311 神奈川県足柄下郡箱根町湯本 箱根町観光協会 「箱根町観光情報ポータルサイト 箱根全山」/ Yumoto, Hakone-cho,, Ashigarashimo-gun, Kanagawa Prefecture, 250-0311 "Hakone Town Tourism Information Portal Site, Hakone Zenzan"<br>https://livecamera.fujiyamasan.com/hakone-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1074356,35.2321509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根・大涌谷 / Hakone Owakudani</name>
+        <description><![CDATA[〒250-0631 神奈川県足柄下郡箱根町仙石原1251 「インターネット自然研究所」 / 1251 Sengokubara, Hakone-machi, Ashigarashimo-gun, Kanagawa 250-0631<br>https://livecamera.fujiyamasan.com/hakone-owakudani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0228416,35.2500001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根山大涌谷ライブカメラ / Mt. Hakone Owakudani Live Camera</name>
+        <description>〒250-0631 神奈川県足柄下郡箱根町仙石原 大涌谷 / Owakudani, Sengokubara, Hakone-cho, Ashigarashimo-gun, Kanagawa-ken 250-0631</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.019884,35.2431054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大涌谷遠望ライブカメラ / Owakudani distant view live camera</name>
+        <description>〒250-0631 神奈川県足柄下郡箱根町仙石原 箱根春山荘別荘地 / Hakone Harusanso Villa Resort, Sengokuhara, Hakone-machi, Ashigarashimo-gun, Kanagawa Prefecture 250-0631</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0297706,35.2639407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦ノ湖うえ乃ライブカメラ / Ashinoko Ueno Live Camera</name>
+        <description><![CDATA[〒250-0522 神奈川県足柄下郡箱根町元箱根１６２ つり舟うえ乃 / Restaurant & Fishing Boat Ueno, 162 Motohakone, Hakone-machi, Ashigarashimo-gun, Kanagawa 250-0522<br>https://livecamera.fujiyamasan.com/ashinoko-ueno.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9975269,35.2354386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根新道ライブカメラ / Hakone Shindo Live Camera</name>
+        <description><![CDATA[神奈川県足柄下郡箱根町 箱根新道 「横浜国道事務所」/ Hakone Shindo, Hakone-cho, Ashigarashimo-gun, Kanagawa Prefecture, "Yokohama National Road Office"<br>https://livecamera.fujiyamasan.com/hakoneshindo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0636592,35.2101922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湖畔展望館から見える今の富士山 / Mt. Fuji seen from the lakeside observatory</name>
+        <description><![CDATA[〒250-0522 神奈川県足柄下郡箱根町元箱根１７１ 恩賜箱根公園 / Onshi-Hakone Park, 171 Motohakone, Hakone-cho, Ashigarashimo-gun, Kanagawa-ken 250-0522<br>https://livecamera.fujiyamasan.com/onshihakone-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.025955,35.1963467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根関所遠見番所ライブカメラ / Hakone Sekisho Toumi Bansho Live Camera</name>
+        <description>〒250-0521 神奈川県足柄下郡箱根町箱根1番地　箱根関所 / Hakone Sekisho, 1 Hakone, Hakone-cho, Ashigarashimo-gun, Kanagawa-ken 250-0521</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0263485,35.1923555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱根ライブカメラ / Hakone Live Camera</name>
+        <description>〒250-0521 神奈川県足柄下郡箱根町箱根１３８　夕霧荘 / Yugiriso, 138 Hakone, Hakone-cho, Ashigarashimo-gun, Kanagawa-ken 250-0521</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0272246,35.1899163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[真鶴道路 & 岩大橋ライブカメラ / Manazuru Road & Iwahashi Live Camera]]></name>
+        <description><![CDATA[〒259-0202 神奈川県足柄下郡真鶴町岩 真鶴道路 & 岩大橋 / Manazuru Road & Iwahashi, Iwa, Manaduzu-cho, Ashigarashimo-gun, Kanagawa 259-0202]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1417478,35.1648576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[真鶴道路 & 湯河原橋ライブカメラ / Manazuru Road & Yugawara Bridge Live Camera]]></name>
+        <description><![CDATA[〒259-0312 神奈川県足柄下郡湯河原町吉浜 真鶴道路 & 湯河原橋 / Manazuru Road & Yugawara-bashi, Yugawara-machi, Yugawara-cho, Ashigarashimo-gun, Kanagawa Prefecture  259-0312<br> https://livecamera.fujiyamasan.com/yugawarabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1270926,35.1497532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神奈川県湯河原町ライブカメラ / Yugawara Town Live Camera</name>
+        <description><![CDATA[神奈川県足柄下郡湯河原町吉浜 「湯河原町」 / Yoshihama, Yugawara-cho, Ashigarashimo-gun, Kanagawa<br>https://livecamera.fujiyamasan.com/yugawara-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.120002,35.150574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逗子海岸ライブカメラ</name>
+        <description><![CDATA[〒249-0007 新宿２丁目１０ 逗子海岸「TROPITYLE」<br>https://livecamera.fujiyamasan.com/zushi-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5702207,35.2931526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌倉七里ケ浜ライブカメラ / Kamakura Shichirigahama Live Camera</name>
+        <description><![CDATA[〒248-0025 神奈川県鎌倉市七里ガ浜東 「株式会社デジサーフ」/ Shichirigahamahigashi, Kamakura City, Kanagawa 248-0025 "Digisurf Co., Ltd."<br>https://livecamera.fujiyamasan.com/shichirigahama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.516546,35.3088483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由比ヶ浜ライブカメラ / Yuigahama Live Camera</name>
+        <description><![CDATA[〒248-0013 神奈川県鎌倉市材木座５丁目２−２５　アマンダンブルー鎌倉 「波通」/ Amandan Blue Kamakura, 5-2-25 Zaimokuza, Kamakura City, Kanagawa 248-0013,  "Namitsu"<br>https://livecamera.fujiyamasan.com/kamakura-yuigahama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5462444,35.3089327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相模湖ICライブカメラ / Sagamiko IC live camera</name>
+        <description><![CDATA[〒252-0183 神奈川県相模原市緑区吉野７７９−５　相模湖IC 「weathernews」/ Sagamiko IC, 779-5 Yoshino, Midori-ku, Sagamihara City, Kanagawa Prefecture 252-0183, "weathernews"<br>https://livecamera.fujiyamasan.com/sagamikoic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1679366,35.6192882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横須賀くりはま花の国ライブカメラ / Yokosuka Kurihama Flower Park Live Camera </name>
+        <description><![CDATA[〒239-0832 神奈川県横須賀市神明町１ くりはま花の国 「京急電鉄」/ Kurihama Flower Park, 1 Shinmeicho, Yokosuka City, Kanagawa Prefecture 239-0832, "Keikyu Electric Railway"<br>https://livecamera.fujiyamasan.com/kurihama-hananokuni.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7035438,35.2172612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,3994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>新潟県ライブカメラマップ / Niigata Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>新潟県内ライブカメラ</name>
+      <Placemark>
+        <name>日本海と国道345号線 / the Sea of Japan and National Highway Route 345</name>
+        <description><![CDATA[〒959-3665 新潟県村上市桑川８９２−５ 道の駅笹川流れ 夕日会館 「村上市ライブカメラ」 / Yuhi Kaikan, Michinoeki Sasagawanagare, 892-5 Kuwakawa, Murakami-shi, Niigata 959-3665, "Murakami City Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4581315,38.3744598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬波海岸ライブカメラ / Senami Coast Live Camera</name>
+        <description><![CDATA[〒958-0037 新潟県村上市 瀬波温泉2-10-24 大観荘せなみの湯 / Taikanso Senaminoyu, 2-10-24 Senami Onsen, Murakami-shi, Niigata 958-0037<br>https://livecamera.fujiyamasan.com/niigata-senamionsen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.43706,38.213536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[荒川のリアルタイム情報 / Arakawa's real-time information]]></name>
+        <description>〒959-3131 新潟県村上市藤沢２７−１ 国土交通省 北陸地方整備局 羽越河川国道事務所 / Hokuriku Regional Development Bureau Uetsu River National Highway Office, Ministry of Land, Infrastructure and Transport, 27-1 Fujisawa, Murakami-shi, Niigata-ken 959-3131</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.450679,38.11783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スピードパーク新潟WEB CAMERA / Speed Park Niigata Web Camera</name>
+        <description><![CDATA[〒959-2600 新潟県胎内市松波１０１３－３６ スピードパーク新潟 / Speed Park Niigata, 1013-36 Matsunami, Tainai-shi, Niigata 959-2500<br>https://livecamera.fujiyamasan.com/niigata-tainai-speedpark.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3715925,38.0891643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>櫛形山脈定点カメラ / Kushigata Moutains Fixed Point Camera</name>
+        <description><![CDATA[〒959-2642 新潟県胎内市新和町２−１０ 胎内市役所 / Tainai City Hall, 2-10 Shinwa-cho, Tainai-shi, Niigata 959-2642<br>https://livecamera.fujiyamasan.com/niigata-tainai-kushigata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4103428,38.0597323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オートキャンプ場ライブカメラ / Auto Camping Site Live Camera</name>
+        <description>〒957-0231 新潟県新発田市藤塚浜２９９ 紫雲寺記念公園 / Niigata Prefectural Shiunjikinen Park, 299 Fujitsukahama, Shibata-shi, Niigata-ken 957-0231</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2938515,38.0337928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>聖籠町海のにぎわい館ライブカメラ / Seiro Town Uminonigiwaikan Live Camera</name>
+        <description><![CDATA[〒957-0103 新潟県北蒲原郡聖籠町大字網代浜1612−5　聖籠町海のにぎわい館 / Seiro Town Uminonigiwaikan, 1612-5 Ajirohama, Seiro-machi, Kitakanbara-gun, Niigata-ken 957-0103<br>https://livecamera.fujiyamasan.com/niigata-seiro-uminonigiwaikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2503206,38.0054019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瓢湖ライブ映像 / Lake Hyoko Live Video</name>
+        <description><![CDATA[〒959-2022 新潟県阿賀野市外城町１６−１５ 瓢湖白鳥会館 「阿賀野市役所」 / Hyoko Hakucho Kaikan, 16-15 Tojo-cho, Agano-shi, Niigata 959-2022, "Agano City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2361416,37.8366979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>慈眼山林昌寺ライブカメラ / Jigenzan Rinshoji Temple Live Camera</name>
+        <description>〒959-2221 新潟県阿賀野市保田３２４６ 林昌寺 / Rinshoji Temple, 3246 Yasuda, Agano-shi, Niigata 959-2221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2315201,37.7730427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市防災ライブカメラ / Gosen City Disaster Prevention Live Camera</name>
+        <description>〒959-1825 新潟県五泉市太田１０９４−１五泉市役所 / Gosen City Hall, 1094-1 Ota, Gosen-shi, Niigata-ken 959-1825</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1825241,37.7443586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野市　水原　瓢湖の白鳥リアルタイムライブカメラ画像 / Agano City Mizuhara, White swan of Lake Hyoko Real time live camera image</name>
+        <description>〒959-1928 新潟県阿賀野市村杉４６３１−１　ふるさとがしのばれる宿 角屋旅館 / Kadoya Ryokan, 4631-1 Murasugi, Agano-shi, Niigata-ken 959-1928</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.291437,37.800179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川口灯台 / Aganokawaguchi Lighthouse</name>
+        <description><![CDATA[〒950-3127 新潟県新潟市北区松浜みなと７−１７ 新潟海上保安部 / Niigata Coast Guard, 7-17 Matsuhamaminato, Kita-ku, Niigata-shi, Niigata 950-3127<br>https://livecamera.fujiyamasan.com/niigata-agano-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1359915,37.9593652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟せんべい王国Ｗｅｂカメラ / Niigata Rice Cracker Kingdom Webcam</name>
+        <description><![CDATA[〒950-3134 新潟県新潟市北区新崎２６６１　新潟せんべい王国 / Niigata Senbei Oukoku, 2661 Niizaki, Kita-ku, Niigata-shi, Niigata-ken 950-3134<br>https://livecamera.fujiyamasan.com/niigata-senbeiokoku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.164086,37.929474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>発車時刻案内板ライブカメラ / Departure time guide plate live camera</name>
+        <description><![CDATA[新潟県新潟市中央区花園１丁目１ ＪＲ新潟駅 / Japan Railway Niigata Station, 1-1 Hanazono, Chuo-ku, Niigata-shi, Niigata<br>https://livecamera.fujiyamasan.com/niigata-jrniigataeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.061315,37.912005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟日報メディアシップ２０階のライブカメラ　Live Camera in Niigata / Live camera of Niigata Daily News Media Ship 20th floor</name>
+        <description>〒950-0088 新潟県新潟市中央区万代３丁目１−１　新潟日報メディアシップ / Niigata Nippo Media Ship, 3-1-1 Bandai, Chuo-ku, Niigata-shi, Niigata-ken 950-0088</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0560656,37.9186082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川下流ライブカメラ / Shinano river downstream live camera</name>
+        <description>〒951-8153 新潟県新潟市中央区文京町１６−９ 信濃川下流河川事務所 / Shinano River Downstream River Office, 16-9 Bunkyo-cho, Chuo-ku, Niigata-shi, Niigata-ken 951-8153</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0076827,37.906709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青山海岸生中継（ライブカメラ）/ Aoyama Coast live broadcast (live camera)</name>
+        <description><![CDATA[〒950-2002 新潟県新潟市西区青山 青山海岸海水浴場　「新潟海岸情報ステーション」/ Aoyama Coast Beach, Aoyama, Nishi-ku, Niigata-shi, Niigata-ken 950-2002, "Niigata Coast Information Station"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9807307,37.8976522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟大学キャンパスカメラ / Niigata University campus camera</name>
+        <description>〒950-2181 新潟県新潟市西区五十嵐２の町８０５０　新潟大学 / Niigata University, 8050 Ninocho, Ikarashi, Nishi-ku, Niigata-shi, Niigata-ken 950-2181</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.942539,37.86701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川防災情報 / Agano River disaster prevention information</name>
+        <description>〒956-0032 新潟県新潟市秋葉区南町14-28 国土交通省北陸地方整備局 阿賀野川河川事務所 / Ministry of Land, Infrastructure and Transport Hokuriku Regional Development Bureau Agano River Office, 14-28 Minami-cho, Akiba-ku, Niigata-shi, Niigata 956-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.11556,37.7937366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐渡各地のライブ映像 / Live Coverage Sado</name>
+        <description>〒952-1209 新潟県佐渡市千種２３２　佐渡市役所 / Sado City Hall, 232 Chikusa, Sado-shi, Niigata 952-1209</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.368254,38.01848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沢崎鼻灯台ライブカメラ / Sawazakihana Live Camera</name>
+        <description>〒950-0072 新潟県新潟市中央区竜が島１丁目５−４ 新潟海上保安部 / Niigata Coast Guard, 1-5-4 Ryugashima, Chuo-ku, Niigata-shi, Niigata 950-0072</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2052837,37.8218215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弥彦村ライブカメラ / Yahiko Village Live Camera</name>
+        <description>〒959-0323 新潟県西蒲原郡 弥彦村弥彦971-4 弥彦観光協会 / Yahiko Tourist Association, 971-4 Yahiko, Yahiki-mura, Nishikanbara-gun, Niigata 959-0323</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8304037,37.7008747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>燕市ライブカメラ / Tsubame City Live Camera</name>
+        <description>〒959-0295 新潟県燕市吉田西太田1934番地　燕市役所 / Tsubame City Hall, 1934 Yoshidanishiota, Tsubame-shi, Niigata-ken 959-0295</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8824567,37.6731509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三条市防災カメラ画像 / Sanjo City Disaster Prevention Camera Image</name>
+        <description>〒955-0065 新潟県三条市旭町２丁目３−１ 三条市役所 / Sanjo City Hall, Asahi-cho, Sanjo-shi, Niigata 955-0065</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.96173,37.6368176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺泊海岸 / Teradomari Coast</name>
+        <description><![CDATA[〒940-2502 新潟県長岡市寺泊大町９３５３−５２７ 寺泊観光協会　「Marine Resort 寺泊」/ Terasaki Tourist Association, 9353-527 Omachi, Teradomari, Nagaoka-shi, Niigata-ken 940-2502, "Marine Resort Teradomari"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7673123,37.6436054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天領の里から望む日本海の夕日 / Sunset of the Sea of Japan seeming from Tenryonosato</name>
+        <description>〒949-4308 新潟県三島郡出雲崎町尼瀬６−５７天領の里 「出雲崎町役場」/ Tenryonosato, 6-57 Amase, Izumozaki-cho, Mishima-gun, Niigata-ken 949-4308</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.678575,37.538895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見附市ライブカメラ / Mitsuke City Live Camera</name>
+        <description>〒954-0059 新潟県見附市昭和町２丁目１−１ 見附市役所 / Mitsuke City Hall, 2-1-1 Showa-machi, Mitsuke-shi, Niigata 954-0059</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.912817,37.5316544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃尾ライブカメラ / Tochio Live Camera</name>
+        <description>〒940-0215 新潟県長岡市栃尾町　「栃尾愛乱度」 / Tochio-cho, Nagaoka-shi, Niigata 940-0215</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0107505,37.4718696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山田動物クリニックライブカメラ / Yamada Animal Clinic Live Camera</name>
+        <description><![CDATA[〒940-0098 新潟県長岡市信濃２丁目１３−２１ 山田動物クリニック / Yamada Animal Clinic, 2-13-21 Shinano, Nagaoka-shi, Niigata 940-0098<br>https://livecamera.fujiyamasan.com/niigata-nagaoka-shinano.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.838488,37.4509923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡市内ライブカメラ / Nagaoka City Live Camera</name>
+        <description>〒940-0066 新潟県長岡市東坂之上町３丁目１−１０ スタジオ・チャオ / STUDIO CHAO, 3-1-10 Higashisakanouemachi, Nagaoka-shi, Niigata 940-0066</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.851263,37.450051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡市ライブカメラ / Nagaoka City Live Camera</name>
+        <description><![CDATA[新潟県長岡市幸町２丁目１−１<br>長岡市役所<br>長岡まちめぐりミュージアム]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.838906,37.436584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡市ライブカメラ / Nagaoka City Live Camera</name>
+        <description>〒940-2138 新潟県長岡市日越１４０２ 長岡市立総合支援学校 / Nagaoka Municipal Comprehensive support school, 1402 Higoshi, Nagaoka-shi, Niigata 940-2138</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.780928,37.442836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡科学技術大学ライブカメラ / NAGAOKA University of Technology Live Camera</name>
+        <description>〒940-2137 新潟県長岡市上富岡町１６０３−１ 長岡技術科学大学 水工学研究室 / Hydraulic Engineering Laboratory, NAGAOKA University of Technology, 1603-1 Kamitomioka, Nagaoka City, Niigata, 940-2188</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7787605,37.425721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬代橋と信濃川 / Bandai Bridge and Shinano River</name>
+        <description>新潟県長岡市今朝白２丁目１−４ 新潟総合テレビ / Niigata Sogo Television, 2-1-4 Kesajiro, Nagaoka-shi, Niigata</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.860815,37.449352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟電機観測ライブ / Niigata Electric Observation Live</name>
+        <description>〒940-1101　新潟県長岡市沢田1丁目3535番地41 新潟電機（株） / Niigata Electric Co., Ltd., 1-3535 Sawada, Nagaoka-shi, Niigata 940-1101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8437505,37.4253652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越後丘陵公園ライブカメラ / Echigo Hillside National Government Park Live Camera</name>
+        <description>〒940-2043 新潟県長岡市宮本東方町1950 国営越後丘陵公園 / Echigo Hillside National Government Park, Miyamotohigashikata-machi, Nagaoka-shi, Niigata 940-2043</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7438706,37.4200978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川ライブカメラ / Shinanogawa River Live Camera</name>
+        <description>〒940-0098 新潟県長岡市信濃１丁目５ 信濃川河川事務所 / Shinanogawa River Office, 1-5 Shinano, Nagaoka-shi, Niigata 940-0098</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8378119,37.4480918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今日の米山 / Yoneyama Today</name>
+        <description>〒945-0064 新潟県柏崎市中央町５−５０ 柏崎市役所 / Kashiwazaki City Hall, 5-50 Chuo-cho, Kashiwazaki-shi, Niigata 945-0064</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5589696,37.3719659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏崎ライブカメラ / Kashiwazaki Live Camera</name>
+        <description>〒945-0854 新潟県柏崎市東の輪町８−１８ 柏崎マリーナ / Kashiwazaki Marina, 8-18 Tonowa-cho, Kashiwazaki-shi, Niigata 945-0854</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.5204961,37.3603515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米山ライブカメラ</name>
+        <description><![CDATA[新潟県柏崎市藤橋１７１９<br>新潟工科大学<br>情報通信ネットワーク研究室]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.57914,37.339592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒946-0304 新潟県魚沼市穴沢２１５−１ 魚沼市役所入広瀬庁舎 / Uonuma city hall Irihirose building, 215-1 Anasawa, Uonuma-shi, Niigata 946-0304</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0711263,37.3572428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須原スキー場のライブ映像 / Live Video of Suhara Ski Area</name>
+        <description>〒946-0216 新潟県魚沼市須原９３２ 民宿 小西屋 /  Guest House Konishiya, 932 Suhara, Uonuma-shi, Niigata 946-0216</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.015095,37.319527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒946-0216 新潟県魚沼市須原５２０ 魚沼市役所守門庁舎 / Uonuma City Hall Morikado Building, 520 Suhara, Uonuma-shi, Niigata 946-0216</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0142152,37.3173168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒946-0051 新潟県魚沼市今泉１４８８−１ 魚沼市役所広神庁舎 / Uonuma city hall Hirokami building, 1488-1 Imaizumi, Uonuma-shi, Niigata 946-0051</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.976965,37.2559167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒949-7413 新潟県魚沼市堀之内１３０ 魚沼市役所堀之内庁舎 / Uonuma City Hall Horinouchi Branch Office, 130 Horinouchi, Uonuma-shi, Niigata 949-7413</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.924286,37.244097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒946-0011 新潟県魚沼市小出島１３０−１ 魚沼市役所 / Uonuma City Hall, 130-1 Koidejima, Uonuma-shi, Niigata 946-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.961172,37.230328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼市ライブカメラ / Uonuma City Live Camera</name>
+        <description>〒946-0073 新潟県魚沼市大沢２１３−１ 魚沼市役所湯之谷庁舎 / Uonuma City Hall Yunotani Building, 213-1 Osawa, Uonuma-shi, Niigata 946-0073</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0084,37.22657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新井地域</name>
+        <description>妙高市ライブカメラ</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.255386,37.026814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八海山ライブカメラ / Mt. Hakkai Live Camera</name>
+        <description>八海山ロープウェイ山頂駅 プリンスホテル八海山 ロープウェイ / Hakkaisan Ropeway Mountaintop Station Prince Hotel Hakkaisan Ropeway</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.991642,37.125149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆきぐにネット八海山ライブカメラ / Yukiguninet Hakkaisan Live Camera</name>
+        <description>〒949-7104 新潟県南魚沼市寺尾１４４８　五日町スキー場 / Itsukamachi Ski Area, 1448 Terao, Minamiuonuma-shi, Niigata 949-7104</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.89946,37.1217106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六日町市街～塩沢方面</name>
+        <description><![CDATA[新潟県南魚沼市余川<br>雪国まいたけ本社工場]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.874955,37.078292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市街・坂戸山方面ライブカメラ / City and Sakadoyama Live Camera</name>
+        <description>新潟県南魚沼市六日町 六日町駅・ＪＲ／上越線 / Muikamachi Station, Muikamachi, Minamiuonuma-shi, Niigata-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.875856,37.06718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚沼川・関越道～巻機山方面 / Minamiuonuma River, Kanetsu Expressway and Mt. Makihata</name>
+        <description>〒949-6363 新潟県南魚沼市下一日市８５５ 道の駅南魚沼 今泉記念館 / Roadside Station Minamiuonuma Imaizumi Memorial Hall, 855 Shimohitoichi, Minamiuonuma-shi, Niigata-ken 949-6363</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8191667,37.0029372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩沢石打ICライブカメラ / Shiozawa Ishiuchi IC Live Camera</name>
+        <description>新潟県南魚沼市姥島新田 関越自動車道塩沢石打IC / Maiko Kanetsu Shiozawa Ishiuchi IC, Ubashimashinden, Uonuma-shi, Niigata</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.82144,36.995835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舞子スノーリゾート　飯士山荘 / Maiko Snow Resort, Iiji Sanso</name>
+        <description><![CDATA[〒949-6423 新潟県南魚沼市舞子２０５６ 飯士山荘 / Iiji Sanso, 2056 Maiko, Minamiuonuma-shi, Niigata 949-6423<br>https://livecamera.fujiyamasan.com/maiko-snow-resort.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.826536,36.9798522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石打丸山スキー場 / Ishiuchi Maruyama Ski Resort</name>
+        <description>〒949-6372 新潟県南魚沼市石打１７８２−２ 石打丸山スキー場 / Ishiuchi Maruyama Ski Resort, 1782-2 Minamiuonuma-shi, Niigata 949-6372</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.794553,36.976398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央エリアのライブカメラ / Central Area Live Camera</name>
+        <description>〒949-6101 新潟県南魚沼郡 湯沢町湯沢（大字）１０３９−２ ガーラ湯沢スキー場 / GALA Yuzawa Ski Resort, 1039-2 Yuzawa, Yuzawa-machi, Minamiuonuma-gun, Niigata 949-6101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7996066,36.9508522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯沢高原スキー場ライブカメラ / Yuzawa Kogen Ski Resort Live Camera</name>
+        <description>〒949-6101 新潟県南魚沼郡湯沢町湯沢（大字）４９０　湯沢高原スキー場 / Yuzawa Kogen Ski Resort, 490 Yuzawa, Yuzawa-cho, Minamiuonuma-gun, Niigata-ken 949-6101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.794133,36.941322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中里エリアライブ映像 / Nakazato Area Live Video</name>
+        <description>〒949-6103 新潟県南魚沼郡湯沢町土樽４７０７−１　ホテル エンゼルグランディア越後中里温泉 / Hotel Angel Grandia Echigonakazato, 4707-1 Tsuchitaru, Yuzawa-machi, Minamiuonuma-gun, Niigata-ken 949-6103</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.848551,36.905096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苗場スキー場大斜面ライブカメラ / Naeba Ski Resort Large slope live camera</name>
+        <description>〒949-6212 新潟県南魚沼郡 湯沢町三国２０２ 苗場スキー場 / Naeba Ski Resort, 202 Mikuni, Yuzawa-machi, Minamiuonuma-gun, Niigata 949-6212</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.77772,36.7927904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かぐらスキー場ライブカメラ / Kagura Ski Resort Live Camera</name>
+        <description>〒949-6211 新潟県南魚沼郡湯沢町三俣742 かぐらスキー場 / Kagura Ski Resort, 742 Mitsumata, Yuzawa-machi, Minamiuonuma-gun, Niigata 949-6211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.726554,36.8599301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かぐら・みつまたライブカメラ / Kagura and Mitsumata Live Camera</name>
+        <description>〒949-6211 新潟県南魚沼郡湯沢町三俣７２３−２　かぐら ホワイトホースイン / Kagura White Horse Inn, 723-2 Mitsumata, Yuzawa-machi, Minamiuonuma-gun, Niigata-ken 949-6211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.775628,36.891709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美人林のライブカメラ / Bijinbayashi Live Camera</name>
+        <description>〒942-1411 新潟県十日町市松之山松口１７１２−２ 越後松之山森の学校キョロロ / Echigo Matsunoyama Forest School Kyororo, 1712-2 Matsuguchi, Matsunoyama, Tokamachi-shi, Niigata-ken 942-1411</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6173461,37.0997018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美人林ライブカメラ / Bijinbayashi Live Camera</name>
+        <description><![CDATA[〒942-1411 新潟県十日町市松之山松口1712−２ 美人林 「松之山.com」 / Bijinbayashi, 1712-2 Matsuguchi, Matsunoyama, Tokamachi-shi, Niigata-ken 942-1411, "Matsunoyama.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6186892,37.0998276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>無印良品津南キャンプ場 / MUJI Tsunan Campground</name>
+        <description>〒949-8126 新潟県中魚沼郡津南町大字上郷寺石丙782−5 無印良品キャンプ場 / MUJI Campground, 782-5 Kamigoteraishihei, Tsunan-cho, Nakauonuma-gun, Niigata 949-8126</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.584343,37.020245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キューピッドバレイスキー場 / Cupid Valley ski resort</name>
+        <description>〒942-0534 新潟県上越市須川 キューピットバレイスキー場 / Cupid Valley ski resort, Sugawa, Joetsu-shi, Niigata 942-0534</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.4855197,37.056461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋山郷 / Akiyamago</name>
+        <description>〒949-8317 新潟県中魚沼郡津南町大赤沢丁９７ 山源木工 / Yamagen Woodworking, 97 Oakasawatei, Tsunan-machi, Nakauonuma-gun, Niigata 949-8317</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.6383734,36.8812596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上越妙高タウン情報ライブカメラ / Joetsu Myoko Town Information Live Camera</name>
+        <description>〒943-8522 新潟県上越市西城町２丁目２−２７ JCV 上越ケーブルビジョン / JCV Joetsu Cable Vision, 2-2-27 Nishishiro-cho, Joetsu-shi, Niigata-ken 943-8522</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.250477,37.11312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関川・姫川 ＣＣＴＶ / Sekikawa River and Himekawa River CCTV</name>
+        <description>〒943-0847 新潟県上越市南新町３−５６ 国土交通省北陸地方整備局高田河川国道事務所 / Ministry of Land, Infrastructure and Transport Hokuriku Regional Development Bureau Takada River National Highway Office, 3-56 Minamishin-machi, Joetsu-shi, Niigata-ken 943-0847</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.245809,37.097738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙高市ライブカメラ / Myoko City Live Camera</name>
+        <description>〒944-0044 新潟県 妙高市栄町5−1 妙高市役所 / Myoko City Hall, 5-1 Sakae-machi, Myoko-shi, Niigata-ken 944-0044</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.253455,37.025272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高谷池と火打山 / Pond Koyaike and Mt. Hiuchi</name>
+        <description>新潟県妙高市大字杉野澤字八貴山国有林42林班イ小班 / Myoko-shi, Niigata</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0779314,36.9099948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤倉観光リゾートスキー場ライブカメラ / AKAKAN LIVE CAMERA</name>
+        <description>〒949-2102 新潟県妙高市田切２１６　赤倉観光リゾートスキー場 / Akakura Kanko Ski Resort, 216 Tagiri, Myoko-shi, Niigata-ken 949-2102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.1775916,36.8868768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟県焼山監視システム / Niigata Prefecture Yakeyama Surveillance System</name>
+        <description>新潟県糸魚川市大平 焼山 / Yakeyama, Itoigawa-shi, Niigata-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.035316,36.921077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>親不知海水浴場ライブカメラ / Oyashirazu Beach Live Camera</name>
+        <description><![CDATA[〒949-0308 新潟県糸魚川市外波 親不知海水浴 場 「糸魚川市役所」/ Oyashirazu Beach, Tonami, Itoigawa-shi, Niigata-ken 949-0308, "Itoigawa City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.7307867,37.0044455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSN新潟放送YouTube公式チャンネルライブ配信 / BSN Niigata Broadcasting YouTube official channel live distribution</name>
+        <description><![CDATA[〒951-8133 新潟県新潟市中央区川岸町３丁目１８ BSN 新潟放送 / Niigata Broadcasting, 3-18 Kawagishi-cho, Chuo-ku, Niigata City, Niigata Prefecture 951-8133<br>https://livecamera.fujiyamasan.com/niigata-bsnofficial.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0282791,37.9088607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟日報メディアシップ信濃川河口ライブカメラ / Niigata Nippo Media Ship Shinano River Kawaguchi Live Camera</name>
+        <description><![CDATA[〒950-0088 新潟県新潟市中央区万代３丁目１−１ 新潟日報メディアシップそらの広場 「新潟日報モア」/ Niigata Nippo Mediaship Sora no Shiro , 1-1 1-1 Bandai, Chuo-ku, Niigata 950-0088, Japan, "Niigata Nippo Moa"<br>https://livecamera.fujiyamasan.com/niigata-mediaship20.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0560408,37.9185917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTTルパルク新潟八千代第1駐車場2ライブカメラ / NTT Le Parc Niigata Yachiyo 1st parking lot 2 live camera</name>
+        <description>〒950-0909 新潟県新潟市中央区八千代１丁目３−９ NTTルパルク新潟八千代第1駐車場 「エヌティティルパルク(NTTルパルク)」/ NTT Luparque Niigata Yachiyo 1st Parking Lot, 3-9 Yachiyo 1-chome, Chuo-ku, Niigata 950-0909, Japan,  “NTT Ruparque”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0528001,37.9127078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川網川原ライブカメラ / Shinano River Amigawara Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区網川原 「信濃川下流河川事務所」/ Amigawara, Chuo-ku, Niigata City, Niigata, "Shinano River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0140542,37.8934801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗ノ木川弁天橋ライブカメラ / Kurinoki River Benten Bridge Live Camera</name>
+        <description><![CDATA[〒950-0925 新潟県新潟市中央区弁天橋通１丁目１弁天橋（べんてんばし）「信濃川下流河川事務所」/  Bentenbashi, 1-Bentenbashi, Bentenbashi-dori, Chuo-ku, Niigata, 950-0925, Japan "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-bentenbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0679158,37.8967441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥屋野潟桜木橋ライブカメラ / Toyanogata Sakuragibashi Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区神道寺南 「信濃川下流河川事務所」/ "Shinano River Lower River Office", Kandouji Minami, Chuo-ku, Niigata City, Niigata Prefecture<br>https://livecamera.fujiyamasan.com/niigata-sakuragibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0578507,37.894457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟県スポーツ公園入口ライブカメラ / Niigata Sports Park Entrance Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区長潟 「信濃川下流河川事務所」/ Nagata, Chuo-ku, Niigata Prefecture "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-sport-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0618301,37.8888384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>親松導水路上沼ライブカメラ / Oyamatsu Dosuiro Uenuma Live Camera</name>
+        <description>〒950-1148 新潟県新潟市中央区上沼 「信濃川下流河川事務所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0376774,37.881922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥屋野潟新堀橋ライブカメラ / Toyanogata Nibori Bridge Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区清五郎 「信濃川下流河川事務所」/ Seigoro, Chuo-ku, Niigata City "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-seigoro-shinboribashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0467741,37.8815437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥屋野潟清五郎ライブカメラ / Toyanogata Seigoro Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区清五郎 「信濃川下流河川事務所」/ Seigoro, Chuo-ku, Niigata City, Niigata, "Shinano River Lower River Office"<br> https://livecamera.fujiyamasan.com/niigata-chuoku-seigoro.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0533616,37.88278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川水門ライブカメラ / Shinano River Sluice Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区網川原 「信濃川下流河川事務所」/ Amigawara, Chuo-ku, Niigata City, Niigata Prefecture, "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-shinanogawa-suimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0141307,37.8964399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥屋野潟小張木ライブカメラ / Toyanogata Kobarinoki Live Camera</name>
+        <description><![CDATA[〒950-0942 新潟県新潟市中央区小張木 「信濃川下流河川事務所」/ Kobariki, Chuo-ku, Niigata 950-0942, Niigata Prefecture, "Shinano River Lower River Office''<br>https://livecamera.fujiyamasan.com/niigata-kobarinoki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0440815,37.8843284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川本川東関屋ライブカメラ / Shinano River Honsen Higashisekiya Live Camera</name>
+        <description><![CDATA[〒951-8144 新潟県新潟市中央区関南町 「信濃川本川下流河川事務所」/ Shinano River Main River Lower River Office, Kannan-cho, Chuo-ku, Niigata City, Niigata Prefecture 951-8144<br>https://livecamera.fujiyamasan.com/niigata-shinanogawa-sekinan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.013223,37.8984027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川やすらぎ堤緑地 (右岸)</name>
+        <description>〒950-0994 新潟県新潟市中央区上所２丁目２−１４</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0361127,37.9077332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川やすらぎ堤緑地ライブカメラ / Shinano River Yasuragi bank green space live camera</name>
+        <description><![CDATA[〒951-8133 新潟県新潟市中央区川岸町 信濃川やすらぎ堤緑地 (左岸) 「信濃川下流河川事務所」/ Shinano River Yasuragi bank green space (left bank),  Kawagishi-cho, Chuo-ku, Niigata City, Niigata Prefecture 951-8133,  ``Shinano River Lower River Office''<br>https://livecamera.fujiyamasan.com/niigata-shinanogawa-yasuragi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0340976,37.9101084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川萬代橋ライブカメラ / Shinano River Bandai River Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区万代２丁目４ 萬代橋 「信濃川下流河川事務所」/ Bandai Bridge, 2-4 Bandai, Chuo-ku, Niigata Prefecture,  "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-bandaibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0532023,37.9194464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟市水族館 マリンピア日本海 / Niigata Aquarium Marinepia Sea of Japan</name>
+        <description><![CDATA[〒951-8555 新潟県新潟市中央区西船見町５９３２−４４５ 新潟市水族館 マリンピア日本海 「信濃川下流河川事務所」/ Niigata City Aquarium Marinepia Nihonkai, 5932-445 Nishifunami-cho, Chuo-ku, Niigata 951-8555, Japan, "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-kubotacho-marinpia.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0280003,37.923672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号美咲町ライブカメラ / National Highway No. 116 Misaki Town Live Camera</name>
+        <description><![CDATA[〒950-0954 新潟県新潟市中央区美咲町 「新潟国道事務所」/ Niigata National Highway Office, Misaki-cho, Chuo-ku, Niigata City 950-0954, Niigata Prefecture<br>https://livecamera.fujiyamasan.com/niigata-misakicho-r116.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0151918,37.8928963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号東堀前通ライブカメラ / National Highway 7 Higashibori Maedori Live Camera</name>
+        <description><![CDATA[新潟県新潟市中央区東堀前通６番町 「新潟国道事務所」/ 6th Town, Higashihorimaedori, Chuo-ku, Niigata Prefecture, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-higashibori-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0459108,37.9208769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟県庁17階ライブカメラ / Niigata Prefectural Office 17th floor live camera</name>
+        <description><![CDATA[〒950-0965 新潟県新潟市中央区新光町４−１ 「新潟国道事務所」/ 4-1 Nikko Town, Chuo-ku, Niigata City, Niigata Prefecture 950-0965, "Niigata National Road Office"<br>https://livecamera.fujiyamasan.com/niigata-kencho17.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0236876,37.902254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号姥ヶ山インターチェンジライブカメラ / National highway No. 49 Ubagayama interchange live camera</name>
+        <description><![CDATA[〒950-0924 新潟県新潟市中央区美の里１９ 姥ケ山IC 「新潟国道事務所」/ Ubagayama IC, 19 Minori, Chuo-ku, Niigata 950-0924, Niigata Prefecture,   “Niigata National Highway Office”<br>https://livecamera.fujiyamasan.com/niigata-ubagayama-r49.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0795268,37.883824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号紫竹山インターチェンジライブカメラ / National highway No. 7 Shichikuyama interchange live camera</name>
+        <description><![CDATA[〒950-0914 新潟県新潟市中央区紫竹山３丁目 栗ノ木バイパス 紫竹山IC 「新潟国道事務所」/ Shichikuyama IC, Kurinoki Bypass, 3-chome Shichikuyama, Chuo-ku, Niigata-shi, Niigata Prefecture, 950-0914, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-shichikuyama-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0738179,37.9025357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号桜木インターチェンジライブカメラ / National highway No. 8 Sakuragi interchange live camera</name>
+        <description><![CDATA[〒950-0983 新潟県新潟市中央区神道寺２丁目７ 桜木IC 「新潟国道事務所」/ Sakuragi IC, 2-7 Kandoji, Chuo-ku, Niigata-shi, Niigata Prefecture 950-0983,  "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-sakuragiic-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0530647,37.8959446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>派川新井郷川分水路新元島町ライブカメラ / Hasen Niigogawa river diversion Niimotojima live camera</name>
+        <description><![CDATA[〒950-3123 新潟県新潟市北区新元島町 「新潟県河川防災情報システム」/ Niimotojima-cho, Kita-ku, Niigata City, Niigata Prefecture 950-3123, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-shinmotojimacho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1437488,37.9446187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川胡桃山ライブカメラ / Aganogawa Kurumiyama live camera</name>
+        <description><![CDATA[〒950-3367 新潟県新潟市北区高森西大下山３９０１−１ 国土交通省 北陸地方整備局 阿賀野川河川事務所 胡桃山出張所 / 3901-1 Takamori Nishi-Oshitayama, Kita-ku, Niigata 950-3367, Niigata Prefecture Aganogawa River Office, Aganogawa River Office, Ministry of Land, Infrastructure, Transport and Tourism Kuroyama Branch Office<br>https://livecamera.fujiyamasan.com/niigata-agano-kurumiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.152161,37.915529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川松浜橋ライブカメラ / Agano River Matsuhama Bridge live camera</name>
+        <description><![CDATA[〒950-3126 新潟県新潟市北区松浜７丁目 県道 17 号線 松浜橋 「新潟県IT&ITS推進協議会」/ Matsuhamabashi, Prefectural Road No. 17, 7-chome, Matsuhama, Kita-ku, Niigata 950-3126, Niigata Prefecture "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-agano-matsuhamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1343304,37.9508126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号新潟競馬場インターチェンジライブカメラ / National Highway 7 Niigata Racecourse Interchange Live Camera</name>
+        <description><![CDATA[〒950-3307 新潟県新潟市北区樋ノ入 競馬場IC 「新潟県IT&ITS推進協議会」/ Racecourse IC, Hinoiri, Kita-ku, Niigata-shi,  Niigata Prefecture 950-3307, Prefecture, "Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-keibajo-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1835075,37.9422611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川本所ライブカメラ / Agano River Honjo Live Camera</name>
+        <description><![CDATA[新潟県新潟市東区本所 「阿賀野川河川事務所」/ Higashi-ku, Niigata City, Niigata Prefecture<br>"Agano River Office"<br>https://livecamera.fujiyamasan.com/niigata-agano-honjo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1416945,37.9115906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号海老ヶ瀬インターチェンジライブカメラ / National highway No. 7 Ebigase interchange interchange live camera</name>
+        <description><![CDATA[〒950-0813 新潟県新潟市東区大形本町５丁目１９ 海老ヶ瀬インターチェンジ 「新潟国道事務所」/ Ebigase Interchange, 5-19 Ogatahoncho, Higashi-ku, Niigata City, Niigata Prefecture 950-0813, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-ebigaseic-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.126123,37.9219029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小阿賀野川寿橋ライブカメラ / Koaganogawa Kotobukibashi Live Camera</name>
+        <description><![CDATA[新潟県新潟市江南区二本木 「新潟県河川防災情報システム」/ Nihongi, Konan Ward, Niigata City , Niigata Prefecture, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-konan-koagano-kotobukibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1146815,37.8417946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川酒屋ライブカメラ / Shinano River Sakaya Live Camera</name>
+        <description><![CDATA[〒950-0324 新潟県新潟市江南区酒屋町 「	信濃川下流河川事務所」/  Sakaya Town, Konan Ward, Niigata City, Niigata Prefecture 950-0324, ``Shinano River Lower River Office''<br>https://livecamera.fujiyamasan.com/niigata-shinanogawa-sakaya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0672769,37.8370132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川鳥屋野潟排水機場ライブカメラ / Shinano River Toyanogata Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒950-1146 新潟県新潟市江南区太右エ門新田 鳥屋野潟排水機場 「信濃川下流河川事務所」/  Toyanogata Drainage Pump Station, Taemonshinden, Konan-ku, Niigata City, Niigata Prefecture  950-1146, "Shinano River Downstream River Office"<br>https://livecamera.fujiyamasan.com/niigata-shinanogawa-tauemon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0252133,37.8750553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号茅野山ライブカメラ / National Road 49 Chinoyama Live Camera</name>
+        <description><![CDATA[〒950-0144 新潟県新潟市江南区茅野山 「新潟国道事務所」/ Chinoyama, Konan-ku, Niigata City, Niigata Prefecture 950-0144, "Niigata National Road Office"<br>https://livecamera.fujiyamasan.com/niigata-chinoyama-r49.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1005897,37.8540064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川横雲橋ライブカメラ / Agano River Oun Bridge Live Camera</name>
+        <description><![CDATA[新潟県新潟市江南区横越 横雲橋 「阿賀野川河川事務所」/ Ohun Bridge, Yokogoshi, Konan-ku, Niigata City, Niigata Prefecture, "Agano River Office"<br>https://livecamera.fujiyamasan.com/niigata-agano-ohunbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.157251,37.848844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号横越ライブカメラ / National highway No. 49 Yokogoshi live camera</name>
+        <description><![CDATA[〒950-0204 新潟県新潟市江南区横越 「新潟国道事務所」/Yokogoshi, Konan-ku, Niigata City, Niigata Prefecture 950-0204,  ``Niigata National Road Office''<br>https://livecamera.fujiyamasan.com/niigata-yokogoshi-r49.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.150695,37.8612258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能代川北上ライブカメラ / Nodai River Kitakami Live Camera</name>
+        <description><![CDATA[〒956-0861 新潟県新潟市秋葉区北上３丁目 「新潟県河川防災情報システム」/ 3-chome, Kitakami, Akiha-ku, Niigata City, Niigata Prefecture 956-0861, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-akiha-kitakami-nodai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1238758,37.8126613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能代川新津川分流点上流ライブカメラ / Nodaigawa Niitsugawa branch point upstream live camera</name>
+        <description><![CDATA[〒956-0853 新潟県新潟市秋葉区飯柳 「新潟県河川防災情報システム」/ Iyanagi, Akiha-ku, Niigata City, Niigata Prefecture 956-0853 "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-akiha-iyanagi-nodai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1537265,37.7890323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川小須戸橋ライブカメラ / Shinano Kosudo Bridge Live Camera</name>
+        <description><![CDATA[〒956-0101 新潟県新潟市秋葉区小須戸 小須戸橋 「新潟県IT&ITS推進協議会」/ Kosudo Bridge, Kosudo, Akiha-ku, Niigata City, Niigata Prefecture, 956-0101 "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-kosudobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0653796,37.7549796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川大秋ライブカメラ / Shinano River Oaki Live Camera</name>
+        <description><![CDATA[新潟県新潟市秋葉区大秋 「新潟県IT&ITS推進協議会」/ Oaki, Akiha-ku, Niigata City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-ohaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.067406,37.7975551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川大郷橋ライブカメラ / Shinano River Daigo Bridge Live Camera</name>
+        <description><![CDATA[〒956-0001 新潟県新潟市秋葉区覚路津 「新潟県IT&ITS推進協議会」/ Kakurodu, Akiha-ku, Niigata City, Niigata Prefecture 956-0001,<br>"Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-daigobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0665626,37.8168724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川金屋ライブカメラ / Agano River Kanaya Live Camera</name>
+        <description><![CDATA[新潟県新潟市秋葉区金屋 「阿賀野川河川事務所」/ Kanaya, Akiha-ku, Niigata City, Niigata Prefecture, "Agano River Office"<br>https://livecamera.fujiyamasan.com/niigata-agano-kanaya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1730304,37.7880718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川満願寺ライブカメラ / Aganogawa Manganji live camera </name>
+        <description><![CDATA[〒956-0811 新潟県新潟市秋葉区満願寺４１００ 国土交通省 北陸地方整備局 阿賀野川河川事務所 満願寺出張所 「阿賀野川河川事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Hokuriku Regional Development Bureau Aganogawa River Office Manganji Branch Office, 4100 Manganji, Akiha-ku, Niigata City, Niigata Prefecture 956-0811, "Agano River Office"<br>https://livecamera.fujiyamasan.com/niigata-agano-manganji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1531069,37.8235643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTTルパルク新潟新津第1駐車場2ライブカメラ / NTT Le Parc Niigata Niitsu 1st Parking Lot 2 Live Camera</name>
+        <description><![CDATA[新潟県新潟市秋葉区新津本町32-6 NTTルパルク新潟新津第1駐車場 「NTTルパルク」/ NTT Le Parc Niigata Niitsu 1st Parking Lot, 32-6 Niitsuhon-cho, Akiha-ku, Niigata City, Niigata Prefecture, "NTT Le Parc"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1234177,37.7970276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR新津駅発車時刻案内板ライブカメラ / JR Niitsu Station departure time guide live camera</name>
+        <description><![CDATA[〒956-0864 新潟県新潟市秋葉区新津本町１丁目１ 新津駅 「東日本旅客鉄道新潟支社」/ Niitsu Station, 1-1 Niitsuhon-cho, Akiha-ku, Niigata City, Niigata Prefecture 956-0864,   "East Japan Passenger Railway Niigata Branch"<br>https://livecamera.fujiyamasan.com/niigata-jr-niitsueki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1211489,37.800452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川庄瀬ライブカメラ / Shinano River Shouze Live Camera</name>
+        <description><![CDATA[新潟県新潟市南区庄瀬 「国土交通省河川情報センター」/ Shoze, Minami-ku, Niigata City, Niigata Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”<br>https://livecamera.fujiyamasan.com/niigata-shinano-shoze.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0459287,37.7206205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川小須戸橋左岸ライブカメラ / Shinano River Kosudo Bridge Left Bank Live Camera</name>
+        <description><![CDATA[新潟県新潟市南区戸石 「新潟県IT&ITS推進協議会」/ Toishi, Minami-ku, Niigata City "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-kosudobashi-2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0648753,37.7545894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川臼井橋ライブカメラ / Shinanogawa Usuibashi Live Camera</name>
+        <description><![CDATA[新潟県新潟市南区臼井 臼井橋 「新潟県IT&ITS推進協議会」/ Usui Bridge, Usui, Minami-ku, Niigata City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-usuibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0579921,37.7827157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川赤渋ライブカメラ / Shinano River Akashibu Live Camera</name>
+        <description><![CDATA[新潟県新潟市南区赤渋 「 新潟県IT&ITS推進協議会」/ Akashibu, Minami-ku, Niigata City,   Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-shinano-akashibu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0565565,37.7887852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中ノ口川白根橋ライブカメラ / Nakanoguchi River Shiranebashi Live Camera</name>
+        <description><![CDATA[新潟県新潟市南区白根 白根橋 「 新潟県IT&ITS推進協議会」/ Shirane Bridge, Shirane , Minami-ku, Niigata City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-nakanokuchi-shiranebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0111222,37.7638982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号新飯田ライブカメラ / National highway No. 8 Niida live camera </name>
+        <description><![CDATA[〒950-1455 新潟県新潟市南区新飯田「 新潟県IT&ITS推進協議会」/ Niida, Minami-ku, Niigata , Niigata Prefecture 950-1455, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-minamiku-niida-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9873516,37.6962852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号白根BP能登ライブカメラ / National highway No. 8 Shirane BP Noto live camera </name>
+        <description><![CDATA[新潟県新潟市南区能登 「新潟県IT&ITS推進協議会」/ Noto, Minami-ku, Niigata City "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-minamiku-noto-r8bp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0161941,37.7691654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号白根東町ライブカメラ / National highway No. 8 Shirane Higashi Town live camera</name>
+        <description><![CDATA[〒950-1222 新潟県新潟市南区白根東町１丁目 「新潟県IT&ITS推進協議会」/, 1-chome, Shiranehigashi-cho, Minami-ku, Niigata 950-1222, Japan,  "Niigata Prefecture IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0229479,37.7688509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号中塩俵ライブカメラ / National highway No. 8 Nakashiodawara live camera</name>
+        <description><![CDATA[新潟県新潟市南区中塩俵 「新潟県IT&ITS推進協議会」/,Nakashiodawara, Minami-ku, Niigata City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-minamiku-nakashiodawara-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0118393,37.8293481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中ノ口川金巻ライブカメラ / Nakanokuchi River Kanemaki Live Camera</name>
+        <description><![CDATA[〒950-2037 新潟県新潟市西区大野 「新潟県河川防災情報システム」/ Ohno, Nishi-ku, Niigata , Niigata Prefecture 950-2037, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-nishiku-nakanokuchi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9520326,37.8645455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川新潟大堰ライブカメラ / Shinano River Niigata Ozeki Live Camera</name>
+        <description><![CDATA[新潟県新潟市西区関屋 「信濃川下流河川事務所」/Sekiya, Nishi-ku, Niigata City, Niigata Prefecture,  "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-sekiya-ozeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.002203,37.9086305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川排水機場ライブカメラ / Nishikawa drainage pump live camera</name>
+        <description><![CDATA[〒950-2023 新潟県新潟市西区小新１丁目１−１ 西川排水機場 「信濃川下流河川事務所」/ Nishikawa Drainage Pumping Station, 1-1 1-1 Koshin, Nishi-ku, Niigata City, 950-2023, Niigata Prefecture, "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-nishikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0103716,37.8909023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川小新ポンプ場ライブカメラ / Nishikawa small new pump station live camera</name>
+        <description><![CDATA[〒950-2023 新潟県新潟市西区小新１５２９−１ 小新ポンプ場 「信濃川下流河川事務所」/ Koshin Pumping Station, 1529-1 Koshin, Nishi-ku, Niigata City, Niigata Prefecture 950-2023,  “Shinano River Lower River Office”<br>https://livecamera.fujiyamasan.com/niigata-nishikawa-koshin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.001112,37.8843025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川小新排水機場ライブカメラ / Nishikawa small new drainage pumping station live camera</name>
+        <description><![CDATA[〒950-2023 新潟県新潟市西区小新１９５９−１ 小新排水機場 「信濃川下流河川事務所」/ Koshin Drainage Pump Station , 1959-1 Koshin, Nishi-ku, Niigata City,  Niigata Prefecture 950-2023, "Shinano River Lower River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9932484,37.8785781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川大曲ポンプ場ライブカメラ / Nishikawa Omagari Pump Station Live Camera</name>
+        <description><![CDATA[〒950-2041 新潟県新潟市西区坂井東２丁目３−３０ 大曲ポンプ場 「信濃川下流河川事務所」/ Omagari Pumping Station, 2-3-30 Sakaihigashi, Nishi-ku, Niigata-shi,  Niigata  Prefecture 950-2041,  "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-nishikawa-omagari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9831364,37.877843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川新通排水機場ライブカメラ / Nishikawa Shindori drainage pumping station live camera</name>
+        <description><![CDATA[〒950-2035 新潟県新潟市西区新通３８８４−２ 新通排水機場 「信濃川下流河川事務所」/ Shindori Drainage Station, 3884-2 Shindori, Nishi-ku, Niigata City, Niigata Prefecture 950-2035, "Shinano River Lower River Office"<br>https://livecamera.fujiyamasan.com/niigata-nishikawa-sindori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9631373,37.8666844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川善久ライブカメラ / Shinano River Zenku Live Camera</name>
+        <description><![CDATA[〒950-1102 新潟県新潟市西区善久 「新潟県IT&ITS推進協議会」/ Zenku, Nishi-ku, Niigata City, Niigata Prefecture 950-1102, ``Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-shinano-zenku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0170411,37.8591392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川山田ライブカメラ / Shinano River Yamada Live Camera</name>
+        <description><![CDATA[〒950-1101 新潟県新潟市西区山田 「新潟県IT&ITS推進協議会」/ Yamada, Nishi-ku, Niigata City, Niigata Prefecture 950-1101, ``Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-shinano-yamada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0180294,37.869912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川平成大橋ライブカメラ / Shinano River Heisei Ohashi Live Camera</name>
+        <description><![CDATA[〒950-1101 新潟県新潟市西区山田 平成大橋 「新潟県IT&ITS推進協議会」/ Heisei Ohashi, Yamada Nishi-ku, Niigata City, Niigata Prefecture, 950-1101 ``Niigata IT & ITS Promotion Council''https://livecamera.fujiyamasan.com/niigata-shinano-heiseiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0153571,37.8829018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五十嵐浜ライブカメラ / Igarashi Beach Live Camera</name>
+        <description><![CDATA[新潟県新潟市西区五十嵐二の町 「新潟県IT&ITS推進協議会」/ Igarashi 2 Town,  Nishi Ward,  Niigata City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-igarashihama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9320603,37.8737375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小針浜海水浴場ライブカメラ / Kobarihama Beach Live Camera</name>
+        <description><![CDATA[〒950-2076 新潟県新潟市西区上新栄町 小針浜海水浴場 「新潟県IT&ITS推進協議会」/  Koibarihama Beach, Kamishinei-cho, Nishi-ku, Niigata-shi, Niigata Prefecture 950-2076, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-kobarihama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.978363,37.8957824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号高山インターチェンジライブカメラ / National highway No. 116 Takayama interchange live camera</name>
+        <description><![CDATA[〒950-2035 新潟県新潟市西区新通 高山IC 「新潟県IT&ITS推進協議会」/ Takayama IC,  Shindori  Nishi-ku, Niigata City, Niigata Prefecture 950-2035, "Niigata IT&ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r116-takayamaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9513479,37.8483725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号新潟西インターチェンジライブカメラ / National highway No. 116 Niigata West interchange live camera</name>
+        <description><![CDATA[新潟県新潟市西区立仏110 「新潟国道事務所」/ 110 Tachibotoke, Nishi-ku, Niigata Niigata Prefecture, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r116-tachibotoke.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0063728,37.8703806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号亀貝インターチェンジライブカメラ / National highway No. 116 Kamegai interchange live camera</name>
+        <description><![CDATA[〒950-2033 新潟県新潟市西区亀貝 亀貝IC 「新潟国道事務所」/  Kamegai IC, Kamegai, Nishi-ku, Niigata-shi,  Niigata Prefecture 950-2033, ``Niigata National Highway Office''<br>https://livecamera.fujiyamasan.com/niigata-r116-kamegai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9811113,37.8629348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号黒埼インターチェンジライブカメラ / National highway No. 8 Kurosaki interchange live camera</name>
+        <description><![CDATA[新潟県新潟市西区木場「NEXCO東日本」/ Kiba, Nishi-ku, Niigata City, Niigata Prefecture "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-r8-kurosaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9774699,37.8171782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川新川水位観測所ライブカメラ / Shinkawa Shinkawa Water Level Observatory Live Camera</name>
+        <description><![CDATA[新潟県新潟市西蒲区升岡新田 「新潟県河川防災情報システム」/ Masuokashinden, Nishikan Ward, Niigata City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-shinkawa-masuoka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9603435,37.814353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号巻中央ICライブカメラ / National Route 116 Central IC Live Camera</name>
+        <description><![CDATA[新潟県新潟市西蒲区赤鏥 巻中央I.C 「新潟県IT&ITS推進協議会」/ Maki Central I.C., Akasabi, Nishikan-ku, Niigata City,  Niigata Prefecture 953-0041, Japan, "Niigata Prefecture IT&ITS Promotion Council, I.C"<br>https://livecamera.fujiyamasan.com/niigata-r116-makichuoic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9012404,37.753647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号善光寺ライブカメラ / National highway No. 116 Zenkoji live camera</name>
+        <description><![CDATA[新潟県新潟市西蒲区善光寺 「新潟県IT&ITS推進協議会」/ Zenkoji, Niigata City Niigata Zenkoji "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r116-zenkoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9500035,37.8009962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂井川坂井川水位観測所ライブカメラ / Sakai River Sakai River Water Observatory Live Camera</name>
+        <description><![CDATA[新潟県新発田市下中江「新潟県河川防災情報システム」/ Shimonakae, Shibata City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-shibata-sakaigawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3833776,37.9541334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中田川新富町ライブカメラ / Nakatagawa Shintomicho Live Camera</name>
+        <description><![CDATA[新潟県新発田市新富町 「新潟県河川防災情報システム」/ Shintomi Town, Shibata City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-nakatagawa-shintomi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3395515,37.9541129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治川小松ライブカメラ / Kajikawa Komatsu Live Camera</name>
+        <description><![CDATA[新潟県新発田市上小松 「新潟県河川防災情報システム」/ Kamikomatsu, Shibata City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-kajigawa-komatsu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3557104,37.9636637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治川岡田ライブカメラ / Kajikawa Okada Live Camera</name>
+        <description><![CDATA[新潟県新発田市岡田 「新潟県河川防災情報システム」/ Okada, Shibata City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-kajigawa-okada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3655118,37.9491511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号金塚ライブカメラ / National highway No. 7 Kanazuka live camera</name>
+        <description><![CDATA[新潟県新発田市下小中山 「新潟県IT&ITS推進協議会」/ Shimokonakayama, Shibata City, Niigata Prefecture "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r7-shimokonakayama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3816427,38.0209591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号城北ライブカメラ / National highway No. 7 Johoku live camera</name>
+        <description><![CDATA[〒957-0051 新潟県新発田市城北町 「新潟県IT&ITS推進協議会」/ Johoku Town, Shibata City, Niigata Prefecture 957-0051, "Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-r7-johoku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3235301,37.959903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号新発田インターチェンジライブカメラ / National highway No. 7 Shibata interchange live camera</name>
+        <description><![CDATA[〒957-0064 新潟県新発田市奥山新保２丁目４ 新発田IC 「新潟国道事務所」/ Shibata IC, 2-4 Okuyama Shinpo, Shibata City, Niigata Prefecture 957-0064, "Niigata National Road Office"<br>https://livecamera.fujiyamasan.com/niigata-r7-shibataic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.295381,37.9556944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>門前川山辺里ライブカメラ / Monzen River Saberi Live Camera</name>
+        <description><![CDATA[新潟県村上市山辺里 「新潟県河川防災情報システム」/ Saberi, Murakami City, Niigata Prefecture,  "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-monzen-saberi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4924569,38.2288635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三面川泉町ライブカメラ / Miomote River Izumicho Live Camera</name>
+        <description><![CDATA[新潟県村上市泉町 「新潟県河川防災情報システム」/ Izumi-cho, Murakami City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/izumi-miomote-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4777555,38.2298369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三面川宮ノ下ライブカメラ / Miomote River Miyanoshita Live Camera</name>
+        <description><![CDATA[新潟県村上市宮ノ下 「新潟県河川防災情報システム」/ Miyanoshita, Murakami City, Niigata Prefecture "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/miyanoshita-miomote-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4989788,38.2580067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高根川早稲田ライブカメラ / Takanegawa Waseda Live Camera</name>
+        <description><![CDATA[新潟県村上市早稲田 「新潟県河川防災情報システム」/  Waseda, Murakami City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5477254,38.307978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川荒島ライブカメラ / Arakawa Arashima live camera</name>
+        <description><![CDATA[新潟県村上市花立 「国土交通省河川情報センター」/ Hanadate, Murakami City, Niigata Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/niigata-murakami-hanadate-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4838945,38.1098288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川佐々木ライブカメラ / Arakawa Sasaki Live Camera</name>
+        <description><![CDATA[新潟県村上市佐々木「国土交通省河川情報センター」/ Sasaki, Murakami City, Niigata Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br> https://livecamera.fujiyamasan.com/niigata-murakami-sasaki-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4672069,38.1235467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道朝日まほろばインターチェンジライブカメラ / Nihonkai Tohoku Expressway Asahi Mahoroba interchange live camera</name>
+        <description><![CDATA[〒958-0261 新潟県村上市猿沢８３９ 朝日まほろばIC 「新潟県IT&ITS推進協議会」/  Asahi  Mahoroba IC, 839 Saruzawa, Murakami City, Niigata Prefecture 958-0261, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-murakami-mahorobaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5216242,38.277237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道山元トンネルライブカメラ / Sea of Japan Tohoku Expressway Yamamoto Tunnel Live Camera</name>
+        <description><![CDATA[新潟県村上市志田平 「新潟県IT&ITS推進協議会」/ Shidanohira, Murakami City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-murakami-yamamototunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4659055,38.2032982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道345号寒川ライブカメラ / National highway No. 345 Samukawa live camera</name>
+        <description><![CDATA[新潟県村上市寒川 「新潟県IT&ITS推進協議会」/ Samukawa, Murakami City, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4909782,38.4502305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川花立水位観測所ライブカメラ / Arakawa Hanadate Water Observatory Live Camera</name>
+        <description><![CDATA[〒959-3434 新潟県村上市小岩内 「羽越河川国道事務所」/ Koiwauchi, Murakami City, Niigata Prefecture 959-3434, ``Uetsu River National Highway Office''<br>https://livecamera.fujiyamasan.com/niigata-murakami-iiwauchi-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.492902,38.1144839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川葛籠山ライブカメラ / Arakawa River Tsudurayama Live Camera</name>
+        <description><![CDATA[新潟県村上市葛籠山 「羽越河川国道事務所」/ Tsudurayama, Murakami City, Niigata Prefecture "Uetsu River National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-tsudurayama-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4750955,38.1348152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川河口ライブカメラ / Arakawa river mouth live camera</name>
+        <description><![CDATA[〒959-3441 新潟県村上市塩谷 「羽越河川国道事務所」/ Shioya, Murakami City, Niigata Prefecture 959-3441, "Uetsu River National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-shioya-arakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4176758,38.1571976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道牛屋ライブカメラ / Nihonkai Tohoku Expressway Ushiya Live Camera</name>
+        <description><![CDATA[新潟県村上市牛屋 「新潟県IT&ITS推進協議会」/ Ushiya, Murakami City, Niigata Prefecture "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-murakami-ushiya-nihonkai-tohoku-expressway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4421795,38.1535085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>村上市役所お城山ライブカメラ / Murakami City Office Shiroyama Live Camera</name>
+        <description>〒958-8501 新潟県村上市三之町１−１ 村上市役所 / Murakami City Hall 1-1, Sannomachi, Murakami City, Niigata Prefecture, 958-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4800042,38.2239568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号伊呉野ライブカメラ / National highway No. 7 Igureno live camera</name>
+        <description><![CDATA[〒959-3901 新潟県村上市伊呉野 「新潟国道事務所」/ Igureno, Murakami City, Niigata Prefecture 959-3901,  "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-igureno-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5492658,38.5521867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号下大鳥ライブカメラ / National Highway No. 7 Shimootori Live Camera</name>
+        <description><![CDATA[新潟県村上市下大鳥 「新潟国道事務所」/ Shimo-Otori, Murakami City, Niigata Prefecture "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-shimootori-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5551302,38.4757641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号大沢ライブカメラ / National highway No. 7 Osawa live camera</name>
+        <description><![CDATA[新潟県村上市大沢 「新潟国道事務所」/ Osawa,  Murakami City, Niigata Prefecture, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-osawa-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5785432,38.4120453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号潟端ライブカメラ / National highway No. 7 Katabata live camera</name>
+        <description><![CDATA[〒959-3448 新潟県村上市潟端 「新潟国道事務所」/ Katabata, Murakami City, Niigata Prefecture 959-3448, ``Niigata National Highway Office''<br>https://livecamera.fujiyamasan.com/niigata-murakami-katabata-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.458544,38.1921332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号大須戸ライブカメラ / National highway No. 7 Osudo live camera</name>
+        <description><![CDATA[新潟県村上市大須戸 「新潟国道事務所」/ Osudo, Murakami City, Niigata Prefecture<br>"Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-osudo-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5441442,38.3698451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道天神岡ライブカメラ / Sea of Japan Tohoku Expressway Tenjinoka Live Camera</name>
+        <description><![CDATA[新潟県村上市天神岡 「新潟県IT&ITS推進協議会」/ Tenjinoka, Murakami City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-tohoku-tenjinoka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5053023,38.2353006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大通川放水路ケラ島堰ライブカメラ / Odori River Floodway Kerajima Weir Live Camera</name>
+        <description><![CDATA[新潟県燕市雀森 「新潟県河川防災情報システム」/ Tsubamemori, Tsubame City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9195262,37.6993245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大通川放水路大通川水門ライブカメラ / Odori River Floodway Odori River Sluice Live Camera</name>
+        <description><![CDATA[新潟県燕市雀森 「新潟県河川防災情報システム」/ Tsubamemori, Tsubame City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9200756,37.6999351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中ノ口川道金ライブカメラ / Nakanoguchi River Dokin Live Camera</name>
+        <description><![CDATA[〒959-1265 新潟県燕市道金  「新潟県河川防災情報システム」/ Dokin, Tsubame City, Niigata Prefecture 959-1265, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9178355,37.6349675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>燕市産業史料館中ノ口川ライブカメラ / Tsubame City Industrial History Museum Nakanoguchi River Live Camera</name>
+        <description>〒959-1263 新潟県燕市大曲４３３０−１ 燕市産業史料館 / 4330-1, Omagari, Tsubame City, Niigata Prefecture 959-1263 Tsubame City Industrial History Museum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.919169,37.652754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>燕市立吉田中学校弥彦山ライブカメラ / Tsubame City Yoshida Junior High School Yahikoyama Live Camera</name>
+        <description><![CDATA[〒959-0266 新潟県燕市吉田文京町１−１ 燕市立吉田中学校 「燕市役所」/ 1-1, Yoshida Bunkyo-cho, Tsubame-shi, Niigata 959-0266, Japan Tsubame City Yoshida Junior High School "Tsubame City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.879773,37.702548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>燕市体育センター燕市交通公園ライブカメラ / Tsubame City Athletic Center Tsubame City Traffic Park Live Camera</name>
+        <description><![CDATA[〒959-1263 新潟県燕市大曲３３７５ 燕市交通公園 「燕市役所」/ Tsubame City Traffic Park,  3375 Omagari, Tsubame City, Niigata Prefecture 959-1263,  "Tsubame City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.922382,37.6476978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川蒲原大堰下流ライブカメラ / Shinano River Kambara Oyan downstream live camera</name>
+        <description><![CDATA[〒959-1265 新潟県燕市道金 国土交通省 中ノ口川水門 蒲原大堰管理所 「信濃川下流河川事務所」/ Dokin, Tsubame City, Niigata Prefecture 959-1265, "Ministry of Land, Infrastructure and Transport"<br>https://livecamera.fujiyamasan.com/niigata-shinano-kanbaraozeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.918797,37.631428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川河川事務所大河津出張所ライブカメラ / Shinano River Office Okawatsu Branch Live Camera</name>
+        <description>〒959-0123 新潟県燕市大川津 国土交通省 北陸地方整備局 信濃川河川事務所 大河津出張所 / Okawatsu Branch Office, Shinanogawa River Office, Hokuriku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, Okawazu, Tsubame City, Niigata Prefecture 959-0123, Japan </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8418057,37.6072992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大河津分水路洗堰下流左岸ライブカメラ / Live camera on the left bank on the downstream side of Okawazu diversion weir</name>
+        <description><![CDATA[〒959-0123 新潟県燕市大川津 「信濃川河川事務所」/ Okawatsu, Tsubame City, Niigata Prefecture 959-0123 "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8470587,37.6130998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大河津分水路可動堰下流右岸ライブカメラ / Okawazu watershed movable weir downstream right bank live camera</name>
+        <description><![CDATA[〒959-0124 新潟県燕市五千石 「信濃川河川事務所」/ Gosenkoku, Tsubame City, Niigata Prefecture, 959-0124, "Shinanogawa River Office,"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8406676,37.6200683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川万盛橋ライブカメラ / Shinano River Bansei Bridge Live Camera</name>
+        <description><![CDATA[〒959-0112 新潟県燕市熊森 「新潟県IT&ITS推進協議会」/ Kumamori, Tsubame City, Niigata Prefecture, 959-0112, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8680093,37.6276679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川横田ライブカメラ / Shinano River Yokota Live Camera</name>
+        <description><![CDATA[〒959-0111 新潟県燕市横田 「新潟県IT&ITS推進協議会」/ Yokota, Tsubame City, Niigata Prefecture, 959-0111, "Niigata IT & ITS Promotion Council'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8880227,37.6315416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中ノ口川道金左岸ライブカメラ / Nakanoguchi River Road Left Bank Live Camera</name>
+        <description><![CDATA[〒959-1264 新潟県燕市八王寺 「新潟県IT&ITS推進協議会」/ Hachioji, Tsubame City, Niigata Prefecture 959-1264 ``Niigata IT & ITS Promotion Council'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9237198,37.6399434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号見晴橋ライブカメラ / National highway No. 116 Miharashi live camera</name>
+        <description><![CDATA[新潟県燕市吉田 「新潟県IT&ITS推進協議会」/ Yoshida, Tsubame City, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8860057,37.6919382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号新橋ライブカメラ / National highway No. 116 Shimbashi live camera</name>
+        <description><![CDATA[新潟県燕市粟生津 「新潟県IT&ITS推進協議会」/ Aowazu, Tsubame City, Niigata Prefecture<br>"Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8713554,37.6403776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝谷川御手洗橋ライブカメラ / Takiya River Mitarai Bridge Live Camera</name>
+        <description><![CDATA[新潟県五泉市中島 「新潟県河川防災情報システム」/ Nakajima, Gosen City, Niigata Prefecture "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-gosen-takiya-river-mitaraibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1811932,37.6763588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝谷川滝谷川水位局ライブカメラ / Takitani River Takitani River Water Level Live Camera</name>
+        <description><![CDATA[〒959-1704 新潟県五泉市村松甲 「新潟県河川防災情報システム」/ Muramatsu Ko,  Gosen city,  Niigata prefecture 959-1704, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-gosen-muramatsu-takiya-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1783139,37.6848654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早出川不動堂ライブカメラ / Hayadegawa Fudodo Live Camera</name>
+        <description><![CDATA[新潟県五泉市不動堂 「新潟県河川防災情報システム」/ Fudodo, Gosen City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-gosen-fudodo-hayade-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2118921,37.6891677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能代川中野橋ライブカメラ / Nodai River Nakanobashi Live Camera</name>
+        <description><![CDATA[〒959-1754 新潟県五泉市中野橋 「新潟県河川防災情報システム」/ Nakanobashi, Gosen City, Niigata Prefecture 959-1754 “Niigata Prefecture River Disaster Prevention Information System”<br>https://livecamera.fujiyamasan.com/niigata-gosen-nakanohashi-nodai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1466861,37.6887812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能代川千原ライブカメラ / Nodai River Chiwara Live Camera</name>
+        <description><![CDATA[新潟県五泉市千原 「新潟県河川防災情報システム」/ Chiwara, Gosen City, Niigata Prefecture "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-gosen-chihara-noudai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1554427,37.7069314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能代川荻曽根川合流点ライブカメラ / Nodai River Ogizone River Confluence Live Camera</name>
+        <description>新潟県五泉市五泉 「新潟県河川防災情報システム」/ Gosen, Gosen City, Niigata “Niigata Prefecture River Disaster Prevention Information System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1585469,37.7534637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川佐取ライブカメラ / Aganogawa Sadori live camera</name>
+        <description><![CDATA[新潟県阿賀野市小松 「国土交通省河川情報センター」/ Komatsu, Agano City, Niigata Prefecture “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”<br>https://livecamera.fujiyamasan.com/niigata-gosen-sadori-agano-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.281905,37.7356748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川小流ライブカメラ / Agano River stream live camera</name>
+        <description><![CDATA[新潟県五泉市小流 「国土交通省河川情報センター」/ Konagashi, Gosen City, Niigata Prefecture, <br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/niigata-gosen-konagashi-agano-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2523317,37.743415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早出川善願橋ライブカメラ / Hayadegawa Zenganbashi Live Camera</name>
+        <description><![CDATA[新潟県五泉市赤海 「阿賀野川河川事務所」/ Akoumi, Gosen City, Niigata Prefecture, "Agano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1937021,37.7427521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川馬下ライブカメラ / Agano River Maoroshi Live Camera</name>
+        <description><![CDATA[新潟県五泉市馬下 「阿賀野川河川事務所」/ Maoroshi, Gosen City, Niigata Prefecture "Agano River Office"<br>https://livecamera.fujiyamasan.com/niigata-murakami-maoroshi-agano-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2689823,37.7386208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市仙見川橋ライブカメラ / Gosen Senmigawabashi Live Camera</name>
+        <description><![CDATA[新潟県五泉市矢津 「五泉市役所」/ Yazu, Gosen City, Niigata Prefecture, "Gosen City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.209779,37.6808537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市城跡橋ライブカメラ / Gosen City Joseki Bridge Live Camera</name>
+        <description><![CDATA[新潟県五泉市村松 「五泉市役所」/ Muramatsu, Gosen City, Niigata "Gosen City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1787684,37.6896257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市五部一橋ライブカメラ / Gosen City Gobu Hitotsubashi Live Camera</name>
+        <description><![CDATA[新潟県五泉市青橋 「五泉市役所」/ Aohashi, Gosen City, Niigata Prefecture, "Gosen City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1606421,37.6877979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市新千歳橋ライブカメラ / Gosen City New Chitose Bridge Live Camera</name>
+        <description><![CDATA[新潟県五泉市石倉 「五泉市役所」/ Ishikura, Gosen City, Niigata "Gosen City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1545878,37.7433614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五泉市太川橋ライブカメラ / Gosen City Taikawabashi Live Camera</name>
+        <description><![CDATA[新潟県五泉市赤羽 「五泉市役所」/ Akabane, Gosen, Niigata Prefecture<br>"Gosen City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2019979,37.7326321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安野川大室ライブカメラ / Annogawa Omuro Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市大室「新潟県河川防災情報システム」/ Omuro, Agano City, Niigata Prefecture,<br>"Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-omuro-annogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2973126,37.7939962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安野川金田町ライブカメラ / Annogawa Kaneda Town Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市金田町 「新潟県河川防災情報システム」/ Kaneda Town, Agano City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-kaneda-annogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2301612,37.8267264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大荒川大野地樋門ライブカメラ / Oara River Onoji Himon Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市大野地 「新潟県河川防災情報システム」/ Oyachi, Agano City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-oyachi-oarakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2409668,37.8271493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川渡場ライブカメラ / Agano River Watariba Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市渡場 「国土交通省河川情報センター」/ Watariba, Agano City, Niigata Prefecture,<br> "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/niigata-agano-watariba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2398312,37.7474334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川下里ライブカメラ / Agano River Sagari Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市下里 「国土交通省河川情報センター」/ Sagari, Agano City, Niigata Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/niigata-agano-sagari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1614378,37.8134965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号水原跨線橋ライブカメラ / National highway No. 49 Suibarakosen Bridge live camera</name>
+        <description><![CDATA[〒959-2003 新潟県阿賀野市安野町 「新潟県IT&ITS推進協議会」/ Anno Town, Agano City, Niigata Prefecture, 959-2003, Niigata Prefecture IT & ITS Promotion Council<br>https://livecamera.fujiyamasan.com/niigata-r49-suibarakosenkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2204164,37.8410166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五頭山麓ほたる庵ライブカメラ / Gozudanroku Hotaruan Live Camera</name>
+        <description>新潟県阿賀野市今板 「宮澤博士」/ Imaita, Agano City, Niigata Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2984849,37.8059383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磐越自動車道安田ICライブカメラ / Banetsu Expressway Yasuda IC Live Camera</name>
+        <description><![CDATA[新潟県阿賀野市新保2811-1 安田IC 「NEXCO東日本」/ Yasuda IC, 2811-1 Shinpo, Agano City, Niigata Prefecture, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-agano-yasudaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2357508,37.7579302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柴橋川東本町ライブカメラ / Shibahashi River Higashihon Town Live Camera</name>
+        <description><![CDATA[〒959-2643 新潟県胎内市東本町 「新潟県土木防災情報システム」/ Higashihon-cho, Tainai City, Niigata Prefecture 959-2643, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-tainai-higashihoncho-shibahashi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4075998,38.0571233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中条川中条高等学校ライブカメラ / Nakajo River Nakajo High School Live Camera</name>
+        <description><![CDATA[新潟県胎内市東本町 「新潟県河川防災情報システム」/ Higashihoncho, Tainai City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-tainai-nakajo-highschool.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4107265,38.0561866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>胎内川下館ライブカメラ / Tainai River Shimodate Live Camera</name>
+        <description><![CDATA[新潟県胎内市下館 「新潟県河川防災情報システム」/ Shimotate, Tainai City, Niigata Prefecture<br>"Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-tainaigawa-shimodate.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4358802,38.0686489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号胎内市近江新ライブカメラ / National highway No. 7 Tainai City Omishin live camera</name>
+        <description><![CDATA[〒959-2801 新潟県胎内市近江新 「新潟国道事務所」/ Omishin, Tainai City, Niigata Prefecture 959-2801, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-tainai-omishin-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4385417,38.0930664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>胎内スキー場ライブカメラ / Tainai ski resort live camera</name>
+        <description>〒959-2823 新潟県胎内市熱田坂８８１−１６６胎内スキー場 / Tainai Ski Resort, 881-166 Atsutasaka, Tainai, Niigata Prefecture 959-2823</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.502324,38.016711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道胎内BSライブカメラ</name>
+        <description><![CDATA[〒959-2704 新潟県胎内市宮瀬 「NEXCO東日本」/  Miyase, Tainai city, Niigata prefecture 959-2704, ``NEXCO East Japan''<br>https://livecamera.fujiyamasan.com/niigata-tainai-miyaze.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3824819,38.0789826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海東北自動車道聖籠新発田ICライブカメラ / Sea of Japan Tohoku Expressway Seiro Shibata IC Live Camera</name>
+        <description><![CDATA[〒957-0121 新潟県北蒲原郡聖籠町大字大夫 聖籠新発田IC 「NEXCO東日本」/ Seiro Shibata IC, Daibu, Seiro-machi, Kitakanbara-gun, Niigata Prefecture 957-0121, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-seiroshibata-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2868114,37.9625162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川角島ライブカメラ / Aganogawa Tsunoshima live camera</name>
+        <description><![CDATA[〒959-4401 新潟県東蒲原郡阿賀町角島 「新潟県河川防災情報システム」/ Tsunoshima, Aga Town, Higashikanbara District, Niigata Prefecture, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-river-tsunoshima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4508226,37.7023403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川津川ライブカメラ / Agano River Tsu River Live Camera</name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町津川　「新潟県河川防災情報システム」/ Tsugawa, Aga-cho, Higashikanbara-gun, Niigata, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-tsugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4504185,37.6850197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川白崎ライブカメラ / Agano River Shirasaki live camera</name>
+        <description><![CDATA[〒959-4622 新潟県東蒲原郡阿賀町白崎 「新潟県河川防災情報システム」/ Shirasaki, Aga Town, Higashikanbara District, Niigata Prefecture 959-4622, "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-aga-shirosaki-aga-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3871372,37.7056015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常浪川広瀬ライブカメラ / Tokonami River Hirose Live Camera</name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町広谷甲 「新潟県河川防災情報システム」/ Hiroya Kou, Aga Town, Higashikanbara District, Niigata Prefecture "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-tokonamigawa-hirose.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4237285,37.6017455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号赤岩西高架橋ライブカメラ / National Route 49 Akaiwa West Viaduct Live Camera</name>
+        <description><![CDATA[〒959-4408 新潟県東蒲原郡阿賀町赤岩 「新潟県IT&ITS推進協議会」/ Akaiwa, Aga-cho, Higashikanbara-gun, Niigata 959-4408 ``Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-r49-akaiwa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4198688,37.6883797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号赤岩トンネルライブカメラ / National highway No. 49 Akaiwa tunnel live camera </name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町西 「新潟県IT&ITS推進協議会」/ Nishi, Aga-cho, Niigata Higashi-Kababara-gun, Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4135379,37.6876439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号見返大橋ライブカメラ / National highway No. 49 Mikaeri Ohashi live camera</name>
+        <description><![CDATA[新潟県阿賀町八木山 「新潟県IT&ITS推進協議会」/ Yagiyama, Aga Town, Niigata Prefecture "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r49-mikaeriohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5235915,37.6642083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬取川豊実ライブカメラ / Matori River Toyomi Live Camera</name>
+        <description><![CDATA[〒959-4304 新潟県東蒲原郡阿賀町豊実 「阿賀野川河川事務所」/ Toyomi, Aga Town, Higashikanbara District, Niigata Prefecture 959-4304, "Agano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6637365,37.8061657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号取上洞門ライブカメラ / National highway No. 49 Torikami-domon live camera</name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町取上 「新潟国道事務所」/ Toriage, Aga Town, Higashikanbara-gun, Niigata Prefecture, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r49-toriage.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3308099,37.7335853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号阿賀町麒麟橋ライブカメラ / National highway No. 49 Aga Town Kirin Bridge live camera </name>
+        <description><![CDATA[新潟県阿賀町津川 「新潟国道事務所」/ Tsugawa, Aga Town, Niigata Prefecture "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r49-kirinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.446175,37.6860904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号阿賀町栄山ライブカメラ / National highway No. 49 Aga Town Sakaeyama live camera</name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町 「新潟国道事務所」/ Aga Town, Higashikanbara District, Niigata Prefecture, "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r49-sakaeyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4588127,37.6755895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磐越自動車道三川ICライブカメラ / Banetsu Expressway Mikawa IC Live Camera</name>
+        <description><![CDATA[〒959-4623 新潟県東蒲原郡阿賀町黒岩 「NEXCO東日本」/ Kuroiwa, Aga-cho, Higashikanbara-gun, Niigata Prefecture 959-4623, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-banetsu-mikawaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3812439,37.6910087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磐越自動車道津川ICライブカメラ / Banetsu Expressway Tsugawa IC Live Camera</name>
+        <description><![CDATA[〒959-4402 新潟県東蒲原郡阿賀町津川１５７７ 「NEXCO東日本」/ 1577 Tsugawa, Aga-cho, Higashi-Kabahara-gun, Niigata Prefecture 959-4402 "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-banetsu-tsugawaic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.452936,37.6730018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磐越自動車道小出トンネルライブカメラ / Banetsu Expressway Koide Tunnel Live Camera</name>
+        <description><![CDATA[〒959-4511 新潟県東蒲原郡阿賀町東山 小出トンネル 「NEXCO東日本」/  Koide Tunnel,  Higashiyama, Aga Town, Higashikanbara District, Niigata Prefecture 959-4511, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/niigata-banetsu-koidetunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5124162,37.6071152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道49号阿賀町鳥井ライブカメラ /  National Route 49 Aga Town Torii Live Camera</name>
+        <description><![CDATA[〒959-4414 新潟県東蒲原郡阿賀町八ツ田 「新潟県IT&ITS推進協議会」/ Yatsuda, Aga-machi, Higashikanbara-gun, Niigata 959-4414, ``Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-r49-torii.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5716451,37.6592667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川鷹ノ巣ライブカメラ / Arakawa River Takanosu Live Camera</name>
+        <description><![CDATA[新潟県岩船郡関川村大字大内渕「新潟県河川防災情報システム」/ Ouchibuchi, Sekigawa Village, Iwafune District, Niigata Prefecture<br>"Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-arakawa-takanosu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5919035,38.0632238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川高瀬ライブカメラ / Arakawa Takase Live Camera</name>
+        <description><![CDATA[新潟県関川村湯沢 「国土交通省河川情報センター」/ Yuzawa, Sekigawa Village, Niigata Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/niigata-arakawa-takase.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5824682,38.0817258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川大島ライブカメラ / Arakawa Ohshima Live Camera</name>
+        <description><![CDATA[新潟県岩船郡関川村大島 「国土交通省河川情報センター」/ Oshima, Sekikawa-mura, Iwafune-gun, Niigata Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5191437,38.1039728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>女川藤沢川合流地点ライブカメラ / Onagawa Fujisawa River Confluence Live Camera </name>
+        <description><![CDATA[〒959-3206 新潟県岩船郡関川村大字中束 「飯豊山系砂防事務所」/ 〒959-3206 Sekigawa Village, Iwafune District, Niigata Prefecture<br>"Iideyama Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5997395,38.1379482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道113号八ツ口ライブカメラ / National highway No. 113 Yatsuguchi live camera</name>
+        <description><![CDATA[〒959-3227 新潟県岩船郡関川村大字八ツ口 「新潟県IT&ITS推進協議会」 / Yatsuguchi, Sekikawa-mura, Iwafune-gun, Niigata Prefecture 959-3227, <br>"Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6580463,38.1251053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道113号関川ライブカメラ / National highway No. 113 Sekigawa live camera</name>
+        <description><![CDATA[新潟県岩船郡関川村大字下関 「新潟県IT&ITS推進協議会」/ Shimonoseki, Sekigawa Village, Iwafune District, Niigata Prefecture<br>"Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r113-sekikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5595991,38.0867388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道113号大内渕第2ライブカメラ / National Highway No. 113 Ouchi Fuchi 2nd Live Camera</name>
+        <description><![CDATA[新潟県岩船郡関川村大字大内渕 「新潟県IT&ITS推進協議会」/ Ouchibuchi, Sekigawa Village, Iwafune District, Niigata Prefecture, "Niigata IT & ITS Promotion Council"<br>https://livecamera.fujiyamasan.com/niigata-r113-ouchibuchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5966242,38.0680215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川上関観測所ライブカメラ / Arakawa Kamiseki Observatory Live Camera</name>
+        <description><![CDATA[新潟県岩船郡関川村湯沢 「羽越河川国道事務所」/  Yusawa, Sekikawa-mura, Iwafune-gun, Niigata "Hagoshi River National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-arakawa-kamiseki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5738692,38.0932147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大石ダム下流ライブカメラ / Oishi Dam downstream live camera</name>
+        <description><![CDATA[新潟県岩船郡関川村大字大石 「羽越河川国道事務所」/ Oishi, Oki, Sekikawa-mura, Iwafune-gun, Niigata Prefecture, "Uetsu River National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-oishidam-up-down-stream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5669463,38.0307578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道113号関川村金丸ライブカメラ / National highway No. 113 Sekikawa-mura Kanemaru live camera </name>
+        <description><![CDATA[〒959-3228 新潟県岩船郡関川村大字金丸 「新潟国道事務所」/ Kanamaru, Sekigawa-mura, Iwafune-gun, Niigata Prefecture 959-3228<br> "Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r113-sekikawa-kanemaru.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6711334,38.0613813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道113号関川村片貝ライブカメラ / National highway No. 113 Sekikawa village Katagai live camera</name>
+        <description><![CDATA[〒959-3226 新潟県岩船郡関川村大字片貝 「新潟国道事務所」/ Katagai, Sekigawa-mura, Iwafune-gun, Niigata Prefecture 959-3226, <br>"Niigata National Highway Office"<br>https://livecamera.fujiyamasan.com/niigata-r113-sekikawa-katagai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6420301,38.0677989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海川羽生ライブカメラ / Umikawa Hanyu Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市羽生 「新潟県河川防災情報システム」/ Hanyu, Itoigawa City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8906152,37.0269531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能生川桂ライブカメラ / Nou River Katsura Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市桂 「新潟県河川防災情報システム」/ Katsura, Itoigawa City, Niigata Prefecture "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9915572,37.0908326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能生川中野口ライブカメラ / Nougawa Nakanoguchi Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大沢 「新潟県河川防災情報システム」/ Osawa, Itoigawa City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0305244,37.0817864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川大前ライブカメラ / Hime River Omae Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大字小滝 「新潟県河川防災情報システム」/ Oitaki, Itoigawa City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.856546,36.9398562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田海川鉄道橋ライブカメラ / Toumigawa Railway Bridge Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市田海 「新潟県河川防災情報システム」/  Toumi, Itoigawa City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8103953,37.0254472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田海川田海川水位観測所ライブカメラ / Toumi River Toumi River Water Level Observatory Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市田海 「新潟県河川防災情報システム」/ Toumi, Itoigawa City, Niigata Prefecture, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8108892,37.0279254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海川海川橋ライブカメラ / Umi River Umikawa Bridge Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市道平 「新潟県IT&ITS推進協議会」/ Dodaira, Itoigawa City, Niigata Prefecture<br>"Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9153803,37.0048657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川大野6.6KP右岸ライブカメラ / Ono Himekawa 6.6KP right bank live camera</name>
+        <description><![CDATA[新潟県糸魚川市大野 「国土交通省河川情報センター」/ Ono, Itoigawa City, Niigata Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8706312,36.9925987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川山本水位観測所水位標ライブカメラ / Himekawa Yamamoto Water Observatory Water Mark Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大野 「高田河川国道事務所」/ Ono, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8705115,36.9859453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シャルマン火打スキー場ライブカメラ / Charmant Hiuchi Ski Live Camera</name>
+        <description><![CDATA[〒949-1322 新潟県糸魚川市大字西飛山１８２１「シャルマン火打スキー場」/ 1821 Nishihiyama, Itoigawa City, Niigata Prefecture 949-1322 "Charman Hiuchi Ski Resort"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0692194,36.9993875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟焼山ライブカメラ / Niigata Yakeyama Live Camera</name>
+        <description><![CDATA[〒949-1311 新潟県糸魚川市大字高倉 「糸魚川市役所」/ Takakura, Itoigawa City, Niigata Prefecture 949-1311, "Itoigawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0628384,37.0901356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅マリンドリーム能生ライブカメラ / Road Station Marine Dream Nou Live Camera</name>
+        <description><![CDATA[〒949-1351 新潟県糸魚川市大字能生小泊３５９６−２ 道の駅 マリンドリーム能生 「糸魚川市役所」/ Road Station Marine Dream Nou, 3596-2 Koyomari Koyomari, Itoigawa City, Niigata Prefecture, 949-1351 Japan,  "Itoigawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0044408,37.1136406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弁天岩ライブカメラ / Benten rock live camera</name>
+        <description><![CDATA[新潟県糸魚川市大字能生 「糸魚川市役所」/ Nou, Itoigawa City, Niigata Prefecture, "Itoigawa City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9936943,37.1084531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>糸魚川市役所能生事務所日本海ライブカメラ / Itoigawa City Office Nou Office Sea of Japan Live Camera</name>
+        <description><![CDATA[〒949-1352 新潟県糸魚川市大字能生１９４１−２ 糸魚川市 能生事務所 「糸魚川市役所」/  Itoigawa Nou Office, 191-2 Noo, Itoigawa City, Niigata Prefecture 949-1352, "Itoigawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9866579,37.1019875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能生川JR北陸新幹線鉄橋付近ライブカメラ / Nougawa Live camera near JR Hokuriku Shinkansen railway bridge</name>
+        <description><![CDATA[新潟県糸魚川市柱道 「糸魚川市役所」/ Hashiramichi, Itoigawa City, Niita Prefecture, "Itoigawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.0208799,37.0871302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道148号山本ライブカメラ / National Route 148 Yamamoto Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大字山本 「新潟県IT&ITS推進協議会」/ Yamamoto, Itoigawa City, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8514107,36.9780914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道148号山之坊ライブカメラ / National highway No. 148 Yamanobo live camera</name>
+        <description><![CDATA[〒949-0463 新潟県糸魚川市大字山之坊 「新潟県IT&ITS推進協議会」/ Yamanobo, Itoigawa City, Niigata Prefecture 949-0463, "Niigata Prefecture IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8560564,36.9010311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号三段滝ライブカメラ / National highway No. 8 Sandantaki live camera</name>
+        <description><![CDATA[〒949-0111 新潟県糸魚川市大字市振 三段滝 「新潟県IT&ITS推進協議会」/ Ichiburi,  Itoigawa City, Niigata Prefecture 949-0111, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6675225,36.9854253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号歌ライブカメラ / National highway No. 8 Uta live camera</name>
+        <description><![CDATA[新潟県糸魚川市大字歌 「新潟県IT&ITS推進協議会」/ Uta, Itoigawa City, Niigata Prefecture,  "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.7508497,36.9976704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号早川橋ライブカメラ / National highway No. 8 Hayakawabashi live camera</name>
+        <description><![CDATA[新潟県糸魚川市梶屋敷 「新潟県IT&ITS推進協議会」/ Kajiyashiki, Itoigawa City, Niigata Prefecture,  "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9128972,37.0597435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川平岩ライブカメラ / Himekawa Hiraiwa Live Camera</name>
+        <description><![CDATA[〒949-0464 新潟県糸魚川市大字大所 「松本砂防事務所」/ Otokoro, Itoigawa City, Niigata Prefecture, 949-0464, "Matsumoto Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.7837115,36.8289837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根知川合流点ライブカメラ / Nechigawa Confluence Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大字根小屋 「松本砂防事務所」/ Negoya, Itoigawa, Niigata "Matsumoto Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8669683,36.9684629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川小滝川合流点ライブカメラ / Himekawa Otakigawa Confluence Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大字小滝 「高田河川国道事務所」/ Kotaki, Itoigawa City, Niigata Prefecture, "Takata River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8549903,36.9408338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川小滝水位観測所水位標ライブカメラ / Himekawa Kotaki Water Level Observatory Water Mark Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市小滝 「高田河川国道事務所」/ Kotaki, Itoigawa City, Niigata "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8585347,36.9386042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川根小屋ライブカメラ / Hime River Negoya Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市根小屋 「高田河川国道事務所」/ Negoya, Itoigawa City, Niigata "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8604104,36.9573254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川根知川合流点ライブカメラ / Himekawa Nechikawa Confluence Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市根小屋 「高田河川国道事務所」/ Negoya, Itoigawa City, Niigata "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8673099,36.9695114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川山本橋右岸ライブカメラ / Himekawa Yamamoto Bridge right bank live camera</name>
+        <description><![CDATA[新潟県糸魚川市山本 「高田河川国道事務所」/ Yamamoto, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.870838,36.9749658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川大野上流ライブカメラ / Himekawa Ono upstream live camera</name>
+        <description><![CDATA[新潟県糸魚川市大野 「高田河川国道事務所」/ Ono, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8710449,36.9987216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川大野翡翠橋ライブカメラ / Himekawa Ohno Hisui Bridge Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大野 「高田河川国道事務所」/ Ono, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8714543,37.0030395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川西中ライブカメラ / Himekawa Nishinaka Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市大字西中 「高田河川国道事務所」/ Nishinaka, Itoigawa City, Niigata Prefecture, "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.857354,37.0136705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川上刈ライブカメラ / Himekawa Uekari live camera</name>
+        <description><![CDATA[新潟県糸魚川市上刈 「高田河川国道事務所」/ Uekari, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8527383,37.0234064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川北陸道姫川橋梁下流ライブカメラ / Himekawa Hokuriku Road Himekawa Bridge downstream live camera</name>
+        <description><![CDATA[新潟県糸魚川市上刈 「高田河川国道事務所」/ Uekari, Itoigawa City, Niigata Prefecture, "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8474349,37.0275748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川JR姫川橋梁下流ライブカメラ / Himekawa JR Himekawa Bridge downstream live camera</name>
+        <description><![CDATA[新潟県糸魚川市須沢 「高田河川国道事務所」/ Suzawa, Itoigawa City, Niigata Prefecture<br>"Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8357977,37.0309912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川寺島ライブカメラ / Himekawa Terashima Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市寺島 「高田河川国道事務所」/ Terashima, Itoigawa City, Niigata Prefecture "Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8358837,37.0379236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫川須沢ライブカメラ / Himekawa Suzawa Live Camera</name>
+        <description><![CDATA[新潟県糸魚川市須沢 「高田河川国道事務所」/ Suzawa, Itoigawa City, Niigata Prefecture<br>"Takada River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8293182,37.0375767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>親不知海岸投げ岩ライブカメラ / Oyashirazu Beach Nageiwa Live Camera</name>
+        <description><![CDATA[〒949-0308 新潟県糸魚川市大字外波９０３−１ 親不知ピアパーク お食事処 漁火 「糸魚川市役所」/ Oyashirazu Pier Park Restaurant Isaribi, 903-1 Tonami, Itoigawa City, Niigata Prefecture 949-0308,  "Itoigawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.731573,37.0038912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号道の駅越後市振の関ライブカメラ / National highway No. 8 station Echigo Ichifurinoseki live camera</name>
+        <description><![CDATA[〒949-0111 新潟県糸魚川市市振１０３５−５０ 道の駅 越後 市振の関 「新潟国道事務所」/  Road Station Echigo Ichiburinoseki  1035-50 Ichiburi, Itoigawa-shi, Niigata, Japan 949-0111  "Niigata National Road Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6436275,36.9796575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号姫川大橋ライブカメラ / National highway No. 8 Himekawa Ohashi live camera</name>
+        <description><![CDATA[新潟県糸魚川市須沢 姫川大橋 「新潟国道事務所」/ Himekawa Bridge, Suzawa, Itoigawa City, Niigata Prefecture, "Niigata National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8363234,37.0324044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号風波ライブカメラ / National highway 8 Kazanami live camera</name>
+        <description><![CDATA[新潟県糸魚川市外波 「新潟国道事務所」/ Tonami, Itoigawa City, Niigata Prefecture<br>"Niigata National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.716678,36.9940756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道親不知ICライブカメラ / Hokuriku Expressway Oyashirazu IC live camera</name>
+        <description><![CDATA[〒949-0111 新潟県糸魚川市市振 「NEXCO東日本」/ Ichiburi, Itoigawa City, Niigata Prefecture 949-0111,   "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.7176033,37.0001199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号糸魚川市能生ライブカメラ / National highway No. 8 Itoigawa city Nou live camera </name>
+        <description><![CDATA[〒949-1352 新潟県糸魚川市大字能生 「新潟国道事務所」/ Noo, Itoigawa City, Niigata Prefecture 949-1352, Japan, "Niigata National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.9907621,37.1020192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松沢川大平沢川排水機場ライブカメラ /  Matsuzawa River Ohirazawa River Drainage Pump Live Camera</name>
+        <description><![CDATA[新潟県長岡市東川口 「新潟県河川防災情報システム」/ Higashikawaguchi, Nagaoka City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8612847,37.2745196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄土川今井ライブカメラ / Jodogawa Imai Live Camera</name>
+        <description><![CDATA[〒940-1166 新潟県長岡市今井「新潟県河川防災情報システム」/ Imai, Nagaoka 940-1166, Niigata Prefecture, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.830587,37.4254289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川宮内ライブカメラ / Otagawa Miyauchi Live Camera</name>
+        <description><![CDATA[新潟県長岡市平島 「新潟県河川防災情報システム」/ Hirashima, Nagaoka City, Niigata Prefecture "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8339016,37.4212004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猿橋川大黒ライブカメラ / Saruhashi River Daikoku Live Camera</name>
+        <description><![CDATA[〒940-0897 新潟県長岡市新組町 「新潟県河川防災情報システム」/  Shingumi Town,  Nagaoka City, Niigata Prefecture 940-0897, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8762373,37.4987379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栖吉川城岡ライブカメラ / Suyoshi River Jooka Live Camera</name>
+        <description><![CDATA[新潟県長岡市城岡2丁目 「新潟県河川防災情報システム」/ 2-chome, Shirooka, Nagaoka City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8606494,37.4741332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栖吉川長倉ライブカメラ / Suyoshi River Nagakura Live Camera</name>
+        <description><![CDATA[〒940-0829 新潟県長岡市長倉 「新潟県河川防災情報システム」/ Nagakura, Nagaoka City, Niigata Prefecture 940-0829 "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8706358,37.4354997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栖吉川地蔵ライブカメラ / Suyoshi River Jizou Live Camera</name>
+        <description><![CDATA[新潟県長岡市地蔵 「新潟県河川防災情報システム」/ Jizo, Nagaoka City, Niigata Prefecture<br>"Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8663541,37.4563824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋海川飯塚ライブカメラ / Shibumi River Iizuka Live Camera</name>
+        <description><![CDATA[新潟県長岡市飯塚　「新潟県河川防災情報システム」/ Iizuka, Nagaoka City, Niigata Prefecture "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7539979,37.3874185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川流末川岩方排水樋門ライブカメラ / Kurokawa Ryumatsugawa Iwakata drainage gutter live camera</name>
+        <description><![CDATA[〒940-2405 新潟県長岡市与板町岩方 「新潟県河川防災情報システム」/ Iwakata, Yoita-machi, Nagaoka-shi, Niigata 940-2405, Japan "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8140542,37.5728608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川広野ライブカメラ / Kurokawa Hirono Live Camera</name>
+        <description><![CDATA[新潟県長岡市与板町広野 「新潟県河川防災情報システム」/ Hirono, Yoita-machi, Nagaoka City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8095844,37.509517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川面川合流点ライブカメラ / Kurokawa Omoi River Confluence Live Camera</name>
+        <description><![CDATA[〒940-2046 新潟県長岡市雲出町 「新潟県河川防災情報システム」/Kumoide-machi, Nagaoka City, Niigata Prefecture 940-2046, "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7437569,37.4689543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲葉川稲葉川放水路ライブカメラ / Inaba River Inaba River Floodway Live Camera</name>
+        <description><![CDATA[〒940-0854 新潟県長岡市中沢町 「新潟県河川防災情報システム」/ Nakazawa Town, Nagaoka City, Niigata Prefecture 940-0854 "Niigata River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.874068,37.4466103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷田川栃尾ライブカメラ / Kariyata River Tochio Live Camera</name>
+        <description><![CDATA[新潟県長岡市巻渕 「新潟県河川防災情報システム」/ Makibuchi, Nagaoka City, Niigata Prefecture, "Niigata Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0009355,37.4895145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川東与板ライブカメラ / Shinano River Higashiyoita Live Camera</name>
+        <description>新潟県長岡市与板町与板 「	国土交通省河川情報センター」/ Yoita, Yoita Town, Nagaoka City, Niigata Prefecture “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8166117,37.5516169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚野川川口和南津ライブカメラ / Uonogawa Kawaguchi Wananzu Live Camera</name>
+        <description><![CDATA[新潟県長岡市川口和南津 「国土交通省河川情報センター」/ Kawaguchi Wanantsu, Nagaoka City, Niigata Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.876071,37.2564564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚野川東川口飯山線ライブカメラ / Uonogawa Higashikawaguchi Iiyama Line Live Camera</name>
+        <description>新潟県長岡市東川口 「国土交通省河川情報センター」/ Higashikawaguchi, Nagaoka City, Niigata Prefecture Ministry of Land, Infrastructure, Transport and Tourism River Information Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8634824,37.2644422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川西川口ライブカメラ / Shinano River Nishikawaguchi Live Camera</name>
+        <description>新潟県長岡市西川口 「国土交通省河川情報センター」/ Nishikawaguchi, Nagaoka City, Niigata Prefecture Ministry of Land, Infrastructure, Transport and Tourism River Information Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.85485,37.2699909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡技術科学大学環境建設系水工学研究室八海山ライブカメラ / Hakkaisan Live Camera, Environmental Engineering Water Engineering Laboratory, Nagaoka University of Technology</name>
+        <description><![CDATA[〒940-2137 新潟県長岡市上富岡町１６０３−１ 長岡技術科学大学環境建設系水工学研究室 「新潟県IT&ITS推進協議会」/Nagaoka University of Technology Environmental Engineering Water Engineering Laboratory, 1603-1 Kamitomioka-cho, Nagaoka-shi, Niigata 940-2137, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7770123,37.4244684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT国道8号北陽ライブカメラ / NCT National highway No. 8 Hokuyo live camera</name>
+        <description><![CDATA[〒940-0871 新潟県長岡市北陽１丁目５３−６８ 成田屋電設 「エヌ・シィ・ティ」/ 53-68 Hokuyo, Nagaoka, 940-0871, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8769058,37.4846787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT国道8号長岡インターチェンジライブカメラ / NCT National highway No. 8 Nagaoka interchange live camera</name>
+        <description><![CDATA[新潟県長岡市上除町 長岡IC付近 「NCT」/ Nagaoka IC, Kaminozoki Town, Nagaoka City, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7855733,37.4445018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT国道8号寺島交差点ライブカメラ / NCT National highway No. 8 Terashima intersection live camera</name>
+        <description><![CDATA[新潟県長岡市寺島町 「NCT」/ Terashima Town, Nagaoka City, Niigata Prefecture, " NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8202662,37.461963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT長岡北スマートインターチェンジライブカメラ</name>
+        <description><![CDATA[〒940-2004 新潟県長岡市上野町 長岡北スマートＩＣ 上り線 「NCT」/ Nagaokakita Smart IC Up Line, Nagaoka Kita, Nagaoka City, Niigata Prefecture 940-2004, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.829197,37.4794575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT越路支所前交差点ライブカメラ / NCT Koshiji branch front intersection live camera </name>
+        <description><![CDATA[新潟県長岡市浦 「NCT」/ Ura, Nagaoka City, Niigata Prefecture "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.789818,37.3945586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT国道17号豊詰交差点ライブカメラ / NCT National highway No. 17 Toyozume intersection live camera</name>
+        <description><![CDATA[新潟県長岡市豊詰町 「NCT」/ Toyozume Town, Nagaoka City, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8469127,37.4019994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT国道8号中之島付近ライブカメラ / NCT National highway No. 8 Nakanoshima live camera </name>
+        <description><![CDATA[新潟県長岡市灰島新田 「NCT」/ Haijima Nitta, Nagaoka City, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8758123,37.5208272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT新榎トンネル栃尾側ライブカメラ / NCT Shinenoki Tunnel Tochio Side Live Camera</name>
+        <description><![CDATA[新潟県長岡市比礼 「NCT」/ Hirei, Nagaoka-shi, Niigata, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9500076,37.4492447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT妙見堰ライブカメラ / NCT Myokenzeki Live Camera</name>
+        <description><![CDATA[新潟県長岡市妙見町 「NCT」/ Myoken-machi, Nagaoka-shi, Niigata, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8284099,37.3461996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT与板橋西詰ライブカメラ / NCT Yoita Bridge Nishidume Live Camera</name>
+        <description><![CDATA[〒940-2403 新潟県長岡市与板町本与板３７３１ 長岡市 与板消防署 「NCT」/ Nagata City Yoita Fire Station, 3731 Motoyoita, Yoita-machi, Nagaoka-shi, Niigata 940-2403, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8137021,37.553165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT蔵王橋西詰ライブカメラ / NCT Zao Bridge Nishidume Live Camera</name>
+        <description><![CDATA[新潟県長岡市堤町 「NCT」/ Tsutsumi-cho, Nagaoka-shi, Niigata, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8398119,37.4790098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCTフェニックス大橋東詰ライブカメラ / NCT Phoenix Ohashi Higashizume Live Camera</name>
+        <description><![CDATA[新潟県長岡市西宮内 「NCT」/ Nishinomiya, Nagaoka City, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8367324,37.4270223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT大手大橋西詰ライブカメラ / NCT Ohte Ohashi Nishidume Live Camera</name>
+        <description><![CDATA[新潟県長岡市緑町1丁目 長岡市営陸上競技場付近 「NCT」/ Nagaoka Athletics Stadium, 1-chome Midori-cho, Nagaoka City, Niigata Prefecture,   "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8233929,37.4524927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT越路橋西詰ライブカメラ / NCT Koshiji Bridge Nishidume Live Camera</name>
+        <description><![CDATA[新潟県長岡市浦 「NCT」/ Ura, Nagaoka-shi, Niigata, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8064275,37.3930349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT長岡大橋東詰ライブカメラ / NCT Nagaoka Ohashi Higashizume Live Camera</name>
+        <description><![CDATA[新潟県長岡市西神田町 「NCT」/ Nishikanda Town, Nagaoka City, Niigata Prefecture, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8516296,37.4605569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT長生橋西詰ライブカメラ / NCT Chousei Bridge Nishidume Live Camera</name>
+        <description><![CDATA[新潟県長岡市大島新町 「NCT」/ Ojimashinmachi, Nagaoka-shi, Niigata, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8280731,37.4443282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT長岡駅前大手通り交差点ライブカメラ / NCT Nagaoka station square Ote-dori intersection live camera</name>
+        <description><![CDATA[〒940-8501 新潟県長岡市大手通１丁目４−１０長岡市役所 「NCT」/ Nagaoka City Hall, 1-4-10 Otedori, Nagaoka-shi, Niigata 940-8501, "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8512351,37.4464596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NCT屋上ライブカメラ / NCT rooftop live camera</name>
+        <description><![CDATA[〒940-0032 新潟県長岡市干場１丁目７−９「NCT」/ 1-7-9, Hiba, Nagaoka-shi, Niigata 940-0032, Japan "NCT"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8615147,37.4534334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川寺野砂防堰堤群ライブカメラ / Imogawa Terano Sabo dam bank live camera</name>
+        <description><![CDATA[〒947-0202 新潟県長岡市山古志南平「湯沢砂防事務所」/ Nanpei Yamakoshi, Nagaoka City, Niigata Prefecture 947-0202, "Yuzawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9149183,37.3287704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川寺野アシ沢川ライブカメラ / Imo River Teranoashisawa River Live Camera</name>
+        <description><![CDATA[〒947-0202 新潟県長岡市山古志南平 「湯沢砂防事務所」/ Nanpei Yamakoshi, Nagaoka City, Niigata Prefecture 947-0202, "Yuzawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9149183,37.3287704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川西願寺川ライブカメラ / Imogawa Saiganji River Live Camera</name>
+        <description><![CDATA[新潟県長岡市山古志東竹沢 「湯沢砂防事務所」/ "Yuzawa Sabo Office", Yamakoshi Higashitakezawa, Nagaoka City, Niigata Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9180945,37.3097291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川新宇賀地橋ライブカメラ / Imo River Shinukaji Bridge Live Camera</name>
+        <description><![CDATA[新潟県長岡市山古志東竹沢 「湯沢砂防事務所」/ Yamakoshi Higashitakezawa, Nagaoka City, Niigata Prefecture,  "Yuzawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9058016,37.3064813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相川川松葉川合流点ライブカメラ / Aikawa River Matsuba River Confluence Live Camera</name>
+        <description><![CDATA[〒949-7512 新潟県長岡市川口田麦山 「湯沢砂防事務所」/ Mugiyama Kawaguchita, Nagaoka City, Niigata Prefecture 949-7512,   , "Yuzawa Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.851457,37.2184022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚野川魚野川橋ライブカメラ / Uonogawa Uonogawabashi live camera</name>
+        <description><![CDATA[〒949-7513 新潟県長岡市西川口 「信濃川河川事務所」/ Nishikawaguchi, Nagaoka City, Niigata Prefecture 949-7513, "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8462949,37.2704695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川魚野川合流点ライブカメラ / Shinano River Uono River Confluence Live Camera</name>
+        <description><![CDATA[新潟県長岡市川口牛ケ島 「信濃川河川事務所」/ Kawaguchiushigashima, Nagaoka City, Niigata Prefecture 949-7513, "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8422628,37.2800829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川上片貝ライブカメラ / Shinano River Kamikatagai Live Camera</name>
+        <description><![CDATA[新潟県長岡市川口相川 「信濃川河川事務所」/ Aikawa Kawaguchi, Nagaoka City, Niigata Prefecture,  "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8481569,37.2916185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川妙見堰ライブカメラ / Shinano River Myokenzeki Live Camera</name>
+        <description><![CDATA[〒940-1134 新潟県長岡市妙見町２９ 国土交通省 北陸地方整備局 信濃川河川事務所 妙見堰管理支所 「信濃川河川事務所」/ Myoken Weir Management Branch, Shinanogawa River Office, Hokuriku Regional Development Bureau, Ministry of Land, Infrastructure and Transport, 29 Myoken-machi, Nagaoka City, Niigata Prefecture, "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.827878,37.344918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川水道町右岸ライブカメラ / Shinanogawa Suido Town Right Bank Live Camera</name>
+        <description><![CDATA[〒940-0093 新潟県長岡市水道町 「信濃川河川事務所」/ Suidocho, Nagaoka City, Niigata Prefecture 940-0093, "Shinano River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.844412,37.457422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川与板橋上流右岸ライブカメラ /  Shinanogawa Yoitabashi upstream right bank live camera </name>
+        <description><![CDATA[〒954-0163 新潟県長岡市並木新田 「信濃川河川事務所」/ Namikishinden, Nagaoka City, Niigata Prefecture, 954-0163, "Shinanogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8269676,37.5520554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大河津分水路第二床固右岸ライブカメラ / Okouzu watershed 2nd tokogatame right bank live camera</name>
+        <description><![CDATA[〒940-2501 新潟県長岡市寺泊野積 「信濃川河川事務所」/Teradomarinozumi, Nagaoka City, Niigata Prefecture 940-2501, " Shinanogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7943717,37.6858526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号硲田ライブカメラ / National highway No. 116 Hazamada live camera</name>
+        <description><![CDATA[新潟県長岡市寺泊硲田「新潟県IT&ITS推進協議会」/ Teradomari Hazamada,  Nagaoka City,   Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7972636,37.605765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号島崎ライブカメラ / National highway No. 116 Shimazaki live camera</name>
+        <description><![CDATA[新潟県長岡市島崎 「新潟県IT&ITS推進協議会」/ Shimazaki, Nagaoka City, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7710406,37.5866568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号両高ライブカメラ / National highway No. 116 Ryotaka live camera</name>
+        <description><![CDATA[〒949-4524 新潟県長岡市両高 「新潟県IT&ITS推進協議会」/ Ryotaka, Nagaoka City, Niigata Prefecture 949-4524 ``Niigata IT & ITS Promotion Council'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7459568,37.5806011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号妙見ライブカメラ / National highway No. 17 Myoken live camera</name>
+        <description><![CDATA[〒940-1134 新潟県長岡市妙見町 「新潟県IT&ITS推進協議会」/Myoken Town, Nagaoka City, Niigata Prefecture, 940-1134, " Niigata Prefecture IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8332508,37.3442412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号中沢ライブカメラ / National Route 17 Nakazawa Live Camera</name>
+        <description><![CDATA[〒940-8512 新潟県長岡市中沢４丁目４３０−１長岡国道事務所 「新潟県IT&ITS推進協議会」/ Nagaoka National Road Office, 4430-1, Nakazawa, Nagaoka 940-8512, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.871589,37.443166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号高畑町ライブカメラ / National highway No. 17 Takabatake Town live camera</name>
+        <description><![CDATA[新潟県長岡市高畑町 「新潟県IT&ITS推進協議会」/ Takabatake Town, Nagaoka City, Niigata Prefecture "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8622259,37.4234302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号滝谷ライブカメラ / National highway No. 17 Takiya live camera</name>
+        <description><![CDATA[〒940-1138 新潟県長岡市滝谷町 「新潟県IT&ITS推進協議会」/ 940-1138 Takiya-machi, Nagaoka City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8353172,37.3677977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号川口牛ケ島ライブカメラ / National highway No. 17 Kawaguchi Ushigashima live camera </name>
+        <description><![CDATA[新潟県長岡市川口牛ケ島 「新潟県IT&ITS推進協議会」/ Kawaguchi Ushigashima, Nagaoka City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8454815,37.2851023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号川口和南津ライブカメラ / National highway No. 17 Kawaguchi Wananzu live camera</name>
+        <description><![CDATA[新潟県長岡市川口和南津 「新潟県IT&ITS推進協議会」/ Kawaguchi Wanazu, Nagaoka City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8738268,37.2605517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号大積ライブカメラ / National highway No. 8 Ozumi live camera</name>
+        <description><![CDATA[〒940-2146 新潟県長岡市大積町３丁目 「新潟県IT&ITS推進協議会」/  3-chome, Ozumi Town, Nagaoka City, Niigata Prefecture 940-2146,<br>"Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.723643,37.4210161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号関原ライブカメラ / National highway No. 8 Sekihara live camera</name>
+        <description><![CDATA[〒940-2035 新潟県長岡市関原町 「新潟県IT&ITS推進協議会」/ Sekihara Town, Nagaoka City, Niigata Prefecture 940-2035 ``Niigata IT & ITS Promotion Council'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7734533,37.4616413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号福山ライブカメラ / National highway No. 8 Fukuyama live camera</name>
+        <description><![CDATA[〒940-2122 新潟県長岡市福山町 「新潟県IT&ITS推進協議会」/ Fukuyama Town, Nagaoka City, Niigata Prefecture 940-2122 ``Niigata IT & ITS Promotion Council'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7991779,37.448367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号堺ライブカメラ / National highway No. 8 Sakai live camera</name>
+        <description><![CDATA[〒940-2024 新潟県長岡市堺町 「新潟県IT&ITS推進協議会」/Sakaimachi, Nagaoka City, Niigata Prefecture 940-2024, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8092413,37.4613502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号蓮潟ライブカメラ / National highway No. 8 Hasugata live camera</name>
+        <description><![CDATA[〒940-2023 新潟県長岡市蓮潟 「新潟県IT&ITS推進協議会」/ Hasugata, Nagaoka City, Niigata Prefecture940-2023, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8255138,37.4644342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号東新町1丁目ライブカメラ / National highway No. 8 Higashiaramachi 1-chome live camera </name>
+        <description><![CDATA[〒940-0022 新潟県長岡市東新町１丁目 「新潟県IT&ITS推進協議会」/  1-chome, Higashiara-machi, Nagaoka City, Niigata Prefecture, 940-0022, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8574802,37.4598062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号川崎町ライブカメラ / National highway No. 8 Kawasaki town live camera</name>
+        <description><![CDATA[〒940-0861 新潟県長岡市川崎町「新潟県IT&ITS推進協議会」/ Kawasaki Town, Nagaoka City, Niigata Prefecture, 940-0861, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8770304,37.4524078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号亀貝ライブカメラ / National highway No. 8 Kamegai live camera</name>
+        <description><![CDATA[〒940-0884 新潟県長岡市亀貝町 「新潟県IT&ITS推進協議会」/Kamegai Town, Nagaoka City, Niigata Prefecture, 940-0884, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8837976,37.4734624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号新組南ライブカメラ / National highway No. 8 Shingumi minami live camera</name>
+        <description><![CDATA[新潟県長岡市新組町 「新潟県IT&ITS推進協議会」/ Shingumi Town, Nagaoka City, Niigata Prefecture, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8719322,37.4996752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号池之島ライブカメラ / National highway 8 Ikenoshima live camera</name>
+        <description><![CDATA[〒954-0143 新潟県長岡市池之島 「新潟県IT&ITS推進協議会」/ Ikenoshima, Nagaoka City, Niigata Prefecture, 954-0143, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8720593,37.5096422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号灰島新田ライブカメラ / National highway No. 8 Haijima Shinden live camera</name>
+        <description><![CDATA[〒954-0142 新潟県長岡市灰島新田 「新潟県IT&ITS推進協議会」/ Haitajimashinden, Nagaoka City, Niigata Prefecture, 954-0142,<br>"Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8716357,37.5298454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号中之島見附インターチェンジライブカメラ / National highway No. 8 Nakanoshima Mitsuke interchange live camera</name>
+        <description><![CDATA[〒954-0142 新潟県長岡市灰島新田 中之島見附 I.C. 「新潟県IT&ITS推進協議会」/ Nakanoshima Mitsuke I.C., Haiden Nitta, Nagaoka City, Niigata Prefecture, 954-0142, Japan, "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8734227,37.5297406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小木城川脇野町ライブカメラ / Ogijogawa Wakinocho live camera</name>
+        <description><![CDATA[〒940-2306 新潟県長岡市脇野町 「長岡市カメラ監視システム」/ Wakino Town, Nagaoka City, Niigata Prefecture 940-2306, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7883215,37.5026329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川河道閉塞山古志東竹沢ライブカメラ / Imogawa river blockage Yamakoshi Higashitakezawa live camera</name>
+        <description><![CDATA[新潟県長岡市山古志東竹沢「長岡市カメラ監視システム」/ Yamakoshi Higashitakezawa, Nagaoka City, Niigata Prefecture, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9180945,37.3097291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海沿岸部寺泊一里塚ライブカメラ / Teradomari Ichizuka live camera on the coast of the Sea of Japan</name>
+        <description><![CDATA[〒940-2502 新潟県長岡市寺泊一里塚 「長岡市カメラ監視システム」/ Ichizuka Teradomari, Nagaoka City, Niigata Prefecture 940-2502,<br> "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7735585,37.6443712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猿橋川小曽根町ライブカメラ /Saruhashi River Ozone town live camera </name>
+        <description><![CDATA[〒940-0883 新潟県長岡市小曽根町 「長岡市カメラ監視システム」/ Kozone-machi, Nagaoka-shi, Niigata 940-0883, "Nagaoka-shi camera monitoring system"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8830627,37.4651877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川与板町与板ライブカメラ / Kurokawa Yoita Town Yoita Live Camera</name>
+        <description>〒940-2402 新潟県長岡市与板町与板  「長岡市カメラ監視システム」/ Yoita, Yoita-cho, Nagaoka-shi, Niigata, 940-2402, Japan “Nagaoka-shi camera monitoring system”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.806066,37.5375129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>魚野川東川口ライブカメラ / Uonogawa Higashikawaguchi Live Camera</name>
+        <description>新潟県長岡市東川口 「長岡市カメラ監視システム」/ Higashikawaguchi, Nagaoka City, Niigata Prefecture “Nagaoka City Camera Monitoring System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8610701,37.268381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道291号山古志トンネルライブカメラ / National highway No. 291 Yamakoshi tunnel live camera</name>
+        <description><![CDATA[新潟県長岡市 山古志トンネル 「長岡市カメラ監視システム」/ Yamakoshi Tunnel, Nagaoka City, Niigata Prefecture "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8966791,37.3156978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩谷川熊袋ライブカメラ / Shioyagawa Kumabukuro live camera</name>
+        <description><![CDATA[新潟県長岡市熊袋 「長岡市カメラ監視システム」/ Kumanofukuro, Nagaoka City, Niigata Prefecture "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0381065,37.4996476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋海川深沢ライブカメラ / Shibumi River Fukasawa Live Camera</name>
+        <description><![CDATA[新潟県長岡市深沢町 「長岡市カメラ監視システム」/ Fukasawa Town, Nagaoka City, Niigata Prefecture, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7788808,37.4020745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋海川不動沢ライブカメラ / Shibumi River Fudosawa Live Camera</name>
+        <description><![CDATA[新潟県長岡市不動沢 「長岡市カメラ監視システム」/ Fudozawa, Nagaoka City, Niigata Prefecture "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7519193,37.3643553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>種苧原山古志寺野ライブカメラ / Tanesuhara Yamakoshi Terano Live Camera</name>
+        <description><![CDATA[〒947-0201 新潟県長岡市山古志種苧原 「長岡市カメラ監視システム」/ Yamakoshi Tanesuhara, Nagaoka City, Niigata Prefecture 947-0201 "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9316268,37.3516515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷田川猫興野ライブカメラ / Kariyata River Nekogoya live camera</name>
+        <description>〒954-0123 新潟県長岡市猫興野 「長岡市カメラ監視システム」/ Nekogoya, Nagaoka City, Niigata Prefecture 954-0123, “Nagaoka City Camera Monitoring System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.876021,37.5516553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刈谷田川栃尾原町ライブカメラ / Kariyata River Tochohara Town Live Camera</name>
+        <description><![CDATA[〒940-0134 新潟県長岡市栃尾原町 「長岡市カメラ監視システム」/  Tochiohara Town, Nagaoka City, Niigata Prefecture, 940-0134 "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9968789,37.4837608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川今井ライブカメラ / Ota River Imai Live Camera</name>
+        <description>〒940-1166 新潟県長岡市今井 「長岡市カメラ監視システム」/ Imai, Nagaoka City, Niigata Prefecture, 940-1166, Japan “Camera monitoring system for Nagaoka City”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.830587,37.4254289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川豊詰町ライブカメラ / Ota River Toyozume Town Live Camera</name>
+        <description><![CDATA[〒940-1142 新潟県長岡市豊詰町 「長岡市カメラ監視システム」/  Toyozume Town, Nagaoka City, Niigata Prefecture 940-1142, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8414798,37.4101365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新潟県道23号柏崎高浜堀之内線羽黒トンネルライブカメラ / Niigata Prefecture Route 23 Kashiwazaki Takahama Horinouchi Line Haguro Tunnel Live Camera</name>
+        <description><![CDATA[新潟県長岡市山古志南平「長岡市カメラ監視システム」/ Nanpei Yamakoshi, Nagaoka City, Niigata Prefecture "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9017586,37.329371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栖吉川干場ライブカメラ / Suyoshi River Hoshiba Live Camera</name>
+        <description><![CDATA[新潟県長岡市干場 「長岡市カメラ監視システム」/ Hoshiba, Nagaoka City, Niigata Prefecture,  "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8631099,37.4518586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栖吉川長倉町ライブカメラ /   Suyoshigawa Nagakuramachi Live Camera</name>
+        <description><![CDATA[〒940-0826 新潟県長岡市長倉町 「長岡市カメラ監視システム」/ Nagakura Town, Nagaoka City, Niigata Prefecture 940-0826, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8741362,37.4335648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柿川呉服町ライブカメラ / Kaki River Gofuku Town Live Camera</name>
+        <description><![CDATA[〒940-0056 新潟県長岡市呉服町 「長岡市カメラ監視システム」/ Gofu Town, Nagaoka City, Niigata Prefecture 940-0056, "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8501467,37.4530152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柿川殿町ライブカメラ / Kakigawa Tonomachi Live Camera</name>
+        <description><![CDATA[新潟県長岡市殿町 「長岡市カメラ監視システム」/ Tonomachi, Nagaoka City, Niigata Prefecture "Nagaoka City Camera Monitoring System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8500805,37.4453092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号日越ライブカメラ / National highway No. 8 Higoshi live camera</name>
+        <description><![CDATA[〒940-2138 新潟県長岡市大字日越１４０２ 「新潟県IT&ITS推進協議会」/ 1402 Higoshi, Nagaoka City, Niigata Prefecture 940-2138 “Niigata IT & ITS Promotion Council”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7812869,37.4429457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡市栃尾支所ライブカメラ / Nagaoka City Tochio Branch Live Camera</name>
+        <description><![CDATA[〒940-0221 新潟県長岡市金町２丁目１−５ 長岡市栃尾支所 「新潟県IT&ITS推進協議会」/ Nagaoka City Tochio Branch, 2-5 Kanamachi, Nagaoka City, Niigata Prefecture 940-0221,  "Niigata IT & ITS Promotion Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9926837,37.4803766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高志台展望台ライブカメラ / Koshidai Observatory Live Camera</name>
+        <description>〒940-8532 新潟県長岡市西片貝町888番地 長岡工業高等専門学校 / Nagaoka National College of Technology, 888, Nishikatagai-cho, Nagaoka-shi, Niigata 940-8532, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.889226,37.432764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道116号寺泊ライブカメラ / National highway No. 116 Teradomari live camera</name>
+        <description><![CDATA[〒959-0141 新潟県長岡市寺泊敦ケ曽根 「長岡国道事務所」/ Teradomari Tsurugazone, Nagaoka City, Niigata Prefecture, 959-0141, Japan<br>"Nagaoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8276793,37.6163448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関越自動車道長岡南越路SICライブカメラ / Kanetsu Expressway Nagaoka MinamiKoshiji SIC Live Camera</name>
+        <description><![CDATA[〒949-5406 新潟県長岡市浦 長岡南越路スマートIC 「NEXCO東日本」/ Ura, Nagaoka 949-5406, Niigata Prefecture, Nagaoka Minamikoshi Road Smart IC, "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7922453,37.3930743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号長岡市上除町ライブカメラ</name>
+        <description><![CDATA[〒940-2033 新潟県長岡市上除町 「長岡国道事務所」/ Kaminozoki-machi, Nagaoka City, Niigata Prefecture 940-2033, "Nagaoka National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7893105,37.4574801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR長岡駅発車時刻案内板ライブカメラ / JR Nagaoka Station departure time information board Live camera</name>
+        <description><![CDATA[〒940-0061 新潟県長岡市城内町２丁目７　長岡駅 「東日本旅客鉄道新潟支社」/ Nagaoka Station, 2-7 Jonaicho, Nagaoka City, Niigata Prefecture 940-0061,  "East Japan Railway Niigata Branch"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8540467,37.448014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR中条駅中条駅観光交流室ライブカメラ</name>
+        <description><![CDATA[〒959-2631 新潟県胎内市表町７ JR中条駅 「中条駅観光交流室」<br>https://livecamera.fujiyamasan.com/niigata-tainai-jrnakajo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3982778,38.0500547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西之沢川西ライブカメラ / Nishinosawa River West Live Camera</name>
+        <description><![CDATA[〒959-4407 新潟県東蒲原郡阿賀町西 「新潟県河川防災情報システム」/ Nishi, Aga-machi, Higashikambara-gun, Niigata 959-4407<br>"Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agamachi-nishinosawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4141316,37.6803027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川深戸ライブカメラ / Agano River Fukado Live Camera</name>
+        <description><![CDATA[〒959-4302 新潟県東蒲原郡阿賀町鹿瀬 「新潟県河川防災情報システム」/ Kanose, Aga-machi, Higashikambara-gun, Niigata 959-4302 "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-agano-fukado.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4767734,37.7153596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿賀野川実川島ライブカメラ / Agano River Sanegawajima Live Camera</name>
+        <description><![CDATA[新潟県東蒲原郡阿賀町豊実「新潟県河川防災情報システム」/ Toyomi, Aga-machi, Higashikambara-gun, Niigata "Niigata River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/niigata-aga-toyomi-agano-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5597385,37.7100415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃尾交番前交差点ライブカメラ / Tochio police box intersection live camera</name>
+        <description><![CDATA[〒940-0204 新潟県長岡市新栄町３丁目「エヌ・シィ・ティ」/  3-chome, Shinsakae-cho, Nagaoka-shi, Niigata 940-0204, "NCT"<br>https://livecamera.fujiyamasan.com/niigata-nagaoka-shineicho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9962136,37.4867309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道17号牛ケ島付近ライブカメラ / National highway No. 17 Ushigashima live camera</name>
+        <description><![CDATA[新潟県長岡市川口牛ケ島 「エヌ・シィ・ティ」/ Kawaguchiushigashima, Nagaoka City, Niigata Prefecture "NCT"<br>https://livecamera.fujiyamasan.com/niigata-r17-ushigashima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.848635,37.2841783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道404号才津西町交差点ライブカメラ / National highway 404 Saizu Nishimachi intersection live camera</name>
+        <description><![CDATA[新潟県長岡市才津西町「エヌ・シィ・ティ」/ Saizu Nishimachi, Nagaoka City, Niigata Prefecture "NCT"<br>https://livecamera.fujiyamasan.com/niigata-r404-saidunishimachi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8040734,37.4361876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号仲村バス停付近ライブカメラ / National highway No. 8 Nakamura bus stop live camera</name>
+        <description><![CDATA[新潟県長岡市宮本東方町 「エヌ・シィ・ティ」/ Miyamotohigashikata Town, Nagaoka City, Niigata Prefecture "NCT"<br>https://livecamera.fujiyamasan.com/niigata-r8-nakamura-busstop.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.7407084,37.4407985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長岡駅東口通りライブカメラ / Nagaoka Station East Exit Street Live Camera</name>
+        <description><![CDATA[新潟県長岡市美沢3丁目「エヌ・シィ・ティ」/ 3-chome Misawa, Nagaoka City, Niigata Prefecture "NCT"<br>https://livecamera.fujiyamasan.com/niigata-nakgaoka-misawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8680886,37.4450337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>追廻橋交差点ライブカメラ / Oimawashi bridge intersection live camera</name>
+        <description><![CDATA[新潟県長岡市殿町「エヌ・シィ・ティ」/ Tonomachi, Nagaoka City, Niigata Prefecture "NCT"<br>https://livecamera.fujiyamasan.com/niigata-nagaoka-oimawashibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.8487469,37.4449996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR羽越本線ライブカメラ / JR Uetsu Main Line Live Camera</name>
+        <description><![CDATA[新潟県新発田市 「absnya」/ Shibata City, Niigata Prefecture, "absnya"<br>https://livecamera.fujiyamasan.com/niigata-shibata-uetsu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3339404,37.9418752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田城址公園ライブカメラ / Takada Castle Ruins Park Live Camera</name>
+        <description><![CDATA[〒943-0835 新潟県上越市本城町４４−１ 高田城址公園 「上越ケーブルビジョン」/ Takada Castle Ruins Park, 44-1 Motoshiro-cho, Joetsu-shi, Niigata 943-0835,  "Joetsu Cable Vision"<br>https://livecamera.fujiyamasan.com/joetsu-takadajo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2548332,37.1078867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関川高田公園西堀ライブカメラ / Sekigawa Takada Park Nishibori Live Camera</name>
+        <description><![CDATA[〒943-0835 新潟県上越市本城町　高田城址公園「高田河川国道事務所」/ Takada Castle Ruins Park, Motoshiro-cho, Joetsu City, Niigata Prefecture 943-0835<br>"Takada River National Highway Office"<br>https://livecamera.fujiyamasan.com/joetsu-takada-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.2523441,37.1092899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信濃川下山田ライブカメラ / Shinano River Shimoyamada Live Camera</name>
+        <description><![CDATA[〒950-1101 新潟県新潟市西区山田 「新潟県IT&ITS推進協議会」/ Yamada, Nishi-ku, Niigata City, Niigata Prefecture 950-1101, ``Niigata IT & ITS Promotion Council''<br>https://livecamera.fujiyamasan.com/niigata-shinano-shimoyamada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0227501,37.8683536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

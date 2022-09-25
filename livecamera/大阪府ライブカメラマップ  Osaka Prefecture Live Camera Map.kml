@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>大阪府ライブカメラマップ / Osaka Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>大阪府内ライブカメラ</name>
+      <Placemark>
+        <name>道路状況ライブカメラ / Road Condition Live Camera</name>
+        <description>〒563-0341 大阪府豊能郡能勢町宿野２８　能勢町役場 / Nose Town Hall, 28 Shukuno, Nose-cho, Toyono-gun, Osaka-fu 563-0341</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4142759,34.9725518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箕面大滝ライブカメラ / Minoh Waterfall Live Camera</name>
+        <description>〒562-0002 大阪府箕面市箕面公園 / Minohkoen, Minoh-shi, Osaka 562-0002</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4720259,34.8535201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウォンバットライブカメラ / Wombat Webcam</name>
+        <description>〒563-0051 大阪府池田市綾羽２丁目５−３３ 五月山動物園 / Satsukiyama Zoo, 2-5-33 Ayaha, Ikeda-shi, Osaka 563-0051</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4254198,34.8304674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猪名川ライブカメラ / Ina River Live Camera</name>
+        <description>〒563-0027 大阪府池田市上池田２丁目２−３９　国土交通省近畿地方整備局猪名川河川事務所 / Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau Inagawa River Office, 2-2-39 Ueikeda, Ikeda-shi, Osaka-fu 563-0027</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4326936,34.8222691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高槻市の空模様 / The Weather of Takatsuki City</name>
+        <description>〒569-0067 大阪府高槻市桃園町２−１ 高槻市役所本館 / Takatsuki City Hall Main Building, 2-1 Toen-cho, Takatsuki-shi, Osaka-fu 569-0067</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6173962,34.8461154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪薬科大学ライブカメラ / Osaka University Pharmaceutical Sciences Live Camera</name>
+        <description>〒569-1041 大阪府高槻市奈佐原４−２０−１ / 4-20-1 Nasahara, Takatsuki-shi, Osaka-fu 569-1041</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5745506,34.8637852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京阪御殿山駅付近 / Keihan Gotenyama Station</name>
+        <description>〒573-1178 大阪府枚方市渚西１丁目４３−１ 近畿情報高等専修学校 / Kinki Information High Vocational School, 1-43-1 Nagisanishi, Hirakata-shi, Osaka-fu 573-1178</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.653944,34.8303792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>淀川河川事務所ライブカメラ / Yodogawa River Office Live Camera</name>
+        <description>〒573-1191 大阪府枚方市新町２丁目２−１０ / 2-2-10 Shinmachi, Hirakata-shi, Osaka 573-1191</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6433868,34.8160578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太陽の塔 / Tower of the Sun</name>
+        <description><![CDATA[〒565-0826 大阪府吹田市千里万博公園１０−１３ / Expo70's Commemorative Park, 10-13 Senribanpakukoen, Suita-shi, Osaka-fu 565-0826<br>https://livecamera.fujiyamasan.com/osaka-suita-bampaku.html]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5332875,34.8089409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪府民の森ほしだ園地 / Osakafuminnomori Hoshidaenchi Live Camera</name>
+        <description>〒576-0011 大阪府交野市大字星田５０１９−１府民の森ほしだ園地  / Osakafuminnomori Hoshidaenchi, 5019 Hoshida, Katano-shi, Osaka 576-0011</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6857624,34.7507744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊丹市の空ライブカメラ / ITAMI SKY VIEW Live Camera</name>
+        <description><![CDATA[兵庫県伊丹市 「ITAMI SKY VIEW」/ Itami-shi, Hyogo, "ITAMI SKY VIEW Channel"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4009097,34.7843478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪国際空港（伊丹空港）ライブカメラ / Osaka International Airport (Itami Airport) Live Camera</name>
+        <description><![CDATA[〒560-0036 大阪府豊中市螢池西町３丁目５５５ 大阪国際空港　「JAL天気情報」 / Osaka International Airport, 3-555 Hotarugaikenishi-machi, Toyonaka-shi, Osaka-fu 560-0036, "JAL Weather Information"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4401494,34.7879234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪空港ライブカメラ / Osaka Airport Live Camera</name>
+        <description>〒560-0036 大阪府豊中市螢池西町３丁目５５５　大阪国際空港 / Osaka International Airport, 3-555 Hotarugaikenishi-machi, Toyonaka-shi, Osaka-fu 560-0036 </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4380895,34.7895799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川河川事務所 / Yamato River Office</name>
+        <description>〒583-0001 大阪府藤井寺市川北３丁目８−３３ / 3-8-33 Kawakita, Fujiidera-shi, Osaka 583-0001</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6178522,34.5833337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ピーテック社窓からの風景 / Landscape from P-techCo.,ltd. window</name>
+        <description>〒577-0013 大阪府東大阪市長田中1-1-14 アルテール長田1001 株式会社ピーテック / P-techCo.,ltd., Artale Nagata 1001, 1-1-14 Nagatanaka, Higashiosaka-shi, Osaka 577-0013</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5883238,34.6780739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東大阪ビュー WEBカメラ / Higashiosaka View Web Camera</name>
+        <description>〒577-0011 大阪府東大阪市荒本北１丁目１−１−1 東大阪市役所 20F 公明党控室 / Komeito Hikaeshitsu, Higashiosaka City Hall 20F, 1-1-1 Aramotokita, Higashiosaka-shi, Osaka-fu 577-0011</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.600898,34.679327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東大阪ビューウェブカメラ / Higashiosaka View Webcamera</name>
+        <description>〒578-8521　東大阪市荒本北1-1-1 東大阪市役所20F　公明党控室 / Higashi Osaka Sigikai Komeito, Higashiosaka City Hall 20F, 1-1-1 Aramotokita, Higashiosaka-shi 578-8521</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6009007,34.6793114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京阪千林駅付近 / Keihan Senbayashi Station</name>
+        <description>〒535-0021 大阪府大阪市旭区清水１丁目１−６ 東洋ファッションデザイン専門学校 / Oriental Fashion Design College, 1-1-6 Shimizu, Asahi-ku, Osaka-shi, Osaka-fu 535-0021</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5536079,34.7214385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新御堂筋ライブカメラ / Shinmidousuji Live Camera</name>
+        <description><![CDATA[大阪府大阪市淀川区西中島３丁目１７ 新御堂筋 「hd kansai」 / Shinmidousuji, 3-27 Nishinakajima, Yodogawa-ku, Osaka-shi, Osaka, "hd kansai channel"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4987578,34.7259435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新大阪ライブカメラ / Shin-Osaka Station Live Camera</name>
+        <description>大阪府大阪市淀川区西中島　新大阪駅 「BGV Cam」/ Shin-Osaka Station, Nishinakajima, Yodogawa-ku, Osaka-shi, Osaka</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5002547,34.7334658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅田情報カメラ / Umeda Information Camera</name>
+        <description><![CDATA[〒530-0001 大阪府大阪市北区梅田 「YouTube hd kansai」/ Umeda, Kita-ku, Osaka-shi, Osaka-fu 530-0001, "YouTube hd kansai"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4944489,34.6990648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪ライブ配信梅田、大阪城方面・情報カメラ（Osaka Live Stream 4）/ Osaka live distribution Umeda, Osaka castle area, information camera</name>
+        <description>大阪府大阪市北区梅田 「osaka sky livecam」 / Umeda, Kita-ku, Osaka </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4957339,34.7005588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中之島方面・大阪城方面ライブカメラ / Nakanojima and Osaka-jo Castle Live Cameras</name>
+        <description>〒540-6591 大阪府大阪市 中央区大手前1−7−31　大阪マーチャンダイズ・マート / Osaka Merchandise Mart, 1-7-31 Otemae, Chuo-ku, Osaka-shi, Osaka-fu 540-6591</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5183729,34.690219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庭園ライブカメラ / Garden live camera</name>
+        <description><![CDATA[〒534-0026 大阪府大阪市 都島区網島町9-10 太閤園 / TAIKO-EN, 9-10 Amijima-cho, Miyakojima-ku, Osaka-shi, Osaka 534-0026<br>https://livecamera.fujiyamasan.com/osaka-tsushima-taikoen.html]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5254072,34.6961083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京阪京橋駅ライブカメラ / Keihan Kyobashi Station Live Camera</name>
+        <description>〒534-0025 大阪府大阪市都島区片町２丁目１０−５  ユービック情報専門学校 / UBIK Kyobashi School, 2-10-5 Katamachi, Tsushima-ku, Osaka-shi, Osaka-fu 534-0025</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5296773,34.6952703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>心斎橋筋商店街 / Shinsaibashisuji Shopping Street</name>
+        <description>〒542-0085 大阪府大阪市中央区心斎橋筋２丁目２−２２ 心斎橋筋商店街振興組合 / Shinsaibashi shopping street promotion union, 2-2-22 Shinsaibashisuji, Chuo-ku, Osaka-shi, Osaka 542-0085</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5015355,34.6709336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宗右衛門町商店街ライブカメラ / Soemon-cho Shopping Street Live Camera</name>
+        <description>〒542-0084 大阪府大阪市中央区宗右衛門町４−４ エーデルプラッツェビル2F  宗右衛門町商店街振興組合・事務局 / Shopping district promotion association / secretariat, Edel Plaze Building 2F, 4-4 Soemon-cho, Chuo-ku, Osaka-shi, Osaka-fu 542-0084</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5035218,34.6692761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シリコンハウスライブ中継 / Silicon House Live Streaming</name>
+        <description>〒556-0005 大阪府大阪市浪速区日本橋５丁目８−２６ / Kyohritsu Electronic Industry Co., Ltd., 5-8-26 Nihonbashi, Naniwa-ku, Osaka-shi, Osaka 556-0005</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5060792,34.6581161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一心寺ライブカメラ / Isshin-ji Temple Live Camera</name>
+        <description>〒543-0062 大阪府大阪市天王寺区逢阪２−８−69 / 2-8-69 Osaka, Tennoji-ku, Osaka-shi, Osaka 543-0062</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5108267,34.6530195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>通天閣わくわくランドライブカメラ / Tsutenkaku Wakuwaku Land Live Camera</name>
+        <description>〒556-0002 大阪府大阪市浪速区恵美須東１丁目１８ 通天閣わくわくランド / Tsutenkaku Wakuwaku Land, 1-18 Ebisuhigashi, Naniwa-ku, Osaka-shi, Osaka 556-0002</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5063055,34.6525546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪の空あべのハルカスライブカメラ / Abenoharukas Live Camera</name>
+        <description><![CDATA[〒545-8545 大阪府大阪市 阿倍野区阿倍野筋1−1−43　あべのハルカス 「YouTube」/ Abenoharukas, 1-1-43 Abenosuji, Abeno-ku, Osaka-shi, Osaka-fu 545-8545, "YouTube"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5139714,34.645842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市阿倍野区のライブカメラ1 / Live camera in Abeno-ku, Osaka 1</name>
+        <description>大阪府大阪市阿倍野区 / Abeno-ku, Osaka-shi, Osaka</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5110531,34.6308713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪の風景ライブ配信夜景～朝景～昼景～夕焼け大阪・情報カメラ（Osaka Live Stream 3）/ Scenery of Osaka Live delivery Night view-morning view-Day view-Sunset Osaka Information camera</name>
+        <description>大阪府大阪市阿倍野区 「osaka sky livecam」/ Abeno-ku, Osaka-shi, Osaka</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5110531,34.6308713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪灯台からの映像 / Osaka Lighthouse Live Camera</name>
+        <description>〒552-0021 大阪府大阪市港区築港４丁目１０−３　大阪海上保安監部 / Osaka Coast Guard, 4-10-3 Chikko, Minato-ku, Osaka-shi-Osaka-fu 552-0021</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4306447,34.6532884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>お天気ライブカメラ画像 / Weather Live Camera Image</name>
+        <description>〒559-0034 大阪府大阪市住之江区南港北１丁目２４−２２ いであ（株）大阪支社 / IDEA Consultants Inc. Osaka Branch Office, 1-24-22 Nankokita, Suminoe-ku, Osaka-shi, Osaka559-0034</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4153616,34.642514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神崎川上流のライブカメラ / Live camera in the upper Kanzaki river</name>
+        <description><![CDATA[河川カメラ（豊中市）阪神ケーブルエンジニアリング株式会社 / River Camera in Toyonaka City, "Hanshin Cable Engineering Co., Ltd."]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4798021,34.7367667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八尾空港北西方向(天王寺・六甲山方面) / Northeast direction of Yao Airport (Tennoji / Rokko-shama direction)</name>
+        <description>〒581-0043 大阪府八尾市空港２丁目１２ 共立航空撮影株式会社 / Kyoritsu Air Survey Co.,LTD., 2-12 Kuko, Yao-shi, Osaka 581-0043</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5944204,34.5979247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松原市河川監視システム / Matsubara City River Monitoring System</name>
+        <description>〒580-0043 大阪府松原市阿保１丁目１−１　松原市役所 上下水道管理課上水道管理係 / Matsubara City Hall Water and Water Supply Administration Division Water Supply Administration Office, 1-1-1 Ao, Matsubara-shi, Osaka-fu 580-0043</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5518031,34.5779603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堺太陽光発電所 / Sakai Solar Power Plant</name>
+        <description>〒592-8331 大阪府堺市西区築港新町４丁 堺太陽光発電所 / Sakai Solar Power Plant, 4-cho Chikkoshinmachi, Nishi-ku, Sakai-shi, Osaka 592-8331</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4099274,34.5848883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タケモトピアノ社内ライブカメラ / Takemoto Piano Live Camera</name>
+        <description>〒590-0984 大阪府堺市 堺区神南辺町３丁目１０７−１６　タケモトピアノ / Takemoto Piano, 3-107-17 Kannabe-cho, Sakai-ku, Sakai-shi, Osaka-fu 590-0984</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4708141,34.5870678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪府 堺市 新金岡駅前広場 ライブカメラ / Osaka Sakai City Shinkanaoka Sation Live Camera</name>
+        <description>〒591-8021 大阪府堺市北区新金岡町1−７−２ 新金岡駅 / Shinkanaoka Station, 17-2 Shinkanaoka-cho, Kita-ku, Sakai-shi, Osaka 591-8021 </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5150145,34.5676675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高石大橋ライブカメラ / Takaishiohashi Bridge Live Camera</name>
+        <description>〒592-0001 大阪府高石市高砂１丁目 高石大橋 / Takaishiohashi, 1-chome, Takasago, Takaishi-shi, Osaka 592-0001</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.4255306,34.5278366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛山ライブ映像 / Kongo-san Live Video</name>
+        <description>大阪府南河内郡 / Minamikawachi-gun, Osaka</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6728697,34.4193809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちはや園地LIVE / Chihaya Park Live Camera </name>
+        <description>〒585-0051 大阪府南河内郡 千早赤阪村千早１３１３−２ ちはや星と自然のミュージアム / Chihaya Star and Nature Museum, 1313-2 Chihaya, Chihaya Akasaka-mura, Minamikochi-gun, Osaka 585-0051</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.6775421,34.4109858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関西国際空港ライブカメラ / Kansai International Airport Live Camera</name>
+        <description><![CDATA[〒549-0001 大阪府泉佐野市泉州空港北１　関西国際空港 「JAL 天気情報 空港ライブカメラ」/ Kansai International Airport, 1 Kita, Senshukuko, Izumisano-shi, Osaka-fu 549-0001, "JAL Weather Information  Airport Live Camera"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.2303939,34.4320024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>生駒山カメラ / Mt. Ikoma Camera</name>
+        <description>「おおさか防災ネット」 / Osaka Disaster Prevention Net</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.680294,34.6786055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とっとパーク小島ライブカメラ / Totto Park Koshima Live Camera</name>
+        <description>〒599-0314 大阪府泉南郡岬町多奈川小島４５５−１ / 455-1 Koshima, Tanagawa, Misaki-cho, Sennan-gun, Osaka 599-0314</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.0999069,34.3150841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>淡輪ヨットハーバーライブカメラ / Tannowa-yacht harbor Live Camera</name>
+        <description>〒599-0301 大阪府泉南郡岬町淡輪６１９０ 淡輪ヨットハーバー / Tannowa-yacht harbor, 6190 Tanwa, Misaki-cho, Sennan-gun, Osaka 599-0301</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.1777769,34.3365745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>淀川毛馬排水機場水路淀川側ライブカメラ / Yodogawa Kema drainage pump station waterway Yodogawa side live camera</name>
+        <description>〒531-0063 大阪府大阪市北区長柄東３丁目３−２５ 大阪府西大阪治水事務所 毛馬排水機場 /Osaka Prefectural West Osaka Flood Control Office Kema drainage pumping station, 3-3-25 Nagatsukahigashi, Kita-ku, Osaka-shi, 531- 0063</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5164257,34.7199584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪道頓堀ライブカメラ / Osaka Dotonbori Live Camera</name>
+        <description><![CDATA[〒542-0071 大阪府大阪市中央区道頓堀１丁目９−１ ベルスードビル トンボリステーション「ラジカルビデオジョッキー RVJJP」/ Bell Sudville Tombori Station, 1-9-1 Dotonbori, Chuo-ku, Osaka-shi, Osaka 542-0071, <br>"Radical Video Jockey RVJ JP"<br>https://livecamera.fujiyamasan.com/chuoku-dotonbori.html]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            135.5012224,34.6686766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

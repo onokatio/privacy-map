@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>青森県ライブカメラマップ / Aomori Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>青森県内ライブカメラ</name>
+      <Placemark>
+        <name>いさり火公園ライブカメラ / Isaribi Park Live Camera</name>
+        <description><![CDATA[〒039-4501 青森県下北郡風間浦村下風呂 海峡いさり火公園 「e-下北ネット」/ Isaribi Park, Kazamaura-mura, Shimokita-gun, Aomori 039-4501, "e-Shimokita Net"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.088271,41.470242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜臥山展望台ライブカメラ</name>
+        <description>「e-下北ネット」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1201713,41.2820654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横浜町ライブカメラ / Yokohama Town Live Camera</name>
+        <description>〒039-4145 青森県上北郡横浜町寺下３５　横浜町役場 / Yokohama Town Hall, 35 Terashita, Yokohama-cho, Kamikita-gun, Aomori-ken 039-4145</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.247782,41.083158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍飛埼灯台ライブカメラ / Ryuhizaki Lighthouse</name>
+        <description>青森県東津軽郡外ヶ浜町 青森海上保安部 / Aomori Coast Guard, Sotogahama-cho, Higashitsugaru-gun, Aomori</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3426796,41.2588419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小泊漁港ライブカメラ / Kodomari Fishing Port Live Camera </name>
+        <description><![CDATA[〒037-0300 青森県北津軽郡中泊町小泊小泊１４９ 小泊港 「中泊町役場」 / Kodomari Port, 149 Kodomari, Nakadomari-cho, Kitatsugaru-gun, Aomori-ken 037-0300, "Nakadomari Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.298243,41.131817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下前漁港ライブカメラ / Shitamae Fishing Port Live Camera</name>
+        <description><![CDATA[〒037-0300 青森県北津軽郡中泊町小泊 下前漁港 「中泊町役場」/ Shitamae Fishing Port, Kodomari, Nakadomari-cho, Kitatsugaru-gun, Aomori-ken 037-0300, "Nakadomari Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2672618,41.1207451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴田町役場庁舎からの映像 / View from the government building</name>
+        <description>〒038-3503 青森県北津軽郡鶴田町鶴田早瀬２００−１　鶴田町役場 / Tsuruta Town Hall, 200-1 Tsurutahayase, Tsuruta-cho, Kitatsugaru-gun, Aomori-ken 038-3503</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4284017,40.758847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓬田村防災用ライブカメラ / Yomogita Village Disaster Prevention Web Camera</name>
+        <description>〒030-1211 青森県東津軽郡蓬田村蓬田汐越１−３　蓬田村役場 / Yomogita Village Office, 1-3 Yomogitashiokoshi, Yomogita-mura, Higashitsugaru-gun, Aomori-ken 030-1211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6559655,40.9717175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾駮沼ライブカメラ / Obuchi Pond Live Camera</name>
+        <description>青森県上北郡六ヶ所村尾駮 新むつ小川原株式会社 / Obuchi, Rokkasho-mura, Kamikita-gun, Aomori-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.356449,40.958447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小湊海岸のハクチョウ / Swan in Kominato Coast</name>
+        <description><![CDATA[青森県東津軽郡平内町大字福館字雷電林17 「インターネット自然研究所」 / 17 Raidenbayashi, Fukudate, Hiranai-machi, Higashitsugaru-gun, Aomori-ken, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.971606,40.940781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あおこくライブ / Aomori National Route Live Camera</name>
+        <description>〒038-0003 青森市大字石江字江渡83-1 青森国道維持出張所 / Aomori national highway maintenance branch office, 83-1 Ishieedo, Aomori-shi 038-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.701295,40.825402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[市民風車わんずライブ映像 / Civil Windmill "Wanzu" Live Video]]></name>
+        <description><![CDATA[〒030-0801 青森県青森市新町２丁目５−５ <br>グリーンエネルギー青森 / Green Energy Aomori, 2-5-5 Shinmachi, Aomori-shi, Aomori-ken 030-0801]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.742092,40.82586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森県庁・国道4号ライブカメラ / Aomori Prefectural Government and National Route 4 Live Camera</name>
+        <description><![CDATA[青森県青森市長島１丁目１−１ 青森県庁　「わがまちかど情報青森」 / Aomori Prefectural Government, 1-1-1 Nagashima, Aomori-shi, Aomori-ken, "Our Street Information Aomori"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.739911,40.824068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳町通り山手（中央大橋方面向き） / Yanagimachi Street Live Camera</name>
+        <description><![CDATA[青森県青森市中央１丁目１−２９ 青森日商連 「青森ITSクラブ」 / Aomori Nisshoren, 1-1-29 Chuo, Aomori-shi, Aomori-ken, "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.745576,40.822682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森のかわとみち / Rivers and Roads in Aomori</name>
+        <description>〒030-0822 青森県青森市中央３丁目２０−３８国土交通省 東北地方整備局 青森河川国道事務所 / Aomori office of River and National Highway, 3-20-38 Chuo, Aomori-shi, Aomori-ken 030-0822</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.749176,40.816911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森市街ライブカメラ / Aomori City Live Camera</name>
+        <description>〒030-8686 青森県青森市松森１丁目４−８ 青森テレビＡＴＶ / ATV AOMORI TELEVISION BROADCASTING CO., 1-4-8 Matsumori, Aomori-shi, Aomori-ken 030-8686</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.768278,40.81972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森市ABAライブカメラ / Aomori City ABA Live Camera</name>
+        <description>〒030-0111 青森県青森市荒川柴田１２５−１ 青森朝日放送（株）本社 / Aomori Asahi Broadcasting Co., 125-1 Arakawashibata, Aomori-shi, Aomori-ken 030-0111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7393331,40.786314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森空港ライブカメラ / Aomori Airport Live Camera</name>
+        <description><![CDATA[〒030-0155 青森県青森市大谷小谷1番地5　青森空港管理事務所　「青森県庁」 / Aomori Airport Management Office, 1-5 Otanikotani, Aomori-shi, Aomori-ken 030-0155, " Aomori Prefectural Government Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6897267,40.7385022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酸ヶ湯温泉ライブカメラ / Sukayu Onsen Live Camera</name>
+        <description><![CDATA[〒030-0111 青森県青森市荒川南荒川山国有林酸ケ湯沢５０番地　国民保養温泉地　酸ヶ湯温泉旅館 / Sukayu Onsen Ryokan, 50 Sukayuzawa, Kokuyurin, Arakawayama, Arakawaminami, Aomori-shi, Aomori-ken 00-0111<br>https://livecamera.fujiyamasan.com/sukayu-onsen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8504464,40.6506344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>板柳町ふるさとセンターからの眺望 / View from Itayanagi Town Furusato Center</name>
+        <description><![CDATA[〒038-3661 青森県北津軽郡板柳町福野田本泉<br>板柳町ふるさとセンター / Itayanagi Town Furusato Center, Fukunodamotoizumi, Itayanagi-cho, Kitatsugaru-gun, Aomori-ken 038-3661]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.463166,40.68853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白鳥の飛来地ライブカメラ</name>
+        <description><![CDATA[青森県南津軽郡藤崎町藤崎岡本<br>平川白鳥飛来地]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.490675,40.652578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弘前公園ライブカメラ / Hirosaki Park Live Camera</name>
+        <description><![CDATA[青森県弘前市下白銀町１ 弘前公園追手門側・東門前 「弘前市役所」 / Hirosaki Park Otemon and East Gate, 1 Shimoshirogane-cho, Hirosaki-shi, Aomori-ken, "Hirosaki Park"<br>https://livecamera.fujiyamasan.com/aomori-hirosaki-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.467662,40.609538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弘前城天守閣ライブカメラ / Hirosaki-jo Castle Live Camera</name>
+        <description><![CDATA[〒036-8356 青森県弘前市下白銀町１弘前城 「弘前市役所」/ Hirosaki Castle, 1 Shimoshirogane, Hirosaki-shi, Aomori-ken 036-8356, "Hirosaki City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.464325,40.607632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弘前りんご公園ライブカメラ / Hirosaki apple park live camera</name>
+        <description><![CDATA[〒036-8262 青森県弘前市清水富田寺沢１２５りんご公園 「弘前市役所」/ Hirosaki City Apple Park, 125 Shimizutomitaterasawa, Hirosaki-shi, Aomori-ken 036-8262, "Hirosaki City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.441923,40.588961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大鰐町ライブカメラ / Owani Town Live Camera</name>
+        <description>〒038-0211 青森県南津軽郡大鰐町大鰐羽黒館５−３　大鰐町役場 / Owani Town Hall, 5-3 Owanihagurokan, Owani-cho, Minamitsugaru-gun, Aomori 038-0211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.567837,40.518301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本海と岩木山の眺望 / Mt. Iwaki and the Sea of Japan</name>
+        <description>〒038-2761 青森県西津軽郡鯵ヶ沢町大字舞戸町字鳴戸1　ホテルグランメール山海荘 / Hotel Grand Mer Sankaiso, 1 Naruto, Maitomachi, Ajigasawa-machi, Nishitsugaru-gun, Aomori-ken 038-2761</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2297609,40.7806874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>にしめやライブカメラ / Nishimeya Live Camera</name>
+        <description>〒036-1411 青森県中津軽郡西目屋村田代稲元１４４　西目屋村役場 / Nishimeya Village Office, 144 Tashiroinamoto, Nishimeya-mura, Nakatsugaru-gun, Aomori-ken 036-1411</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.296293,40.576717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三沢空港ライブカメラ / Misawa Airport Live Camera</name>
+        <description>〒 033-0022 青森県三沢市大字三沢字下タ沢83番地198 三沢空港ターミナル株式会社 / Misawa Airport Terminal Co., Ltd., 83-198 Misawashimoyuzawa, Misawa-shi, Aomori-ken 033-0022</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3877006,40.6964693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸港・八戸大橋ライブカメラ / Hachinohe Port and Hachinohe Bridge Live Camera</name>
+        <description>青森県八戸市河原木（大字）海岸 八戸港 「青森テレビ放送」 / Hachinohe Port, Kawaragikaigan, Hachinohe-shi, Aomori-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.506867,40.548081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸中心街ライブカメラ / Hachinohe City Live Camera</name>
+        <description>〒031-0042　青森県八戸市十三日町1番地　ヴィアノヴァビル4F 株式会社八戸テレビ放送 / Hachinohe Cable Television Co., VIANOVA Building 4F, 1 Jusannichi-machi, Hachinohe-shi, Aomori-ken 031-0042</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.488113,40.508611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸国道のみち情報 / Hachinohe National Highway Road Information</name>
+        <description>〒039-1164 青森県八戸市下長１丁目５−４ 東北地方整備局青森河川国道事務所 八戸国道出張所 / Tohoku Regional Development Bureau Aomori River National Route Office Hachinohe National Highway Office, 1-5-4 Shimonaga, Hachinohe-shi, Aomori-ken 039-1164</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4685089,40.5275426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[種差海岸ライブカメラ（民宿石橋） / Tanesashi Coast Live Camera ”Inn Ishibashi"]]></name>
+        <description>〒031-0841 青森県八戸市鮫町棚久保１４−１２ 民宿石橋 / Inn Ishibashi, 14-12 Tanakubo, Same-machi, Hachinohe-shi, Aomori-ken 031-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6080365,40.5074438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八食センター生中継ライブカメラ / Hasshoku Center Live Camera</name>
+        <description>〒039-1161 青森県八戸市河原木字神才２２−２　八食センター / Hasshoku Center, 22-2 Kansai, Kawaragi, Hachinohe-shi, Aomori-ken 039-1161</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4527773,40.5264794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森県南部町剣吉荒町ライブカメラ / Aomori Prefecture Nanbu Town Kenyoshiaramachi Live Camera</name>
+        <description><![CDATA[〒039-0612 青森県三戸郡南部町剣吉荒町 「南部町文化サポーター」 / Kenyoshiaramachi, Nanbu-cho, Sannohe-gun, Aomori-ken 39-0612, "Nanbu Town Cultural Supporters"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3427168,40.4451028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白銀水道公園 / Shirogane Suido Park</name>
+        <description>〒031-0822青森県八戸市白銀町雷35-10 白銀水道公園 「八戸テレビ放送」/ Shirogane Suido Park, 35-10 Kaminari, Shirogane-cho, Hachinohe-shi, Aomori-ken 031-0822</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5555254,40.520891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>階上町ライブカメラ / Hashikami Town Live Camera</name>
+        <description>〒039-1201 青森県三戸郡階上町大字道仏字天当平１−８７　階上町役場 / Hashikami Town Hall, 1-87 Doubutsutentotai, Hashikami-cho, Sannohe-gun, Aomori-ken 039-1201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6208986,40.4524207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北里大学獣医学部ネットワークカメラ / School of Veterinary Medicine Network Camera</name>
+        <description>〒034-8628 青森県十和田市東二十三番町35−1　北里大学獣医学部 / Kitasato University School of Veterinary Medicine, 35-1 Higashinijusanban-cho, Towada-shi, Aomori-ken 034-8628</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.237144,40.624637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六戸ライブカメラ / Rokunohe Live Camera</name>
+        <description>〒039-2371 青森県上北郡六戸町犬落瀬前谷地６０　六戸町役場 / Rokunohe Town Hall, 60 Maeyachi, Inuotose, Rokunohe-machi, Kamikita-gun, Aomori-ken 039-2371</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.324957,40.609526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十和田湖休屋地区ライブカメラ / Lake Towada Live Camera</name>
+        <description><![CDATA[青森県十和田市十和田湖 「十和田市役所」 / Towadako, Towada-shi, Aomori-ken, "Towada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.892448,40.432706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢立峠各所ライブカメラ / Yatate Pass Live Camera</name>
+        <description>一般国道7号（矢立峠）最新道路情報案内「矢立NAVI」/ National Highway No. 7 (Yatate Pass) latest road information guide</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.626433,40.4211107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川ライブカメラ / Iwaki River Live Camera</name>
+        <description>〒037-0074 青森県五所川原市岩木町１０ 東北地方整備局青森河川国道事務所 五所川原出張所 / Tohoku Regional Development Bureau Aomori River National Highway office Goshogawara branch office, 10 Iwaki-cho, Goshogawara-shi, Aomori-ken 037-0074</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4399045,40.8070837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名勝仏ヶ浦ライブカメラ</name>
+        <description>〒039-4712 下北郡佐井村長後 仏ヶ浦</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8014757,41.307438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白神山地ライブカメラ / Shirakami Mountains Live Camera</name>
+        <description>〒036-1424 青森県中津軽郡西目屋村川原平 白神山地</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1645095,40.4568626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川新妙見橋ライブカメラ / Tsutsumi River Shin-Myokenbashi live camera</name>
+        <description><![CDATA[青森県青森市妙見1丁目「国土交通省河川情報センター」/ 1-chome, Myoken, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7602317,40.7930663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沼川第一下海原橋ライブカメラ / Numa River Daiichi Shimounabara Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市原別4丁目「国土交通省河川情報センター」/ 4-chome Harabetsu, Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8078653,40.8379499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野内川滝沢ライブカメラ / Nonai River Takisawa Live Camera</name>
+        <description><![CDATA[青森県青森市滝沢下川原 「国土交通省河川情報センター」/  Takisawa Shimokawara , Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.869421,40.8234404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野内川新野内橋ライブカメラ / Nonai River Shinnonai Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市八幡林品川 「国土交通省河川情報センター」/ Yahatabayashi Shinagawa, Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8237252,40.8370796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥内川豊源橋ライブカメラ / Okuuchi River Hougen Bridge live camera</name>
+        <description><![CDATA[青森県青森市奥内宮田 「国土交通省河川情報センター」/ Okuuchi Miyata, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6637185,40.8890891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六枚橋川六枚橋ライブカメラ / Rokumaibashi River Rokumai Bridge live camera</name>
+        <description><![CDATA[青森県青森市六枚橋 「国土交通省河川情報センター」/ Rokumaibashi, Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6461909,40.9271968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天田内川油川ライブカメラ / Amadanai River Aburagkawa Live Camera</name>
+        <description><![CDATA[青森県青森市油川船岡 「国土交通省河川情報センター」/ Aburakawa Funaoka,  Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6936078,40.8499815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新城川新城ライブカメラ / Shinjo River Shinjo live camera</name>
+        <description><![CDATA[青森県青森市新城平岡「国土交通省河川情報センター」/ Shinjo Hiraoka, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6647111,40.8254872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大釈迦川大釈迦橋ライブカメラ / Daishaka River Daishaka Bridge Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市浪岡大釈迦山田 「国土交通省河川情報センター」/ Namioka Daishasha Yamada, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5914898,40.760054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤川佐野橋ライブカメラ / Akakawa Sanobashi live camera</name>
+        <description><![CDATA[青森県青森市浪岡浪岡佐野 「国土交通省河川情報センター」/ Namioka Namioka Sano, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5905706,40.7208427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本郷川櫛杉橋ライブカメラ / Hongo River Kushisugibashi Live Camera</name>
+        <description><![CDATA[青森県青森市浪岡本郷松元 「国土交通省河川情報センター」/ Matsumoto, Namioka Hongo, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6203692,40.6944155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖館川沖館川下流ライブカメラ / Okidate River Lower Okidate River Live Camera</name>
+        <description><![CDATA[青森県青森市篠田3丁目 「国土交通省河川情報センター」/ 3, Shinoda, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7200921,40.828747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖館川遊水地外水位ライブカメラ / Okidate River Yusuichigai water level live camera</name>
+        <description><![CDATA[〒038-0031 青森県青森市三内沢部 「国土交通省河川情報センター」/ Sannaisawabe,  Aomori City, Aomori Prefecture 038-003, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.691883,40.8153375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川大野ライブカメラ / Tsutsumi Ohno live camera</name>
+        <description><![CDATA[青森県青森市高田川瀬 「国土交通省河川情報センター」/ Takada Kawase, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.725426,40.7705939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川甲田橋ライブカメラ / Tsutsumi River Kodabashi Live Camera</name>
+        <description><![CDATA[青森県青森市花園1丁目 「国土交通省河川情報センター」/ 1-chome, Hanazono, Aomori City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7657369,40.8216634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川大柳辺ライブカメラ / Tsutsumi River Oyanabe Live Camera</name>
+        <description><![CDATA[青森県青森市野沢川部 「国土交通省河川情報センター」/ Nozawa Kawabe, Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7422656,40.7246724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤川はまなす公園ライブカメラ / Akakawa Hamanasu Park Live Camera</name>
+        <description><![CDATA[〒030-0919 青森県青森市はまなす１丁目９−２２ はまなす公園 「国土交通省河川情報センター」/ Hamanasu Park, 1-9-22 Hamanasu, Aomori City, Aomori 030-0919, Japan,   "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7956426,40.8239484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅虫川銀杏橋ライブカメラ / Asamushi River Icho Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市浅虫山下 「国土交通省河川情報センター」/ Asamushi Yamashita, Aomori City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8648226,40.8873825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABA青森朝日放送ライブカメラ / ABA Aomori Asahi Broadcasting Live Camera</name>
+        <description><![CDATA[〒030-0155 青森県青森市大字大谷小谷１−５　青森空港 「ABA青森朝日放送」/ Aomori Airport,  1-5 Otani Otani, Aomori City, Aomori Prefecture, 030-0155, Japan, "ABA Aomori Asahi Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6901339,40.7355565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATV青森空港ライブカメラ / ATV Aomori Airport Live Camera</name>
+        <description>〒030-0155 青森県青森市大字大谷小谷１−５ 青森空港ビル（株）「青森テレビ(ATV)」/ Aomori Television Building (ATV), 1-5 Otani Otani, Aomori City, Aomori Prefecture, 030-0155, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6891813,40.7382484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天田内川天田内川水位観測所ライブカメラ / Amadanai River Amadanai River Water Level Observatory Live Camera</name>
+        <description><![CDATA[青森県青森市新城天田内 「青森県河川砂防情報提供システム」/ Shinjo Amadanai, Aomori City, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6811452,40.8389163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浪岡川川原町橋ライブカメラ / Namioka River Kawaramachi Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市浪岡浪岡岡田「青森県河川砂防情報提供システム」/ Namioka  Namioka Okada,  Aomori City, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5961812,40.7131337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAB青森ライブカメラ / RAB Aomori Live Camera</name>
+        <description>〒030-0965 青森県青森市松森１丁目８−１ＲＡＢ青森放送（株）/ RAB Aomori Broadcasting Co., Ltd. 1-8-1 Matsumori, Aomori City, Aomori Prefecture  030-0965, </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7711931,40.8184059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAB青森空港ライブカメラ / RAB Aomori Airport Live Camera</name>
+        <description><![CDATA[〒030-0155 青森県青森市大字大谷小谷１−５青森空港 「青森放送(RAB)」/ Aomori Airport, 1-5 Otani-Kotani, Aomori-shi, Aomori Prefecture 030-0155,  "Aomori Broadcasting (RAB)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6910565,40.7360767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八甲田山地獄沼ライブカメラ / Hakkoda Mountain Jigokunuma Live Camera</name>
+        <description><![CDATA[〒030-0111 青森県青森市大字荒川南荒川山国有林酸ヶ湯沢 地獄沼 「気象庁」/ Jigokunuma,   Arakawa Minami Arakawayama Kokuyurin Sukayuzawa,  Aomori City, Aomori Prefecture 030-0111, "The Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8545033,40.6473978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川荒川橋ライブカメラ / Tsutsumi River Arakawa Bridge Live Camera</name>
+        <description>青森県青森市金浜稲田「青森県県土整備部河川砂防課」/ Kanamahama Inada, Aomori City, Aomori Prefecture “Aomori Prefecture Soil Maintenance Department River Sabo Division”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7359915,40.7797341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川牛館川合流点ライブカメラ / Tsutsumi River Ushidate River Confluence Live Camera</name>
+        <description><![CDATA[青森県青森市牛館 「青森県県土整備部河川砂防課」/ Ushidate, Aomori City, Aomori Prefecture, <br>"Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7463774,40.7831919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川問屋橋ライブカメラ / Tsutsumi River Tonya bridge live camera</name>
+        <description><![CDATA[青森県青森市問屋町1丁目 「青森県県土整備部河川砂防課」/  1-chome, Tonyamachi,  Aomori City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.752358,40.7887128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川横内川合流点ライブカメラ</name>
+        <description><![CDATA[青森県青森市筒井八ツ橋 「青森県県土整備部河川砂防課」/ Tsutsuiyatsuhashi, Aomori City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7636476,40.796067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川筒井小学校付近ライブカメラ / Live camera near Tsutsumi River sutsui Elementary School </name>
+        <description><![CDATA[青森県青森市筒井1丁目 「青森県県土整備部河川砂防課」/ 1-chome Tsutsui, Aomori City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7634551,40.808596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤川駒込川合流点ライブカメラ / Tsutsumi River Komagome River Confluence Live Camera</name>
+        <description><![CDATA[青森県青森市松原3丁目 「青森県県土整備部河川砂防課」/ 3-chome, Matsubara, Aomori City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7666582,40.818442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒込川南桜川橋ライブカメラ / Komagome River Minami Sakuragawa Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市桜川9丁目 「青森県県土整備部河川砂防課」/ 9-chome, Sakuragawa, Aomori-shi, Aomori "River Sabo Division, Aomori Prefecture Soil Maintenance Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7767797,40.8084613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒込川駒込川橋ライブカメラ / Komagome River Komagome River Bridge Live Camera</name>
+        <description><![CDATA[青森県青森市筒井桜川 「青森県県土整備部河川砂防課」/ Tsutsui Sakuragawa, Aomori City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7782616,40.7978534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道徳才子ライブカメラ / Tsugaru Expressway Tokiko Live Camera </name>
+        <description><![CDATA[青森県青森市浪岡徳才子 「青森河川国道事務所」/ Namiokatokusaishi, Aomori City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5785158,40.7545106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号鶴ヶ坂管理境ライブカメラ / National highway No. 7 Tsurugasaka management boundary live camera</name>
+        <description><![CDATA[〒038-0045 青森県青森市鶴ケ坂山本 「青森河川国道事務所」/ Tsurugasaka Yamamoto, Aomori City, Aomori Prefecture 038-0045 ,<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6187942,40.7807571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号浪岡バイパス大釈迦ライブカメラ / National highway No. 7 Namioka bypass Oshaka live camera</name>
+        <description><![CDATA[〒038-1301 青森県青森市浪岡大字大釈迦 「青森河川国道事務所」/ Daishaka, Namioka, Aomori City, Aomori Prefecture 038-1301, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5906344,40.7668482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ジェットファクトリー青森湾ライブカメラ / Jet Factory Aomori Bay Live Camera</name>
+        <description>〒039-3524 青森県青森市滝沢住吉１−８ ジェットファクトリー / Jet Factory, 1-8 Takizawa  Sumiyoshi, Aomori-shi, Aomori 039-3524</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.849194,40.830651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みちのく有料道路新赤沢橋ライブカメラ / Michinoku Toll Road New Akazawa Bridge Live Camera</name>
+        <description><![CDATA[〒039-3524 青森県青森市大字滝沢 新赤沢橋 「青森県幹線道路協議会」/ Shin-Akazawa Bridge,  Takizawa, Aomori City, Aomori Prefecture 039-3524,"Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9426734,40.7896984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道394号城ヶ倉大橋ライブカメラ / National highway No. 394 Jogakura Ohashi live camera </name>
+        <description><![CDATA[〒030-0111 青森県青森市大字荒川寒水沢 城ヶ倉大橋 「青森県幹線道路協議会」/ Jogakura Ohashi, Arakawa Kanmizuzawa, Aomori City, Aomori Prefecture 030-0111, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8260168,40.650832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道103号萱野茶屋ライブカメラ / National Route 103 Kayano Chaya Live Camera</name>
+        <description><![CDATA[〒030-0132 青森県青森市横内八重菊 「青森県幹線道路協議会」/ Yokouchi Yaegiku, Aomori City, Aomori Prefecture 030-0132, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8269842,40.7033017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号新野内橋ライブカメラ / National highway No. 4 Shinnouchibashi live camera</name>
+        <description><![CDATA[青森県青森市大字八幡林品川 新野内橋 「国土交通省東北地方整備局青森河川国道事務所」/ Shinnouchi Bridge, Yahatabayashi Shinagawa, Aomori City, Aomori Prefecture, "Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8234951,40.837426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号環状戸山ライブカメラ / National Route 7 Loop Toyama Live Camera</name>
+        <description>青森県青森市戸山 「国土交通省東北地方整備局青森河川国道事務所」/ Toyama, Aomori City, Aomori Prefecture, “Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism Aomori River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8068796,40.8062315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号古川跨線橋ライブカメラ / National highway 7 Furukawa Kosenkyo live camera</name>
+        <description><![CDATA[〒038-0015 青森県青森市千刈１丁目 「青森河川国道事務所」/ 1-chome, Chikari, Aomori City, Aomori Prefecture 038-0015, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7273616,40.824136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号久栗坂ライブカメラ / National highway No. 4 Kugurizaka live camera</name>
+        <description><![CDATA[〒039-3502 青森県青森市大字久栗坂 「青森河川国道事務所」/ Kugurizaka, Aomori City, Aomori Prefecture  039-3502, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8486856,40.8689169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号戸門ライブカメラ / National Road 7 Tokado Live Camera</name>
+        <description><![CDATA[〒038-0046 青森県青森市大字戸門 「青森河川国道事務所」/ Tokado, Aomori City, Aomori Prefecture 038-0046, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6275085,40.8041228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号鶴ケ坂ライブカメラ / National highway No. 7 Tsurugasaka live camera</name>
+        <description><![CDATA[〒038-0045 青森県青森市大字鶴ケ坂 「青森河川国道事務所」/ Tsuruga-saka, Aomori-shi, Aomori 038-0045, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6262201,40.7911952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATV青森テレビ本社岩木山ライブカメラ / ATV Aomori Television Headquarters Iwakiyama Live Camera</name>
+        <description><![CDATA[〒030-0965 青森県青森市松森１丁目４−８ 「ATV青森テレビ」/  1-4-8 Matsumori, Aomori-shi, Aomori 030-0965, "ATV Aomori Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7684619,40.8202292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>環状7号青森中央インター交差点ライブカメラ / Kanjo No. 7 Aomori Chuo Inter intersection live camera</name>
+        <description><![CDATA[〒030-0131 青森県青森市問屋町２丁目１７ 17 2 協同組合青森総合卸センター 「青森ITSクラブ」/ Aomori General Wholesale Center, 2-17-17 Tonya-cho, Aomori-shi, Aomori 030-0131,  "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7548431,40.7877337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央大橋通り大野付近ライブカメラ / Live camera near Chuo Ohashi Street Ono</name>
+        <description><![CDATA[〒030-0852 青森県青森市大字大野若宮１４１−３ 青い森信用金庫 大野支店 「青森ITSクラブ」/ Aoimori Shinkin Bank Ohno Branch,  141-3 Ohno-Wakamiya, Aomori-shi, Aomori  030-0852,  "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7400938,40.8019309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>環状7号駒込交差点ライブカメラ / Kanjo No. 7 Komagome Intersection Live Camera</name>
+        <description><![CDATA[〒030-0955 青森県青森市大字駒込桐ノ沢９−１２ 日本自動車連盟（JAF）青森支部 「青森ITSクラブ」/ Japan Automobile Federation (JAF) Aomori Branch, 9-12 Kirinosawa Komagome, Aomori City, Aomori Prefecture, 030-0955,  "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7812728,40.7984683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明の星通り生協付近ライブカメラ /  Akenohoshi Street near Co-op Live Camera</name>
+        <description><![CDATA[〒030-0964 青森県青森市南佃２丁目１７−６ セリア 青森店「青森ITSクラブ」/ Aomori Ceria Aomori store, 2-17-6 Minamitsuku, Aomori-shi,  Aomori Prefecture 030-0964,  "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.785939,40.816293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤田組通り松森交差点ライブカメラ / Fujita Gumi Street Matsumori intersection live camera </name>
+        <description><![CDATA[〒030-0964 青森県青森市南佃１丁目１−３２渡辺パイプ（株） 青森サービスセンター 「青森ITSクラブ」/Watanabe Pipe Co., Ltd.  Aomori Service Center, 1-32, Minamitsuku, Aomori-shi, Aomori 030-0964, "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.77709,40.81296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松原通り松原交差点ライブカメラ / Matsubara street Matsubara intersection live camera</name>
+        <description><![CDATA[〒030-0813 青森県青森市松原３丁目９−２ 生協あじさい館 「青森ITSクラブ」/ Aomori Co-op Hydrangea Building, 3-9-2 Matsubara, Aomori 030-0813,  "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7627272,40.8167651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ坂千刈線ライブカメラ / Tsurugasaka Senkari Line live camera</name>
+        <description><![CDATA[〒038-0003 青森県青森市大字石江江渡９７−３ 小山内バッテリー社青森店 「青森ITSクラブ」/ Oyamauchi Battery Company Aomori Store, 97-3 Ishie Edo, Aomori City, Aomori Prefecture 038-0003, "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7033082,40.8252061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土淵川上西田橋ライブカメラ / Tsuchibuchi River Kaminishida Bridge Live Camera</name>
+        <description><![CDATA[〒036-8061 青森県弘前市大字神田５丁目 「国土交通省河川情報センター」/ 5 Kanda, Hirosaki City, Aomori Prefecture 036-8061, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4919228,40.6194968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺沢川茂寺橋ライブカメラ / Terasawa River Shigeterabashi Live Camera</name>
+        <description><![CDATA[青森県弘前市 茂寺橋 「国土交通省河川情報センター」/ Shigedera Bridge, Hirosaki City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4545284,40.594449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>後長根川独狐ライブカメラ / Ushironagane River Tokko Live Camera</name>
+        <description><![CDATA[青森県弘前市町田沖田 「国土交通省河川情報センター」/ Machida Okita, Hirosaki City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4483233,40.6370004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>陸奥新報岩木山弘前公園ライブカメラ / Mutsu Shimpo Iwakiyama Hirosaki Park Live Camera</name>
+        <description><![CDATA[〒036-8356 青森県弘前市大字下白銀町２−１ 陸奥新報社 本社 / Mutsu Shinposha Head Office,   2-1 Shimohiragincho, Hirosaki City, Aomori Prefecture 036-8356<br>https://livecamera.fujiyamasan.com/aomori-hirosaki-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4660835,40.6032852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弘前市雪国対応型メガソーラー第1ライブカメラ / Hirosaki City Snow Country Compatible Mega Solar 1st Live Camera</name>
+        <description><![CDATA[青森県弘前市十腰内猿沢 「	ひろさきアップルパワー」/ Tokoshinai Sarusawa, Hirosaki City, Aomori Prefecture,  "Hirosaki Apple Power"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3010618,40.7159002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土淵川寺沢川合流点ライブカメラ / Tobuchigawa Terasawa River Confluence Live Camera </name>
+        <description><![CDATA[青森県弘前市新寺町 「青森県県土整備部河川砂防課」/ Shintera Town, Hirosaki City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4684223,40.5956256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土淵川薬王院橋ライブカメラ / Dobuchigawa Yakuoinbashi live camera</name>
+        <description>青森県弘前市笹森町 「青森県県土整備部河川砂防課」/ Sasamori Town, Hirosaki City, Aomori Prefecture, “Aomori Prefecture Soil Maintenance Department, River Sabo Division”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4747114,40.607071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺沢川寺沢川合流工ライブカメラ / Terasawa River Terasawa River Confluence Live Camera</name>
+        <description><![CDATA[青森県弘前市大字樹木３丁目 「青森県県土整備部河川砂防課」/ 3-chome, Jumoku, Hirosaki City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4481358,40.5902845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>腰巻川腰巻川水位局ライブカメラ / Koshimaki River Koshimaki River Water Level Station Live Camera</name>
+        <description><![CDATA[青森県弘前市高田2丁目 「青森県県土整備部河川砂防課」/ 2-chome Takada, Hirosaki City, Aomori Prefecture "Aomori Prefecture Soil Maintenance Department River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5034788,40.5967251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川腰巻川合流点ライブカメラ / Hirakawa Koshimaki River Confluence Live Camera</name>
+        <description><![CDATA[青森県弘前市境関川部 「青森県県土整備部河川砂防課」/ Sakaizeki Kawabe, Hirosaki City, Aomori Prefecture, "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.512299,40.6154285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川上岩木ライブカメラ / Iwaki River Kawakami Live Camera</name>
+        <description><![CDATA[青森県弘前市下湯口青柳 「青森河川国道事務所」/ Shimoyuguchi Aoyagi, Hirosaki City, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.413818,40.5921573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川弘前桜づつみライブカメラ / Iwaki River Hirosaki Sakuradudumi Live Camera</name>
+        <description><![CDATA[〒036-8321 青森県弘前市大字萢中中川原 「青森河川国道事務所」/ Yachinaka Nakagawara,  Hirosaki City, Aomori Prefecture 036-8321, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4667583,40.6195756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川岩木茜橋ライブカメラ / 岩木川岩木茜橋ライブカメラ</name>
+        <description><![CDATA[青森県弘前市樋の口町 「青森河川国道事務所」/ Hinoguchi Town, Hirosaki City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4418039,40.6019107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川三世寺ライブカメラ / Iwaki River Sanzeji Live Camera</name>
+        <description><![CDATA[〒036-8312 青森県弘前市大字三世寺鳴瀬 「青森河川国道事務所」/ Sanzeji Naruse, Hirosaki City, Aomori Prefecture 036-8312, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4599331,40.6599312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号弘前津賀野ライブカメラ / National highway No. 7 Hirosaki Tsugano live camera</name>
+        <description><![CDATA[青森県弘前市大字津賀野 「青森河川国道事務所」/ Tsugano, Hirosaki City, Aomori Prefecture,<br> "Aomori River National Highway Office"<br>https://livecamera.fujiyamasan.com/hirosaki-tsugano-r7.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4932766,40.6429553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号弘前堀越ライブカメラ / Route 7 Hirosaki Horikoshi Live Camera</name>
+        <description><![CDATA[青森県弘前市大字堀越 「青森河川国道事務所」/ Horikoshi, Hirosaki City, Aomori Prefecture<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5212956,40.5722582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号弘前大橋ライブカメラ / National highway No. 7 Hirosaki Ohashi live camera</name>
+        <description><![CDATA[青森県弘前市堀越柳田 「青森河川国道事務所」/ Horikoshi Yanagita, Hirosaki City, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5302167,40.5694682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木山百沢東ライブカメラ / Mt. Iwaki Hyakuzawahigashi Live Camera</name>
+        <description><![CDATA[〒036-1343 青森県弘前市大字百沢東岩木山 「気象庁」/ Hyakusawa Higashiiwakiyama, Hirosaki City, Aomori Prefecture, 036-1343<br> "The Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3345961,40.6574179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白神山地ライブカメラ / Shirakamisanchi Live Camera</name>
+        <description><![CDATA[〒036-1204 青森県弘前市大字貝沢沢辺 「弘前市役所」/ Kaizawasawabe,  Hirosaki City, Aomori Prefecture 036-1204, "Hirosaki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3710198,40.6970399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八甲田山大川原ライブカメラ / Hakkodasan Okawara Live Camera　</name>
+        <description><![CDATA[〒036-0401 青森県黒石市大字大川原 「気象庁」/ Okawara, Kuroishi City, Aomori Prefecture, 036-0401, "The Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7521198,40.6301715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森県道19号八戸百石線内舟渡ライブカメラ / Aomori Prefectural Road No. 19 Hachinohe Hyakugoku Line Naifunato Live Camera</name>
+        <description><![CDATA[〒039-1103 青森県八戸市大字長苗代内舟渡 「青森県幹線道路協議会」/ Naganawashiro Naifunato, Hachinohe City, Aomori Prefecture 039-1103, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4662485,40.51663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森県道13号大鰐浪岡線飛内ライブカメラ / Amori Prefectural Road No. 13 Owaninamioka Line Tobinai Live Camera</name>
+        <description><![CDATA[青森県黒石市大字飛内 「青森県幹線道路協議会」/ Tobinai, Kuroishi City, Aomori Prefecture<br>"Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.601628,40.6789294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青森県道40号青森田代十和田線田代平ライブカメラ / Aomori Prefecture Road 40 Aomori Tashiro Towada Line Tashirodaira Live Camera</name>
+        <description><![CDATA[青森県黒石市大字南中野 「青森県幹線道路協議会」/ Minami-Nakano, Kuroishi City, Aomori Prefecture "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6888782,40.6291962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十川花菖蒲橋ライブカメラ / Togawa River Hanashoubu Bridge Live Camera</name>
+        <description><![CDATA[青森県五所川原市姥萢 「青森県河川砂防情報提供システム」/ Ubayachi, Goshogawara City, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.450898,40.7869496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧十川十川大橋ライブカメラ / Kyutogawa Togawaohashi Live Camera</name>
+        <description><![CDATA[青森県五所川原市鎌谷町 「青森県河川砂防情報提供システム」/ Kamaya Town,  Goshogawara City, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4535527,40.8063496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧十川松野木川合流点付近ライブカメラ / Kyuto River Matsunoki River Confluence Live Camera</name>
+        <description><![CDATA[青森県五所川原市漆川 「青森県河川砂防情報提供システム」/ Urushikawa, Goshogawara City, Aomori Prefecture "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4533272,40.817129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯詰川福泉ライブカメラ / Iidume River Fukuizumi Live Camera</name>
+        <description><![CDATA[青森県五所川原市飯詰 「青森県河川砂防情報提供システム」/ Iizume, Goshogawara City, Aomori Prefecture "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4863235,40.8299847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯詰川大渕川合流点付近ライブカメラ / Iizume River Obuchi River Confluence Live Camera</name>
+        <description><![CDATA[青森県五所川原市飯詰影日沢 「青森県河川砂防情報提供システム」/ Iizume Kagehizawa, Goshogawara City, Aomori Prefecture<br>"Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4907511,40.8394913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯詰川長富ライブカメラ / Iidume River Nagatomi Live Camera</name>
+        <description><![CDATA[青森県五所川原市長富竹崎 「青森県河川砂防情報提供システム」/ Nagatomi Takezaki,  Goshogawara City, Aomori Prefecture   "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4547674,40.8618158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金木川新金木橋ライブカメラ / Kanagi River  Shinkanagi Bridge Live Camera</name>
+        <description>青森県五所川原市金木町菅原 「青森県河川砂防情報提供システム」/ Sugawara, Kaneki-cho, Goshogawara City, Aomori Prefecture “Aomori River Sabo Information System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4548889,40.8994546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相内川山王川合流点付近ライブカメラ / Aiuchi River Sanno River Confluence Live Camera</name>
+        <description>〒037-0401 青森県五所川原市相内６−１「青森県河川砂防情報提供システム」/ 6-1 Aouchi, Goshogawara City, Aomori Prefecture 037-0401 “Aomori River Sabo Information System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3579348,41.0516419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川乾橋ライブカメラ / Iwakigawa Inui Bridge Live Camera</name>
+        <description><![CDATA[青森県五所川原市岩木町 「青森河川国道事務所」/ Iwaki Town, Goshogawara City, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4358969,40.809637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川三好橋ライブカメラ / Iwaki River Miyoshi Bridge Live Camera</name>
+        <description>青森県五所川原市鶴ケ岡 「青森河川国道事務所」/ Tsurugaoka, Goshogawara City, Aomori Prefecture “Aomori River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4024388,40.8527882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川繁田ライブカメラ / Iwaki River Shigeta Live Camera</name>
+        <description><![CDATA[〒037-0206 青森県五所川原市金木町神原桜元 「青森河川国道事務所」/ Sakuramoto, Kanbara,  Kanagi Town, Goshogawara City, Aomori Prefecture, 037-0206<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.418633,40.9129073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十三湖排水樋管ライブカメラ / Jusanko drainage pipe live camera</name>
+        <description><![CDATA[青森県五所川原市十三 「青森河川国道事務所」/ Jusan, Goshogawara City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3587104,41.0296341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十三湖河口ライブカメラ / Jusanko Kawaguchi Live Camera</name>
+        <description><![CDATA[〒037-0403 青森県五所川原市十三湊羽黒崎 「青森河川国道事務所」/  Jusan Minato Hagurosaki, Goshogawara City, Aomori Prefecture 037-0403, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3281705,41.0367883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道五所川原北インターチェンジライブカメラ / Tsugaru Expressway Goshogawara Kita interchange live camera</name>
+        <description><![CDATA[青森県五所川原市太刀打柳川 「青森河川国道事務所」/ Tachiuchi Yanagawa, Goshogawara City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4491756,40.8272997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道津軽米田ライブカメラ / Tsugaru Expressway Tsugaru Yoneda Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字米田　 「青森河川国道事務所」/ Yoneda, Goshogawara, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4788887,40.8017299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道津軽三ツ屋ライブカメラ / Tsugaru Expressway Tsugaru Mitsuya Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字野里 「青森河川国道事務所」/ Nozato, Goshogawara City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5294691,40.7839925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道津軽福山ライブカメラ / Tsugaru Expressway Tsugaru Fukuyama Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字福山 「青森河川国道事務所」/ Fukuyama, Goshogawara City, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4996905,40.7780419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道羽野木沢ライブカメラ / Tsugaru Expressway Hanokisawa Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字羽野木沢 「青森河川国道事務所」/ Hanokizawa, Goshogawara City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.526193,40.7579316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道津軽金山ライブカメラ / Tsugaru Expressway Tsugaru Kanayama Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字金山 「青森河川国道事務所」/ Kanayama, Goshogawara City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4908325,40.812793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道奥津軽大橋ライブカメラ / Tsugaru Expressway Okutsugaru Ohashi live camera</name>
+        <description><![CDATA[〒037-0086 青森県五所川原市大字田川薮里 「青森河川国道事務所」/ Tagawa Yasato, Goshogawara City, Aomori Prefecture 037-0086, <br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4300558,40.8232771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道339号長富ライブカメラ / National Route 339 Nagatomi Live Camera</name>
+        <description><![CDATA[青森県五所川原市大字長富 「青森県幹線道路協議会」/ Nagatomi, Goshogawara City, Aomori Prefecture, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4553825,40.8677229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道101号狼野長根ライブカメラ / National highway No. 101 Karino Nagane live camera</name>
+        <description>青森県五所川原市 「青森県幹線道路協議会」/ Goshogawara City, Aomori Prefecture “Aomori Prefecture Highway Council”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5430245,40.7636147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道つがる柏インターチェンジライブカメラ / Tsugaru Expressway Tsugaru Kashiwa Interchange Live Camera</name>
+        <description><![CDATA[〒038-3102 青森県つがる市柏下古川絹森 つがる柏IC 「青森河川国道事務所」/ Kashiwashita Furukawa Kinmori, Tsugaru City, Aomori Prefecture 038-3102, Tsugaru Kashiwa IC, <br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4219176,40.8060882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川津軽大橋ライブカメラ / Iwaki River Tsugaru Ohashi Live Camera</name>
+        <description><![CDATA[〒038-3302 青森県つがる市豊富町北牡丹 「青森河川国道事務所」/ Kita Botan, Tomimachi, Tsugaru City, Aomori Prefecture, 038-3302<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.386813,40.988193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道101号森田ライブカメラ / National highway No. 101 Morita live camera</name>
+        <description><![CDATA[〒038-2816 青森県つがる市森田町森田 「青森県幹線道路協議会」/  Morita, Morita Town, Tsugaru City, Aomori Prefecture 038-2816,  "Aomori Prefectural Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3439023,40.777476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川百田ライブカメラ</name>
+        <description><![CDATA[青森県弘前市大字百田宮崎 「青森河川国道事務所」/ Momota Miyazaki, Hirosaki City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4941106,40.6438174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号追分橋ライブカメラ / National highway No.7 Oiwake bridge live camera</name>
+        <description><![CDATA[〒038-0101 青森県平川市碇ヶ関西碇ヶ関山 追分橋「青森河川国道事務所」/ Ikarigaseki Nishiikarigasekiyama, Hirakawa City, Aomori Prefecture  038-0101, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6344355,40.4418454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号西碇ヶ関ライブカメラ / National Road 7 Nishiikarigaseki Live Camera</name>
+        <description><![CDATA[〒038-0101 青森県平川市碇ヶ関西碇ヶ関山 追分橋「青森河川国道事務所」/ Ikarigaseki Nishiikarigasekiyama, Hirakawa City, Aomori Prefecture 038-0101, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6346233,40.4442104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道282号碇ヶ関遠部沢ライブカメラ / National highway No. 282 Ikarugaseki Tobuzawa live camera</name>
+        <description><![CDATA[青森県平川市碇ヶ関遠部沢 「青森県幹線道路協議会」/ Toubesawa, Ikarigaseki, Hirakawa City, Aomori Prefecture, ""Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6377192,40.4377164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道102号弘南大橋ライブカメラ / National Highway 102 Konan Ohashi Live Camera</name>
+        <description><![CDATA[〒036-8082 青森県弘前市大字福村舘元 「青森県幹線道路協議会」/ Fukumura Tatemoto, Hirosaki City, Aomori Prefecture 036-8082, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5230258,40.6137476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号碇ヶ関踏田切ライブカメラ / National Road 7 Ikarigaseki Fumitagiri Live Camera</name>
+        <description><![CDATA[青森県平川市碇ヶ関踏田切 「青森河川国道事務所」/ Ikarigaseki, Fumitagiri, Hirakawa City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6359692,40.4576798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号矢立峠ライブカメラ / National Route 7 Yatate Pass Live Camera</name>
+        <description><![CDATA[〒038-0101 青森県平川市碇ヶ関西碇ヶ関山 矢立峠 「青森河川国道事務所」/ Nishiikarigasekiyama, Ikarigaseki, Hirakawa City, Aomori Prefecture 038-0101, Yatate Pass,  "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6274836,40.4217584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道津軽SAライブカメラ / Tohoku Expressway Tsugaru SA Live Camera</name>
+        <description><![CDATA[青森県平川市沖館比山館 「NEXCO東日本」/ Okidate Hiyamadate, Hirakawa City, Aomori Prefecture, "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5789671,40.5661861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小湊川内童子ライブカメラ / Kominato River Uchidouji Live Camera</name>
+        <description><![CDATA[青森県東津軽郡平内町大字内童子 「国土交通省河川情報センター」/ Uchidouji, Hiranai-machi, Higashitsugaru District, Aomori Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9504754,40.8528974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小湊川小湊ライブカメラ / Kominato River Kominato Live Camera</name>
+        <description>〒039-3321 青森県東津軽郡平内町大字小湊家ノ下 「国土交通省河川情報センター」/ Kominato Ienoshita, Hirauchi Town, Higashitsugaru-gun, Aomori Prefecture 039-3321 “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9594644,40.9241512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号狩場沢ライブカメラ / National highway No. 4 Karibazawa live camera</name>
+        <description><![CDATA[〒039-3343 青森県東津軽郡平内町大字狩場沢 「青森河川国道事務所」/ Karibasawa, Hirauchi Town, Higashitsugaru District, Aomori Prefecture 039-3343, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0757467,40.895116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号清水川橋ライブカメラ / National highway No. 4 Shimizu river bridge live camera</name>
+        <description><![CDATA[青森県東津軽郡平内町大字清水川 「青森河川国道事務所」/ Shimizugawa, Hirauchi Town, Higashitsugaru District, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0124595,40.927243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号明神橋ライブカメラ / National highway No. 4 Myojinbashi live camera</name>
+        <description><![CDATA[青森県平内町山口明神 「青森河川国道事務所」/ Yamaguchi Myojin, Hirauchi Town, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9237501,40.9173746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今別川大川平ライブカメラ / Imabetsu River  Okawadai Live Camera</name>
+        <description><![CDATA[青森県今別町今別宮本 「国土交通省河川情報センター」/ Imabetsu Miyamoto,  Imabetsu Town, Aomori Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4981155,41.1783457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北海道新幹線青函トンネル入口ライブカメラ / Hokkaido Shinkansen Seikan Tunnel entrance live camera</name>
+        <description><![CDATA[〒030-1501 青森県東津軽郡今別町大字浜名 青函トンネル入口広場 「今別町役場」/ Seikan Tunnel Entrance Square, Hamana, Imabetsu-cho, Higashitsugaru-gun, Aomori 030-1501,  "Imabetsu Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4589547,41.1770557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川高根小学校橋ライブカメラ / Hirosegawa Takane Elementary School Bridge Live Camera</name>
+        <description><![CDATA[青森県東津軽郡蓬田村大字広瀬高根「国土交通省河川情報センター」/ Hirose Takane, Homoda Village, Higashitsugaru District, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6105394,41.0220011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿弥陀川さけじ橋ライブカメラ / Amida River Sakeji Bridge Live Camera</name>
+        <description><![CDATA[青森県蓬田村蓬田汐越 「国土交通省河川情報センター」/ Shiogoe, Yomogita, Yomogita Village, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.64324,40.9709259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓬田漁港ライブカメラ / Yomogita Fishing Port Live Camera</name>
+        <description><![CDATA[〒030-1203 青森県東津軽郡蓬田村大字郷沢浜田２１７ 「蓬田村役場」/ 217 Gosawa Hamada, Yomogita-mura, Higashitsugaru-gun, Aomori, 030-1203, "Yomogita Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6547739,40.98561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉松海水浴場ライブカメラ / Tamamatsu beach live camera</name>
+        <description><![CDATA[〒030-1202 青森県東津軽郡蓬田村大字瀬辺地山田１ 玉松海水浴場  「蓬田村役場」/ Tamamatsu Beach, 1 Seheji Yamada, Yomogita Village, Higashitsugaru District, Aomori Prefecture  030-1202, "Yomogita Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6521489,40.9968923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯ノ沢川鶴亀橋ライブカメラ / Yunosawa River Tsurukame Bridge Live Camera</name>
+        <description><![CDATA[青森県外ヶ浜町平舘根岸湯の沢 「 国土交通省河川情報センター」/ Hiradate Negishi Yunosawa, Sotogahama, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6322393,41.1506338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蟹田川南沢ライブカメラ / Kanitagawa River Minamisawa Live Camera</name>
+        <description><![CDATA[〒030-1305 青森県東津軽郡外ヶ浜町字蟹田小国岩井 「 国土交通省河川情報センター」/ Kanida Oguni Iwai, Sotogahama-machi, Higashitsugaru-gun, Aomori Prefecture 030-1305, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5896392,41.0504741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蟹田川一本松大橋ライブカメラ / Kanitagawa River Ipponmatsu Ohashi Live Camera</name>
+        <description><![CDATA[青森県外ヶ浜町蟹田川原添 「 国土交通省河川情報センター」/ Kanitagawa Harazoe, Sotogahama-cho, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6365516,41.0457104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中村川中村ライブカメラ / Nakamura River Nakamura Live Camera</name>
+        <description><![CDATA[青森県鰺ヶ沢町中村町中清水崎 「国土交通省河川情報センター」/ Nakashimizuzaki, Nakamura Town, Ajigasawa Town, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2326144,40.7568481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中村川舞戸橋ライブカメラ / Nakamuragawa River Maito Bridge Live Camera</name>
+        <description><![CDATA[青森県鰺ヶ沢町舞戸町 「青森県河川砂防情報提供システム」/ Maito Town, Ajigasawa Town, Aomori Prefecture "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2176053,40.7767419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道南浮田インターチェンジライブカメラ / Tsugaru Expressway Minami Ukita Interchange Live Camera</name>
+        <description><![CDATA[〒038-2705 青森県西津軽郡鰺ヶ沢町大字南浮田町早田 南浮田IC 「青森県河川砂防情報提供システム」/ Hayata, Minamiukitamachi, Ajigasawa-machi, Nishitsugaru-gun, Aomori 038-0705, ""Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2479948,40.7816116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽自動車道北浮田ライブカメラ / Tsugaru Expressway Kita Ukita live camera</name>
+        <description><![CDATA[〒038-2701 青森県西津軽郡鰺ヶ沢町大字北浮田町平野 「青森河川国道事務所」/ Hirano, Kitaukitamachi, Aojigasawa Town, Nishitsugaru District, Aomori Prefecture  038-2701, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2674577,40.7864033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磯崎川磯崎橋ライブカメラ / Isozakigawa River Isozakibashi live camera</name>
+        <description><![CDATA[青森県深浦町深浦浜町 「国土交通省河川情報センター」/ Fukaurahama Town, Fukaura Town, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9241822,40.6411645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泥川泥川橋ライブカメラ / Dorokawa River Dorokawa River Bridge Live Camera</name>
+        <description><![CDATA[青森県深浦町岩崎平舘 「国土交通省河川情報センター」/ Iwasaki Tairakan, Fukaura Town, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9278911,40.580754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大童子川大童子橋ライブカメラ / Odoujigawa River Odouji Bridge Live Camera</name>
+        <description><![CDATA[青森県深浦町柳田築棒沢 「国土交通省河川情報センター」/ Yanagitachikubouzawa, Fukaura-machi, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1204061,40.7400091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAB深浦ライブカメラ / RAB Fukaura Live Camera</name>
+        <description><![CDATA[〒038-2324 青森県西津軽郡深浦町大字深浦寅平６２−６ 深浦町立深浦小学校 「青森放送(RAB)」/ Fukaura Municipal Fukaura Elementary School, Fukaura Torahira 62-6, Fukaura-cho, Nishitsugaru-gun, Aomori Prefecture 038-2324,  "Aomori Broadcasting (RAB)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9277847,40.6401233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道101号大間越ライブカメラ / National Road 101 Omagoshi Live Camera</name>
+        <description><![CDATA[〒038-2208 青森県西津軽郡深浦町大字大間越 「青森県幹線道路協議会」/ Omagoshi, Fukaura-cho, Nishitsugaru-gun, Aomori Prefecture 038-2208, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9472247,40.4710668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十川下十川ライブカメラ / Togawa River Shimotogawa River Live Camera</name>
+        <description><![CDATA[青森県藤崎町福島富田 「国土交通省河川情報センター」/ Fukushima Tomita, Fujisaki Town, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5560722,40.684748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川藤崎橋ライブカメラ / Hirakawa River Fujisaki Bridge Live Camera</name>
+        <description><![CDATA[青森県南津軽郡藤崎町大字藤崎西岡本 「青森河川国道事務所」/ Fujisaki Nishiokamoto, Fujisaki Town, Minamitsugaru District, Aomori Prefecture<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.474627,40.6538173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号常浪大橋ライブカメラ / National highway No. 7 Tokonami Ohashi live camera</name>
+        <description><![CDATA[青森県藤崎町久井名舘 「青森河川国道事務所」/ Guinadate, Fujisaki Town, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5432388,40.6874073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号藤崎ライブカメラ / National highway No. 7 Fujisaki live camera</name>
+        <description>〒038-3802 青森県南津軽郡藤崎町大字藤崎 「青森河川国道事務所」/ Fujisaki, Fujisaki-cho, Minamitsugaru-gun, Aomori 038-3802 “Aomori River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5052024,40.6514581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川平川第一頭首工ライブカメラ / Hirakawa River Hirakawa River First Head Live Camera </name>
+        <description><![CDATA[青森県大鰐町虹貝篠塚 「国土交通省河川情報センター」/ Nijikai Shinozuka, Owani Town, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5571556,40.5240768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川大鰐ライブカメラ / Hirakawa Owani Live Camera</name>
+        <description><![CDATA[青森県大鰐町大鰐川辺 「国土交通省河川情報センター」/ Owani Kawabe, Owani Town, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5657668,40.5203274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道7号大鰐唐牛第2ライブカメラ / National highway No. 7 Owani Karouji second live camera</name>
+        <description><![CDATA[〒038-0204 青森県南津軽郡大鰐町大字唐牛 「青森河川国道事務所」/  Karouji, Owani-machi, Minamitsugaru-gun, Aomori Prefecture 038-0204, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6125066,40.5024089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道阿闇羅PAライブカメラ / Tohoku Expressway Ajara PA Live Camera</name>
+        <description><![CDATA[〒038-0202 青森県南津軽郡大鰐町大字長峰砂沢平１１９ 阿闍羅PA 「NEXCO東日本」/ Agora PA,   119 Nagamine Sunasawadaira, Owani Town, Minamitsugaru District, Aomori Prefecture 038-0202, "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6154454,40.5093784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田んぼアート弥生の里展望所ライブカメラ / Rice field art Yayoi no Sato Observatory Live camera</name>
+        <description><![CDATA[〒038-1111 青森県南津軽郡田舎館村大字高樋泉　道の駅いなかだて 弥生の里展望所 「田舎館村役場」/ Road Station Inakadate Yayoi no Sato Observatory, Izumi Takahigu, Inakadate Village, Minamitsugaru-gun, Aomori Prefecture, 038-1111, "Inakadate Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5746071,40.6333144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田んぼアート田舎館村展望台ライブカメラ / Rice field art inakadate village observatory live camera</name>
+        <description><![CDATA[〒038-1113 青森県南津軽郡田舎館村大字田舎舘中辻１２３−１ 田舎館村役場 4F・6F 田舎館村展望台 「 田舎館村役場」/ Inakadate Village Observatory, Inakadate Village Office 4F/6F, 123-1 Inakadate Nakatsuji, Inakadate Village, Minamitsugaru District, Aomori Prefecture 038-1113, "Inakadate Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5502838,40.631414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十川五林平ライブカメラ / Togawa Gorindai Live Camera</name>
+        <description><![CDATA[青森県板柳町五林平三宅 「青森県河川砂防情報提供システム」/ Gorindai Miyake, Itayayanagi Town, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5124802,40.7490655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川幡龍橋ライブカメラ / Iwaki River Hachiryu Bridge Live Camera</name>
+        <description><![CDATA[〒038-3662 青森県北津軽郡板柳町大字板柳川面 「青森河川国道事務所」/ Itayanagi, Itayanagi-machi, Kitatsugaru-gun, Aomori 038-3662, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4513862,40.6971643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川河川公園ライブカメラ / Iwakigawa river park live camera</name>
+        <description><![CDATA[〒038-3662 青森県北津軽郡板柳町大字板柳川面　岩木川河川公園 「板柳町役場」/ Iwakigawa River Park, Itayanagi Kawaomote, Itayanagi-cho, Kitatsugaru-gun, Aomori Prefecture 038-3662, "Itayanagi Town Hall"<br>https://livecamera.fujiyamasan.com/itayanagi-iwaki-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.456279,40.6907588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川保安橋ライブカメラ / Iwakigawa River Hoan Bridge Live Camera</name>
+        <description><![CDATA[〒038-3521 青森県北津軽郡鶴田町大字菖蒲川川辺 「青森河川国道事務所」/ 〒038-3521 Shoubukawa Kawabe, Tsuruta-machi, Kitatsugaru-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4218973,40.7357737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川鶴寿橋ライブカメラ / Iwaki River Tsuruju Bridge Live Camera</name>
+        <description><![CDATA[青森県北津軽郡鶴田町大字木筒東柳川 鶴寿橋 「青森河川国道事務所」/ Tsuruju Bridge, Kiduduhigashiyanagawa, Tsuruta-machi, Kitatsu garu-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.424974,40.7567816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮野沢川新深郷田橋ライブカメラ / Miyanosawa River Shinfukouda Bridge Live Camera</name>
+        <description><![CDATA[青森県北津軽郡中泊町大字深郷田早田 「青森県河川砂防情報提供システム」/ Fukouda Hayata, Nakadomari Town, Kitatsugaru District, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.431886,40.9595859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小泊川山朝橋ライブカメラ / Kodomarigawa River Yamacho Bridge Live Camera</name>
+        <description><![CDATA[青森県中泊町小泊朝間10-32 山朝橋水位観測所 「青森県河川砂防情報提供システム」/ Yamachobashi Water Level Observatory, 10-32   Kodomariasama, Nakadomari Town,  Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3094403,41.1270348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川芦野堰ライブカメラ / Iwaki River Ashino Weir Live Camera</name>
+        <description><![CDATA[青森県北津軽郡中泊町大字芦野 「青森河川国道事務所」/ Ashino, Nakadomari-cho, Kitatsugaru-gun, Aomori, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.406492,40.9433636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川若宮ライブカメラ / Iwakigawa River Wakamiya Live Camera</name>
+        <description><![CDATA[〒037-0318 青森県北津軽郡中泊町大字田茂木若宮  「青森河川国道事務所」/  Tamogi Wakamiya, Nakamado-cho, Kitatsugaru-gun, Aomori Prefecture 037-0318, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3969892,40.9954758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川芦野堰監視ライブカメラ / Iwakigawa Ashino Weir monitoring live camera</name>
+        <description><![CDATA[青森県北津軽郡中泊町大字芦野 「中泊町役場」/ Ashino, Nakadomari-cho, Kitatsugaru-gun, Aomori, "Nakadomari Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.406492,40.9433636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小川小川水位観測所ライブカメラ / Ogawa River Ogawa River Water Observatory Live Camera</name>
+        <description><![CDATA[青森県むつ市小川町２丁目 「国土交通省河川情報センター」/ 2 Ogawamachi, Mutsu City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2117514,41.2956817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田名部川田名部ライブカメラたなぶ / Tanabu River Tanabu Live Camera Tanabu</name>
+        <description><![CDATA[青森県むつ市新町 「国土交通省河川情報センター」/ Shinmachi, Mutsu City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2080324,41.2922188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大畑川大畑ライブカメラ / Ohata River Ohata Live Camera</name>
+        <description><![CDATA[青森県むつ市大畑町湯坂下 「国土交通省河川情報センター」/ Yusakashita, Ohata Town, Mutsu City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1532943,41.4016891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川中畑橋ライブカメラ / Kawauchi River Nakahatabashi Live Camera</name>
+        <description>〒039-5201 青森県むつ市川内町板子塚「国土交通省河川情報センター」/ Itakozuka, Kawauchi-cho, Mutsu-shi, Aomori 039-5201, Japan “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0013923,41.2051528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>脇野沢川脇野沢ライブカメラ / Wakinosawa River Wakinosawa River Live Camera</name>
+        <description><![CDATA[青森県むつ市脇野沢渡向 「国土交通省河川情報センター」/ Wakinosawa Watamuki, Mutsu City, Aomori Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8158686,41.1481128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大畑川新小目名橋ライブカメラ / Ohata River Shin-Komenamebashi Live Camera</name>
+        <description><![CDATA[青森県むつ市大畑町小目名家ノ下 「青森県河川砂防情報提供システム」/ Omemaienoshita,  Ohata-machi, Mutsu City, Aomori Prefecture,  "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1245147,41.3906072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RABむつライブカメラ / RAB Mutsu Live Camera</name>
+        <description><![CDATA[〒035-0073 青森県むつ市中央２丁目１−１８ 青森放送（株） むつ支局 「青森放送(RAB)」/ Aomori Broadcasting Co., Ltd., Mutsu Branch Office, 1-18 Chuo 2-chome, Mutsu City, Aomori Prefecture, 035-0073, "Aomori Broadcasting (RAB)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.186681,41.288613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号奥内ライブカメラ / National Highway 279 Okuuchi Live Camera</name>
+        <description><![CDATA[〒035-0011 青森県むつ市大字奥内 「青森県幹線道路協議会」/ Okuuchi, Mutsu City, Aomori Prefecture, 035-0011, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2641745,41.2159733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号二枚橋ライブカメラ / National highway No. 279 Niimabashi live camera</name>
+        <description>〒039-4401 青森県むつ市大畑町二枚橋 「青森県幹線道路協議会」/  Nimaibashi, Ohatacho, Mutsu City, Aomori Prefecture 039-4401,   “Aomori Prefectural Highway Council”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1589803,41.4157661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石釜沢川水上橋ライブカメラ / Ishigamazawa river Mizukami bridge live camera</name>
+        <description><![CDATA[青森県東通村野牛水上 「国土交通省河川情報センター」/ Noushi Mizukami, Higashidori Village, Aomori Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3648028,41.3360531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田名部川鹿橋ライブカメラ / Tanabu River Shishi Bridge Live Camera</name>
+        <description><![CDATA[青森県東通村蒲野沢新橋 「青森県河川砂防情報提供システム」/ Gamanosawa Shimbashi,  Higashidori Village, Aomori Prefecture, <br>"Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3135315,41.3194959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>易国間川易国間橋ライブカメラ / Ikokuma River Ikokuma Bridge live camera</name>
+        <description><![CDATA[〒039-4502 青森県下北郡風間浦村大字易国間 易国間橋 「国土交通省河川情報センター」/ Kazamaura Village, Shimokita-gun, Aomori Prefecture 039-4502, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9965088,41.4879601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目滝川小易国間橋ライブカメラ / Metakigawa River Koikokuma Bridge Live Camera</name>
+        <description><![CDATA[青森県風間浦村易国間古野 「国土交通省河川情報センター」/ Ikokuma Furuno, Kazamaura Village, Aomori Prefecture, "Kurama Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9933674,41.4902611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号易国間E地区ライブカメラ / National highway No. 279 Ikokuma E live camera</name>
+        <description><![CDATA[〒039-4502 青森県下北郡風間浦村大字易国間 「青森県幹線道路協議会」/ Ikokuma, Kazamaura-mura, Shimokita-gun, Aomori Prefecture 039-4502, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0271373,41.4829133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新井田川新井田中央大橋ライブカメラ / Niidagawa River Niida Chuo Ohashi  Live Camera</name>
+        <description><![CDATA[〒031-0011 青森県八戸市田向２丁目５ 新井田中央大橋 「国土交通省河川情報センター」/ Niida Chuo Ohashi, 2-5 Tamukai, Hachinohe City, Aomori Prefecture 031-0011, <br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.515313,40.496251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新井田川風張橋ライブカメラ / Niidagawa River Kazahari Bridge Live Camera</name>
+        <description><![CDATA[青森県八戸市是川館ノ内 「国土交通省河川情報センター」/ Korekawa Tatenouchi, Hachinohe City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4945013,40.4709037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新井田川馬場橋ライブカメラ / Niida River Bababashi Live Camera
+</name>
+        <description><![CDATA[〒031-0202 青森県八戸市南郷大字島守 馬場橋 「国土交通省河川情報センター」/ Baba Bridge, Nango Shimamori, Hachinohe City, Aomori Prefecture   031-0202, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4879206,40.4159017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅水川豊崎人道橋ライブカメラ / Asamizugawa River Toyosaki Jindo Bridge Live Camera</name>
+        <description><![CDATA[青森県八戸市豊崎町 「国土交通省河川情報センター」/ Toyosaki Town, Hachinohe City, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3846883,40.5157558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅水川矢沢橋ライブカメラ / Asamizu River Yazawabashi Live Camera</name>
+        <description>〒039-1101 青森県八戸市大字尻内町 矢沢橋 「国土交通省河川情報センター」/ Yazawabashi, Shiriuchi Town, Hachinohe City, Aomori Prefecture 039-1101, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4272709,40.5080599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五戸川尻引ライブカメラ / Gonohegawa River Shiribiki Live Camera</name>
+        <description><![CDATA[青森県八戸市市川町赤畑 「青森県河川砂防情報提供システム」/ Akahata, Ichikawa-cho, Hachinohe City, Aomori Prefecture "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4404971,40.5771973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAB八戸ライブカメラ / RAB Hachinohe Live Camera</name>
+        <description><![CDATA[〒031-0822 青森県八戸市大字白銀町三島下９５ 八戸水産会館 「青森放送(RAB)」/ Hachinohe Fisheries Hall, 95 Mishimashita, Shiragin Town, Hachinohe City, Aomori Prefecture, 031-0822, "Aomori Broadcasting (RAB)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.536126,40.526977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬淵川櫛引橋ライブカメラ / Mabuchigawa River Kushibiki Bridge Live Camera</name>
+        <description><![CDATA[青森県八戸市大字八幡下陳屋 櫛引橋 「青森河川国道事務所」/ Kushibiki Bridge, Yawatashimojinya, Hachinohe City, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4283872,40.4861175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬淵川根城大橋ライブカメラ / Mabuchigawa Nejiro Ohashi Live Camera</name>
+        <description><![CDATA[青森県八戸市尻内町尻内河原 「青森河川国道事務所」/ Shiriuchi Kawara, Shiriuchi Town, Hachinohe City, Aomori Prefecture<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4536873,40.5082206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬淵川大橋ライブカメラ / Mabuchigawa River Ohashi Live Camera</name>
+        <description><![CDATA[〒039-1103 青森県八戸市大字長苗代内舟渡 「青森河川国道事務所」/ Naganawashiro Naifunato,  Hachinohe City, Aomori Prefecture 039-1103, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4662485,40.51663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸南道路種差海岸階上岳インターチェンジライブカメラ / Hachinohe South Road Tanesashi Kaigan Hashikamidake interchange live camera</name>
+        <description><![CDATA[〒031-0843 青森県八戸市大字金浜中渡 種差海岸階上岳IC 「青森河川国道事務所」/ Tanesashi Kaigan Hashikamidake IC, Kanehamanakawatari, Hachinohe City, Aomori Prefecture 031-0843, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5955737,40.4705882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道104号烏沢ライブカメラ / National highway No. 104 Karasawa live camera</name>
+        <description><![CDATA[〒039-1107 青森県八戸市大字櫛引烏沢 「青森河川国道事務所」/  Kushihiki Karasuzawa, Hachinohe City, Aomori Prefecture 039-1107, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4265509,40.4781893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸港蕪島ライブカメラ / Hachinohe Port Kabushima Live Camera</name>
+        <description><![CDATA[青森県八戸市 八戸港 「八戸テレビ放送」/ Hachinohe Port, Aomori Prefecture "Hachinohe TV Broadcast"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.531944,40.5428106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号四本松付近ライブカメラ / National highway No. 45 Shihonmatsu live camera</name>
+        <description><![CDATA[〒031-0813 青森県八戸市大字新井田塩入４９−３２ イエローハット 八戸店 「青森ITSクラブ」/ Yellow hat Hachinohe store, 49-32, Niida Shioiri, Hachinohe City, Aomori Prefecture, 031-0813, "Aomori ITS Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5247715,40.5077425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号柏崎ライブカメラ / National highway No. 45 Kashiwazaki live camera</name>
+        <description><![CDATA[〒031-0081 青森県八戸市柏崎 「青森河川国道事務所」/ Kashiwazaki, Hachinohe City, Aomori Prefecture, 031-0081, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4998489,40.5134071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くまさか歯科ライブカメラ / Kumasaka Dental Live Camera</name>
+        <description>〒039-1165 青森県八戸市石堂１丁目２７−１３ くまさか歯科 / Kumasaka Dental, 1-27-13 Ishido, Hachinohe City, Aomori Prefecture 039-1165</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4747975,40.5307024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号八戸防災ステーションライブカメラ / National highway No. 45 Hachinohe disaster prevention station live camera</name>
+        <description><![CDATA[〒039-2245 青森県八戸市北インター工業団地１丁目２ 国土交通省 八戸防災ステーション 「青森河川国道事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Hachinohe Disaster Prevention Station, 1-2, Kita Inter Kogyodanchi, Hachinohe City, Aomori Prefecture 039-2245, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4387488,40.5482843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号松館ライブカメラ / National Route 45 Matsudate Live Camera</name>
+        <description><![CDATA[〒031-0815 青森県八戸市松館 「青森河川国道事務所」/ Matsudate, Hachinohe City, Aomori Prefecture 031-0815, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5377576,40.4687083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥入瀬川法量ライブカメラ / Okuirasegawa legal live camera</name>
+        <description><![CDATA[〒034-0303 青森県十和田市大字法量銀杏木 「国土交通省河川情報センター」/ Horyo Ichougi, Towada City, Aomori Prefecture 034-0303, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0185324,40.5861501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥入瀬川中掫ライブカメラ / Oirasegawa Chuseri Live Camera</name>
+        <description><![CDATA[〒034-0001 青森県十和田市大字三本木矢神 「国土交通省河川情報センター」/  Sanbongi Yagami, Towada City, Aomori Prefecture 034-0001, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.14824,40.5946412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥入瀬川相坂ライブカメラ / Okuirasegawa Ousaka Live Camera</name>
+        <description><![CDATA[〒034-0041 青森県十和田市相坂上鴨入 「国土交通省河川情報センター」/ Ousaka Kamikamoiri, Towada City, Aomori Prefecture, 034-0041, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/towada-osaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2451708,40.5881934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十和田湖マリーナライブカメラ / Towada Lake Marina Live Camera</name>
+        <description>〒034-0301 青森県十和田市大字十和田湖畔休屋 十和田湖マリーナ / Lake Towada Marina, Towadakohanyasumiya, Towada City, Aomori Prefecture 034-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8924291,40.4255879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号十和田伝法寺ライブカメラ / National highway No. 4 Towada Denboji live camera </name>
+        <description><![CDATA[青森県十和田市大字伝法寺 「青森河川国道事務所」/ Denbouji, Towada City, Aomori Prefecture<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2674241,40.5690621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十和田湖休屋地区ライブカメラ / Towada lake Yasumiya area live camera</name>
+        <description><![CDATA[〒018-5501 青森県十和田市大字奥瀬十和田湖畔休屋 「十和田市役所」/ Okuse Towadakohanyasumiya, Towada City, Aomori Prefecture 018-5501, "Towada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8985211,40.4282245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枇杷野川枇杷野橋ライブカメラ / Bibino River Bibino Bridge Live Camera</name>
+        <description><![CDATA[青森県上北郡野辺地町観音林脇「青森県河川砂防情報提供システム」/ 　Kannonbayashiwaki, Noheji Town,  Kamikita District, Aomori Prefecture, "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1180191,40.857311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野辺地川あすなろ橋ライブカメラ / Noheji River Asunaro Bridge Live Camera</name>
+        <description><![CDATA[〒039-3141 青森県上北郡野辺地町字鳴沢 あすなろ橋 「青森県河川砂防情報提供システム」/ Asunaro Bridge, Narusawa, Noheji-machi, Kamikita-gun, Aomori Prefecture 039-3141, <br>"Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1269337,40.8551142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号向田ライブカメラ / National highway No. 279 Mukaida live camera</name>
+        <description><![CDATA[青森県上北郡野辺地町字向田 「青森県幹線道路協議会」/ Mukaida, Noheji-machi, Kamikita-gun, Aomori Prefecture, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2163662,40.9393851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号野辺地北インターチェンジライブカメラ / National Route 279 Noheji Kita Interchange Live Camera</name>
+        <description><![CDATA[〒039-3109 青森県上北郡野辺地町字向田 野辺地北インターチェンジ 「青森県幹線道路協議会」/Noheji north interchange, Mukaida, Noheji-machi, Kamikita-gun, Aomori Prefecture 039-3109, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2155814,40.9297054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号野辺地木明インターチェンジライブカメラ / National Highway No. 279 Nohejikimyo Interchange Live Camera</name>
+        <description><![CDATA[〒039-3105 青森県上北郡野辺地町字有戸鳥井平 野辺地木明インターチェンジ 「青森県幹線道路協議会」/ Nohejikimyo Interchange,  Aritotoriitai, Noheji-machi, Kamikita-gun, Aomori Prefecture 039-3105, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1707688,40.8854555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号野辺地ライブカメラ / National Highway 279 Noheji Live Camera</name>
+        <description><![CDATA[〒039-3131 青森県上北郡野辺地町字野辺地 「青森県幹線道路協議会」/ Noheji, Noheji-machi, Kamikita-gun, Aomori Prefecture 039-3131, "Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1279329,40.8653034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号野辺地枇杷野ライブカメラ / National highway No. 4 Noheji Biwano live camera </name>
+        <description><![CDATA[青森県上北郡野辺地町字枇杷野 「青森河川国道事務所」/ Biwano, Noheji-machi, Kamikita-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1007175,40.8501289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川昭和橋ライブカメラ / Takasegawa River Showa Bridge Live Camera</name>
+        <description><![CDATA[青森県上北郡七戸町字笊田川久保 「青森県河川砂防情報提供システム」/ Zarutakawakubo, Shichinohe-machi, Kamikita-gun, Aomori Prefecture, "Aomori River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1612422,40.6977926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みちのく有料道路東天間トンネル七戸側ライブカメラ / Michinoku Toll Road East Tenma Tunnel Shichinohe Side Live Camera</name>
+        <description><![CDATA[青森県上北郡七戸町東天間舘「青森県幹線道路協議会」/ Higashitenmadate, Shichinohe-cho, Kamikita-gun, Aomori Prefecture<br>"Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0590986,40.7824867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号坪橋ライブカメラ / National highway No. 4 Tsubohashi live camera</name>
+        <description><![CDATA[青森県七戸町上川原 「青森河川国道事務所」/ Kamikawara, Shichinohe-cho, Aomori Prefecture "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1432623,40.7671859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥入瀬川鶴喰ライブカメラ / Oirase River Tsurubami Live Camera</name>
+        <description><![CDATA[青森県上北郡六戸町犬落瀬長漕 「国土交通省河川情報センター」/ Inuotose Nagatoro, Rokunohe-machi, Kamikita-gun, Aomori prefecture, ``Ministry of Land, Infrastructure and Transport River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3126067,40.5985562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号折茂ライブカメラ / National highway No. 45 Orimo live camera</name>
+        <description><![CDATA[青森県上北郡六戸町大字折茂 「青森河川国道事務所」/ Orimo, Rokunohe-machi, Kamikita-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2775252,40.6108091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号六戸大橋ライブカメラ / National highway No. 45 Rokunohe Ohashi live camera</name>
+        <description><![CDATA[青森県上北郡六戸町 「青森河川国道事務所」/Rokunohe-machi, Kamikita-gun, Aomori Prefecture, "Aomori River National Highway Office" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3247266,40.6095745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号三保野ライブカメラ / National highway 279 Mihono live camera</name>
+        <description><![CDATA[〒039-4141 青森県上北郡横浜町字三保野 「青森県幹線道路協議会」/ Mihono, Yokohama-cho, Kamikita-gun, Aomori Prefecture 039-4141,    "Aomori Prefectural Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2523662,41.0810661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号吹越ライブカメラ / National highway No. 279 Futsukoshi live camera</name>
+        <description><![CDATA[〒039-4153 青森県上北郡横浜町字吹越 「青森県幹線道路協議会」/ Futsukoshi, Yokohama-cho, Kamikita-gun, Aomori 039-4153 "Aomori Prefectural Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.255221,41.0264986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤川乙供ライブカメラ / Akagawa River Otsutomo Live Camera</name>
+        <description><![CDATA[青森県上北郡東北町膳前 「国土交通省河川情報センター」/ Zenmae, Tohoku Town, Kamikita District, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2111478,40.7800014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号東北町ちびきライブカメラ / National highway No. 4 Tohoku town Chibiki live camera </name>
+        <description><![CDATA[〒039-2684 青森県上北郡東北町字向平 「青森河川国道事務所」/ Mukaitai, Tohoku-cho, Kamikita-gun, Aomori Prefecture 039-2684 ,<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.154305,40.7988423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川河口ライブカメラ / Takase River estuary live camera</name>
+        <description><![CDATA[〒039-3214 青森県上北郡六ヶ所村大字平沼道ノ下 「高瀬川河川事務所」/ Hiranuma Michinoshita, Rokkasho-mura, Kamikita-gun, Aomori Prefecture 039-3214<br>"Takase River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3868919,40.8923608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道338号泊ライブカメラ / National highway 338 night live camera</name>
+        <description><![CDATA[〒039-4301 青森県上北郡六ヶ所村大字泊 「青森県幹線道路協議会」/ Tomari, Rokkasho-mura, Kamikita-gun, Aomori Prefecture 039-4301,  <br>"Aomori Prefecture Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3625282,41.0715357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道279号六ヶ所インターチェンジライブカメラ / National Route 279 Rokkasho Interchange Live Camera</name>
+        <description><![CDATA[〒039-3212 青森県上北郡六ヶ所村大字尾駮二又 六ヶ所 IC 「青森県幹線道路協議会」/ 〒039-3212 Aomori Prefecture Kamikita-gun Rokkasho-mura Oaza Futamata Rokkasho IC "Aomori Prefectural Highway Council"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2646701,40.9715464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥入瀬川百石ライブカメラ / Oirasegawa Momoishi Live Camera</name>
+        <description><![CDATA[〒039-2226 青森県上北郡おいらせ町新助川原 「国土交通省河川情報センター」/ Shinsuke Kawahara, Oirase-cho, Kamikita-gun, Aomori 039-2226 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4399182,40.5964599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊原川川原橋歩道橋ライブカメラ / Kumahara River Kawahara Bridge Footbridge Live Camera</name>
+        <description>青森県三戸郡三戸町川守田関根川原 「青森県河川砂防情報提供システム」/ Kawamorita, Sannohe-machi, Sannohe-gun, Aomori Prefecture, “Aomori River Sabo Information System”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2576146,40.3790435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊原川留ヶ崎橋ライブカメラ / Noharagawa River Ryugasaki Bridge Live Camera</name>
+        <description><![CDATA[〒039-0141 青森県三戸郡三戸町大字川守田橋ノ下 「青森県県土整備部河川砂防課」/ Hashinoshita, Kawamorita, Sannohe-machi, Sannohe-gun, Aomori Prefecture 039-0141,<br>"Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2638895,40.3844803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号三戸梅内ライブカメラ / National Highway No. 4 Sannohe Umenai Live Camera</name>
+        <description><![CDATA[〒039-0112 青森県三戸郡三戸町大字梅内 「青森河川国道事務所」/ Umenai, Sannohe-machi, Sannohe-gun, Aomori Prefecture 039-0112,<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2824667,40.3681468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五戸川萬世橋ライブカメラ / Gonohegawa River Mansei Bridge Live Camera</name>
+        <description><![CDATA[青森県五戸町倉石又重 「国土交通省河川情報センター」/ Kurashiishi Matashige,  Gonohe Town,  Aramori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.229659,40.4862315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五戸川五戸橋ライブカメラ / Gonohegawa River Gonohe Bridge Live Camera</name>
+        <description><![CDATA[〒039-1554 青森県三戸郡五戸町字川原町 「国土交通省河川情報センター」/ Kawaharamachi, Gonohe Town, Sannohe District, Aomori Prefecture 039-1554, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2977593,40.5253915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号五戸陣場ライブカメラ / National highway No. 4 Gonohe Jinba live camera</name>
+        <description><![CDATA[〒039-1528 青森県三戸郡五戸町大字浅水陣場 「青森河川国道事務所」/ Asamizu Jinba, Gonohe-machi, Sannohe-gun, Aomori Prefecture 039-1528, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.312206,40.4662282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号五戸ライブカメラ / National highway No. 4 Gonohe live camera</name>
+        <description><![CDATA[青森県三戸郡五戸町大字扇田 「青森河川国道事務所」/ Ogita, Gonohe-machi, Sannohe-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3209124,40.4903703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊原川落合橋ライブカメラ / Kumahara River Ochiai Bridge Live Camera</name>
+        <description><![CDATA[〒039-0317 青森県三戸郡田子町大字山口五林 落合橋 「国土交通省河川情報センター」/  Ochiai Bridge, Yamaguchigorin, Takko-machi, Sannohe-gun, Aomori Prefecture 039-0317, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0790041,40.2897749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>種子川悪土橋ライブカメラ / Tanekogawa River Akudo Bridge Live Camera</name>
+        <description><![CDATA[青森県三戸郡田子町田子田子 「国土交通省河川情報センター」/ Takko Town, Takko Town, Sannohe District, Aomori Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1494089,40.3417002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>如来堂川青柳橋近郊ライブカメラ / Nyoraidogawa River Aoyanagi Bridge Live Camera</name>
+        <description><![CDATA[青森県南部町下名久井青柳 「南部町役場」/ Aoyanagi, Shimonakui, Nanbu-cho, Aomori Prefecture, "Nanbu Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3345031,40.4226368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬淵川古牧橋ライブカメラ / Mabuchigawa Komaki Bridge Live Camera</name>
+        <description><![CDATA[青森県三戸郡南部町沖田面 「青森県県土整備部河川砂防課」/ Okitaomote, Nanbu-cho, Sannohe-gun, Aomori Prefecture "Aomori Prefecture Soil Maintenance Department, River Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2737067,40.4069871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬淵川剣吉ライブカメラ / Mabuchigawa River Kenyoshi Live Camera</name>
+        <description><![CDATA[青森県三戸郡南部町大字剣吉 「青森河川国道事務所」/ Kenyoshi, Nanbu-cho, Sannohe-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3483004,40.4441483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道104号八木田ライブカメラ / National Route 104 Yagita Live Camera</name>
+        <description><![CDATA[青森県三戸郡南部町大字片岸鍋屋敷 「青森河川国道事務所」/ Katagishi Nabeyashiki, Nanbu-cho, Sannohe-gun, Aomori Prefecture, "Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3650796,40.4606466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八戸自動車道福地PA下りライブカメラ / Hachinohe Expressway Fukuchi PA Down Live Camera</name>
+        <description><![CDATA[青森県三戸郡南部町大字椛木長畑 福地PA (下り) 「NEXCO東日本」/ Fukuchi PA (outbound) ,  Kabakinagahata, Nanbu-cho, Sannohe-gun, Aomori Prefecture, "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4488965,40.4436657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号階上道仏ライブカメラ / National highway No. 45 floor Kamido Buddha live camera</name>
+        <description><![CDATA[〒039-1201 青森県三戸郡階上町大字道仏 「青森河川国道事務所」/ Dobutsu, Hashikami-cho, Sannohe-gun, Aomori Prefecture 039-1201,<br>"Aomori River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6388527,40.4460344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小舟渡漁港ライブカメラ / Kofunato Fishing Port Live Camera</name>
+        <description><![CDATA[〒039-1201 青森県三戸郡階上町道仏 小舟渡漁港 「階上町役場」/ Kofunato fishing port, Dobutsu, Hashikami-cho, Sannohe-gun, Aomori Prefecture 039-1201, "Shinokami Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6747646,40.4537074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>榊漁港ライブカメラ / Sakaki fishing port live camera</name>
+        <description><![CDATA[〒039-1201 青森県三戸郡階上町道仏榊平５ 「階上町役場」/  5 Dobutsu-Sakakidaira, Hashikami-cho, Sannohe-gun, Aomori Prefecture 039-1201, "Shinokami Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6560306,40.460655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大蛇漁港ライブカメラ / Ohebi Fishing Port Live Camera</name>
+        <description><![CDATA[青森県三戸郡階上町大字道仏大蛇 「階上町役場」/  Dobutsu Ohebi, Sannohe-gun, Aomori Prefecture, "Hashikami Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6508795,40.4672427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅水川西越水位局ライブカメラ / Asamizugawa River Saigoshi Water Level Live Camera</name>
+        <description><![CDATA[青森県三戸郡新郷村西越石森平 「青森県河川砂防情報提供システム」/ Saigoshi Ishimoridaira, Shingo Village, Sannohe District, Aomori Prefecture, "Aomori Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1975891,40.4378814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩木川弘前桜づつみライブカメラ / Iwaki River Hirosaki Cherry Blossom Live Camera </name>
+        <description><![CDATA[〒036-8321 青森県弘前市萢中中川原 「青森河川国道事務所」/ Yachinaka Nakagawara, Hirosaki City, Aomori Prefecture 036-8321 "Aomori River National Highway Office"<br>https://livecamera.fujiyamasan.com/hirosaki-sakuradudumi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4667583,40.6195756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>増毛灯台ライブカメラ / Mashike Lighthouse Live Camera</name>
+        <description><![CDATA[〒077-0205 北海道増毛郡増毛町弁天町５丁目９６「海上保安庁」/ 5-96 Bentencho, Mashike-cho, Mashike-gun, Hokkaido 077-0205 "Japan Coast Guard"<br>https://livecamera.fujiyamasan.com/mashike-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5274247,43.8550604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

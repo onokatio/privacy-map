@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>福岡県ライブカメラマップ / Fukuoka Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>福岡県のライブカメラ一覧<br>https://livecamera.fujiyamasan.com/fukuokaken.html<br>FUJIYAMA LIVE JAPAN<br>https://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>福岡県内ライブカメラ</name>
+      <Placemark>
+        <name>火ノ山下潮流信号所からの映像 / Image from Hinoyamashita Tidal Current Signal Place</name>
+        <description>〒751-0813 山口県下関市みもすそ川町３−１ 火ノ山下潮流信号所 門司海上保安部 / Hinoyamashita Tidal Current Signal Place of Moji Coast Guard, 3-1 Mimosusogawa-cho, Shimonoseki-shi, Yamaguchi-ken 751-0813</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.961473,33.968064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関門海峡海上交通センターからの映像 / Image from Kanmon Kaikyo Vessel Traffice Service Center</name>
+        <description><![CDATA[〒800-0064 福岡県北九州市門司区松原２丁目１０−１１ 関門海峡海上交通センター / Kanmon Kaikyo Vessel Traffice Service Center, 2-10-11 Matsubara, Moji-ku, Kitakyushu-shi, Fukuoka-ken 800-0064, "Japan Coast Guard - Maritime Information and Communication System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9189224,33.897492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きたこくライブカメラ / Kitakoku Live Camera</name>
+        <description>〒802-0803 福岡県北九州市 小倉南区春ケ丘10-10　北九州国道事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Kitakyushu National Highway Office, 10-10 Harugaoka, Kokuraminami-ku, Kitakyushu-shi, Fukuoka-ken 802-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8837992,33.8476437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平尾台ライブカメラ / Hiraodai Live Camera</name>
+        <description>〒803-0186 福岡県北九州市小倉南区平尾台１丁目４−４０ 平尾台自然観察センター 平尾台自然の郷 / Hiraodai Countryside Park, 1-4-40 Hiraodai, Oguraminami-ku, Kitakyushu-shi, Fukuoka-ken 803-0180</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.894407,33.756315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福智山ろく花公園 / Fukuchi Sanroku Flower Park, Nogata City</name>
+        <description>〒822-0005 福岡県直方市永満寺１４９８ 福智山ろく花公園 / Fukuchi Sanroku Flower Park,1498 Eimanji, Nogata-shi, Fukuoka-ken 822-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7698461,33.7344827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>直方市ライブカメラ / Nogata City</name>
+        <description>福岡県直方市殿町 株式会社まちづくり直方 直方市観光案内 / 7-1 Tonomachi, Nogata City, Fukuoka 822-8501, Nogata City Industrial Promotion Division, Machidukuri Nogata Co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.729666,33.744201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川ライブカメラ / Onga River Live Camera</name>
+        <description>〒822-0013 福岡県直方市溝堀１丁目１−１ 国土交通省遠賀川河川事務所 / Ministry of Land, Infrastructure and Transport Onga River Office, 1-1-1 Mizobori, Nogata-shi, Fukuoka-ken 822-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7311582,33.7400853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮若市ライブカメラ / Miyawaka City Live Camera</name>
+        <description>〒823-0011 福岡県宮若市宮田29−1 宮若市役所 / Miyawaka City Hall, 29-1 Miyata, Miyawaka-shi, Fukuoka-ken 823-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6664515,33.7235277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドリームホープ若宮ライブカメラ / Dream Hope Wakamiya Live Camera</name>
+        <description><![CDATA[〒822-0133 福岡県宮若市脇田２２４−１ ドリームホープ若宮 「若宮市役所ライブカメラ」 / Dream Hope Wakamiya, 224-1 Wakita, Miyawaka-shi, Fukuoka-ken 822-0133, "Wakamiya City Hall Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.591561,33.699246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[“いこいの里 千石”花の水辺公園ライブカメラ / "Ikoinosato Sengoku" Flower Waterfront Park Live Camera]]></name>
+        <description><![CDATA[〒823-0011 福岡県宮若市宮田2058-1 いこいの里千石 「宮若市役所ライブカメラ」 / Ikoinosato Sengoku, 2058-1 Miyawaka-shi, Fukuoka-ken 823-0011, "Miyawaka City Hall Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6328769,33.6917146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川監視カメラライブ映像（飯塚地区）/ River surveillance camera live image (Iizuka area)</name>
+        <description>〒820-0004 福岡県飯塚市新立岩５−５　飯塚市役所 / Iizuka City Hall, 5-5 Shintateiwa, Iizuka-shi, Fukuoka-ken 820-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6910926,33.6465689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮湯の里夕陽館ライブ中継 / Shioyunosato Yuhikan Live Camera Streaming</name>
+        <description><![CDATA[〒811-3304 福岡県福津市津屋崎１丁目３７−１７　夕陽館　「福津市役所」/ Shioyunosato Yuhikan, 1-37-17 Yazaki, Fukutsu-shi, Fukuoka-ken 811-3304, "Fukutsu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4672008,33.7846498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>添田町のライブカメラ / Soeda Town, Fukuoka</name>
+        <description>福岡県田川郡添田町添田 保健センター 添田町役場 / 2151 Soeda, Soeda-cho, Tagawa-gun, Fukuoka 824-0691, Soeda Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.864549,33.571829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しゃくなげ荘の現在の様子 / Shakunage House Road Conditions near Mt. Hidehiko Shakunage House</name>
+        <description><![CDATA[福岡県田川郡添田町添田 しゃくなげ荘・路面状況 添田町のライブカメラ 添田町役場 / Shakunage House, Soeda, Soeda-machi, Tagawa-gun, Fukuoka-ken,  "Soeda Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.896606,33.477272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駐車場満空情報・ライブカメラ / Parking information · Live camera</name>
+        <description><![CDATA[〒818-0101 福岡県太宰府市観世音寺１丁目１−１　太宰府市役所　「太宰府市交通情報案内システム」/ Dazaifu City Hall, 1-1-1 Kanzeonji, Dazaifu-shi, Fukuoka-ken 818-0101, "Dazaifu City Traffic Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5238926,33.5128076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大藤ライブカメラ / Wisteria Tree Live Camera</name>
+        <description>〒834-1292 福岡県八女市黒木町今１３１４−１　黒木町観光協会 / Kurogi Tourism Association, 1314-1 Ima, Kurogi-machi, Yame-shi, Fukuoka-ken 834-1292</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6670742,33.2178742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳川市内の風景 / Yanagawa City</name>
+        <description>福岡県柳川市 お天気カメラ かもの家 / Yanagawa City, Fukuoka, Weather Camera, Kamono House</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.405998,33.163277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊都新キャンパスライブカメラ / Kyushu University Ito New Campus Live Camera</name>
+        <description>〒812-0053 福岡県福岡市東区箱崎６丁目１０ 九州大学 / Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka-shi, Fukuoka-ken 812-0053</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.424774,33.626555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>車・用品・建機ライブ / Construction Machinery Store in Fukuoka City</name>
+        <description>〒812-0004 福岡県福岡市博多区榎田2丁目3−18 福岡マシンテック（株） / Fukuoka Machine Tech Co., Ltd., 2-3-18 Enokida, Hakata-ku, Fukuoka-shi, Fukuoka-ken 812-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.439687,33.592119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡空港ライブカメラ / Fukuoka Airport Live Camera</name>
+        <description><![CDATA[〒812-0003 福岡県福岡市博多区下臼井７７８−１　福岡空港　「JAL　天気情報」/ Fukuoka Airport, 778-1 Shimousui, Hakata-ku, Fukuoka-shi, Fukuoka-ken 812-0003, "JAL Weather Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4467091,33.5903145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡の空 / The Sky of Fukuoka City</name>
+        <description>福岡市 / Fukuoka City, Fukuoka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4019669,33.590415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡市防災・危機管理情報 / Fukuoka City Disaster Prevention and Crisis Management Information</name>
+        <description>〒810-8620 福岡県福岡市中央区天神１丁目８−１　福岡市市民局　防災・危機管理部 防災・危機管理課 / Fukuoka Citizen bureau Disaster Prevention, Crisis Management Part Disaster Prevention, Crisis Management Section, 1-8-1 Tenjin, Chuo-ku, Fukuoka-shi, Fukuoka-ken 810-8620</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4016821,33.5902991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ツシマヤマネコ / Tsushima Wildcat, Fukuoka City</name>
+        <description>〒810-0037 福岡県福岡市中央区南公園1番1号 福岡市動物園 / Fukuoka City Zoo, 1‐1 Minamikouen, Chuo-ku, Fukuoka-shi, Fukuoka-ken 810-0037</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3907524,33.5726602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>展望台ライブカメラ / Observatory Live Camera</name>
+        <description>〒819-0001 福岡県福岡市西区小戸３丁目５８－１　福岡市立ヨットハーバー / Fukuoka City Yacht Harbor, 3-28-1 Odo, Nishi-ku, Fukuoka-shi, Fukuoka-ken 819-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3128888,33.5909964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[入荷実況中継 / Farmer's Market in Itoshima City]]></name>
+        <description><![CDATA[〒819-1311 福岡県糸島市志摩津和崎３３−１ ＪＦ糸島志摩の四季 / JF Itoshima Shima no Shiki, the farmer's market, 33-1 Shimatsuwazaki, Itoshima-shi, Fukuoka-ken 819-1311]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.18816,33.578587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡県芥屋ビーチカメラ / Fukuoka Keya Beach Camera</name>
+        <description>福岡県糸島市志摩芥屋 「ii-nami.com」 / Shimakeya, Itoshima-shi, Fukuoka-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.097351,33.583735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡垣町観光ステーション　北斗七星ウェブカメラ</name>
+        <description>〒811-4202 福岡県遠賀郡岡垣町原６７０−３４　岡垣町観光協会</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5741676,33.87861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州大学伊都キャンパス</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.2235683,33.5974825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太宰府天満宮ライブカメラ / Dazaifu Tenmangu Live Camera</name>
+        <description><![CDATA[〒818-0117 福岡県太宰府市宰府４丁目7番1号　太宰府天満宮 「九州朝日放送」/ Dazaifu Tenmangu, 4--7-1 Saifu, Dazaifu-shi, Fukuoka-ken 818-0117, "KBC Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5348647,33.5214866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>添田町ライブカメラ / Soeda Town Live Camera</name>
+        <description>〒824-0602 福岡県田川郡添田町添田２１５１ 添田町役場 / Soeda Town Office, 2151 Soeda, Soeda-machi, Tagawa-gun, Fukuoka-ken 824-0302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.854088,33.571816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川・矢部川・喜瀬川ライブカメラ / Chikugo River, Yabe River, Kise River Live Camera</name>
+        <description>〒830-0002 福岡県久留米市高野１丁目２−１　国土交通省 九州地方整備局 筑後川河川事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Chikugo River Office, 1-2-1 Takano, Kurume-shi, Fukuoka-ken 830-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.525819,33.331372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡国道事務所‐リアルタイム道路情報 / Fukuoka National Highway Office - Real-time road information</name>
+        <description>〒813-0043 福岡県福岡市東区名島３丁目２４−１０　国土交通省福岡国道事務所 / Ministry of Land, Infrastructure and Transport Fukuoka National Highway Office, 3-24-10 Najima, Higashi-ku, Fukuoka-shi, Fukuoka-ken 813-0043</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.427767,33.644888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志免町防災気象情報 / Shimakeno Town Disaster Weather Information</name>
+        <description>〒811-2244 福岡県糟屋郡志免町志免中央１丁目１−１　志免町生活安全課安全安心係 / Shime Town Lifestyle Safety Section Safety and security staff, 1-1-1 Shimechuo, Shime-machi, Kasuya-gun, Fukuoka-ken 811-2244</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4797299,33.5914037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美町防災気象情報 / Umi Town Disaster Weather Information</name>
+        <description>〒811-2192 福岡県糟屋郡宇美町宇美５丁目１−１　宇美町役場 / Umi Town Hall, 5-1-1 Umi, Umi-machi, Kasuya-gun, Fukuoka-ken, Fukuoka-ken 811-2192</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5111169,33.5677952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川河口堰カメラ / Onga River Estuary Barrage</name>
+        <description>〒807-0101 福岡県遠賀郡芦屋町幸町２−２０　芦屋町役場　「国土交通省遠賀川河川事務所提供」 / Ashiya Town Hall, 2-20 Saiwai-machi, Ashiya-machi, Onga-gun, Fukuoka-ken 807-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.663907,33.893837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>テレビ西日本LIVE配信 / TV West Japan LIVE distribution</name>
+        <description>〒814-0001 福岡県福岡市早良区百道浜２丁目３−２ (株)テレビ西日本 (ＴＮＣ) / TV West Japan (TNC) 2-3-2 Hyakumichihama, Sawara-ku, Fukuoka 814-0001, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3523996,33.5926109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[「FBSライブ配信」/ "FBS live distribution"]]></name>
+        <description><![CDATA[〒810-8655 福岡県福岡市中央区清川２丁目２２−８ ＦＢＳ福岡放送ビル 本館 ㈱福岡放送 (FBS) /Japan FBS Fukuoka Broadcasting Building Main Building, 2-22-8 Kiyokawa, Chuo-ku, Fukuoka 810-8655,  "Fukuoka Broadcasting Co., Ltd. (FBS)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4083068,33.5804725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティラジオ天神FM77.7MHｚ / Community radio Tenjin FM77.7MHz</name>
+        <description>〒810-0041 福岡県福岡市中央区大名１丁目１２−５ ２階 コミュニティラジオ天神 / Community Radio Tenjin, 1st floor, 12-5 Daimyo, Chuo-ku, Fukuoka-shi, 810-0041, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3961668,33.5880802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ワンパーク西中州店ライブカメラ / One Park Nishi Nakashu Store Live Camera</name>
+        <description>〒810-0002 福岡県福岡市中央区西中洲３−１ デルタ ウエスト 1階 ワンパーク西中洲店 / One Park Nishi Nakasu store, Delta West 1st floor, 3-1 Nishi Nakasu, Chuo-ku, Fukuoka-shi 810-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4058798,33.5907802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>樋井川草香江新橋ライブカメラ / Hii River Kusagae Shimbashi live camera</name>
+        <description><![CDATA[〒810-0045 福岡県福岡市中央区草香江 「福岡市防災気象情報」 / Kusagae, Chuo-ku, Fukuoka-shi, Fukuoka 810-0045, "Fukuoka disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3745544,33.5796848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[JR鹿児島本線 & 西鉄貝塚線　千早ライブカメラ（千早〜箱崎 / 西鉄千早〜名島）/ JR Kyushu the Kagoshima Main Line Live Camera]]></name>
+        <description>〒813-0041 福岡県福岡市東区水谷２丁目５０−１ 千早操車場 / Chihaya Shunting Yard, 2-50-1, Mizutani, Higashi-ku, Fukuoka-shi, 813-0041, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.439748,33.6482986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須恵川原田橋ライブカメラ / Suegawa Haradabashi Live Camera</name>
+        <description>〒812-0063 福岡県福岡市東区原田 原田橋 「福岡市防災気象情報」/ Harada-bashi, Harada, Higashi-ku, Fukuoka-shi, 812-0063, Japan “Fukuoka-shi disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4355885,33.6197389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>博多港香椎パークポートコンテナターミナル入場ゲート前混雑状況ライブカメラ / Hakata Port Kashii Park Port Container Terminal Entrance Gate Congestion Live Camera</name>
+        <description>〒813-0018 福岡県福岡市東区香椎浜ふ頭４丁目２−２ 香椎パークポートコンテナターミナル ４階 博多港ふ頭（株） 本社 / 4-2, Kashiihama Wharf, Higashi-ku, Fukuoka City, 813-0018, Japan Kashii Park Port Container Terminal 4th Floor Hakata Port Wharf Headquarters</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.409024,33.650925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>博多港アイランドシティコンテナターミナル入場ゲート前混雑状況ライブカメラ / Hakata Port Island City Container Terminal Congestion live camera in front of entrance gate</name>
+        <description>〒813-0019 福岡県福岡市東区みなと香椎１丁目１−３ アイランドシティーコンテナターミナル 博多港ふ頭 / Hakata Port Pier, Island City Container Terminal 1-3 1-3 Minato Kashii, Higashi-ku, Fukuoka City, 813-0019, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4045652,33.6614186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川二又瀬橋ライブカメラ / Umikawa Futamasebashi live camera</name>
+        <description><![CDATA[〒812-0068 福岡県福岡市東区社領３丁目１９ 「福岡市防災気象情報」/ 3-19 Sharyo, Higashi-ku, Fukuoka-shi, Fukuoka 812-0068, Japan "Fukuoka City Disaster Prevention Weather Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.437467,33.6075654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綿打川綿打橋ライブカメラ / Watauchi River Watauchi Bridge Live Camera</name>
+        <description>〒812-0061 福岡県福岡市東区筥松１丁目 「福岡市防災気象情報」/ 1-chome, Hakomatsu, Higashi-ku, Fukuoka-shi, Fukuoka 812-0061, Japan “Fukuoka-shi disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4313824,33.6174924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須恵川津屋本町橋ライブカメラ / Sue River Tsuyahonchobashi Live Camera</name>
+        <description>〒813-0034 福岡県福岡市東区多の津５丁目５ 「福岡市防災気象情報」/ 5-5 Tanotsu, Higashi-ku, Fukuoka-shi, Fukuoka 813-0034 “Fukuoka City disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.448609,33.620162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多々良川多々良橋ライブカメラ / Tatara River Tatara Bridge Live Camera</name>
+        <description>福岡県福岡市東区 多々良橋 「福岡市防災気象情報」/ Tatarabashi, Higashi-ku, Fukuoka City, Fukuoka Prefecture “Fukuoka City Disaster Prevention Weather Information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4530069,33.6296159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道福岡インターチェンジ付近ライブカメラ / Kyushu Expressway Fukuoka interchange live camera</name>
+        <description>福岡県福岡市東区蒲田 「NEXCO西日本」/ Kamata, Higashi-ku, Fukuoka City, Fukuoka Prefecture “NEXCO West Japan”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.490071,33.629933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>空港ライブカメラ福岡空港 / Airport live camera FUK</name>
+        <description><![CDATA[〒812-0858 福岡県福岡市博多区月隈 「くまくまくま」/Tsukikuma, Hakata-ku, Fukuoka-shi, 812-0858, Japan, " "Kumakumakuma"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4643635,33.5743115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR鹿児島本線南福岡駅ライブカメラ / JR Kagoshima Main Line Minami Fukuoka Station Live Camera</name>
+        <description><![CDATA[〒812-0884 福岡県福岡市博多区寿町２丁目９ 南福岡駅 「くまくまくま」/ 2-9 Kotobukicho, Hakata-ku, Fukuoka 812-0884, Japan, "KUMAKUMAKUMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4602657,33.5422137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御笠川隅田橋ライブカメラ / Mikasa Sumidabashi live camera</name>
+        <description>〒812-0857 福岡県福岡市博多区西月隈４丁目７ 隅田橋 「福岡市防災気象情報」/ Sumidabashi, 4-7 Nishitsukikuma, Hakata-ku, Fukuoka 812-0857, Fukuoka Prefecture “Fukuoka City Disaster Prevention Weather Information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4590547,33.5659611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御笠川山王橋ライブカメラ / Mikasa Sannobashi live camera</name>
+        <description>〒812-0007 福岡県福岡市博多区東比恵４丁目１２ 山王橋 「福岡市防災気象情報」/ 4-12 Higashihie, Hakata-ku, Fukuoka, Fukuoka 812-0007 Sannobashi “Fukuoka disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4328139,33.5847768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諸岡川那珂下原橋ライブカメラ / Morooka Naka Shimohara Bridge Live Camera</name>
+        <description>〒812-0893 福岡県福岡市博多区那珂４丁目１９ 那珂下原橋 「福岡市防災気象情報」/ Naka Shimoharabashi, 4-19 Naka, Hakata-ku, Fukuoka 812-0893, Fukuoka Prefecture, “Fukuoka City Disaster Prevention Weather Information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4427395,33.5688313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御笠川那珂大橋ライブカメラ / Mikagawa Naka Ohashi Live Camera</name>
+        <description>〒812-0896 福岡県福岡市博多区東光寺町４丁目１ 那珂大橋 「福岡市防災気象情報」/ 〒812-0896 4-1, Tokoji-cho, Hakata-ku, Fukuoka-shi, Fukuoka Naka Ohashi “Fukuoka-shi disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4392841,33.5729501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川稲荷橋ライブカメラ / Nakagawa Inari Bridge Live Camera</name>
+        <description>福岡県福岡市博多区 稲荷橋 「福岡市防災気象情報」/ Inaribashi, Hakata-ku, Fukuoka City, Fukuoka Prefecture “Fukuoka City Disaster Prevention Weather Information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4101992,33.5821604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御笠川東光橋ライブカメラ / Mikasa Tokohashi Live Camera</name>
+        <description><![CDATA[福岡県福岡市博多区博多駅東１丁目８ 東光橋 「福岡市防災気象情報」/ 1-8 East Higashi 1-chome, Hakata Station, Hakata-ku, Fukuoka City, Fukuoka Prefecture, "Fukuoka disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4240202,33.5932122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHOP236福岡上空天気ライブカメラ / SHOP236 Fukuoka sky weather live camera</name>
+        <description><![CDATA[〒815-0035 福岡県福岡市南区向野１丁目４−２９ シック玉川ビル202号 手づくり雑貨 と こども服 SHOP236 / Handmade miscellaneous goods and children's clothing SHOP236, Chic Tamagawa Building No. 202, 1-29, Mukono, Minami-ku, Fukuoka, Fukuoka 815-0035]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4226007,33.5638604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川塩原ライブカメラ / Nakagawa Shiobara live camera</name>
+        <description><![CDATA[〒815-0032 福岡県福岡市南区塩原１丁目 「福岡市防災気象情報」/ 1-chome Shiobara, Minami-ku, Fukuoka-shi, Fukuoka 815-0032 "Fukuoka-shi disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4306216,33.5658985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川下曰佐ライブカメラ / Naka River Shimohisa Live Camera</name>
+        <description><![CDATA[〒811-1345 福岡県福岡市南区向新町２丁目 「福岡市防災気象情報」/ 2-chome, Mukoshin-cho, Minami-ku, Fukuoka-shi, Fukuoka 811-1345 "Fukuoka-shi disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4299847,33.5397896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瑞梅寺川太郎丸橋ライブカメラ / Zuibaiji River Taromaru Bridge Live Camera</name>
+        <description><![CDATA[〒819-0383 福岡県福岡市西区田尻１丁目 「福岡市防災気象情報」/ 1-chome Tajiri, Nishi-ku, Fukuoka-shi, Fukuoka 819-0383 "Fukuoka-shi disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2469306,33.5779844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号バイパス徳永ライブカメラ / National Route 202 Bypass Tokunaga Live Camera</name>
+        <description>〒819-0371 福岡県福岡市西区大字飯氏 「福岡国道事務所」/ Iiji, Nishi-ku, Fukuoka City, 819-0371, Fukuoka Prefecture “Fukuoka National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2501246,33.5644188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>樋井川樋井川橋ライブカメラ / Hiigawa Hiigawabashi live camera</name>
+        <description>〒814-0123 福岡県福岡市城南区長尾４丁目４「 福岡市防災気象情報」/ 4-4 Nagao, Jonan-ku, Fukuoka-shi, Fukuoka 814-0123 “Fukuoka-shi disaster prevention weather information”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3854694,33.5533616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>樋井川田島橋ライブカメラ / Hiigawa Tajimabashi live camera
+</name>
+        <description><![CDATA[〒814-0113 福岡県福岡市城南区田島４丁目 「福岡国道事務所」/ 〒814-0113 4 Tajima, Jonan-ku, Fukuoka-shi, Fukuoka, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3745544,33.565622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RKBライブストリーミング / RKB live streaming</name>
+        <description><![CDATA[〒814-8585 福岡県福岡市早良区百道浜２丁目３−８ ＲＫＢ放送会館 RKB毎日放送(株) / RKB Broadcasting Center2-3-8 Hyakudohama, Sawara-ku, Fukuoka 814-8585, "RKB Mainichi Broadcasting Co., Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3508602,33.5929717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坊主川石釜ライブカメラ / Bouzu River Live Camera</name>
+        <description><![CDATA[〒811-1132 福岡県福岡市早良区大字石釜 「福岡国道事務所」/  Ishigama, Sawara-ku, Fukuoka, 811-1132, Japan, "Fukuoka National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3139675,33.4761383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>室見川橋本橋ライブカメラ / Muromigawa Hashimotobashi live camera</name>
+        <description><![CDATA[〒814-0033 福岡県福岡市早良区有田８丁目６「福岡国道事務所」/ 8-6 Arita, Sawara-ku, Fukuoka-shi, 814-0033, Japan, " Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3263291,33.5583396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金屑川大原橋ライブカメラ / Kanakuzu River Ohara Bridge Live Camera</name>
+        <description><![CDATA[〒814-0023 福岡県福岡市早良区原団地３０「福岡国道事務所」/ 30 Haradanchi, Sawara-ku, Fukuoka-shi, 814-0023, Japan, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3417173,33.5720924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道263号三瀬トンネル有料道路福岡側ループ橋付近ライブカメラ / National highway No. 263 Mise tunnel toll road Live camera near the Fukuoka side loop bridge</name>
+        <description><![CDATA[〒811-1133 福岡県福岡市早良区大字曲渕 「佐賀県道路公社」/ Magaribuchi, Sawara-ku, Fukuoka-shi, Fukuoka 811-1133, "Saga Prefectural Road Public Corporation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3012044,33.4881619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神嶽川平和橋ライブカメラ / Kantake River Heiwa Bridge Live Camera</name>
+        <description>〒802-0077 福岡県北九州市小倉北区馬借１丁目 「北九州市役所」/ 1-chome, Mabor, Kokurakita-ku, Kitakyushu City, Fukuoka Prefecture 802-0077, “Kitakyushu City Hall”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8784906,33.8808125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FMキタキューライブカメラ / FM KITAQ Lie Camera</name>
+        <description>〒802-0006 福岡県北九州市小倉北区魚町２丁目５−１７ FM KITAQ（エフエム キタキュー）/  FM KITAQ, 2-5-17 Uomachi, Kokurakita-ku, Kitakyushu-shi, Fukuoka 802-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8807394,33.8839445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川貴船橋ライブカメラ / Murasaki River Kifune Bridge Live Camera</name>
+        <description><![CDATA[〒803-0851 福岡県北九州市小倉北区木町２丁目４ 貴船橋 「北九州市役所」/ 2-4 Kimachi, Kokurakita-ku, Kitakyushu 803-0851, Fukuoka Prefecture, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8705675,33.8720552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東谷川加用橋ライブカメラ / Higashitanigawa Kayobashi live camera</name>
+        <description><![CDATA[福岡県北九州市小倉南区 加用橋 「北九州市役所」/ Kayobashi, Kokuraminami Ward, Kitakyushu City, Fukuoka Prefecture, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8605621,33.8082738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東谷川山ヶ迫橋ライブカメラ / Higashitanigawa Yamagasaki Bridge Live Camera</name>
+        <description><![CDATA[〒803-0186 福岡県北九州市小倉南区大字新道寺 山ケ迫橋 「北九州市役所」/ Ogura Minami-ku, Kitakyushu City, Fukuoka Prefecture 803-0186, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8641487,33.782846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川徳吉東ライブカメラ / Murasaki River Tokuyoshihigashi Live Camera</name>
+        <description><![CDATA[〒803-0277 福岡県北九州市小倉南区徳吉東 「北九州市役所」/ Tokuyoshi East, Kokura Minami Ward, Kitakyushu City, Fukuoka Prefecture 803-0277, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8614262,33.812609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川藪瀬水位観測所ライブカメラ / Shikawa Yabuze Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒802-0978 福岡県北九州市小倉南区蒲生 「福岡県庁県土整備部河川課」/ Gamo, Kokuraminami-ku, Kitakyushu, Fukuoka 802-0978, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8664828,33.8431666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川桜橋水位観測所ライブカメラ / Shikawa Sakurabashi Water Level Observatory Live Camera </name>
+        <description><![CDATA[福岡県北九州市小倉南区南方 「福岡県庁県土整備部河川課」/ Minamikata, Kokuraminami Ward, Kitakyushu City, Fukuoka Prefecture, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8619292,33.8229897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川桜橋上流ライブカメラ / Murasaki River Sakurabashi upstream live camera</name>
+        <description><![CDATA[〒802-0974 福岡県北九州市小倉南区徳力 「北九州市役」/ Tokoriki, Kokuraminami-ku, Kitakyushu City, Fukuoka Prefecture 802-0974 "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8591282,33.8266104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫川藪瀬ライブカメラ / Shikawa Yabuse Live Camera</name>
+        <description><![CDATA[〒802-0978 福岡県北九州市小倉南区蒲生 「北九州市役所」/ Gamo, Kokuraminami Ward, Kitakyushu City, Fukuoka Prefecture 802-0978, "Kitakyushu City Hall'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8664828,33.8431666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共立航空撮影北九州営業所ライブカメラ / Kyoritsu Aviation Shooting Kitakyushu Sales Office Live Camera</name>
+        <description>〒800-0306 福岡県北九州市小倉南区空港北町２ 共立航空撮影北九州営業所 / Kyoritsu Aerial Office, Kyoritsu Aerial Office, 2 Airport Kitamachi, Kokuraminami-ku, Kitakyushu City, Fukuoka Prefecture 800-0306</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0334822,33.8352684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相割川恒見橋ライブカメラ / Aiwari River Tsunami Bridge Live Camera</name>
+        <description><![CDATA[〒800-0116 福岡県北九州市門司区恒見町 「北九州市役所」/ Tsunetami-cho, Moji-ku, Kitakyushu, Fukuoka 800-0116, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9757233,33.8662088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太刀浦第一コンテナターミナルゲート前状況ライブカメラ / Tachiura Daiichi Container Terminal Gate Status Live Camera</name>
+        <description>〒801-0805 福岡県北九州市門司区太刀浦海岸１９ 太刀浦第一コンテナターミナル / Tachiura First Container Terminal, 19 Tachiurakaigan, Moji-ku, Kitakyushu City, Fukuoka Prefecture 801-0805, Japan </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0039736,33.9670179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川宿ノ内橋ライブカメラ / Egawa Shukunouchi Bridge Live Camera</name>
+        <description><![CDATA[福岡県北九州市八幡西区浅川町 「北九州市役所」/  Asakawa Town, Hachiman Nishi Ward, Kitakyushu City, Fukuoka Prefecture, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6963249,33.8849395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川三条橋ライブカメラ / Kurokawa Sanjo Bridge Live Camera</name>
+        <description><![CDATA[〒807-1102 福岡県北九州市八幡西区香月中央 三条橋 「北九州市役所」/ Sanjobashi, Katsuki Chuo, Hachimansai-ku, Kitakyushu City, 807-1102, Fukuoka Prefecture, "Kitakyushu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7320763,33.7999019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川石園水位観測所ライブカメラ / Kurokawa Shizono Water Level Observatory Live Camera </name>
+        <description><![CDATA[福岡県北九州市八幡西区香月西 「遠賀川河川事務所」/ Kagonishi, Hachimansai-ku, Kitakyushu, Fukuoka "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7275995,33.7995507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹尾川野面水位観測所ライブカメラ / Sasagawa River Nozomi Water Level Live Camera </name>
+        <description>福岡県北九州市八幡西区 「遠賀川河川事務所」/ Hachiman Nishi Ward, Kitakyushu City, Fukuoka Prefecture “Ongagawa River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7333088,33.7825456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道基山パーキングエリア下りライブカメラ / Kyushu Expressway Kiyama parking area down live camera</name>
+        <description><![CDATA[〒818-0024 福岡県筑紫野市大字原田１３１８ 基山パーキングエリア下り「NEXCO西日本」/ 1318 Harada, Chikushino, Fukuoka 818-0024, Japan Kiyama parking area down "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5323254,33.4421281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高尾川平成橋ライブカメラ / Takao Heisei Bridge Live Camera</name>
+        <description><![CDATA[〒818-0061 福岡県筑紫野市紫１丁目２３−２３ 「福岡県庁県土整備部河川課」/  1-23-23 Murasaki, Chikushino-shi, Fukuoka 818-0061, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5192818,33.4987697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エーワンサーキットライブカメラ / A-one circuit live camera</name>
+        <description>〒818-0024 福岡県筑紫野市大字原田１３３８エーワン サーキット / A-one Circuit, 1338 Harada, Chikushino, Fukuoka, Japan 818-0024 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.530684,33.442195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道3号筑紫野諸田ライブカメラ / National Road Chikushino Morota Live Camera</name>
+        <description><![CDATA[〒818-0065 福岡県筑紫野市大字諸田 「福岡国道事務所」/ Morota, Chikushino, Fukuoka Prefecture 818-0065 Japan, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5393011,33.4664302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御笠川筒井橋ライブカメラ / Mikasa River Tsutsui Bridge Live Camera</name>
+        <description><![CDATA[〒816-0931 福岡県大野城市筒井５丁目 筒井橋 「福岡県庁県土整備部河川課」/  Tsutsui Bridge, 5 Tsutsui, Onojo City, Fukuoka Prefecture 816-0931, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4829391,33.5400605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[iinami釣川北斗の水汲み海浜公園ライブカメラ / iinami Tsurikawa Hokuto's water drawing seaside park live camera]]></name>
+        <description>〒811-3501 福岡県宗像市神湊１２７８−１ 北斗の水くみ海浜公園</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5013953,33.8524761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釣川上釣橋ライブカメラ / Tsuri River Kamitsuri Bridge Live Camera</name>
+        <description><![CDATA[〒811-3431 福岡県宗像市田熊 上釣橋 「福岡県庁県土整備部河川課」/ Kamitsuri Bridge,  Takuma, Munakata City, Fukuoka Prefecture 811-3431,  "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5333668,33.8117649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五条交差点太宰府天満宮方向ライブカメラ / Gojo intersection Dazaifu Tenmangu direction live camera</name>
+        <description><![CDATA[福岡県太宰府市五条 「太宰府市役所」/ Gojo, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5266496,33.5136302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅大路交差点周辺ライブカメラ / Umeoji intersection Live camera </name>
+        <description><![CDATA[福岡県太宰府市五条１丁目 「太宰府市役所」/1-chome, Gojo, Dazaifu City, Fukuoka Prefecture,  "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5287638,33.5143559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太宰府市役所周辺ライブカメラ / Live camera around Dazaifu City Hall</name>
+        <description><![CDATA[福岡県太宰府市観世音寺 「太宰府市役所」/ Kanzeonji, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5238399,33.5135981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡県道76号筑紫野太宰府線ライブカメラ / Fukuoka Prefecture Route 76 Chikushino Dazaifu Line Live Camera</name>
+        <description><![CDATA[福岡県太宰府市観世音寺 「太宰府市役所」/ Kanzeonji, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5104247,33.5132936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡県道76号筑紫野太宰府線ライブカメラ / Fukuoka Prefecture Route 76 Chikushino Dazaifu Line Live Camera</name>
+        <description><![CDATA[福岡県太宰府市宰府２丁目 「太宰府市役所」/2-chome, saifu, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.531804,33.5165347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡県道76号筑紫野太宰府線（九州国立博物館前）ライブカメラ / Fukuoka Prefecture Route 76 Chikushino Dazaifu Line (in front of Kyushu National Museum) live camera</name>
+        <description><![CDATA[福岡県太宰府市石坂3丁目 「太宰府市役所」/ 3-chome, Ishizaka, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5368216,33.5157797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州国立博物館入口交差点第1ライブカメラ / Kyushu National Museum entrance intersection 1st live camera</name>
+        <description><![CDATA[福岡県太宰府市大字内山 「太宰府市役所」/ Uchiyama, Dazaifu City, Fukuoka Prefecture "Dazaifu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.545384,33.5238888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道太宰府インターチェンジ付近ライブカメラ / Live camera near the Dazaifu interchange on the Kyushu Expressway</name>
+        <description><![CDATA[〒818-0131 福岡県太宰府市水城２丁目 太宰府IC 「NEXCO西日本」/ Dazaifu IC, 2 Mizushiro, Dazaifu City, Fukuoka Prefecture, 818-0131 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4973691,33.5311083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道古賀サービスエリア上りライブカメラ / Kyushu Expressway Koga service area upstream live camera</name>
+        <description><![CDATA[〒811-3121 福岡県古賀市筵内１−１−５ 「NEXCO西日本」/ 1-1-5 Mushirouchi, Koga City, Fukuoka 811-3121 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5169668,33.7378547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道古賀サービスエリア下りライブカメラ / Kyushu Expressway Koga Service Area Down Live Camera</name>
+        <description><![CDATA[〒811-3122 福岡県古賀市薦野１１００ 古賀SA (下り) 「NEXCO西日本」/ Koga SA (outbound),  1100 Kono, Koga-shi, Fukuoka 811-3122  "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5197352,33.7383972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道古賀サービスエリア付近ライブカメラ / Kyushu Expressway Koga Service Area Live Camera</name>
+        <description><![CDATA[福岡県古賀市薦野 古賀サービスエリア(古賀SA)付近 「NEXCO西日本」/ Near Koga Service Area (Koga SA) , Koga City, Fukuoka Prefecture "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5186336,33.7377583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道3号古賀ライブカメラ / National highway No. 3 Koga live camera</name>
+        <description><![CDATA[〒811-3115 福岡県古賀市久保 「福岡国道事務所」/ Kubo, Koga City, Fukuoka 811-3115, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.483454,33.7387671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西郷川四角橋ライブカメラ / Saigo River Square Bridge Live Camera</name>
+        <description><![CDATA[〒811-3209 福岡県福津市日蒔野５丁目１ 県道30号線 「福岡県庁県土整備部河川課」/ 5-chome, Himakino, Fukuoka City, Fukuoka Prefecture 811-3209, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4932649,33.7611322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号二丈吉井ライブカメラ / National highway No. 202 Nijo Yoshii live camera </name>
+        <description>〒819-1641 福岡県糸島市二丈吉井 「福岡国道事務所」/ Nijo Yoshii, Itoshima City, Fukuoka 819-1641, Fukuoka National Highway Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.0689021,33.4907472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号バイパス二丈福井ライブカメラ / National highway No. 202 bypass Nijo Fukui live camera</name>
+        <description>〒819-1631 福岡県糸島市二丈福井 「福岡国道事務所」/ Nijo Fukui, Itoshima City, Fukuoka 819-1631 “Fukuoka National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1068534,33.5038077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道202号バイパス淀川高架橋ライブカメラ / National highway 202 bypass Yodogawa viaduct live camera</name>
+        <description><![CDATA[〒819-1601 福岡県糸島市二丈深江 淀川高架橋 「福岡国道事務所」/ Yodogawa Viaduct, Nijo Fukae, Itoshima City, Fukuoka 819-1601, Japan, " Fukuoka National Road Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1345498,33.5117903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川昭和の森ライブカメラ / Umikawa Showa no Mori Live Camera</name>
+        <description>〒811-2101 福岡県糟屋郡宇美町大字宇美３丁目 ３ 宇美町昭和の森キャンプ場 「宇美町防災気象情報」/ Umi-cho Showa no Mori Campground, 3-3 Umi, Umi-cho, Kasuya-gun, Fukuoka Prefecture 811-2101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5590147,33.5587207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川上戸樋橋ライブカメラ / Umikawa Ueto Hibashi Live Camera</name>
+        <description><![CDATA[〒811-2108 福岡県糟屋郡宇美町ゆりが丘３丁目 「宇美町役場」/3-chome, Yurigaoka, Umi Town, Kasuya District, Fukuoka Prefecture 811-2108, "Umi Town Hall”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5349675,33.5576514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川正法橋ライブカメラ / Umikawa Shohobashi live camera</name>
+        <description><![CDATA[〒811-2125 福岡県糟屋郡宇美町宇美東１丁目１ 正法橋 「宇美町役場」/ Shobashi, 1-1, Umihigashi, Umi-cho, Kasuya-gun, Fukuoka 811-2125, "Umi-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5253265,33.569414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川船石橋ライブカメラ / Umikawa Funabashi Ishibashi Live Camera</name>
+        <description><![CDATA[〒811-2102 福岡県糟屋郡宇美町大字炭焼 「宇美町役場」/ Sumiyaki, Umi Town, Kasuya-gun, Fukuoka 811-2102, "Umi Town Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5152578,33.5449287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川ひのくち橋ライブカメラ / Umikawa Hinokuchi Bridge Live Camera</name>
+        <description><![CDATA[〒811-2131 福岡県糟屋郡宇美町貴船１丁目 「宇美町役場」/Kibune 1-chome, Umi Town, Kasuya District, Fukuoka Prefecture 811-2131,  "Umi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5133501,33.5649936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川参宮橋ライブカメラ / Umikawa Sangubashi Live Camera</name>
+        <description><![CDATA[〒811-2104 福岡県糟屋郡宇美町大字井野３３「宇美町役場」/ 33 Ino, Umi-cho, Kasuya-gun, Fukuoka 811-2104, "Umi-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5017728,33.5670129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川宇美橋ライブカメラ / Umigawa Umibashi live camera</name>
+        <description><![CDATA[〒811-2122 福岡県糟屋郡宇美町明神坂１丁目１ 宇美橋 「宇美町役場」/ Umibashi, 1-1, Myojinzaka, Umi-cho, Kumiya-gun, Fukuoka 811-2122,   "Umi-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5067889,33.5721522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス筑穂トンネル入口福岡側ライブカメラ / Route 201 Yagiyama bypass Chikuho tunnel entrance Fukuoka side live camera</name>
+        <description><![CDATA[〒811-2404 福岡県糟屋郡篠栗町大字内住 「北九州国道事務所」/  Naijyu, Sasaguri-machi, Kasuya-gun, Fukuoka 811-2404, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5823156,33.6076343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス第1ライブカメラ / National highway 201 Yagiyama bypass first live camera</name>
+        <description><![CDATA[福岡県糟屋郡篠栗町 八木山バイパス 「福岡国道事務所」/ Yagiyama Bypass, Sasaguri-machi, Kasuya-gun, Fukuoka Prefecture, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5755056,33.6153978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号篠栗9ライブカメラ / National highway No. 201 Shinoguri 9 live camera</name>
+        <description><![CDATA[福岡県糟屋郡篠栗町大字篠栗 「福岡国道事務所」/ Sashinoguri, Sasaguri-machi, Kasuya-gun, Fukuoka Prefecture, "Fukuoka Prefecture Highway Office"<br>https://livecamera.fujiyamasan.com/fukuoka-r201-shinokuri9.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5584832,33.6144765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号篠栗橋ライブカメラ / National highway No. 201 Shinoguribashi live camera</name>
+        <description><![CDATA[福岡県糟屋郡篠栗町大字金出 「福岡国道事務所」/ Kanade, Kasuya-gun, Fukuoka<br>"Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5457732,33.6311847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川片峰新橋ライブカメラ / Umi River Katamineshibashi LIve Camera</name>
+        <description><![CDATA[〒811-2244 福岡県糟屋郡志免町志免中央４丁目 「福岡市防災気象情報」/  4, Shimenchuo, Shimen-cho, Kasuya-gun, Fukuoka 811-2244, "Fukuoka-shi disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4782491,33.5869173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇美川田富橋ライブカメラ / Umi River Tatomi Bridge Live Camera</name>
+        <description><![CDATA[〒811-2204 福岡県糟屋郡志免町田富 「福岡市防災気象情報」/ Tatomi, Shimen-cho, Kasuya-gun, Fukuoka Prefecture 811-2204, "Fukuoka disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4961776,33.5793603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多々良川雨水橋ライブカメラ / Tatara River rainwater bridge live camera</name>
+        <description><![CDATA[〒811-2313 福岡県糟屋郡粕屋町大字江辻 雨水橋 「福岡市防災気象情報」/ Amamizubashi,  Etsuji, Kasuya-machi, Kasuya-gun, Fukuoka Prefecture 811-2313,  "Fukuoka disaster prevention weather information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4679843,33.6302479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長峡川長音寺橋ライブカメラ / Nagao River Choonji Bridge Live Camera</name>
+        <description>福岡県行橋市上津熊古川63 「福岡県庁県土整備部河川課」/ 63 Kumakogawa, Utsuku City, Yukuhashi City, Fukuoka Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9529127,33.7275941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能徳工業団地入口アンダーパスライブカメラ / Noto Industrial Park Entrance Underpass Live Camera</name>
+        <description>福岡県豊前市八屋 「豊前市役所」/ Hachiya, Buzen City, Fukuoka Prefecture “Buzen City Hall”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1115203,33.6161985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川遠賀川河川事務所中間出張所ライブカメラ / Ongagawa Ongagawa River Office Middle Branch Live Camera</name>
+        <description>〒809-0001 福岡県中間市大字垣生１９９１−１国土交通省遠賀川河川事務所 中間出張所 / Ministry of Land, Infrastructure, Transport and Tourism Ongagawa River Office Intermediate Branch Office, 1991-1 Habu, Nakama-shi, Fukuoka Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.695642,33.826465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川中間唐戸水門ライブカメラ / Ongagawa Middle Karato Sluice Live Camera </name>
+        <description><![CDATA[〒809-0034 福岡県中間市中間２丁目５−１「遠賀川河川事務所」/ 2-5-1, Naka, Naka-shi, Fukuoka 809-0034 "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7082322,33.8141555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川吉富ライブカメラ / Yamakunigawa Yoshitomi live camera</name>
+        <description><![CDATA[福岡県築上郡吉富町 「山国川河川事務所」/ Yoshitomi-cho, Tsukigami-gun, Fukuoka "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1819087,33.6160821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川幸子ライブカメラ /  Yamakunigawa Sachiko live camera</name>
+        <description><![CDATA[〒871-0821 福岡県築上郡吉富町大字幸子 「山国川河川事務所」/ Sachiko, Yoshitomi-cho, Tsukigami-gun, Fukuoka 〒871-0821, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1690621,33.5937029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川下唐原ライブカメラ / Yamakuni River Shimokarahara Live Camera</name>
+        <description><![CDATA[〒871-0923 福岡県築上郡上毛町大字下唐原 「山国川河川事務所」/  Shimokarahara, Jomo-cho, Tsukigami-gun, Fukuoka Prefecture 871-0923, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1728341,33.56311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス穂波東インターチェンジ下り入口ライブカメラ / Route 201 Yagiyama Bypass Honami Higashi Interchange Outlet Entrance Live Camera</name>
+        <description><![CDATA[〒820-0088 福岡県飯塚市弁分 穂波東IC 「北九州国道事務所」/ Fukuoka Honami Higashi IC,    Benbun, Iizuka City 820-0088, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6697112,33.6227496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス津原橋ライブカメラ / National highway No. 201 Yagiyama bypass Tsubarabashi live camera</name>
+        <description><![CDATA[福岡県飯塚市津原 「北九州国道事務所」/ Tsuwara, Iizuka City, Fukuoka Prefecture "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6477678,33.6142515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス穂波西インターチェンジ上り入口ライブカメラ / National highway No. 201 Yagiyama bypass Honami west interchange upstream entrance live camera</name>
+        <description><![CDATA[〒820-0087 福岡県飯塚市舎利蔵 穂波西IC 「北九州国道事務所」/ Honami Nishi IC, Sharizo, Izuka City, Fukuoka Prefecture 820-0087,   "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6387118,33.6099749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス本谷高架橋ライブカメラ / National highway 201 Yagiyama bypass Motoya viaduct live camera</name>
+        <description><![CDATA[〒820-0087 福岡県飯塚市舎利蔵 「北九州国道事務所」/ Sharizo, Izuka City, Fukuoka Prefecture 820-0087, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6302237,33.6082575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス福ヶ谷橋登坂車線ライブカメラ / National highway No. 201 Yagiyama bypass Fukugaya bridge uphill lane live camera</name>
+        <description><![CDATA[〒820-0079 福岡県飯塚市高田 「北九州国道事務所」/Takada, Iizuka City, Fukuoka 820-0079,  ``Kitakyushu National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.626838,33.6043455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス九郎原トンネル入口飯塚側ライブカメラ / Route 201 Yagiyama Bypass Kurohara Tunnel Entrance Iizuka Live Camera</name>
+        <description><![CDATA[〒820-0713 福岡県飯塚市内住 九郎原トンネル  「北九州国道事務所」/ Kurohara Tunnel, Iizuka City, Fukuoka Prefecture, 820-0713, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6103018,33.597277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス九郎原トンネル入口福岡側ライブカメラ / Route 201 Yagiyama bypass Kurohara tunnel entrance Fukuoka side live camera</name>
+        <description><![CDATA[〒820-0713 福岡県飯塚市内住 九郎原トンネル 「北九州国道事務所」/ Kurohara Tunnel, Iizuka City, Fukuoka Prefecture, 820-0713, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6060853,33.5997434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス筑穂トンネル入口飯塚側ライブカメラ / National highway No. 201 Yagiyama bypass Chikuho tunnel entrance Iizuka side live camera</name>
+        <description><![CDATA[〒820-0713 福岡県飯塚市内住 筑穂トンネル 「北九州国道事務所」/ Chikuho Tunnel, Naijyu, Iizuka City, Fukuoka Prefecture 820-0713,  <br>"Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5940916,33.600171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス筑穂インターチェンジ入口ライブカメラ / National highway No. 201 Yagiyama bypass Chikuho interchange entrance live camera</name>
+        <description><![CDATA[〒820-0713 福岡県飯塚市内住 筑穂IC 「北九州国道事務所」/ Chikuho IC, Naijyu, Iizuka City, Fukuoka 820-0713   "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6005192,33.600717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス筑穂トンネル駐車帯上りライブカメラ / National highway No. 201 Yagiyama bypass Chikuho tunnel parking zone live camera</name>
+        <description>〒820-0713 福岡県飯塚市内住 筑穂トンネル 「北九州国道事務所」/ Kitakyushu National Highway Office, Chikuho Tunnel, Naijyu, Iizuka City, Fukuoka Prefecture, 820-0713</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5871781,33.6024755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山バイパス筑穂トンネル坑内9ライブカメラ / National highway No. 201 Yagiyama bypass Chikuho tunnel mine 9 live camera</name>
+        <description>〒820-0713 福岡県飯塚市内住 筑穂トンネル 「北九州国道事務所」/ Kitakyushu National Highway Office, Chikuho Tunnel, Naijyu, Iizuka City, Fukuoka Prefecture, 820-0713</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5855815,33.603807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠1ライブカメラ / National Road No. 201 Yagiyama Pass 1 Live Camera </name>
+        <description><![CDATA[〒820-0047 福岡県飯塚市八木山 八木山峠 「北九州国道事務所」/ Yagiyama Pass, Iizuka City, Fukuoka Prefecture 820-0047, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5848012,33.6217073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠5ライブカメラ / National highway No. 201 Yakiyama pass 5 live camera </name>
+        <description><![CDATA[福岡県飯塚市八木山石坂 「北九州国道事務所」/ Yakiyama Ishizaka, Iizuka City, Fukuoka Prefecture, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6245351,33.6424088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠11ライブカメラ / National highway No. 201 Yakiyama pass 11 live camera</name>
+        <description><![CDATA[福岡県飯塚市大日寺 「北九州国道事務所」/ Dainichiji, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.628029,33.6406831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠10ライブカメラ / National highway No. 201 Yakiyama pass 10 live camera</name>
+        <description><![CDATA[福岡県飯塚市大日寺 「北九州国道事務所」/ Dainichiji, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6297029,33.6419029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠12ライブカメラ / National highway No. 201 Yakiyama pass 12 live camera</name>
+        <description><![CDATA[福岡県飯塚市大日寺 「北九州国道事務所」/ Dainichiji, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6275267,33.6419386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠13ライブカメラ / National highway No. 201 Yakiyama pass 13 live camera</name>
+        <description><![CDATA[福岡県飯塚市大日寺 「北九州国道事務所」/ Dainichiji, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6279666,33.6441755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠14ライブカメラ / National highway No. 201 Yakiyama pass 14 live camera </name>
+        <description>福岡県飯塚市蓮台寺 「北九州国道事務所」/ Rendaiji Temple, Iizuka City, Fukuoka “Kitakyushu National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6290931,33.6456314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠15ライブカメラ / National highway No. 201 Yakiyama pass 15 live camera </name>
+        <description>福岡県飯塚市蓮台寺 「北九州国道事務所」/ Rendaiji Temple, Iizuka City, Fukuoka “Kitakyushu National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6294901,33.6472212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠16ライブカメラ / National highway No. 201 Yakiyama pass 16 live camera</name>
+        <description>福岡県飯塚市蓮台寺 「北九州国道事務所」/ Rendaiji Temple, Iizuka City, Fukuoka “Kitakyushu National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.629524,33.645417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠6ライブカメラ / National highway No. 201 Yakiyama pass 6 live camera </name>
+        <description><![CDATA[福岡県飯塚市八木山石坂 「北九州国道事務所」/ Yakiyama Ishizaka, Iizuka City, Fukuoka Prefecture, "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6265092,33.6420783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号本村ライブカメラ / National Highway 201 Honmura Live Camera</name>
+        <description><![CDATA[福岡県飯塚市八木山 「北九州国道事務所」/ Yagiyama, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6029418,33.6264608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号八木山峠8ライブカメラ / National highway No. 201 Yakiyama pass 8 live camera</name>
+        <description><![CDATA[福岡県飯塚市大日寺 「北九州国道事務所」/ Dainichiji, Iizuka City, Fukuoka "Kitakyushu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6289036,33.6409561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川飯塚防災ステーションライブカメラ / Ongagawa Iizuka Disaster Prevention Station Live Camera</name>
+        <description><![CDATA[〒820-0018 福岡県飯塚市芳雄町１６−７ 「遠賀川河川事務所」/ 16-7 Yoshio-cho, Iizuka-shi, Fukuoka 820-0018 "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6912356,33.6395435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中元寺川春日橋水位観測所ライブカメラ / Chuganji River Kasugabashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒826-0026 福岡県田川市春日町 「遠賀川河川事務所」/ Kasuga-cho, Tagawa-shi, Fukuoka 826-0026 "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7959657,33.6298664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金辺川夏吉水位観測所ライブカメラ / Kanabegawa Natsuyoshi Water Level Observatory Live Camera </name>
+        <description><![CDATA[〒825-0004 福岡県田川市大字夏吉 「遠賀川河川事務所」/ 〒825-0004 Nagayoshi, Oita, Tagawa City, Fukuoka Prefecture "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8121006,33.6820418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彦山川遠賀川河川事務所田川出張所ライブカメラ / Hikoyama River Ongagawa River Office Tagawa Branch Live Camera</name>
+        <description>〒825-0017 福岡県田川市寿町７−５４ 国土交通省遠賀川河川事務所 田川出張所 / Ministry of Land, Infrastructure, Transport and Tourism Ongawa River Office Tagawa Branch Office, 7-54, Kotobuki-cho, Tagawa-shi, Fukuoka Prefecture 825-0017</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.811149,33.648648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬鳴川宮田橋水位観測所ライブカメラ / Inunakigawa Miyatabashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[福岡県宮若市本城 「遠賀川河川事務所」/ Honjo, Miyawaka-shi, Fukuoka "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6727486,33.7351278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八木山川生見水位観測所ライブカメラ / Yagiyama River Ikimi Water Level Observatory Live Camera</name>
+        <description><![CDATA[福岡県宮若市生見 「遠賀川河川事務所」/ Ikumi, Miyawaka-shi, Fukuoka "Ongawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6618515,33.7197309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠賀川大隈水位観測所ライブカメラ / Ongagawa Okuma Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒820-0305 福岡県嘉麻市貞月 「遠賀川河川事務所」/ Sadatsuki, Kama City, Fukuoka Prefecture, 820-0305, "Ongagawa River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7323311,33.5562183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>英彦山神宮ライブカメラ / Hidehiko Shrine Live Camera</name>
+        <description>〒824-0721 福岡県田川郡添田町大字英彦山１ 英彦山神宮 / Hidehikoyama Shrine,  1 Hidehikoyama, Soeda-cho, Tagawa-gun, Fukuoka Prefecture 824-0721</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9103064,33.4837593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彦山川添田水位観測所ライブカメラ / Hikoyama River Soeda Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒824-0601 福岡県田川郡添田町庄 「遠賀川河川事務所」/ Sho, Soeda-machi, Tagawa-gun, Fukuoka Prefecture 824-0601, "Ogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.844989,33.5733074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道201号烏尾峠ライブカメラ / National Highway No. 201 Karasuo Pass Live Camera</name>
+        <description>〒822-1300 福岡県田川郡糸田町 烏尾峠 「北九州国道事務所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7603871,33.6527538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彦山川北田排水樋管ライブカメラ / Hikoyama River Kitada drainage gutter live camera</name>
+        <description><![CDATA[福岡県田川郡福智町上野 「遠賀川河川事務所」/ Ueno, Fukuchi-cho, Tagawa-gun, Fukuoka "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7817252,33.7127959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彦山川赤池水位観測所ライブカメラ / Hikoyama River Akaike Water Level Observatory Live Camera </name>
+        <description><![CDATA[福岡県田川郡福智町赤池 「遠賀川河川事務所」/ Akaike, Fukuchi-cho, Tagawa-gun, Fukuoka "Ongagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7639989,33.6942003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堂面川畔切橋ライブカメラ / Domen River Hankiri Bridge Live Camera</name>
+        <description><![CDATA[〒837-0927 福岡県大牟田市中白川町３丁目 「福岡県庁県土整備部河川課」/ 3-chome, Nakashirakawa-cho, Omuta-shi, Fukuoka 837-0927, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4601119,33.046889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道208号有明海沿岸道路堂面川橋ライブカメラ / National highway No. 208 Ariake Sea coast road Domenagawa bridge</name>
+        <description><![CDATA[〒836-0001 福岡県大牟田市昭和開 「福岡国道事務所」/ Showa Kai, Omuta City, Fukuoka Prefecture, 836-0001, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4287111,33.062364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[かもの家柳川市田園風景北方向ライブカメラ / Kamono's House Yanagawa City Rural Scene North Direction Live Camera]]></name>
+        <description>福岡県柳川市三橋町垂見 「かもの家」/ Tarumi, Mihashi Town, Yanagawa City, Fukuoka Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4363328,33.1585036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTT西日本柳川ビル鉄塔掘割ライブカメラ / NTT West Yanagawa Building Steel tower excavation live camera</name>
+        <description>〒832-0824 福岡県柳川市三橋町藤吉４９５ 国土交通省 有明海沿岸国道事務所 / Ariake Sea Coast National Highway Office, Ministry of Land, Infrastructure, Transport and Tourism, 495 Fujiyoshi, Mihashi-cho, Yanagawa-shi, Fukuoka 832-0824 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.414688,33.164128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かんぽの宿柳川掘割ライブカメラ / Kanpo no Yado Yanagawa Horiwari Live Camera</name>
+        <description>〒832-0057 福岡県柳川市弥四郎町10−１かんぽの宿 柳川 / Yanagawa, Kanpo no Yado 10-1 Yashiro-cho, Yanagawa-shi, Fukuoka 832-0057</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3998961,33.1567873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖端川新村橋ライブカメラ / Okihata river Shinmurabashi live camera</name>
+        <description><![CDATA[〒832-0811 福岡県柳川市三橋町中山 「福岡県庁県土整備部河川課」/ Nakayama, Mihashi-cho, Yanagawa-shi, Fukuoka 832-0811 ``Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4656364,33.1690938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道208号有明海沿岸道路柳川ライブカメラ / National highway No. 208 Ariake Sea coast road Yanagawa live camera</name>
+        <description><![CDATA[福岡県柳川市西蒲池 「福岡国道事務所」/ Nishi-Kamaike, Yanagawa City, Fukuoka "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3951402,33.1790421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星の文化館スカイモニターライブカメラ / Starry Museum Sky Monitor Live Camera</name>
+        <description>〒834-0201 福岡県八女市星野村１０８２８−１星の文化館 / 10828-1 Hoshinomura, Yame city, Fukuoka 834-0201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7602151,33.24382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢部川中川原橋ライブカメラ / Yabe River Nakagawara Bridge Live Camera</name>
+        <description><![CDATA[〒834-0033 福岡県八女市柳瀬下柳瀬２１８−１ 「福岡県庁県土整備部河川課」/ 218-1, Yanase Shimoyanase, Yame City, Yame City, Fukuoka 834-0033, Japan, "River Division, Prefectural Land Maintenance Department, Fukuoka Prefectural Government"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5577414,33.1899515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢部川串毛橋ライブカメラ / Yabegawa Kushigebashi live camera</name>
+        <description><![CDATA[〒834-1213 福岡県八女市黒木町本分３８−１「福岡県庁県土整備部河川課」/ 38-1, Honbu, Kuroki-cho, Yame-shi, Fukuoka 834-1213 "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6497692,33.2060344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠原川蛍橋ライブカメラ / Kasahara River Hotarubashi live camera</name>
+        <description><![CDATA[〒834-1222 福岡県八女市黒木町笠原 「福岡県庁県土整備部河川課」/ 834-1222 Kasahara, Kuroki-cho, Yame city, Fukuoka ``Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.731064,33.2186056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍川内川十篭橋ライブカメラ / Tatsukawa Uchikawa Tokashi Bridge Live Camera</name>
+        <description><![CDATA[〒834-0201 福岡県八女市星野村１２９８７ 「福岡県庁県土整備部河川課」/ 12987 Hoshinomura, Yame City, Fukuoka 834-0201 "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7640978,33.2508094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星野川光延橋ライブカメラ / Hoshinogawa Mitsunobu Bridge Live Camera</name>
+        <description><![CDATA[〒834-0201 福岡県八女市星野村　「福岡県庁県土整備部河川課」/ Hoshino-mura, Yame city, Fukuoka Prefecture 834-0201,  "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7867889,33.248125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横山川下八重谷橋ライブカメラ / Yokoyama Kawashita Yaeyabashi Live Camera</name>
+        <description><![CDATA[〒834-1101 福岡県八女市上陽町上横山 「福岡県庁県土整備部河川課」/ Kamiyokoyama, Yoyo-cho, Yame City, Fukuoka 834-1101 ``Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6854309,33.2881624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道3号辺春橋ライブカメラ / National highway No. 3 Hebashibashi live camera</name>
+        <description><![CDATA[〒834-0083 福岡県八女市立花町上辺春 「福岡国道事務所」/ Kamibe Spring, Tachibana Town, Yame City, Fukuoka Prefecture, 834-0083 Japan<br>"Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6194527,33.131175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒木の大藤ライブカメラ / Kuroki Ofuji Live Camera</name>
+        <description><![CDATA[〒834-1217 福岡県八女市黒木町黒木５−２ 「黒木町観光協会」/ 5-2 Kuroki, Kuroki-cho, Yame-shi, Fukuoka 834-1217 "Kuroki-cho Tourist Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.673251,33.2129766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢部川津島ライブカメラ / Yabe Kawazushima Live Camera</name>
+        <description><![CDATA[〒833-0015 福岡県筑後市大字津島 「筑後川河川事務所」/ Tsushima, Chikugo City, Fukuoka Prefecture 833-0015, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4949054,33.1776291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川紅粉屋ライブカメラ / Chikugo River Beninya Live Camera</name>
+        <description><![CDATA[〒831-0044 福岡県大川市大字紅粉屋 「筑後川河川事務所」/ Beniya, Okawa-shi, Fukuoka 831-0044,  "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3586165,33.1755503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川昇開橋下流側ライブカメラ /Live camera downstream of Chikugo River Shokaibashi </name>
+        <description>〒840-2102 佐賀県佐賀市諸富町大字為重石塚 筑後川昇開橋(旧国鉄佐賀線筑後川橋梁) 「筑後川河川事務所」/ Chikugogawa River Office, Chikugogawa Noboru Bridge (Old National Railway Saga Line Chikugogawa Bridge), Shirogane Ishizuka, Morotomi Town, Saga City, Saga Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3620351,33.214873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝満川端間ライブカメラ / Homan River Hatama Live Camera</name>
+        <description>〒838-0137 福岡県小郡市福童 「筑後川河川事務所」/ Chikugo River Office, Fukudo, Ogori-shi, Fukuoka 838-0137</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5457732,33.3736149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>築地川中島橋ライブカメラ / Tsukiji River Nakajima Bridge Live Camera</name>
+        <description><![CDATA[福岡県小郡市寺福童 「福岡県庁県土整備部河川課」/ Terafukudo, Ogori-shi, Fukuoka "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5552446,33.3850459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝満川今朝丸橋ライブカメラ / Homan river this morning Maruhashi live camera</name>
+        <description><![CDATA[福岡県小郡市福童 「国土交通省河川情報センター」/ Fukudo, Ogori-shi, Fukuoka "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5429988,33.3534325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川新田川樋管ライブカメラ / Chikugo River Nitta River Gutter Live Camera</name>
+        <description><![CDATA[〒839-1405 福岡県うきは市浮羽町古川 「国土交通省河川情報センター」/ Furukawa, Ukiha-cho, Ukiha-shi, Fukuoka 839-1405 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7973214,33.3547828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川千年分水路ライブカメラ / Chikugo River Chitosebun Waterway Live Camera</name>
+        <description><![CDATA[〒839-1304 福岡県うきは市吉井町千年 「国土交通省河川情報センター」/ Chitose, Yoshii-machi, Ukiha-shi, Fukuoka 839-1304, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7703303,33.3517797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川恵蘇宿橋ライブカメラ / Chikugo River Esojuku Bridge Live Camera</name>
+        <description><![CDATA[〒839-1308 福岡県うきは市吉井町八和田１７６−２ 恵蘇宿橋 「 国土交通省河川情報センター」/ 176-2 Hachiwada, Yoshii-cho, Ukiha-shi, Fukuoka 839-1308 Eso-shukubashi "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7529527,33.363877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号袋野大橋ライブカメラ / National highway No. 210 Fukurono Ohashi live camera</name>
+        <description>〒839-1407 福岡県うきは市浮羽町三春 「福岡国道事務所」 / Miharu, Ukiha-cho, Ukiha-shi, Fukuoka 839-1407 “Fukuoka National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.844989,33.3303688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号三春ライブカメラ / National highway No. 210 Miharu live camera</name>
+        <description>〒839-1407 福岡県うきは市浮羽町三春 「福岡国道事務所」/ Miharu Ukiha-cho, Ukiha-shi, Fukuoka 839-1407 “Fukuoka National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.844989,33.3303688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川片ノ瀬ライブカメラ / Chikugo River Katase Live Camera</name>
+        <description><![CDATA[〒839-1225 福岡県久留米市田主丸町菅原 「筑後川河川事務所」/Sugawara, Tanushimaru-cho, Kurume-shi, Fukuoka 839-1225, " Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6422998,33.3543698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川朝羽大橋ライブカメラ / Chiba Asaha Ohashi Live Camera</name>
+        <description><![CDATA[〒838-1312 福岡県朝倉市田中 県道 80 号線 朝羽大橋 「国土交通省河川情報センター」/ Asaba Ohashi,Tanaka Prefectural Road 80, Asakura City, Fukuoka Prefecture 838-1312,    "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.723553,33.3679949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田川板屋ライブカメラ / Sada River Itaya Live Camera</name>
+        <description><![CDATA[福岡県朝倉市板屋 「国土交通省河川情報センター」/ Itaya, Asakura City, Fukuoka Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6969239,33.4153394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田川上屋永橋ライブカメラ  / Sagawa Kawakami Nagahashi live camera</name>
+        <description>〒838-0031 福岡県朝倉市屋永 「国土交通省河川情報センター」/ Yanaga, Asakura City, Fukuoka 838-0031, Japan “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6753543,33.4017032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川右岸原鶴ライブカメラ / Chikugo River Right Bank Haraduru Live Camera</name>
+        <description><![CDATA[福岡県朝倉市杷木久喜宮 「国土交通省川の防災情報CCTVカメラ」/ Hakikugumiya, Asakura City, Fukuoka "CCTV camera for disaster prevention information on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7832434,33.351219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川新桂川水門内水位ライブカメラ / Live camera of the water level inside the Shin-Katsura River sluice of the Chikugo River</name>
+        <description><![CDATA[福岡県三井郡朝倉市長田 「国土交通省川の防災情報CCTVカメラ」/ Nagata, Asakura City, Mitsui District, Fukuoka Prefecture "Ministry of Land, Infrastructure and Transport River disaster prevention information CCTV camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6611893,33.3648141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田川右岸金丸橋ライブカメラ / Sada River Right Bank Kanamaru Bridge Live Camera</name>
+        <description>福岡県朝倉市小隈 「国土交通省川の防災情報CCTVカメラ」/ Oguma, Asakura City, Fukuoka Prefecture “Disaster Prevention Information CCTV Camera on the River, Ministry of Land, Infrastructure, Transport and Tourism”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6596624,33.380844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤谷川松末小学校ライブカメラ / Akayagawa Matsusue Elementary School live camera</name>
+        <description>〒838-1504 福岡県朝倉市杷木星丸１１７５ 松末小学校 「福岡県庁県土整備部河川課」/  Matsusue Elementary School, 1175 Hikikiseimaru, Asakura City, Fukuoka 838-1504, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8399695,33.3820521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白木谷川前田橋上流ライブカメラ / Shirataki River Maedabashi upstream live camera </name>
+        <description>〒838-1506 福岡県朝倉市杷木林田 「福岡県庁県土整備部河川課」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8247522,33.3617847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤谷川久保垣橋ライブカメラ / Akaya River Kubogaki Bridge Live Camera</name>
+        <description><![CDATA[福岡県朝倉市杷木林田 「福岡県庁県土整備部河川課」/ Hakihayashida, Asakura City, Fukuoka Prefecture, "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8276556,33.3663984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寒水川大分自動車道下ライブカメラ / Souzu River Oita Expressway live camera </name>
+        <description><![CDATA[福岡県朝倉市杷木寒水 「福岡県庁県土整備部河川課」/ Hakisouzu, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8051463,33.3699587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川宮園橋ライブカメラ / Kurokawa Miyazonobashi Live Camera</name>
+        <description><![CDATA[福岡県朝倉市黒川 「福岡県庁県土整備部河川課」/ Kurokawa, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7834952,33.3989531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川比良松橋ライブカメラ / Katsura River Hiramatsubashi Live Camera</name>
+        <description><![CDATA[福岡県朝倉市宮野 「福岡県庁県土整備部河川課」/ Miyano, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7244034,33.3854326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川神田橋ライブカメラ / Kitagawa Kandabashi Live Camera</name>
+        <description><![CDATA[福岡県朝倉市杷木志波 「福岡県庁県土整備部河川課」/ Hakishiwa, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7739282,33.3672228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙見川妙見橋ライブカメラ / Myoken River Myokenbashi Live Camera</name>
+        <description><![CDATA[福岡県朝倉市古毛 「福岡県庁県土整備部河川課」/ Komo, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7371392,33.3798899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良ヶ谷川奈良ヶ谷砂防堰堤ライブカメラ / Naragaya River Naragaya Sabo dam live camera</name>
+        <description><![CDATA[福岡県朝倉市山田 「福岡県庁県土整備部河川課」/ Yamada, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7589332,33.3785194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荷原川久保鳥橋ライブカメラ / Inaibara River Kubotorihashi Live Camera</name>
+        <description><![CDATA[福岡県朝倉市大庭 「福岡県庁県土整備部河川課」/ Ohba, Asakura City, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7121149,33.3927209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小石原川ダム左岸工事進捗ライブカメラ / Koishiwaragawa Dam left bank construction progress live camera</name>
+        <description><![CDATA[福岡県朝倉市江川 小石原川ダム 「水資源機構朝倉総合事業所」/ Koishiharagawa Dam,    Egawa, Asakura City, Fukuoka Prefecture "Water Resources Organization Asakura General Works"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7640205,33.4674317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯江川長島ライブカメラ / Iiegawa Nagashima Live Camera</name>
+        <description><![CDATA[福岡県みやま市高田町岩津 「筑後川河川事務所」/ Iwazu, Takada Town, Miyama City, Fukuoka Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4688541,33.1180644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢部川渡里ライブカメラ / Yabegawa Watari Live Camera</name>
+        <description><![CDATA[福岡県みやま市高田町徳島 「筑後川河川事務所」/ Tokushima, Takada Town, Miyama City, Fukuoka Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4379887,33.1190323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖端川松原橋ライブカメラ / Okinohata river Matsubarabashi live camera</name>
+        <description><![CDATA[〒835-0021 福岡県みやま市瀬高町本郷２７１８−１ 「福岡県庁県土整備部河川課」/  2718-1, Hongo, Setaka-cho, Miyama City, Fukuoka Prefecture 835-0021,  "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4829967,33.1758786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢部川上庄ライブカメラ / Yabe River Kamijo Live Camera</name>
+        <description><![CDATA[〒835-0025 福岡県みやま市瀬高町上庄 「筑後川河川事務所」/ Kamisho, Setaka-cho, Miyama City, Fukuoka Prefecture, 835-0025, Japan, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4643635,33.1613638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道山川パーキングエリア付近ライブカメラ / Kyushu Expressway Yamakawa parking area live camera</name>
+        <description><![CDATA[〒835-0101 福岡県みやま市山川町立山８６３山川PA (下り) 「NEXCO西日本」/ Yamakawa PA (Down) , 863 Tateyama, Yamakawa-cho, Miyama City, Fukuoka 835-0101, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5177623,33.1285942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道208号有明海沿岸道路矢部川大橋ライブカメラ / National highway No. 208 Ariake Sea coast road Yabe River Ohashi live camera</name>
+        <description><![CDATA[福岡県みやま市高田町徳島 矢部川大橋 「福岡国道事務所」/ Yabegawa Bridge, Tokushima, Takada Town, Miyama City, Fukuoka Prefecture, "Fukuoka National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4351728,33.1142446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝珠山川古庄屋橋ライブカメラ / Hojuyama River Furushoya Bridge Live Camera</name>
+        <description><![CDATA[福岡県東峰村宝珠山 「福岡県庁県土整備部河川課」/ Houshuyama, Higashimine Village, Fukuoka Prefecture "Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8803213,33.4201004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大肥川のなか橋ライブカメラ / Ohi River Nakanashi Bridge Live Camera</name>
+        <description><![CDATA[〒838-1602 福岡県朝倉郡東峰村大字小石原鼓 「福岡県庁県土整備部河川課」/ 〒838-1602 Koishiwaratsudumi, Higashimine-mura, Asakura-gun, Fukuoka ``Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8475181,33.4298759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大肥川小松橋下流JR橋ライブカメラ / Ohi River Komatsubashi Downstream JR Bridge Live Camera</name>
+        <description><![CDATA[〒838-1702 福岡県朝倉郡東峰村福井 「福岡県庁県土整備部河川課」/ Fukui, Higashimine-mura, Asakura-gun, Fukuoka 838-1702,    ``Fukuoka Prefectural Government Prefectural Land Maintenance Department River Division'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8791433,33.3805714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道211号道の駅小石原周辺ライブカメラ / National highway No. 211 Roadside station Koishiwara live camera</name>
+        <description>〒838-1601 福岡県朝倉郡東峰村大字小石原９４１番地３　道の駅 小石原 / Road Station Koishiwara, 941-3 Oishiwara, Higashimine-mura, Asakura-gun, Fukuoka 838-1601</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8257219,33.4651573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道５２号線棚田親水公園周辺道路状況 / The prefectural road Route 52 Tanada water park around the road situation</name>
+        <description>〒838-1701 福岡県朝倉郡東峰村大字宝珠山３１００ 棚田親水公園 「東峰村役場」 /  Tanada Water Park, 3100 Houjuzan, Higashimine-mura, Asakura-gun, Fukuoka Prefecture 838-1701 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8806795,33.4197621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道広川サービスエリア上りライブカメラ / Kyushu Expressway Hirokawa service area upstream live camera</name>
+        <description><![CDATA[〒834-0115 福岡県八女郡広川町大字大字新代１３１５−２　広川SA (上り) 「NEXCO西日本」/ Hirokawa SA (up), 135-2, Odaime, Shinagawa, Hirokawa-cho, Yame-gun, Fukuoka 834-0115, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5353979,33.2523834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道広川サービスエリア下りライブカメラ / Kyushu Expressway Hirokawa Service Area Down Live Camera</name>
+        <description>〒834-0115 福岡県八女郡広川町大字新代１３１５−１ 広川SA (下り)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.537566,33.2545872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州自動車道広川サービスエリア付近ライブカメラ / Kyushu Expressway Hirokawa service area live camera</name>
+        <description><![CDATA[〒834-0115 福岡県八女郡広川町大字大字新代１３１５−２　広川SA 付近「NEXCO西日本」/ Hirokawa SA, 135-2, Odaime, Shinagawa, Hirokawa-cho, Yame-gun, Fukuoka 834-0115, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5365244,33.2536093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川周辺ライブカメラ / Live camera around the Chikugo River</name>
+        <description><![CDATA[〒839-0864 福岡県久留米市百年公園 百年公園「久留米・鳥栖広域情報株式会社」/ Hyakunenkoen, Hyakunenkoen, Kurume City, Fukuoka 839-0864, "Kurume / Torisu Wide Area Information Co., Ltd."<br>https://livecamera.fujiyamasan.com/kurume-hyakunen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5336961,33.3214903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

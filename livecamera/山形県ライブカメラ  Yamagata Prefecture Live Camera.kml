@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>山形県ライブカメラ / Yamagata Prefecture Live Camera</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>山形県内ライブカメラ</name>
+      <Placemark>
+        <name>鳥海山・日本海ライブカメラ / Mt. Chokaisan and the Sea of Japan Live Camera</name>
+        <description>〒999-8523 山形県飽海郡遊佐町吹浦西浜２−７６鳥海温泉遊楽里 / Chokai Onsen Yurari, 2-76 Fukuranishinohama, Yuza-machi, Akura-gun, Yamagata-ken 999-8523</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.874829,39.066689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥海山ライブカメラ</name>
+        <description><![CDATA[山形県酒田市草津湯ノ台６６−１<br>鳥海国定公園湯の台温泉<br>鳥海山荘<br>さかたWebカメラ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.033112,39.030386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内空港駐車場ライブカメラ / Shonai airport parking live camera</name>
+        <description>〒998-0112　山形県酒田市浜中字村東30-3 庄内空港ビル株式会社 / Shonai Airport Building, 30-3 Murahigasi, Hamanaka, Sakata-shi, Yamagata-ken 998-0112</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.787797,38.815812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道・県内河川ライブカメラ / National Route and River Live Camera</name>
+        <description>〒998-0011 山形県酒田市上安町１丁目２−１国土交通省東北地方整備局 酒田河川国道事務所 /  Sakata office of River and National Highway, 1-2-1 Kamiyasu-cho, Sakata-shi, Yamagata-ken 998-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8610083,38.9294989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒田港・鳥海山ライブカメラ / Sakata Port and Mt. Chokaisan Live Camera</name>
+        <description><![CDATA[山形県酒田市山居町 「山居CAM」/ Sankyo-machi, Sakata-shi, Yamagata-ken, "SanKyo CAM"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.832997,38.910696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒田灯台ライブカメラ / Sakata lighthouse live camera</name>
+        <description>〒998-0036 山形県酒田市船場町２丁目５−４３酒田海上保安部 / Sakata Coast Guard, 2-5-43 Funaba-cho, Sakata-shi, Yamagata-ken 998-0036 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8293492,38.9157587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽黒町からみた月山遠望 / Gassan distant view seen from Haguro-machi</name>
+        <description><![CDATA[〒997-0141 山形県鶴岡市羽黒町荒川前田元８９ 鶴岡市羽黒庁舎 「インターネット自然研究所」/ Tsuruoka City Haguro Government Office Building, 89 Arakawamaetamoto, Haguro-cho, Tsuruoka-shi, Yamagata-ken 997-0141, "Internet Nature Research Institute"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.901361,38.718968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒田市ライブカメラ / Sakata City Live Camera</name>
+        <description><![CDATA[〒998-0043 山形県酒田市本町２丁目２−４５　酒田市役所「さかたWebカメラ」/ Sakata City Hall, 2-2-45 Hon-cho, Sakata-shi, Yamagata-ken 998-0043, "Sakata Web Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.836688,38.914378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴岡公園LIVEカメラ / Tsuruoka Park Live Camera</name>
+        <description><![CDATA[〒997-0035 山形県鶴岡市馬場町４ 鶴岡公園 「鶴岡市役所」/ Tsuruoka Park, 4 Baba-cho, Tsuruoka-shi, Yamagata-ken 997-0035, "Tsuruoka City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.823985,38.728472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>致道館LIVEカメラ / Chidokan Live Camera</name>
+        <description><![CDATA[〒997-0035 山形県鶴岡市馬場町１１−４５ 致道館 「鶴岡市役所」/ Chidokan, 11-45 Baba-cho, Tsuruoka-shi, Yamagata-ken 997-0035, "Tsuruoka City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.826496,38.726233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月山ダムライブカメラ / Gassan Dam Live Camera</name>
+        <description>〒997-0405 山形県鶴岡市上名川東山８−１１２ 国土交通省月山ダム管理所 / Gassan Dam Management Office, 8-112 Higashiyama, Kaminagawa, Tsuruoka-shi, Yamagata-ken 997-0405</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.894066,38.582795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽黒町からみた月山遠望 / Gassan distant view seen from Haguro Town</name>
+        <description><![CDATA[〒997-0157 山形県鶴岡市羽黒町後田谷地田188番地 やまぶし温泉ゆぽか 「インターネット自然研究所」/ Yamabushi Onsen Yupoka, 188 Yachida, Ushiroda, Haguro-machi, Tsuruoka-shi, Yamagata-ken 997-0157, "Internet Nature Research Institute"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.88201,38.715413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴岡市米子漁港、鶴岡バイパス・矢馳交差点ライブカメラ / Tsuruoka City Yonago Fishing Port, Tsuruoka Bypass, and Yabase Intersection Live Camera</name>
+        <description>〒997-0822 山形県鶴岡市双葉町７−１７　サトウ電業 / Satoh Dengyo, 7-17 Futaba-cho, Tsuruoka-shi, Yamagata-ken 997-0822</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.822298,38.7187979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月山ライブカメラ / Gassan Live Camera</name>
+        <description>〒990-0734 山形県西村山郡西川町志津２２ 月山志津温泉 四季味彩の宿 旅館 仙台屋 / Hotel Sendaiya, 22 Shizu, Nishikawa-machi, Nishimurayama-gun, Yamagata-ken 990-0734</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9994387,38.4920993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月山ライブカメラ / Gassan Live Camera</name>
+        <description>〒990-0702 山形県西村山郡西川町海味５１０　西川町役場 / Nishikawa Town Office, 510 Kaishu, Nishikawa-cho, Nishimurayama-gun, Yamagata-ken 990-0702</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.147434,38.426457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志津温泉・まいづるやライブカメラ / Shizu Onsen and Maizuruya Live Camera</name>
+        <description>〒990-0734 山形県西村山郡西川町志津１１　まいづるや / Maizuruya, 11 Shizu, Nishikawa-machi, Nishimurayama-gun, Yamagata-ken 990-0734</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0000405,38.4912086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[塞の神、舟形小学校屋上、中央公民館屋上、富長橋上流右岸、堀内橋上流左岸」/ Sainokami, Funagata Elementary School, Central Public Hall rooftop, Right bank of Upstream River Bridge, Upstream Left bank of Horiuchi Bridge "]]></name>
+        <description><![CDATA[〒999-4601 山形県最上郡舟形町舟形２６３ 舟形町役場 「舟形町多目的ライブカメラシステム」/ Funagata Town Office, 263 Funagata, Funagata-machi, Mogami-gun, Yamagata-ken 999-4601, "Funagata Town Multipurpose Live Camera System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3198405,38.6914447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の尾花沢市の状況 / Obanazawa City Live Camera</name>
+        <description>〒999-4225 山形県尾花沢市若葉町１丁目１−３ 尾花沢市役所 / Obanazawa City Hall, 1-1-3 Wakaba-cho, Obanazawa-shi, Yamagata-ken 999-4225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.405689,38.600618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銀山荘露天風呂からの映像 / Picture from Ginzanso open-air bath</name>
+        <description>〒999-4333 山形県尾花沢市銀山新畑８５銀山荘 / Ginzanso, 85 Ginzanshinhata, Obanazawa-shi, Yamagata-ken 999-4333</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.528333,38.572327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の東根市ライブ画像 / Current Higashine city live image</name>
+        <description>〒999-3705 山形県東根市宮崎３丁目１−１有限会社青柳不動産 / Aoyanagi Realty Co., Ltd.3-1-1 Miyazaki, Higashine-shi, Yamagata-ken 999-3705</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.385232,38.446228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東根市白水川ライブカメラ / Higashine City Shirami River Live Camera</name>
+        <description>〒999-3772 山形県東根市松沢9-16 株式会社住建 / Juken Co. Ltd., 9-16 Matsuzawa, Higashine-shi, Yamagata-ken 999-3772</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3615932,38.4482777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山形市街ライブカメラ / Yamagata City Live Camera</name>
+        <description>〒990-0047 山形県山形市旅篭町２丁目５−１２ 山形メディアタワー 山形放送（株）/  Yamagata Broadcasting Corporation, Yamagata Media Tower-5-12 Hatago-machi, Yamagata-shi, Yamagata-ken 990-0047</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3387066,38.2563867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旅館からの眺め</name>
+        <description><![CDATA[山形県鶴岡市三瀬己３０８<br>旅館仁三郎]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.660574,38.703689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄内平野と最上川</name>
+        <description><![CDATA[山形県酒田市土渕大平１−５９<br>眺海の森さんさん<br>さかたWebカメラ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.98127,38.858692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯の浜ライブカメラ</name>
+        <description><![CDATA[山形県鶴岡市湯野浜１丁目９−２５ <br>竹屋ホテル]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.751839,38.780747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やまがた観光ライブカメラ / Yamagata sightseeing live camera</name>
+        <description>〒990-8580 山形市城南町1-1-1 霞城セントラルビル1階 山形市観光協会 / Yamagata Tourism Association, Kasagi Central Building 1F 1-1-1 Jonana-cho, Yamagata-shi, 990-85850</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3270229,38.249821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の山形大学工学部（米沢キャンパス）ライブカメラ映像 / Yamagata University Faculty of Engineering (Yonezawa Campus) Live camera image</name>
+        <description>〒990-8560 山形県山形市小白川町一丁目4−12　山形大学 / Yamagata University, 1-4-12 Kojirakawa-machi, Yamagata-shi, Yamagata-ken 990-8560</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3493705,38.2466122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蔵王温泉スキー場ライブカメラ‐横槍ゲレンデ・クラレ蔵王シャンツェ（蔵王ジャンプ台）</name>
+        <description>〒990-2301 山形県山形市蔵王温泉７０８−１ 蔵王温泉観光協会 / Zao Onsen Tourist Association, 708-1 Zao Onsen, Yamagata-shi, Yamagata-ken 990-2301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3942171,38.1672834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蔵王温泉街ライブカメラ / Zao Onsen Street Live Camera</name>
+        <description>〒990-0023 山形県山形市松波４丁目２-11 （有）コミュニティ アイ / Community Eye, 4-2-11 Matsunami, Yamagata-shi, Yamagata-ken 990-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3632112,38.2381441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蔵王中央高原ライブカメラ / Zao Central Highlands Live Camera</name>
+        <description>〒990-2301 山形県山形市蔵王温泉９４０−１蔵王中央ロープウェイ / Zao Chuo Ropeway, 940-1 Zaoonsen, Yamagata-shi, Yamagata-ken 990-2301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3956368,38.1648684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の蔵王ライブカメラ / Today's Zao Live Camera]]></name>
+        <description>山形県上山市 / Ueyama City, Yamagata-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.267816,38.14961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長井駅ライブカメラ / Nagai Station Live Camera</name>
+        <description>〒993-0084 山形県長井市栄町1-11　ビジネスホテル・イズミヤ / Business Hotel Izumiya, 1-11 Sakae-machi, Nagai-shi, Yamagata-shi 993-0084</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0342299,38.106669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横川ダムライブカメラ / Yokokawa Dam Live Camera</name>
+        <description>〒999-1321 山形県西置賜郡小国町綱木箱口７３６ 羽越河川国道事務所 横川ダム管理支所 / Uetsu River National Highway Office Yokogawa Dam Administration Branch, 736 Tsunagihakonoguchi, Oguni-machi, Nishioki-gun, Yamagata-ken 999-1321</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8252298,38.0362614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>村山市ライブカメラ / Murayama City Live Camera</name>
+        <description>〒995-0035 山形県村山市中央１丁目３−６ 村山市役所 / Murayama City Hall, 1-3-6 Chuo, Murayama-shi, Yamagata-ken 995-0035</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.380375,38.483349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹野観音境内・内陣ライブカメラ / Sasano Kannon Grounds and the Inner Temple Live Camera </name>
+        <description>〒992-1445 山形県米沢市笹野本町５６８６−５笹野観音 / Koutokuin Sasanoji, 5686-5 Sasanohon-cho, Yonezawa-shi, Yamagata-ken 992-1445</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0961728,37.8803281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥白布 新高湯温泉（標高1126m）お天気カメラ / Okushirabu Shintakayu Onsen (altitude 1126 m) weather camera</name>
+        <description>〒992-1472 山形県米沢市関湯 の 入沢３９３４ 新高湯温泉 吾妻屋旅館 / Shintakayu Onsen Azumaya Ryokan, 3934 Sekiyunoirisawa, Yonezawa-shi, Yamagata-ken 992-1472</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1324339,37.7711265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今の堂森善光寺 / Domorizenkoji Temple Live Camera</name>
+        <description>〒992-1126 山形県米沢市万世町堂森３７５ 堂森善光寺 / Domorizenkoji 375 Domori, Bansei-cho, Yonezawa-shi, Yamagata-ken 992-1126</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1511285,37.9076459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米沢市田んぼアートライブカメラ / Yonezawa City Rice field art live camera</name>
+        <description>〒992-0012 山形県米沢市金池５丁目２−２５米沢市役所 産業部農林課 / Ministry of Industry, Yonezawa City Hall, 5-2-25 Kanaike, Yonezawa-shi, Yamagata-ken 992-0012</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1166333,37.922297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道348号ライブカメラ / National Route 348 Live Camera</name>
+        <description>〒990-0023 山形県山形市松波２丁目８−１ 山形県県土整備部道路課 / Yamagata Prefecture Prefectural Government Department Road Division, 2-8-1 Matsunami, Yamagata-shi, Yamagata-ken 990-0023</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3625334,38.2401272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寒河江ダム・白川ダム・長井ダムリアルタイム情報ライブカメラ / Sagae Dam, Shirakawa Dam, Nagai Dam Realtime Information Live Camera</name>
+        <description>〒990-0732 山形県西村山郡西川町砂子関１５８ 国土交通省 東北地方整備局 最上川ダム統合管理事務所 / Mogami River Dam Integrated Management Office, Tohoku Regional Development Bureau, Ministry of Land, Infrastructure and Transport, 158 Sunagoseki, Nishikawa-machi, Nishimurayama-gun, Yamagata-ken 990-0732</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.032119,38.456172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山形県河川・道路ライブカメラ / Yamagata Rivers and Roads Live Cameras</name>
+        <description>〒990-2339 山形県山形市成沢西４丁目３−５５ 国土交通省 東北地方整備局 山形河川国道事務所 / Yamagata office of River and National Highway, 4-3-55 Narusawanishi, Yamagata-shi, Yamagata-ken 990-2339</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.317836,38.207823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞城セントラルアトリウムライブカメラ / Kajo Central Live Camera</name>
+        <description>〒990-0827 山形県山形市城南町１丁目１−１ 霞城セントラル / Kajo Central 1-1-1 Minami-machi, Yamagata-shi, Yamagata-ken 990-0827</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.326966,38.249741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大江町観光ライブカメラ / Oe Town Sightseeing Live Camera</name>
+        <description><![CDATA[〒990-1101 山形県西村山郡大江町左沢８８２−１　大江町役場 / Oe Town Hall, 882-1 Aterazawa, Oe-cho, Nishimurayama-gun, Yamagata-ken 990-1101, "Oe Town Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.206863,38.380745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>最上川飛鳥中島ライブカメラ / Mogami River Asuka Nakajima Live Camera</name>
+        <description><![CDATA[〒999-6711 山形県酒田市飛鳥中島「一般財団法人河川情報センター」/ Asuka Nakajima, Sakata City, Yamagata Prefecture 999-6711 "River Information Center"<br>https://livecamera.fujiyamasan.com/sakata-asukanakajima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9212274,38.882555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>最上川飛鳥神内ライブカメラ / Mogami River Asuka Kamiuchi Live Camera</name>
+        <description><![CDATA[〒999-6711 山形県酒田市飛鳥「一般財団法人河川情報センター」/ Asuka, Sakata City, Yamagata Prefecture 999-6711 "River Information Center"<br>https://livecamera.fujiyamasan.com/sakata-asuka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9266674,38.885969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤川切添ライブカメラ / Akakawa Kiriso Live Camera</name>
+        <description><![CDATA[〒997-0022 山形県鶴岡市切添町「一般財団法人河川情報センター」/ Kirizoemachi, Tsuruoka City, Yamagata Prefecture 997-0022 "River Information Center" <br>https://livecamera.fujiyamasan.com/tsuruoka-kirizoe.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.843977,38.7326675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>掘立川掘立川中央橋ライブカメラ / Hottate River Hottate River Chuo Bridge Live Camera</name>
+        <description><![CDATA[〒992-0045 山形県米沢市中央「一般財団法人河川情報センター」/ Chuo, Yonezawa City, Yamagata Prefecture 992-0045, "River Information Center"<br>https://livecamera.fujiyamasan.com/yonezawa-chuobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1085129,37.918119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須川 東宮橋ライブカメラ / Sugawa Higashi Tougubashi Live Camera</name>
+        <description><![CDATA[〒999-3201 山形県上山市宮脇下川原 東宮橋「一般財団法人河川情報センター」/ Tougubashi,  Miyanowaki Shimogawara, Kaminoyama City, Yamagata Prefecture 999-3201, "River Information Center"<br>https://livecamera.fujiyamasan.com/kaminoyama-togubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.281793,38.1481682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白水川新白水川橋ライブカメラ / Shiramizu River New Shiramizu River Bridge Live Camera</name>
+        <description><![CDATA[山形県東根市六田 「一般財団法人河川情報センター」/ Rokuta, Higashine City, Yamagata Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/higashine-shiramizubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3816582,38.4455161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳良湖周辺ライブカメラ / Live camera around Lake Tokura</name>
+        <description><![CDATA[〒999-4212 山形県尾花沢市二藤袋１７６７−６ レストラン徳良湖 / Restaurant Tokurako, 1767-6 Nitobukuro, Obanazawa City, Yamagata Prefecture 999-4212<br>https://livecamera.fujiyamasan.com/obanazawa-tokurako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4373626,38.5982589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

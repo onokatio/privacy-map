@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>秋田県ライブカメラマップ / Akita Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>秋田県内ライブカメラ</name>
+      <Placemark>
+        <name>発荷峠からみた十和田湖 / Lake Towada from Hakka Pass</name>
+        <description><![CDATA[秋田県鹿角郡小坂町字十和田湖 「インターネット自然研究所」 / Towadako, Kosaka-machi, Kazuno-gun, Akita-ken, "Internet Nature Research Institute"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.894508,40.424735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大舘市街ライブカメラ / Odate City Live Camera</name>
+        <description><![CDATA[〒017-0044 秋田県大館市御成町４丁目８−７４　東光コンピュータサービス / TOKO COMPUTER SERVICES Co.,LTD., 4-8-74 Onari-cho, Odate-shi, Akita-ken 017-0044<br>https://livecamera.fujiyamasan.com/odate-onari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5605304,40.2786987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森吉山ダムライブ情報 / Moriyoshizan Dam Live Information</name>
+        <description>〒018-4512 秋田県北秋田市根森田姫ケ岱３１能代河川国道事務所 森吉山ダム管理支所  / Noshiro River National Highway Office Moriyoshizan Dam Management 31 Himegatai, Nemorita ,Kitaakita-shi, Akita-ken 018-4512</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4590477,40.0379733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒸ノ湯温泉ふけの湯ライブカメラ / Fukenoyu Onsen Live Camera</name>
+        <description>〒018-5141 秋田県鹿角市八幡平熊沢国有林内　蒸ノ湯温泉 ふけの湯 / Fukenoyu Onsen, Kumazawakokuyurinnai, Hachimantai, Kazuno-shi, Akita-ken 018-5141</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8181354,39.9773091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三種町釜谷浜ライブカメラ / Mitane Town Kamayahama Beach Live Camera</name>
+        <description>〒018-2401 秋田県山本郡三種町鵜川岩谷子８　三種町役場 / Mitane Town Hall, 8 Iwayako, Ukawa, Mitane-cho, Yamamoto-gun, Akita-ken 018-2401</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0049873,40.1015469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三種川監視カメラ / Mitane River Surveillance Camera</name>
+        <description>〒018-2401 秋田県山本郡 三種町鵜川岩谷子８　三種町役場 / Mitane Town Hall,  8 Ukawaiwayako, Mitane-cho Yamamoto-gun, Akita-ken 018-2401</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0047478,40.1016263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮沢海水浴場 / Miyazawa Bathing Beach</name>
+        <description><![CDATA[〒010-0401 秋田県男鹿市野石大場沢下　宮沢海水浴場　「男鹿市役所ライブカメラ」/ Miyazawa Bathing Beach, Ohbasawashita, Noishi, Oga-shi, Akita-ken 010-0401, "Oga City Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.918571,40.034877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵜ノ崎海岸 / Unosaki Coast</name>
+        <description>〒010-0531 秋田県男鹿市船川港台島鵜ノ崎 「男鹿市役所」/ Unosaki, Daishima, Funagawaminato, Oga-shi, Akita-ken 010-0531 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.816689,39.85787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五里合海水浴場 / Iriai Bathing Beach</name>
+        <description><![CDATA[〒010-0354 秋田県男鹿市五里合中石南浜野　五里合海水浴場　「男鹿市役所ライブカメラ」/ Iriai Bathing Beach, Nakaishiminamihamano, Iriai, Oga-shi, Akita-ken 010-0354, "Oga City Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8743922,39.9903933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八郎潟町 八郎潟駅前ライブカメラ / Hachirogata Town Hachirogata Station Live Camera</name>
+        <description>〒018-1616 秋田県南秋田郡八郎潟町大道８０ 八郎潟町役場 / Hachirogata Town Hall, 80 Omichi, Hachirogata-machi, Minamiakita-gun, Akita-ken 018-1616</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.073345,39.9496218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋田大学教育文化学部附属中学校グラウンド状況 / Akita University Faculty of Education and Culture Affiliated Junior High School Attached Ground</name>
+        <description><![CDATA[〒010-0904 秋田県秋田市保戸野原の町７−７５　秋田大学教育文化学部附属中学校 / Akita University's affiliated school, 7-75 Hodonohara-machi, Akita-shi, Akita-ken 010-0904]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1157712,39.7268637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AKTお天気カメラ / AKT Weather Camera</name>
+        <description>〒010-0973 秋田県秋田市八橋本町３丁目２−１４　秋田テレビ本社 / AKITA TELEVISION CO., LTD., 3-2-14 Yabasehon-cho, Akita-shi, Akita-ken 010-0973</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.101368,39.723858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フォンテ秋田情報カメラの画像 / Fonte AKITA Information Camera</name>
+        <description><![CDATA[〒010-0001 秋田県秋田市中通２丁目８−１　フォンテAKITA　「秋田テレビ」/ Fonte AKITA, 2-8-1 Nakadri, Akita-shi, Akita-ken 010-0001, "AKITA TELEVISION CO."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1275948,39.716255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マリーナ秋田</name>
+        <description><![CDATA[秋田市飯島字堀川<br>株式会社マリーナ秋田]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.03809,39.789215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の秋田港</name>
+        <description><![CDATA[秋田県秋田市土崎港西<br>秋田海上保安部]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.063689,39.75242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅あきた港ポートタワー・セリオンライブカメラ / Michinoeki Akita Port Port Tower Serion Live Camera</name>
+        <description>〒011-0945 秋田県秋田市土崎港西１丁目９−１　道の駅 あきた港 / Michinoeki Akita Port, 1-9-1 Tsuchizakiminatonishi, Akita-shi, Akita-ken 011-0945</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0614625,39.7525061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋田空港ライブカメラ / Akita Airport Live Camera</name>
+        <description>〒010-1211 秋田県秋田市雄和椿川字山籠４９ 秋田空港ターミナルビル / Akita Airport Terminal Building, 49 Yamakago, Yuwatsubakigawa, Akita-shi, Akita-ken 010-1211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.219815,39.611871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大平山リゾート公園グラウンド・ゴルフ場・WEBカメラ / Taiheizan Resort Park Ground Golf Course WEB Camera</name>
+        <description>〒010-0824 秋田県秋田市仁別小水沢１３４　大平山リゾート公園 / Taiheizan Resort Park, 134 Nibetsukomizusawa, Akita-shi, Akita-ken 010-0824</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.21739,39.795018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉川ダムライブカメラ / Tamagawa Dam Live Camera</name>
+        <description>〒014-1205 秋田県仙北市田沢湖玉川字下水無(あざしもみずなし）92 国土交通省 東北地方整備局 玉川ダム管理所 / Ministry of Land, Infrastructure and Transport Tohoku Region Bureau Tamagawa Dam Administration Office, 92 Azashimomizunashi, Tamagawa, Tazawako, Senboku-shi, Akita-ken 014-1205</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6359,39.832466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乳頭温泉郷 / Nyuto-onsen</name>
+        <description>秋田県仙北市田沢湖生保内駒ヶ岳 乳頭温泉組合 / Nyuto Onsen Kumiai, Obonaikomagatake, Tazawako, Semboku-shi, Akita-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.794687,39.800887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乳頭温泉郷妙乃湯ライブカメラ / Nyuto Onsenkyo Taenoyu Live Camera</name>
+        <description>〒014-1201 秋田県仙北市田沢湖生保内字駒ヶ岳2−1 乳頭温泉郷 妙乃湯 / Nyuto Onsenkyo Taenoyu, 2-1 Obonaikomagatake, Tazawako, Semboku-shi, Akita-ken 014-1201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7974677,39.8033672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぽぽろっこ屋上ウェブカメラ / Poporokko Web Camera</name>
+        <description>〒018-0711 秋田県由利本荘市岩谷町日渡５１−１ 由利本荘市CATVセンター / Yurihonjo city CATV Center, 51-1 Iwayamachihiwatashi, Yurihonjo-shi, Akita-ken 018-0711</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0976295,39.4434926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由利本荘市各地域ライブカメラ / Yuri Honjo City Live Camera</name>
+        <description>〒015-0871 秋田県由利本荘市尾崎１７　由利本荘市役所 / Yuri Honjo City Hall, 17 Ozaki, Yurihonjo-shi, Akita-ken 015-0871</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.048913,39.385796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ハーブワールドAKITAガーデン / Herb World AKITA Garden</name>
+        <description>〒018-0604 秋田県由利本荘市西目町沼田新道下４９０−５ ハーブワールドＡＫＩＴＡ / Herb World AKITA, 490-5 Numatashinmichishita, Nishime-machi, Yurihonjo-shi, Akita-ken 018-0604</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0117375,39.3583729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由利高原鉄道矢島駅 / Yurikogen Railway Yajima Station</name>
+        <description><![CDATA[〒015-0404 秋田県由利本荘市矢島町七日町「ローカル鉄道ドットコム」/ Nanokamachi, Yashima-cho, Yurihonjo-shi, Akita-ken 015-0404, "Local Train.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.139021,39.230203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青少年ホームから望む日本海と鳥海山 / Japan Sea and Mt. Chokai from the youth home</name>
+        <description><![CDATA[〒018-0402 秋田県にかほ市平沢中町７９　仁賀保勤労青少年ホーム　「にかほ市ライブ映像」/ Nikaho labor youth home, 79 Hirasawanakamachi, Nikaho-shi, Akita-ken 018-0402, "Nikaho City Live Video"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.961615,39.292328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥海山ライブ映像（道の駅ねむの丘から望む鳥海山）/ Mt. Chokaisan Live Video (Mt. Chokaisan from Michinoeki Nemunooka)</name>
+        <description><![CDATA[〒018-0121 秋田県にかほ市象潟町大塩越73−1　道の駅ねむの丘　「にかほ市ライブ映像」/ Michinoeki Nemunooka, 73-1 Oshiokoshi, Kisakata-machi, Nikaho-shi, Akita-ken 018-0121, "Nikaho City Live Video"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.900246,39.220152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由利本荘市ライブカメラ「鳥海山ライブカメラ」</name>
+        <description>〒015-0512 秋田県由利本荘市鳥海町猿倉奥山前８−４５　ホテルフォレスタ鳥海　「由利本荘市観光協会」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1176766,39.1740835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥海山全景・鳥海山頂上</name>
+        <description><![CDATA[秋田県にかほ市象潟町小滝<br>鉾立山荘<br>鳥海山定点カメラ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.99114,39.122869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥海山ライブ映像</name>
+        <description><![CDATA[秋田県にかほ市<br>にかほ市ライブ映像]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.046501,39.10662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒森山ライブカメラ / Mt. Kuromorisan Live Camera</name>
+        <description>〒019-1404 秋田県仙北郡美郷町六郷馬場１７４ 六郷登山協会 / Rokugo mountaineering association, 174 Rokugobaba, Misato-cho, Senboku-gun, Akita-ken 019-1404</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5504627,39.4207177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横手城展望台ライブカメラ / Yokote castle observatory live camera</name>
+        <description><![CDATA[〒013-0012 秋田県横手市城山町２９−１ 横手公園展望台 「横手市観光協会」/ Yokote Park Observatory, 29-1 Shiroyama-cho, Yokote-shi, Akita-ken 013-0012, "Yokote City]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.569167,39.321085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かねさく果樹園ライブカメラ / Kanesaku Orchard Live Camera</name>
+        <description>〒013-0102 秋田県横手市平鹿町醍醐妻ノ神１８−４　かねさく果樹園 まぐらりんご生産直売所 / Kanesaku Orchard, 18-4 Daigosainokami, Hiraka-machi, Yokote-shi, Akita-ken 013-0102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.563174,39.243503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙北平野の現在の様子 / Senboku Plain</name>
+        <description>〒014-0073 秋田県大仙市内小友字中土397 秘伝豆腐の通信販売 内小友ファーム 食品加工部 / Uchiotomo-Farm, 397 Uchiotomonakatsuchi, Daisen-shi, Akita-ken 014-0073</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.463909,39.4132753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ジュネス栗駒ライブカメラ / JEUNESSE Kurikoma Live Camera</name>
+        <description>〒019-0803 秋田県雄勝郡東成瀬村椿川柳沢39−7　ジュネス栗駒スキー場 / JEUNESSE Kurikoma Ski Resort, 39-7 Tsubakikawayanagisawa, Higashinaruse-mura, Ogachi-gun, Akita-ken 019-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7264961,39.1592915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗駒山荘ライブカメラ / Kurikoma Sanso Mountain Cottage Live Camera</name>
+        <description>〒019-0803 秋田県雄勝郡東成瀬村椿川字仁郷山国有林　栗駒山荘 / Kurikoma Sanso, Nisatoyamakokuyurin, Tsubakikawa, Higashinaruse-mura, Ogachi-gun, Akita-ken 019-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7675004,38.9800146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内国道・ライブ米代川 / National Routes and Yoneshiro River</name>
+        <description>〒016-0121 秋田県能代市鰄渕一本柳９７−１ 東北地方整備局能代河川国道事務所 / Tohoku Regional Development Bureau Noshiro River National Highway Office, 97-1 Ipponyanagi, Kairagebuchi, Noshiro-shi, Akita-ken 016-0121</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0736289,40.1871128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田沢湖畔とたつこ像 / Tazawa Lake Shore and Tatsuko Statue</name>
+        <description><![CDATA[秋田県仙北市田沢湖田沢潟前 「仙北市観光商工観光課」/ Tazawakatamae, Tazawako, Semboku-shi, Akita-ken, "Semboku City Tourism Commerce and Tourism Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.683022,39.746167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>たさわ湖スキー場「ゲレンデ、黒森山山頂、駒ヶ岳八合目ライブカメラ」</name>
+        <description>〒014-1201 秋田県仙北市田沢湖生保内下高野７３−２　たざわ湖スキー場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7707402,39.7624329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋田マリーナライブカメラ / Akita Marina Live Camera</name>
+        <description>〒011-0911 秋田県秋田市飯島堀川１１８ 秋田マリーナ / Marina Akita, 118 Iijimahorikawa, Akita-shi, Akita-ken 011-0911</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.038324,39.788354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[日本海ライブ映像＜道の駅象潟ねむの丘＞/ Japan Sea live image from Michinoeki Kisakata "Nemunooka"]]></name>
+        <description><![CDATA[〒018-0121 秋田県にかほ市象潟町大塩越７３−１ 道の駅 象潟「ねむの丘」/ Michinoeki Kisakata "Nemunooka", 73-1 Oshiokoe, Kisakata-cho, Nikaho-shi, Akita-ken 018-0121]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9002129,39.220199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡平山系（秋田県側）のリアルタイム情報・秋田県内国道のライブカメラ / Hachimandaira Mountain Range and National Routes in Akita Prefecture</name>
+        <description>〒012-0862 秋田県湯沢市関口上寺沢６４−２ 湯沢河川国道事務所 / Yuzawa River National Highway Office, 64-2 Sekiguchikamiterasawa, Yuzawa-shi, Akita-ken 012-0862</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.48987,39.142401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雄物川・子吉川ライブカメラ / Omono River and Koyoshi River Live Cameras</name>
+        <description>〒010-0951 秋田県秋田市山王１丁目１０−２９ 国土交通省 東北地方整備局 秋田河川国道事務所 / Ministry of Land, Infrastructure and Transport Tohoku Regional Development Bureau Akita River National Highway Office, 1-10-29 Sanno, Akita-shi, Akita-ken 010-0951</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1032002,39.7217577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋川舘前ライブカメラ / Imokawa Tatemae Live Camera</name>
+        <description><![CDATA[秋田県由利本荘市内越「一般財団法人河川情報センター」/ Utetsu, Yurihonjo City, Akita Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/yurihonjo-utetsu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0707141,39.4145763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【期間限定】勢至公園桜開花情報ライブカメラ / [Limited time] Seishi Park Sakura Flowering Information Live Camera</name>
+        <description><![CDATA[〒018-0311 秋田県にかほ市金浦上林４−１ 勢至公園 「株式会社今野工業所」/ Seishi Park, 4-1 Konoura Kamibayashi, Nikaho City, Akita Prefecture 018-0311,  "Konno Kogyosho Co., Ltd."<br>https://livecamera.fujiyamasan.com/nikaho-seishi-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9205222,39.2609575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

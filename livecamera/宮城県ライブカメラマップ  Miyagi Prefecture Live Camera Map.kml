@@ -1,0 +1,3124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>宮城県ライブカメラマップ / Miyagi Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasna.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>宮城県内ライブカメラ</name>
+      <Placemark>
+        <name>気仙沼市防災ライブカメラ / Kesennuma City Disaster Prevention Live Camera</name>
+        <description>〒988-0084 宮城県気仙沼市八日町１丁目１−１　気仙沼市役所 / Kesennuma City Hall, 1-1-1 Youkamachi, Kesennuma-shi, Miyagi-ken 988-0084</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5699919,38.908078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊豆沼のガンカモ類 / Anatidae of Izunuma</name>
+        <description><![CDATA[〒987-2200 宮城県栗原市若柳上畑岡敷味１７−２ 宮城県伊豆沼・内沼サンクチュアリセンター 「インターネット自然研究所」/ The Miyagi Prefetural Izunuma-Uchinuma Environmental Foundation, 17-2 Okashikimi, Wakayanagikamihata, Kurihara-shi, Miyagi-ken 987-2200, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.094816,38.723739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子ダム・江合川ライブ映像 / Naruko Dam and Eai River Live Video</name>
+        <description><![CDATA[〒989-6100 宮城県大崎市鳴子温泉字岩渕2−8<br>東北地方整備局鳴子ダム管理所 / Tohoku Regional Development Bureau Naruko Dam Administration Office, 2-8 Iwabuchi, Narukoonsen, Osaki-shi, Miyagi-ken 989-6100]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.706464,38.753548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内河川ライブカメラ / Rivers in Miyagi Live Cameras</name>
+        <description>〒986-0861 宮城県石巻市蛇田新下沼８０ 北上川下流河川事務所 / Kitakamigawa-Karyu River Office, 80 Hebitashinshimonuma, Ishinomaki-shi, Miyagi-ken 986-0861</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.287441,38.442968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松島ライブカメラ / Matsushima Live Camera</name>
+        <description>〒981-0213 宮城県宮城郡松島町松島字町内25 　ホテル大松荘 / Hotel Daimatsuso, 25 Matsushimachonai, Matsushima-machi, Miyagi-gun, Miyagi-ken 981-0213</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.05918,38.368909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台市路面情報 / Sendai City Road Surface Information</name>
+        <description>〒980-8671 宮城県仙台市青葉区国分町３丁目７−１ 仙台市建設局道路部 / Sendai City Construction Bureau Road Department, 3-7-1 Kokubun-cho, Aoba-ku, Sendai-shi, Miyagi-ken 980-8671</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8694354,38.2682155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>港町塩釜・千賀の浦湾</name>
+        <description><![CDATA[宮城県塩竈市尾島町２７−２３<br>宮城ケーブルテレビ（株）]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.026065,38.317501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県庁展望ホールライブカメラ</name>
+        <description><![CDATA[宮城県仙台市青葉区本町３丁目８<br>宮城県庁<br>NTT東日本宮城支店]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.872267,38.268911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台CCライブカメラ / Sendai Country Club Live Camera</name>
+        <description>〒981-1238 宮城県名取市愛島笠島南北沢１−８　仙台カントリー倶楽部名取コース 宮城県ゴルフ場 / Sendai Country Club Natori Course, 1-8 Minamikitasawa, Medeshimakasashima, Natori-shi, Miyagi-ken 981-1238</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.83812,38.148299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>航空大学校仙台分校エプロンの様子 / Aircraft school Sendai school apron</name>
+        <description>〒989-2421 宮城県岩沼市下野郷新拓１−７　航空大学校仙台分校 / Aviation University Sendai branch, 1-7 Shimonogoshintaku, Iwanuma-shi, Miyagi-ken 989-2421</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9196895,38.1334041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[「みやぎのかわとみち」リアルタイム情報‐ライブカメラ・路面情報・水位雨量情報 / "Miyagi Rivers and Roads" real-time information - live camera, road surface information and water level rainfall information]]></name>
+        <description>〒982-8566 宮城県仙台市太白区あすと長町４丁目1-60 仙台河川国道事務所 / Sendai River National Highway Office, 4 Asutonagamachi, Taihaku-ku, Sendai-shi, Miyagi-ken 982-8566</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8888063,38.2275381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釜房ダム定点カメラ / Kamafusa Dam Fixed Point Camera</name>
+        <description>〒989-1505 宮城県柴田郡川崎町小野大平山１０−６ 東北地方整備局釜房ダム管理所 / Tohoku Regional Development Bureau Kamafusa Dam Administration Office, 10-6 Onoodairayama, Kawasaki-machi, Shibata-gun, Miyagi-ken 989-1505</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.69684,38.203352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スポーツランドSUGOライブカメラ / Sportsland SUGO Live Camera</name>
+        <description>〒989-1301 宮城県柴田郡村田町菅生6−1　スポーツランド / SUGOSportsland SUGO, 6-1 Sugo, Murata-machi, Shibata-gun, Miyagi-ken 989-1301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7776609,38.1419215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝見台・お釜ライブカメラ / Takimidai and Okama Live Camera</name>
+        <description>〒989-0821 宮城県刈田郡蔵王町円田西浦北１０蔵王町役場 農林観光課 / Zao Town Office Agriculture and Forest Tourism Division, 10 Endanishiurakita, Zao-cho, Katta-gun, Miyagi-ken 989-0821</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.658731,38.098159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スキー場ゲレンデライブカメラ / Ski resort slope live camera</name>
+        <description>宮城県刈田郡蔵王町遠刈田温泉　倉石岳国有地内　みやぎ蔵王えぼしスキー場 / Miyagi Zao Eboshi Ski Resort, Tokattaonsen, Zao-cho, Katta-gun, Miyagi-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.525329,38.12794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七ヶ宿ダムライブカメラ / Shichikashuku Dam Live Camera</name>
+        <description>宮城県刈田郡七ヶ宿町 七ヶ宿ダム管理所 / Shichikashuku Dam Management Office, Shichikashuku-machi, Katta-gun, Miyagi-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.504676,37.971178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七ヶ宿町ライブカメラ / Shichikashuku Town Live Camera</name>
+        <description><![CDATA[〒989-0512 宮城県刈田郡七ヶ宿町関１２６ <br>七ヶ宿町役場 / Shichikashuku Town Hall, 126 Seki, Shichikashuku-machi, Katta-gun, Miyagi-ken 989-0512]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4416479,37.993151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸森町防災カメラマップ / Marumori Town Disaster Prevention Camera Map</name>
+        <description>〒981-2192 宮城県伊具郡丸森町字鳥屋１２０　丸森町役場 / Marumori Town Hall, 120 Toriya, Marumori-machi, Igu-gun, Miyagi-ken 981-2192</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7653334,37.9115226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北大学ライブカメラ / Tohoku University Live Camera</name>
+        <description>〒980-8578 宮城県仙台市青葉区荒巻字青葉６−３ 東北大学 青葉山キャンパス 東北大学大学院理学研究科・理学部 / Tohoku University Aobayama Campus, 6 Aoba, Aramaki, Aoba-ku, Sendai-shi, Miyagi-ken 980-8578</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8404172,38.2543436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国分町交差点ライブ映像</name>
+        <description><![CDATA[宮城県仙台市青葉区国分町１丁目６−１８<br>東日本チェスコム（株）]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.870605,38.262024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台空港ライブカメラ</name>
+        <description><![CDATA[宮城県名取市下増田南原<br>仙台空港]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.928862,38.138236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北大学青葉山新キャンパスライブカメラ / Tohoku University Aobayama New Campus Live Camera</name>
+        <description><![CDATA[〒980-0845 宮城県仙台市青葉区荒巻青葉４６８−１ 東北大学 青葉山新キャンパス 「東北大学未来科学技術共同研究センター」/ Tohoku University Aobayama New Campus, 468-1 Aramaki Aoba, Aoba-ku, Sendai-shi, Miyagi 980-0845, "Tohoku University Future Science and Technology Joint Research Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8308513,38.2569097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道吉成ライブカメラ / Tohoku Expressway Yoshinari Live Camera</name>
+        <description><![CDATA[〒989-3212 宮城県仙台市青葉区芋沢吉成山 「東日本高速道路」/ Yoshinariyama Imozawa, Aoba-ku, Sendai City, Miyagi Prefecture 989-3212 "East Japan Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8089094,38.2926277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台市中心部ライブカメラ / Sendai city center live camera</name>
+        <description><![CDATA[〒980-0811 宮城県仙台市青葉区一番町４丁目１１−１ 仙台三越 定禅寺通り館 「東日本放送(KHB)」/ Sendai Mitsukoshi Seizenji Dorikan, 4-11-1 Ichibancho, Aoba-ku, Sendai City, Miyagi Prefecture 980-0811,  "East Japan Broadcasting (KHB)"<br>https://livecamera.fujiyamasan.com/sendai-aoba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8709067,38.2656142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ミヤギテレビ仙台駅前ライブカメラ / Miyagi Television Sendai Ekimae Live Camera </name>
+        <description><![CDATA[〒980-0021 宮城県仙台市青葉区中央１丁目２−３ 仙台マークワン 「ミヤギテレビ公式チャンネル」/ Sendai Mark One, 1-2-3 Central, Aoba-ku, Sendai City, Miyagi Prefecture 980-0021<br>"Miyagi Television Official Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8816137,38.2619688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぶらんどーむライブカメラ（青葉通側、広瀬通側）/ Vlandome Live Camera (Aoba Street Side and Hirose Street Side)</name>
+        <description><![CDATA[〒980-0811 宮城県仙台市青葉区一番町３丁目１０−１７ 慶和ビル 3F　一番町一番街商店街振興組合 「商店街ぶらんどーむ」/ Ichibancho Ichibangai Shotengai Shinkokumiai, Keiwa Building 3F, 3-10-17 Ichiban-cho, Aoba-ku, Sendai-shi, Miyagi-ken 980-0811, "Shopping Street Vlandome"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.87113,38.262159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台市天文台お天気・太陽ライブカメラ / Sendai City Astronomical Observatory Weather and Solar live camera</name>
+        <description>〒989-3123 宮城県仙台市青葉区錦ケ丘９丁目２９−３２ 仙台市天文台 / Sendai Astronomical Observatory, 9-29-32 Nishikigaoka, Aoba-ku, Sendai-shi, Miyagi-ken 898-3123</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.75528,38.256885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北大学天文ライブカメラ / Tohoku University Astronomical Live Camera</name>
+        <description>〒980-8577 宮城県仙台市青葉区片平２丁目１−１ 東北大学 / Tohoku University, 2-1-1 Katahira, Aoba-ku, Sendai City, Miyagi Prefecture 980-8577</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8743515,38.2536491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号関山峠第3ライブカメラ / Route 48 Sekiyama Pass No. 3 Live Camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並作並岳山 「仙台河川国道事務所」/ Sakunamidakeyama, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6119317,38.3373899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北大学大学院理学研究科理学部ライブカメラ / Tohoku University Graduate School of Science Faculty of Science Live Camera</name>
+        <description>〒980-0845 宮城県仙台市青葉区荒巻青葉６−３理学研究科合同Ｂ棟 / Joint B Building, Graduate School of Science, 6-3 Aramaki Aoba, Aoba-ku, Sendai City, Miyagi Prefecture 980-0845 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8411482,38.259064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台市街地・墓参カメラ / Sendai city and grave camera</name>
+        <description>〒980-0871 宮城県仙台市青葉区八幡６丁目１３−２６ 日蓮宗本国寺 / Nichirenshu Honkokuji, 6-13-26 Yahata, Aoba-ku, Sendai-shi, Miyagi-ken 980-0871</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8327,38.26953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTTルパルク仙台一番町第1駐車場1ライブカメラ / NTT LePerc Sendai Ichibancho No. 1 Parking Lot 1 Live Camera</name>
+        <description><![CDATA[〒980-0811 宮城県仙台市青葉区一番町２丁目８−２５ NTTル・パルク仙台一番町第1駐車場 「NTTルパルク」/ NTT LePerc Sendai Ichibancho No. 1 Parking Lot,  2-8-25 Ichibancho, Aoba-ku, Sendai-shi, Miyagi 980-0811,  "NTT LePerc"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.870288,38.2583113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川平道路状況ライブカメラ / Kawadaira Road Situation Live Camera</name>
+        <description><![CDATA[〒981-0954 宮城県仙台市青葉区川平 「仙台市建設局道路部道路保全課」/ Kawadaira, Aoba-ku, Sendai City, Miyagi Prefecture 981-0954 "Road Maintenance Division, Road Department, Construction Bureau, Sendai City"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8396899,38.3049101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号関山トンネル宮城側ライブカメラ / National highway No. 48 Sekiyama tunnel Miyagi side live camera</name>
+        <description><![CDATA[宮城県仙台市青葉区作並 関山トンネル 「山形河川国道事務所」/ Sekiyama Tunnel,    Sakunami, Aoba Ward, Sendai City, Miyagi Prefecture,  "Yamagata River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5714697,38.3880526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号小網鳥沢ライブカメラ / National highway No. 48 Koami Torizawa live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並 「仙台河川国道事務所」/ Sakunami, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6024802,38.3610979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号深沢山ライブカメラ / National highway No. 48 Fukasawa live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並深沢山「仙台河川国道事務所」/ Sakunamifukazawa, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5903781,38.357935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号御伊勢橋ライブカメラ / National highway No. 48 Oisebashi live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並作並岳山「仙台河川国道事務所」/ Sakunamidakeyama, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6114167,38.3382567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号鍋越橋ライブカメラ / National Route 48 Nabekoshi Bridge Live Camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並 鍋越橋「仙台河川国道事務所」/ Nabekoshi Bridge,  Sakunami, Aoba-ku, Sendai City, Miyagi Prefecture, 989-3431,  "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5832829,38.3691332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号桂沢観測所ライブカメラ / National Route 48 Katsurazawa Observatory Live Camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並作並岳山 「仙台河川国道事務所」/ Sakunamidakeyama, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6116581,38.3373857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号長原ライブカメラ / National highway No. 48 Nagahara live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並長原「仙台河川国道事務所」/ Sakunami Nagahara, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6096311,38.3389162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号作並街道チェーン着脱所ライブカメラ / National highway No. 48 Sakunami highway chain attachment / detachment place live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並神ノ前西「仙台河川国道事務所」/ Sakunami Kaminomaenishi, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6224958,38.3189651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号愛子防災ステーションライブカメラ / National highway No. 48 Aiko disaster prevention station live camera</name>
+        <description><![CDATA[〒989-3125 宮城県仙台市青葉区下愛子「仙台河川国道事務所」/ Shimoayashi, Aoba-ku, Sendai City, Miyagi Prefecture 989-3125 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7701731,38.2693127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号作並除雪ステーションライブカメラ / National highway No. 48 Sakunami snow removal station live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並日向１「仙台河川国道事務所」/ 1 Sakunami Hinata, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6047077,38.3471554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道48号ニッカ橋ライブカメラ / National highway No. 48 Nikkahashi live camera</name>
+        <description><![CDATA[〒989-3431 宮城県仙台市青葉区作並鎌倉　ニッカ橋 (にっかばし)「仙台河川国道事務所」/ Nikkabashi, Sakunami Kamakura, Aoba-ku, Sendai City, Miyagi Prefecture 989-3431, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.649098,38.3130696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>メディアテーク・定禅寺通り / Mediatheque and Jozenji Street</name>
+        <description>〒980-0821 宮城県仙台市青葉区春日町２−１ せんだいメディアテーク / Sendai Mediatheque, 2-1 Kasuga-machi, Aoba-machi, Sendai-shi, Miyagi-ken 980-0821</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.865519,38.265554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅田川苦竹ライブカメラ / Umeda River Nigatake Live Camera</name>
+        <description><![CDATA[〒983-0038 宮城県仙台市宮城野区苦竹２丁目２ 新田大橋 「宮城県河川流域情報システム」/ Nitta Ohashi, 2-2 Nigatake, Miyagino-ku, Sendai City, Miyagi Prefecture 983-0038 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9221351,38.2710103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県仙台市若林区の天気(Live camera) / Weather in Wakabayashi Ward, Sendai City, Miyagi Prefecture (Live camera)</name>
+        <description><![CDATA[宮城県仙台市若林区 「aube mori」 / Wakabayashi Ward, Sendai City, Miyagi Prefecture "aube mori"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9429872,38.2209121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川広瀬橋水位観測所ライブカメラ / Hirose River Hirose Bridge Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒984-0816 宮城県仙台市若林区河原町２丁目１５ 「仙台河川国道事務所」/ 2-15 Kawaramachi, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0816 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8927722,38.2361147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川松原警報所ライブカメラ / Hirosegawa Matsubara Warning Station Live Camera</name>
+        <description><![CDATA[〒984-0817 宮城県仙台市若林区堰場 「仙台河川国道事務所」/ Douba, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0817 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8923865,38.2332447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川中河原排水樋管ライブカメラ / Hirose River Nakagawara drainage gutter pipe live camera</name>
+        <description><![CDATA[〒984-0826 宮城県仙台市若林区若林７丁目「仙台河川国道事務所」/ 7-chome, Wakabayashi, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0826 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9050972,38.2259686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川日辺ライブカメラ / Natori River Nippe Live Camera</name>
+        <description><![CDATA[〒984-0837 宮城県仙台市若林区日辺「仙台河川国道事務所」/ Nippe, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0837 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9163773,38.2081262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川今泉警報所ライブカメラ / Natori River Imaizumi Warning Station Live Camera</name>
+        <description><![CDATA[〒984-0835 宮城県仙台市若林区今泉「仙台河川国道事務所」/ Imaizumi, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0835 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9308388,38.20469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川藤塚警報所ライブカメラ / Natori River Fujitsuka Warning Station Live Camera</name>
+        <description><![CDATA[〒984-0843 宮城県仙台市若林区藤塚一本松「仙台河川国道事務所」/ Ipponmatsu Fujitsuka, Wakabayashi-ku, Sendai City, Miyagi Prefecture 984-0843 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9504784,38.1844485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川6.0KP右岸ライブカメラ / Natori River 6.0KP Right Bank Live Camera</name>
+        <description><![CDATA[〒981-1107 宮城県仙台市太白区東中田１丁目 「国土交通省河川情報センター」/ 1-chome Higashinakada, Taihaku-ku, Sendai City, Miyagi Prefecture 981-1107 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8984733,38.2044857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>碁石川人来田ライブカメラ / Goishikawa Hitokita Live Camera</name>
+        <description><![CDATA[〒982-0251 宮城県仙台市太白区茂庭 「国土交通省東北地方整備局釜房ダム管理所」/ Moniwa, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0251 "Kamafusa Dam Management Office, Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7641306,38.2233697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笊川0.6KP右岸ライブカメラ / Zaru River 0.6KP Right Bank Live Camera</name>
+        <description><![CDATA[〒982-0036 宮城県仙台市太白区富沢南１丁目 「国土交通省河川情報センター」/ 1-chome, Tomizawaminami, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0036 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8661651,38.2140134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>碁石川湯元ライブカメラ / Goishikawa Yumoto Live Camera</name>
+        <description><![CDATA[〒982-0241 宮城県仙台市太白区秋保町湯元「国土交通省東北地方整備局釜房ダム管理所」/ Yumoto, Akiumachi, Taihaku-ku, Sendai-shi, Miyagi 982-0241 "Kamafusa Dam Management Office, Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7055384,38.232163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧笊川北目橋ライブカメラ / Former Zarukawa Kitamebashi Live Camera</name>
+        <description><![CDATA[〒982-0003 宮城県仙台市太白区郡山 「宮城県河川流域情報システム」/ Koriyama, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0003 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8973075,38.2143146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笊川取水ポンプ場ライブカメラ / Zaru River Intake Pumping Station Live Camera</name>
+        <description><![CDATA[〒982-0032 宮城県仙台市太白区富沢 「仙台河川国道事務所」/ Tomizawa, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0032 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8603238,38.2168503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笊川熊野宮橋ライブカメラ / Zaru River Kumano Miyabashi Live Camera</name>
+        <description><![CDATA[〒982-0032 宮城県仙台市太白区富沢 「仙台河川国道事務所」/ Tomizawa, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0032 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8603238,38.2168503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笊川杉の下橋ライブカメラ / Zaru River Suginoshita Bridge Live Camera</name>
+        <description><![CDATA[宮城県仙台市太白区富沢３丁目２８ 杉の下橋「仙台河川国道事務所」/ Sugishita Bridge, 3-28 Tomizawa, Taihaku-ku, Sendai City, Miyagi Prefecture  "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8638805,38.2158287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川愛宕堰ライブカメラ / Hirose River Atago Weir Live Camera</name>
+        <description><![CDATA[〒982-0842 宮城県仙台市太白区越路「仙台河川国道事務所」/ Koeji, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0842<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8802385,38.2447511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川郡山堰ライブカメラ / Hirosegawa Koriyama Weir Live Camera</name>
+        <description><![CDATA[〒982-0844 宮城県仙台市太白区根岸町「仙台河川国道事務所」/ Negishimachi, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0844<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8832095,38.2390582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川八本松第一排水樋管ライブカメラ / Hirose River Hachihonmatsu Daiichi Drainage Gutter Pipe Live Camera</name>
+        <description><![CDATA[〒982-0001 宮城県仙台市太白区八本松１丁目 「仙台河川国道事務所」/ 1-chome, Hachihonmatsu, Taihaku-ku, Sendai-shi, Miyagi 982-0001 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8944062,38.2297525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川千代大橋右岸ライブカメラ / Hirosegawa Chiyo Ohashi right bank live camera</name>
+        <description><![CDATA[宮城県仙台市太白区郡山 「仙台河川国道事務所」/ Koriyama, Taihaku-ku, Sendai City, Miyagi Prefecture "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9004427,38.2245801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬川仙台河川国道事務所名取川出張所ライブカメラ</name>
+        <description><![CDATA[〒982-0003 宮城県仙台市太白区郡山源兵衛東３６ 国土交通省 東北地方整備局 仙台河川国道事務所 名取川出張所 「仙台河川国道事務所」/ 36 Genbeehigashi, Taihaku-ku, Sendai-shi, Miyagi 982-0003, Ministry of Land, Infrastructure, Transport and Tourism Sendai River National Highway Office Natorigawa Branch Office "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.907493,38.216935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川柳生警報所ライブカメラ / Natori Senryu Warning Station Live Camera</name>
+        <description><![CDATA[〒981-1106 宮城県仙台市太白区柳生「仙台河川国道事務所」/ Yanagiu, Taihaku-ku, Sendai City, Miyagi Prefecture 981-1106 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8703889,38.1991033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川高原排水樋管ライブカメラ / Natori River Takahara Drainage Gutter Pipe Live Camera</name>
+        <description><![CDATA[〒982-0014 宮城県仙台市太白区大野田高原 「仙台河川国道事務所」/ Onoda Kogen, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0014 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8765318,38.2078199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川名取橋左岸下流ライブカメラ / Natori River Natori Bridge Left Bank Downstream Live Camera</name>
+        <description><![CDATA[〒982-0004 宮城県仙台市太白区東大野田「仙台河川国道事務所」/ Higashionoda, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0004<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8866353,38.2089547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川名取大橋上流ライブカメラ / Natori River Natori Ohashi upstream live camera</name>
+        <description><![CDATA[〒982-0014 宮城県仙台市太白区大野田「仙台河川国道事務所」/ Onoda, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0014 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8778707,38.2078816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川笊川水門ライブカメラ / Natori River Zaru River Sluice Live Camera</name>
+        <description><![CDATA[宮城県仙台市太白区袋原北河原「仙台河川国道事務所」/ Fukurobara Kitakawara, Taihaku-ku, Sendai City, Miyagi Prefecture "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9067418,38.2103982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川袋原水位観測所ライブカメラ / Natori River Fukurobara Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒981-1102 宮城県仙台市太白区袋原２丁目３「仙台河川国道事務所」/ 2-3 Fukurobara, Taihaku-ku, Sendai City, Miyagi Prefecture 981-1102 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9111454,38.2039177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕神社・仙台市内ライブカメラ / Atago Jinja and Sendai City Live Camera</name>
+        <description>〒982-0841 宮城県仙台市太白区向山４丁目１７−１　愛宕神社 / Atago Jinja, 4-17-1 Mukaiyama, Taihaku-ku, Sendai-shi, Miyagi-ken 982-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8755476,38.245848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>理容店店内の様子 / Inside the barber shop</name>
+        <description><![CDATA[〒982-0004 宮城県仙台市太白区東大野田２−１５ 理容室ロイヤル / The Barber Shop "Royal," 2-15 Higashionoda, Taihaku-ku, Sendai-shi, Miyagi-ken 982-0004]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.884284,38.210884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号仙台河川鉄塔ライブカメラ / National highway No. 4 Sendai river tower live camera </name>
+        <description><![CDATA[〒982-0003 宮城県仙台市太白区郡山５丁目６−６ 「仙台河川国道事務所」/ 5-6-6 Koriyama, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0003 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8946427,38.2191619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋保野尻道路状況ライブカメラ / Akiu Nojiri Road Situation Live Camera</name>
+        <description><![CDATA[〒982-0242 宮城県仙台市太白区秋保町境野野尻 「仙台市建設局道路部道路保全課」/  Sakaino Nojiri, Akiumachi, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0242, "Sendai City Construction Bureau Road Department Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6921513,38.2489042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茂庭道路状況ライブカメラ / Moniwa Road Situation Live Camera</name>
+        <description><![CDATA[〒982-0252 宮城県仙台市太白区茂庭台 「仙台市建設局道路部道路保全課」/ Moniwadai, Taihaku-ku, Sendai City, Miyagi Prefecture 982-0252 "Road Maintenance Division, Road Department, Construction Bureau, Sendai City"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7829932,38.2342905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八木山道路状況ライブカメラ / Yagiyama Road Situation Live Camera</name>
+        <description><![CDATA[〒982-0801 宮城県仙台市太白区八木山本町１丁目４３ 仙台市八木山動物公園 「仙台市建設局道路部道路保全課」/  Sendai-shi Yagiyama Zoological Park, 1-43 Yagiyamahoncho, Taihaku-ku, Sendai-shi, Miyagi 982-0801, "Sendai City Construction Bureau Road Department Road Maintenance Division"<br>https://livecamera.fujiyamasan.com/seindai-yagiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8469073,38.2454156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉ヶ岳スキー場ゲレンデライブカメラ / Izumigatake Ski Resort Slope Live Camera</name>
+        <description>〒981-3225 宮城県仙台市泉区福岡岳山９−４ 泉ヶ岳スキー場 / Izumigatake Ski Resort, 9-4 Fukuoka Dakeyama, Izumi-ku, Sendai City, Miyagi Prefecture 981-3225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7218385,38.3909604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スキー場ゲレンデライブカメラ / Ski Resort Slope Live Camera</name>
+        <description>〒981-3225 宮城県仙台市泉区福岡岳山１４−２ スプリングバレー泉高原スキー場 / Spring Valley Izumi Kogen Ski Resort, 14-2 Fukuoka Dakeyama, Izumi-ku, Sendai-shi, Miyagi-ken 981-3225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.722675,38.418763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂ライブカメラ / Kamo Live Camera</name>
+        <description><![CDATA[宮城県仙台市泉区加茂 「Nori's Live Cam in Sendai」 / Kamo, Izumi-ku, Sendai-shi, Miyagi-ken, "Nor's Live Cam in Sendai"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.850177,38.315431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉国際ゴルフ倶楽部ライブカメラ / Izumikokusai Golf Club Live Camera</name>
+        <description>〒981-3221 宮城県仙台市泉区根白石花輪山１　泉国際ゴルフ倶楽部 / Izumikokusai Golf Club, Nenoishihanawayama, Izumi-ku, Sendai-shi, Miyagi-ken 981-3221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.769989,38.340129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七北田川小角ライブカメラ / Nanakita River Ogaku Live Camera</name>
+        <description><![CDATA[宮城県仙台市泉区実沢 「宮城県河川流域情報システム」/ Sanezawa, Izumi-ku, Sendai City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8132289,38.3271639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七北田川市名坂ライブカメラ / Nanakita River Ichinazaka Live Camera</name>
+        <description><![CDATA[〒981-3117 宮城県仙台市泉区市名坂町「宮城県土木部河川課」/ Nasaka-cho, Izumi-ku, Sendai-shi, Miyagi Prefecture 981-3117, <br>"Miyagi Prefecture Civil Engineering Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8884543,38.3199101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉ヶ岳道路状況ライブカメラ / Izumigatake road condition live camera</name>
+        <description><![CDATA[〒981-3225 宮城県仙台市泉区福岡岳山１４−２「仙台市建設局道路部道路保全課」/ 14-2 Fukuoka Dakeyama, Izumi-ku, Sendai City, Miyagi Prefecture 981-3225 "Road Maintenance Division, Road Department, Construction Bureau, Sendai City"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7221105,38.4191932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉ヶ岳パラグライダースクールライブカメラ / Izumigatake Paraglider School Live Camera</name>
+        <description>〒989-3221 宮城県仙台市泉区泉区福岡岳山 泉ヶ岳スキー場内 泉ヶ岳パラグライダースクール / Izumigatake Paraglider School in Izumigatake Ski Resort, Izumigatake, Izumi-ku, Sendai-shi, Miyagi 989-3221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7206737,38.3905959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道仙台宮城IC ～ 泉ICライブカメラ / Tohoku Expressway Sendai Miyagi IC-Izumi IC Live Camera</name>
+        <description><![CDATA[〒981-3131 宮城県仙台市泉区七北田大沢木戸 泉IC 「NEXCO東日本」/ Izumi IC, Osawakido, Nanakita, Izumi-ku, Sendai City, Miyagi Prefecture 981-3131,  "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8750062,38.3481564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川2.8KP左岸ライブカメラ / Eai River 2.8KP left bank live camera</name>
+        <description><![CDATA[宮城県石巻市前谷地兀山谷地 「国土交通省河川情報センター」/ Hageyamayachi, Maeyachi, Ishinomaki City, Miyagi Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1957385,38.5402334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川7.4KP右岸ライブカメラ / Kitakami River 7.4KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県石巻市福地町「国土交通省河川情報センター」/ Fukuji Town, Ishinomaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3846764,38.5358499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川10.8KP右岸ライブカメラ / Kitakami River 10.8KP Right Bank Live Camera</name>
+        <description><![CDATA[〒986-0124 宮城県石巻市三輪田赤柴新田「国土交通省河川情報センター」/ Akashiba Shinden, Minowada, Ishinomaki City, Miyagi Prefecture 986-0124 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3502739,38.525108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川21.0KP左岸ライブカメラ / Former Kitakami River 21.0KP left bank live camera </name>
+        <description><![CDATA[宮城県石巻市和渕「国土交通省河川情報センター」/ Wabuchi, Ishinomaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.230834,38.520605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真野川新明治橋ライブカメラ / Manogawa Shin-Meiji Bridge Live Camera</name>
+        <description><![CDATA[〒986-0005 宮城県石巻市大瓜 「宮城県河川流域情報システム」/ Ouri, Ishinomaki City, Miyagi Prefecture 986-0005, "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3429892,38.4540144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>復興モニタリングプロジェクト松川横丁東向きライブカメラ / Reconstruction monitoring project Matsukawa Yokocho East facing live camera</name>
+        <description><![CDATA[〒986-0822 宮城県石巻市中央 「復興モニタリングプロジェクト」/ Chuo, Ishinomaki City, Miyagi Prefecture 986-0822, "Reconstruction Monitoring Project"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3089105,38.430263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川脇谷水門ライブカメラ / Former Kitakami River Wakiya Sluice Live Camera</name>
+        <description><![CDATA[〒986-0301 宮城県石巻市桃生町脇谷茶臼 「北上川下流河川事務所」/ Wakiya Chausu, Monoucho, Ishinomaki City, Miyagi Prefecture 986-0301 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2906267,38.6014771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川植立山公園ライブカメラ / Former Kitakami River Uedateyama Park Live Camera</name>
+        <description><![CDATA[〒986-0314 宮城県石巻市桃生町寺崎外八木「北上川下流河川事務所」/ Terasaki Sotoyagi, Monoucho, Ishinomaki City, Miyagi Prefecture 986-0314, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2416966,38.5730161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川佳景山駅ライブカメラ / Former Kitakami River Kakeyama Station Live Camera</name>
+        <description><![CDATA[〒986-1111 宮城県石巻市鹿又秋葉前「北上川下流河川事務所」/ Akihamae, Kanomata, Ishinomaki City, Miyagi Prefecture, 986-1111<br>"Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2485599,38.4979931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川鹿又駅ライブカメラ / Former Kitakami River Kanomata Station Live Camera</name>
+        <description><![CDATA[宮城県石巻市鹿又 「北上川下流河川事務所」/ Kanomata, Ishinomaki City, Miyagi Prefecture "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2775829,38.4878331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川北上川運河交流館ライブカメラ / Former Kitakami River Kitakami River Canal Exchange Center Live Camera</name>
+        <description><![CDATA[〒986-0803 宮城県石巻市水押３丁目６６−６９北上川・運河交流館 水の洞窟 「北上川下流河川事務所」/ Kitakami River / Canal Exchange Center Water Cave, 3-66-69 Mizuoshi, Ishinomaki City, Miyagi Prefecture 986-0803  "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2919891,38.4464716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川住吉公園ライブカメラ / Former Kitakami River Sumiyoshi Park Live Camera</name>
+        <description><![CDATA[〒986-0821 宮城県石巻市住吉町１丁目３住吉公園 「北上川下流河川事務所」/ 1-3 Sumiyoshi-cho, Ishinomaki-shi, Miyagi 986-0821 Sumiyoshi Park "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3113783,38.4337985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川樫崎ライブカメラ / Kitakami River Kashizaki Live Camera</name>
+        <description><![CDATA[〒986-0304 宮城県石巻市桃生町樫崎 「北上川下流河川事務所」/ Kashizaki, Monoucho, Ishinomaki City, Miyagi Prefecture 986-0304 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3107421,38.5648644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川飯野川橋ライブカメラ / Kitakami River Iinokawa Bridge Live Camera</name>
+        <description><![CDATA[〒986-0121 宮城県石巻市大森町「北上川下流河川事務所」/ 〒986-0121 Omori Town, Ishinomaki City, Miyagi Prefecture<br>"Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.314177,38.5087844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川月浜第二水門ライブカメラ / Kitakami River Tsukihama Second Sluice Gate Live Camera</name>
+        <description><![CDATA[〒986-0201 宮城県石巻市北上町十三浜追波前 「北上川下流河川事務所」/ Jusanhama, Kitakami-cho, Ishinomaki City, Miyagi Prefecture, 986-0201, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4354742,38.5734469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川日和山公園ライブカメラ / Former Kitakami River Hiwayama Park Live Camera </name>
+        <description><![CDATA[〒986-0833 宮城県石巻市日和が丘２丁目２ 日和山公園 「北上川下流河川事務所」/ Hiyoriyama Park, 2-2 Hiyorigaoka, Ishinomaki City, Miyagi Prefecture 986-0833, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.307428,38.4232064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道398号線北上川新北上大橋ライブカメラ / National Route 398 Kitakami River Shinkitakami Bridge Live Camera</name>
+        <description><![CDATA[〒986-0814宮城県石巻市北上町橋浦南釜谷崎 「北上川下流河川事務所」/ Kitakamicho Hashiura Minamikamayazaki, Ishinomaki City, Miyagi Prefecture 986-0814,  "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4231136,38.5471074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金華山灯台ライブカメラ / Kinkazan Lighthouse Live Camera</name>
+        <description><![CDATA[〒986-2523 宮城県石巻市鮎川浜金華山 金華山灯台 「海上保安庁第管区海上保安部」/ Kinkasan Lighthouse, Kinkasan, Ayukawahama, Ishinomaki City, Miyagi Prefecture 986-2523,  "Japan Coast Guard District Maritime Security Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5841492,38.2765416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸自動車道桃生津山インターチェンジライブカメラ / Sanriku Expressway Monou-Tsuyama Interchange Live Camera</name>
+        <description><![CDATA[〒986-0302 宮城県石巻市桃生町倉埣 「仙台河川国道事務所」/ Kurano, Monoucho, Ishinomaki City, Miyagi Prefecture 986-0302, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.275231,38.5970851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸自動車道石巻河南インターチェンジライブカメラ / Sanriku Expressway Ishinomaki Henan Interchange Live Camera</name>
+        <description><![CDATA[宮城県石巻市蛇田 「仙台河川国道事務所」/ Hebita, Ishinomaki City, Miyagi Prefecture "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2680165,38.4462157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽竈神社ライブカメラ / Shiogama Shrine Live Camera</name>
+        <description>〒985-8510 宮城県塩竈市一森山１−１ 鹽竈神社(陸奥國 一之宮) /  Shiogama Shrine (Ichinomiya, Rikuokukuni), 1-1 Ichimoriyama, Shiogama City, Miyagi Prefecture 985-8510</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0127556,38.3185972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志波彦神社ライブカメラ / Shiwahiko Shrine Live Camera</name>
+        <description><![CDATA[〒985-0074 宮城県塩竈市一森山１−１ 志波彦神社 「志波彦神社」/ Shiwahiko Shrine, 1-1 Ichimoriyama, Shiogama City, Miyagi Prefecture 985-0074,  "Shiwahiko Shrine"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0136632,38.3190457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号越の浦ライブカメラ / National highway No. 45 Koshinoura live camera</name>
+        <description><![CDATA[〒985-0083 宮城県塩竈市越の浦１丁目 「仙台河川国道事務所」/ 1-chome, Koshinoura, Shiogama City, Miyagi Prefecture 985-0083 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0354028,38.3365957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿折川鹿折大橋ライブカメラ / Shishiori River Shishiori Ohashi Live Camera</name>
+        <description><![CDATA[〒988-0817 宮城県気仙沼市西八幡前 「宮城県河川流域情報システム」/ Nishihachimanmae, Kesennuma City, Miyagi Prefecture 988-0817 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5798559,38.9234094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大川大川本町ライブカメラ / Okawa Okawa Honmachi Live Camera</name>
+        <description><![CDATA[宮城県気仙沼市川畑「宮城県河川流域情報システム」/ Kawabata, Kesennuma City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5641224,38.9003957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号平成の森ライブカメラ / Route 45 Heisei no Mori Live Camera</name>
+        <description><![CDATA[〒988-0451 宮城県本吉郡南三陸町歌津管の浜 「仙台河川国道事務所」/ Utatsu Kudanohama, Minamisanriku-cho, Motoyoshi-gun, Miyagi Prefecture  988-0451,  "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5313944,38.7170169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号歌津港ライブカメラ / Route 45 Utatsu Port Live Camera</name>
+        <description><![CDATA[〒988-0402 宮城県本吉郡南三陸町歌津港 「仙台河川国道事務所」/ Utatsu Port, Minamisanriku-cho, Motoyoshi-gun, Miyagi Prefecture 988-0402 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5319156,38.7374323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号蔵内ライブカメラ / National highway No. 45 Kurauchi live camera</name>
+        <description><![CDATA[〒988-0325 宮城県気仙沼市本吉町蔵内「仙台河川国道事務所」/ Kurauchi, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0325, <br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5264556,38.751494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号二十一浜ライブカメラ / National highway No. 45 21 beach live camera</name>
+        <description><![CDATA[〒988-0322 宮城県気仙沼市本吉町二十一浜「仙台河川国道事務所」/ Nijuichihama, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0322 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5169539,38.7553217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号小泉小学校ライブカメラ / National highway No. 45 Koizumi Elementary School live camera</name>
+        <description><![CDATA[〒988-0333 宮城県気仙沼市本吉町平貝６３「仙台河川国道事務所」/ 63 Hiragai, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0333 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5063468,38.7660561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号幸土ライブカメラ / Route 45 Kodo Live Camera</name>
+        <description><![CDATA[〒988-0303 宮城県気仙沼市本吉町幸土「仙台河川国道事務所」/ Kodo, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0303,   "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5257349,38.7974843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号日門ライブカメラ / Route 45 Hikado Live Camera</name>
+        <description><![CDATA[〒988-0276 宮城県気仙沼市本吉町日門「仙台河川国道事務所」/ Hikado, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0276<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5528504,38.8103179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号大谷海岸ライブカメラ / Route 45 Oya Kaigan Live Camera</name>
+        <description><![CDATA[〒988-0275 宮城県気仙沼市本吉町九多丸「仙台河川国道事務所」/ Kudamaru, Motoyoshi-cho, Kesennuma City, Miyagi Prefecture 988-0275 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.555893,38.8138131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>碁石川余方ライブカメラ / Goishikawa Yokata Live Camera</name>
+        <description><![CDATA[〒981-1241 宮城県名取市高舘熊野堂 「国土交通省東北地方整備局釜房ダム管理所」/ Takadate Kumanodo, Natori City, Miyagi Prefecture 981-1241 "Kamafusa Dam Management Office, Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8158363,38.2003838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>増田川上増田ライブカメラ / Masuda River Kamimasuda Live Camera</name>
+        <description><![CDATA[〒981-1225 宮城県名取市飯野坂 「宮城県河川流域情報システム」/ Iinozaka, Natori City, Miyagi Prefecture 981-1225 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8896847,38.1576072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川飛鳥警報所ライブカメラ / Natori River Asuka Warning Station Live Camera</name>
+        <description><![CDATA[〒981-1241 宮城県名取市高舘熊野堂飛鳥 「仙台河川国道事務所」/ Asuka Takadate Kumanodo, Natori City, Miyagi Prefecture 981-1241 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8520636,38.2015739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川名取川橋右岸上流ライブカメラ / Natori River Natori River Bridge Right Bank Upstream Live Camera</name>
+        <description><![CDATA[〒981-1213 宮城県名取市閖上川前 「	仙台河川国道事務所」/ Yuriage Kawamae, Natori City, Miyagi Prefecture  981-1213, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9342564,38.1931846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川名取川橋右岸下流ライブカメラ / Natori River Natori River Bridge Right Bank Downstream Live Camera</name>
+        <description><![CDATA[〒981-1213 宮城県名取市閖上新猿猴 「仙台河川国道事務所」/  Yuriage Shinenko, Natori City, Miyagi Prefecture 981-1213, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9359849,38.1875842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名取川閖上水門ライブカメラ / Natori River Yuriage Sluice Live Camera</name>
+        <description><![CDATA[〒981-1213 宮城県名取市閖上新町頭 「仙台河川国道事務所」/ Yuriage Shinmachikashira, Natori City, Miyagi Prefecture 981-1213,<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9431323,38.1806961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川小田ライブカメラ / Odagawa Oda Live Camera</name>
+        <description><![CDATA[〒981-1505 宮城県角田市角田住社「宮城県河川流域情報システム」/ Kakuda Sumiyashiro, Kakuda City, Miyagi Prefecture 981-1505<br>"Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7800303,37.9625307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川角田橋上流ライブカメラ / Abukuma River Kakuda Bridge upstream live camera</name>
+        <description><![CDATA[〒981-1505 宮城県角田市角田中島下「仙台河川国道事務所」/ Nakajimashimo, Kakuda, Kakuda City, Miyagi Prefecture, 981-1505<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7932628,37.9737307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川仙台河川国道事務所角田出張所ライブカメラ / Abukuma River Sendai River National Highway Office Tsunoda Branch Office Live Camera</name>
+        <description>〒981-1523 宮城県角田市梶賀高畑北３２２−３国土交通省 東北地方整備局 仙台河川国道事務所 角田出張所 / Kakuda Branch Office, Sendai River National Highway Office, Tohoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, 322-3 Kajika Takabatakekita, Kakuda City, Miyagi Prefecture 981-1523 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.798171,37.984613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川佐倉ライブカメラ / Abukuma River Sakura Live Camera</name>
+        <description><![CDATA[〒981-1522 宮城県角田市佐倉 「仙台河川国道事務所」/ Sakura, Kakuda City, Miyagi Prefecture 981-1522, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8037968,37.9972162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川東根橋上流ライブカメラ / Abukuma River Higashine Bridge upstream live camera</name>
+        <description><![CDATA[〒981-1521 宮城県角田市江尻 「仙台河川国道事務所」/ Ejiri, Kakuda City, Miyagi Prefecture 981-1521 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7968372,38.0194792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川西小坂ライブカメラ / Abukuma River Nishikosaka Live Camera</name>
+        <description><![CDATA[〒981-1532 宮城県角田市小坂 「仙台河川国道事務所」/ Osaka, Kakuda City, Miyagi Prefecture 981-1532 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8150733,38.044902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川白石川合流部ライブカメラ / Abukuma River Shiroishi River Confluence Club Live Camera</name>
+        <description><![CDATA[〒981-1531 宮城県角田市鳩原瀬ノ木橋「仙台河川国道事務所」/Hatobara Senokibashi, Kakuda City, Miyagi Prefecture  981-1531,   "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8245679,38.0697234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂押川八幡橋ライブカメラ / Sunaoshi River Yawatabashi Live Camera</name>
+        <description><![CDATA[宮城県多賀城市八幡3丁目 「宮城県河川流域情報システム」/ 3-chome, Yawata, Tagajo City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0089779,38.2918743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勿来川勿来川遊水地ライブカメラ / Nakoso River Nakoso River Reservoir Live Camera </name>
+        <description><![CDATA[宮城県多賀城市市川新西久保「宮城県河川流域情報システム」/ Shinnishikubo, Ichikawa, Tagajo City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9801185,38.3083421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂押川砂押川遊水地ライブカメラ / Sunaoshi River Sunaoshi River retarding basin live camera</name>
+        <description><![CDATA[〒985-0864 宮城県多賀城市市川原谷地「宮城県河川流域情報システム」/  Kawarayachi, Tagajo City, Miyagi Prefecture 985-0864,   "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9780206,38.3049009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川四日市場樋管ライブカメラ / Abukuma River Yokkaichi Market Gutter Live Camera </name>
+        <description><![CDATA[〒989-2454 宮城県岩沼市南長谷西川前 「仙台河川国道事務所」/ Nishikawamae, Minamihase, Iwanuma City, Miyagi Prefecture, 989-2454<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8376298,38.0840034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川押分排水機場ライブカメラ / Abukuma River Oshiwake Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒989-2423 宮城県岩沼市押分御伊勢南原 押分排水機場 「仙台河川国道事務所」/ Oshiwake drainage pump station, Oshiwake Oiseminamihara, Iwanuma City, Miyagi Prefecture 989-2423,  "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8750991,38.099335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川仙台東部道路上流ライブカメラ / Abukuma River Sendai Tobu Road upstream live camera</name>
+        <description><![CDATA[〒989-2424 宮城県岩沼市早股西砂押「仙台河川国道事務所」/ Hayamata Nishisunaoshi,  Iwanuma City, Miyagi Prefecture 989-2424,    <br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8865171,38.0970526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川寺島ライブカメラ / Abukuma River Terashima Live Camera</name>
+        <description><![CDATA[〒989-2425 宮城県岩沼市寺島高原 「仙台河川国道事務所」/ Terashima Kogen, Iwanuma City, Miyagi Prefecture 989-2425, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9068618,38.0823002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川亘理大橋上流ライブカメラ / Abukuma River Watario Ohashi upstream live camera</name>
+        <description><![CDATA[〒989-2425 宮城県岩沼市寺島南瀬崎 「仙台河川国道事務所」/ Minamisezaki, Terashima, Iwanuma City, Miyagi Prefecture, 989-2425<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9088592,38.0603225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川水門下流ライブカメラ / Abukuma River Sluice Downstream Live Camera</name>
+        <description><![CDATA[〒989-2425 宮城県岩沼市寺島川向 「仙台河川国道事務所」/ Terashimakawamukai, Iwanuma City, Miyagi Prefecture 989-2425,"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9216286,38.0630813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川河口観測塔ライブカメラ / Abukuma River Estuary Observatory Live Camera</name>
+        <description><![CDATA[〒989-2425 宮城県岩沼市寺島川向 「仙台河川国道事務所」/ Terashimakawamukai, Iwanuma City, Miyagi Prefecture 989-2425,"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.921715,38.0685735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号岩沼国道鉄塔ライブカメラ / National highway No. 4 Iwanuma national highway steel tower live camera </name>
+        <description><![CDATA[〒989-2426 宮城県岩沼市末広１丁目６−２４ 「仙台河川国道事務所」/ 1-6-24 Suehiro, Iwanuma City, Miyagi Prefecture 989-2426 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8746436,38.1091384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流48.0KP左岸ライブカメラ / Kitakami River downstream 48.0KP left bank live camera</name>
+        <description><![CDATA[宮城県登米市中田町上沼俵敷「国土交通省河川情報センター」/ Uwanuma Hyoshiki, Nakada-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2760425,38.7555138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流43.6KP左岸ライブカメラ / Kitakami River downstream 43.6KP left bank live camera</name>
+        <description><![CDATA[宮城県登米市東和町錦織寺前「国土交通省河川情報センター」/Teramae, Nishikiori, Towa-cho, Tome City, Miyagi Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2700995,38.7229516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流43.2KP左岸ライブカメラ / Kitakami River downstream 43.2KP left bank live camera</name>
+        <description><![CDATA[〒987-0903 宮城県登米市東和町錦織北浅草「国土交通省河川情報センター」/ Nishikiori Kitaasakusa, Towa-cho, Tome City, Miyagi Prefecture 987-0903 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.274617,38.7158268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流41.4KP右岸ライブカメラ / Kitakami River downstream 41.4KP right bank live camera</name>
+        <description><![CDATA[宮城県登米市中田町浅水 「国土交通省河川情報センター」/ Asamizu, Nakada-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2776725,38.7044879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流34.8KP左岸ライブカメラ / Kitakami River downstream 34.8KP left bank live camera</name>
+        <description><![CDATA[〒987-0902 宮城県登米市東和町米谷野地「国土交通省河川情報センター」/ Towacho Maiyayachi, Tome City, Miyagi Prefecture 987-0902, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2877445,38.6845283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流30.6KP左岸ライブカメラ / Kitakami River downstream 30.6KP left bank live camera</name>
+        <description><![CDATA[宮城県登米市登米町日根牛「国土交通省河川情報センター」/ Hineushi, Tome Town, Tome City, Miyagi Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2865827,38.6467871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流27.2KP左岸ライブカメラ / Kitakami River downstream 27.2KP left bank live camera</name>
+        <description><![CDATA[〒986-0401 宮城県登米市津山町柳津黄牛比良「国土交通省河川情報センター」/  Yanaizu Kiushihira, Tsuyama-cho, Tome City, Miyagi Prefecture 986-0401, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2964665,38.6226864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流26.4KP左岸ライブカメラ / Kitakami River downstream 26.4KP left bank live camera</name>
+        <description><![CDATA[宮城県登米市津山町柳津谷木「国土交通省河川情報センター」/ Yanaidu Yagi, Tsuyama-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2997831,38.6101085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川下流23.9KP右岸ライブカメラ / Kitakami River downstream 23.9KP right bank live camera</name>
+        <description><![CDATA[宮城県登米市津山町柳津「国土交通省河川情報センター」/ Yanaizu, Tsuyama-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2998521,38.5888251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川下流33.5KP右岸ライブカメラ / Former Kitakami River downstream 33.5KP right bank live camera</name>
+        <description><![CDATA[宮城県登米市豊里町白鳥「国土交通省河川情報センター」/ Shiratori, Toyosato-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2856476,38.6082783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川下流27.3KP右岸ライブカメラ / Former Kitakami River downstream 27.3KP right bank live camera</name>
+        <description><![CDATA[宮城県登米市豊里町七ツ塚「国土交通省河川情報センター」/ Shichitsuzuka, Toyosato-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2355681,38.5744991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二股川0.8KP左岸ライブカメラ / Futami River 0.8KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県登米市東和町米谷根廻「国土交通省河川情報センター」/ Nemawari Yoneya, Towa-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2945077,38.7275008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二股川0.2KP左岸ライブカメラ / Futami River 0.2KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県登米市東和町米谷根廻 「国土交通省河川情報センター」/ Nemawari Yoneya, Towa-cho, Tome City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.291264,38.722914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山田川大沼ライブカメラ / Oyamada River Onuma Live Camera</name>
+        <description><![CDATA[〒987-0433 宮城県登米市南方町沼崎前 「宮城県河川流域情報システム」/ Numasakimae, Minamikatamachi, Tome City, Miyagi Prefecture 987-0433 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1009404,38.6430422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南沢川締切沼遊水地ライブカメラ / Minamizawa River Shimekiri Swamp Reservoir Live Camera</name>
+        <description><![CDATA[宮城県登米市津山町柳津幣崎 「宮城県河川流域情報システム」/ Yanaizu Heisaki, Tsuyama-cho, Tome City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3153513,38.6165784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夏川小谷地ライブカメラ / Natsukawa Kotaniji Live Camera</name>
+        <description><![CDATA[〒989-4701 宮城県登米市石越町北郷小谷地 「宮城県河川流域情報システム」/  Kitago Koyachi, Ishikoshimachi, Tome City, Miyagi Prefecture 989-4701,  "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1592396,38.7812536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川豊里大橋ライブカメラ / Former Kitakami River Toyosato Ohashi Live Camera</name>
+        <description><![CDATA[宮城県登米市豊里町川前 「北上川下流河川事務所」/ Kawamae, Toyosato-cho, Tome City, Miyagi Prefecture "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2513789,38.5806335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川岩之沢樋門ライブカメラ / Kitakami River Iwanosawa Himon Live Camera</name>
+        <description><![CDATA[宮城県登米市東和町錦織「北上川下流河川事務所」/ Nishikiori, Towa-cho, Tome City, Miyagi Prefecture "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2747863,38.7657723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川錦桜橋ライブカメラ / Kitakami River Kinohbashi Live Camera</name>
+        <description><![CDATA[〒987-0903 宮城県登米市東和町錦織堀内 「北上川下流河川事務所」/ Nishikiori Horiuchi, Towa-cho, Tome City, Miyagi Prefecture 987-0903, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2694864,38.7239462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川米谷大橋ライブカメラ / Kitakami River Yoneya Ohashi Live Camera</name>
+        <description><![CDATA[〒987-0902 宮城県登米市東和町米谷元町 「北上川下流河川事務所」/ Motomachi Yoneya, Towa-cho, Tome City, Miyagi Prefecture 987-0902, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2882388,38.7055365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川登米大橋ライブカメラ / Kitakami River Noboru Ohashi Live Camera</name>
+        <description><![CDATA[〒987-0702 宮城県登米市登米町寺池上町「北上川下流河川事務所」/Toyomachi Teraikekanmachi, Tome City, Miyagi Prefecture  987-0702, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2818395,38.6608399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上川南沢川水門ライブカメラ / Kitakami River Minami Sawa River Sluice Live Camera</name>
+        <description><![CDATA[〒986-0401 宮城県登米市津山町柳津 「北上川下流河川事務所」/ Yanaizu, Tsuyama-cho, Tome City, Miyagi Prefecture 986-0401 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3167135,38.6063734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迫川佐沼ライブカメラ / Sakogawa Sanuma Live Camera</name>
+        <description><![CDATA[〒987-0511 宮城県登米市迫町佐沼上舟丁 「宮城県土木部河川課」/  Sanuma Kamifunacho, Hasama-cho, Tome-shi, Miyagi 987-0511,   "River Division, Civil Engineering Department, Miyagi Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1955358,38.6903358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号津山ライブカメラ / Route 45 Tsuyama Live Camera</name>
+        <description><![CDATA[〒986-0402 宮城県登米市津山町横山新細屋 「仙台河川国道事務所」/ Yokoyama Shinhosoya, Tsuyama-cho, Tome City, Miyagi Prefecture 986-0402, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3221979,38.6183164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸自動車道登米東和インターチェンジライブカメラ / Sanriku Expressway Tome-Towa Interchange Live Camera</name>
+        <description><![CDATA[〒987-0902 宮城県登米市東和町米谷岩の沢 登米東和IC 「仙台河川国道事務所」 / Towa IC, Towacho Maiya, Towa-cho, Tome-shi, Miyagi 987-0902<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3036158,38.7085223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号横山峠ライブカメラ / Route 45 Yokoyama Pass Live Camera</name>
+        <description><![CDATA[〒986-0402 宮城県登米市津山町横山「仙台河川国道事務所」 / Yokoyama, Tsuyama-cho, Tome City, Miyagi Prefecture 986-0402<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3592714,38.6229768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三迫川岩ケ崎ライブカメラ / Sanhasama River Iwagasaki Live Camera</name>
+        <description><![CDATA[〒989-5301 宮城県栗原市栗駒岩ケ崎茂庭町 「宮城県河川流域情報システム」/ Kurikomaiwagasaki Moniwamachi, Kurihara City, Miyagi Prefecture  989-5301,<br>"Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9855867,38.8292926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芋埣川栗駒公園線ライブカメラ / Imozone River Kurikoma Koen Line Live Camera</name>
+        <description><![CDATA[〒989-5332 宮城県栗原市栗駒芋埣「宮城県河川流域情報システム」/ Kurikomaimozone, Kurihara City, Miyagi Prefecture 989-5332 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9855794,38.7737466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二迫川新橋ライブカメラ / Nihasama River Shimbashi Live Camera</name>
+        <description><![CDATA[宮城県栗原市鶯沢南郷下久保 「宮城県河川流域情報システム」/ Nangoshitakubo, Uguisuzawa, Kurihara City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9456383,38.8101019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迫川大林ライブカメラ / Hasama River Ohayashi Live Camera</name>
+        <description><![CDATA[宮城県栗原市若柳大林 「宮城県河川流域情報システム」/ Wakayanagi Ohayashi, Kurihara City, Miyagi Prefecture, "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0899368,38.7870932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迫川留場ライブカメラ / Hasama River Tomeba Live Camera</name>
+        <description><![CDATA[宮城県栗原市築館藤木「宮城県河川流域情報システム」/ Tsukidatefujiki, Kurihara City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0187876,38.7407612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗駒山展望岩頭ライブカメラ / Kurikomayama Observatory Iwato Live Camera</name>
+        <description><![CDATA[〒989-5351 宮城県栗原市栗駒中野 「気象庁」/ Kurikomanakano, Kurihara City, Miyagi Prefecture 989-5351 "Japan Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9704645,38.8294189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迫川若柳ライブカメラ / Hasamagawa Wakayanagi Live Camera</name>
+        <description><![CDATA[〒989-5502 宮城県栗原市若柳川南南町 「宮城県土木部河川課」/ Wakayanagi Kawaminami Minamimachi, Kurihara City, Miyagi Prefecture  989-5502, "Miyagi Prefecture Civil Engineering Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1287891,38.7707269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号沢辺ライブカメラ / National highway No. 4 Sawabe live camera</name>
+        <description><![CDATA[〒989-5171 宮城県栗原市金成沢辺町沖 「仙台河川国道事務所」/ Kannari Sawabemachi Oki, Kurihara City, Miyagi Prefecture, 989-5171<br>"Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0625329,38.8018239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号高清水ライブカメラ / National highway No. 4 Takashimizu live camera</name>
+        <description><![CDATA[宮城県栗原市高清水 「仙台河川国道事務所」/ Takashimizu, Kurihara City, Miyagi Prefecture "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0039211,38.6684483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道志波姫パーキングエリアライブカメラ / Tohoku Expressway Shiwahime Parking Area Live Camera</name>
+        <description><![CDATA[〒989-5625 宮城県栗原市志波姫堀口御駒堂１１−５ 志波姫PA (下り) 「東日本高速道路」/ Shiwahime PA (down), 11-5 Okomado, Shiwahime Horiguchi, Kurihara City, Miyagi Prefecture, 989-5625, "East Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0462641,38.7473941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号蟹沢ライブカメラ / National highway No. 4 Kanizawa live camera</name>
+        <description><![CDATA[〒987-2234 宮城県栗原市築館築館新八ツ沢 「仙台河川国道事務所」/ Tsukidateshinyatsuzawa, Kurihara City, Miyagi Prefecture 987-2234, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0081115,38.6990752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号藤渡戸ライブカメラ / National highway No. 4 Fuji Watado live camera</name>
+        <description><![CDATA[〒989-4803 宮城県栗原市金成藤渡戸東沢 「仙台河川国道事務所」/ Kannari Fujiwatadohigashizawa, Kurihara City, Miyagi Prefecture 989-4803, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.100095,38.8544404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗駒山大柳ライブカメラ / Kurikoma Oyanagi Live Camera</name>
+        <description><![CDATA[〒989-5351 宮城県栗原市栗駒中野大柳 「気象庁」/ Kurikomanakano Oyanagi, Kurihara City, Miyagi Prefecture 989-5351 "Japan Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9888232,38.8160241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鞍坪川0.4KP右岸ライブカメラ / Kuratsubo River 0.4KP Right Bank Live Camera</name>
+        <description><![CDATA[〒981-0306 宮城県東松島市西福田鞍坪流 「国土交通省河川情報センター」/ Kurazuboryu, Nishifukuda, Higashimatsushima City, Miyagi Prefecture 981-0306 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1283978,38.4354013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>定川赤井ライブカメラ / Jogawa Akai Live Camera</name>
+        <description><![CDATA[宮城県東松島市赤井 「宮城県河川流域情報システム」/ Akai, Higashimatsushima City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2297489,38.4363122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川小野橋上流ライブカメラ / Naruse River Onobashi upstream live camera</name>
+        <description><![CDATA[〒981-0304 宮城県東松島市川下宿浦「北上川下流河川事務所」/ Kawashitajukuura, Higashimatsushima City, Miyagi Prefecture 981-0304, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1470996,38.4082889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川鳴瀬大橋下流ライブカメラ / Naruse River Naruse Ohashi Downstream Live Camera</name>
+        <description><![CDATA[〒981-0411 宮城県東松島市野蒜山崎 「北上川下流河川事務所」/ Nobiru Yamazaki, Higashimatsushima City, Miyagi Prefecture 981-0411 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1574225,38.3928298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川鳴瀬大橋上流ライブカメラ / Naruse River Naruse Ohashi upstream live camera</name>
+        <description><![CDATA[〒981-0303 宮城県東松島市小野町裏 「北上川下流河川事務所」/ Ura, Ono Town, Higashi Matsushima City, Miyagi Prefecture 981-0303<br>"Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.156483,38.4039346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川若針排水樋管ライブカメラ / Yoshida River Wakanee drainage gutter pipe live camera </name>
+        <description><![CDATA[〒981-0304 宮城県東松島市市川下二ノ沢 若針排水機場 「北上川下流河川事務所」/ Wakanee Drainage Pump Station, Ninosawa, Higashimatsushima City, Miyagi Prefecture 981-0304, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1361578,38.4160325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川河口ライブカメラ / Naruse River Estuary Live Camera</name>
+        <description><![CDATA[〒981-0411 宮城県東松島市野蒜下沼 「北上川下流河川事務所」/ Nobiru Shimonuma, Higashimatsushima City, Miyagi Prefecture 981-0411 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1698685,38.3747723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号上下堤ライブカメラ / National highway No. 45 Jogetsutsumi live camera</name>
+        <description><![CDATA[〒981-0305 宮城県東松島市上下堤「北上川下流河川事務所」/ Jogetsutsumi, Higashimatsushima City, Miyagi Prefecture 981-0305, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1178022,38.4042548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号小野ライブカメラ / Route 45 Ono Live Camera</name>
+        <description><![CDATA[〒981-0303 宮城県東松島市小野 「仙台河川国道事務所」/ Ono, Higashimatsushima City, Miyagi Prefecture 981-0303 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1630076,38.4059183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸自動車道鳴瀬奥松島インターチェンジライブカメラ / Sanriku Expressway Naruse Oku Matsushima Interchange Live Camera</name>
+        <description><![CDATA[〒981-0304 宮城県東松島市川下南 鳴瀬奥松島IC 「仙台河川国道事務所」/ Naruse Oku Matsushima IC,  Kawakudari Minami, Higashimatsushima City, Miyagi Prefecture 981-0304, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1330669,38.4104969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川10.1KP右岸ライブカメラ / Naruse River 10.1KP Right Bank Live Camera</name>
+        <description><![CDATA[〒989-4102 宮城県大崎市鹿島台木間塚 「国土交通省河川情報センター」/ Kashimadaikimazuka, Osaki City, Miyagi Prefecture 989-4102 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1061258,38.464014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川27.1KP右岸ライブカメラ / Naruse River 27.1KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市三本木上伊場野逆川 「国土交通省<br>河川情報センター」/ Sanbongikamiibano Sakagawa, Osaki City, Miyagi Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0327001,38.5256065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川28.3KP左岸ライブカメラ / Naruse River 28.3KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市三本木上伊場野逆川「国土交通省河川情報センター」/ Sanbongikamiibano Sakagawa, Osaki City, Miyagi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0239487,38.5319603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川38.0KP右岸ライブカメラ / Naruse River 38.0KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市三本木蟻ケ袋川原「国土交通省河川情報センター」/ Sanbongiarigafukawara, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9239531,38.5228094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川39.2KP右岸ライブカメラ / Naruse River 39.2KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市三本木上伊場野逆川「国土交通省河川情報センター」/ Sanbongikamiibano Sakagawa, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9083922,38.523769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多田川2.8KP右岸ライブカメラ / Tada River 2.8KP right bank live camera</name>
+        <description><![CDATA[宮城県大崎市三本木蒜袋東谷地 「国土交通省河川情報センター」/ Sanbongi Hirubukuro Higashiyachi, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9531595,38.5428998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多田川3.5KP左岸ライブカメラ / Tada River 3.5KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市古川米袋大上「国土交通省河川情報センター」/ Okami, Furukawayonebukuro, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9472054,38.5459229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新江合川1.6KP左岸ライブカメラ / Shin-Eai River 1.6KP left bank live camera</name>
+        <description><![CDATA[宮城県大崎市三本木上伊場野逆川「国土交通省河川情報センター」/ Sanbongikamiibano Sakagawa, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9898317,38.5456755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新江合川4.2KP右岸ライブカメラ / Shin-Eai River 4.2KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市古川李埣東田「国土交通省河川情報センター」/ Furukawasumozone, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9798158,38.5686136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川30.0KP右岸ライブカメラ / Eai River 30.0KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市古川小泉川前「国土交通省河川情報センター」/ Furukawa Koizumi Kawamae, Osaki City, Miyagi Prefecture,<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9482409,38.5955453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川16.6KP左岸ライブカメラ / Eai River 16.6KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県大崎市田尻北小牛田宅地一「国土交通省河川情報センター」/ Tajirikitakogota Takuchi, Osaki City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0790582,38.5640104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名蓋川矢目ライブカメラ / Nabegawa Yame Live Camera</name>
+        <description><![CDATA[〒989-6204 宮城県大崎市古川矢目 「宮城県河川流域情報システム」/ Furukawayanome, Osaki City, Miyagi Prefecture 989-6204 "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9087301,38.5590723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川岩出山ライブカメラ / Eai River Iwadeyama Live Camera</name>
+        <description><![CDATA[宮城県大崎市岩出山上川原町 「宮城県河川流域情報システム」/ Kamikawaramachi, Iwadeyama, Osaki City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8650042,38.6624165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蕪栗沼ライブカメラ / Kabukuri-numa Live Camera</name>
+        <description><![CDATA[〒989-4301 宮城県大崎市田尻蕪栗 「蕪栗ぬまっこくらぶ」/  Tajirikabukuri, Osaki City, Miyagi Prefecture 989-4301, "Kabukuri Numako Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1079965,38.6215414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴田川品井沼遊水地ライブカメラ / Tsuruta River Shinai-numa Reservoir Live Camera</name>
+        <description><![CDATA[宮城県大崎市鹿島台深谷 「宮城県河川流域情報システム」/ Kashimadaifukaya, Osaki City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0655704,38.4516961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田尻川大水門ライブカメラ / Tajiri River Sluice Gate Live Camera</name>
+        <description><![CDATA[宮城県大崎市田尻中目 「宮城県河川流域情報システム」/ Tajirinakanome, Osaki City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0191792,38.6010773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大江川大江川遊水地ライブカメラ / Oegawa Oegawa retarding basin live camera</name>
+        <description><![CDATA[宮城県大崎市古川穂波「宮城県河川流域情報システム」/ Honami Furukawa, Osaki City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9430211,38.5629466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川岩出山上流ライブカメラ / Eai River Iwadeyama upstream live camera</name>
+        <description><![CDATA[〒989-6433 宮城県大崎市岩出山上川原町 「鳴子ダム管理所」/ Kamikawaramachi, Iwadeyama, Osaki City, Miyagi Prefecture, 989-6433, "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8645455,38.6601977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川岩出山下流ライブカメラ / Eai River Iwadeyama downstream live camera</name>
+        <description><![CDATA[〒989-6434 宮城県大崎市岩出山下川原町 「鳴子ダム管理所」/ Shimokawaramachi, Iwadeyama, Osaki City, Miyagi Prefecture, 989-6434, "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8715267,38.6560121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川川渡ライブカメラ / Eaigawa Kawatabi Live Camera</name>
+        <description><![CDATA[〒989-6711 宮城県大崎市鳴子温泉川渡「鳴子ダム管理所」/ Naruko Onsen Kawatabi, Osaki City, Miyagi Prefecture 989-6711 "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7703605,38.7278264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川中野ライブカメラ / Eaigawa Nakano Live Camera</name>
+        <description><![CDATA[〒989-6711 宮城県大崎市鳴子温泉中野「鳴子ダム管理所」/ Naruko Onsen Nakano, Osaki City, Miyagi Prefecture 989-6711 "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7354172,38.7301766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川上鳴子ライブカメラ / Eaigawa Kaminaruko Live Camera</name>
+        <description><![CDATA[〒989-6825 宮城県大崎市鳴子温泉上鳴子 「鳴子ダム管理所」/ Naruko Onsen Kaminaruko "Naruko Dam Management Office", Osaki City, Miyagi Prefecture 989-6825]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7113319,38.738598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子ダム直下流ライブカメラ / Live camera directly downstream of Naruko Dam</name>
+        <description><![CDATA[宮城県大崎市鳴子温泉岩渕「鳴子ダム管理所」/ Naruko Onsen Iwabuchi, Osaki City, Miyagi Prefecture, "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7046349,38.7543588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子ダム放流ゲートライブカメラ / Naruko Dam discharge gate live camera</name>
+        <description><![CDATA[宮城県大崎市鳴子温泉岩渕「鳴子ダム管理所」/ Naruko Onsen Iwabuchi, Osaki City, Miyagi Prefecture, "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7041168,38.7541915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子ダム荒雄湖ライブカメラ / Naruko Dam Arao Lake Live Camera</name>
+        <description><![CDATA[宮城県大崎市鳴子温泉岩渕「鳴子ダム管理所」/ Naruko Onsen Iwabuchi, Osaki City, Miyagi Prefecture, "Naruko Dam Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7061982,38.7542752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子ダム本体ライブカメラ / Naruko Dam main body live camera</name>
+        <description><![CDATA[宮城県大崎市鳴子温泉岩渕「鳴子ダム管理所」/ Naruko Onsen Iwabuchi "Naruko Dam Management Office", Osaki City, Miyagi Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7050609,38.7553461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋井川西荒井ライブカメラ / Shibui River Nishiarai Live Camera</name>
+        <description><![CDATA[宮城県大崎市古川西荒井 「宮城県河川流域情報システム」/ Furukawanishiarai, Osaki City, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9399838,38.5544004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川木間塚大橋ライブカメラ / Naruse River Kimatsuka Ohashi Live Camera</name>
+        <description><![CDATA[〒989-4102 宮城県大崎市鹿島台木間塚東浦 「北上川下流河川事務所」/ Kashimadaikimazuka Higashiura, Osaki City, Miyagi Prefecture 989-4102 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1244002,38.4694668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川中流堰ライブカメラ / Naruse River midstream weir live camera</name>
+        <description><![CDATA[〒987-1301 宮城県大崎市松山須摩屋「北上川下流河川事務所」/ Matsuyamasumaya, Osaki City, Miyagi Prefecture 987-1301,  "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.084158,38.5221503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川野田橋ライブカメラ / Narusegawa Nodabashi Live Camera</name>
+        <description><![CDATA[〒987-1304 宮城県大崎市松山千石下野田「北上川下流河川事務所」/ Matsuyamasengoku Shimonoda, Osaki City, Miyagi Prefecture 987-1304, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.06225,38.5267828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川志田橋上流ライブカメラ / Naruse River Shidabashi upstream live camera</name>
+        <description><![CDATA[〒987-1306 宮城県大崎市松山下伊場野大柳「北上川下流河川事務所」/ Oyanagi, Matsuyamashimoibano, Osaki City, Miyagi Prefecture, 987-1306, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0013214,38.5301547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川鎌巻ライブカメラ / Naruse River Kamamaki Live Camera</name>
+        <description><![CDATA[〒989-4102 宮城県大崎市鹿島台木間塚鎌巻 「北上川下流河川事務所」/ Kashimadaikimazuka Kamamaki, Osaki City, Miyagi Prefecture 989-4102 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1012799,38.4471619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川上地ライブカメラ / Naruse River Jochi Live Camera</name>
+        <description><![CDATA[〒989-4102 宮城県大崎市鹿島台木間塚上地「北上川下流河川事務所」/ Kashimadaikimazuka Jochi, Osaki City, Miyagi Prefecture 989-4102, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1006636,38.4607176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川内浦樋管ライブカメラ / Yoshidagawa Uchiura Gutter Live Camera</name>
+        <description><![CDATA[〒989-4104 宮城県大崎市鹿島台広長内ノ浦 「北上川下流河川事務所」/ Uchinoura, Kashimadaihironaga, Osaki City, Miyagi Prefecture, 989-4104<br>"Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.088446,38.4628163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川新江合川分流ライブカメラ / Eai River New Eai River Branch Live Camera</name>
+        <description><![CDATA[〒989-6265 宮城県大崎市古川渕尻「北上川下流河川事務所」/ Furukawafuchijiri, Osaki City, Miyagi Prefecture 989-6265, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9822816,38.5835404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川三本木ライブカメラ / Naruse River Sanbongi Live Camera</name>
+        <description><![CDATA[〒989-6321 宮城県大崎市三本木廻山「北上川下流河川事務所」/  Sanbongi Meguriyama, Osaki City, Miyagi Prefecture 989-6321,  "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9362829,38.5217677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号鳴子防災ステーションライブカメラ / National Route 47 Naruko Disaster Prevention Station Live Camera</name>
+        <description><![CDATA[〒989-6832 宮城県大崎市鳴子温泉星沼 「仙台河川国道事務所」/ Naruko Onsen Hoshinuma, Osaki City, Miyagi Prefecture 989-6832, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6750229,38.7304906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号大深沢橋ライブカメラ / National Route 47 Obukasawa Bridge Live Camera</name>
+        <description><![CDATA[〒989-6100 宮城県大崎市鳴子温泉星沼 「仙台河川国道事務所」/Naruko Onsen Hoshinuma, Osaki City, Miyagi Prefecture 989-6100, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6892677,38.7299547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号東鳴子ライブカメラ / National Route 47 Higashinaruko Live Camera</name>
+        <description><![CDATA[〒989-6711 宮城県大崎市鳴子温泉中野「仙台河川国道事務所」/ Naruko Onsen Nakano, Osaki City, Miyagi Prefecture 989-6711 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7354172,38.7301766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号下一栗ライブカメラ / National highway No. 47 Shimoichiguri live camera</name>
+        <description><![CDATA[〒989-6403 宮城県大崎市岩出山上野目「仙台河川国道事務所」/ Iwadeyama Uenome, Osaki City, Miyagi Prefecture 989-6403, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8843611,38.6767586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号沢田ライブカメラ / National highway No. 4 Sawada live camera</name>
+        <description><![CDATA[〒989-6232 宮城県大崎市古川沢田新原際「仙台河川国道事務所」/ Furukawasawada Shinharagiwa, Osaki City, Miyagi Prefecture 989-6232 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9679529,38.598107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号西原ライブカメラ / Route 47 Nishihara Live Camera</name>
+        <description><![CDATA[〒989-6834 宮城県大崎市鳴子温泉西原 「仙台河川国道事務所」/ Naruko Onsen Nishihara, Osaki City, Miyagi Prefecture 989-6834 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.63507,38.7331315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道古川ライブカメラ / Tohoku Expressway Furukawa Live Camera</name>
+        <description><![CDATA[〒989-6203 宮城県大崎市古川飯川金皿 「東日本高速道路」/ Furukawa Iikawa Kanasara, Osaki City, Miyagi Prefecture 989-6203 "East Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.928189,38.5638866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号音無ライブカメラ / National highway No. 4 Otonashi live camera</name>
+        <description><![CDATA[〒989-6313 宮城県大崎市三本木音無 「仙台河川国道事務所」/ Sanbongiotonashi, Osaki City, Miyagi Prefecture 989-6313 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9068006,38.5075065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号上宮ライブカメラ / National Route 47 Uenomiya Live Camera</name>
+        <description><![CDATA[〒989-6405 宮城県大崎市岩出山池月「仙台河川国道事務所」/ Iwadeyamaiketsuki, Osaki City, Miyagi Prefecture 989-6405, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.828456,38.710272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道47号大谷橋ライブカメラ / National highway 47 Otanibashi live camera</name>
+        <description><![CDATA[宮城県大崎市鳴子温泉 「仙台河川国道事務所」/ Naruko Onsen, Osaki City, Miyagi Prefecture "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7299442,38.7268295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号坂本ライブカメラ / National highway No. 4 Sakamoto live camera</name>
+        <description><![CDATA[〒989-6313 宮城県大崎市三本木音無「仙台河川国道事務所」/ Sanbongiotonashi, Osaki City, Miyagi Prefecture 989-6313, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8964151,38.5121406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹林川2.8KP右岸ライブカメラ / Takebayashi River 2.8KP right bank live camera</name>
+        <description><![CDATA[宮城県富谷市三ノ関馬場沢下 「国土交通省河川情報センター」/ Sannoseki Babasawashimo, Tomiya City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8963802,38.4172971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹林川2.2KP右岸ライブカメラ / Takebayashi River 2.2KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県富谷市三ノ関馬場沢下 「国土交通省河川情報センター」/ Sannoseki Babasawashimo, Tomiya City, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8986791,38.420576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川31.5KP右岸ライブカメラ / Yoshidagawa 31.5KP right bank live camera</name>
+        <description><![CDATA[〒981-3301 宮城県富谷市志戸田平成北 「国土交通省河川情報センター」/ Heiseikita, Shitoda, Tomiya City, Miyagi Prefecture 981-3301 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8942279,38.431535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おおがわら桜まつり桜並木ライブカメラ / Ogawara Sakura Festival Sakura Namiki Live Camera</name>
+        <description><![CDATA[宮城県大河原町町 白石川河川敷尾形橋付近 「大河原町観光物産協会」/ Near Ogawara Bridge, Shiroishi River, Ogawara Town, Miyagi Prefecture "Ogawara Town Tourism and Products Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.736416,38.0488203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白石川大河原ライブカメラ / Shiroishi River Ogawara Live Camera</name>
+        <description><![CDATA[〒989-1241 宮城県柴田郡大河原町町 「宮城県土木部河川課」/ Machi, Ogawara-machi, Shibata-gun, Miyagi Prefecture 989-1241, "River Division, Civil Engineering Department, Miyagi Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7365239,38.0507925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川本関場ライブカメラ / Arakawa Motosekiba Live Camera</name>
+        <description><![CDATA[宮城県柴田郡村田町関場 「宮城県河川流域情報システム」/ Sekiba, Murata-cho, Shibata-gun, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7308018,38.0954635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白石川堤一目千本桜ライブカメラ / Shiroishi River Tsutsumi Ichimoku Senbon Sakura Live Camera</name>
+        <description><![CDATA[〒989-1606 宮城県柴田郡柴田町船岡舘山９５−１ 「柴田町観光物産協会」/ 95-1 Funaoka Tateyama, Shibata-cho, Shibata-gun, Miyagi 989-1606 "Shibata-cho Tourism and Products Association"<br>https://livecamera.fujiyamasan.com/shibata-funaoka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7593633,38.0550977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川深川排水樋管ライブカメラ / Abukuma River Fukagawa drainage gutter pipe live camera</name>
+        <description><![CDATA[〒989-1613 宮城県柴田郡柴田町下名生 「仙台河川国道事務所」/ Shimonomyo, Shibata-cho, Shibata-gun, Miyagi 989-1613 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8077942,38.064795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号槻木高架橋下りライブカメラ / National highway No. 4 Tsukinoki viaduct down live camera</name>
+        <description><![CDATA[〒989-1756 宮城県柴田郡柴田町槻木寺入山 「仙台河川国道事務所」/ Tsukinoki Terairiyama, Shibata-cho, Shibata-gun, Miyagi Prefecture 989-1756, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8029218,38.0696018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号槻木高架橋上りライブカメラ / National highway No. 4 Tsukinoki viaduct up live camera</name>
+        <description><![CDATA[〒989-1754 宮城県柴田郡柴田町槻木白幡４丁目 「仙台河川国道事務所」/ 4-chome Tsukinokishirahata, Shibata-cho, Shibata-gun, Miyagi 989-1754 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8062123,38.0715736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県道105号越河角田線大耕農村広場ライブカメラ / Miyagi Prefectural Road No. 105 Koshikawa Kakuda Line Daiko Rural Square Live Camera</name>
+        <description><![CDATA[〒981-2302 宮城県伊具郡丸森町大張川張宿１３−４ 大耕農村広場 「丸森町役場」/ 13-4 Oharikawaharishuku, Marumori-cho, Igu-gun, Miyagi 981-2302 Daiko Rural Square "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6648368,37.934076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県道105号耕野まちづくりセンターライブカメラ / Miyagi Prefectural Road No. 105 Koya Town Development Center Live Camera</name>
+        <description><![CDATA[〒981-2303 宮城県伊具郡丸森町耕野小屋舘７−４ 丸森町 耕野まちづくりセンター「丸森町役場」/ 7-4 Koyakoyadate, Marumori-cho, Igu-gun, Miyagi 981-2303 Marumori-cho Koya Town Development Center "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6457878,37.9167697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川水系消防施設耕野4班ライブカメラ / Abukuma River Water System Fire Facility Koya Group 4 Live Camera</name>
+        <description><![CDATA[〒981-2303 宮城県伊具郡丸森町耕野新田 「丸森町役場」/ Koya Shinden, Marumori-cho, Igu-gun, Miyagi 981-2303 "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6521114,37.9251339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県道105号大張まちづくりセンターライブカメラ / Miyagi Prefectural Road No. 105 Obari Town Development Center Live Camera</name>
+        <description><![CDATA[〒981-2152 宮城県伊具郡丸森町鳥屋１２０ 丸森町 丸森まちづくりセンター 「丸森町役場」/ Marumori-cho Marumori Town Development Center, 120 Toriya, Marumori-cho, Igu-gun, Miyagi 981-2152 "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7660614,37.9115237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県道24号消防施設大張2班ライブカメラ / Miyagi Prefectural Road No. 24 Fire Facility Obari Group 2 Live Camera</name>
+        <description><![CDATA[〒981-2301 宮城県伊具郡丸森町大張大蔵明神１５ 「丸森町役場」/ 15 Ohariokura Myojin, Marumori-cho, Igu-gun, Miyagi 981-2301 "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6902339,37.9569818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽出庭多目的センターライブカメラ / Hadeniwa Multipurpose Center Live Camera </name>
+        <description><![CDATA[〒981-2184 宮城県伊具郡丸森町森 「丸森町役場」/ Mori, Marumori-cho, Igu-gun, Miyagi Prefecture 981-2184, "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6787336,37.9016564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川耕野ふるさと交流センターライブカメラ / Abukuma River Koya Furusato Exchange Center Live Camera</name>
+        <description><![CDATA[〒981-2303 宮城県伊具郡丸森町耕野沼６５「丸森町役場」/ 65 Koya Numa, Marumori-cho, Igu-gun, Miyagi 981-2303 "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.667267,37.9148999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川消防施設大張3班ライブカメラ / Abukuma River Fire Facility Obari Group 3 Live Camera</name>
+        <description><![CDATA[〒981-2302 宮城県伊具郡丸森町大張川張沢尻「丸森町役場」/ Oharikawahari Sawajiri, Marumori Town, Igu District, Miyagi Prefecture 981-2302, "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7026244,37.9380984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮城県道101号欠入コミュニティセンターライブカメラ / Miyagi Prefectural Road 101 Kakeiri Community Center Live Camera</name>
+        <description><![CDATA[〒981-2146 宮城県伊具郡丸森町欠入上２６「丸森町役場」/ 26, Kakeirikami, Marumori-cho, Igu-gun, Miyagi 981-2146, "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7117527,37.8848979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸森町役場西側ライブカメラ / Marumori Town Hall West Side Live Camera</name>
+        <description>〒981-2152 宮城県伊具郡丸森町鳥屋１２０番地 丸森町役場 / Marumori Town Hall, 120 Toriya, Marumori Town, Igu District, Miyagi Prefecture 981-2152</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7651051,37.9113293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川丸森町観光交流センターライブカメラ / Abukuma River Marumori Town Tourism Exchange Center Live Camera</name>
+        <description><![CDATA[〒981-2171 宮城県伊具郡丸森町下滝１２　丸森町 観光交流センター「丸森町役場」/ 12 Shimotaki, Marumori-cho, Igu-gun, Miyagi 981-2171 Marumori-cho Tourism Exchange Center "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.760167,37.922128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川舘矢間小学校ライブカメラ / Abukuma River Tateyama Elementary School Live Camera</name>
+        <description><![CDATA[〒981-2102 宮城県伊具郡丸森町舘矢間舘山字 玉川29-1 舘矢間小学校「丸森町役場」/ Tateyama Elementary School, 29-1 Tamagawa, Tateyama Tateyama, Marumori-cho, Igu-gun, Miyagi 981-2102<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7724105,37.9241472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川桜づつみ公園ライブカメラ / Abukuma River Sakura Zutsumi Park Live Camera</name>
+        <description><![CDATA[〒981-2102 宮城県伊具郡丸森町舘矢間舘山東中島「丸森町役場」/ Higashinakajima, Tateyamatateyama, Marumori-cho, Igu-gun, Miyagi 981-2102<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7862787,37.9162044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川水系小斎まちづくりセンターライブカメラ / Abukuma River Water System Kosai Machizukuri Center Live Camera</name>
+        <description><![CDATA[〒981-2401 宮城県伊具郡丸森町小斎山崎６３小斎まちづくりセンター「丸森町役場」/ 63 Kosai Yamazaki, Marumori-cho, Igu-gun, Miyagi 981-2401 Kosai Town Development Center "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.821233,37.91926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊手川伊手コミュニティセンターライブカメラ / Idegawa Ide Community Center Live Camera</name>
+        <description><![CDATA[〒981-2501 宮城県伊具郡丸森町大内下梅ケ作「丸森町役場」/ Ouchi Shimoumegasaku,  Marumori-cho, Igu-gun, Miyagi Prefecture 981-2501, "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8278449,37.8989125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雉子尾川大内活性化センターライブカメラ / Kijio River Ouchi Activation Center Live Camera</name>
+        <description><![CDATA[〒981-2501 宮城県伊具郡丸森町大内町７「丸森町役場」/ 7 Ouchi-cho, Marumori-cho, Igu-gun, Miyagi 981-2501, "Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.826177,37.8669607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雉子尾川大内山村広場ライブカメラ / Kijio River Ouchisanson Square Live Camera</name>
+        <description><![CDATA[〒981-2501 宮城県伊具郡丸森町大内岩城東上１「丸森町役場」/ 1 Ouchi Iwakihigashikami, Marumori-cho, Igu-gun, Miyagi 981-2501<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8218833,37.8584135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雉子尾川消防施設大内2班ライブカメラ / Kijio River Fire Facility Ouchi Group 2 Live Camera</name>
+        <description><![CDATA[〒981-2501 宮城県伊具郡丸森町大内佐野西上「丸森町役場」/ Sanonishikami, Ouchi, Marumori-cho, Igu-gun, Miyagi 981-2501<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8260626,37.8483972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒佐野川黒佐野活性化支援センターライブカメラ / Kurosano River Kurosano Activation Support Center Live Camera</name>
+        <description><![CDATA[〒981-2501 宮城県伊具郡丸森町大内黒佐野「丸森町役場」/ Kurosano, Ouchi, Marumori Town, Igu District, Miyagi Prefecture 981-2501<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8005734,37.8236297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川こりす園ライブカメラ / Uchikawa Korisuen Live Camera</name>
+        <description><![CDATA[〒981-2152 宮城県伊具郡丸森町鳥屋１２０　丸森たんぽぽこども園　「丸森町役場」/ Marumori Tanpopo Children's Garden, 120 Toriya, Marumori-cho, Igu-gun, Miyagi 981-2152, "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7668268,37.9117577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川不動尊公園キャンプ場ライブカメラ / Uchikawa Fudoson Park Campground Live Camera</name>
+        <description><![CDATA[〒981-2116 宮城県伊具郡丸森町不動６４−１不動尊公園キャンプ場「丸森町役場」/ Fudoson Park Campground "Marumori Town Hall", 64-1 Fudoson, Marumori-cho, Igu-gun, Miyagi 981-2116]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.781476,37.869281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川筆甫クラインガルテンライブカメラ / Uchikawa Hippo Kleingarten Live Camera</name>
+        <description><![CDATA[〒981-2201 宮城県伊具郡丸森町筆甫中下３０−３ 丸森町 筆甫クラインガルテン「丸森町役場」/ Marumori-cho Kleingarten, 30-3 Nakashimo, Marumori-cho, Igu-gun, Miyagi 981-2201 "Marumori-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7367337,37.8435661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川筆甫まちづくりセンターライブカメラ / Uchikawa Hippo Town Development Center Live Camera</name>
+        <description><![CDATA[〒981-2201 宮城県伊具郡丸森町筆甫和田８０−２ 丸森町 筆甫まちづくりセンター 「丸森町役場」/  Marumori-cho Hippo Town Development Center, 80-2 Hippo Wada, Marumori-cho, Igu-gun, Miyagi 981-2201, "Marumori-cho Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7289016,37.8273481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇多川川平スポーツ交流センターライブカメラ / Utagawa Kawahira Sports Exchange Center Live Camera</name>
+        <description><![CDATA[〒981-2201 宮城県伊具郡丸森町筆甫川平二「丸森町役場」/ Hippokawadairani, Marumori Town, Igu District, Miyagi Prefecture, 981-2201<br>"Marumori Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7476093,37.7959068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川耕野ライブカメラ / Abukuma River Koya Live Camera</name>
+        <description><![CDATA[〒981-2303 宮城県伊具郡丸森町耕野 「仙台河川国道事務所」/ Koya, Marumori-cho, Igu-gun, Miyagi 981-2303 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6459827,37.9255367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川川張ライブカメラ / Abukuma River Kawahari Live Camera</name>
+        <description><![CDATA[〒981-2302 宮城県伊具郡丸森町大張川張 「仙台河川国道事務所」/ Oharikawahari, Marumori-cho, Igu-gun, Miyagi 981-2302, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6867567,37.9349228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川山田ライブカメラ / Abukuma River Yamada Live Camera</name>
+        <description><![CDATA[〒981-2103 宮城県伊具郡丸森町舘矢間山田「仙台河川国道事務所」/ Tateyamayamada, Marumori-cho, Igu-gun, Miyagi 981-2103 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.740999,37.9337312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川舘矢間ライブカメラ / Abukuma River Tateyama Live Camera</name>
+        <description><![CDATA[〒981-2102 宮城県伊具郡丸森町舘矢間舘山「仙台河川国道事務所」/ Tateyamatateyama, Marumori-cho, Igu-gun, Miyagi 981-2102 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7842231,37.9263905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿武隈川阿武隈大堰右岸上流ライブカメラ / Abukuma River Abukuma Oizumi Right Bank Upstream Live Camera</name>
+        <description><![CDATA[〒989-2383 宮城県亘理郡亘理町逢隈田沢 「仙台河川国道事務所」/ Okumatazawa, Watari-cho, Watari-gun, Miyagi 989-2383 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8490395,38.076552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂元川道合ライブカメラ / Sakamotogawa Michiai Live Camera</name>
+        <description><![CDATA[宮城県亘理郡山元町坂元「宮城県河川流域情報システム」/ Sakamoto, Yamamoto-cho, Watari-gun, Miyagi Prefecture "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8978351,37.9241448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山元海岸No.8ライブカメラ / Yamamoto Coast No.8 Live Camera</name>
+        <description><![CDATA[〒989-2202 宮城県亘理郡山元町高瀬浜砂「仙台河川国道事務所」/ Takase Hamasuna, Yamamoto Town, Watari District, Miyagi Prefecture 989-2202, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9161163,37.9581001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山元海岸No.9ライブカメラ / Yamamoto Coast No.9 Live Camera</name>
+        <description><![CDATA[〒989-2111 宮城県亘理郡山元町坂元浜「仙台河川国道事務所」/ Sakamotohama, Yamamoto-cho, Watari-gun, Miyagi 989-2111 "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9215481,37.9250985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号作田山ライブカメラ / National highway No. 6 Sakutayama live camera</name>
+        <description><![CDATA[〒989-2203 宮城県亘理郡山元町浅生原作田山「仙台河川国道事務所」/ Sakudayama, Asouhara, Yamamoto-cho, Watari-gun, Miyagi Prefecture 989-2203, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8770611,37.9619909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道6号坂元ライブカメラ / National highway No. 6 Sakamoto live camera</name>
+        <description><![CDATA[〒989-2111 宮城県亘理郡山元町坂元山神一「仙台河川国道事務所」/ Yamakamiichi Sakamoto, Yamamoto-cho, Watari-gun, Miyagi 989-2111, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9006626,37.9076697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川13.2KP右岸ライブカメラ / Yoshidagawa 13.2KP right bank live camera</name>
+        <description><![CDATA[宮城県宮城郡松島町幡谷検行 「国土交通省河川情報センター」/ Hataya Kengyo, Matsushima-cho, Miyagi-gun, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0709483,38.4381468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川12.3KP左岸ライブカメラ / Yoshida River 12.3KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県松島町竹谷川頭「国土交通省河川情報センター」/ Takeya Kawagashira, Matsushima Town, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0799113,38.442383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高城川高城ライブカメラ / Takagi River Takagi live camera</name>
+        <description><![CDATA[〒981-0215 宮城県宮城郡松島町高城帰命院下一 「宮城県河川流域情報システム」/ Takagi Kimyoin Shitaichi, Matsushima-cho, Miyagi-gun, Miyagi Prefecture  981-0215, "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0660293,38.3821925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴瀬川吉田鳴瀬合流ライブカメラ / Naruse River Yoshida Naruse Confluence Live Camera</name>
+        <description><![CDATA[〒981-0201 宮城県宮城郡松島町竹谷二子屋 「北上川下流河川事務所」/ Futagoya Takeya, Matsushima-cho, Miyagi-gun, Miyagi 981-0201 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1128992,38.4408069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川品井沼大橋ライブカメラ / Yoshida River Shinai-numa Ohashi Live Camera</name>
+        <description><![CDATA[〒981-0205 宮城県宮城郡松島町幡谷検行裏 「北上川下流河川事務所」/ Hataya Kengyoura, Matsushima-cho, Miyagi-gun, Miyagi Prefecture 981-0205,  "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0746319,38.439848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川竹谷排水樋管ライブカメラ / Yoshida River Takeya drainage gutter pipe live camera</name>
+        <description><![CDATA[〒981-0201 宮城県宮城郡松島町竹谷 「北上川下流河川事務所」/ Takeya, Matsushima-cho, Miyagi-gun, Miyagi 981-0201, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1023175,38.4372586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号松島左坂ライブカメラ / Route 45 Matsushima Aterazaka Live Camera</name>
+        <description><![CDATA[〒981-0211 宮城県宮城郡松島町手樽左坂 「仙台河川国道事務所」/ Tetaru Aterazaka, Matsushima-cho, Miyagi-gun, Miyagi Prefecture 981-0211,  "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0893509,38.4062834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道45号松島海岸ライブカメラ / Route 45 Matsushima Kaigan Live Camera</name>
+        <description><![CDATA[〒981-0213 宮城県宮城郡松島町松島浪打浜「仙台河川国道事務所」/ Matsushima Namiuchihama, Matsushima-cho, Miyagi-gun, Miyagi Prefecture 981-0213, "Sendai River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0611008,38.3687049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松島玉手箱館ライブカメラ / Matsushima Tamatebakokan Live Camera</name>
+        <description><![CDATA[〒981-0213 宮城県宮城郡松島町松島町内75番14号　松島玉手箱館 「丸山観光」/ Matsushima Tamatebakokan, 75-14 Chonai, Matsushima-cho, Miyagi-gun, Miyagi Prefecture 981-0213, "Maruyama Sightseeing"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.062298,38.369993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙台北部道路利府しらかし台インターチェンジライブカメラ / Sendai Hokubu Road Rifu Shirakashidai Interchange Live Camera</name>
+        <description><![CDATA[〒981-0123 宮城県宮城郡利府町沢乙唄沢 利府しらかし台 I.C. 「NEXCO東日本」/ Rifu-Shirakashidai I.C., Sawaoto Utasawa, Rifu-cho, Miyagi-gun, Miyagi Prefecture 981-0123,   "NEXCO East Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9568005,38.3517464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川22.0KP右岸ライブカメラ / Yoshidagawa 22.0KP right bank live camera</name>
+        <description><![CDATA[宮城県大郷町鶉崎下 「国土交通省河川情報センター」/ Uzurasaki, Osato Town, Miyagi Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9807877,38.4395496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川20.0KP右岸ライブカメラ / Yoshida River 20.0KP Right Bank Live Camera</name>
+        <description><![CDATA[宮城県大郷町粕川後谷地「国土交通省河川情報センター」/ Ushiroyachi, Kasukawa, Osato Town, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9992087,38.4355755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川18.4KP右岸ライブカメラ / Yoshida River 18.4KP Right Bank Live Camera</name>
+        <description><![CDATA[〒981-3515 宮城県黒川郡大郷町羽生新神明「国土交通省河川情報センター」/ Shinshinmei Hanyu, Osato-cho, Kurokawa-gun, Miyagi 981-3515 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0196799,38.4357505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川16.0KP右岸ライブカメラ / Yoshida River 16.0KP Right Bank Live Camera</name>
+        <description><![CDATA[〒981-3511 宮城県黒川郡大郷町山崎「国土交通省河川情報センター」/ Yamazaki, Osato-cho, Kurokawa-gun, Miyagi 981-3511 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0370153,38.4345297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川粕川大橋上流ライブカメラ / Yoshidagawa Kasukawa Ohashi upstream live camera </name>
+        <description><![CDATA[〒981-3502 宮城県黒川郡大郷町粕川伝三郎 「北上川下流河川事務所」/ Denzaburo Kasukawa, Osato-cho, Kurokawa-gun, Miyagi 981-3502 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.992352,38.4370539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川粕川大橋下流ライブカメラ / Yoshidagawa Kasukawa Ohashi downstream live camera</name>
+        <description><![CDATA[〒981-3502 宮城県黒川郡大郷町粕川土手北 「北上川下流河川事務所」/ Dotekita, Kasukawa, Osato Town, Kurokawa District, Miyagi Prefecture 981-3502<br>"Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0081289,38.4426998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川大郷大橋ライブカメラ / Yoshidagawa Osato Ohashi Live Camera</name>
+        <description><![CDATA[〒981-3502 宮城県黒川郡大郷町粕川堀北 「北上川下流河川事務所」/ Horikita, Kasukawa, Osato-cho, Kurokawa-gun, Miyagi 981-3502 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0190381,38.4493006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川12.2KP左岸ライブカメラ / Eai River 12.2KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県遠田郡涌谷町涌谷上町 「国土交通省河川情報センター」/ Wakuyakamicho, Wakuya-cho, Toda-gun, Miyagi Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1262926,38.5525814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川7.4KP左岸ライブカメラ / Eai River 7.4KP Left Bank Live Camera</name>
+        <description><![CDATA[〒987-0121 宮城県遠田郡涌谷町涌谷新六郎舘「国土交通省河川情報センター」/  Shinrokurodate, Wakuya, Wakuya-cho, Toda-gun, Miyagi 987-0121 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1578833,38.5298018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川1.2KP左岸ライブカメラ / Eai River 1.2KP Left Bank Live Camera</name>
+        <description><![CDATA[宮城県涌谷町猪岡短台「国土交通省河川情報センター」/ Inookatandai, Wakuya Town, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.2105537,38.5374888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北上川23.6KP左岸ライブカメラ / Former Kitakami River 23.6KP left bank live camera</name>
+        <description><![CDATA[宮城県涌谷町猪岡短台「国土交通省河川情報センター」/ Inookatandai, Wakuya Town, Miyagi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.227041,38.542108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出来川名鰭沼遊水地ライブカメラ / Dekikawa Nabire swamp retarding basin live camera </name>
+        <description><![CDATA[〒987-0144 宮城県遠田郡涌谷町小山下 「宮城県河川流域情報システム」/ Koyamashita, Wakuya-cho, Toda-gun, Miyagi Prefecture 987-0144, "Miyagi Prefecture River Basin Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1406503,38.5230379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川涌谷大橋ライブカメラ / Eai River Wakuya Ohashi Live Camera</name>
+        <description><![CDATA[〒987-0163 宮城県遠田郡涌谷町立町 「北上川下流河川事務所」/ Wakuya Town, Toda District, Miyagi Prefecture 987-0163, "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1283638,38.5426981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江合川明治水門ライブカメラ / Eaigawa Meiji Sluice Gate Live Camera</name>
+        <description><![CDATA[〒987-0148 宮城県遠田郡涌谷町三軒屋敷「北上川下流河川事務所」/ Sangenyashiki, Wakuya-cho, Toda-gun, Miyagi 987-0148 "Kitakami River Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1719085,38.5226348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

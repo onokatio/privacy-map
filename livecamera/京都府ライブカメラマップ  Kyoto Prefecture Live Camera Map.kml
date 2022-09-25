@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>京都府ライブカメラマップ / Kyoto Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>京都府のライブカメラ一覧<br>https://livecamera.fujiyamasan.com/kyotofu.html<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>京都府内ライブカメラ</name>
+      <Placemark>
+        <name>長尾谷高等学校京都校ライブカメラ / Nagaodani Senior High School Kyoto School Live Camera</name>
+        <description>〒604-8225 京都府京都市中京区蟷螂山町４７６−１−３　長尾谷高等学校 京都校 /  Nagaodani Senior High School Kyoto School,  476-1-3 Toroyama-cho, Nakagyo-ku, Kyoto-shi, Kyoto 604-8225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.754864,35.004231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金閣寺ライブカメラ / Kinkaku-ji Temple Live Camera</name>
+        <description><![CDATA[〒603-8361 京都府京都市北区金閣寺町１ 金閣寺（鹿苑寺） 臨済宗相国寺派 / Kinkaku-ji Temple, Kinkakuji-cho, Kita-ku, Kyoto-shi, Kyoto-fu 603-8361<br>https://livecamera.fujiyamasan.com/kinkakuji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7292442,35.0394002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>比叡山ライブカメラ / Mt. Hiei Live Camera</name>
+        <description><![CDATA[京都府京都市左京区下鴨半木町 京都府立大学 / Kyoto Prefectural University, Shimogamonishihangi-cho, Sakyo-ku, Kyoto City, Kyoto <br>https://livecamera.fujiyamasan.com/kyoto-hieizan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.767112,35.047214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銀閣寺ライブカメラ / Ginkaku-ji Temple Live Camera</name>
+        <description><![CDATA[〒606-8402 京都府京都市左京区銀閣寺町2 銀閣寺（慈照寺） 臨済宗相国寺派 / Ginkaku-ji Temple, Ginkaku-ji-ho, Sakyo-ku, Kyoto-shi, Kyoto-fu 606-8402<br>https://livecamera.fujiyamasan.com/ginkakuji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7981987,35.0270572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金戒光明寺ライブカメラ / Konkai-Komyoji Temple Live Camera</name>
+        <description>〒606-8331 京都府京都市左京区黒谷町１２１ 金戒光明寺 / Konkai-Komyoji Temple, Kurodani-cho, Sakyo-ku, Kyoto-shi, Kyoto-fu 606-8331</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.788054,35.019699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大文字山ライブ映像 / Mt. Daimonji Live Image</name>
+        <description><![CDATA[〒601-8407 京都府京都市南区西九条寺ノ前町１０−５ 京都コンピュータ学院 / Kyoto Computer School, Nishikujoteranomae-cho, Minami-ku, Kyoto-shi, Kyoto-fu 601-8407<br>https://livecamera.fujiyamasan.com/kyoto-daimonjiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7526705,34.9851279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原の里ライブカメラ / Hotel Ohara no Sato Live Camera</name>
+        <description>〒601-1248 京都府京都市左京区大原草生町４１ 大原の里 / Hotel Ohara no Sato, 41 Oharakusao-cho, Sakyo-ku, Kyoto-shi, Kyoto-fu 601-1248</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.822494,35.123033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本願寺ライブカメラ / Hongwanji Temple Live Camera</name>
+        <description>〒600-8358 京都府京都市下京区堀川花屋町下 西本願寺 / Hongwanji Temple, Horikawa Hanayamachishita, Shimogyo-ku, Kyoto-shi, Kyoto-fu 600-8358</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.751619,34.991543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の京都Live Channel / Today's Kyoto Live Channel]]></name>
+        <description>京都市上京区烏丸上長者町 ＫＢＳ京都 / Kyoto Broadcasting System Company Limited,  Karasumarukamijocha-machi, Kamigyo-ku, Kyoto-shi, Kyoto-fu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.758679,35.023565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の京都「五老スカイタワー」 / Today's Kyoto "Goro Sky Tower"]]></name>
+        <description><![CDATA[〒624-0912 京都府舞鶴市上安237 五老スカイタワー 「KBS京都」 / Goro Sky Tower, 237 Ueyasu, Maiduru-shi, Kyoto-fu 624-0912, "KBS Kyoto"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3435961,35.4648247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の京都「大山崎」 / Today's Kyoto "Oyamazaki"]]></name>
+        <description><![CDATA[京都府乙訓郡大山崎町 KBS京都 / Oyamazaki, Otokuni-gun, Kyoto, "KBS Kyoto"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.688448,34.902897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フットサルコートライブカメラ / Futsal Court Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区横大路下三栖宮ノ後<br>フットサルスクエア京都南横大路 / Futsal Square Kyoto Minamiyokooji, Yokoojishimomisumiyanogo, Fushimi-ku, Kyoto City, Kyoto 612-8245 Japan ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.745718,34.925842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四条西洞院上蟷螂山町 / Shijo Nishinotoin Kamitoroyama-cho</name>
+        <description>〒604-8225 京都府京都市中京区西洞院通四条上る蟷螂山町476−1 長尾谷高等学校京都分校 / Nagaodani High School Kyoto Branch School, 476-1 Toroyamacho, Shijonoboru, Nishinotoindori, Nakagyo-ku, Kyoto-shi, Kyoto-fu 604-8225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7548697,35.0042377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅舞鶴港ライブカメラ / Roadside Station Maiduru Port Live Camera</name>
+        <description><![CDATA[〒624-0946 京都府舞鶴市下福井９０５ 道の駅舞鶴港とれとれセンター / Roadside Station Maiduru Port Toretore Center, 905 Shimofukui, Maiduru-shi, Kyoto-fu 624-0946<br>https://livecamera.fujiyamasan.com/maiduru-toretorecenter.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.3146878,35.4499637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松尾寺ライブカメラ / Matsuo-dera Temple Live Camera</name>
+        <description>〒625-0010 京都府舞鶴市松尾５３２ 松尾寺 / Matsuo-dera Temple, 532 Matsuo, Maiduru-shi, Kyoto-fu 625-0010</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.469494,35.497452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天橋立ライブカメラ / Amanohashidate Live Camera</name>
+        <description><![CDATA[〒626-0001 京都府宮津市字文珠 天橋立ビューランド / Amanohashidate View Land, Monju, Miyadu-shi, Kyoto-fu 626-0001<br>https://livecamera.fujiyamasan.com/amanohashidate.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1821117,35.5527891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京丹後市ライブカメラ / Kyotango City Live Camera</name>
+        <description>〒627-8567 京都府京丹後市峰山町杉谷８８９番地  京丹後市役所 / Kyotango City Hall, 889 Sugitani, Mineyama-cho, Kyotango-shi, Kyoto-fu 627-8567</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.0610144,35.624168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福知山市役所屋上ライブカメラ（福知山城・由良川方面） / Fukuchiyama City Office Rooftop Live Camera (Fukuchiyama Castle / Yuragawa Area)</name>
+        <description>〒620-0035 京都府福知山市内記13番地−１ 福知山市役所 / Fukuchiyama City Hall, 13-1 Naiki, Fukuchiyama-shi, Kyoto-fu 620-0035</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1265358,35.2967389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>経ヶ岬ライブカメラ / Kyoga Cape Live Camera</name>
+        <description><![CDATA[〒627-0245 京都府京丹後市 丹後町袖志 経ヶ岬 「舞鶴海上保安部」 / Kyoga Cape, Sodeshi, Tango-cho, Kyotango-shi, Kyoto-fu 627-0245, "Maiduru Coast Guard"<br>https://livecamera.fujiyamasan.com/kyogamisaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.2232885,35.7772967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大内峠ライブカメラ / Ouchi Pass Live Camera</name>
+        <description><![CDATA[京都府与謝郡与謝野町弓木 大内峠 YOSANO-STYLE / Ouchi Pass, Yumiki, Yosano-cho, Yosa-gun, Kyoto, "YOSANO-STYLE"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.136085,35.564978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>博奕岬灯台ライブカメラ / Bakuchi Cape Lighthouse Live Camera</name>
+        <description><![CDATA[京都府舞鶴市瀬崎 舞鶴海上保安部 / Maiduru Coast Guard, Sezaki, Maiduru City, Kyoto<br>https://livecamera.fujiyamasan.com/bakuchimisaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.342894,35.551502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊根町のある小さな村ライブ画像 / A small village live image of Ine-machi</name>
+        <description><![CDATA[〒626-0422 京都府与謝郡伊根町大原 / Ohara, Ine-cho, Yosa-gun, Kyoto 626-0422<br>https://livecamera.fujiyamasan.com/kyoto-ine-town.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.2919102,35.6868601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防災情報ライブカメラ（淀川・桂川・宇治川・木津川）</name>
+        <description>〒573-1191 大阪府枚方市新町２丁目２−１０ 国土交通省近畿地方整備局淀川河川事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6431012,34.8161826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都縦貫自動車道ライブカメラ / KYOTO-JUKAN EXPRESSWAY Live Cameras</name>
+        <description>〒602-8048 京都府京都市上京区出水町油小路東入丁子風呂104−2 京都府庁西別館 2F　京都府道路公社 / Kyoto Prefectural Road Corporation, Demizu-cho, Kamigyo-ku, Kyoto-shi, Kyoto-fu 602-8048</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7545271,35.0208268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都烏丸通LIVEカメラ / Kyoto Karasumadori Live Camera</name>
+        <description>〒604-0857 京都府京都市中京区烏丸通二条上る蒔絵屋町260　京都電子計算（株）/ Kyoto Information Processing Service co.,ltd., 260 Makieya-cho, Nijonoboru, Karasumadori, Nakagyo-ku, Kyoto-shi, Kyoto-fu 604-0857</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7593028,35.0143051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の夕日ヶ浦の様子 / The state of today's Yuhigaura]]></name>
+        <description><![CDATA[〒629-3245 京都府京丹後市網野町浜詰３９１ 京丹後・夕日ヶ浦温泉 料理旅館 海の華 / Kyotango Yuhigaura Onsen Ryoriryokan Uminohana, 391 Hamadume, Amino-cho, Kyotango-shi, Kyoto-fu 629-3245<br>https://livecamera.fujiyamasan.com/kyotango-yuhigaura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.966649,35.6640037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＦＭ丹波放送屋上ライブカメラ / FM Tanba broadcast rooftop live camera</name>
+        <description>〒620-0947 京都府福知山市旭が丘１１１ ＦＭ丹波京都ＦＭ丹波放送株式会社 / FM Tamba Kyoto FM Tanba Broadcasting Corporation, 111 Asahigaoka, Fukuchiyama-shi, Kyoto-fu 620-0947</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1167945,35.2889204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由良川リアルタイム防災情報 / Yura River real-time disaster prevention information</name>
+        <description>〒620-0875 京都府福知山市字堀小字今岡2459−14 国土交通省 近畿地方整備局 福知山河川国道事務所 / Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau Fukuchiyama River National Highway Office, 2459-14 Fukuchiyama-shi, Kyoto-fu 620-0875</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1311809,35.2979244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府河川防災情報 / Kyoto Prefecture river disaster prevention information</name>
+        <description>〒602-8041 京都府京都市上京区下立売通新町西入藪之内町　建設交通部砂防課 / Ministry of Construction and Transportation Sabo Division, Kamigyo-ku, Kyoto-shi, Kyoto-fu 602-8041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7555968,35.0212466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号・国道9号 / National Route 1 and 9</name>
+        <description>〒600-8234 京都府京都市下京区南不動堂町 京都府京都市下京区西洞院通塩小路下る南不動堂町808 近畿地方整備局 京都国道事務所 / Kinki Regional Development Bureau Kyoto National Highway Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7544934,34.9862947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都高雄もみぢ家ライブカメラ / Kyoto Takao Momidiya Live Camera</name>
+        <description>〒616-8292 京都府京都市右京区梅ケ畑高雄町　もみぢ家別館 / Momidiya Bekkan, Takao-cho, Umegahata, Ukyo-ku, Kyoto-shi, Kyoto-fu 616-8292</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6737808,35.0556831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福知山市議会ライブ映像 / Fukuchiyama City Council Live Video</name>
+        <description><![CDATA[〒620-0035 京都府福知山市内記１３−１ 福知山市議会事務局 / Fukuchiyama City Council Secretariat, 13-1 Naiki, Fukuchiyama City, Kyoto Prefecture 620-0035 <br>https://livecamera.fujiyamasan.com/fukuchiyama-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.126532,35.296725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTTルパルク丸太町第1駐車場ライブカメラ / NTT LePerc Marutamachi No. 1 Parking Lot Live Camera</name>
+        <description>〒604-0077 京都府京都市中京区丸太町 通堀川東入丸太町２１ NTTル・パルク丸太町第1駐車場 / NTT LePerc Marutamachi No. 1 Parking Lot,  21 Marutamachi, Horikawa Higashiiri, Marutamachi, Nakagyo-ku, Kyoto-shi, Kyoto 604-0077</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7524156,35.0171967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神川花川橋ライブカメラ / Tenjingawa Hanakawabashi Live Camera</name>
+        <description><![CDATA[〒603-8315 京都府京都市北区衣笠荒見町 「国土交通省河川情報センター」/ Kinugasa Arami-cho, Kita-ku, Kyoto 603-8315, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/kyoto-tenjin-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7353689,35.0368015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長代川静市ライブカメラ / Chodai River Shizuichi Live Camera</name>
+        <description><![CDATA[京都府京都市北区上賀茂本山「国土交通省河川情報センター」/ Kamigamo Motoyama, Kita-ku, Kyoto City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/kyoto-chodai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7653791,35.0745754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立命館小学校ライブカメラ / Ritsumeikan Elementary School Live Camera</name>
+        <description><![CDATA[〒603-8141 京都府京都市北区小山西上総町２２ 立命館小学校 「IoT百葉箱」/ Ritsumeikan Elementary School, 22 Koyamanishikamifusacho, Kita-ku, Kyoto-shi, Kyoto 603-8141,  "IoT Stevenson Screen"<br>https://livecamera.fujiyamasan.com/kyoto-ritsumeikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.756457,35.043733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都産業大学神山天文台ライブカメラ / Kyoto Sangyo University Koyama Astronomical Observatory Live Camera</name>
+        <description>〒603-8047 京都府京都市北区上賀茂本山 京都産業大学 神山天文台 / Kyoto Sangyo University Kamiyama Astronomical Observatory,  Kamigamo Motoyama, Kita-ku, Kyoto City, Kyoto Prefecture 603-8047</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.758207,35.0702692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市立新町小学校ライブカメラ / Kyoto Municipal Shinmachi Elementary School Live Camera </name>
+        <description><![CDATA[〒602-0915 京都府京都市上京区正親町 中立売通室町西入三丁町457 京都市立新町小学校 「IoT百葉箱」/ Kyoto Municipal Shinmachi Elementary School, 457 Santeicho, Nishiiri, Muromachi, Nakadachiuri-cho, Kamigyo-ku, Kyoto-shi, Kyoto 602-0915, "IoT Stevenson Screen"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7560978,35.0256133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川出町橋ライブカメラ / Kamogawa Demachibashi Live Camera</name>
+        <description><![CDATA[〒602-0822 京都府京都市上京区青龍町 「京都府建設交通部砂防課」/ Seiryu-cho, Kamigyo-ku, Kyoto-shi, Kyoto 602-0822, "Kyoto Prefecture Construction and Transportation Department Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7701671,35.0306585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都御苑拾翠亭ライブカメラ / Kyoto Gyoen Shusuitei Live Camera</name>
+        <description><![CDATA[〒602-0881 京都府京都市上京区京都御苑 京都御苑 「インターネット自然研究所」/ Kyoto Gyoen, Kyoto Gyoen, Kamigyo-ku, Kyoto City, Kyoto Prefecture 602-0881, "Internet Nature Research Institute"<br>https://livecamera.fujiyamasan.com/kyoto-shusuitei.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.763946,35.0247566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久多川しもでふちばしライブカメラ / Kuta River Shimodefuchibashi Live Camera</name>
+        <description><![CDATA[京都府京都市左京区久多下の町「国土交通省河川情報センター」/ Kutashimonocho, Sakyo-ku, Kyoto City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8244093,35.2637703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野川中央橋ライブカメラ / Takanogawa Chuo Bridge Live Camera</name>
+        <description><![CDATA[京都府京都市左京区大原上野町「国土交通省河川情報センター」/ Oharaueno-cho, Sakyo-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.824205,35.113438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩倉川宝ヶ池公園ライブカメラ / Iwakura River Takaragaike Park Live Camera</name>
+        <description><![CDATA[京都府京都市左京区上高野鷺町「国土交通省河川情報センター」/ Kamitakano Sagimachi, Sakyo-ku, Kyoto City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7882124,35.06063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野川松ヶ崎橋ライブカメラ / Takano River Matsugasakibashi Live Camera</name>
+        <description><![CDATA[京都府京都市左京区山端川端町「国土交通省河川情報センター」/ Yamabanakawabata Town, Sakyo Ward, Kyoto City, Kyoto Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7888462,35.0508294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野川岩倉川合流部ライブカメラ / Takano River Iwakura River Confluence Live Camera</name>
+        <description><![CDATA[〒606-0037 京都府京都市左京区上高野流田町 「京都府建設交通部砂防課」/ Kamitakano Nagareda-cho, Sakyo-ku, Kyoto-shi, Kyoto 606-0037 "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7901691,35.0585557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由岐神社参道ライブカメラ / Yuki Shrine approach live camera</name>
+        <description><![CDATA[〒601-1111 京都府京都市左京区鞍馬本町１０７３ 由岐神社 / Yuki Shrine, 1073 Kuramahonmachi, Sakyo-ku, Kyoto-shi, Kyoto 601-1111<br>https://livecamera.fujiyamasan.com/kyoto-yukijinja.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7717264,35.1159461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KBS京都北山ライブカメラ / KBS Kyoto Kitayama Live Camera</name>
+        <description><![CDATA[〒606-0821 京都府京都市左京区賀茂今井町１０−４ 京都府 建設交通部 京都土木事務所 「KBS京都」/ Kyoto Prefectural Construction and Transportation Department Kyoto Civil Engineering Office, 10-4 Kamoimai-cho, Sakyo-ku, Kyoto-shi, Kyoto 606-0821, "KBS Kyoto"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7591004,35.0502399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝池自動車教習所ライブカメラ / Takaragaike Driving School Live Camera</name>
+        <description>〒606-0913 京都府京都市左京区松ケ崎芝本町１ 宝池自動車教習所 / Takaragaike Driving School, 1 Matsugasaki Shibamotocho, Sakyo-ku, Kyoto City, Kyoto Prefecture 606-0913</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.773845,35.0521072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川三条大橋ライブカメラ / Kamogawa Sanjo Ohashi Live Camera</name>
+        <description><![CDATA[〒605-0009 京都府京都市東山区大橋町 三条京阪前 「京都府建設交通部砂防課」/ Sanjo Keihan Mae, Ohashi-cho, Higashiyama-ku, Kyoto-shi, Kyoto 605-0009, "Kyoto Prefecture Construction and Transportation Department Sabo Division"<br>https://livecamera.fujiyamasan.com/kyoto-sanjoohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7718123,35.0090538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号東山トンネル西側坑口ライブカメラ / National highway No. 1 Higashiyama tunnel west side wellhead live camera</name>
+        <description><![CDATA[京都府京都市東山区清閑寺 「京都国道事務所」/ Seikanji, Higashiyama-ku, Kyoto City, Kyoto Prefecture, "Kyoto National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7875773,34.9889368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森信三郎商舗東本願寺前・京都市内・京都タワーライブカメラ / Shinsaburo Mori Shoten Higashi Honganji-mae, Kyoto City and Kyoto Tower Live Camera</name>
+        <description><![CDATA[京都府京都市下京区烏丸七条上ル 東本願寺前　森信三郎商舗 / Shinsaburo Mori Shoten, in front of Higashi Honganji Temple, Shichijonoboru, Karasuma, Shimogyo-ku, Kyoto<br>https://livecamera.fujiyamasan.com/kyoto-higashihongwanji.html<br>https://livecamera.fujiyamasan.com/kyoto-tower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.76043,34.9901067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都駅ビル大階段ライブカメラ / Kyoto Station Building Grand Staircase Live Camera</name>
+        <description><![CDATA[〒600-8216 京都府京都市下京区東塩小路町９０１ 京都駅ビル大階段グラフィカルイルミネーション「agataJapan」/ Kyoto Station Building Grand Staircase Graphical Illumination, 901 Higashishiokoji-cho, Shimogyo-ku, Kyoto-shi, Kyoto 600-8216, "Agata Japan"<br>https://livecamera.fujiyamasan.com/kyoto-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7585139,34.9859824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川風早樋門ライブカメラ / Katsura River Kazehaya Himon Live Camera</name>
+        <description><![CDATA[〒601-8203 京都府京都市南区久世築山町 風早樋門 「国土交通省川の防災情報CCTVカメラ」/ Kazehaya Himon, Kuzetsukiyama-cho, Minami-ku, Kyoto 601-8203, Kyoto Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7282268,34.9545516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路桂川パーキングエリア下りライブカメラ / Meishin Expressway Katsura River parking area down live camera</name>
+        <description><![CDATA[〒601-8204 京都府京都市南区久世東土川町４６８−１ 桂川PA (下り) 「西日本高速道路」/ Katsuragawa PA (down),  468-1 Kuzehigashitsuchikawa-cho, Minami-ku, Kyoto-shi, Kyoto 601-8204, "West Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7220873,34.9435872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路桂川パーキングエリア上りライブカメラ / Meishin Expressway Katsura River parking area up live camera</name>
+        <description><![CDATA[〒601-8204 京都府京都市南区久世東土川町４００−１ 桂川PA上り 「西日本高速道路」/ Katsura River PA up, 400-1 Kuzehigashitsuchikawa-cho, Minami-ku, Kyoto 601-8204, Kyoto Prefecture  "West Nippon Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7203703,34.9443444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KBS京都駅ライブカメラ / KBS Kyoto Station Live Camera</name>
+        <description><![CDATA[〒601-8411 京都府京都市南区西九条北ノ内町 「KBS京都」/ Nishikujo Kitanouchi-cho, Minami-ku, Kyoto City, Kyoto Prefecture 601-8411, "KBS Kyoto"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7541716,34.9844499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西高瀬川稲村橋ライブカメラ / Nishitakasegawa Inamurabashi Live Camera</name>
+        <description><![CDATA[〒601-8343 京都府京都市南区吉祥院稲葉町 「	京都府建設交通部砂防課」/ 〒601-8343 Inaba-cho, Kisshoin, Minami-ku, Kyoto-shi, Kyoto "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7387736,34.9685129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都西京極ライブカメラ / Kyoto Nishikyogoku Live Camera</name>
+        <description><![CDATA[京都府京都市右京区西京極 「カワカワポイント」/ Nishikyogoku, Ukyo-ku, Kyoto City, Kyoto Prefecture "Kawakawa Point"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7180023,34.9922152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局桂川渡月橋上流ライブカメラ / Kinki Regional Development Bureau Katsura River Togetsukyo upstream live camera</name>
+        <description><![CDATA[京都府京都市右京区嵯峨中之島町 「近畿地方整備局」/ Saganakanoshima-cho, Ukyo-ku, Kyoto-shi, Kyoto, "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.677442,35.0120872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川上黒田ライブカメラ / Katsura River Kamikuroda Live Camera</name>
+        <description><![CDATA[京都府京都市右京区京北上黒田町水出 「国土交通省河川情報センター」/  Suide, Keihokukamikuroda-cho, Ukyo-ku, Kyoto-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.74667,35.2050838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弓削川五本松橋ライブカメラ / Yugegawa Gohonmatsubashi Live Camera</name>
+        <description><![CDATA[京都府京都市右京区京北五本松町セバト口「国土交通省河川情報センター」/ Sebatoguchi, Keihokugohonmatsucho, Ukyo-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.629437,35.1721245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御室川太子道橋ライブカメラ / Omuro River Taikomichibashi Live Camera</name>
+        <description><![CDATA[京都府京都市右京区太秦安井池田町「国土交通省河川情報センター」/ Uzumasa Yasui Ikeda-cho, Ukyo-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7167059,35.0140516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神川西院ライブカメラ / Tenjingawa Saiin Live Camera</name>
+        <description><![CDATA[京都府京都市右京区西院東貝川町「国土交通省河川情報センター」/ Saiinhigashikaigawa-cho, Ukyo-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7170337,35.0014034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川弓削川合流部ライブカメラ / Katsura River Yugegawa Confluence Live Camera</name>
+        <description><![CDATA[〒601-0251 京都府京都市右京区京北周山町 「京都府建設交通部砂防課」/  Keihokushuzan-cho, Ukyo-ku, Kyoto-shi, Kyoto 601-0251, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6314224,35.1547371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神川桂小橋ライブカメラ / Tenjingawa Katsura Kobashi Live Camera</name>
+        <description><![CDATA[〒615-0834 京都府京都市右京区西京極殿田町 「京都府建設交通部砂防課」/ Nishikyogoku Tonoda Town, Ukyo Ward, Kyoto City, Kyoto Prefecture 615-0834, "Kyoto Prefecture Construction and Transportation Department Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7174615,34.9837536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局宇治川伏見出張所ライブカメラ / Kinki Regional Development Bureau Ujigawa Fushimi Branch Office Live Camera</name>
+        <description><![CDATA[〒612-8225 京都府京都市伏見区葭島金井戸町 淀川河川事務所 伏見出張所 「近畿地方整備局」/ Fushimi Branch Office, Yodogawa River Office, Yoshijima Kanaidocho, Fushimi-ku, Kyoto-shi,  Kyoto Prefecture 612-8225, "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7558561,34.9234003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局桂川羽束師橋ライブカメラ / Kinki Regional Development Bureau Katsura River Hazukashi Bridge Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区横大路草津町 「近畿地方整備局」/ Yokooji Kusatsucho, Fushimi-ku, Kyoto City, Kyoto Prefecture, "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7337685,34.9303642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川派流伏見みなと公園ライブカメラ / Ujigawa Haryu Fushimi Minato Park live camera</name>
+        <description><![CDATA[京都府京都市伏見区南浜町 「国土交通省河川情報センター」/ Minamihama-cho, Fushimi-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7594003,34.9302003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川羽束師古川町ライブカメラ / Ujigawa Hazukashi Furukawacho Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区羽束師古川町「国土交通省河川情報センター」/ Hazukashifurukawa-cho, Fushimi-ku, Kyoto-shi, Kyoto, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7296228,34.9277764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市立納所小学校ライブカメラ / Kyoto Municipal Nouso Elementary School Live Camera </name>
+        <description><![CDATA[〒612-8277 京都府京都市伏見区納所妙徳寺１ 京都市立納所小学校 「IoT百葉箱」/ Kyoto Municipal Nouso Elementary School,  Nousomyotokuji, Fushimi-ku, Kyoto-shi, Kyoto Prefecture 612-8277,  "IoT Stevenson Screen"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.719613,34.909788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川淀生津ライブカメラ / Kizugawa Yodonamazu Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区淀生津町 「国土交通省川の防災情報」/ Yodonamazu-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River disaster prevention information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7224961,34.8820796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川小畑川合流部ライブカメラ / Katsura River Obata River Confluence Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区淀美豆町「国土交通省川の防災情報」/ Yodomizu-cho, Fushimi-ku, Kyoto-shi, Kyoto "Ministry of Land, Infrastructure, Transport and Tourism River disaster prevention information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7052687,34.899079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川五番樋門ライブカメラ / Katsura River Goban Himon Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区納所町「国土交通省川の防災情報」/ Nosocho, Fushimi-ku, Kyoto City, Kyoto Prefecture "Disaster prevention information for rivers, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7174833,34.9092161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川西羽束師樋門ライブカメラ / Katsura River Nishihazukashi Himon Live Camera</name>
+        <description><![CDATA[〒613-0901 京都府京都市伏見区淀樋爪町 西羽束師排水機場「国土交通省川の防災情報」/ Nishihazukashi Drainage Pump Station, Yodohizume-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture 613-0901, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7227146,34.9199676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川羽束師橋ライブカメラ / Katsura River Hazukashi Bridge Live Camera</name>
+        <description><![CDATA[〒612-8483 京都府京都市伏見区横大路草津町 「国土交通省川の防災情報」/ Yokooji Kusatsu-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture 612-8483, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7346288,34.9293801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川東高瀬川合流部ライブカメラ / Ujigawa Higashi Takasegawa Confluence Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区横大路下三栖東ノ口「国土交通省川の防災情報」/ Yokooji Shimomisuhigashi Noguchi, Fushimi-ku, Kyoto City, Kyoto Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7529132,34.9217448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山科川大島排水機場ライブカメラ / Yamashina River Oshima Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒612-8006 京都府京都市伏見区桃山町大島 近畿地方整備局 淀川河川事務所 大島排水機場 「国土交通省川の防災情報」/ Kinki Regional Development Bureau Yodogawa River Office, Oshima Drainage Pump Station, Oshima, Momoyama-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture 612-8006, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.789317,34.9302955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川向島庚申町ライブカメラ / Ujigawa Mukaijima Koshincho Live Camera</name>
+        <description><![CDATA[〒612-8122 京都府京都市伏見区向島庚申町 「淀川ダム統合管理事務所」/ Mukaijima Koshin-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture  612-8122, "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7740187,34.9254279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川宇治川大橋ライブカメラ / Uji River Uji River Ohashi Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区横大路千両松町 「淀川ダム統合管理事務所」/ Senryomatsucho, Yokooji, Fushimi-ku, Kyoto City, Kyoto Prefecture<br>"Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7443888,34.9196454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路京都南インターチェンジ～京都東インターチェンジライブカメラ / Meishin Expressway Kyoto Minami Interchange-Kyoto East Interchange Live Camera</name>
+        <description><![CDATA[〒612-8425 京都府京都市伏見区竹田田中殿町 「NEXCO西日本」/ Takeda Tanaka Dencho, Fushimi-ku, Kyoto 612-8425, Kyoto Prefecture<br>"NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7482487,34.9539537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川下三栖ライブカメラ / Ujigawa Shimomisu Live Camera</name>
+        <description><![CDATA[〒612-8236 京都府京都市伏見区横大路下三栖東ノ口 京都大学 防災研究所宇治川オープンラボラトリー 「	淀川河川事務所」/ Ujikawa Open Laboratory, Disaster Prevention Research Institute, Kyoto University, Yokooji Shimomisuhigashinoguchi, Fushimi-ku, Kyoto 612-8236, "Yodogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7517426,34.9215504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中書島京阪電車ライブカメラ / Chushojima Keihan Electric Railway Live Camera</name>
+        <description><![CDATA[〒612-8235 京都府京都市伏見区横大路下三栖東ノ口 「	京阪まなみっくす」/ Yokooji Shimomisuhigashinoguchi, Fushimi-ku, Kyoto 612-8235, Kyoto Prefecture, "Keihan Manamix"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7532831,34.9231797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猫カフェTiME|Neko Café TiME Live Stream</name>
+        <description><![CDATA[〒612-0012 京都府京都市伏見区深草一ノ坪町１２−２ 久安ビル 2階東 猫カフェタイム| Cat Café TiME / Cat Cafe Time | Cat Café TiME   12-2 Fukakusa Ichinotsubo-cho, Fushimi-ku, Kyoto 612-0012, Kyoto Prefecture<br>https://livecamera.fujiyamasan.com/kyoto-nekocafe-time.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7700746,34.9680866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川鳥羽大橋ライブカメラ / Kamogawa Toba Ohashi Live Camera</name>
+        <description><![CDATA[京都府京都市伏見区竹田青池町 「京都府建設交通部砂防課」/ Takeda Aoike-cho, Fushimi-ku, Kyoto-shi, Kyoto "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"<br>https://livecamera.fujiyamasan.com/kyoto-kamogawa-tobaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7455578,34.954863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧安祥寺川西金ヶ崎橋ライブカメラ / Former Anshoji River Nishi Kanegasaki Bridge Live Camera</name>
+        <description><![CDATA[京都府京都市山科区西野山中臣町 「国土交通省河川情報センター」/ Nishinoyama Nakatomi Town, Yamashina Ward, Kyoto City, Kyoto Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8040801,34.9689953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安祥寺川安朱ライブカメラ / Anshoji  River Anshu Live Camera</name>
+        <description><![CDATA[京都府京都市山科区安朱中小路町 「国土交通省河川情報センター」/ Anshunakakoji-cho, Yamashina-ku, Kyoto-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8174103,34.9939482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四宮川四ノ宮橋ライブカメラ / Shinomiyagawa Shinomiyabashi Live Camera</name>
+        <description><![CDATA[京都府京都市山科区四ノ宮神田町「国土交通省河川情報センター」/ Shinomiyakanda-cho, Yamashina-ku, Kyoto-shi, Kyoto Prefecture,<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8213358,34.9901954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山科川旧安祥寺川合流部ライブカメラ / Yamashina River Former Anshoji River Confluence Live Camera</name>
+        <description><![CDATA[〒607-8214 京都府京都市山科区勧修寺平田町 「京都府建設交通部砂防課」/ 〒607-8214 Kanshuji Hirata-cho, Yamashina-ku, Kyoto-shi, Kyoto, "Kyoto Prefecture Construction and Transportation Department Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8119585,34.9661118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号東山トンネル東側坑口ライブカメラ / National highway No. 1 Higashiyama tunnel east side wellhead live camera</name>
+        <description><![CDATA[京都府京都市山科区北花山 「京都国道事務所」/ Kitakazan, Yamashina-ku, Kyoto-shi, Kyoto "Kyoto National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7934463,34.988937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局桂川桂川出張所ライブカメラ / Kinki Regional Development Bureau Katsura River Katsura River Branch Office Live Camera</name>
+        <description><![CDATA[〒615-8021 京都府京都市西京区桂浅原町１７４ 淀川河川事務所桂川出張所 「近畿地方整備局」/ 174 Katsuraasahara-cho, Nishikyo-ku, Kyoto-shi, Kyoto 615-8021 Yodogawa River Office Katsurakawa Branch Office, "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7123014,34.9814762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善峰川石見小橋ライブカメラ / Zenpo River Iwami Kobashi Live Camera</name>
+        <description><![CDATA[京都府京都市西京区大原野石見町「国土交通省河川情報センター」/ Oharano Iwami-cho, Nishikyo-ku, Kyoto-shi, Kyoto Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6780911,34.9484321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小畑川大原野ライブカメラ / Obata River Oharano Live Camera</name>
+        <description><![CDATA[京都府京都市西京区大原野上里紅葉町 「国土交通省河川情報センター」/ Oharano Kamizato Koyocho, Nishikyo-ku, Kyoto City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6912059,34.9496525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局宇治川槇尾山水位観測所ライブカメラ / Kinki Regional Development Bureau Ujigawa Makioyama Water Level Observatory Live Camera</name>
+        <description><![CDATA[京都府宇治市宇治山王 「近畿地方整備局」/ Uji Sanno, Uji City, Kyoto Prefecture "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8134275,34.8866036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志津川東組ライブカメラ / Shizukawa Higashigumi Live Camera</name>
+        <description><![CDATA[京都府宇治市志津川東組 「国土交通省河川情報センター」/ Shizukawa Higashigumi, Uji City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8274927,34.8903874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戦川蒐道ライブカメラ / Tatakai River Todo Live Camera</name>
+        <description><![CDATA[京都府宇治市莵道出口「国土交通省河川情報センター」/ Todo Deguchi, Uji City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8104538,34.9008334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井川伊勢田ライブカメラ / Igawa Iseda Live Camera</name>
+        <description><![CDATA[京都府宇治市伊勢田町遊田「国土交通省河川情報センター」/ Yuden, Iseda-cho, Uji-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7720188,34.8874345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名木川さいかい橋ライブカメラ / Nagi River Saikai Bridge Live Camera</name>
+        <description><![CDATA[京都府宇治市大久保町田原「国土交通省河川情報センター」/ Tahara, Okubo-cho, Uji-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7647754,34.874499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川宇治里尻ライブカメラ / Uji River Uji Satojiri Live Camera</name>
+        <description><![CDATA[京都府宇治市宇治里尻「国土交通省河川情報センター」/ Uji Satojiri, Uji City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8037371,34.8942071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天ヶ瀬ダム堤頂左岸ライブカメラ / Amagase Dam top left bank live camera</name>
+        <description><![CDATA[〒611-0021 京都府宇治市宇治金井戸１５ 天ケ瀬ダム管理支所 「淀川ダム統合管理事務所」/ Amagase Dam Management Branch, 15 Uji Kanaido, Uji City, Kyoto Prefecture 611-0021, <br>"Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.826893,34.880511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川戸の内放流警報所ライブカメラ / Uji River Tonouchi Release Warning Station Live Camera</name>
+        <description><![CDATA[〒611-0011 京都府宇治市五ケ庄戸ノ内「国土交通省川の防災情報」/ Gokasho Tonouchi, Uji City, Kyoto Prefecture 611-0011,  "Disaster prevention information for rivers of the Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7977276,34.9062169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川針ノ木排水機場ライブカメラ / Ujigawa Harinoki Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒611-0011 京都府宇治市五ケ庄針木原「国土交通省川の防災情報」/ Gokasho Harikihara, Uji City, Kyoto Prefecture 611-0011, "Disaster prevention information for rivers, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.791618,34.909308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川槇島放流警報局ライブカメラ / Ujigawa Makishima Release Warning Station Live Camera </name>
+        <description><![CDATA[京都府宇治市槇島町北内 「淀川ダム統合管理事務所」/ Kitauchi, Makishima-cho, Uji-shi, Kyoto "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7989645,34.9016135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川清水放流警報局ライブカメラ / Ujigawa Shimizu Release Warning Station Live Camera</name>
+        <description><![CDATA[京都府宇治市槇島町清水 「淀川ダム統合管理事務所」/ Shimizu, Makishima-cho, Uji-shi, Kyoto "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7888866,34.915998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川宇治公園橘島ライブカメラ / Uji River Uji Park Tachibanajima Live Camera</name>
+        <description><![CDATA[京都府宇治市宇治橘島 「淀川ダム統合管理事務所」/ Uji Tachibanajima, Uji City, Kyoto Prefecture "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8082009,34.8907027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川槇尾山ライブカメラ / Ujikawa Makiosan Live Camera</name>
+        <description><![CDATA[〒611-0041 京都府宇治市槇島町槇尾山 「淀川ダム統合管理事務所」/ Makiozan, Makishima-cho, Uji-shi, Kyoto 611-0041 "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8362795,34.8787149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天ヶ瀬ダム堤頂右岸ライブカメラ / Amagase Dam embankment right bank live camera</name>
+        <description><![CDATA[〒611-0021 京都府宇治市宇治金井戸１５ 天ケ瀬ダム管理支所 「淀川ダム統合管理事務所」/  Amakase Dam Management Branch, 15 Uji Kanaido, Uji City, Kyoto Prefecture 611-0021 "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8266677,34.8806606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弥陀次郎川水位観測所ライブカメラ / Mida Jiro River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒611-0011 京都府宇治市五ケ庄北ノ庄 「京都府建設交通部砂防課」/ Gokasho Kitanosho, Uji City, Kyoto Prefecture 611-0011, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7950597,34.9197418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西川土井川合流点ライブカメラ / Nishikawa Doigawa confluence live camera</name>
+        <description><![CDATA[京都府亀岡市篠町柏原宇津ノ辺 「国土交通省河川情報センター」/ Utsunobe, Shinochokasebara, Kameoka City, Kyoto Prefecture "Ministry of Land, Infrastructure, Transport and Tourism"<br>River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5977428,35.0059992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千々川千代川橋上流ライブカメラ / Chichikawa Chiyokawabashi upstream live camera</name>
+        <description><![CDATA[京都府亀岡市千代川町小川1丁目「国土交通省河川情報センター」/ 1-chome, Ogawa, Chiyokawa-cho, Kameoka-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5455224,35.0456107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>獨鈷抛山千手寺亀岡盆地ライブカメラ / Tokonagesan Senshuji Temple Kameoka Basin Live Camera</name>
+        <description>〒621-0037 京都府亀岡市稗田野町鹿谷大タワ−７ 獨鈷抛山 千手寺【とこなげさん】/ Tokonagesan Senjuji Temple, Otawa, Rokuya, Hiedano-cho, Kameoka-shi, Kyoto Prefecture 621-0037</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5209756,35.0358194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竜ヶ尾山霧のテラス雲海ライブカメラ / Tatsugaoyama fog terrace sea of clouds live camera</name>
+        <description><![CDATA[〒621-0854 京都府亀岡市下矢田町医王谷 霧のテラス 「亀岡市観光協会」/ Fog terrace  Iodani, Shimoyada-cho, Kameoka-shi, Kyoto 621-0854, "Kameoka City Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5615506,34.9926721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三俣川三俣橋ライブカメラ / Mitama River Mitama Bridge Live Camera</name>
+        <description><![CDATA[〒621-0001 京都府亀岡市旭町小豆畑 「京都府建設交通部砂防課」/ Azukibata, Asahi-cho, Kameoka-shi, Kyoto 621-0001, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5656108,35.0847503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七谷川水位観測所ライブカメラ / Nanatani River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒621-0007 京都府亀岡市河原林町河原尻 「京都府建設交通部砂防課」/ Kawarajiri, Kawarabayashi-cho, Kameoka-shi, Kyoto 621-0007, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5652993,35.0444895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬飼川並河橋観測所ライブカメラ / Inukai River Namagawabashi Observatory Live Camera </name>
+        <description><![CDATA[〒621-0013 京都府亀岡市大井町並河南台 「京都府建設交通部砂防課」/ Namikawa Minamidai, Oimachi, Kameoka City, Kyoto Prefecture 621-0013, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5608747,35.0233292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽我谷川余部観測所ライブカメラ / Sogatani River Amarube Observatory Live Camera</name>
+        <description><![CDATA[〒621-0806 京都府亀岡市余部町宝久保 「京都府建設交通部砂防課」/ Takarakubo, Amarube-cho, Kameoka-shi, Kyoto 621-0806 "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5679542,35.0143962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>年谷川三宅観測所ライブカメラ / Toshitanigawa Miyake Observatory Live Camera</name>
+        <description><![CDATA[〒621-0814 京都府亀岡市三宅町 「京都府建設交通部砂防課」/ Miyake-cho, Kameoka-shi, Kyoto 621-0814, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5906749,35.0090571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川保津橋ライブカメラ / Katsura River Hozu Bridge Live Camera</name>
+        <description><![CDATA[〒621-0005 京都府亀岡市保津町下中島 「京都府建設交通部砂防課」/ Shimonakajima, Hozu-cho, Kameoka-shi, Kyoto 621-0005 "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5886089,35.0161465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号老ノ坂トンネル東側坑口ライブカメラ / National highway No. 9 Oinosaka tunnel east side wellhead live camera</name>
+        <description><![CDATA[〒621-0827 京都府亀岡市篠町王子大坪 「京都国道事務所」/ Oji Otsubo, Shinocho, Kameoka City, Kyoto Prefecture 621-0827, "Kyoto National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6343764,34.9903248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川近鉄橋下流ライブカメラ / Furukawa Kintetsu Bridge downstream live camera</name>
+        <description><![CDATA[京都府城陽市寺田樋尻 「国土交通省河川情報センター」/ Hijiri Terada, Joyo City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7714364,34.8518456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川枇杷庄水位観測所ライブカメラ / Kizugawa Biwanosho Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒610-0117 京都府城陽市枇杷庄 「国土交通省川の防災情報」/  Biwanosho, Joyo City, Kyoto Prefecture 610-0117, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7698709,34.8395234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川城陽樋門ライブカメラ / Kizugawa Joyo Gutter Gate Live Camera </name>
+        <description><![CDATA[〒610-0121 京都府城陽市寺田北川顔７２ 城陽市排水機場「国土交通省川の防災情報」/ Joyo City Drainage Pump Station, 72 Terada Kitakawazura, Joyo City, Kyoto Prefecture 610-0121, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7561288,34.8599048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長谷川城陽ライブカメラ / Hasegawa Joyo Live Camera</name>
+        <description><![CDATA[〒610-0116 京都府城陽市奈島下ノ畔 「京都府建設交通部砂防課」/  Shimonoaze, Nashima, Joyo City, Kyoto Prefecture 610-0116, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7938741,34.8323821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鉄道ライブカメラJR京都（向日町）の見える風景 / Railroad live camera JR Kyoto (Mukomachi)</name>
+        <description><![CDATA[〒617-0006 京都府向日市上植野町 「くまくまくま」/  Kamiueno-cho, Muko-shi, Kyoto 617-0006,  "Kuma Kuma Kuma"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7118391,34.9342325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬川新犬川橋ライブカメラ / Inukawa New Inukawabashi Live Camera</name>
+        <description><![CDATA[京都府長岡京市神足2丁目 「国土交通省河川情報センター」/ 2-chome, Kotari, Nagaokakyo City, Kyoto Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6968097,34.9188056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小畑川落合橋ライブカメラ / Obata River Ochiai Bridge Live Camera</name>
+        <description><![CDATA[〒617-0837 京都府長岡京市久貝「京都府建設交通部砂防課」/  Kugai, Nagaokakyo City, Kyoto Prefecture 617-0837, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6982296,34.9118836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局木津川上津屋橋ライブカメラ / Kinki Regional Development Bureau Kizugawa Kozuya Bridge Live Camera</name>
+        <description><![CDATA[京都府八幡市上津屋浜垣内 「近畿地方整備局」/ Hamagaito, Kozuya, Yawata City, Kyoto Prefecture, "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7465766,34.8659588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局宇治川さくらであい館ライブカメラ / Kinki Regional Development Bureau Ujigawa Sakura Deaikan Live Camera</name>
+        <description><![CDATA[〒614-8307 京都府八幡市八幡在応寺 さくらであい館 展望塔 「近畿地方整備局」/ Sakura Deaikan Observatory, Zaioji, Yawata City, Kyoto Prefecture 614-8307,   "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7015203,34.8905905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷川山路橋ライブカメラ / Otani River Yamajibashi Live Camera</name>
+        <description><![CDATA[京都府八幡市八幡平谷 「国土交通省河川情報センター」/ Yawata Byodani, Yawata City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7040514,34.8805483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川八幡長町ライブカメラ / Ujigawa Yawata Nagamachi Live Camera</name>
+        <description><![CDATA[京都府八幡市八幡長町「国土交通省河川情報センター」/ Yawata Nagamachi, Yawata City, Kyoto Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7171382,34.8971674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川八幡千束ライブカメラ / Kizugawa Yawata Senzoku Live Camera</name>
+        <description><![CDATA[京都府八幡市八幡千束「国土交通省河川情報センター」/ Senzoku, Yawata, Yawata City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7041467,34.8862165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>淀川橋本ライブカメラ / Yodogawa Hashimoto Live Camera</name>
+        <description><![CDATA[京都府八幡市橋本 「国土交通省川の防災情報CCTVカメラ」/ Hashimoto, Yawata City, Kyoto Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.681159,34.8800785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川岩田松原ライブカメラ / Kizugawa Iwata Matsubara Live Camera</name>
+        <description><![CDATA[〒614-8262 京都府八幡市岩田松原「国土交通省川の防災情報CCTVカメラ」/ Iwata Matsubara, Yawata City, Kyoto 614-8262 "Disaster prevention information CCTV camera of the Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7479526,34.8534433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川第二京阪道路上流ライブカメラ / Kizugawa Dainikeihan Road upstream live camera</name>
+        <description><![CDATA[〒613-0035 京都府久世郡久御山町下津屋上ノ浜 久御山南 I.C.「国土交通省川の防災情報CCTVカメラ」/ Kumiyama Minami I.C. , Shimotsuya Uenohama, Kumiyama-cho, Kuse-gun, Kyoto 613-0035, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.744327,34.873315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川木津川大橋ライブカメラ / Kizugawa Kizugawa Ohashi Live Camera</name>
+        <description><![CDATA[京都府八幡市下奈良名越 木津川大橋 「国土交通省 川の防災情報CCTVカメラ」/ Kizugawa Bridge, Shimonara Nagoshi, Yawata City, Kyoto Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7320073,34.8738741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川八幡樋門ライブカメラ / Kizugawa Yawata Himon Live Camera</name>
+        <description><![CDATA[〒614-8014 京都府八幡市八幡北浦「国土交通省 川の防災情報CCTVカメラ」/  Yawata Kitaura, Yawata City, Kyoto Prefecture 614-8014,  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7097678,34.8829803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川三川自記水位観測所ライブカメラ / Ujigawa Sansenjiki Water Level Observatory Live Camera</name>
+        <description><![CDATA[京都府八幡市橋本尻江「国土交通省 川の防災情報CCTVカメラ」/ Shirie Hashimoto, Yawata City, Kyoto Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6852407,34.8894875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治川橋本ライブカメラ / Ujikawa Hashimoto Live Camera</name>
+        <description><![CDATA[京都府八幡市橋本 「淀川ダム統合管理事務所」/ Hashimoto, Yawata City, Kyoto Prefecture "Yodogawa Dam Integrated Management Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6881729,34.883378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくらであい館ライブカメラ / Sakura Deaikan Live Camera</name>
+        <description><![CDATA[〒614-8307 京都府八幡市八幡在応寺 さくらであい館 展望塔 「淀川河川公園管理センター」/ Sakura Deaikan Observatory, Yawata Zaioji, Yawata City, Kyoto Prefecture 614-8307, "Yodogawa River Park Management Center"<br>https://livecamera.fujiyamasan.com/yawata-sakuradeaikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7011341,34.8904057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防賀川防賀川観測所ライブカメラ / Bouga River Bouga River Observatory Live Camera </name>
+        <description><![CDATA[京都府八幡市内里 「京都府建設交通部砂防課」/ Uchizato, Yawata City, Kyoto Prefecture "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7260444,34.8562251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷川八幡観測所ライブカメラ / Otani River Yawata Observatory Live Camera</name>
+        <description><![CDATA[〒614-8030 京都府八幡市八幡東島 「京都府建設交通部砂防課」/ Yawata Higashijima, Yawata City, Kyoto Prefecture 614-8030, "Kyoto Prefecture Construction and Transportation Department Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.712135,34.872387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局木津川山城大橋ライブカメラ / Kinki Regional Development Bureau Kizugawa Yamashiro Ohashi Live Camera</name>
+        <description><![CDATA[京都府京田辺市草内大東 「	近畿地方整備局」/ Kusauchi Ohigashi, Kyotanabe City, Kyoto Prefecture "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7893244,34.8203531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川飯岡久保田ライブカメラ / Kizugawa Iioka Kubota Live Camera</name>
+        <description><![CDATA[京都府京田辺市飯岡久保田 「国土交通省河川情報センター」/ Kubota Iioka, Kyotanabe City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7979361,34.8022359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川久保田樋門ライブカメラ / Kizugawa Kubota Himon Live Camera</name>
+        <description><![CDATA[京都府京田辺市飯岡久保田 「国土交通省川の防災情報CCTVカメラ」/ Kubota Iioka, Kyotanabe City, Kyoto Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information CCTV Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7971551,34.801616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防賀川興戸ライブカメラ / Bouga River Kodo Live Camera</name>
+        <description><![CDATA[〒610-0332 京都府京田辺市興戸南鉾立 「京都府建設交通部砂防課」/Kodominamihokotate, Kyotanabe City, Kyoto Prefecture 610-0332,   "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7740187,34.8063437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手原川水位観測所ライブカメラ / Tehara River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒610-0341 京都府京田辺市薪井手 「京都府建設交通部砂防課」/ 〒610-0341 Takigiide, Kyotanabe City, Kyoto Prefecture "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.754764,34.8228863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天津神川水位観測所ライブカメラ / Amatsukami River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒610-0331 京都府京田辺市田辺道場 「京都府建設交通部砂防課」/ Tanabe Dojo, Kyotanabe City, Kyoto Prefecture 610-0331, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7660196,34.8224582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬坂川水位観測所ライブカメラ / Masaka River Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒610-0331 京都府京田辺市田辺「京都府建設交通部砂防課」/ Tanabe, Kyotanabe City, Kyoto Prefecture 610-0331, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7680933,34.8147756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>普賢寺川三山木観測所ライブカメラ / Fugenji River Miyamaki Observatory Live Camera</name>
+        <description><![CDATA[〒610-0313 京都府京田辺市三山木七瀬川「京都府建設交通部砂防課」/ Miyamakinanasegawa, Kyotanabe City, Kyoto Prefecture 610-0313, "Kyoto Prefecture Construction and Transportation Department Sabo Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7760928,34.8008862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京田辺市立大住中学校ライブカメラ / Kyotanabe Municipal Ozumi Junior High School Live Camera</name>
+        <description><![CDATA[〒610-0343 京都府京田辺市大住池平２ 京田辺市立大住中学校 「インターネット百葉箱」/ Kyotanabe City Osumi Junior High School, 2 Osumiikehira, Kyotanabe City, Kyoto Prefecture 610-0343,  "Internet Stevenson Screen"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.741408,34.834857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園部川竹井ライブカメラ / Sonobe River Takei Live Camera</name>
+        <description><![CDATA[〒622-0062 京都府南丹市園部町竹井伊ノ谷 「国土交通省河川情報センター」/ Inodani Takei, Sonobe-cho, Nantan City, Kyoto 622-0062 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4167137,35.0852856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本梅川宍人ライブカメラ / Honme River Shishiudo Live Camera</name>
+        <description><![CDATA[京都府南丹市園部町宍人市場「国土交通省河川情報センター」/ Sonobe-cho Shishiudo Ichiba, Nantan City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4419825,35.0901599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川鳥羽ライブカメラ / Katsura River Toba Live Camera</name>
+        <description><![CDATA[京都府南丹市八木町八木嶋新町「国土交通省河川情報センター」/ Yagishima Shinmachi, Yagi-cho, Nantan-shi, Kyoto "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5147526,35.0865171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川船岡ライブカメラ / Katsura River Funaoka Live Camera</name>
+        <description><![CDATA[京都府南丹市園部町船岡「国土交通省河川情報センター」/ Funaoka, Sonobe-cho, Nantan City, Kyoto Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5025374,35.1429096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紅葉峠展望台ライブカメラ / Autumn leaves pass observatory live camera</name>
+        <description><![CDATA[〒629-0121 京都府南丹市八木町氷所 紅葉峠展望台 「南丹市役所」/ Autumn Leaves Pass Observatory, Yagicho Hidokoro, Nantan City, Kyoto Prefecture 629-0121,   "Nantan City Hall"<br>https://livecamera.fujiyamasan.com/kyoto-koyotouge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5591209,35.0975366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川八木南水防本部ライブカメラ / Katsura River Yagi Minami Flood Control Headquarters Live Camera</name>
+        <description><![CDATA[京都府南丹市八木町八木鹿草 「南丹市役所」/ Yagi Kanokusa, Yagi-cho, Nantan City, Kyoto Prefecture "Nantan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5357132,35.0707449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府道38号京都広河原美山線美山町田歌ライブカメラ / Kyoto Prefectural Road No. 38 Kyoto Hirokawara Miyama Line Miyamacho Tauta Live Camera</name>
+        <description><![CDATA[〒601-0702 京都府南丹市美山町田歌 「京都府建設交通部道路管理課」/Miyamacho Tauta, Nantan City, Kyoto Prefecture 601-0702,  "Road Management Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7000045,35.3302522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府道369号八原田上弓削線美山町知見ライブカメラ / Kyoto Prefectural Road No. 369 Yahara Tagami Yuge Line Miyamacho Chimi Live Camera</name>
+        <description><![CDATA[〒601-0716 京都府南丹市美山町知見 「京都府建設交通部道路管理課」/Chimi, Miyama-cho, Nantan City, Kyoto Prefecture 601-0716, "Kyoto Prefecture Construction and Transportation Department Road Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6432398,35.3483336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道162号美山町盛郷ライブカメラ / National Route 162 Miyamacho Morisato Live Camera</name>
+        <description><![CDATA[〒601-0764 京都府南丹市美山町盛郷 「京都府建設交通部道路管理課」/ Morisato, Miyama-cho, Nantan-shi, Kyoto Prefecture 601-0764, "Road Management Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5912652,35.3375967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美山川美山自然文化村ライブカメラ / Miyama River Miyama Natural Culture Village Live Camera </name>
+        <description><![CDATA[〒601-0713 京都府南丹市美山町中下向５６ 美山町自然文化村 河鹿荘 「南丹市役所」/  Miyama-cho Natural Culture Village Kawakaso,  56 Nakashita, Miyama-cho, Nantan-shi, Kyoto Prefecture 601-0713, "Nantan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6395236,35.3106445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>胡麻川南丹市役所日吉支所ライブカメラ / Goma River Nantan City Hall Hiyoshi Branch Live Camera</name>
+        <description>〒629-0301 京都府南丹市日吉町保野田市野３−１ 南丹市 日吉支所 / Hiyoshi Branch, Nantan City, 3-1 Honoda City, Hiyoshi Town, Nantan City, Kyoto Prefecture 629-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.50159,35.164343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川八木運動公園ライブカメラ / Katsura River Yagi Athletic Park Live Camera</name>
+        <description><![CDATA[〒629-0134 京都府南丹市八木町西田金井畠 八木運動公園 「南丹市役所」/ Yagi Sports Park, Nishida Kanaibata, Yagi-cho, Nantan City, Kyoto Prefecture 629-0134,  "Nantan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5369262,35.0726708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園部川園部公園ライブカメラ / Sonobe River Sonobe Park Live Camera</name>
+        <description><![CDATA[〒622-0004 京都府南丹市園部町小桜町 園部公園 「南丹市役所」/ Sonobe-koen,Sonobe-cho, Nantan-shi, Kyoto 622-0004,  "Nantan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4683603,35.1073227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>棚野川渡橋ライブカメラ / Tananogawa Watabashi Live Camera</name>
+        <description><![CDATA[〒601-0755 京都府南丹市美山町静原 「京都府建設交通部砂防課」/ Shizuhara, Miyama-cho, Nantan City, Kyoto 601-0755 "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5558606,35.2792265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田原川殿田ライブカメラ / Tahara River Tonoda Live Camera</name>
+        <description><![CDATA[〒629-0341 京都府南丹市日吉町殿田大貝「京都府建設交通部砂防課」/ Ogai Tonoda, Hiyoshi-cho, Nantan City, Kyoto Prefecture 629-0341 "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5069282,35.1609371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園部川小山観測所ライブカメラ / Sonobe River Koyama Observatory Live Camera</name>
+        <description><![CDATA[〒622-0041 京都府南丹市園部町小山東町藤ノ木「京都府建設交通部砂防課」/ Fujinogi, Oyama Higashi-cho, Sonobe-cho, Nantan-shi, Kyoto 622-0041, "Sabo Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.48307,35.1042583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野ダムライブカメラ / Ohno Dam Live Camera</name>
+        <description><![CDATA[京都府南丹市美山町樫原中野山 「KBS京都」/ Kashihara Nakanoyama, Miyama-cho, Nantan City, Kyoto Prefecture "KBS Kyoto"<br>https://livecamera.fujiyamasan.com/kyoto-nantan-ono-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4608337,35.2621904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KBS園部ライブカメラ / KBS Sonobe Live Camera</name>
+        <description><![CDATA[〒622-0041 京都府南丹市園部町小山東町藤ノ木２１ 南丹土木事務所 「KBS京都」/ 21 Nantan Civil Work Office, Oyama Higashi-cho, Sonobe-cho, Nantan-shi, Kyoto 622-0041 Nantan Civil Works Office "KBS Kyoto"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.482203,35.104372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号観音トンネル園部側ライブカメラ / National highway No. 9 Kannon tunnel Sonobe side live camera</name>
+        <description><![CDATA[〒622-0011 京都府南丹市園部町上木崎町 「京都国道事務所」/ Kamikizaki Town, Sonobe Town, Nantan City, Kyoto Prefecture 622-0011<br> "Kyoto National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4568694,35.1184094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府道19号園部平屋線美山町宮脇ライブカメラ / Kyoto Prefectural Road No. 19 Sonobe Hiraya Line Miyamacho Miyawaki Live Camera</name>
+        <description><![CDATA[〒601-0743 京都府南丹市美山町宮脇 「京都府建設交通部道路管理課」/ Miyawaki, Miyama-cho, Nantan City, Kyoto 601-0743 "Road Management Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5652993,35.2526307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道162号美山町深見ライブカメラ / National Route 162 Miyamacho Fukami Live Camera </name>
+        <description><![CDATA[〒601-0735 京都府南丹市美山町深見「京都府建設交通部道路管理課」/ Fukami, Miyama-cho, Nantan City, Kyoto 601-0735 "Road Management Division, Construction and Transportation Department, Kyoto Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6125206,35.2611626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠置キャンプ場ライブカメラ / Kasagi Campground Live Camera</name>
+        <description><![CDATA[〒619-1303 京都府相楽郡笠置町笠置佃 笠置キャンプ場 / Kasagi Campsite, Kasagi Tsukuda, Kasagi-cho, Soraku-gun, Kyoto 619-1303<br>https://livecamera.fujiyamasan.com/kasagi-camp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9361554,34.7590663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府福知山市防災情報ライブカメラ / Kyoto Prefecture Fukuchiyama disaster prevention information live camera</name>
+        <description><![CDATA[〒620-0035 京都府福知山市内記13番地１ 福知山市役所 /  Fukuchiyama City Hall, 13-1 Naiki, Fukuchiyama City, Kyoto Prefecture 620-0035<br>https://livecamera.fujiyamasan.com/fukuchiyama-bousai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1262209,35.2965411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都府南丹市ライブカメラ / Kyoto Prefecture Nantan City live camera</name>
+        <description><![CDATA[〒622-8651 京都府南丹市園部町小桜町４７ 南丹市役所 / Nantan City Hall, 47 Kozakura-cho, Sonobe-cho, Nantan-shi, Kyoto 622-8651<br>https://livecamera.fujiyamasan.com/kyoto-nantan-city.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4703174,35.1074402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>よし野の里ライブカメラ / Yoshino no Sato Live Camera</name>
+        <description><![CDATA[〒627-0242 京都府京丹後市丹後町久僧１５６２ 宇川温泉よし野の里 「京丹後市役所」 / Ukawa Onsen Yoshino no Sato, 1562 Kyuso, Tango-cho, Kyotango-shi, Kyoto 627-0242,  "Kyotango City Hall"<br>https://livecamera.fujiyamasan.com/kyoto-kyotango-yoshinonosato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.1767361,35.7539953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

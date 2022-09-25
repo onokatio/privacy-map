@@ -1,0 +1,3344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>栃木県ライブカメラマップ / Tochigi Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>栃木県内ライブカメラ</name>
+      <Placemark>
+        <name>宇都宮市オリオン通り / Utsunomiya City Orion Streets</name>
+        <description>〒320-0803 栃木県宇都宮市曲師町３−１１ オリオン通り曲師町商業協同組合 / Orion Street Mageshi-cho commercial cooperative, 3-11 Mageshi-cho, Utsunomiya-shi, Tochigi 320-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.885215,36.560213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光サーキットコース / Nikko Circuit Course</name>
+        <description><![CDATA[〒321-0416 栃木県宇都宮市高松町984 日光サーキット / Nikko Circuit, 984 Takamatsu-cho, Utsunomiya-shi, Tochigi 321-0416<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-takamatsu-nikko-circuit.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.862995,36.662395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RADIO BERRY STUDIO</name>
+        <description>〒320-0806 栃木県宇都宮市中央１丁目２−１ エフエム栃木 / FM Tochigi, 1-2-1 Chuo, Utsunomiya-shi, Tochigi 320-0806</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8832138,36.5592262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の鬼怒川ライブカメラ / Today's Kinugawa River Live Camera]]></name>
+        <description>〒321-0912 栃木県宇都宮市石井町２４０１ 加藤釣具店 / Kato Fishing Tackle Shop, 2401 Ishii-cho, Utsunomiya-shi, Tochigi 321-0912</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.946852,36.543381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇都宮餃子館東口駅前イベント広場店</name>
+        <description>〒321-0969 栃木県宇都宮市宮みらい１−６ 宇都宮餃子館東口駅前イベント広場店 / Utsunomiya Gyozakan Station East Exit Event Square Shop, 1-6 Miyamirai, Utsunomiya-shi, Tochigi 321-0969</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8999658,36.558875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姿川大杉橋ライブカメラ / Sugata River Osugi Bridge Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市大谷町 「国土交通省河川情報センター」/ Oya-machi, Utsunomiya-shi, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8197462,36.5971136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下野新聞宇都宮市内上空天気ライブカメラ / Shimotsuke Shimbun Utsunomiya city sky weather live camera</name>
+        <description>〒320-0032 栃木県宇都宮市昭和１丁目８−１１下野新聞社本社  / Head Office Shimono Shimbun, 8-11, Showa 1-chome, Utsunomiya City, Tochigi Prefecture 320-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.878555,36.5651325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川勝瓜上水位観測所ライブカメラ / Kinugawa Katsuuri Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒321-0916 栃木県宇都宮市東木代町 「下館河川事務所」/ Shimodate River Office, Higashikishiro Town, Utsunomiya City, Tochigi Prefecture, 321-0916<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-higashikinoshiro-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.959301,36.4827136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川岡本頭首工ライブカメラ / Kinugawa Okamototoushuko Live Camera</name>
+        <description><![CDATA[〒329-1105 栃木県宇都宮市中岡本町 「下館河川事務所」/ Nakaokamotocho, Utsunomiya City, Tochigi Prefecture 329-1105<br>"Shimodate River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9710383,36.605884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川国道4号鬼怒川橋ライブカメラ / Kinugawa National Highway No. 4 Kinugawabashi Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市中岡本町 「下館河川事務所」/ Nakaokamoto Town, Utsunomiya City, Tochigi Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-higashiokamoto-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9661465,36.6083342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川上河内緑水公園ライブカメラ / Kinugawakamikochi green water park live camera </name>
+        <description><![CDATA[〒321-0411 栃木県宇都宮市宮山田町 上河内緑水公園 「下館河川事務所」/ Kamikawachi Ryokusui Park, Miyayamada Town, Utsunomiya City, Tochigi Prefecture 321-0411 "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-miyayamada-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8632972,36.7249639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>レディオベリーライブカメラ / Radio berry live camera</name>
+        <description>〒320-0806 栃木県宇都宮市中央１丁目２−１　レディオベリィ / Radio Obery, 1-2-1, Chuo, Utsunomiya City, Tochigi Prefecture 320-0806</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.883246,36.559198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川石井出張所ライブカメラ / Kinugawa Ishii Branch Live Camera</name>
+        <description>〒321-0912 栃木県宇都宮市石井町２３４７ 国土交通省 関東地方整備局 下館河川事務所 石井出張所 / Ministry of Land, Infrastructure, Transport and Tourism Kanto Regional Development Bureau Shimodate River Office Ishii Branch Office, 2347 Ishii-cho, Utsunomiya-shi, Tochigi 321-0912, Japan </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.954456,36.544141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号塚山古墳アンダー外ライブカメラ / National highway No. 121 Tsukayama burial mound Under outside live camera</name>
+        <description><![CDATA[〒321-0154 栃木県宇都宮市西川田東町 「栃木道路管理情報」/ Nishikawadahigashi Town, Utsunomiya City, Tochigi Prefecture, 321-0154, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8582462,36.5049807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道46号宇都宮真岡線中央卸売市場アンダーライブカメラ / Tochigi Route 46 Utsunomiya Moka Line Central Wholesale Market Under Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市簗瀬町 中央卸売市場アンダー 「栃木道路管理情報」/ Under Central Wholesale Market, Yanase Town, Utsunomiya City, Tochigi Prefecture, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-yanaze-r46.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8934082,36.5478913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道64号宇都宮市陽東4丁目ライブカメラ / Tochigi Prefecture Road No. 64 Utsunomiya City Yoto 4-chome Live Camera</name>
+        <description><![CDATA[〒321-0904 栃木県宇都宮市陽東４丁目 「栃木道路管理情報」/ 4-chome Yoto, Utsunomiya City, Tochigi Prefecture 321-0904, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9245164,36.5581309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道119号御幸アンダー西側ライブカメラ / National highway No. 119 Miyuki West Side live camera</name>
+        <description><![CDATA[〒321-0982 栃木県宇都宮市御幸ケ原町 「栃木道路管理情報」/  Miyukigahara Town, Utsunomiya City, Tochigi Prefecture 321-0982 , "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-miyukigahara-r119.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9238758,36.588014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道64号宇都宮向田線今泉アンダーライブカメラ / Tochigi Prefectural Road 64 Utsunomiya Mukaida Line Imaizumi Under Live Camera</name>
+        <description><![CDATA[〒321-0965 栃木県宇都宮市川向町 「栃木道路管理情報」/ Kawamuko-cho, Utsunomiya City, Tochigi Prefecture 321-0965, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8995397,36.5633151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道1号宇都宮笠間線簗瀬アンダーライブカメラ / Prefectural road No.1 Utsunomiya Kasama line Yanase under live camera</name>
+        <description><![CDATA[〒321-0933 栃木県宇都宮市簗瀬町 「栃木道路管理情報」/ Yanase Town, Utsunomiya City, Tochigi Prefecture 321-0933, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8918523,36.5444069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道3号宇都宮亀和田栃木線下砥上アンダーライブカメラ / Prefectural road No.3 Utsunomiya Kamewada Tochigi line Shimotoue under live camera</name>
+        <description><![CDATA[〒320-0852 栃木県宇都宮市下砥上町 「栃木道路管理情報」/ Shimotogami-cho, Utsunomiya-shi, Tochigi 320-0852, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.84193,36.5322353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号宮の内アンダーライブカメラ / National Route 121 Miyanouchi Under Live Camera</name>
+        <description><![CDATA[〒321-0131 栃木県宇都宮市宮の内３丁目 「栃木道路管理情報」/ 3-chome, Miyanouchi, Utsunomiya City, Tochigi Prefecture 321-0131, ""Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8764872,36.5040854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道119号宮環ミレニアム上戸祭アンダーライブカメラ / National Highway No. 119 Miyakan Millennium Ueto Festival Under Live Camera</name>
+        <description><![CDATA[〒320-0051 栃木県宇都宮市上戸祭町 宮環ミレニアム上戸祭アンダー / Miyakan Millennium Kamitomatsuri Under, Kamitomatsuri-cho,  Utsunomiya City, Tochigi Prefecture 320-0051<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-kamitomatsuri-r119.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8662459,36.5932046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あしかがフラワーパーク白藤のトンネルライブカメラ / Ashikaga Flower Park Shirafuji Tunnel Live Camera</name>
+        <description>〒329-4216 栃木県足利市迫間町６０７ あしかがフラワーパーク / Ashikaga Flower Park, 607 Sakama-cho, Ashikaga-shi, Tochigi Prefecture 326-4216</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5200222,36.3141561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾名川岡山橋ライブカメラ / Ona River Okayama Bridge Live Camera</name>
+        <description><![CDATA[〒326-0012 栃木県足利市大久保町 「国土交通省河川情報センター」/ Okubo Town, Ashikaga City, Tochigi Prefecture 326-0012, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-okubo-onagawa-okayama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4997785,36.3166616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旗川白旗橋ライブカメラ / Hata River Shirahata Bridge Live Camera</name>
+        <description><![CDATA[栃木県足利市寺岡町 「河川情報センター」/ Teraoka-cho, Ashikaga City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-teraoka-hatagawa-shirahata-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.542254,36.3135434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢場川足森橋水位観測所ライブカメラ / Yaba River foot forest bridge water level observatory live camera</name>
+        <description><![CDATA[〒326-0325 栃木県足利市高松町 「渡良瀬川河川事務所」/ Takamatsu Town, Ashikaga City, Tochigi Prefecture 326-0325, "Warasegawa River Office''<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-takamatsu-yabagawa-ashimori-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4949175,36.2778035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川岩井水位観測所ライブカメラ / Watarasegawa Iwai Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒326-0046 栃木県足利市岩井町 「渡良瀬川河川事務所」/ Iwai Town, Ashikaga City, Tochigi Prefecture 326-0046, Japan, "Warasegawa River Office''<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-iwai-watarase-32-9kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4605829,36.3217608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川矢場川水門屋上ライブカメラ / Watarase River Yaba River Sluice rooftop live camera</name>
+        <description><![CDATA[栃木県足利市野田町 「渡良瀬川河川事務所」/ Noda Town, Ashikaga City, Tochigi Prefecture “Warasegawa River Office”<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-noda-watarase-yaba-river-sluice.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5345996,36.2804381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川早川田上水位観測所ライブカメラ / Watarase River Yaba River Sluice rooftop live camera</name>
+        <description><![CDATA[〒326-0322 栃木県足利市野田町 「渡良瀬川河川事務所」/ Noda Town, Ashikaga City, Tochigi Prefecture 326-0322, "Watasegawa River Office''<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-noda-watarase-river-sakawada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5136577,36.2934759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川中橋上流ライブカメラ / Watarasegawa Nakabashi upstream live camera</name>
+        <description><![CDATA[〒326-0821 栃木県足利市南町 「渡良瀬川河川事務所」/ Minamimachi, Ashikaga City, Tochigi Prefecture 326-0821, "Watasegawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-minami-watarase-river-nakabashi-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4481892,36.3306151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川足利水位観測所ライブカメラ / Watarase River Ashikaga Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒326-0814 栃木県足利市通４丁目 「渡良瀬川河川事務所」/ 4-chome, Ashikaga City, Tochigi Prefecture 326-0814, "Warasegawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-tori-watarase-35kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.444694,36.3362855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道293号田中アンダーライブカメラ / National Route 293 Tanaka Under Live Camera</name>
+        <description><![CDATA[〒326-0822 栃木県足利市田中町 「栃木道路管理情報」 /  Tanaka Town, Ashikaga City, Tochigi Prefecture 326-0822, "Tochigi road management information"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-takana-r293.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4517439,36.3269211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>袋川千歳橋ライブカメラ / Fukurogawa Chitosebashi live camera</name>
+        <description><![CDATA[栃木県足利市末広町 「栃木県県土整備部」/  Suehiro-cho, Ashikaga City, Tochigi Prefecture, "Tochigi Prefecture Soil Maintenance Department"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-suehiro-fukuro-river-chitose-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4761581,36.343168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道40号足利環状線山川アンダーライブカメラ / Tochigi Prefectural Road No. 40 Ashikaga Loop Line Yamakawa Under Live Camera</name>
+        <description><![CDATA[〒326-0021 栃木県足利市山川町 「栃木道路管理情報」/ Yamakawa-cho, Ashikaga City, Tochigi Prefecture 326-0021,  "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-yamakawa-r40.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.483818,36.3230577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号足利陸橋ライブカメラ / National highway No. 50 Ashikaga crossover live camera</name>
+        <description><![CDATA[〒326-0835 栃木県足利市里矢場町 「宇都宮国道事務所」/ Satoyaba Town, Ashikaga City, Tochigi Prefecture 326-0835, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-satoyaba-r50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4191846,36.3184854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>わたらせテレビ織姫山ライブカメラ /  Watarase TV Orihimeyama Live Camera </name>
+        <description>〒326-0801 栃木県足利市有楽町８３５ わたらせテレビ足利局 / Watarase TV Ashikaga Station, 835 Yuraku-cho, Ashikaga City, Tochigi Prefecture 326-0801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4577054,36.3415525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤津川伊吹橋ライブカメラ / Akatsugawa Ibuki Bridge Live Camera</name>
+        <description>〒328-0125 栃木県栃木市吹上町２８１ 「国土交通省河川情報センター」/ 281 Fukiage-cho, Tochigi City, Tochigi Prefecture 328-0125 “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7135335,36.4131748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴波川倭橋ライブカメラ / Tomoe River Yamatobashi Bridge Live Camera</name>
+        <description><![CDATA[栃木県栃木市入舟町 「国土交通省河川情報センター」/ Irifune Town, Tochigi City, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7324633,36.3799944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川保橋ライブカメラ / Omoi River Tamotsu Bridge Live Camera</name>
+        <description><![CDATA[〒328-0001 栃木県栃木市柳原町 「国土交通省河川情報センター」/ Yanagihara Town, Tochigi City, Tochigi Prefecture 328-0001, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7894926,36.4143645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CC9あじさい坂ライブカメラ / CC9 Ajisaizaka Live Camera</name>
+        <description>栃木県栃木市平井町 / Hirai-cho, Tochigi-shi, Tochigi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6950229,36.3620145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川高取樋管ライブカメラ / Watarasegawa Takatori gutter tube live camera</name>
+        <description><![CDATA[〒323-1104 栃木県栃木市藤岡町藤岡 「渡良瀬川河川事務所」/ Fujioka, Fujioka Town, Tochigi City, Tochigi Prefecture 323-1104 "Warasegawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6452092,36.2546682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴波川帯刀水位上流ライブカメラ / Tomba River Tatewaki water level upstream live camera</name>
+        <description><![CDATA[栃木県栃木市藤岡町帯刀 「利根川上流河川事務所」/ Tatewaki, Fujioka town, Tochigi City, Tochigi, "Tone River Upstream Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6943137,36.2638636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フェスティカサーキット栃木ライブカメラ / Festica Circuit Tochigi Live Camera</name>
+        <description>〒328-0066 栃木県栃木市柏倉町１２７５−１ フェスティカサーキット栃木 / Festica Circuit Tochigi, 1275-1 Kashiwakura-cho, Tochigi-shi 328-0066, Tochigi Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6407091,36.3932716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道293号新会沢トンネル栃木側ライブカメラ / National highway 293 Shin-Aizawa tunnel Tochigi side live camera</name>
+        <description><![CDATA[栃木県栃木市尻内町「栃木道路管理情報」/ Shiriuchi Town, Tochigi City, Tochigi Prefecture, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6392095,36.4257306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号大平高架橋ライブカメラ / National highway No. 50 Ohira viaduct live camera </name>
+        <description><![CDATA[〒329-4305 栃木県栃木市岩舟町静戸 「宇都宮国道事務所」/  Shizuto, Iwafunecho, Tochigi City, Tochigi Prefecture 329-4305, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-iwafune-r50.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7026586,36.3024928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小曽戸川槐橋ライブカメラ / Osodo River Saikai Bridge Live Camera</name>
+        <description><![CDATA[栃木県佐野市葛生東１丁目 「国土交通省河川情報センター」/ 1- chome, Kuzuuhigashi, Sano City, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.609626,36.3993638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道151号堀米停車場線若松アンダーライブカメラ / Tochigi Prefectural Road 151 Horimai Station Line Wakamatsu Under Live Camera</name>
+        <description><![CDATA[〒327-0846 栃木県佐野市若松町 「栃木道路管理情報」/ Wakamatsu Town, Sano City, Tochigi Prefecture 327-0846, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5802054,36.318197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋山川伊保内新橋水位観測所ライブカメラ / Akiyama River Ibonai Shimbashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒327-0033 栃木県佐野市大古屋町 「渡良瀬川河川事務所」/ Okoya Town, Sano City, Tochigi Prefecture, 327-0033, Japan, "Warasegawa River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5725626,36.2809655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道293号新会沢トンネル佐野側ライブカメラ / National highway 293 Shinaiaizawa tunnel Sano side live camera</name>
+        <description><![CDATA[〒327-0511 栃木県佐野市会沢町２１２０「栃木道路管理情報」/ 2120 Aizawa-machi, Sano-shi, Tochigi 327-0511, "Tochigi road management information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6328357,36.424895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川府中橋ライブカメラ / Kurokawa Fuchu Bridge Live Camera</name>
+        <description><![CDATA[〒322-0035 栃木県鹿沼市朝日町 「国土交通省河川情報センター」/Asahi-cho, Kanuma City, Tochigi Prefecture 322-0035, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7546664,36.5642874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道15号口粟野柏木ライブカメラ / Tochigi Prefectural Road No. 15 Kuchiwagi Kashiwagi Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市柏木 「栃木道路管理情報」/ Kashiwagi, Kanuma City, Tochigi Prefecture, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-kashiwagi-r15.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6581196,36.5074602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道4号宇都宮鹿沼線上野町(JRガード下)ライブカメラ / Prefectural road No.4 Utsunomiya Kanuma line Ueno-cho (under JR guard) live camera</name>
+        <description><![CDATA[〒322-0021 栃木県鹿沼市上野町 「栃木道路管理情報」/ Ueno-cho, Kanuma City, Tochigi Prefecture 322-0021, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-ueno-r4-jr-guard.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7639301,36.5677546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川田川橋ライブカメラ / Tagawa Tagawabashi Live Camera</name>
+        <description><![CDATA[〒323-0154 栃木県小山市大字高椅 「国土交通省河川情報センター」/ Takasaki, Oyama City, Tochigi Prefecture 323-0154, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8883648,36.3397128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姿川姿川橋ライブカメラ / Sugata River Sugatagawa Bridge Live Camera</name>
+        <description><![CDATA[〒323-0017 栃木県小山市大字飯塚 姿川橋 「河川情報センター」/ Sugatagawabashi,  Iizuka, Oyama City, Tochigi Prefecture 323-0017,  "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8082783,36.3675469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おやま田んぼアートライブカメラ / Oyama rice field art live camera</name>
+        <description><![CDATA[〒323-0158 栃木県小山市大字梁１４０９ 「おやま田んぼアート実行委員会」/  1409 Hari, Oyama-shi, Tochigi Prefecture 323-0158,"Oyama rice field art executive committee"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8829407,36.3276903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川乙女水位観測所ライブカメラ /Omokawa Otome Water Level Observatory Live Camera </name>
+        <description><![CDATA[〒329-0214 栃木県小山市乙女 「利根川上流河川事務所」/ Otome, Oyama City, Tochigi Prefecture 329-0214 "Tone River Upper River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7474893,36.2628962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道54号明野間々田線間々田アンダーライブカメラ / Tochigi Prefectural Road No. 54 Akeno-Mamada Line-Mamada Under Live Camera</name>
+        <description><![CDATA[〒329-0206 栃木県小山市東間々田１丁目 「栃木道路管理情報」/ 1-chome, Higashi-Madada, Oyama City, Tochigi Prefecture 329-0206, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-higashimamada-r54-mamadaunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7743946,36.272003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号小山大橋ライブカメラ / National highway No. 50 Koyama Ohashi live camera</name>
+        <description><![CDATA[〒323-0825 栃木県小山市岩舟小山バイパス 「宇都宮国道事務所」/ Iwafune Oyama Bypass, Oyama City, Tochigi Prefecture, 323-0825, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-daigyoji-r50-oyamaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7866434,36.3070344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道33号小山環状線羽川アンダーライブカメラ / Tochigi Prefectural Road No. 33 Oyama Loop Line Hagawa Under Live Camera</name>
+        <description><![CDATA[栃木県小山市羽川 「栃木道路管理情報」/ Hanekawa, Oyama City, Tochigi Prefecture<br>"Tochigi road management information"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-hanekawa-r33-hanekawaunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8263771,36.3503385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川砂ケ原橋下流ライブカメラ / Kinugawa Sunagahara Bridge downstream live camera</name>
+        <description><![CDATA[栃木県真岡市砂ケ原 「下館河川事務所」/ Sunahara, Moka City, Tochigi Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-moka-isagahara-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9290011,36.3851225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川阿部岡橋ライブカメラ / Kokai River Abeoka Bridge Live Camera</name>
+        <description><![CDATA[〒321-4512 栃木県真岡市阿部岡 「下館河川事務所」/ Abeoka, Moka-shi, Tochigi 321-4512, Japan, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-moka-higashioshima-kokai-river-abeoka-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0379179,36.4064455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川三谷水位観測所ライブカメラ /Koga River Mitani Water Level Observatory Live Camera </name>
+        <description><![CDATA[栃木県真岡市高田 「下館河川事務所」/ Takada, Moka City, Tochigi Prefecture, "Shimodate River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.021332,36.3902207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道46号宇都宮真岡線外堀アンダーライブカメラ / Tochigi Prefectural Road No. 46 Utsunomiya Moka Line Sotobori Under Live Camera</name>
+        <description><![CDATA[〒321-4306 栃木県真岡市台町 「栃木道路管理情報」/ Daimachi, Moka City, Tochigi Prefecture, 321-4306, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-moka-daimachi-r46-sotobori-under.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0046507,36.4371431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[真岡駅「slライブカメラ」 / Maoka Station "SL Live Camera"]]></name>
+        <description><![CDATA[栃木県真岡市台町 「真岡市役所」 / Daimachi, Maoka-shi, Tochigi, "Maoka City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.002813,36.439479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川氏家体育館脇ライブカメラ / Gyukagawa Ujiya Gymnasium side live camera </name>
+        <description>〒329-1311 栃木県さくら市氏家 「国土交通省河川情報センター」/ Ujiie, Sakura City, Tochigi Prefecture, 329-1311 “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9648907,36.6727334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道293号氏家アンダーライブカメラ / National Route 293 Ujiie Under Live Camera</name>
+        <description><![CDATA[〒329-1311 栃木県さくら市氏家 「栃木道路管理情報」/ Uchiya Sakura City, Tochigi Prefecture 329-1311 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-ujiie-r293-ujiieunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9648907,36.6727334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川新荒川橋ライブカメラ / Arakawa Shin Arakawa Bridge Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市岩子 「国土交通省河川情報センター」/ Iwako, Nasukarasuyama City, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-iwako-arakawa-shinarakawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1003077,36.6638253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川下境ライブカメラ / Nakagawa River Shimozakai Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市下境 「国土交通省川の防災情報CCTVカメラ」/  Shimozakai, Nasu Karasuyama City, Tochigi Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism river disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-shimozakai-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1672042,36.620069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川向田ライブカメラ / Naka River Mukada Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市向田 「国土交通省川の防災情報CCTVカメラ」/ Mukada, Nasukarasuyama City, Tochigi Prefecture "Disaster Prevention Information CCTV Camera on the River"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1567273,36.6275122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川那珂川上流出張所鉄塔ライブカメラ / Nakagawa Upper Naka River Branch Office Tower Live Camera</name>
+        <description><![CDATA[〒321-0626 栃木県那須烏山市初音１０−２０ 「国土交通省川の防災情報CCTVカメラ」/ 10-20 Hatsune, Nasukarasuyama City, Tochigi 321-0626, Japan "Ministry of Land, Infrastructure and Transport River disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-hatsune-nakagawa-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1573001,36.6503754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川滝田ライブカメラ / Naka River Takita Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市滝田「国土交通省川の防災情報CCTVカメラ」/ Takita, Nasukarasuyama City, Tochigi Prefecture "Disaster Prevention Information CCTV Camera on the River"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1395164,36.6791087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川興野ライブカメラ / Naka River Kyono Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市興野 「国土交通省川の防災情報CCTVカメラ」/ Kyono, Nasukarasuyama City, Tochigi Prefecture "Disaster Prevention Information CCTV Camera on the River"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1552808,36.6865645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川谷地賀橋ライブカメラ / Tagawa Valley Jigabashi Live Camera</name>
+        <description><![CDATA[栃木県下野市谷地賀 「下野市役所」/ Yachiga, Shimotsuke, Tochigi Prefecture "Shimotsuke City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8949665,36.3934396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下野市防災カメラ（河川）</name>
+        <description>姿川(箕輪橋)、 田川(谷地賀橋)　「下野市役所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8520771,36.3951438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道310号下野二宮線自治医大アンダーライブカメラ / Tochigi Prefectural Road No. 310 Shimono Ninomiya Line Jichi Medical University Under Live Camera</name>
+        <description><![CDATA[栃木県下野市笹原 「栃木道路管理情報」/ Sasahara, Shimotsuke, Tochigi Prefecture "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8549571,36.3979937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道71号羽生田上蒲生線大山アンダーライブカメラ / Tochigi Prefectural Road No. 71 Hanyu Tagami Gamo Line Oyama Under Live Camera</name>
+        <description><![CDATA[栃木県下野市下古山 「栃木道路管理情報」/ Shimokoyama, Shimotsuke, Tochigi Prefecture "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8667786,36.4515319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号国分寺鉄塔ライブカメラ / National highway No. 4 Kokubunji tower live camera </name>
+        <description><![CDATA[〒329-0415 栃木県下野市川中子３３２９−７７国分寺鉄塔(国分寺出張所) 「宇都宮国道事務所」/ Kokubunji Tower (Kokubunji Branch Office), 3329-77 Kawanago, Shimotsuke-shi, Tochigi 329-0415, Japan "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-shimotsuke-kawanago-r4-kokubunji-tower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8372719,36.3710974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川明治橋ライブカメラ / Tagawa River Meiji Bridge Live Camera</name>
+        <description><![CDATA[栃木県河内郡上三川町 「国土交通省河川情報センター」/ Kamimikawa-cho, Kawachi-gun, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8891994,36.4281817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川鬼怒川橋北関東自動車道ライブカメラ / Kinugawa Kinugawa Bridge North Kanto Expressway Live Camera</name>
+        <description><![CDATA[〒329-0603 栃木県河内郡上三川町大字東蓼沼 「下館河川事務所」/ Higashitatenuma, Kaminokawa-cho, Kawachi-gun, Tochigi Prefecture, "Shimodate River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9443797,36.4596792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号バイパス田川橋ライブカメラ / National highway No. 4 bypass Tagawabashi live camera</name>
+        <description><![CDATA[〒329-0614 栃木県河内郡上三川町大字五分一 「宇都宮国道事務所」/ Gobuichi, Kami-Mikawa-cho, Kawachi-gun, Tochigi Prefecture 329-0614, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-kaminokawa-r4-tagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8951295,36.4095728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川久那瀬ライブカメラ / Nakagawa River Kunase Live Camera</name>
+        <description><![CDATA[栃木県那須郡那珂川町久那瀬 「常陸河川国道事務所」/ Kunase, Nakagawa-cho, Nasu-gun, Tochigi Prefecture "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-kunase-nakagawa-79-3kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1468125,36.7319635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川監視カメラ（YouTubeライブ配信）/ River Surveillance Camera (You Tube Live Distribution)</name>
+        <description>〒324-0041 栃木県大田原市本町１丁目１−４−１　大田原市役所 / Otawara City Hall, 1-4-1 Hon-cho, Otawara-shi, Tochigi-ken 324-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0155317,36.8711215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川北向田ライブカメラ / Naka River Kitamukada Live Camera</name>
+        <description><![CDATA[栃木県那須郡那珂川町北向田 「国土交通省川の防災情報CCTVカメラ」/ Kitakamukada, Nakagawa-cho, Nasu-gun, Tochigi Prefecture "Disaster prevention information CCTV camera on the river, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1434732,36.7494476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川小口ライブカメラ / Nakagawa Koguchi live camera</name>
+        <description><![CDATA[栃木県那須郡那珂川町小口 「常陸河川国道事務所」/ Koguchi, Nakagawa-machi, Nasu-gun, Tochigi "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-koguchi-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1431652,36.7560145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテル花庵ライブカメラ / Hotel Hana-an Live Camera</name>
+        <description><![CDATA[〒321-1661 栃木県日光市中宮祠２４８０ ホテル花庵 / Hotel Hana-an, 2480 Chugushi, Nikko-shi, Tochigi 321-1661<br>https://livecamera.fujiyamasan.com/tochigi-nikko-chugushi-hotel-hanaan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.497292,36.739606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥日光湯ノ湖 / Oku-Nikko Yunoko</name>
+        <description><![CDATA[栃木県日光市湯元 「インターネット自然研究所」 / Yumoto, Nikko-shi, Tochigi, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.421911,36.80066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯滝ライブカメラ / Yutaki Live Camera</name>
+        <description>〒321-1662 栃木県日光市湯元２４９９ 湯滝レストハウス / Yutaki Rest House, 2499 Yumoto, Nikko-shi, Tochigi 321-1662</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.428864,36.7950239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯元温泉ライブカメラ / Yumoto Onsen Live Camera</name>
+        <description>〒321-1662 栃木県日光市湯元２５４９−６ 奥日光高原ホテル / Okunikko Kogen Hotel, 2549-6 Yumoto, Nikko-shi, Tochigi 321-1662</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.420495,36.80523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神橋ライブカメラ / Shinkyo Live Camera</name>
+        <description><![CDATA[〒321-1401 栃木県日光市上鉢石町 神橋 「日光二荒山神社」 / Shinkyo, Kamihatsuishi-cho, Nikko-shi, Tochigi, "Nikko Futarasan Jinja"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-hamihatsuishi-shinkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.604028,36.753346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本社ライブカメラ / Honsha (headquarters) Live Camera</name>
+        <description>〒321-1431 栃木県日光市山内２３０７ 日光二荒山神社 / Nikko Futarasan Jinja, 2307 Sannai, Nikko-shi, Tochigi 321-1431</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5964371,36.7584588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明治の館日光倶楽部</name>
+        <description><![CDATA[栃木県日光市山内<br>明治の館]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.603011,36.756793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光山輪王寺ライブカメラ / Nikkosan Rinnoji Live Camera</name>
+        <description><![CDATA[〒321-1431 栃木県日光市 栃木県日光市山内２３００　日光山輪王寺 / Nikkozan Rinnoji Temple, 2300 Sannai, Nikko City, Tochigi Prefecture 321-1431 <br>https://livecamera.fujiyamasan.com/nikko-rinnoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6006241,36.7549565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あさやレストハウス / Asaya Rest House</name>
+        <description><![CDATA[〒321-1401 栃木県日光市上鉢石町１１１１あさやレストハウス / Asaya Resthouse, 1111 Kamihatsuishi-machi, Nikko-shi, Tochigi 321-1401<br>https://livecamera.fujiyamasan.com/tochigi-nikko-hamihatsuishi-shinkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.605326,36.753374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中禅寺ペンションライブカメラ / Chuzenji Pension Live Camera</name>
+        <description>〒321-1661 栃木県日光市中禅寺湖畔 中禅寺ペンション / Chuzenji Pension, Chuzenjikohan, Nikko-shi, Tochigi 321-1661</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.496992,36.737474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日の戦場ヶ原 / Today's Senjogahara]]></name>
+        <description><![CDATA[〒321-1661 栃木県日光市中宮祠２４９３ 三本松茶屋 / Sanbonmatsu Chaya, 2493 Chugushi, Nikko-shi, Tochigi 321-1661<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kamihatsuishi-senjogahara-nantaisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.451222,36.777547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光金谷ホテルライブカメラ / Nikko Kanaya Hotel Live Camera</name>
+        <description>〒321-1401 栃木県日光市上鉢石町１３００ 日光金谷ホテル / Nikko Kanaya Hotel, 1300 Kamihatsuishi-machi, Nikko-shi, Tochigi 321-1401</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6041832,36.752061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武日光駅前ライブカメラ / Tobu Nikko Station live camera</name>
+        <description><![CDATA[〒321-1406 栃木県日光市松原町１−７ 金谷ホテルベーカリー東武日光駅前店　ラ・セゾン 「日光物産商会」　/　Kanaya Hotel Bakery Tobu Nikko Station Shop, "La Saison", 1-7 Matsubara-cho, Nikko-shi, Tochigi 321-1406]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6195575,36.7473874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川・川治温泉観光協会</name>
+        <description><![CDATA[栃木県日光市鬼怒川温泉大原<br>鬼怒川川治温泉]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.715484,36.823628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドライビングパレット那須 / Driving Palette Nasu</name>
+        <description>〒325-0107 栃木県那須塩原市高林307-17 ドライビングパレット那須 / Driving Palette Nasu, 307-17 Takabayashi, Nasushiobara-shi, Tochigi 325-0107</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9378283,36.9759095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川俣ダム・瀬戸合峡ライブカメラ / Kawamata Dam and Setoaikyo Live Camera</name>
+        <description>〒321-2717 栃木県日光市川俣646-1 国土交通省 鬼怒川ダム統合管理事務所 川俣ダム管理支所 / Kawamata Dam Management Branch,  Kinugawa dam integrated management office,  Ministry of Land, Infrastructure and Transport, 646-1 Kawamata, Nikko-shi, Tochigi 321-2717 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.521389,36.879346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八丁の湯ライブカメラ / Haccho-no-yu Onsen Live Camera</name>
+        <description>〒321-2717 栃木県日光市川俣８７６　奥鬼怒温泉郷 八丁湯 / Kinugawaonsengo Hacchoyu, 876 Kawamata, Nikko-shi, Tochigi-ken 321-2717</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.398232,36.872054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川・立石岩ライブカメラ</name>
+        <description><![CDATA[栃木県日光市鬼怒川温泉大原１４０９<br>鬼怒川パークホテルズ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.713221,36.824024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川のリアルタイム映像 / Real-time Video of Watarase River</name>
+        <description>〒326-0822 栃木県足利市田中町６６１−３ 渡良瀬川河川事務所 / Watarase River Office, 661-3 Tanaka-cho, Ashikaga-shi, Tochigi 326-0822</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.453207,36.326786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須大丸ライブカメラ / Nasu Daimaru Live Camera</name>
+        <description>栃木県那須郡那須町湯本 県営那須大丸無料駐車場 / Prefectural Nasu Daimaru Free Parking, Yumoto, Nasu-machi, Nasu-gun, Tochigi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.98429,37.118823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富双江葉大馬 那須湯本十石 ライブ映像 / Fusokoyohma Nasuyumotojikkoku Live Camera</name>
+        <description>〒325-0301 栃木県那須郡那須町湯本２１２　復興御宿 富双江葉大馬 那須湯本十石 (ふっこうおやど ふそうこうようおおまなすじっこく) /  Fukkooyado Fusokoyohma Nasuyumotojikkoku, 212 Yumoto, Nasu-machi, Nasu-gun, Tochigi-ken 325-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9934799,37.1017704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峠の茶屋駐車場ライブカメラ / Toge-no-Chaya Parking Live Camera</name>
+        <description>〒325-0301 栃木県那須郡那須町湯本 峠の茶屋 / Toge-no-Chaya, Yumoto, Nasu-machi, Nasu-gun, Tochigi 325-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.97509,37.128263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永野川大平橋ライブカメラ / Nagano River Ohira Bridge Live Camera</name>
+        <description><![CDATA[〒329-4406 栃木県栃木市大平町下皆川 「栃木県県土整備部」/ Shimominagawa, Ohira-cho, Tochigi City, Tochigi Prefecture 329-4406 "Tochigi Prefecture Soil Maintenance Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7039016,36.3535799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須の窓ライブ中継カメラ</name>
+        <description><![CDATA[栃木県那須郡那須町湯本７６６<br>ペンション ストリーム]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.008993,37.063208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の那須ハイランドパーク / Nasu Highland Park</name>
+        <description>〒325-0303 栃木県那須郡那須町高久乙３３７５ ハイランドパーク / Nasu Highland Park, 3375 Takakuotsu, Nasu-machi, Nasu-gun, Tochigi 325-0303</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.96479,37.06403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シャロームの庭園から / Shalom Garden</name>
+        <description>〒325-0303 栃木県那須郡那須町高久乙3669−5 ペンションシャローム / Pension Shalom, 3669-5 Takakuotsu, Nasu-machi, Nasu-gun, Tochigi 325-0303</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9947885,37.0610933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須高原ライブカメラ / Nasu Kogen Live Camera</name>
+        <description>〒329-3223 那須郡那須町大島966 マウントジーンズ・スキーリゾート那須 / Mount Jeans Ski Resort Nasu, 966 Oshima, Nasu-machi, Nasu-gun, 329-3223</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0152798,37.128006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須高原 LIVE VIEW / Nasu Kogen LIVE VIEW</name>
+        <description>〒325-0303 栃木県那須郡那須町高久乙２９０５−２５（有）那須造園 / Nasu Landscaping Co., Ltd., 2905-25 Takakuotsu, Nasu-machi, Nasu-gun, Tochigi-ken 325-0303</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0290528,37.0230098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>生中継場内カメラ / Live venue camera</name>
+        <description>〒325-0304 栃木県那須郡那須町高久甲５８６１−２ キャンプ・アンド・キャビンズ那須高原 / Camp and Cabins Nasukogen, 5861-2 Takakuko, Nasu-machi, Nasu-gun, Tochigi 325-0304</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0376636,37.0219548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須ハイランドライブカメラ / Nasu Highland Live Camera</name>
+        <description>〒325-0303 栃木県那須郡那須町高久乙３３７６ 藤和那須リゾート株式会社 / Towa Nasu Resort Co. Ltd., 3376 Takakuotsu, Nasu-machi, Nasu-gun,  Tochigi 325-0303</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.966078,37.065057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ロープウェイライブカメラ映像</name>
+        <description><![CDATA[栃木県那須郡那須町湯本<br>とちぎリアルタイム雨量<br>河川水位観測情報]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.970713,37.124089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ツインリンクもてぎライブカメラ / Twin Ring Motegi Live Camera</name>
+        <description><![CDATA[〒321-3597 栃木県芳賀郡茂木町桧山１２０−１ ツインリンクもてぎ / TWIN RING MOTEGI, 120-1 Hiyama, Motegi-machi, Haga-gun, Tochigi 321-3597 <br>https://livecamera.fujiyamasan.com/tochigi-motegi-hiyama-twinringmotegi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2308711,36.5331963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>間々田東口駅ライブカメラ / Mamada Station East Exit Live Camera</name>
+        <description><![CDATA[栃木県小山市暁 「ままだ街ナビ」 / Akatsuki, Oyama-shi, Tochigi, "Mamada Town Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.761361,36.257528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐澤山神社ライブカメラ / Karasawayama Jinja Live Camera</name>
+        <description>〒327-0801 栃木県佐野市富士町１４０９ 唐澤山神社 / Karasawayama Jinja, 1409 Fuji-cho, Sano-shi, Tochigi 327-0801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6008303,36.3537759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ハンターマウンテン塩原スキー場 / Hunter Mountain Shiobara Ski Resort</name>
+        <description>〒329-2922 栃木県那須塩原市湯本塩原字前黒 ハンターマウンテン塩原 / Hunter Mountain Shiobara, Maeguro, Yumotoshiobara, Nasushiobara-shi, Tochigi 329-2922</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7536255,36.9383498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>もみじ谷大吊橋LIVE / Momiji Valley  large suspension bridge LIVE</name>
+        <description>〒329-2801 栃木県那須塩原市関谷１４２５−６０ もみじ谷 / Momiji Valley, 1425-60 Sekiya, Nasushiobara-shi, Tochigi 329-2801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.879475,36.955105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩原もの語り館ライブカメラ / Shiobara Monogatarikan Live Camera</name>
+        <description>〒329-2921 栃木県那須塩原市塩原７４７ 塩原もの語り館 / Shiobara Monogatarikan, 747 Shiobara, Nasushiobara-shi, Tochigi 329-2921</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8198089,36.9717011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中宮祠ライブカメラ / Chugushi Live Camera</name>
+        <description>〒321-1661 栃木県日光市中宮祠２４８４ 日光二荒山神社中宮祠 / Nikko Futarasan Jinja Chugushi, 2484 Chugushi, Nikko-shi, Tochigi 321-1661</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4867993,36.7417471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霧降の滝 / Kirifuri Waterfalls</name>
+        <description>〒321-1421 栃木県日光市所野１５４６−２ 山のレストラン / Yama-no-restaurant, 1546-2 Tokorono, Nikko-shi, Tochigi 321-1421</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6233733,36.7769574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号と国道50号 / National Highway Route 4 and Route 50</name>
+        <description>〒321-0931　栃木県宇都宮市平松町504 宇都宮国道事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9077773,36.551599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川、小貝川のライブ映像 / Live Videos of Kinugawa River and Kokaigawa River</name>
+        <description>〒308-0841 茨城県筑西市二木成１７５３　関東地方整備局 下館河川事務所 / Kanto Regional Development Bureau Shimodate River Office, 1753 Niginari, Chikusei-shi, Ibaraki 308-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.977343,36.2908376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神栖市防災カメラ（鹿島港）</name>
+        <description>〒314-0103 茨城県神栖市東深芝１３ 鹿島港消防署　「神栖市役所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6711106,35.9105563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神栖市防災カメラ（波崎）</name>
+        <description>〒314-0408 茨城県神栖市波崎９６０２ 広域波崎ＲＤＦセンター　「神栖市役所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8179767,35.7667929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内河川ライブカメラ</name>
+        <description>〒320-0027 栃木県宇都宮市塙田１丁目１−２０ 栃木県庁県土整備部砂防水資源課 「栃木県リアルタイム雨量河川水位観測情報」　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8835262,36.56575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川ライブカメラ（伊川勢・大瀬）</name>
+        <description>〒321-3531 栃木県芳賀郡茂木町茂木１５５ 茂木町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1875673,36.532122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とちぎ花センター</name>
+        <description>〒329-4308 栃木県下都賀郡岩舟町下津原１６１２ とちぎ花センター 「ケーブルテレビ株式会社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6332647,36.3104465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太平山</name>
+        <description>〒328-0054 栃木県栃木市平井町 太平山 「ケーブルテレビ株式会社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6902221,36.3650857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エーデルワイススキーリゾート / EDELWEISS SKI RESORT</name>
+        <description><![CDATA[〒321-2612 栃木県日光市川治温泉高原 エーデルワイススキーリゾート /  EDELWEISS SKI RESORT, Kawaji Onsen Kogen, Nikko-shi, Tochigi 321-2612<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kawajonsenkogen-edelsnow.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.74937,36.9234303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太山寺しだれ桜</name>
+        <description>328-0054 栃木県栃木市平井町714 太山寺</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7010271,36.3655176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NASU WORLD MONKEY PARK (ELEPHANT RIDE)</name>
+        <description>〒325-0001 栃木県那須郡那須町高久甲 那須町高久甲6146　那須ワールドモンキーパーク</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0482182,37.0353039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川フィッシングエリアライブ映像</name>
+        <description>〒329-1105 栃木県宇都宮市中岡本町８３５　鬼怒川フィッシングエリア　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.967766,36.605157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆりがねの湯ライブカメラ / Yuriganenoyu Live Camera</name>
+        <description><![CDATA[〒324-0618 栃木県那須郡那珂川町小口１６７１−１　那珂川町温泉浴場 ゆりがねの湯 / Yuriganenoyu, 1671-1 Koguchi, Nakagawa-machi, Nasu-gun, Tochigi-ken 324-0618<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-koguchi-yuriganenoyu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1369131,36.7776062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>間々田駅前ライブカメラ</name>
+        <description>〒329-0211 栃木県小山市暁２丁目１４−９　パソコン教室 カフェオーディオ</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.760957,36.257081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍王峡ライブカメラ</name>
+        <description>〒321-2526 栃木県日光市 鬼怒川温泉滝　龍王峡　「鬼怒川・川治温泉観光協会」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7173707,36.8596128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川温泉ライブカメラ</name>
+        <description>〒321-2522 栃木県日光市鬼怒川温泉大原1400　きぬ川ホテル三日月　「鬼怒川・川治温泉観光協会」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7151304,36.8250455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川治温泉ライブカメラ</name>
+        <description>〒321-2611 栃木県日光市川治温泉川治 川治温泉川治22　川治温泉 宿屋伝七　「鬼怒川・川治温泉観光協会」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.710135,36.8967015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川温泉駅前ライブカメラ</name>
+        <description>〒321-2522 栃木県日光市鬼怒川温泉大原１４０４−１　日光市役所 藤原総合文化会館</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7154799,36.8235855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉川井戸神橋ライブカメラ / Izumigawa Well Kamibashi Live Camera</name>
+        <description><![CDATA[栃木県塩谷郡塩谷町大字船生 「河川情報センター」/ Shioya-machi, Shioya-gun, Tochigi Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8019914,36.7794259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川上平橋上流ライブカメラ / Kinugawakamihirahashi upstream live camera</name>
+        <description><![CDATA[栃木県塩谷郡塩谷町大字上平 「下館河川事務所」/ Kamitaira, Shioya-cho, Shioya-gun, Tochigi Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-shioya-kinugawa-uwataira-bridge-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8777675,36.7284519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川上平橋下流ライブカメラ / Kinugawa Kamihirahashi Downstream Live Camera</name>
+        <description><![CDATA[栃木県塩谷郡塩谷町大字上平 「下館河川事務所」/ Kamitaira, Shioya-cho, Shioya-gun, Tochigi Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-shioya-kinugawa-uwataira-bridge-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8777675,36.7284519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川佐貫下水位観測所ライブカメラ / Kinugawa River Sanukishimo Sewage Observatory Live Camera</name>
+        <description><![CDATA[栃木県塩谷郡塩谷町大字佐貫 「下館河川事務所」/ Sanuki, Shioya-machi, Shioya-gun, Tochigi Prefecture, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-shioya-sanuki-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8061141,36.7493739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川内川橋ライブカメラ / Uchikawa Uchikawabashi Live Camera</name>
+        <description><![CDATA[栃木県矢板市木幡 「国土交通省河川情報センター」/ Kobata, Yaita City, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9283356,36.7873065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川京町橋ライブカメラ / Uchikawakyomachibashi live camera</name>
+        <description><![CDATA[〒329-2164 栃木県矢板市本町１７ 京町橋 「河川情報センター」/ Kyomachi Bridge, 17 Honcho, Yaita City, Tochigi Prefecture, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9226102,36.8081765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号野崎橋ライブカメラ / National highway No. 4 Nozakibashi live camera</name>
+        <description><![CDATA[〒329-2511 栃木県矢板市山田 「宇都宮国道事務所」/ Yamada, Yaita City, Tochigi Prefecture 329-2511, "Utsunomiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9494423,36.8331862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松葉川下高橋ライブカメラ / Matsuba Kawashita Takahashi live camera</name>
+        <description><![CDATA[栃木県大田原市黒羽田町 「国土交通省河川情報センター」/ Kurobaneta Town, Otawara City, Tochigi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-kurobaneta-matsuba-shimotaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1255355,36.8642729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大田原市お天気ライブカメラ / Ohtawara City weather live camera</name>
+        <description><![CDATA[〒324-0041 栃木県大田原市本町１丁目４−１ 大田原市役所 / Ohtawara City Hall, 1-4-1 Honcho, Otawara City, Tochigi Prefecture 324-0041   <br>https://livecamera.fujiyamasan.com/tochigi-ohtawara-weather.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0155171,36.8708174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野上川弾正橋付近ライブカメラ / Nogami River Masahashi Live Camera</name>
+        <description><![CDATA[〒324-0234 栃木県大田原市前田 弾正橋 「大田原市役所」/ Danjobashi Bridge, Maeda, Otawara City, Tochigi Prefecture 324-0234, "Otawara City Hall"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-maeda-nogami-river-danjo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1330053,36.8708807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松葉川上高橋ライブカメラ / Matsuba River Kamitaka Bridge live camera</name>
+        <description><![CDATA[栃木県大田原市堀之内 「大田原市役所」/ Horinouchi, Otawara City, Tochigi Prefecture, "Otawara City Hall"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-horinouchi-matsuba-kamitaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.125466,36.8704737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川清流荘付近ライブカメラ / Nakagawa Seiryuso Live Camera</name>
+        <description><![CDATA[〒324-0233 栃木県大田原市黒羽田町４０１ 清流荘付近 / Seiryuso, 401 Kurobaneta-machi, Ohtawara-shi, Tochigi 324-0233<br>https://livecamera.fujiyamasan.com/tochigi-ohtawara-kurobaneta-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1205492,36.8648905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箒川箒橋付近ライブカメラ / Hokigawa bridge live camera</name>
+        <description><![CDATA[栃木県大田原市佐良土 「大田原市役所」/ Sarado, Otawara-shi, Tochigi, "Otawara City Office"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-sarado-hoki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1226783,36.7856937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箒川岩井橋付近ライブカメラ / Hoki River Iwai Bridge Live Camera</name>
+        <description><![CDATA[栃木県大田原市佐久山 「大田原市役所」/ Sakuyama, Otawara City, Tochigi Prefecture "Otawara City Hall"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-sakuyama-hoki-river-iwai-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0071835,36.8122435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蛇尾川蛇尾橋付近ライブカメラ / Jabi River Jabi Bridge Live Camera</name>
+        <description><![CDATA[栃木県大田原市城山 「大田原市役所」/Shiroyama, Otawara City, Tochigi Prefecture, " Otawara City Hall,"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-shiroyama-sabi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0348789,36.8704112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>押川旧須賀川小学校付近ライブカメラ / Oshikawa Old Sukagawa Elementary School Live Camera</name>
+        <description><![CDATA[栃木県大田原市須賀川 「大田原市役所」/ Sugakawa, Otawara-shi, Tochigi, "Otawara City Office"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-sukagawa-oshikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2457772,36.8174976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号新鬼怒川橋ライブカメラ / National highway No. 4 Shin Kinugawabashi live camera</name>
+        <description><![CDATA[栃木県塩谷郡高根沢町大字宝積寺 「宇都宮国道事務所」/ Hoshaku-ji, Takanezawa-machi, Shioya-gun, Tochigi Prefecture, "Utsunomiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9747088,36.6099606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川松原大橋左岸上流ライブカメラ / Omoigawa Matsubara Ohashi Left bank upstream live camera</name>
+        <description><![CDATA[栃木県野木町友沼 「利根川上流河川事務所」/ Tomonuma, Nogi Town, Tochigi Prefecture "Upstream Tone River Office"<br>https://livecamera.fujiyamasan.com/tochigi-nogi-tomonuma-omoigawa-matsubaraohashi-left-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7262196,36.2384674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川石井出張所ライブカメラ / Kinugawa Ishii branch office live camera</name>
+        <description><![CDATA[〒321-0912 栃木県宇都宮市石井町２３４７ 国土交通省 関東地方整備局 下館河川事務所 石井出張所 / Ishii Branch Office, Shimodate River Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism, 2347 Ishiimachi, Utsunomiya City, Tochigi Prefecture 321-0912<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-ishii-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.954456,36.544141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川69.0KP左岸ライブカメラ / Kinugawa 69.0KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市東木代町 「河川情報センター」/ Higashikinoshiro Town, Utsunomiya City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-higashikinoshiro-kinugawa-69k-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9667066,36.4897591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川70.5KP左岸ライブカメラ / Kinugawa 70.5KP left bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市桑島町「河川情報センター」/ Kuwajimamachi, Utsunomiya City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-kuwajima-kinugawa-70k-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.960042,36.5025383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川71.75KP右岸ライブカメラ / Kinugawa 71.75KP right bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市上桑島町「河川情報センター」/ Kamikuwajimamachi, Utsunomiya City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-kamikuwajima-kinugawa-71kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9474195,36.5099777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川79.25KP右岸ライブカメラ / Kinugawa 79.25KP right bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市柳田町「河川情報センター」/ Yanagitamachi, Utsunomiya City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-yanagita-kinugawa-79k-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9652622,36.5747851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川80.0KP左岸ライブカメラ / Kinugawa 80.0KP left bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市板戸町「河川情報センター」/ Itadomachi, Utsunomiya City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-itado-kinugawa-80kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9750245,36.5824302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川80.75KP左岸ライブカメラ / Kinugawa 80.75KP left bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市板戸町「河川情報センター」/ Itadomachi, Utsunomiya City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-itado-kinugawa-80-75kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9731736,36.5901225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川86.0KP右岸ライブカメラ / Kinugawa 86.0KP right bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市白沢町「河川情報センター」/ Shirasawa-cho, Utsunomiya City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-shirasawa-kinugawa-86kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9555863,36.6309444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川100.25KP右岸ライブカメラ / Kinugawa 100.25KP right bank live camera</name>
+        <description><![CDATA[栃木県宇都宮市宮山田町「河川情報センター」/ Miyayamada-cho, Utsunomiya City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-miyayamada-kinugawa-100kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8692704,36.7234712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川宮の橋ライブカメラ / Tagawa Miyanobashi Live Camera</name>
+        <description><![CDATA[〒320-0022 栃木県宇都宮市千波町「栃木県県土整備部」/ Sennamimachi, Utsunomiya City, Tochigi Prefecture 320-0022, <br>"Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-sennami-tagawa-miyanohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8928128,36.5632756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川旭陵橋ライブカメラ / Tagawa Kyokuryobashi Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市簗瀬町「河川情報センター」/ Yanazemachi, Utsunomiya City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-yanaze-tagawa-kyoryo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8854522,36.545393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道119号花房アンダーライブカメラ / National Highway No. 119 Hanafusa Under Live Camera</name>
+        <description><![CDATA[栃木県宇都宮市不動前 「栃木道路管理情報」/ Fudomae, Utsunomiya City, Tochigi Prefecture<br>"Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-utsunomiya-hanabusa-r119.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8800363,36.5476861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清水川新清水川橋ライブカメラ / Shimizu River Shin Shimizu Kawabashi Live Camera</name>
+        <description><![CDATA[〒326-0141 栃木県足利市小俣町 新清水川橋「河川情報センター」/ Shin Shimizu River Bridge, Omata-cho, Ashikaga City, Tochigi Prefecture 326-0141 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-omata-shimizu-river-shinshimizugawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3704429,36.3761857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旗川稲岡橋ライブカメラ / Hatagawa Inaoka Bridge Live Camera</name>
+        <description><![CDATA[栃木県足利市稲岡町「河川情報センター」/ Inaoka Town, Ashikaga City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-inaoka-hatagawa-inaoka-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5476025,36.331049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出流川権田久橋ライブカメラ / Izuru River Gondakyubashi Live Camera</name>
+        <description><![CDATA[栃木県足利市駒場町「河川情報センター」/ Komabacho, Ashikaga City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-ashikaga-komaba-izuru-river-gondakyu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.534232,36.3184627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴波川原ノ橋ライブカメラ / Uzuma River Haranobashi Live Camera</name>
+        <description><![CDATA[栃木県栃木市大町・箱森町 「河川情報センター」/ Daicho, Hakonomorimachi, Tochigi City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-daicho-uzuma-river-haranobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7314801,36.3913945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴波川1.1KP左岸ライブカメラ / Uzuma River 1.1KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県栃木市藤岡町新波 「河川情報センター」/ Fujiokamachi Nippa, Tochigi City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-fujioka-nippa-uzuma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7148549,36.2714289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永野川二杉橋ライブカメラ / Nagano River Futasugibashi Live Camera</name>
+        <description><![CDATA[〒328-0053 栃木県栃木市片柳町 二杉橋 「河川情報センター」/ Futasugi Bridge, Katayanagi-cho, Tochigi City, Tochigi Prefecture 328-0053 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-katayanagi-nagano-river-futasugi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7109004,36.3720239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永野川大平橋ライブカメラ / Nagano River Ohirabashi Live Camera</name>
+        <description><![CDATA[〒329-4406 栃木県栃木市大平町下皆川 「栃木県県土整備部」/ Shimominagawa, Ohiramachi, Tochigi City, Tochigi Prefecture 329-4406 "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-ohira-nagano-river-ohira-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7124244,36.3565386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永野川星野橋ライブカメラ / Nagano River Hoshinobashi Live Camera</name>
+        <description><![CDATA[〒328-0201 栃木県栃木市星野町 星野橋 「河川情報センター」/ Hoshino Bridge, Hoshinomachi, Tochigi City, Tochigi Prefecture 328-0201 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-hoshino-nagano-river-hoshino-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6253685,36.4719768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川逆川橋ライブカメラ / Sakasagawa Sakasagawabashi live camera</name>
+        <description><![CDATA[栃木県栃木市都賀町深沢「河川情報センター」/ Fukasawa, Tsugamachi, Tochigi City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-tsuge-sakasa-river-sakasagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7085769,36.4543659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出流川出流橋ライブカメラ / Izuru River Izuru Bridge Live Camera</name>
+        <description><![CDATA[栃木県栃木市鍋山町「河川情報センター」/ Nabeyamamachi, Tochigi City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-nabeyama-izuru-river-izuru-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6397228,36.4516328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤川新皆橋ライブカメラ / Fujikawa Shin Minabashi Live Camera</name>
+        <description><![CDATA[栃木県栃木市皆川城内町「河川情報センター」/ Minagawajonaimachi, Tochigi City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-minagawajonai-fujikawa-shinmina-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6841483,36.3930832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三杉川東川橋ライブカメラ / Misugi River Higashikawabashi Live Camera</name>
+        <description><![CDATA[栃木県栃木市岩舟町古江 「河川情報センター」/ Furue, Iwafunemachi, Tochigi City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-iwafune-misugi-river-higashikawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6308417,36.3335801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤津川伊吹橋ライブカメラ / Akatsu River Ibukibashi Live Camera</name>
+        <description><![CDATA[〒328-0125 栃木県栃木市吹上町２３５ 伊吹橋 「河川情報センター」/ Ibuki Bridge, 235 Fukiagemachi, Tochigi City, Tochigi Prefecture 328-0125, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-fukiage-akatsu-river-ibuki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7140781,36.4126169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川保橋ライブカメラ / Omoi River Tamotsu Bridge Live Camera</name>
+        <description><![CDATA[〒328-0001 栃木県栃木市柳原町 保橋 「河川情報センター」/ Tamotsubashi, Yanagiharamachi, Tochigi City, Tochigi Prefecture 328-0001,<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-tochigi-yanagihara-omokawa-tamotsu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.788144,36.4172476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木市議会ライブカメラ / Tochigi City Council Live Camera</name>
+        <description><![CDATA[〒328-0015 栃木県栃木市万町９−２５ 栃木市役所 / Tochigi City Hall, 9-25 Yorozu, Tochigi City, Tochigi Prefecture 328-0015 <br>https://livecamera.fujiyamasan.com/tochigi-tochigi-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7341041,36.3825372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道67号桐生岩舟線富岡アンダーライブカメラ / Tochigi Prefectural Road 67 Kiryu Iwafune Line Tomioka Under Live Camera</name>
+        <description><![CDATA[栃木県佐野市富岡町 「栃木道路管理情報」/ Tomioka-cho, Sano City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-sano-tomioka-r67-tomiokaunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5874878,36.3131702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道151号堀米停車場線若松アンダーライブカメラ / Tochigi Prefectural Road 151 Horigome Stop Line Wakamatsu Under Live Camera</name>
+        <description><![CDATA[栃木県佐野市若松町「栃木道路管理情報」/ Wakamatsucho, Sano City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigo-sano-wakamatsu-r151-wakamatsuunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5799693,36.3221765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道270号佐野環状線大橋町アンダーライブカメラ / Tochigi Prefectural Road 270 Sano Loop Line Ohashicho Under Live Camera</name>
+        <description><![CDATA[栃木県佐野市大橋町「栃木道路管理情報」/ Ohashi-cho, Sano City, Tochigi Prefecture,  "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-sano-ohashi-r270-ohashiunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5652517,36.3160607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋山川大橋ライブカメラ / Akiyama River Ohashi Live Camera</name>
+        <description><![CDATA[栃木県佐野市大橋町 「栃木県県土整備部」/ Ohashi-cho, Sano City, Tochigi Prefecture,  "Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-sano-akiyama-river-ohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.569563,36.3133309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋山川伊保内新橋水位観測所ライブカメラ / Akiyama River Ihouchi Shimbashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[栃木県佐野市大古屋町「渡良瀬川河川事務所」/ Ogoya-cho, Sano City, Tochigi Prefecture, <br>"Watara Segawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-sano-ogoya-akiyama-river-ihouchishinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5787228,36.2791979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋山川岩鼻橋ライブカメラ / Akiyama River Iwahana Bridge Live Camera</name>
+        <description><![CDATA[栃木県佐野市水木町 「河川情報センター」/ Mizukicho, Sano City, Tochigi Prefecture,  "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sano-mizuki-akiyama-river-iwahana-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5521025,36.4734021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菊沢川菊沢川橋ライブカメラ / Kikusawa River Kikusawa River Bridge Live Camera</name>
+        <description><![CDATA[栃木県佐野市堀米町「河川情報センター」/ Horigome-cho, Sano City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sano-horigome-kikusawa-river-kikusawagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.565413,36.3267458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>歳川羽田大橋ライブカメラ / Saikawa Haneda Ohashi Live Camera</name>
+        <description><![CDATA[栃木県佐野市下羽田町「河川情報センター」/ Shimohaneda-cho, Sano City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sano-shimohaneda-saikawa-hanedaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5558503,36.2825667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道281号板荷引田線松坂トンネル板荷側ライブカメラ / Tochigi Prefectural Road No. 281 Itaga Hikida Line Matsuzaka Tunnel Itaga Side Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市板荷 「栃木道路管理情報」/ Itaga, Kanuma City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tokyo-kanuma-itaga-r281-matsusaka-tunenel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6860845,36.6166501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道281号引田引田線松坂トンネル引田側ライブカメラ / Tochigi Prefectural Road No. 281 Hikida Hikida Line Matsuzaka Tunnel Hikida Side Live Camera</name>
+        <description><![CDATA[〒322-0255 栃木県鹿沼市引田「栃木道路管理情報」/ Hikida, Kanuma City, Tochigi Prefecture 322-0255 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-hikida-r281-matsusaka-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6779737,36.6124217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川府中橋ライブカメラ / Kurokawa Fuchubashi Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市朝日町 府中橋 「河川情報センター」/ Fuchu Bridge, Asahi-cho, Kanuma City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-asahi-kurokawa-fuchu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7540902,36.5669993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川黒川橋ライブカメラ / Kurokawa Kurokawa Bridge Live Camera</name>
+        <description><![CDATA[〒322-0521 栃木県鹿沼市日光奈良部町「河川情報センター」/ Nikkonarabumachi, Kanuma City, Tochigi Prefecture 322-0521<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-nikkonarabu-kurokawa-kurokawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7552006,36.5309977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川天満橋ライブカメラ / Omoikawa Tenmanbashi Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市口粟野「河川情報センター」/ Kuchiawano, Kanuma City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-kuchiawano-omoikawa-tenman-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6790255,36.5164835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川清南橋ライブカメラ / Omoikawa Seinanbashi Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市久野「河川情報センター」/ Kuno, Kanuma City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-kuno-omoi-river-seinan-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7065419,36.5072899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武子川武子川橋ライブカメラ / Takeshi River Takeshi Kawabashi Live Camera</name>
+        <description><![CDATA[栃木県鹿沼市深津「河川情報センター」/ Fukazu, Kanuma City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kanuma-fukazu-takeshikawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8199003,36.5440636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道50号小山大橋ライブカメラ / National Highway No. 50 Koyama Ohashi Live Camera</name>
+        <description><![CDATA[栃木県小山市大行寺「宇都宮国道事務所」/ Daigyoji, Oyama City, Tochigi Prefecture,  "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-daigyoji-r50-oyamaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7842179,36.3099803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川46.75KP右岸ライブカメラ / Kinugawa 46.75KP right bank live camera</name>
+        <description><![CDATA[〒323-0157 栃木県小山市中河原 「河川情報センター」/ Nakagawara, Oyama City, Tochigi Prefecture 323-0157 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-nakagawara-kinugawa-46k-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.902098,36.3024631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川観晃橋ライブカメラ / Omoikawa Kankobashi Live Camera</name>
+        <description><![CDATA[〒323-0825 栃木県小山市小山 「栃木県県土整備部」/ Oyama, Oyama City, Tochigi Prefecture 323-0825 "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-chuo-omoikawa-kanko-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7983285,36.3165308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴波川中里水位観測所ライブカメラ / Uzuma River Nakazato Water Level Observatory Live Camera</name>
+        <description><![CDATA[栃木県小山市中里 「利根川上流河川事務所」/ Nakazato, Oyama City, Tochigi Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-nakazato-uzuma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7327554,36.2925214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊穂川新川橋ライブカメラ / Toyoho River Shinkawabashi Live Camera</name>
+        <description><![CDATA[〒323-0041 栃木県小山市大行寺「河川情報センター」/ Daigyoji, Oyama City, Tochigi Prefecture 323-0041 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-daigyoji-toyoho-river-shinkawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7885419,36.3146494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杣井木川杣井木泉橋ライブカメラ / Somaiki River Somaikiizumi Bridge Live Camera</name>
+        <description><![CDATA[栃木県小山市下泉「河川情報センター」/ Shimoizumi, Oyama City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-oyama-shimoizumi-somaiki-izumi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7332268,36.2995454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川砂ケ原橋下流ライブカメラ / Kinugawa Isagahara Bridge downstream live camera</name>
+        <description><![CDATA[〒321-4546 栃木県真岡市砂ケ原 「下館河川事務所」/ Isagahara, Moka City, Tochigi Prefecture 321-4546, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-moka-isagahara-kinugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9335506,36.3806841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川55.0KP左岸ライブカメラ / Kinugawa 55.0KP Left Bank Live Camera</name>
+        <description><![CDATA[〒321-4545 栃木県真岡市大道泉 「河川情報センター」/ Daidoizumi, Moka City, Tochigi Prefecture 321-4545 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-daidoizumi-kinugawa-55kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9257188,36.3702131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川63.75KP左岸ライブカメラ / Kinugawa 63.75KP left bank live camera</name>
+        <description><![CDATA[〒321-4365 栃木県真岡市柳林「河川情報センター」/ Yanagibayashi, Moka City, Tochigi Prefecture 321-4365 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-yanagibayashi-kinugawa-63kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9489205,36.4468274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川三谷水位観測所ライブカメラ / Kokaigawa Mitani Water Level Observatory Live Camera </name>
+        <description><![CDATA[栃木県真岡市高田 「下館河川事務所」/ Takada, Moka City, Tochigi Prefecture "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-moka-takada-kokai-river-mitani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0313752,36.3920503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川70.2KP左岸ライブカメラ / Kokai River 70.2KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県真岡市水戸部 「河川情報センター」/ Mitobe, Moka City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-mitobe-kokai-river-70-2kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0239499,36.3832637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川70.5KP右岸ライブカメラ / Kokai River 70.5KP Right Bank Live Camera</name>
+        <description><![CDATA[栃木県真岡市高田 「河川情報センター」/ Takada, Moka City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-takada-kokai-river-70-5-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0251194,36.3860276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川73.6KP右岸ライブカメラ / Kokai River 73.6KP Right Bank Live Camera</name>
+        <description><![CDATA[栃木県真岡市東大島「河川情報センター」/ Higashioshima, Moka City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-higashioshima-kokai-river-73-6kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0363956,36.410644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川74.2KP左岸ライブカメラ / Kokai River 74.2KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県真岡市道祖土「河川情報センター」/ Sayado, Moka City, Tochigi Prefecture,<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-sayado-kokai-river-74-2kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.04214,36.4128067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川78.15KP右岸ライブカメラ / Kokai River 78.15 KP Right Bank Live Camera</name>
+        <description><![CDATA[栃木県真岡市根本「河川情報センター」/ Nemoto, Moka City, Tochigi Prefecture,<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-moka-nemoto-kokai-river-78-15kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0672461,36.4329105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川妹内橋ライブカメラ / Gogyogawa Imotonai Bridge Live Camera</name>
+        <description><![CDATA[栃木県真岡市荒町 「栃木県県土整備部」/ Aramachi, Moka City, Tochigi Prefecture "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-moka-aramachi-gogyo-river-imotonai-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0171064,36.4414455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川阿久津大橋ライブカメラ / Kinugawa Akutsu Ohashi Live Camera</name>
+        <description><![CDATA[栃木県さくら市上阿久津 阿久津大橋 「下館河川事務所」/ Akutsu Ohashi, Kamiakutsu, Sakura City, Tochigi Prefecture,  "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-kamiakutsu-kinugawa-akutsu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.954838,36.6527086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川大中水位観測所ライブカメラ / Kinugawa Onaka Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒329-1325 栃木県さくら市大中「下館河川事務所」/ Onaka, Sakura City, Tochigi Prefecture  329-1325, "Shimodate River Office"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-onaka-kinugawa-91-5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9507887,36.681828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川87.0KP左岸ライブカメラ / Kinugawa 87.0KP Left Bank Live Camera</name>
+        <description><![CDATA[〒329-1316 栃木県さくら市上阿久津 「河川情報センター」/ Kamiakutsu, Sakura City, Tochigi Prefecture 329-1316 "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-kamiakutsu-kinugawa-87kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9597623,36.6524849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川氏家体育館脇ライブカメラ / Gogyogawa Ujiie gymnasium side live camera</name>
+        <description><![CDATA[栃木県さくら市氏家「河川情報センター」/ Ujiie, Sakura City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-ujiie-gogyo-river-gymnasium.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9683712,36.6863553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川旭橋ライブカメラ / Uchikawa Asahibashi Live Camera</name>
+        <description><![CDATA[栃木県さくら市喜連川「河川情報センター」/ Kitsuregawa, Sakura City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-kitsuregawa-uchikawa-asahi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0319146,36.7176652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川連城橋ライブカメラ / Arakawa Renjobashi Live Camera</name>
+        <description><![CDATA[〒329-1412 栃木県さくら市喜連川 「栃木県県土整備部」/ Kitsuregawa, Sakura City, Tochigi Prefecture 329-1412, "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-kitsuregawa-arakawa-renjo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0264395,36.7146773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川江川橋ライブカメラ / Egawa Egawabashi live camera</name>
+        <description><![CDATA[栃木県さくら市金枝 「河川情報センター」/ Kanaeda, Sakura City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-sakura-kanaeda-egawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0377977,36.7403777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道宇都宮那須烏山線高瀬トンネル東側ライブカメラ / Tochigi Prefectural Road Utsunomiya Nasu Karasuyama Line Takase Tunnel East Side Live Camera</name>
+        <description><![CDATA[〒321-0632 栃木県那須烏山市神長 「栃木道路管理情報」/ Kanaga, Nasukarasuyama City, Tochigi Prefecture 321-0632 "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1233637,36.6557947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道宇都宮那須烏山線高瀬トンネル西側ライブカメラ / Tochigi Prefectural Road Utsunomiya Nasu Karasuyama Line Takase Tunnel West Side Live Camera</name>
+        <description><![CDATA[〒321-0632 栃木県那須烏山市神長 「栃木道路管理情報」/ Kanaga, Nasukarasuyama City, Tochigi Prefecture 321-0632 "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1179778,36.6528768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川興野大橋ライブカメラ / Nakagawa Kyono Ohashi Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市滝田 「国土交通省川の防災情報」/ Takita, Nasukarasuyama City, Tochigi Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-takita-nakagawa-kyonoohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1603378,36.6652336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川大桶ライブカメラ / Nakagawa Ooke Live Camera</name>
+        <description><![CDATA[〒321-0602 栃木県那須烏山市大桶「国土交通省川の防災情報」/ Ooke, Nasukarasuyama City, Tochigi Prefecture 321-0602, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-ooke-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1486558,36.7210533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川59.5KP左岸ライブカメラ / Nakagawa 59.5KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市下境 「河川情報センター」/ Shimozakai, Nasukarasuyama City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-shimozakai-nakagawa-59-5-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1677308,36.6183497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川60.5KP左岸ライブカメラ / Nakagawa 60.5KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市下境 「河川情報センター」/ Shimozakai, Nasukarasuyama City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-shimozakai-nakagawa-60-5kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1660893,36.622328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川61.5KP左岸ライブカメラ /  / Nakagawa 61.5KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市下境 「河川情報センター」/ Shimozakai, Nasukarasuyama City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-shimozakai-nakagawa-61-5kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1614275,36.6291158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川66.5KP左岸ライブカメラ / / Nakagawa 66.5KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市大沢 「河川情報センター」/　Osawa, Nasukarasuyama City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-osawa-nakagawa-66-5kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1773726,36.6611167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川68.0KP右岸ライブカメラ / Nakagawa 68.0KP right bank live camera</name>
+        <description><![CDATA[栃木県那須烏山市表 「河川情報センター」/ Omote, Nasukarasuyama-shi, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-omote-nakagawa-68kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1616881,36.6593251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川76.0KP右岸ライブカメラ / Nakagawa 76.0KP right bank live camera</name>
+        <description><![CDATA[栃木県那須烏山市大桶「河川情報センター」/ Ooke, Nasukarasuyama City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-ooke-nakagawa-76kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1586805,36.7109921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川向田橋ライブカメラ / Arakawa Mukadabashi Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市向田 「河川情報センター」/ Mukada, Nasukarasuyama City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-mukada-arakawa-mukada-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1533003,36.6211489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川藤田橋ライブカメラ / Arakawa Fujitabashi Live Camera</name>
+        <description><![CDATA[〒321-0532 栃木県那須烏山市藤田 藤田橋 「河川情報センター」/ Fujita Bridge,  Fujita, Nasukarasuyama City, Tochigi Prefecture 321-0532, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-fujita-arakawa-fujita-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0820055,36.6796167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川新橋ライブカメラ / Egawa Shimbashi Live Camera</name>
+        <description><![CDATA[栃木県那須烏山市向田「河川情報センター」/ Mukada, Nasukarasuyama City, Tochigi Prefecture, "River Information Center"<br> https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-mukada-egawa-shinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1530605,36.6254104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川江川橋ライブカメラ / Egawa Egawabashi live camera</name>
+        <description><![CDATA[〒321-0503 栃木県那須烏山市月次 江川橋 「河川情報センター」/ Egawa Bridge,  Nasukarasuyama City, Tochigi Prefecture 321-0503, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nasukarasuyama-tsukinami-egawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1304654,36.6674921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川62.5KP右岸ライブカメラ / Kinugawa 62.5KP right bank live camera</name>
+        <description><![CDATA[栃木県上三川町上郷 「河川情報センター」/ Kamigo, Kaminokawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-kaminokawa-kamigo-kinugawa-62-5kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9343509,36.4365671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山広域保健衛生組合リサイクルセンターライブカメラ / Oyama Wide Area Health and Sanitation Association Recycling Center Live Camera</name>
+        <description><![CDATA[〒323-0115 栃木県下野市下坪山１６３２ 小山広域保健衛生組合　リサイクルセンター / Oyama Wide Area Health and Sanitation Association Recycling Center, 1632 Shimotsuboyama, Shimotsuke City, Tochigi Prefecture 323-0115<br>https://livecamera.fujiyamasan.com/tochigi-oyama-shimotsuboyama-recycle-center.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8724715,36.3646411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川55.0KP右岸ライブカメラ / Kinugawa 55.0KP right bank live camera</name>
+        <description><![CDATA[栃木県下野市本吉田 「河川情報センター」/ Motoyoshida, Shimotsuke City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tohigi-shimotsuke-motoyoshida-kinugawa-55kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9189364,36.3742717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川町田橋ライブカメラ / Tagawa Machida Bridge Live Camera</name>
+        <description><![CDATA[〒329-0422 栃木県下野市町田 町田橋「河川情報センター」/ Machida Bridge, Machida, Shimotsuke City, Tochigi Prefecture 329-0422, <br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-shimotsuke-machida-tagawa-machida-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8955299,36.4066589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小貝川塙橋ライブカメラ / Kokaigawa Hanawa Bridge Live Camera</name>
+        <description><![CDATA[〒321-4217 栃木県芳賀郡益子町益子「栃木県県土整備部」/ Mashiko, Mashiko-cho, Haga-gun, Tochigi Prefecture 321-4217, "Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-mashiko-mashiko-kokai-river-hanawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1060931,36.4583521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道123号馬門の滝ライブカメラ / National Highway No. 123 Makado Waterfall Live Camera</name>
+        <description><![CDATA[〒321-3562 栃木県芳賀郡茂木町馬門 馬門の滝 「栃木道路管理情報」/ Makado Falls, Makado, Motegi-cho, Haga-gun, Tochigi Prefecture 321-3562, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-makado-r123-makadonotaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2247203,36.5478483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川新那珂川橋ライブカメラ / Nakagawa Shin Nakagawabashi Live Camera</name>
+        <description><![CDATA[栃木県茂木町飯野 「常陸河川国道事務所」/ Iino, Motegi Town, Tochigi Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-iino-nakagawa-shinnakagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2432013,36.5621896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川大瀬ライブカメラ / Nakagawa Ose Live Camera</name>
+        <description><![CDATA[栃木県茂木町大瀬 「常陸河川国道事務所」/ Ose, Motegi Town, Tochigi Prefecture, "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-ose-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1909982,36.5751362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川逆川橋ライブカメラ / Sakagawa Sakagawabashi live camera</name>
+        <description><![CDATA[栃木県茂木町飯 「茂木町役場」/ Ii, Motegi Town, Tochigi Prefecture, "Motegi Town Hall"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-ii-sakagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1802169,36.4617265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川新十石橋ライブカメラ / Sakagawa Shinjukkokubashi Live Camera</name>
+        <description><![CDATA[栃木県茂木町茂木 「茂木町役場」/ Motegi, Motegi Town, Tochigi Prefecture "Motegi Town Office"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-motegi-sakagawa-shinjukkoku-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1734136,36.527219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川木幡大橋ライブカメラ / Sakagawa Kibata Ohashi Live Camera</name>
+        <description><![CDATA[栃木県茂木町木幡 「栃木県県土整備部」/ Kibata, Motegi Town, Tochigi Prefecture, "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-kibata-sakagawa-kibata-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1594399,36.5049795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>逆川伊川勢橋ライブカメラ / Sakagawa Ikawasebashi Live Camera</name>
+        <description><![CDATA[栃木県茂木町飯野「茂木町役場」/ Iino, Motegi Town, Tochigi Prefecture "Motegi Town Office"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-iino-sakagawa-ikawase-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2418396,36.5573281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木須川白帆橋ライブカメラ / Kisugawa Shirahobashi Live Camera</name>
+        <description><![CDATA[栃木県茂木町牧野「茂木町役場」/ Magino, Motegi Town, Tochigi Prefecture "Motegi Town Office"<br>https://livecamera.fujiyamasan.com/tochigi-motegi-magino-kisugawa-shiraho-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2181072,36.577765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川五行橋ライブカメラ / Gogyo River Gogyo Bridge Live Camera</name>
+        <description><![CDATA[栃木県芳賀町上延生 「河川情報センター」/ Kaminobu, Haga Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-haga-kaminobu-gogyo-river-gogyo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0567833,36.5534371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五行川両郡橋ライブカメラ / Gogyogawa Ryogunbashi Live Camera</name>
+        <description><![CDATA[栃木県芳賀町芳志戸「河川情報センター」/ Hoshito, Haga Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-haga-hoshito-gogyo-river-gogyo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0449461,36.5985282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川黒川橋ライブカメラ / Kurokawa Kurokawa Bridge Live Camera</name>
+        <description><![CDATA[栃木県壬生町羽生田「河川情報センター」/ Hanyuda, Mibu Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-mibu-hanyuda-kurokawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7706632,36.4744268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川東雲橋ライブカメラ / Kurokawa Shinonome Bridge Live Camera</name>
+        <description><![CDATA[〒321-0228 栃木県下都賀郡壬生町大師町 「栃木県県土整備部」/ Daishi-cho, Mibu-cho, Shimotsuga-gun, Tochigi Prefecture 321-0228<br>"Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-mibumachi-daishicho-kurokawa-shinonome-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.802278,36.4331848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川藤井橋ライブカメラ / Kurokawa Fujii Bridge Live Camera</name>
+        <description><![CDATA[栃木県壬生町藤井「河川情報センター」/ Fujii, Mibu Town, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-mibu-fujii-kurokawa-fujii-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8116259,36.4182411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川学童橋ライブカメラ / Kurokawa Gakudobashi Live Camera</name>
+        <description><![CDATA[〒321-0234 栃木県下都賀郡壬生町羽生田 「壬生町役場」/ Hanyuda, Mibu-cho, Shimotsuga-gun, Tochigi Prefecture 321-0234 "Mibu-cho government office"<br>https://livecamera.fujiyamasan.com/tochigi-shimotsuga-mibu-disaster-prevention.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7781446,36.4660107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒川地蔵橋ライブカメラ / Kurokawa Jizobashi Live Camera</name>
+        <description><![CDATA[〒321-0219 栃木県下都賀郡壬生町福和田 「壬生町役場」 / Fukuwata, Mibu-cho, Shimotsuga-gun, Tochigi Prefecture 321-0219 "Mibu-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.790695,36.4524798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恵川ライブカメラ / Egawa Live Camera</name>
+        <description><![CDATA[〒321-0219 栃木県下都賀郡壬生町福和田「壬生町役場」 / Fukuwata, Mibu-cho, Shimotsuga-gun, Tochigi Prefecture 321-0219 "Mibu-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.790771,36.4615336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姿川淀橋ライブカメラ / Sugata River Yodobashi Live Camera</name>
+        <description><![CDATA[栃木県壬生町安塚 「栃木県県土整備部」/ Yasuzuka, Mibu Town, Tochigi Prefecture "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-mibu-yasuzuka-sugata-river-yodobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8322758,36.500882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川松原大橋上流水位監視ライブカメラ / Omoikawa Matsubara Ohashi upstream water level monitoring live camera</name>
+        <description><![CDATA[栃木県野木町友沼「利根川上流河川事務所」/ Tomonuma, Nogi Town, Tochigi Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/tochigi-nogi-tomonuma-omigawa-matsubaraohashi-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7234101,36.2422708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>思川1.9KP右岸ライブカメラ / Omoigawa 1.9KP right bank live camera</name>
+        <description><![CDATA[栃木県野木町友沼「河川情報センター」/ Tomonuma, Nogi Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nogi-tomonuma-omoigawa-1-9kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.732157,36.2473578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川83.5KP左岸ライブカメラ / Kinugawa 83.5KP left bank live camera</name>
+        <description><![CDATA[栃木県高根沢町宝積寺「河川情報センター」/ Hoshakuji, Takanezawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-takanezawa-hoshakuji-kinugawa-83-5p-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9745969,36.6136734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川86.25KP左岸ライブカメラ / Kinugawa 86.25KP Left Bank Live Camera</name>
+        <description><![CDATA[栃木県高根沢町中阿久津「河川情報センター」/ Nakaakutsu, Takanezawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-takanezawa-nakaakutsu-kinugawa-86-25kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9617314,36.6373237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川若鮎大橋ライブカメラ / Nakagawa Wakaayu Ohashi Live Camera</name>
+        <description><![CDATA[〒324-0617 栃木県那須郡那珂川町北向田 「常陸河川国道事務所」/ Kitamukada, Nakagawa-cho, Nasu-gun, Tochigi Prefecture 324-0617 "Hitachi River National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-kitamukada-wakaayu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1391259,36.7500896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川73.5KP左岸ライブカメラ / Nakagawa 73.5KP left bank live camera</name>
+        <description><![CDATA[栃木県那珂川町富山 「河川情報センター」/ Tomiyama, Nakagawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-tomiyama-nakagawa-73-5kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1669126,36.6930819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川81.0KP右岸ライブカメラ / Nakagawa 81.0KP right bank live camera</name>
+        <description><![CDATA[栃木県那珂川町吉田「河川情報センター」/ Yoshida, Nakagawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-yoshida-nakagawa-81kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1372422,36.7497125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川84.5KP右岸ライブカメラ / Nakagawa 84.5KP right bank live camera</name>
+        <description><![CDATA[栃木県那珂川町小川「河川情報センター」/ Ogawa, Nakagawa Town, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nakagawa-ogawa-nakagawa-84-5kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1319256,36.7795741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅日光駐車場ライブカメラ / Roadside Station Nikko Parking Live Camera</name>
+        <description><![CDATA[〒321-1261 栃木県日光市今市７１９−１ 道の駅日光 日光街道ニコニコ本陣 / Road Station Nikko Nikko Kaido Nico Nico Honjin, 719-1 Imaichi, Nikko City, Tochigi Prefecture 321-1261<br>https://livecamera.fujiyamasan.com/tochigi-nikko-imaichi-michinoeki-nikko-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6877551,36.7247726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光霧降高原キスゲ平ライブカメラ / Nikko Kirifuri Kogen Kisugedaira Live Camera</name>
+        <description><![CDATA[〒321-1421 栃木県日光市所野１５３１ 日光市霧降高原 キスゲ平園地 「daira kisuge」/ Nikko City Kirifuri Kogen Kisuge Plains, 1531 Tokorono, Nikko City, Tochigi Prefecture 321-1421, "Daira kisuge"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-tokorono-kisugedaira.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5927644,36.8071131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光さる軍団猿山ライブカメラ / Nikko Saru Gundan Saruyama Live Camera </name>
+        <description><![CDATA[〒321-2524 栃木県日光市柄倉７６３ 日光さる軍団 / Nikko Saru Gundan, 763 Karakura, Nikko City, Tochigi Prefecture 321-2524 <br>https://livecamera.fujiyamasan.com/tochigi-nikko-karakura-nikko-saru-gundan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7020961,36.7830544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZENリゾート日光男体山・中禅寺湖ライブカメラ / ZEN Resort Nikko Nantaisan and Lake Chuzenji Live Camera</name>
+        <description><![CDATA[〒321-1661 栃木県日光市中宮祠２４８２ ZEN RESORT NIKKO /  ZEN RESORT NIKKO, 2482 Chugushi, Nikko City, Tochigi Prefecture 321-1661 <br>https://livecamera.fujiyamasan.com/tochigi-nikko-chugujshi-zen-resort-nikko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4945788,36.7349998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光白根山歌ヶ浜ライブカメラ / Nikko-Shirane Utagahama Live Camera</name>
+        <description><![CDATA[栃木県日光市中宮祠 「気象庁」/ Chugushi, Nikko City, Tochigi Prefecture "Japan Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4924865,36.729566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光二荒山神社奥宮男体山山頂ライブカメラ / Nikko Futarasan Shrine Okumiya Mt. Nantai Live Camera</name>
+        <description>〒321-1661 栃木県日光市中宮祠 日光二荒山神社奥宮 / Nikko Futarasan Shrine Okumiya, Chugushi, Nikko City, Tochigi Prefecture, 321-1661</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4899736,36.7647128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道119号宝殿アンダーライブカメラ / National Highway No. 119 Hoden Under Live Camera</name>
+        <description><![CDATA[栃木県日光市宝殿 「栃木道路管理情報」/ Hoden, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-hoden-r119-hodenunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.625231,36.7451137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道120号中宮祠ライブカメラ / National Highway No. 120 Chugushi Live Camera</name>
+        <description><![CDATA[〒321-1661 栃木県日光市中宮祠 「栃木道路管理情報」/ Chugushi, Nikko City, Tochigi Prefecture 321-1661 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-chugushi-r120.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4262684,36.7687228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道120号湯元ライブカメラ / National Highway No. 120 Yumoto Live Camera</name>
+        <description><![CDATA[〒321-1662 栃木県日光市湯元 「栃木道路管理情報」/ Yumoto, Nikko City, Tochigi Prefecture 321-1662 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-yumoto-r120.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.416105,36.8097104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道120号清滝ライブカメラ / National Highway No. 120 Kiyotaki Live Camera</name>
+        <description><![CDATA[〒321-1444 栃木県日光市清滝 「栃木道路管理情報」/ Kiyotaki, Nikko City, Tochigi Prefecture 321-1444 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kiyotaki-r120.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5547333,36.7343071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道120号藤原ライブカメラ / National Highway No. 120 Fujiwara Live Camera</name>
+        <description><![CDATA[栃木県日光市藤原  「栃木道路管理情報」/ Fujihara, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-fujiwara-121-mitsuiwa-tunnel-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7008678,36.8783082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号日光横川ライブカメラ / National Highway No. 121 Nikko Yokokawa Live Camera</name>
+        <description><![CDATA[〒321-2801 栃木県日光市横川 「栃木道路管理情報」/ Yokokawa, Nikko City, Tochigi Prefecture 321-2801 "Tochigi Road Management Information" https://livecamera.fujiyamasan.com/tochigi-nikko-yokokawa-r121.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7626523,37.0597862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号中三依ライブカメラ / National Highway No. 121 Nakamiyori Live Camera</name>
+        <description><![CDATA[〒321-2803 栃木県日光市中三依 「栃木道路管理情報」/ Nakamiyori, Nikko City, Tochigi Prefecture 321-2803 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-nakamiyori-r121.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6809281,37.0264863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号平ケ崎アンダーライブカメラ /  National Highway No. 121 Hiragasaki Under Live Camera</name>
+        <description><![CDATA[〒321-1262 栃木県日光市平ケ崎「栃木道路管理情報」/ Hiragasaki, Nikko City, Tochigi Prefecture 321-1262 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-hiragasaki-r121-hiragasaki-under.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.678376,36.7156583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道121号瀬川アンダーライブカメラ / National Highway No. 121 Segawa Under Live Camera</name>
+        <description><![CDATA[栃木県日光市瀬川「栃木道路管理情報」/ Segawa, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tchigi-nikko-segawa-r121-segawaunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6859296,36.7272064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道122号銅庚申アンダーライブカメラ / National Highway No. 122 Akaganekoshin Under Live Camera</name>
+        <description><![CDATA[栃木県日光市足尾町「栃木道路管理情報」/ Ashiomachi, Nikko City, Tochigi Prefecture<br>"Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-ashio-r122-akaganekoshin-under.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4264533,36.6226515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道400号尾頭トンネル三依側ライブカメラ / National highway No. 400 Ogashira tunnel Miyori side live camera</name>
+        <description><![CDATA[栃木県日光市上三依「栃木道路管理情報」/ Kamimiyori, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kamimiyori-r400-ogashira-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7419258,37.0065329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道23号川俣温泉川治線川俣ライブカメラ / Tochigi Prefectural Road No. 23 Kawamata Onsen Kawamata Line Kawamata Live Camera</name>
+        <description><![CDATA[〒321-2717 栃木県日光市川俣「栃木道路管理情報」/ Kawamata, Nikko City, Tochigi Prefecture 321-2717 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kawamata-r23.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4669396,36.8937794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道23号川俣温泉川治線黒部ライブカメラ / Tochigi Prefectural Road No. 23 Kawamata Onsen Kawaji Line Kurobe Live Camera</name>
+        <description><![CDATA[〒321-2713 栃木県日光市黒部「栃木道路管理情報」/ Kurobe, Nikko City, Tochigi Prefecture 321-2713 "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kurobe-r23.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5967682,36.8724441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道23号川俣温泉川治線愛宕山トンネル東ライブカメラ / Tochigi Prefectural Road No. 23 Kawamata Onsen Kawaji Line Atagoyama Tunnel East Live Camera</name>
+        <description><![CDATA[栃木県日光市黒部「栃木道路管理情報」/ Kurobe, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kurobe-r23-atagoyama-tunnel-east.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6017574,36.8665586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道23号川俣温泉川治線愛宕山トンネル西ライブカメラ</name>
+        <description><![CDATA[栃木県日光市上栗山「栃木道路管理情報」/ Kamikuriyama, Nikko City, Tochigi Prefecture "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kamikuriyama-r23-atago-tunnel-west.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5927106,36.8676801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道110号下野大沢停車場線大沢アンダーライブカメラ / Tochigi Prefectural Road 110 Shimono Osawa Stop Line Osawa Under Live Camera</name>
+        <description><![CDATA[〒321-2345 栃木県日光市木和田島「栃木道路管理情報」/ Kiwadashima, Nikko City, Tochigi Prefecture, 321-2345, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kiwadajima-r110-osawa-under.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7473204,36.6869934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡良瀬川通洞大橋ライブカメラ / Watarasegawa Tsudo Ohashi Live Camera</name>
+        <description><![CDATA[栃木県日光市足尾町「栃木道路管理情報」/ Ashiomachi, Nikko City, Tochigi Prefecture<br>"Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-ashio-watarase-tsuudo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4408391,36.6334395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川田川橋ライブカメラ / Tagawa Tagawabashi live camera</name>
+        <description><![CDATA[栃木県日光市木和田島 「河川情報センター」/ Kiwadashima, Nikko City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kiwadashima-tagawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.740241,36.687586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行川赤行橋ライブカメラ / Gyokawa Akanamebashi Live Camera</name>
+        <description><![CDATA[栃木県日光市小代「河川情報センター」/ Koshiro, Nikko City, Tochigi Prefecture<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-koshiro-gyokawa-akaname-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7153414,36.6450929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松木川松木川上流ライブカメラ / Matsuki River Matsuki River upstream live camera</name>
+        <description><![CDATA[〒321-1511 栃木県日光市足尾町「渡良瀬川河川事務所」/ Ashiomachi, Nikko City, Tochigi Prefecture 321-1511, "Watara Segawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-ashio-matsuki-river-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3856256,36.6797225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松木川足尾ダム左岸ライブカメラ / Matsugi River Ashio Dam Left Bank Live Camera</name>
+        <description><![CDATA[〒321-1511 栃木県日光市足尾町８８５ 足尾砂防堰堤 「渡良瀬川河川事務所」/ Ashio Sabo Dam, 885 Ashiomachi, Nikko City, Tochigi Prefecture 321-1511,  "Watarasegawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-ashio-matsuki-river-ashio-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4405258,36.676738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古大谷川R121号橋ライブカメラ / Furudaiya River R121 Bridge Live Camera</name>
+        <description><![CDATA[栃木県日光市川室「河川情報センター」/ Kawamuro, Nikko City, Tochigi Prefecture, "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-kawamuro-furudaiya-r121.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7157895,36.7585747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神子内川黒沢川合流点ライブカメラ / Mikouchi River Kurosawa River Confluence Live Camera</name>
+        <description><![CDATA[〒321-1511 栃木県日光市足尾町 「渡良瀬川河川事務所」/ Ashiomachi, Nikko City, Tochigi Prefecture 321-1511, "Watara Segawa River Office"<br>https://livecamera.fujiyamasan.com/tochigi-nikko-ashio-mikouchi-kurosawa-confuluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3856256,36.6797225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箒川かさね橋河川監視ライブカメラ / Hokigawa Kasane Bridge River Surveillance Live Camera</name>
+        <description><![CDATA[栃木県大田原市薄葉 「栃木県県土整備部」/ Usuba, Otawara City, Tochigi Prefecture, "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-usuba-hoki-river-kasane-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9650355,36.8249643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蛇尾川町島大橋ライブカメラ / Sabigawa Machishima Ohashi Live Camera </name>
+        <description><![CDATA[栃木県大田原市中田原「栃木県県土整備部」/ Nakadawara, Otawara City, Tochigi Prefecture, "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-nakadawara-sabi-river-machishimaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0296803,36.8787094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武茂川高取橋河川監視ライブカメラ / Mumo River Takatori Bridge River Surveillance Live Camera</name>
+        <description><![CDATA[栃木県大田原市南方 「大田原市役所」/ Nanbo, Otawara City, Tochigi Prefecture, "Otawara City Hall"<br>https://livecamera.fujiyamasan.com/tochigi-otawara-nanbo-mumo-river-takatori-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2282971,36.8983595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百村川百村中橋ライブカメラ / Momura River Momura Nakabashi Live Camera</name>
+        <description><![CDATA[栃木県大田原市滝岡「河川情報センター」/ Takioka, Otawara City, Tochigi Prefecture "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0313554,36.8180865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道矢板北パーキングエリア下りライブカメラ / Tohoku Expressway Yaita Kita Parking Area Down Live Camera</name>
+        <description><![CDATA[〒329-2124 栃木県矢板市下太田 矢板北ＰＡ（下り）「NEXCO東日本」/ Yaita Kita PA (down), Shimoota, Yaita City, Tochigi Prefecture 329-2124, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/tochigi-yaita-shimoota-yaitakita-pa-down.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9082555,36.8221348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川下太田橋ライブカメラ / Nakagawa Shimootabashi Live Camera</name>
+        <description><![CDATA[栃木県矢板市下太田「河川情報センター」/ Shimoota, Yaita City, Tochigi Prefecture "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-yaita-shimoota-nakagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9125356,36.820234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号那須野橋ライブカメラ / National highway No. 4 Nasunobashi live camera</name>
+        <description><![CDATA[栃木県那須塩原市東遅沢 「宇都宮国道事務所」/ Higashiosozawa, Nasushiobara City, Tochigi Prefecture "Utsunomiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0006355,36.9173475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道400号中塩原ライブカメラ / National Highway No. 400 Nakashiobara Live Camera</name>
+        <description><![CDATA[栃木県那須塩原市中塩原「宇都宮国道事務所」/ Nakashiobara, Nasushiobara City, Tochigi Prefecture, "Utsunomiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8018235,36.9766022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道400号がま石トンネル関谷側・塩原側ライブカメラ / National highway No. 400 Gamaishi tunnel Sekiya side / Shiobara side live camera</name>
+        <description><![CDATA[〒329-2801 栃木県那須塩原市関谷 がま石トンネル「栃木道路管理情報」/ Gamaishi Tunnel, Sekiya, Nasushiobara City, Tochigi Prefecture 329-2801,  "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8755867,36.9663845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道400号尾頭トンネル塩原側ライブカメラ / National highway No. 400 Ogashira tunnel Shiobara side live camera</name>
+        <description><![CDATA[栃木県那須塩原市上塩原 「宇都宮国道事務所」/ Kamishiobara, Nasushiobara City, Tochigi Prefecture "Utsunomiya National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.758423,36.9944432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道53号大田原高林線東那須野西通りアンダーライブカメラ / Tochigi Prefectural Road 53 Otahara Takabayashi Line Higashi Nasuno Nishidori Under Live Camera</name>
+        <description><![CDATA[〒329-3153 栃木県那須塩原市大原間 「栃木道路管理情報」/ Oharama, Nasushiobara City, Tochigi Prefecture 329-3153, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0182033,36.9270445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道259号折戸西那須野線接骨木アンダーライブカメラ / Tochigi Prefectural Road 259 Orito Nishinasuno Line Niwatoko Under Live Camera</name>
+        <description><![CDATA[栃木県那須塩原市接骨木「栃木道路管理情報」/ Niwatoko, Nasushiobara City, Tochigi Prefecture, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.964116,36.9340946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道266号中塩原板室那須線板室ライブカメラ / Tochigi Prefectural Road No. 266 Nakashio Original Itamuro Nasu Line Itamuro Live Camera</name>
+        <description><![CDATA[〒325-0111 栃木県那須塩原市板室「栃木道路管理情報」/ Itamuro, Nasushiobara City, Tochigi Prefecture 325-0111, "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9425746,37.0727217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箒川明神橋ライブカメラ / Hokigawa Myojinbashi Live Camera</name>
+        <description><![CDATA[〒329-2924 栃木県那須塩原市中塩原 「河川情報センター」/ Nakashiobara, Nasushiobara City, Tochigi Prefecture 329-2924, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8029286,36.979482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼怒川100.25KP左岸ライブカメラ / Kinugawa 100.25KP left bank live camera</name>
+        <description><![CDATA[栃木県塩谷町上平 「河川情報センター」/ Uwadaira, Shioya Town, Tochigi Prefecture,  "River Information Center"<br>https://livecamera.fujiyamasan.com/tochigi-shioya-kinugawa-100-25kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8708013,36.7294587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテル森の風那須ライブカメラ / Hotel Mori no Kaze Nasu Live Camera</name>
+        <description><![CDATA[〒325-0302 栃木県那須郡那須町高久丙１１８５−２　ホテル森の風那須 / Hotel Mori no Kaze Nasu, 1185-2 Takakuhei, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0302 <br>https://livecamera.fujiyamasan.com/tochigi-nasu-hotel-morinokaze-nasu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.040665,37.0502453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須どうぶつ王国ウェットランドライブカメラ / Nasu Animal Kingdom Wetland Live Camera</name>
+        <description><![CDATA[〒329-3223 栃木県那須郡那須町大島１０４２−１ 那須どうぶつ王国 / Nasu Animal Kingdom,  1042-1 Oshima, Nasu-machi, Nasu-gun, Tochigi Prefecture 329-3223 <br>https://livecamera.fujiyamasan.com/tochigi-nasu-animal-kingdom-wetland.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.037143,37.129025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ペンションストリームライブカメラ / Pension Stream Live Camera</name>
+        <description><![CDATA[〒325-0301 栃木県那須郡那須町湯本７６６ ペンション ストリーム 「那 須 の 窓」/ Pension Stream, 766 Yumoto, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0301,  "Window of Nasu"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-yumoto-pension-stream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0090003,37.0631877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須岳日の出平北ライブカメラ / Nasudake Hinode Hirakita live camera</name>
+        <description><![CDATA[〒325-0301 栃木県那須郡那須町湯本 「気象庁」/ Yumoto, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0301, "Japan Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-nasudake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9674551,37.1067031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須平成の森那須岳ライブカメラ / Nasu Heisei no Mori Nasudake Live Camera</name>
+        <description><![CDATA[栃木県那須郡那須町高久丙3254　那須平成の森フィールドセンター「インターネット自然研究所」/ Nasu Heisei no Mori Field Center, 3254 Takakuhei, Nasu-machi, Nasu-gun, Tochigi Prefecture,  "Internet Nature Research Institute"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-nasudake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0083604,37.1174547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須岳那須ロープウェイ山麓駅ライブカメラ / Mt. Nasu Nasu Ropeway Sanroku Station Live Camera</name>
+        <description><![CDATA[〒325-0301 栃木県那須郡那須町湯本字那須岳215　那須ロープウェイ山麓駅 「栃木県県土整備部」/ Nasu Ropeway Sanroku Station, 215 Nasudake, Yumoto, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0301,<br>"Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-nasudake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9792838,37.1254761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須岳那須共同牧場ライブカメラ / Mt. Nasu Nasu Joint Ranch Live Camera</name>
+        <description><![CDATA[〒329-3223 栃木県那須郡那須町大島１９８８ 那須町 共同利用模範牧場 「栃木県県土整備部」/ Nasu Town Shared Use Model Ranch, 1988 Oshima, Nasu-machi, Nasu-gun, Tochigi Prefecture 329-3223, "Tochigi Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-nasudake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.041419,37.123031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北自動車道那須高原サービスエリア下りライブカメラ / Tohoku Expressway Nasu Kogen service area down live camera</name>
+        <description><![CDATA[〒329-3225 栃木県那須郡那須町豊原丙２３１８−６ 那須高原SA (下り) 「NEXCO東日本」/ Nasu Kogen SA (down) , 2318-6 Toyoharahei, Nasu-machi, Nasu-gun, Tochigi Prefecture 329-3225, "NEXCO East Japan"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-tohoku-expressway-nasukogen-sa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0997389,37.0568391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号栃福橋南ライブカメラ / National highway No. 4 Tochifukubashi south live camera</name>
+        <description><![CDATA[〒329-3224 栃木県那須郡那須町豊原乙 「宇都宮国道事務所」/ Toyoharaotsu, Nasu-machi, Nasu-gun, Tochigi 329-3224, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-r4-tochifuku-bridge-south.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1266591,37.0848914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号弓落中ライブカメラ / National highway No. 4 Yumiochinaka live camera</name>
+        <description><![CDATA[〒325-0001 栃木県那須郡那須町高久甲  「宇都宮国道事務所」/ Takakuko, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0001, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-takakuko-r4.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0495725,37.0131208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号栃福橋ライブカメラ / National highway No. 4 Tochifukubashi live camera</name>
+        <description><![CDATA[栃木県那須町豊原「宇都宮国道事務所」/ Toyohara, Nasu Town, Tochigi Prefecture "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-r4-tochifuku-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1384158,37.1049254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号漆塚狩下ライブカメラ / National highway No. 4 Urushitsuka Karishita live camera</name>
+        <description><![CDATA[〒329-3221 栃木県那須郡那須町漆塚「宇都宮国道事務所」/ Urushitsuka, Nasu-machi, Nasu-gun, Tochigi Prefecture 329-3221 "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-r4-urushitsuka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0881035,37.0308909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道4号那須除雪基地ライブカメラ / National highway No. 4 Nasu snow removal base live camera</name>
+        <description><![CDATA[〒329-3225 栃木県那須郡那須町豊原丙「宇都宮国道事務所」/ Toyoharahei, Nasu-machi, Nasu-gun, Tochigi 329-3225, "Utsunomiya National Highway Office"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-r4-nasu-snow-removal-base.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0958127,37.0724904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道294号芦野ライブカメラ / National Highway No. 294 Ashino Live Camera</name>
+        <description><![CDATA[〒329-3443 栃木県那須郡那須町芦野 「栃木道路管理情報」/ Ashino, Nasu-machi, Nasu-gun, Tochigi Prefecture 329-3443, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-ashino-r294.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1575212,36.9885064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道17号那須高原線大丸ライブカメラ / Tochigi Prefectural Road No. 17 Nasu Kogen Line Daimaru Live Camera</name>
+        <description><![CDATA[〒325-0301 栃木県那須郡那須町湯本 「栃木道路管理情報」/ Yumoto, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0301, "Tochigi Road Management Information"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-yumoto-r17-omaru.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9843953,37.120964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木県道344号湯本大島線大島アンダーライブカメラ / Tochigi Prefectural Road 344 Yumoto Oshima Line Oshima Under Live Camera</name>
+        <description><![CDATA[栃木県那須町大島 「栃木道路管理情報」/ Oshima, Nasu Town, Tochigi Prefecture "Tochigi Road Management Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0853212,37.0485539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那珂川晩翠橋ライブカメラ / Nakagawa Bansui Bridge Live Camera</name>
+        <description><![CDATA[〒325-0001 栃木県那須郡那須町高久 晩翠橋 「栃木県県土整備部」/ Bansui Bridge, Takaku, Nasu-machi, Nasu-gun, Tochigi Prefecture 325-0001, "Tochigi Prefectural Land Development Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.061894,36.978685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>余笹川中余笹橋ライブカメラ / Yosasa River Naka Yosasa Bridge Live Camera</name>
+        <description><![CDATA[栃木県那須町寺子乙 「栃木県県土整備部」/ Terakootsu, Nasu Town, Tochigi Prefecture, "Tochigi Prefecture Land Development Department"<br>https://livecamera.fujiyamasan.com/tochigi-nasu-terakootsu-nakayosasa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1381516,36.9440031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

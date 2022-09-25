@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>徳島県ライブカメラマップ / Tokushima Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>徳島県内ライブカメラ</name>
+      <Placemark>
+        <name>孫崎灯台からの映像 / Video from Magosaki Lighthouse</name>
+        <description><![CDATA[〒772-0053 徳島県鳴門市鳴門町土佐泊浦福池　孫崎灯台　徳島海上保安部 / Magosaki Lighthouse, Fukuchi, Tosadomariura, Naruto-cho, Naruto-shi, Tokushima-ken  772-0053, "Tokushima Coast Guard"<br>https://livecamera.fujiyamasan.com/tokushima-naruto-magosaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.643202,34.239178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>理容たけうち店内の様子 / Barber Takeuchi</name>
+        <description>徳島県鳴門市撫養町林崎北殿町 理容たけうち / Barber Takeuchi, Kitatonomachi, Hayasaki, Muya-cho, Naruto City, Tokushima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.61565,34.177779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の徳島市ライブカメラ / Current Tokushima Live Camera</name>
+        <description>〒770-0853 徳島県徳島市中徳島町２丁目５−２ JRT四国放送 / JRT Shikoku Broadcasting Co.,Ltd., Nakatokushima-cho, Tokushima-shi, Tokushima-ken 770-0853</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.558659,34.073919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島駅前ライブカメラ / Tokushima Station Live Camera</name>
+        <description>徳島県徳島市徳島町城内 (USTREAM) / Jonai, Tokushima-cho, Tokushima City, Tokushima (USTREAM)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.550784,34.074755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>自然街路灯の風景 / Landscape of Natural Street Lights</name>
+        <description>徳島県徳島市昭和町４丁目１２ 東和工業（株） / Towakogyo Co., Ltd., 4-12 Showa-cho, Tokushima City, Tokushima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.56192,34.063006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>眉山公園ライブカメラ / Bizan Park live camera</name>
+        <description><![CDATA[〒770-0908 徳島県徳島市眉山町茂助ケ原　眉山公園　「公益財団法人徳島市公園緑地管理公社」/ Bizan Park, Mosukegahara, Bizan-cho, Tokushima City, Tokushima Prefecture 770-0908,  "Tokushima City Park Green Space Management Corporation"<br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-bizan-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5374914,34.0671433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>工業技術センター北側（眉山方面）</name>
+        <description>〒770-8021 徳島県徳島市雑賀町西開１１−２　徳島県立工業技術センター</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5593143,34.0403198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弁天山ライブカメラ / Mt. Benten Live Camera</name>
+        <description>徳島県小松島市金磯町３ 弁天山 / Benten-yama (Mt. Benten), 3 Kanaiso-cho, Komatsujima City, Tokushima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.608159,33.996455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島県立神山森林公園定点カメラ / Tokushima Prefectural Kamiyama Forest Park Fixed Point Camera</name>
+        <description><![CDATA[〒771-3201 徳島県名西郡神山町阿野大地４５９－１　徳島県立神山森林公園 「徳島中央森林組合」/ 459-1, Ano Daichi, Kamiyama-cho, Myozai-gun, Tokushima 771-3201 Tokushima Prefectural Kamiyama Forest Park "Tokushima Central Forestry Association"<br>https://livecamera.fujiyamasan.com/tokushima-kamiyama-forest-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4225157,34.0224869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川市防災情報 河川監視カメラ</name>
+        <description>〒776-8611 徳島県吉野川市鴨島町鴨島１１５−１　吉野川市役所　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.35863,34.06624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正木ダムライブカメラ / Masaki Dam Live Camera</name>
+        <description><![CDATA[徳島県勝浦郡上勝町傍示 （勝浦町・上勝町役場） / Hoji, Kamikatsu-cho, Katsuura-gun, Tokushima (Katsuura-cho and Kamikatsu-cho Town Hall)<br>https://livecamera.fujiyamasan.com/tokushima-kamikatsu-tsukigaya-onsen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.427938,33.913235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月ヶ谷温泉ライブカメラ / Tsukigatani-Spa live camera</name>
+        <description><![CDATA[徳島県勝浦郡上勝町福原 月ヶ谷温泉 （勝浦町・上勝町役場） / Tsukigatani-Spa, Fukuhara, Kamikatsu-cho, Katsuura-gun, Tokushima (Katsuura-cho and Kamikatsu-cho Town Hall)<br>https://livecamera.fujiyamasan.com/tokushima-kamikatsu-tsukigaya-onsen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.41824,33.885166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J.クラシックゴルフクラブ / J Classic Golf Club</name>
+        <description><![CDATA[〒771-1501 徳島県阿波市土成町秋月明月１７６−１ Ｊ．クラシックゴルフクラブ / J Classic Golf Club, 176-1 Akizuki Meigetsu, Donari-cho, Awa City, Tokushima 771-1501<br>https://livecamera.fujiyamasan.com/tokushima-awa-donari-jclassic-golf.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3156453,34.1154197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美村が丘ライブカメラ / Mimuragaoka Live Camera</name>
+        <description>〒779-3638 徳島県美馬市脇町東大谷18 交流促進宿泊施設美村が丘 「美馬市役所」 / Mimuragaoka Promote Exchange Accomodation, 18 Higashiotani, Waki-machi, Mima-shi, Tokushima-ken 779-3638</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1584277,34.0988478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>穴吹川（ふれあい広場）/ Freindship Park, Anabuki River</name>
+        <description>〒777-0005 徳島県美馬市穴吹町穴吹市ノ下１０５　「美馬市役所」/ 105 Anabukiichinoshimo, Anabuki-cho, Mima-shi, Tokushima-ken 777-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1739968,34.0475352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>穴吹川（天神の瀬）/ Anabuki River (Tenjin-no-se)</name>
+        <description>〒777-0006 徳島県美馬市穴吹町口山仕出原１７５−１　「美馬市役所」/ 175-1 Kuchiyamashidehara, Anabuki-cho, Mima-shi, Tokushima-ken 777-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1583648,34.0366471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[美馬市穴吹川観光駐車場「二又の瀬」/ Mima City Anabukigawa Sightseeing Parking Lot "Futama nose"]]></name>
+        <description><![CDATA[〒777-0006 徳島県美馬市穴吹町口山中野宮９８−１　「美馬市役所」/ 98-1 Kuchiyamanakanomiya, Anabuki-cho, Mima-shi, Tokushima-ken 777-0006, "Mima City Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1519266,34.024643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>剣山ライブカメラ / Tsurugi-san Live Camera</name>
+        <description>〒779-4102 徳島県美馬郡つるぎ町貞光西山３５−１ 剣山観光登山リフト（株） / Tsurugi-san Tourism Mountain Lift Co., Ltd., 35-1 Sadamitsunishiyama, Tsurugi-cho, Mima-gun, Tokushima-ken 779-4102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0587911,34.0386405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国三郎の郷ライブカメラ / Shikoku Saburou no Sato Live Camera</name>
+        <description><![CDATA[〒771-2107 徳島県美馬市美馬町字境目39−10  四国三郎の郷　「美馬市役所」 / Shikoku Saburou no Sato, 39-10 Sakaime, Mima-cho, Mima-shi, Tokushima-ken 771-2107, "Mima City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0014486,34.0416452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東みよし町役場ライブカメラ / Higashi Miyoshi Town Hall Live Camera</name>
+        <description>〒779-4701 徳島県三好郡東みよし町加茂３３６０ 東みよし町役場 / Higashimiyoshi Town Hall, 3360 Kamo, Higashimiyoshi-cho, Miyoshi-gun, Tokushima-ken 779-4701</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9368578,34.037031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>剣山ライブカメラ / Tsurugisan Live Camera</name>
+        <description><![CDATA[〒778-0201 徳島県三好市東祖谷菅生２０５−２　剣山登山リフト西島駅　「剣山観光推進協議会」  / Tsurugi Mountain Climbing Lift Nishijima Station, 205-2 Higashiiyasugeo, Miyoshi City, Tokushima Prefecture 778-0201, "Tsurugisan Tourism Promotion Council"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-tsurugisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0922971,33.8605804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井川スキー場ゲレンデライブカメラ / Ikawa Ski Resort Piste Live Camera</name>
+        <description><![CDATA[〒779-4804 徳島県三好市井川町平山７３２６−１２９  井川スキー場腕山 / Ikawa Ski Resort Kaina-yama, 7326-129 Hirayama, Ikawa-cho, Miyoshi-shi, Tokushima-ken 779-4804<br>https://livecamera.fujiyamasan.com/tokshima-miyoshi-ikawa-ski-resort.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8848659,33.9632946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島県箸蔵寺ライブカメラ / Hashikura-ji Temple Live Camera</name>
+        <description><![CDATA[〒778-0020　徳島県三好市池田町州津蔵谷1006　こんぴら奥の院「箸蔵寺」 / Hashikura-ji Temple, 1006 Shudukuratani, Ikeda-cho, Miyoshi-shi, Tokushima-ken 778-0020<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-hashikura-ji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8418326,34.0491836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三好市ライブカメラ / Miyoshi City Live Camera</name>
+        <description><![CDATA[〒778-8501 徳島県三好市 池田町シンマチ 1500-2 三好市役所 「大歩危・祖谷観光NAVI」 / Miyoshi City Hall, 1500-2 Shinamachi, Ikeda-cho, Miyoshi-shi, Tokushima-ken 778-8501, "Ooboke Iya Tourist NAVI"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.807146,34.0260943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田ダム・早明浦ダム・新宮ダム・富郷ダム</name>
+        <description>〒778-0040 徳島県三好市池田町西山谷尻4235−1　水資源機構（独立行政法人）池田総合管理所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8067747,34.034301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内妻海岸ライブカメラ / Uchiduma Coast Live Camera</name>
+        <description>徳島県海部郡牟岐町河内４５０ （有）オノグラスワークス / ONO GLASS WORKS, 450 Kouchi, Mugyo-cho, Kaifu-gun, Tokushima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.41309,33.692138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部郡地域イントラネット / Kaifu County Regional Intranet, Kaiyo Town Website</name>
+        <description>〒775-0203 徳島県海部郡海陽町大里上中須１２８　海陽町役場 海南庁舎 / Kaiyo Town Hall, 128 Ozatokaminakasu, Kaifu-gun, Tokushima-ken 775-0203</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.351995,33.6020282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海洋自然博物館マリンジャムライブカメラ</name>
+        <description>〒775-0513 徳島県海部郡海陽町宍喰浦竹ケ島２８−４５　海洋自然博物館マリンジャム</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3170061,33.5473823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まるなん農産物直売所第1ライブカメラ / Marunan Agricultural Products Direct Sale No. 1 Live Camera</name>
+        <description><![CDATA[〒779-3117 徳島県徳島市国府町日開１１０９ まるなん農産物直売所 「国府町CATV」/ Marunan Agricultural Products Direct Sale, 1109 Nikai, Kokufu-cho, Tokushima City, Tokushima Prefecture 779-3117, "Kokufucho CATV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.475001,34.084855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百葉箱鳴門教育大学附属小学校ライブカメラ / Hyakuyobako Fuzoku Elementary School Attached To Naruto University Of Education Live Camera</name>
+        <description><![CDATA[〒770-0808 徳島県徳島市南前川町１丁目１ 鳴門教育大学附属小学校 / Fuzoku Elementary School Attached To Naruto University Of Education,  1-1, Minamimaekawa Town, Tokushima City, Tokushima Prefecture 770-0808<br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-minamimaegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.55546,34.078355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島大学ライブカメラ / Tokushima University Live Camera</name>
+        <description>〒770-8501 徳島県徳島市新蔵町２丁目２−２４ 徳島大学 / Tokushima University, 2-24 Shinkuramachi, Tokushima City, Tokushima Prefecture 770-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.55974,34.0697896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸14.6K第十堰下流ライブカメラ / Yoshino River Right Bank 14.6K No. 10 Weir Downstream Live Camera</name>
+        <description><![CDATA[徳島県徳島市国府町佐野塚「徳島河川国道事務所」/ Sanozuka, Kokufu Town, Tokushima City, Tokushima Prefecture, "Tokushima River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4641901,34.1078328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸4.4K徳島河川国道事務所ライブカメラ / Yoshino River Right Bank 4.4K Tokushima River National Highway Office Live Camera</name>
+        <description><![CDATA[〒770-0803 徳島県徳島市上吉野町３丁目３５ 徳島河川国道事務所 / Tokushima River National Highway Office, 3-35, Kamiyoshino-cho, Tokushima City, Tokushima Prefecture 770-0803<br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-kamiyoshino-yoshino-river-r-4_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5548647,34.0894908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご徳島東沖洲ECO発電所ライブカメラ / Ichigo Tokushima Higashiokisu ECO Power Station Live Camera</name>
+        <description><![CDATA[〒770-0873 徳島県徳島市東沖洲1丁目 いちご徳島東沖洲ECO発電所 「いちごECOエナジー」/ Ichigo Tokushima Higashiokisu ECO Power Plant, Higashiokisu 1-chome, Tokushima City, Tokushima 770-0873 "Ichigo ECO Energy"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6047249,34.0617077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松海水浴場ライブカメラ / Komatsu beach live camera</name>
+        <description><![CDATA[〒771-0200 徳島県徳島市川内町旭野 小松海水浴場 「徳島市公園緑地管理公社」/ Komatsu beach,  Asahino, Kawauchi Town, Tokushima City, Tokushima Prefecture 771-0200,  "Tokushima City Park Green Space Management Corporation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6037838,34.0910641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川田川中央橋ライブカメラ / Kawadagawa Chuohashi Live Camera</name>
+        <description><![CDATA[徳島県吉野川市山川町村雲 「吉野川市役所」/ Murakumo, Yamakawa town, Yoshinogawa city,   Tokushima prefecture, "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-kawata-river-chuo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2256016,34.0551423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほたる川山瀬小学校東側ライブカメラ / Firefly River Yamase Elementary School East Live Camera</name>
+        <description><![CDATA[徳島県吉野川市山川町諏訪 「吉野川市役所」/ Suwa,  Yamakawa Town,  Yoshinogawa City, Tokushima Prefecture, "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokuhima-yoshinogawa-yamakawa-hotaru-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2548001,34.0631833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学島川ライブカメラ / Gakushima River Live Camera</name>
+        <description><![CDATA[徳島県吉野川市川島町学大戸井 「吉野川市役所」/ Gakuotoi, Kawashima Town, Yoshinogawa City, Tokushima Prefecture, "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-kawashima-gakushima-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2912083,34.0577136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桑村川ライブカメラ / Kuwamura River Live Camera</name>
+        <description><![CDATA[徳島県吉野川市川島町桑村 「吉野川市役所」/   Kuwamura, Kawashima Town, Yoshinogawa City, Tokushima Prefecture, "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-kawashima-kuwamura-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3177784,34.0606645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯尾川みかわ橋ライブカメラ / Iiogawa Mikawabashi Live Camera</name>
+        <description><![CDATA[徳島県吉野川市鴨島町飯尾 「吉野川市役所」/ Iio, Kamoshima Town, Yoshinogawa City, Tokushima Prefecture "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-iio-river-mikawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3504305,34.0637335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川ライブカメラ / Egawa River Live Camera</name>
+        <description><![CDATA[徳島県吉野川市鴨島町喜来乙 「吉野川市役所」/    Kirai Otsu, Kamojima Town,  Yoshinogawa City, Tokushima Prefecture, "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-kamoshima-egawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3657472,34.0798491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯尾川飯尾川橋ライブカメラ / Iiogawa Iiogawabashi live camera</name>
+        <description><![CDATA[徳島県吉野川市鴨島町上浦 「吉野川市役所」/ Kamiura, Kamoshima Town, Yoshinogawa City, Tokushima Prefecture "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-iio-river-iiogawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4003271,34.074868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩屋谷川瀬詰橋西側ライブカメラ / Iwayatani River Sezumebashi west live camera</name>
+        <description><![CDATA[徳島県吉野川市山川町大塚「吉野川市役所」/ Otsuka, Yamakawa Town, Yoshinogawa City, Tokushima Prefecture, "Yoshinogawa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2301341,34.0614942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸40.0K岩津大橋ライブカメラ / Yoshino River right bank 40.0K Iwatsu Ohashi live camera</name>
+        <description><![CDATA[〒779-3404 徳島県吉野川市山川町一里塚 「徳島河川国道事務所」/  Ichirizuka, Yamakawa-cho, Yoshinogawa City, Tokushima Prefecture  779-3404, "Tokushima River National Highway Office"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-yoshino-river-40k-iwatsuohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1945738,34.0649238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸25.0K阿波中央橋ライブカメラ / Yoshinogawa Right Bank 25.0K Awa Chuo Bridge Live Camera</name>
+        <description><![CDATA[〒776-0014 徳島県吉野川市鴨島町知恵島 「徳島河川国道事務所」/ Chiejima, Kamojima Town, Yoshinogawa City, Tokushima Prefecture 776-0014, "Tokushima River National Highway Office"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-yoshino-river-r-25k-awachuobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.340322,34.0803105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[うだつの町並み第1ライブカメラ / Udatsu's streetscape first live camera]]></name>
+        <description><![CDATA[〒779-3610 徳島県美馬市脇町大字脇町２　脇町・うだつの町並み「美馬市役所」/ Wakimachi/Udatsu Townscape, 2 Wakimachi, Wakimachi, Mima City, Tokushima Prefecture 779-3610, "Mima City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-mima-udatsunomachinami.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1471454,34.067945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国三郎の郷ライブカメラ / Shikoku Saburo no Sato Live Camera</name>
+        <description>〒771-2107 徳島県美馬市美馬町境目３９−１０ 四国三郎の郷 「美馬市役所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.001445,34.0416421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祖谷川とびのす谷ライブカメラ / Iya River Tobinosudani Live Camera</name>
+        <description><![CDATA[徳島県三好市西祖谷山村善徳 「	四国山地砂防事務所」/ Zentoku, Nishiiyamura, Miyoshi City, Tokushima Prefecture, "Shikoku Mountain Sabo Office"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-iya-river-tobinosudani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8212606,33.881762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田ダム上流・下流ライブカメラ / Ikeda Dam upstream/downstream live cameras</name>
+        <description><![CDATA[〒778-0040 徳島県三好市池田町西山谷尻 池田ダム 「池田総合管理所」/ Ikeda Dam,  Nishiyama Tanijiri, Ikeda Town,  Miyoshi City, Tokushima Prefecture, 778-0040, Japan<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-ikeda-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8061967,34.0334735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸74.9K三好大橋ライブカメラ / Yoshinogawa Right Bank 74.9K Miyoshi Ohashi Live Camera</name>
+        <description><![CDATA[〒779-4806 徳島県三好市井川町西井川349-7「徳島河川国道事務所」/ 349-7 Nishiikawa, Ikawa-cho, Miyoshi-shi, Tokushima 779-4806,  "Tokushima River National Highway Office"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-yoshino-river-r-74_9k-miyoshiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8423472,34.0328459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道32号62.8K下川跨線橋ライブカメラ / National highway No. 32 62.8K  Shimokawa overpass live camera</name>
+        <description><![CDATA[〒779-5303 徳島県三好市山城町下川 下川跨線橋 「四国地方整備局」/ Shimokawa Overpass,  Shimokawa, Yamashiro-cho, Miyoshi City, Tokushima Prefecture 779-5303, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-r32-shimokawa-overpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7851756,33.9823181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道192号52.3K池田町佐野ライブカメラ / National Highway No. 192 52.3K Ikedacho Sano Live Camera</name>
+        <description><![CDATA[〒778-5253 徳島県三好市池田町佐野大内 「四国地方整備局」/ Sano Ouchi, Ikeda-cho, Miyoshi City, Tokushima Prefecture 778-5253<br>"Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-ikeda-r192-52_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6954031,33.9961639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西祖谷旧料金所ライブカメラ / Nishiiya old toll booth live camera</name>
+        <description><![CDATA[徳島県三好市西祖谷山村後山 「三好市観光案内所」/ Goyama, Nishi-Iyayama Village, Miyoshi City, Tokushima Prefecture "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-nishiiya-old-toll-booth.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7840433,33.884644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴門池田線ライブカメラ / Naruto Ikeda Line Live Camera</name>
+        <description><![CDATA[〒778-0020 徳島県三好市池田町州津大深田７２０　徳島県立池田高等学校 三好校 「三好市観光案内所」 / Tokushima Prefectural Ikeda High School Miyoshi School, 720 Shuzu Ofukada, Ikeda-cho, Miyoshi-shi, Tokushima 778-0020, "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-narutoikeda-line.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8493267,34.0379554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大歩危橋ライブカメラ / Oboke Bridge Live Camera</name>
+        <description><![CDATA[徳島県三好市山城町西宇 「三好市観光案内所」 / Nishiu, Yamashiro-cho, Miyoshi City, Tokushima Prefecture, "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-yamashiro-obokebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7602755,33.8840579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井ノ内谷川ライブカメラ / Inouchitani River Live Camera</name>
+        <description><![CDATA[徳島県三好市井川町井内東 「三好市観光案内所」/ Iuchihigashi, Ikawacho, Miyoshi City, Tokushima Prefecture, "Miyoshi City Tourist Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8793781,34.0157907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祖谷トンネルライブカメラ / Iya tunnel live camera</name>
+        <description><![CDATA[徳島県三好市西祖谷山村尾井ノ内 「三好市観光案内所」/ Oinouchi, Nishiiyayamamura, Miyoshi City, Tokushima Prefecture, "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-nishiiyayamamura-iya-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7930067,33.8843926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅三野ライブカメラ / Roadside Station Mino Live Camera</name>
+        <description><![CDATA[〒771-2305 徳島県三好市三野町太刀野１９０９−１ 道の駅 三野 「三好市観光案内所」/ Road Station Mino, 1909-1 Tachino, Mino-cho, Miyoshi-shi, Tokushima 771-2305, "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-roadside-station-mino.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.932463,34.050504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三好市健康とふれあいの森ライブカメラ / Miyoshi City Health and Fureai no Mori Live Camera</name>
+        <description><![CDATA[〒771-2304 徳島県三好市三野町芝生１３４２−３ 三好市健康とふれあいの森 「三好市観光案内所」/ Miyoshi City Health and Fureai no Mori,   1342-3 Minocho Shibou, Miyoshi City, Tokushima 771-2304, "Miyoshi City Tourist Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9689827,34.0586917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒沢湿原ライブカメラ / Kurozo Marsh Live Camera</name>
+        <description><![CDATA[徳島県三好市池田町漆川黒沢 「三好市観光案内所」/ Kurosawa Urushikawa, Ikeda-cho, Miyoshi City, Tokushima Prefecture "Miyoshi City Tourist Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8311906,33.9769164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小歩危展望台ライブカメラ / Koboke Observatory Live Camera</name>
+        <description><![CDATA[徳島県三好市山城町重実殿野「三好市観光案内所」/ Shigezane Tonono, Yamashiro-cho, Miyoshi City, Tokushima Prefecture<br>"Miyoshi City Tourist Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7548888,33.9363883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祖谷かずら橋ライブカメラ / Iya Kazura Bridge Live Camera</name>
+        <description><![CDATA[〒778-0102 徳島県三好市西祖谷山村善徳　祖谷（いや）のかずら橋「三好市観光案内所」/ Kazura Bridge in Iya, Nishiiyayamamura Zentoku, Miyoshi City, Tokushima Prefecture 778-0102  "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-iya-kazurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8353782,33.8751458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美好市馬場地区ライブカメラ / Miyoshi City Baba District Live Camera</name>
+        <description><![CDATA[〒778-5252 徳島県三好市池田町馬路馬場「三好市観光案内所」/ Umaji Baba, Ikeda-cho, Miyoshi City, Tokushima Prefecture 778-5252<br>"Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-ikeda-umajibaba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7522626,34.0132264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鮎喰川河川監視ライブカメラ / Akui River river monitoring live camera</name>
+        <description><![CDATA[徳島県名西郡神山町阿野歯ノ辻 「神山町役場」/ Ano Hanotsuji, Kamiyama-cho, Myozai-gun, Tokushima "Kamiyama-cho government office"<br>https://livecamera.fujiyamasan.com/tokushima-kamiyama-akuigawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4488141,34.0443599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸18.6K大寺橋ライブカメラ / Former Yoshino River left bank 18.6K Oterabashi live camera</name>
+        <description><![CDATA[〒779-0102 徳島県板野郡板野町川端関ノ本４７「徳島河川国道事務所」/ 47 Kawabata Sekinomoto, Itano-cho, Itano-gun, Tokushima 779-0102 "Tokushima River National Highway Office"<br>https://livecamera.fujiyamasan.com/tokushima-itano-kyuyoshino-river-l-18_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4697435,34.1412461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川ハイウェイオアシス対岸ライブカメラ / Yoshinogawa Highway Oasis Opposite Bank Live Camera</name>
+        <description><![CDATA[〒771-2502 徳島県三好郡東みよし町足代１６５０ 吉野川ハイウェイオアシス「池田総合管理所」/ Yoshinogawa Highway Oasis, 1650 Ashiro, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 771-2502  "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-yoshinogawa-highway-oasis.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8915945,34.0366569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川ハイウェイオアシス美濃田の淵ライブカメラ / Yoshinogawa Highway Oasis Minoda no Fuchi Live Camera</name>
+        <description><![CDATA[〒771-2502 徳島県三好郡東みよし町足代 「東みよし町役場」/ Ashiro, Higashimiyoshi Town, Miyoshi District, Tokushima 771-2502 "Higashimiyoshi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8947283,34.034619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小川谷運動公園吉野川ライブカメラ / Ogawadani Athletic Park Yoshino River Live Camera</name>
+        <description><![CDATA[〒771-2501 徳島県三好郡東みよし町昼間２５９６ 小川谷運動公園 「東みよし町役場」/ Ogawadani Athletic Park, 2596 Hiruma, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 771-2501, "Higashimiyoshi Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-ogawadani-athletic-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8579602,34.0381111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぶぶるパークみかも吉野川ライブカメラ / Buburu Park Mikamo Yoshinogawa Live Camera</name>
+        <description><![CDATA[〒779-4702 徳島県三好郡東みよし町西庄横手 ぶぶるパークみかも 「東みよし町役場」/ Buburu Park Mikamo, Nishisho Yokote, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 779-4702, "Higashimiyoshi Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-buburupark-mikamo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9408299,34.0442555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道192号79.7K山口谷橋ライブカメラ / National highway No. 192 79.7K  Yamaguchidani Bridge live camera</name>
+        <description><![CDATA[〒779-4703 徳島県三好郡東みよし町中庄 山口谷橋 「四国地方整備局」/ Yamaguchidani Bridge, Nakasho, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 779-4703 "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-r192-79_7k-yamaguchidani-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9664521,34.035269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園瀬川根郷集会所付近ライブカメラ / Sonose River Nego Meeting House Live Camera</name>
+        <description><![CDATA[〒771-4101 徳島県名東郡佐那河内村下尾端８ 「佐那河内村役場」 / 8 Shimo Obana, Sanagouchi Village, Myodo District, Tokushima Prefecture 771-4101 "Sanagouchi Village Office"<br>https://livecamera.fujiyamasan.com/tokushima-sanagochi-sonose-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4645585,33.9964306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平等寺本堂ライブ配信 リモート参拝 四国八十八ヶ所 / Byodoji main hall live distribution Remote worship Shikoku 88 places</name>
+        <description><![CDATA[〒779-1510 徳島県阿南市新野町秋山１７７ 「四国二十二番札所平等寺」/ 177 Aratano-cho, Anan-shi, Tokushima 779-1510, "Shikoku 22nd Fudasho Byodoji Temple"<br>https://livecamera.fujiyamasan.com/tokushima-anan-byodoji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.582752,33.851948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道55号星越峠ライブカメラ / National Route 55 Hoshigoe Pass Live Camera</name>
+        <description><![CDATA[徳島県阿南市福井町 星越トンネル 「四国地方整備局」/ Hoshigoe Tunnel, Fukui-cho, Anan City, Tokushima Prefecture, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/tokushima-anan-r55-hoshigoe-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.572616,33.7922585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝浦川星谷橋ライブカメラ / Katsuura River Hoshitani Bridge Live Camera</name>
+        <description><![CDATA[〒771-4303 徳島県勝浦郡勝浦町大字生名太田 「勝浦町役場・上勝町役場」/ Ota, Ikuna, Katsuura-cho, Katsuura-gun, Tokushima 771-4303, "Katsuura Town Office / Kamikatsu Town Office"<br>https://livecamera.fujiyamasan.com/tokushima-kamikatsu-tsukigaya-onsen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5237024,33.9346623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内妻ビーチ波情報ライブカメラ / Uchizuma beach wave information live camera</name>
+        <description><![CDATA[〒775-0007 徳島県海部郡牟岐町大字内妻白木　内妻海岸 「uchizuma uchizuma」/  Uchizuma Beach, Uchizuma Shiraki, Oaza, Mugi-cho, Kaifu-gun, Tokushima 775-0007, "uchizuma uchizuma"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4036245,33.660074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牟岐町西部保育所ライブカメラ / Mugi Town Western Nursery School Live Camera</name>
+        <description><![CDATA[〒775-0006 徳島県海部郡牟岐町大字中村本村４６−１ 「海陽町役場」/ 46-1 Nakamura Honmura, Oaza, Mugi-cho, Kaifu-gun, Tokushima 775-0006, "Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-mugi-nakamura-seibuhoikujo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4206821,33.6698364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牟岐町教育委員会ライブカメラ / Mugi Town Board of Education Live Camera</name>
+        <description><![CDATA[〒775-0004 徳島県海部郡牟岐町大字川長新光寺８２ 牟岐町教育委員会 「海陽町役場」/ Mugi Town Board of Education, 82 Kawanaga Shinkoji, Mugi-cho, Kaifu-gun, Tokushima 775-0004, <br>"Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-mugi-kawanaga-board-of-education.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.421666,33.674575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牟岐町役場ライブカメラ / Mugi Town Hall Live Camera</name>
+        <description><![CDATA[〒775-0006 徳島県海部郡牟岐町大字中村本村７−４ 牟岐町役場 「海陽町役場」/ 〒775-0006 7-4 Nakamura Honmura, Mugi-cho, Kaifu-gun, Tokushima Mugi-cho government office "Kaiyo-cho government office"<br>https://livecamera.fujiyamasan.com/tokushima-mugi-town-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4207054,33.6680422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北河内谷川中流付近ライブカメラ / Kitagawachidani River middle stream live camera</name>
+        <description><![CDATA[徳島県海部郡美波町 北河内谷川 「海陽町役場」/ Kitagawachidani River, Minami Town, Tokushima Prefecture "Kaiyo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5398676,33.7644505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日和佐うみがめ博物館カレッタライブカメラ / Hiwasa Chelonian Museum Caretta Live Camera</name>
+        <description><![CDATA[〒779-2304 徳島県海部郡美波町日和佐浦３７０−４ 「海陽町役場」/ 370-4 Hiwasaura, Minami-cho, Kaifu-gun, Tokushima 779-2304 "Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-minami-hiwasa-sea-turtle-museum.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5409857,33.7346454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美波町役場水道課ライブカメラ / Minami Town Hall Waterworks Division Live Camera</name>
+        <description><![CDATA[〒779-2306 徳島県海部郡美波町西河内丹前３５５−４ 「海陽町役場」/ 355-4 Tanmae Nishigawachi, Minami-cho, Kaifu-gun, Tokushima 779-2306, "Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-minami-town-office-waterworks-division.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5178487,33.7333597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部川相川合流地点ライブカメラ / Kaifu River Aikawa Confluence Live Camera</name>
+        <description><![CDATA[徳島県海部郡海陽町相川「海陽町役場」/ Aikawa, Kaiyo-cho, Kaifu-gun, Tokushima "Kaiyo-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3105811,33.6378923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部川河口付近ライブカメラ / Kaifu River Estuary Live Camera</name>
+        <description><![CDATA[徳島県海部郡海陽町 海部川 「海陽町役場」/ Kaifu River, Kaiyo Town, Kaifu District, Tokushima Prefecture, "Kaiyo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3070033,33.6543421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川港・浅川湾海南海洋センターライブカメラ / Asakawa Port / Asakawa Bay Kainan Marine Center Live Camera</name>
+        <description><![CDATA[〒775-0101 徳島県海部郡海陽町浅川西福良４３ 海南Ｂ＆Ｇ海洋センター 「海陽町役場」/ Hainan B & G Marine Center, 43 Asakawa Nishifukura, Kaiyo-cho, Kaifu-gun, Tokushima 775-0101, "Kaiyo Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3699102,33.6221834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテルリビエラししくいライブカメラ / Hotel Riviera Shishikui Live Camera</name>
+        <description><![CDATA[〒775-0501 徳島県海部郡海陽町宍喰浦松原２２６−１ ホテル リビエラししくい 「海陽町役場」/ Hotel Riviera Shishikui, 226-1 Shishikuiura Matsubara, Kaiyo-cho, Kaifu-gun, Tokushima 775-0501, "Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-kaiyo-hotel-riviera-shishikui.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3071255,33.5685711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝浦川徳島市飯谷町下沖野ライブカメラ / Katsuura River Tokushima City Iitanicho Shimookino Live Camera</name>
+        <description><![CDATA[〒771-4265 徳島県徳島市飯谷町下沖野「徳島県庁県土整備部河川整備課」/ Shimookino, Iitani-cho, Tokushima City, Tokushima 771-4265 "Tokushima Prefectural Government Prefectural Land Development Department River Development Division"<br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-iitani-katsuura-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.551959,33.9822249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園瀬川ライブカメラ / Sonosegawa live camera</name>
+        <description><![CDATA[〒770-8070 徳島県徳島市八万町下長谷「徳島県県土整備部河川整備課」/ Shimonagatani, Hachiman-cho, Tokushima City, Tokushima 770-8070 "Tokushima Prefectural Land Development Department River Development Division"<br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-hachiman-sonose-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5136907,34.0449942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川ライブカメラ / Yoshinogawa River Live Camera</name>
+        <description><![CDATA[〒771-0103 徳島県徳島市市川内町小松東５８−１５　チルダアットマーク｜CHILDA@ / 58-15 Komatsuhigashi, Kawauchi-cho, Tokushima-shi, Tokushima 771-0103 <br>https://livecamera.fujiyamasan.com/tokushima-tokushimashi-kawauchi-yoshino-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.594923,34.086205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新池川ライブカメラ / Shinikegawa Live Camera</name>
+        <description><![CDATA[〒772-0031 徳島県鳴門市大津町木津野 「徳島県河川整備課」/  Kizuno, Otsu-cho, Naruto-shi, Tokushima 772-0031 "River Maintenance Division, Tokushima Prefecture"<br>https://livecamera.fujiyamasan.com/tokushima-naruto-ozu-shinike-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5901961,34.1631384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸2.8K付近大津箇所ライブカメラ / Around 2.8K on the left bank of the Kyuyoshino River Otsu live camera</name>
+        <description><![CDATA[〒772-0035 徳島県鳴門市大津町矢倉「国土交通省川の防災情報」/ Yagura, Otsu-cho, Naruto-shi, Tokushima 772-0035 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-naruto-ozu-yagura-kyuyoshino-river-l-2_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5888003,34.1508308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川右岸12.4K付近JR橋箇所ライブカメラ / Near 12.4K on the right bank of the former Yoshino River JR bridge location live camera</name>
+        <description><![CDATA[〒779-0315 徳島県鳴門市大麻町市場川向二「国土交通省川の防災情報」/ Kawamukoni, Oasa-cho, Naruto-shi, Tokushima 779-0315 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-naruto-kyuyoshino-river-r-12_4k-jr-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5293251,34.1333117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸9.4K共栄橋ライブカメラ / Former Yoshino River left bank 9.4K Kyoeibashi live camera</name>
+        <description><![CDATA[〒779-0313 徳島県鳴門市大麻町中馬詰戎免「国土交通省川の防災情報」/  Osacho, Naruto City, Tokushima Prefecture 779-0313,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-naruto-kyuyoshino-river-l-9_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5434279,34.1400802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川田川川田橋ライブカメラ / Kawata River Kawada Bridge Live Camera</name>
+        <description><![CDATA[徳島県吉野川市山川町井上「徳島県河川整備課」/ Inoue, Yamakawa-cho, Yoshinogawa City, Tokushima Prefecture "Tokushima Prefecture River Development Division"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-kawata-river-kawada-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2269475,34.0434722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸37.4K川田ライブカメラ / Yoshino River right bank 37.4K Kawada live camera  </name>
+        <description><![CDATA[〒779-3404 徳島県吉野川市山川町川田「国土交通省川の防災情報」/ Kawata, Yamakawa-cho, Yoshinogawa-shi, Tokushima 779-3404 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2225027,34.0624745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩谷川岩谷橋ライブカメラ / Iwaya River Iwayabashi Live Camera</name>
+        <description><![CDATA[〒779-3404 徳島県吉野川市山川町川田「吉野川市役所」/ Kawata, Yamakawa-cho, Yoshinogawa-shi, Tokushima 779-3404 "Yoshinogawa City Hall"<br>https://livecamera.fujiyamasan.com/tokushima-yoshinogawa-yamakawa-iwaya-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2215912,34.0588301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川内谷川ライブカメラ / Miyagochidani River Live Camera</name>
+        <description><![CDATA[〒771-1509 徳島県阿波市土成町高尾南原「徳島県県土整備部河川整備課」/  Takao Minamihara, Donari-cho, Awa City, Tokushima 771-1509 "River Maintenance Division, Tokushima Prefectural Land Development Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3770721,34.1142481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島自動車道阿波パーキングエリア付近ライブカメラ / Live camera near the Awa parking area on the Tokushima Expressway</name>
+        <description><![CDATA[〒771-1705 徳島県阿波市阿波町桜ノ岡「NEXCO西日本」/ Sakuranooka, Awa-cho, Awa-shi, Tokushima 771-1705 "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/tokushima-awa-tokushima-expressway-awa-pa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2066497,34.0894064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸42.2K穴吹川左岸ライブカメラ / Yoshino River right bank 42.2K Anabuki River left bank live camera</name>
+        <description><![CDATA[〒777-0005 徳島県美馬市穴吹町穴吹九反地「国土交通省川の防災情報」/  Anabuki Kutanchi, Anabuki-cho, Mima City, Tokushima Prefecture 777-0005<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-mima-anabuki-yoshino-river-r-42_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1738151,34.0550492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸44.0K明連川樋門ライブカメラ / Yoshino River Right Bank 44.0K Myoren River Gutter Live Camera</name>
+        <description><![CDATA[〒777-0002 徳島県美馬市穴吹町三島舞中島「国土交通省川の防災情報」/ Mainakajima, Mishima, Anabuki-cho, Mima-shi, Tokushima 777-0002 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-mima-anabuki-yoshino-river-r-44_0k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1536046,34.0589018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳島自動車道池田パーキングエリア付近ライブカメラ / Live camera near the Ikeda parking area on the Tokushima Expressway</name>
+        <description><![CDATA[〒778-5253 徳島県三好市池田町佐野東三谷「NEXCO西日本」/  Sano Higashisandani, Ikeda-cho, Miyoshi City, Tokushima Prefecture 778-5253, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7071032,34.0056951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩塚高原ライブカメラ / Shiozuka Kogen Live Camera</name>
+        <description><![CDATA[〒779-5327 徳島県三好市山城町　塩塚高原展望台 「三好市観光案内所」/ Shiozuka Highlands Observatory, Yamashiro Town, Miyoshi City, Tokushima 779-5327 "Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-shiozuka-kogen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6849682,33.9263919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥祖谷二重かずら橋ライブカメラ /  Oku Iya Double Kazura Bridge Live Camera</name>
+        <description><![CDATA[〒778-0201 徳島県三好市東祖谷菅生 奥祖谷二重かずら橋 「三好市観光案内所」/ Oku Iya Niju Kazura Bridge, Higashiiyasugeo, Miyoshi City, Tokushima Prefecture 778-0201, <br>"Miyoshi City Tourist Information Center"<br>https://livecamera.fujiyamasan.com/tokushima-miyoshi-okuiyanijukazurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0456984,33.8535199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯尾川加茂野橋ライブカメラ / Iio River Kamonobashi Live Camera</name>
+        <description><![CDATA[〒779-3223 徳島県名西郡石井町高川原高川原「徳島県県土整備部河川整備課」/ Takagawara Takagawara, Ishii-cho, Myozai-gun, Tokushima Prefecture  779-3223, "Tokushima Prefectural Land Development Department River Development Division"<br>https://livecamera.fujiyamasan.com/tokushima-ishii-takagawara-iio-river-kamono-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4529073,34.0861154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸4.2K中喜来ライブカメラ / Former Yoshino River left bank 4.2K Nakagirai live camera</name>
+        <description><![CDATA[〒771-0220 徳島県板野郡松茂町広島「国土交通省川の防災情報」/ Hiroshima, Matsushige-cho, Itano-gun, Tokushima 771-0220 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-matsushige-kyuyoshino-river-l-4_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5813407,34.1393342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川右岸6.6K長岸橋ライブカメラ / Former Yoshino River right bank 6.6K Nagagishi Bridge live camera</name>
+        <description><![CDATA[〒771-0211 徳島県板野郡松茂町長岸「国土交通省川の防災情報」/ Nagagishi, Matsushige-cho, Itano-gun, Tokushima 771-0211 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-matsushige-nagagishi-kyuyoshino-river-r-6_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5657565,34.145994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸6.4K長岸橋ライブカメラ / Former Yoshino River left bank 6.4K Nagagishi Bridge live camera</name>
+        <description><![CDATA[〒771-0211 徳島県板野郡松茂町長岸「国土交通省川の防災情報」/ Nagagishi, Matsushige-cho, Itano-gun, Tokushima 771-0211 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-matsushige-kyuyoshino-river-l-6_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.566979,34.1469867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧吉野川左岸10.8K新高橋ライブカメラ / Former Yoshino River left bank 10.8K New Takahashi live camera</name>
+        <description><![CDATA[〒771-0207 徳島県板野郡北島町新喜来「国土交通省川の防災情報」/ Shinkirai, Kitajima-cho, Itano-gun, Tokushima 771-0207 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-kitajima-kyuyoshino-river-l-10_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5431843,34.1288934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸53.8K貞光ライブカメラ / Yoshino River right bank 53.8K Sadamitsu live camera</name>
+        <description><![CDATA[〒779-4101 徳島県美馬郡つるぎ町貞光大須賀「国土交通省川の防災情報」/ Sadamitsu Osuka, Tsurugi-cho, Mima-gun, Tokushima 779-4101 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-tsurugi-sadamitsu-yoshino-river-r-53_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0564398,34.0427154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貞光川貞光ライブカメラ / Sadamitsu River Sadamitsu Live Camera</name>
+        <description><![CDATA[〒779-4102 徳島県美馬郡つるぎ町貞光前田「徳島県県土整備部河川整備課」/ Sadamitsu Maeda, Tsurugi-cho, Mima-gun, Tokushima 779-4102 "River Maintenance Division, Tokushima Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tokushima-tsurugi-sadamitsu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0642073,34.0311237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口谷川左岸吉野川右岸62.2Kライブカメラ / Yamaguchitanigawa left bank Yoshino river right bank 62.2K live camera </name>
+        <description><![CDATA[〒779-4703 徳島県三好郡東みよし町中庄「国土交通省川の防災情報」/ Nakasho, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 779-4703 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-yamaguchitani-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9661724,34.0350118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂谷川加茂谷橋ライブカメラ / Kamodani River Kamodani Bridge Live Camera</name>
+        <description><![CDATA[徳島県三好郡東みよし町 「国土交通省川の防災情報」/ Higashimiyoshi Town, Miyoshi District, Tokushima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br> https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-kamodani-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9364812,34.040935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川右岸65.8K加茂第二ライブカメラ / Yoshino River right bank 65.8K Kamo second live camera</name>
+        <description><![CDATA[〒779-4701 徳島県三好郡東みよし町加茂「国土交通省川の防災情報」/  Kamo, Higashimiyoshi-cho, Miyoshi-gun, Tokushima 779-4701 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-higashimiyoshi-kamo-yoshino-river-r-65_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9312785,34.0472593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井川ライブカメラ / Fukui River Live Camera</name>
+        <description><![CDATA[〒779-1620 徳島県阿南市福井町大西「徳島県県土整備部河川整備課」/ Onishi, Fukui-cho, Anan City, Tokushima 779-1620 "River Maintenance Division, Tokushima Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tokushima-anan-fukui-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6240716,33.8384196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂谷川東加茂ライブカメラ / Kamodani River Higashi Kamo Live Camera</name>
+        <description><![CDATA[徳島県阿南市加茂町「国土交通省川の防災情報」/ Kamo-cho, Anan City, Tokushima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kamo-kamodani-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5489468,33.9132047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那賀川持井ライブカメラ / Nakagawa Mochii Live Camera</name>
+        <description><![CDATA[〒774-0049 徳島県阿南市上大野町萱原「国土交通省川の防災情報」/ Kayahara, Kamiono-cho, Anan City, Tokushima 774-0049 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kamiono-nakagawa-river-mochii.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5771596,33.9430076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那賀川加茂谷橋ライブカメラ / Nakagawa Kamoyabashi Live Camera</name>
+        <description><![CDATA[〒771-5172 徳島県阿南市吉井町「国土交通省川の防災情報」/ Yoshii-cho, Anan City, Tokushima 771-5172 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-anan-nakagawa-river-kamodani-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5611768,33.9229548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那賀川西加茂ライブカメラ / Nakagawa Nishi Kamo Live Camera</name>
+        <description><![CDATA[〒771-5173 徳島県阿南市加茂町高田「国土交通省川の防災情報」/ Takada, Kamo-cho, Anan City, Tokushima 771-5173 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kamo-nakagawa-river-nishikamo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5455468,33.9114507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那賀川右岸‐0.8K河口ライブカメラ / Naka River Right Bank-0.8K Estuary Live Camera</name>
+        <description><![CDATA[〒774-0001 徳島県阿南市辰己町「那賀川河川事務所」/ Tatsumi-cho, Anan City, Tokushima Prefecture 774-0001, "Nakagawa River Office"<br>https://livecamera.fujiyamasan.com/tokushima-anan-tatsumi-nakagawa-river-estuary.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.7011461,33.9382421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桑野川右岸3.6K那賀川河川事務所ライブカメラ / Kuwano River Right Bank 3.6K Nagagawa River Office Live Camera</name>
+        <description><![CDATA[〒774-0011 徳島県阿南市領家町室ノ内３９０　国土交通省 那賀川河川事務所 / Nagakawa River Office, Ministry of Land, Infrastructure, Transport and Tourism,  390 Muronouchi, Ryoke-cho, Anan City, Tokushima 774-0011 <br>https://livecamera.fujiyamasan.com/tokushima-anan-ryoke-kuwano-river-r-3_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6657523,33.9240116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桑野川左岸8.5K津乃峰橋ライブカメラ / Kuwano River left bank 8.5K Tsunominebashi live camera</name>
+        <description><![CDATA[徳島県阿南市長生町「那賀川河川事務所」/ Nagaikecho, Anan City, Tokushima Prefecture<br>"Nakagawa River Office"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kuwano-river-tsunomine-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6253485,33.9064901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国地方整備局那賀川右岸7.0K那賀川橋ライブカメラ / Shikoku Regional Development Bureau Nakagawa Right Bank 7.0K Nakagawabashi Live Camera</name>
+        <description><![CDATA[〒774-0044 徳島県阿南市上中町中原「国土交通省四国地方整備局」/  Nakabara, Kaminaka-cho, Anan City, Tokushima 774-0044 "Shikoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/tokushima-anan-nakagawa-r-7_0k-nakagawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.622291,33.9377236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国地方整備局那賀川右岸16.5K加茂谷ライブカメラ / Shikoku Regional Development Bureau Nakagawa Right Bank 16.5K Kamoya Live Camera</name>
+        <description><![CDATA[〒771-5173 徳島県阿南市加茂町不け「国土交通省四国地方整備局」/ Fuke, Kamo-cho, Anan City, Tokushima Prefecture 771-5173<br>"Shikoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kamo-nakagawa-r-16_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.553136,33.9156509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国地方整備局桑野川左岸9.1K長生橋ライブカメラ / Shikoku Regional Development Bureau Kuwano River Left Bank 9.1K Choseibashi Live Camera</name>
+        <description><![CDATA[〒774-0046 徳島県阿南市長生町松ノ元「国土交通省四国地方整備局」/ Matsunomoto, Nagaike-cho, Anan City, Tokushima 774-0046 "Shikoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/tokushima-anan-kuwanogawa-l-9_1k-nagaikebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.6188453,33.9062084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正木ダムライブカメラ / Masaki Dam Live Camera</name>
+        <description><![CDATA[〒771-4505 徳島県勝浦郡上勝町正木藤ノ内 正木ダム 「勝浦町・上勝町役場」/ Masaki Dam,   Fujinouchi Masaki, Kamikatsu-cho, Katsuura-gun, Tokushima 771-4505, "Katsuura Town / Kamikatsu Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4267298,33.9128012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那賀川和食ライブカメラ / Nakagawa River Wajiki Live Camera</name>
+        <description><![CDATA[〒771-5203 徳島県那賀郡那賀町和食郷「徳島県河川整備課」/ Wajikigo, Naka-cho, Naka-gun, Tokushima Prefecture 771-5203, "Tokushima Prefecture River Development Division"<br>https://livecamera.fujiyamasan.com/tokushima-nakacho-wajikigo-nakagawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5047327,33.8615753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日和佐川西河内ライブカメラ / Hiwasa River Nishigawachi Live Camera</name>
+        <description><![CDATA[〒779-2306 徳島県海部郡美波町西河内大久保「徳島県県土整備部河川整備課」/ Okubo Nishigawachi, Minami-cho, Kaifu-gun, Tokushima 779-2306 "River Maintenance Division, Tokushima Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tokushima-minami-nishigawauchi-hiwasa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.5298003,33.7385371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍喰川宍喰ライブカメラ / Shishikui River Shishikui Live Camera</name>
+        <description><![CDATA[〒775-0501 徳島県海部郡海陽町宍喰浦正梶「徳島県県土整備部河川整備課」/ Masakaji Shishikuiura, Kaiyo-cho, Kaifu-gun, Tokushima 775-0501 "River Maintenance Division, Tokushima Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tokushima-kaiyo-shishikuiura-shishikui-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2994566,33.5649829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部川海部大橋ライブカメラ / Kaifu River Kaifu Ohashi Live Camera</name>
+        <description><![CDATA[〒775-0302 徳島県海部郡海陽町奥浦新町「徳島県県土整備部河川整備課」/ Okuura Shinmachi, Kaiyo-cho, Kaifu-gun, Tokushima 775-0302 "River Maintenance Division, Tokushima Prefectural Land Development Department"<br>https://livecamera.fujiyamasan.com/tokushima-kaiyo-kaifu-river-kaifuohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.353183,33.5961381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宍喰川中流付近ライブカメラ / Live camera near the middle course of Shishikui River</name>
+        <description><![CDATA[徳島県海部郡海陽町宍喰浦 「海陽町役場」/ Shishikuiura, Kaiyo-cho, Kaifu-gun, Tokushima "Kaiyo-cho government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3070948,33.5604466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部川河口付近ライブカメラ / Live camera near the mouth of the Kaifu River</name>
+        <description><![CDATA[〒775-0204 徳島県海部郡海陽町多良「海陽町役場」/  Tara, Kaiyo-cho, Kaifu-gun, Tokushima 775-0204, "Kaiyo-cho government office"<br>https://livecamera.fujiyamasan.com/tokuhima-kaiyo-kaifu-river-estuary.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3437576,33.605869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海部川中流付近ライブカメラ / Live camera near the middle of the Kaifu River</name>
+        <description><![CDATA[〒775-0413 徳島県海部郡海陽町神野「海陽町役場」/ Kamino, Kaiyo-cho, Kaifu-gun, Tokushima 775-0413, "Kaiyo Town Hall"<br>https://livecamera.fujiyamasan.com/tokushima-kaiyo-middle-of-kaifu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2999955,33.6604658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海南海洋センターライブカメラ / Kainan Ocean Center Live Camera</name>
+        <description><![CDATA[〒775-0101 徳島県海部郡海陽町浅川西福良４３　海陽町海南B&G海洋センター「海陽町役場」/  43 Asakawa Nishifukura, Kaiyo-cho, Kaifu-gun, Tokushima 775-0101 Kaiyo-cho Hainan B & G Marine Center "Kaiyo-cho government office"<br>https://livecamera.fujiyamasan.com/tokushima-kaiyo-kainakaiyo-center.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3699102,33.6221834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

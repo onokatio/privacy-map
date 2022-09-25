@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>富山県ライブカメラマップ / Toyama Prefecture Live Camera</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>富山県のライブカメラ<br>https://livecamera.fujiyamasan.com/toyamaken.html<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>富山県内ライブカメラ</name>
+      <Placemark>
+        <name>入善土木海岸ライブカメラ / Nyuzen Coast Live Camera</name>
+        <description><![CDATA[〒939-0703 富山県下新川郡朝日町宮崎 宮崎・境海岸　「富山県」/ Miyazaki Sakai Coast, Miyazaki, Asahi-cho, Shimoniikawa-gun, Toyama-ken 939-0703, "Toyama Prefecture"<br>https://livecamera.fujiyamasan.com/nyuzencho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5922374,36.9748899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蜃気楼カメラ / Mirage Camera</name>
+        <description>〒937-0067 富山県魚津市釈迦堂（大字）１丁目１０−１ 魚津市役所 / Uozu City Hall, 1-10-1 Shakado, Uozu-shi, Toyama 937-0067</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.409182,36.827356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雨晴海岸から望む女岩、富山湾 / the female rock from Amaharashi Coast, Toyama Bay</name>
+        <description><![CDATA[〒933-0133 富山県高岡市太田 「雨晴観光協会」 / Ota, Takaoka-shi, Toyama 933-0133, "Amaharashi Tourist Association"<br>https://livecamera.fujiyamasan.com/amabarashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0357108,36.8180416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伏木指向灯からの映像 / Video from Fushiki Directional Lights</name>
+        <description><![CDATA[〒933-0105 富山県高岡市伏木錦町１１−１５ 伏木海上保安部 / Fushiki Coast Guard, 11-15 Fushikinishiki-machi, Takaoka-shi, Toyama 933-0105<br>https://livecamera.fujiyamasan.com/toyama-fushiki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0618653,36.7939782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>射水ベイエリアライブカメラ / Imizu Bay Area Live Camera</name>
+        <description><![CDATA[〒934-0012 富山県射水市中央町１７−１ 射水ケーブルネットワーク / Imizu Cable Network, 17-1 Chuo-cho, Imizu-shi, Toyama-ken 934-0012<br>https://livecamera.fujiyamasan.com/imizubayarea.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.082937,36.780322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>呉羽山山頂パノラマ / Kurehayama summit panorama</name>
+        <description>930-0138 富山県富山市呉羽町７５３８ 富山観光ホテル / Toyama Kanko Hotel, Kureha-machi, Toyama-shi, Toyama 930-0138</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.181065,36.706584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山空港ライブカメラ / Toyama Airport Live Camera</name>
+        <description><![CDATA[富山県富山市萩原 「富山河川国道事務所」/ Hagihara, Toyama City, Toyama Prefecture "Toyama River National Highway Office"<br>https://livecamera.fujiyamasan.com/toyamaairport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1957248,36.6641521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山駅前ライブカメラ / Toyama Station Live Camera</name>
+        <description>〒939-2314 富山県富山市八尾町城生２７０５ 株式会社VLink / VLink Co., Ltd., 2705 Jono, Hachio-machi, Toyama-shi, Toyama 939-2314</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1781218,36.5833032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[おおかみこどもの花の家ライブカメラ / "Ookamikodomo no Hana no ie" Live Camera]]></name>
+        <description><![CDATA[930-0464 富山県中新川郡上市町浅生１８ おおかみこどもの花の家 / "Ookamikodomo no Hana no ie," 18 Aso, Kamiichi-machi, Nakaniikawa-gun, Toyama-ken 930-0464<br>https://livecamera.fujiyamasan.com/ookamikodomo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4058453,36.6599828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山ライブカメラ / Tateyama Live Camera</name>
+        <description>〒930-0858 富山県富山市牛島町１０−１０−１８ 北日本放送（株）本社 / KNB, 10-10-18 Ushijima-cho, Toyama-shi, Toyama-ken 930-0858</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.214257,36.704809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山町・立山連峰カメラ / Tateyama Town and Tateyama Mountains Camera</name>
+        <description>〒930-0221 富山県中新川郡立山町前沢２４４０ 立山町役場 / Tateyama Town Hall, 2440 Maezawa, Tateyama-machi, Nakaniikawa-gun, Toyama 930-0221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.313716,36.663548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山映像ライブカメラ / Tateyama Live Camera</name>
+        <description>〒930-8510 富山県富山市新桜町７−7番38号 富山市 商工労働部 観光政策課 「富山市観光ガイド」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2135682,36.6958044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>称名滝ライブカメラ / Shomyo Waterfalls Live Camera</name>
+        <description>〒930-1403 富山県中新川郡立山町芦峅寺ブナ坂他１１国有林内 称名滝 「立山砂防事務所」 / Shomyo Waterfalls, National Forest, Hoka 11, Bunasaka, Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama 930-1403</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5070714,36.5799367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山黒部アルペンルート室堂ライブカメラ / Tateyama Kurobe Alpen Route Murodo Live Camera</name>
+        <description><![CDATA[富山県中新川郡立山町 / Tateyama-cho, Nakaniikawa-gun, Toyama<br>https://livecamera.fujiyamasan.com/murodoudaira.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5954981,36.5773866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山黒部アルペンルートライブカメラ / Tateyama Kurobe Alpine Route Live Camera</name>
+        <description>〒930-8558　富山県富山市桜町１－１－３６　富山地鉄ビル３階 立山黒部観光株式会社 / Tateyama Kurobe Tourism Corporation, Toyamachitetsu Building 3F, 1-1-36 Sakura-machi, Toyama-shi, Toyama-ken 930-8558</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2142031,36.7007222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山カルデラ展望台 / Tateyama Caldera observatory</name>
+        <description>〒930-1412 富山県立山町芦峅寺字ブナ坂外11国有林弥陀ケ原 立山カルデラ展望台 「立山砂防事務所」 / Tateyama Caldera observatory, National Forest Midagahara, Soto 11, Bunasaka, Ashikuraji, Tateyama-cho, Toyama 930-1412</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5615745,36.5662187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒部ダムライブカメラ / Kurobe Dam Live Camera</name>
+        <description><![CDATA[富山県中新川郡立山町芦峅寺 黒部ダム / Kurobe Dam, Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama<br>https://livecamera.fujiyamasan.com/kurobedam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.666094,36.566616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北アルプス立山山頂ライブカメラ（雄山頂上より）</name>
+        <description><![CDATA[〒930-1406 富山県中新川郡立山町芦峅寺　雄山神社（峰本社）（立山権現） 社務所内 「Welcome to JR9VQ's Page」<br>https://livecamera.fujiyamasan.com/tateyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6178912,36.5731848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山ライブカメラ / Tateyama Live Camera</name>
+        <description><![CDATA[〒930-1406 富山県中新川郡立山町芦峅寺室堂 立山室堂山荘 / Tateyama Murodo Villa, Murodo, Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama 930-1406<br>https://livecamera.fujiyamasan.com/murodoudaira.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6010558,36.5780237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大観峰ライブカメラ / Daikanbo Live Camera</name>
+        <description><![CDATA[富山県中新川郡立山町　立山黒部アルペンルート 大観峰駅 / Daikanbo Station, Tateyama Kurobe Alpine Route, Tateyama-cho, Nakaniikawa-gun, Toyama<br>https://livecamera.fujiyamasan.com/daikanboueki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6318264,36.5698384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山三山 / The Tateyama Peaks　</name>
+        <description><![CDATA[富山県中新川郡立山町芦峅寺　「インターネット自然研究所」 / Ashikuraji, Tateyama-machi, Nakaniikawa-gun, Toyama, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.445831,36.584658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山ライブカメラ / Tateyama Live Camera</name>
+        <description>〒930-1406 富山県中新川郡 立山町芦峅寺ブナ坂61 国土交通省北陸地方整備局立山砂防事務所 / Ministry of Land, Infrastructure and Transport Hokuriku Regional Development Bureau Tateyama Sabo office, 61 Bunasaka, Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama 930-1406</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4448925,36.5818404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山の主峰・雄山</name>
+        <description><![CDATA[富山県中新川郡立山町芦峅寺８<br>立山芦峅小学校]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.384827,36.577817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鉢伏山ライブカメラ / Mt. Hachibuse Live Camera</name>
+        <description><![CDATA[〒930-1458 富山県富山市有峰 鉢伏山　「砺波市公式観光サイト 砺波旅（となたび）」/ Hachibuseyama, Arimine, Toyama-shi, Toyama-ken 930-1458, "Tonami City Official Tourism Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4269385,36.5149023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小矢部市ライブカメラ / Oyabe City Live Camera</name>
+        <description>〒932-0057 富山県小矢部市本町１−１ 小矢部市役所 / Oyabe City Hall, 1-1 Honmachi, Oyaba-shi, Toyama 932-0057</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8686624,36.6755267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砺波チューリップ公園北門・パノラマテラスライブカメラ</name>
+        <description>富山県砺波市花園町１−３２　砺波チューリップ公園　「砺波市公式観光サイト 砺波旅（となたび）」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9606503,36.6408348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南砺市ライブカメラ / Nanto City Live Camera</name>
+        <description><![CDATA[〒939-1521 富山県南砺市苗島４８８０ 南砺市役所 「南砺市観光ガイド」/ Nanto City Hall, 4880 Naejima, Nanto-shi, Toyama-ken 939-1521, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.919511,36.588052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夢の平コスモス荘ライブカメラ</name>
+        <description>〒939-1428 富山県砺波市五谷１６０　夢の平コスモス荘　「砺波市公式観光サイト 砺波旅（となたび）」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0213476,36.5873659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鉢伏山（散居村風景）ライブカメラ</name>
+        <description>〒932-0305 富山県砺波市庄川町金屋閑城寺１－１　夢木香村キャンプ場　「砺波市公式観光サイト 砺波旅（となたび）」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9863551,36.5618234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄川水記念公園ライブカメラ</name>
+        <description><![CDATA[富山県砺波市庄川町金屋１５５０　庄川水記念公園　「砺波市公式観光サイト 砺波旅（となたび）」<br>https://livecamera.fujiyamasan.com/tonami-mizukinen-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9954287,36.5724934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舟戸橋ライブカメラ / Funado Bridge Live Camera</name>
+        <description><![CDATA[富山県砺波市庄川町　舟戸橋　「砺波市公式観光サイト 砺波旅（となたび）」/ Funado Bridge, Shogawa-machi, Tonami-shi, Toyama-ken, "Tonami City Official Tourism Web Site"<br>https://livecamera.fujiyamasan.com/tonami-funado-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9914007,36.5794367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄川船舶ライブカメラ</name>
+        <description>〒932-0304 富山県砺波市庄川町小牧27　庄川峡湖上遊覧船　「砺波市公式観光サイト 砺波旅（となたび）」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0088066,36.554072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>閑乗寺公園ライブカメラ / Kanjoji Park Live Camera</name>
+        <description><![CDATA[〒939-1600 富山県南砺市井波外２ケ村入会地　閑乗寺公園　「南砺市観光ガイド」/ Kanjoji Park, Nanto-shi, Toyama-ken 939-1600, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9863072,36.5600902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>園芸植物園ライブカメラ / Gardening Botanical Garden Live Camera</name>
+        <description><![CDATA[〒939-1552 富山県南砺市柴田屋128　南砺市園芸植物園フローラルパーク　「南砺市観光ガイド」/ Nanto City Gardening Botanical Garden "Floral Park," 128 Shibataya, Nanto-shi, Toyama-ken 939-1552, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9130477,36.5906792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福光行政センター屋上ライブカメラ / Fukumitsu Administration Center Rooftop Live Camera</name>
+        <description><![CDATA[〒939-1692　富山県南砺市荒木1550番地　「南砺市観光ガイド」/ 1550 Araki, Nanto-shi, Toyama-ken 939-1692, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8754656,36.5574489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆ～ゆうランド・花椿ライブカメラ</name>
+        <description><![CDATA[〒939-1877 富山県南砺市 井口字持掛谷35　ゆ～ゆうランド・花椿　「南砺市観光ガイド」<br>https://livecamera.fujiyamasan.com/nanto-iguchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.940986,36.5266786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>イオックスアローザスキー場ライブカメラ</name>
+        <description>〒939-1681 富山県南砺市 才川七字ススケ原115　イオックスアローザスキー場　「南砺市観光ガイド」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8209248,36.5148736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜ヶ池クライミングセンターライブカメラ / Sakuragaike Climbing Center Live Camera</name>
+        <description><![CDATA[〒939-1835 富山県南砺市立野原東１５１１　桜ヶ池クライミングセンター　「南砺市観光ガイド」/ Sakuragaike Climbing Center, 1511 Tatenoharahigashi, Nanto-shi, Toyama-ken 939-1835, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.871116,36.5009604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄川峡ダム湖（ゆ～楽）ライブカメラ</name>
+        <description>〒939-1902 富山県南砺市大崩島９６−２  平ふれあい温泉センター・ゆー楽　「南砺市観光ガイド」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9771454,36.4557862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利賀国際キャンプ場ライブカメラ / Toga International Camp Site Live Camera</name>
+        <description>〒939-2513 富山県南砺市利賀村上百瀬88　利賀国際キャンプ場　「南砺市観光ガイド」/ Toga International Camp Site, 88 Kamimomose, Toga-mura, Nanto-shi, Toyama-ken 939-2513</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0399332,36.4412338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利賀瞑想の郷ライブカメラ / Toga Meisonosato Live Camera</name>
+        <description><![CDATA[〒939-2514 富山県南砺市利賀村上畠１０１　南砺市役所 利賀瞑想の郷　「南砺市観光ガイド」/ Toga Meisonosato, 101 Uebatake, Toga-mura, Nanto-shi, Toyama-ken 939-2514, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0165644,36.4340811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>たいらスキー場ライブカメラ / Taira Ski Resort Live Camera</name>
+        <description><![CDATA[〒939-1927　富山県南砺市梨谷　たいらスキー場　「南砺市観光ガイド」/ Taira Ski Resort, Nashitani, Nanto-shi, Toyama-ken 939-1927, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9272,36.442386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>世界遺産相倉合掌造り集落ライブカメラ / World Heritage Aikura Gakusho Collaboration Settlement Live Camera</name>
+        <description><![CDATA[〒939-1915 富山県南砺市相倉６１１　「南砺市観光ガイド」/ 611 Aikura, Nanto-shi, Toyama-ken 939-1915, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9362242,36.4271268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>世界遺産菅沼合掌造り集落ライブカメラ / World Heritage Suganuma Gassho Collaboration Village Live Camera</name>
+        <description><![CDATA[〒939-1973 富山県南砺市菅沼８５５　「南砺市観光ガイド」 / 855 Suganuma, Nanto-shi, Toyama-ken 939-1973, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8794045,36.4009507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タカンボースキー場ライブカメラ / Takanbo Ski Slopes Live Camera</name>
+        <description>〒939-1977 富山県南砺市西赤尾町　タカンボースキー場　「南砺市観光ガイド」/ Takanbo Ski Slopes, </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8671109,36.3798056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂湖ライブカメラ / Lake Katsura Live Camera</name>
+        <description><![CDATA[〒939-1600 富山県南砺市桂　桂湖ビジターセンター　「南砺市観光ガイド」/ Lake Katsura Visitor Center, Katsura, Nanto-shi, Toyama-ken 939-1600, "Nanto City Tourism Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8378112,36.3290707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルプス山岳郷 / Alps mountain Township</name>
+        <description>〒390-1520 長野県松本市安曇２０９−１ アルプス観光協会 / Alps Tourism Association, 209-1 Azumi, Matsumoto-shi, Nagano 390-1520</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.8041959,36.1837057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山砂防事務所ライブカメラ / Tateyama Mountain Area Sabo Offica Live Camera</name>
+        <description>〒930-1406 富山県中新川郡立山町芦峅寺ブナ坂61 北陸地方整備局 立山砂防事務所 / Hokuriku Regional Development Bureau Tateyama Sabo Office, 61 Bunazaka, Ashikuraji, Tateyama-machi, Nakaniikawa-gun, Toyama-ken 930-1406</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4448901,36.5818343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山雪みちネットワーク / Toyama Snow-covered Road Network</name>
+        <description>〒930-0857 富山県富山市奥田新町２ 富山河川国道事務所 / Toyama Office of River and National Highway, 2 Okudashinmachi, Toyama-shi, Toyama-ken 930-0857</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2167428,36.7069415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>能越自動車道ライブカメラ / Noetsu Expressway Live Camera</name>
+        <description>〒930-0096 富山県富山市舟橋北町４−１９（森林水産会館） 富山県道路公社 / Toyama Prefectural Road Public Corporation, 4-19 Funahashikita-machi, Toyama-shi, Toyama-ken 930-0096</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.208483,36.696463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山連峰・星空ライブカメラ / Tateyama mountain peak and starry sky live camera</name>
+        <description>〒930-0155 富山県富山市三熊４９−４ 富山市天文台</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.101465,36.655863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山県冬期道路情報 / Toyama prefecture winter road information</name>
+        <description>〒930-0006 富山県富山市新総曲輪１−７ 富山県庁土木部道路課雪対策係 / Toyama prefectural government civil engineering department road department snow protection officer, 1-7 Shinsogawa, Toyama-shi, Toyama-ken 930-0006</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.211302,36.695277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山県富山市内・富山駅北地区ライブカメラ / Toyama City, Toyama Prefecture, Toyama Station North Area Live Camera</name>
+        <description><![CDATA[〒930-0858 富山県富山市牛島町１０−１８ 北日本放送 / Kitanihon Broadcasting Co., Ltd. 10-18 Ushijima-cho, Toyama City, Toyama Prefecture 930-0858<br>https://livecamera.fujiyamasan.com/toyama-city-area-knb.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2146803,36.7047178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>世界遺産菅沼合掌造り集落ライブカメラ / World Heritage Suganuma Gassho-zukuri Village Live Camera</name>
+        <description><![CDATA[〒939-1973 富山県南砺市菅沼１３４　塩硝の館 「南砺市役所」 / Salt Glass House, 134 Suganuma, Nanto City, Toyama Prefecture 939-1973  "Nanto City Hall"<br>https://livecamera.fujiyamasan.com/nanto-suganuma.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8869538,36.4041013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南砺市役所本館屋上ライブカメラ / Nanto City Hall Main Building Rooftop Live Camera</name>
+        <description><![CDATA[〒939-1732 富山県南砺市荒木1550 南砺市役所 / Nanto City Hall, 1550 Araki, Nanto City, Toyama Prefecture 939-1732 <br>https://livecamera.fujiyamasan.com/nanto-araki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8753015,36.5572407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あわすのスキー場ライブカメラ / Awasuno Ski Resort Live Camera</name>
+        <description><![CDATA[〒930-1451 富山県富山市粟巣野１８６８ あわすのスキー場 ( ＮＰＯ法人あわすの ) / Awasuno Ski Resort (NPO corporation Awasuno), 1868 Awasuno, Toyama City, Toyama Prefecture 930-1451<br>https://livecamera.fujiyamasan.com/awasunoski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4405569,36.5759636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山山麓スキー場ライブカメラ / Tateyama Sanroku Ski Resort Live Camera</name>
+        <description><![CDATA[〒930-1454 富山県富山市原５５番地 立山山麓スキー場 極楽坂エリア / Tateyama Sanroku Ski Resort Gokurakuzaka Area, 55 Hara, Toyama City, Toyama Prefecture 930-1454<br>https://livecamera.fujiyamasan.com/tateyamaski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4171296,36.5749067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>氷見海岸から見える立山連峰ライブカメラ / Tateyama mountain range live camera seen from Himi coast</name>
+        <description><![CDATA[〒935-8686 富山県氷見市鞍川1060　氷見市役所 /  Himi City Hall, 1060 Kurakawa, Himi City, Toyama Prefecture 935-8686<br>https://livecamera.fujiyamasan.com/himikaigan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9729249,36.8558795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立山山頂ライブカメラ / Tateyama summit live camera</name>
+        <description><![CDATA[〒930-1414 富山県中新川郡立山町芦峅寺 「立山黒部貫光株式会社」 / Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama 930-1414 "Tateyama Kurobe Kanko Co., Ltd."<br>https://livecamera.fujiyamasan.com/tateyamasummit.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5952041,36.5774427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山県魚津市釈迦堂ライブカメラ / Toyama Prefecture Uozu Shakado live camera</name>
+        <description><![CDATA[〒937-0067 富山県魚津市釈迦堂８１４ 魚津埋没林博物館 /  Uozu Buried Forest Museum, 814 Shakado, Uozu City, Toyama Prefecture 937-0067<br>https://livecamera.fujiyamasan.com/uozushi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3942806,36.8227488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒部平駅ライブカメラ / Kurobedaira Station Live Camera</name>
+        <description><![CDATA[〒930-0200 富山県中新川郡立山町芦峅寺 黒部平　黒部平駅 「立山黒部観光株式会社」/ Kurobedaira Station, Ashikuraji, Tateyama-cho, Nakaniikawa-gun, Toyama 930-0200<br>"Tateyama Kurobe Tourism Co., Ltd."<br>https://livecamera.fujiyamasan.com/kurobeeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6501141,36.567015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

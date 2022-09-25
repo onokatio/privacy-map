@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>香川県ライブカメラマップ / Kagawa Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>香川県内ライブカメラ</name>
+      <Placemark>
+        <name>小豆島エンジェルロードライブカメラ / Shodoshima Angel Road Live Camera</name>
+        <description>〒761-4101 香川県小豆郡土庄町甲２４−６７ 小豆島国際ホテル / Shodoshima International Hotel, 24-67 Ko, Tonosho-cho, Shozu-gun, Kagawa 761-4101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1882345,34.4793561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>家浦港ライブカメラ / Ieura Port Live Camera</name>
+        <description>香川県小豆郡土庄町豊島家浦 「USTREAM」 / Teshima Ieura, Tonosho-cho, Shozu-gun, Kagawa 761-4661</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.061613,34.488625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ屋島</name>
+        <description><![CDATA[香川県高松市屋島東町<br>獅子の霊厳展望台]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.098649,34.358211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ高松シンボルタワー</name>
+        <description><![CDATA[香川県高松市サンポート２−１<br>高松シンボルタワー<br>ライブカメラ高松]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.046764,34.352223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西日本放送ライブカメラ / Nishinippon Broadcasting Co., Ltd. Live Camera</name>
+        <description><![CDATA[〒760-8575 香川県高松市丸の内８−１５西日本放送本社 / Nishinippon Broadcasting Co., Ltd., 8-15 Marunouchi, Takamatsu-shi, Kagawa-ken 760-8575<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-marunouchi-rnc.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.050949,34.347688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松市香南町ライブカメラ / Takamatsu City Konan Town Live Camera</name>
+        <description>〒761-1402 香川県高松市香南町由佐２０８２　一光電機（株）  / IKKO ELECTRIC Co., Ltd., 2082 Yusa, Konan-cho, Takamatsu-shi, Kagawa-ken 761-1402</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0069579,34.2340621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国分寺カメラ / Kokubunji Camera</name>
+        <description><![CDATA[〒769-0101 香川県高松市国分寺町新居１８２０−１ 高松市立新居公民館 「ケーブルメディア四国」/ Takamatsu City Arai Community Center, Nii, Kokubunji-cho, Takamatsu City, Kagawa, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kokubunji-nii.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.959732,34.304308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五色台からみた瀬戸内海 / Seto Inland Sea from Goshikidai</name>
+        <description><![CDATA[香川県坂出市　「インターネット自然研究所」 / Sakaide City, Kagawa, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.911753,34.312532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬戸大橋LIVE / Seto Bridge LIVE</name>
+        <description>KBN香川テレビ/ Kagawa TV Broadcast Network</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.828411,34.354508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬戸内海ライブカメラ / Seto Inland Sea Live Camera</name>
+        <description>〒769-0210 香川県綾歌郡宇多津町青の山3810−2 「備讃瀬戸海上交通センター」 / Bisan Seto Vessel Traffic Service Center, 3810-2 Aonoyama, Utazu-cho, Ayaka-gun, Kagawa-ken 769-0200</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8212817,34.3031953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善通寺ライブカメラ / Zentsu-ji Temple Live Camera</name>
+        <description><![CDATA[香川県善通寺市 「快速へんろ」 / Zentsuji City, Kagawa, "Kaisoku Henro"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.787041,34.228835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津嶋神社ライブカメラ / Tsushima Jinja (Shrine) Live Camera</name>
+        <description><![CDATA[〒767-0031 香川県三豊市三野町大見　津嶋神社　「三豊市ライブカメラ」 / Tsushima Jinja (Shrine), Omi, Mino-cho, Mitoyo-shi, Kagawa-ken 767-0031, "Mitoyo City Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7029484,34.2415899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫雲出山ライブカメラ / Mt. Shiude Live Camera</name>
+        <description><![CDATA[〒769-1104 香川県三豊市詫間町大浜乙451番地1　紫雲出山山頂展望台「三豊市役所」/ Shiudeyama summit observatory, 451 Otsu, Ohama, Takuma-cho, Mitoyo-shi, Kagawa-ken 769-1104, "Mitoyo City Official Website"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5955041,34.2437721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほたる見公園ライブカメラ / Hotarumi Park Live Camera</name>
+        <description><![CDATA[香川県仲多度郡まんのう町吉野　ほたる見公園　「まんのういけどっとこむ」 / Hotarumi Park, Yoshino, Manno-cho, Nakatado-gun, Kagawa, "Mannouike.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.863516,34.167003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スノーパーク雲辺寺ライブカメラ / Snow Park Unpenji</name>
+        <description>香川県観音寺市大野原町有木 スノーパーク雲辺寺 / Snow Park Unpenji, Ariki, Onohara-cho, Kannonji City, Kagawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.720179,34.035448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香東川岩崎橋ライブカメラ / Katogawa Iwasakibashi live camera</name>
+        <description><![CDATA[香川県高松市香川町川東上「国土交通省河川情報センター」/ Kawahigashikami, Kagawa Town, Takamatsu City, Kagawa Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0365758,34.2308176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和田精密歯研レスポアールライブカメラ</name>
+        <description>〒761-0130 香川県高松市庵治町生ノ國３１８０−１ 歯ＡＲＴ美術館</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1590827,34.3688092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本津川国分寺ライブカメラ / Mototsugawa Kokubunji live camera</name>
+        <description><![CDATA[〒769-0101 香川県高松市国分寺町新居 「香川県河川監視カメラ」/ Arai, Kokubunji-cho, Takamatsu City, Kagawa Prefecture 769-0101<br>"Kagawa prefecture river surveillance camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9675156,34.3134829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香東川成合ライブカメラ / Katogawa Nariai live camera</name>
+        <description><![CDATA[〒761-8081 香川県高松市成合町「香川県河川監視カメラ」/  Nariai Town, Takamatsu City, Kagawa Prefecture 761-8081, "Kagawa Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-nariai-koto-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0127731,34.299875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川新川橋ライブカメラ / Shinkawa Shinkawabashi live camera</name>
+        <description><![CDATA[〒761-0113 香川県高松市屋島西町「香川県河川監視カメラ」/ Yashima Nishimachi, Takamatsu City, Kagawa Prefecture 761-0113<br>"Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-shinkawa-shinkawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0912774,34.3474756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>春日川川北橋ライブカメラ / Kasuga River Kawakitabashi live camera</name>
+        <description><![CDATA[〒761-0445 香川県高松市西植田町「香川県河川監視カメラ」/ Nishiueda Town, Takamatsu City, Kagawa Prefecture 761-0445, "Kagawa river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kasuga-river-kawakita-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0817686,34.2261892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンポート高松ライブカメラ / Sunport Takamatsu live camera</name>
+        <description><![CDATA[〒760-0019 香川県高松市サンポート２−１「ケーブルメディア四国」/ 2-1 Sunport, Takamatsu City, Kagawa Prefecture 760-0019, Japan<br>"Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-sunport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0471767,34.3527192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松市消防団庵治分団第2部王の下屯所 / Takamatsu City Fire Department
+Aji Branch 2nd Department Onoshita Tonsho</name>
+        <description><![CDATA[〒761-0130 香川県高松市庵治町王の下 高松市消防団庵治分団第2部王の下屯所 「ケーブルメディア四国」 / Ohnoshita Aji-cho, Takamatsu City, Kagawa Prefecture 761-0130, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-aji-fishing-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1263871,34.3912956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋島東町ライブカメラ / Yashima Higashi Town Live Camera</name>
+        <description><![CDATA[〒761-0111 香川県高松市屋島東町９４２−１ 高松市立屋島東小学校「ケーブルメディア四国」 / Takashima City Yashimahigashi Elementary School,  942-1 Yashimahigashi-cho, Takamatsu-shi, Kagawa  761-0111, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-yashimahigashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1163697,34.3540454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>擂鉢谷川ライブカメラ / Suribachidani River Live Camera</name>
+        <description><![CDATA[〒760-0012 香川県高松市瀬戸内町１５−６ 西部ポンプ場「ケーブルメディア四国」 / Western pumping station, 15-6 Setouchi-cho, Takamatsu-shi, Kagawa 760-0012, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-setouchi-suribachidani-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0289528,34.3465342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀水川ライブカメラ / Kamemizu River Live Camera</name>
+        <description><![CDATA[〒761-8001 香川県高松市亀水町１４２４−２ 下笠居西部保育所 「ケーブルメディア四国」 / Shimokasai Western nursery school, 1424-2, Kamemizu-cho, Takamatsu-shi, Kagawa 〒761-8001, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-tarumi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.946186,34.372291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川ライブカメラ / Shinkawa Live Camera</name>
+        <description><![CDATA[〒761-0101 香川県高松市春日町１７３５−３ Stnet本店ビル 「ケーブルメディア四国」 / Stnet head office building, 1735-3 Kasugacho, Takamatsu City, Kagawa Prefecture 761-0101, <br>"Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kasuga-shinkawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0937843,34.3358571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松漁港ライブカメラ / Takamatsu fishing port live camera</name>
+        <description><![CDATA[〒760-0012 香川県高松市瀬戸内町４９ 高松市消防団西部分団第2部消防屯所 「ケーブルメディア四国」 / Takamatsu City Fire Department West Division 2nd Department Fire Department,   49 Setouchi Town, Takamatsu City, Kagawa Prefecture 760-0012, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-fishing-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0344154,34.3486665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛染川ライブカメラ / Aizomegawa River Live Camera</name>
+        <description><![CDATA[〒761-8012 香川県高松市香西本町 香西ポンプ場 「ケーブルメディア四国」/ Kosai Pumping Station, Kosaihonmachi, Takamatsu City, Kagawa Prefecture 761-8012, "Cable Media Shikoku"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0011278,34.350017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川島ライブカメラ / Kawashima Live Camera</name>
+        <description><![CDATA[〒761-0443 香川県高松市川島東町８６４−１ 高松市立川島小学校「ケーブルメディア四国」/ Takashima City Kawashima Elementary School, 864-1 Kawashimahigashicho, Takamatsu City, Kagawa Prefecture 761-0443, "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kawashimahigashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0892656,34.2759427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一光電機ライブカメラ / Ikko Electric Live Camera</name>
+        <description><![CDATA[〒761-1402 香川県高松市香南町由佐２０８２ 一光電機㈱ / Ikko Electric Co., Ltd., 2082 Yusa Konan Town, Takamatsu City, Kagawa Prefecture 761-1402, Japan<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-konan-ikkodenki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.006957,34.234058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大束川富士見橋ライブカメラ / Daisoku River Fujimibashi live camera</name>
+        <description><![CDATA[〒762-0082 香川県丸亀市飯山町川原９５５ 「国土交通省河川情報センター」/ 955 Kawahara, Hanzan-cho, Marugame-shi, Kagawa 762-0082 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-daisoku-river-fujimi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8556283,34.2656034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川左岸10.2K垂水橋ライブカメラ / Doki River Left Bank 10.2K Tarumi Bridge Live Camera
+</name>
+        <description><![CDATA[香川県丸亀市垂水町 垂水橋 「香川河川国道事務所」/ Tarumi Bridge, Tarumi Town, Marugame City, Kagawa Prefecture, "Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-tarumi-doki-river-tarumi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.837744,34.2242057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川左岸3.7K丸亀大橋ライブカメラ / Doki river Left Bank 3.7K Marugame Ohashi live camera</name>
+        <description><![CDATA[〒763-0081 香川県丸亀市土器町西１丁目 丸亀大橋 「香川河川国道事務所」/ Marugame Ohashi 1-chome, Dokichonishi, Marugame City, Kagawa Prefecture 763-0081 "Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-doki-river-marugame-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8197106,34.2807246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川左岸2.7K丸亀橋ライブカメラ / Doki River Left Bank Marugame Bridge Live Camera</name>
+        <description><![CDATA[香川県丸亀市土器町西5丁目 丸亀橋 「香川河川国道事務所」/ Marugame Bridge, Dokichonishi 5-chome, Marugame City, Kagawa Prefecture "Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-doki-river-marugamebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8120131,34.2872107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川左岸1.7K蓬莱橋ライブカメラ / Doki River Left Bank 1.7K Horaibashi Live Camera</name>
+        <description><![CDATA[香川県丸亀市土居町 蓬莱橋「香川河川国道事務所」/ Horaibashi Bridge, Higashi 7-chome, Doki-cho, Marugame City, Kagawa Prefecture, "Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-doki-river-horai-bridge-2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8043068,34.2931834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大束川上車橋ライブカメラ / Otsukawa River Kamisamabashi Live Camera</name>
+        <description><![CDATA[〒762-0082 香川県丸亀市飯山町川原 上車橋 「香川県河川監視カメラ」/  Kamehashibashi, Kawahara Iiyama-cho, Marugame City, Kagawa Prefecture 762-0082,   "Kagawa Prefecture River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.858918,34.2610888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬戸大橋ライブカメラ / Seto Ohashi Live Camera</name>
+        <description><![CDATA[〒762-0001 香川県坂出市京町１丁目６−３７　「香川テレビ放送網」/ 1-6-37 Kyomachi, Sakaide City, Kagawa Prefecture 762-0001<br>”Kagawa TV Broadcast Network”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8593739,34.3141303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五色台瀬戸内海ライブカメラ / Goshikidai Seto Inland Sea Live Camera </name>
+        <description><![CDATA[〒762-0015 香川県坂出市大屋冨町３０４２　休暇村讃岐五色台 「インターネット自然研究所」/ Kyukamura Sanuki Goshikidai 3042, Oyabucho, Sakaide 762-0015, Kagawa Prefecture, "Internet Nature Research Institute"<br>https://livecamera.fujiyamasan.com/kagawa-sakaide-goshikidai-seto-inland-sea.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.920238,34.356439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金倉川木備津橋ライブカメラ / Kanakura River Kibitsubashi Live Camera</name>
+        <description><![CDATA[香川県善通寺市大麻町 「国土交通省川の防災情報」/ Oosa Town, Zentsuji City, Kagawa Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-zentsuji-kanakura-river-kibitsu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8118663,34.2025918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨部川六番ライブカメラ / Kabe River Rokuban Live Camera</name>
+        <description><![CDATA[香川県さぬき市鴨部 「国土交通省川の防災情報」/ Kabe, Sanuki City, Kagawa Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-kabe-river-rokuban.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2134282,34.3157408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津田川時友通ライブカメラ / Tsuda River Tokitodouri Live Camera</name>
+        <description><![CDATA[〒761-0902 香川県さぬき市大川町富田中８２０−６「国土交通省川の防災情報」/ 820-6 Tomidanaka, Okawa-machi, Sanuki-shi, Kagawa 761-0902 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-okawa-tsuda-river-tokitomodori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2361848,34.2715422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨部川脇橋ライブカメラ / Kabe River Wakihashi Live Camera</name>
+        <description><![CDATA[〒769-2323 香川県さぬき市寒川町神前 「香川県河川監視カメラ」/  Kanzaki, Sangawa-machi, Sanuki City, Kagawa Prefecture 769-2323,<br>"Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-sangawa-kabe-river-wakihashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2123501,34.2860244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津田川弁天橋ライブカメラ / Tsuda River Benten Bridge Live Camera</name>
+        <description><![CDATA[〒761-0903 香川県さぬき市大川町富田東 弁天橋 「香川県河川監視カメラ」/  Bentenbashi, Tomida Higashi, Okawa-machi, Sanuki City, Kagawa Prefecture 761-0903,  "Kagawa Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-tsuda-river-benten-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2492765,34.2586618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湊川与田山ライブカメラ / Minatogawa Yodayama Live Camera</name>
+        <description><![CDATA[〒769-2713 香川県東かがわ市与田山「香川県河川監視カメラ」/ Yodayama, Higashikagawa City, Kagawa Prefecture 769-2713 “Kagawa Prefecture River Surveillance Camera”<br>https://livecamera.fujiyamasan.com/kagawa-higashikagawa-yodayama-minato-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3189246,34.2085951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫雲出山第2駐車場展望台桜ライブカメラ / Shiundeyama Second Parking Observatory Sakura Live Camera</name>
+        <description><![CDATA[〒769-1104 香川県三豊市詫間町大浜 紫雲出山 第２駐車場展望台 「三豊市観光交流局」 / 〒769-1104 Shiundeyama Second Parking Observatory, Ohama, Takuma-cho, Mitoyo-shi, Kagawa Prefecture, "Mitoyo City Tourism Exchange Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6012902,34.2421295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紫雲出山遺跡館桜ライブカメラ / Shiudeyama Archaeological Museum Sakura Live Camera</name>
+        <description><![CDATA[〒769-1105 香川県三豊市詫間町積４５１「三豊市観光交流局」 /451 Tsumu, Takuma-cho, Mitoyo-shi, Kagawa 769-1105, "Mitoyo City Tourism Exchange Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5963919,34.2438471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>財田川樋盥橋ライブカメラ / Saita River Hidaira Bridge Live Camera</name>
+        <description><![CDATA[〒768-0103 香川県三豊市山本町財田西 樋盥橋「国土交通省川の防災情報」/ Hidaira Bridge, Saita Nishi, Yamamoto Town, Mitoyo City, Kagawa Prefecture 768-0103, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-saita-river-hidaira-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7362848,34.1208784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川唐崎橋ライブカメラ / Takasegawa Karasakibashi live camera</name>
+        <description><![CDATA[〒769-1102 香川県三豊市詫間町松崎 「国土交通省河川情報センター」/ Matsuzaki, Takuma-cho, Mitoyo-shi, Kagawa 769-1102, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6974768,34.2249817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父母ヶ浜ライブカメラ / Chichibugahama Live Camera</name>
+        <description><![CDATA[〒769-1404 香川県三豊市仁尾町仁尾乙 「三豊市観光交流局」/  Niootsu, Nio-cho, Mitoyo-shi, Kagawa 769-1404, "Mitoyo City Tourism Exchange Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6487605,34.1893668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>財田川長瀬橋ライブカメラ / Saita River Nagase Bridge Live Camera</name>
+        <description><![CDATA[〒768-0103 香川県三豊市山本町財田西 「香川県河川監視カメラ」/ Saita Nishi, Yamamoto Town, Mitoyo City, Kagawa Prefecture 768-0103,<br> "Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-saita-river-nagase-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7405921,34.1156739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川三野橋ライブカメラ / Takasegawa Minohashi Live Camera</name>
+        <description><![CDATA[〒767-0032 香川県三豊市三野町下高瀬「香川県河川監視カメラ」/ Shimotakase, Mino-cho, Mitoyo-shi, Kagawa 767-0032, "Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-takase-river-mino-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7070613,34.2026974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川佐股橋ライブカメラ / Takasegawa Samatabashi Live Camera</name>
+        <description><![CDATA[〒767-0021 香川県三豊市高瀬町佐股「香川県河川監視カメラ」/ Samata, Takase Town, Mitoyo City, Kagawa Prefecture 767-0021,<br> "Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-takase-river-samata-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7453804,34.158623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道32号猪ノ鼻峠ライブカメラ / National highway No. 32 Inohana pass live camera</name>
+        <description><![CDATA[香川県三豊市財田町財田上 猪ノ鼻トンネル 「四国地方整備局」/ Inohana Tunnel, Saita Town, Zaita Town, Mitoyo City, Kagawa Prefecture, "Shikoku Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8120407,34.0732025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川氷上橋ライブカメラ / Shinkawa Hikami Bridge Live Camera</name>
+        <description><![CDATA[香川県木田郡三木町大字氷上 「国土交通省川の防災情報」/Hikami, Miki Town, Kida District, Kagawa Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-miki-shinkawa-hikamibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1357462,34.2610468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川平木橋ライブカメラ / Shinkawa Hirakibashi live camera</name>
+        <description><![CDATA[〒761-0702 香川県木田郡三木町大字平木「香川県河川監視カメラ」/ Hiraki, Miki-cho, Kida-gun, Kagawa Prefecture 761-0702,  "Kagawa Prefectural River Surveillance Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.131669,34.2776955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大束川津之郷橋ライブカメラ / Otsuka River Tsunogo Bridge Live Camera</name>
+        <description><![CDATA[〒769-0213 香川県綾歌郡宇多津町大字東分「香川県河川監視カメラ」/ Utazu Town, Ayaka District, Kagawa Prefecture 769-0213, "Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-utazu-daisoku-river-tsunogo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8326835,34.2918924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾川桶田橋ライブカメラ / Ayakawa River Okeda Bridge Live Camera</name>
+        <description><![CDATA[香川県綾川町羽床下 「国土交通省河川情報センター」/ Hayukashita, Ayagawa Town, Kagawa Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/kagawa-ayagawa-okeda-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9139873,34.235885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本津川向坂橋ライブカメラ / Hondugawa River Mukouzaka Bridge Live Camera</name>
+        <description><![CDATA[〒761-2101 香川県綾歌郡綾川町畑田3322「国土交通省川の防災情報」/ 3322 Hatada, Ayagawa-cho, Ayauta-gun, Kagawa 761-2101 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-ayagawa-honzu-river-mukozaka-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.987709,34.2617874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾川鴨川新橋ライブカメラ / Ayagawa River Kamogawashinbashi Bridge Live Camera</name>
+        <description><![CDATA[〒762-0023 香川県坂出市府中町 鴨川新橋「香川県河川監視カメラ」/ Kamogawa Shimbashi, Fuchu Town, Sakaide City, Kagawa Prefecture  762-0023, "Kagawa Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/kagawa-sakaide-ayagawa-kamogawashinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.910612,34.3036091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾川滝宮ライブカメラ / Ayagawa River Takimiya Live Camera</name>
+        <description><![CDATA[〒761-2306 香川県綾歌郡綾川町北「香川県河川監視カメラ」/ Kita, Ayagawa-cho, Ayauta-gun, Kagawa Prefecture 761-2306, "Kagawa river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-ayagawa-takinomiya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.931756,34.2329489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金倉川高藪橋ライブカメラ / Kanakura River Takayabu Bridge Live Camera</name>
+        <description><![CDATA[〒766-0001 香川県仲多度郡琴平町 高藪橋「香川県河川監視カメラ」/ Takayabu Bridge, Kotohira Town, Nakatado District, Kagawa Prefecture 766-0001, "Kagawa prefecture river surveillance camera"<br>https://livecamera.fujiyamasan.com/kagawa-kotohira-kanakura-river-takayabu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8172525,34.192152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香川県立多度津高等学校ミニ水族館水槽ライブカメラ / Kagawa Prefectural Tadotsu High School Mini Aquarium Fish Tank Live Camera</name>
+        <description><![CDATA[〒764-0011 香川県仲多度郡多度津町栄町１丁目１−８２　香川県立多度津高等学校 / Kagawa Prefectural Tadotsu High School, 1-1-82, Sakaemachi, Tadotsu-cho, Nakatado-gun, Kagawa Prefecture<br>https://livecamera.fujiyamasan.com/kagawa-tadotsu-high-school-aquarium.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7543359,34.2721434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川常包橋ライブカメラ / Doki River Tsunekane Bridge Live Camera</name>
+        <description><![CDATA[香川県仲多度郡まんのう町炭所西 「香川河川国道事務所」/ Sumishonishi, Manno Town, Nakatado-gun, Kagawa Prefecture, "Kagawa River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8898898,34.1730947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川左岸14.9K満濃大橋ライブカメラ / Doki River Left Bank 14.9K Manano Ohashi live camera</name>
+        <description><![CDATA[香川県仲多度郡まんのう町 満濃大橋 「香川河川国道事務所」/ Manano Bridge, Manno Town, Nakatado-gun, Kagawa Prefecture, "Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-manno-dokigawa-l-14_9k-mannoohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8590027,34.191702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川祓川橋ライブカメラ / Doki River Haraigawa Bridge Live Camera</name>
+        <description><![CDATA[香川県仲多度郡まんのう町吉野下 祓川橋 「香川河川国道事務所」/ Yoshinoshita, Manno Town, Nakatado-gun, Kagawa Prefecture, <br>"Kagawa River National Highway Office"<br>https://livecamera.fujiyamasan.com/kagawa-manno-dokigawa-l-13_1k-haraikawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8407763,34.1969583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>醍醐山徳勝寺ライブカメラ / Daigoyama Tokushoji Temple Live Camera</name>
+        <description><![CDATA[〒769-2321 香川県さぬき市寒川町石田東甲618−1　徳勝寺 / Tokushoji Temple, 610-1 Ishida Toko, Sangawa-machi, Sanuki-shi, Kagawa 769-2321<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-tokushoji-temple.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2021234,34.2600296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>春日川川島橋ライブカメラ / Kasuga River Kawashima Bridge Live Camera</name>
+        <description><![CDATA[〒761-0443 香川県高松市川島東町878-1「国土交通省川の防災情報」/ 878-1 Kawashima Higashimachi, Takamatsu City, Kagawa Prefecture 761-0443 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kasuga-river-kawashima-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0875544,34.2763594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川吉田川1号橋ライブカメラ / Yoshidagawa Yoshidagawa No. 1 Bridge Live Camera</name>
+        <description><![CDATA[〒761-0434 香川県高松市十川東町１５２「国土交通省川の防災情報」/ 152 Sogawa Higashimachi, Takamatsu City, Kagawa Prefecture 761-0434 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.1122536,34.272947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR四国車両基地西側高松運転所 JR高徳線 JR予讃線鉄道ライブカメラ / Japan Railways Train Depot Takamatsu Kagawa Live Camera</name>
+        <description><![CDATA[〒760-0054 香川県高松市常磐町１丁目９−４０　あいほん屋 高松店 / Aihonya Takamatsu store,  1-9-40 Tokiwacho, Takamatsu City, Kagawa Prefecture 760-0054<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-jr-shikoku-takamatsu-driver-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0512984,34.338582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本津川山内橋ライブカメラ / Honzugawa Yamauchi Bridge Live Camera</name>
+        <description><![CDATA[香川県高松市国分寺町新名「国土交通省川の防災情報」/ Shinmyo, Kokubunji-cho, Takamatsu City, Kagawa Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-honzu-river-yamauchi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9605843,34.2842758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>春日川稗田橋ライブカメラ / Kasuga River Hiedabashi Live Camera</name>
+        <description><![CDATA[〒761-0445 香川県高松市西植田町１０１９−１「国土交通省川の防災情報」/ 1019-1 Nishiuetacho, Takamatsu City, Kagawa Prefecture 761-0445 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kasuga-river-hieda-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0854666,34.2508216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>春日川池田春日ライブカメラ / Kasuga River Ikeda Kasuga Live Camera</name>
+        <description><![CDATA[香川県高松市池田町1485-1「国土交通省川の防災情報」/ 1485-1 Ikeda-cho, Takamatsu-shi, Kagawa "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-ikeda-kasuga-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0898247,34.2568717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>純水セルフ洗車高松西店ライブカメラ / Pure water self-wash car wash Takamatsu Nishi store live camera</name>
+        <description><![CDATA[〒761-8041 香川県高松市檀紙町１５０２−６　純水セルフ洗車高松西店 / Pure water self-washing Takamatsu Nishi store, 1502-6 Danshicho, Takamatsu City, Kagawa Prefecture 761-8041 <br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-self-car-wash-takamatsunishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.998145,34.306794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松妙泉寺ライブカメラ / Takamatsu Myosenji Live Camera</name>
+        <description><![CDATA[〒760-0073 香川県高松市栗林町２丁目１０−２２　妙泉寺 /  Myosenji Temple, 2-10-22 Ritsurincho, Takamatsu City, Kagawa Prefecture 760-0073<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-myosenji-temple.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0508705,34.3306182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香東川岩崎橋ライブカメラ / Kotogawa Iwasakibashi Live Camera</name>
+        <description><![CDATA[香川県高松市香川町川東上「国土交通省川の防災情報」/ Kagawa-cho Kawahigashikami, Takamatsu City, Kagawa Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-koto-river-iwasaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0365804,34.2250833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御坊川ライブカメラ / Gobo River Live Camera</name>
+        <description><![CDATA[〒760-0066 香川県高松市福岡町４丁目２８−２７　ロイヤルケア高松 「ケーブルメディア四国」/ Royal Care Takamatsu, 4-28-27 Fukuoka-cho, Takamatsu-shi, Kagawa 760-0066  "Cable Media Shikoku"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-fukuoka-gobo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.0680301,34.3398585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本津川福家ライブカメラ / Honzugawa Fuke Live Camera</name>
+        <description><![CDATA[〒769-0103 香川県高松市国分寺町福家「香川県河川監視カメラ」/ Fuke, Kokubunji-cho, Takamatsu City, Kagawa Prefecture 769-0103 "Kagawa Prefecture River Surveillance Camera"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kokubunji-fuke-honzu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9675156,34.2775625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご高松国分寺町新居ECO発電所ライブカメラ / Ichigo Takamatsu Kokubunjicho Nii ECO Power Station Live Camera</name>
+        <description><![CDATA[〒769-0101 香川県高松市国分寺町新居３７１０−３７「いちごECOエナジー」/ 3710-37 Nii, Kokubunji-cho, Takamatsu City, Kagawa Prefecture 769-0101 "Strawberry ECO Energy"<br>https://livecamera.fujiyamasan.com/kagawa-takamatsu-kokubunji-nii-ichigo-eco-energy.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.971601,34.311484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川蓬莱橋右岸ライブカメラ / Doki River Horai Bridge Right Bank Live Camera</name>
+        <description><![CDATA[〒763-0082 香川県丸亀市土器町東「国土交通省川の防災情報」/ Higashi, Dokicho, Marugame City, Kagawa Prefecture 763-0082, <br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-doki-river-horai-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8058002,34.2937153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金倉川辺池ライブカメラ / Kanakura River Heike Live Camera</name>
+        <description><![CDATA[〒763-0053 香川県丸亀市金倉町２６３−３５「国土交通省川の防災情報」/ 263-35 Kanakura-cho, Marugame-shi, Kagawa 763-0053 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-marugame-kanakura-river-heike.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7781841,34.2630714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾川若山橋ライブカメラ / Ayagawa Wakayamabashi Live Camera</name>
+        <description><![CDATA[香川県坂出市府中町「国土交通省川の防災情報」/ Fuchu-cho, Sakaide City, Kagawa Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-sakaide-ayagawa-wakayamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.9232494,34.2932207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬戸大橋橋脚上ライブカメラ / Seto Ohashi pier live camera</name>
+        <description><![CDATA[香川県坂出市与島町「KBN 株式会社」/ Yoshima-cho, Sakaide City, Kagawa Prefecture<br>"KBN Co., Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8188113,34.3829677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>財田川鹿隈橋ライブカメラ / Saita River Kanakuma Bridge Live Camera</name>
+        <description><![CDATA[〒768-0014 香川県観音寺市流岡町「国土交通省川の防災情報」/ Nagareoka-cho, Kanonji City, Kagawa Prefecture 768-0014<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information<br>https://livecamera.fujiyamasan.com/kagawa-kanonji-saita-river-kanakuma-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6727051,34.1383822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松自動車道津田寒川～志度ICライブカメラ / Takamatsu Expressway Tsuda-Sangawa-Shido IC Live Camera</name>
+        <description><![CDATA[〒769-2104 香川県さぬき市鴨部「NEXCO西日本」/ Kabe, Sanuki City, Kagawa Prefecture "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/kagawa-sanuki-kabe-takamatsu-expressway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.2122056,34.3007586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湊川北原橋ライブカメラ / Minatogawa Kitaharabashi Live Camera</name>
+        <description><![CDATA[〒769-2713 香川県東かがわ市与田山 北原橋「国土交通省川の防災情報」/ Kitahara Bridge,    Yodayama, Higashikagawa City, Kagawa Prefecture 769-2713, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-higashikagawa-minatogawa-kitaharabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.3170606,34.2064608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高松自動車道板野引田間ライブカメラ / Takamatsu Expressway Itano Interchange-Hiketa Interchange Live Camera</name>
+        <description><![CDATA[香川県東かがわ市坂元「NEXCO西日本」/ Sakamoto, Higashikagawa City, Kagawa Prefecture "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/kagawa-higashikagawa-sakamoto-takamatsu-expressway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            134.4295001,34.2013329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川庄田橋ライブカメラ / Takasegawa Shoda Bridge Live Camera</name>
+        <description><![CDATA[香川県三豊市高瀬町下麻「国土交通省川の防災情報」/ Shimoasa, Takase-cho, Mitoyo-shi, Kagawa "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-takase-river-shoda-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.7500247,34.1723734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川唐崎橋ライブカメラ / Takasegawa Karasaki Bridge Live Camera</name>
+        <description><![CDATA[〒767-0032 香川県三豊市三野町下高瀬「国土交通省川の防災情報」/ Shimotakase, Mino-cho, Mitoyo-shi, Kagawa 767-0032 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-mitoyo-takase-river-karasaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6969166,34.2146384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土器川大川頭首工ライブカメラ / Dokigawa Okawa head work live camera</name>
+        <description><![CDATA[〒766-0015 香川県仲多度郡まんのう町長尾「国土交通省川の防災情報」/ Nagao, Manno-cho, Nakatado-gun, Kagawa 766-0015 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kagawa-manno-dokigawa-okawatoshuko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.8779493,34.1849711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>滋賀県ライブカメラマップ / Shiga Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>滋賀県内ライブカメラ</name>
+      <Placemark>
+        <name>OYCライブカメラ / OGOTO YACHT CLUB Live Camera</name>
+        <description><![CDATA[〒520-0101 滋賀県大津市雄琴５丁目１０−５６ 雄琴ヨットクラブ / OGOTO YACHT CLUB, 5-10-56 Ogoto, Otsu-shi, Shiga-ken 520-0101<br>https://livecamera.fujiyamasan.com/shiga-ogoto-yacht.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.907295,35.096106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琵琶湖ライブカメラ / Lake Biwa Live Camera</name>
+        <description><![CDATA[〒520-0521 滋賀県大津市和邇北浜３９０　志賀ヨットクラブ　/ Shiga Yacht Club, 390 Wanikitahama, Otsu-shi, Shiga-ken 520-0521<br>https://livecamera.fujiyamasan.com/shiga-yacht-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9195543,35.1725882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川ライブカメラ / Yasu River Live Camera</name>
+        <description>〒520-2279 滋賀県大津市黒津４丁目５−１近畿地方整備局 琵琶湖河川事務所 / Kinki Regional Development Bureau Biwako River Office, 4-5-1 Kurodu, Otsu-shi, Shiga-ken 520-2279</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.911508,34.938847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀国道事務所管内ライブ画像 /  Live Images within a jurisdiction of Shiga National Highway office</name>
+        <description>〒520-0803 滋賀県大津市竜が丘４−５　近畿地方整備局滋賀国道事務所 / Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau Shiga National Highway Office, 4-5 Tatsugaoka, Otsu-shi, Shiga-ken 520-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8807639,34.997875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>びわ湖バレイライブカメラ / BIWAKO VALLEY Live Camera</name>
+        <description>〒520-0514 滋賀県大津市木戸1547−1 びわ湖バレイ / BIWAKO VALLEY, 1547-1 Kido, Otsu-shi, Shiga-ken 520-0514</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8947211,35.2144548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川稲津放流警報局ライブカメラ / Setagawa Inazu Release Warning Station Live Camera</name>
+        <description><![CDATA[〒520-2279 滋賀県大津市黒津１丁目 「国土交通省川の防災情報CCTVカメラ」/ 1-Kurozu, Otsu, Shiga Prefecture 520-2279, <br> "Ministry of Land, Infrastructure, Transport and Tourism CCTV Camera on River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shiga-setagawa-inadu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9128825,34.9442086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川名神高速道路下流右岸ライブカメラ / Setagawa Meishin Expressway downstream right bank live camera</name>
+        <description><![CDATA[滋賀県大津市螢谷 「国土交通省川の防災情報CCTVカメラ」/ Hotarudani, Otsu City, Shiga Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism river disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/shiga-setagawa-hotarudani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9046967,34.9694767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川玉野浦放流警報局ライブカメラ / Setagawa Tamanoura Release warning station Live camera</name>
+        <description><![CDATA[滋賀県大津市玉野浦 「国土交通省川の防災情報CCTVカメラ」/ Tamanoura, Otsu City, Shiga Prefecture "Ministry of Land, Infrastructure, Transport and Tourism CCTV Camera on River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shiga-setagawa-tamanoura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9076153,34.980785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川大石東ライブカメラ / Setagawa Oishi Higashi Live Camera</name>
+        <description><![CDATA[滋賀県大津市大石東 「淀川ダム統合管理事務所」/  Oishihigashi, Otsu City, Shiga Prefecture, "Yodogawa Dam Integrated Management Office"<br>https://livecamera.fujiyamasan.com/shiga-setagawa-oishihigashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9137943,34.9125655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千丈川千丈川千町ライブカメラ / Senjogawa Senjogawa Sencho Live Camera</name>
+        <description><![CDATA[滋賀県大津市千町２丁目 「滋賀県土木防災情報河川防災カメラ」/ 2-chome, Otsu City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-senjogawa-sencho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8987395,34.9457835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吾妻川大津駅南口付近ライブカメラ / Azumagawa Otsu Station South Exit Live Camera</name>
+        <description><![CDATA[滋賀県大津市逢坂１丁目 「滋賀県土木防災情報河川防災カメラ」/ 1-chome, Osaka, Otsu City, Shiga Prefecture "Civil engineering disaster prevention information river disaster prevention camera"<br> https://livecamera.fujiyamasan.com/shiga-azumagawa-osaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.858832,34.992502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路大津サービスエリア下りライブカメラ / Meishin Expressway Otsu Service Area Down Live Camera</name>
+        <description><![CDATA[〒520-0052 滋賀県大津市朝日が丘２丁目８−１ 「NEXCO西日本」/2-8-1, Asahigaoka, Otsu City, Shiga Prefecture 520-0052, "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/shiga-otsu-sa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8700751,34.9974534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道477号伊香立下在地町ライブカメラ / National Highway No. 477 Ikadate Shimochi-cho Live Camera</name>
+        <description><![CDATA[〒520-0352 滋賀県大津市伊香立下在地町 「ロードネット滋賀」 / Ikadachishimozaiji-cho, Otsu-shi, Shiga 520-0352, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r477-ikadachi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.882583,35.1456333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道367号伊香立途中第1ライブカメラ / National Road 367 Ikadachi No.1 Live Camera</name>
+        <description><![CDATA[滋賀県大津市伊香立途中町「ロードネット滋賀」 / Ikadachitochu-cho, Otsu-shi, Shiga, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r3671-ikadachi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8612066,35.1736326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道367号伊香立途中第2ライブカメラ / National highway No. 367 Ikadachitochu 2nd live camera</name>
+        <description><![CDATA[滋賀県大津市伊香立途中町 「ロードネット滋賀」/ Ikadachitochu-cho, Otsu-shi, Shiga, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r3671-ikadachi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8606587,35.1669773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道558号高島大津線木戸ライブカメラ / Shiga Prefecture Road 558 Takashima Otsu Line Kido Live Camera</name>
+        <description><![CDATA[滋賀県大津市木戸 「ロードネット滋賀」/ Kido, Otsu-shi, Shiga, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r558-kido.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9211321,35.1980733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道322号比良山線北比良ライブカメラ / Shiga Prefectural Road 322 Hirayama Line Kitahira Live Camera</name>
+        <description><![CDATA[滋賀県大津市北比良 「ロードネット滋賀」/ Kitahira, Otsu-shi, Shiga, "Roadnet Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9378092,35.2302221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道422号大石富川ライブカメラ / National Road 422 Oishitomikawa Live Camera</name>
+        <description><![CDATA[〒520-2265 滋賀県大津市大石富川町 「ロードネット滋賀」/ Oishitomikawa-cho, Otsu-shi, Shiga 520-2265, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r422-tomikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9500068,34.8935462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大戸川石居橋ライブカメラ / Otogawa Ishiibashi live camera</name>
+        <description><![CDATA[〒520-2272 滋賀県大津市石居２丁目 「滋賀県土木防災情報」/ 2-chome Ishii, Otsu City, Shiga Prefecture 520-2272 “Shiga Prefecture Civil Engineering Disaster Prevention Information”<br>https://livecamera.fujiyamasan.com/shiga-daitogawa-ishidue.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9295256,34.9462068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号滋賀里バイパスライブカメラ / National Highway No.161 Shigasato Bypass Live Camera</name>
+        <description><![CDATA[〒520-0006 滋賀県大津市滋賀里 「滋賀国道事務所」/Shigasato, Otsu City, Shiga Prefecture 520-0006, "Shiga National Highway Office''<br>https://livecamera.fujiyamasan.com/shiga-r161-shigasato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8576448,35.0464551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号坂本北インターチェンジライブカメラ / National highway No. 161, Sakamoto Kita interchange live camera</name>
+        <description><![CDATA[滋賀県大津市坂本 「滋賀国道事務所」/ Sakamoto, Otsu City, Shiga Prefecture, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-r161-sakamoto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8812213,35.0783475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号逢坂第3ライブカメラ / National highway No. 1 Osaka third live camera</name>
+        <description><![CDATA[〒520-0054 滋賀県大津市逢坂 「滋賀国道事務所」/ Osaka, Otsu-shi, Shiga 520-0054, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-r1-osaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.854798,34.9938731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号バイパス大物ライブカメラ / National highway No. 161 bypass Daimotsu live camera</name>
+        <description><![CDATA[〒520-0512 滋賀県大津市大物 「滋賀国道事務所」/ Daimotsu, Otsu-shi, Shiga Prefecturre 520-0512<br>https://livecamera.fujiyamasan.com/shiga-r161-daimotsu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.930411,35.2198847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バスフィッシングボートクラブステージ / Bass Fishing Boat Club STAGE</name>
+        <description>〒520-0524 滋賀県大津市和邇今宿１２ バスフィッシングボートクラブステージ / Bass Fishing Boat Club STAGE, 12 Waniimajuku, Otsu-shi, Shiga-ken 520-0524</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9340632,35.1538227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川石山小学校下流ライブカメラ / Setagawa Ishiyama Elementary School downstream live camera</name>
+        <description><![CDATA[滋賀県大津市石山寺 「国土交通省川の防災情報CCTVカメラ」/ Ishiyamadera, Otsu City, Shiga Prefecture "Ministry of Land, Infrastructure, Transport and Tourism CCTV camera on river disaster prevention information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9101505,34.9535308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬田川唐橋放流警報局ライブカメラ / Seta River Karahashi Release Warning Station Live Camera </name>
+        <description>滋賀県大津市瀬田１丁目 「国土交通省川の防災情報CCTVカメラ」/</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9080604,34.9752473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道12号栗東信楽線大鳥居ライブカメラ / Shiga Prefectural Road 12, Ritto Shigaraki Line Otorii Live Camera</name>
+        <description><![CDATA[滋賀県大津市上田上大鳥居町「ロードネット滋賀」/ Kamitakamitorii-cho, Otsu-shi, Shiga, "Roadnet Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0312357,34.9373332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真野川新宿橋ライブカメラ / Manogawa Shinjukubashi live camera</name>
+        <description><![CDATA[〒520-0232 滋賀県大津市真野１丁目 「滋賀県土木防災情報」/ 1-chome, Mano, Otsu City, Shiga Prefecture 520-0232 "Shiga Prefecture Civil Engineering Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9128825,35.1233385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号和迩インターチェンジライブカメラ / National highway No. 161, Waddei interchange live camera</name>
+        <description><![CDATA[〒520-0526 滋賀県大津市和邇中 「滋賀国道事務所」/ Waninaka, Otsu-shi, Shiga 520-0526, "Shiga National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9007118,35.1607357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路瀬田西インターチェンジライブカメラ / Meishin Expressway Seta Nishi interchange live camera</name>
+        <description>〒520-2133 滋賀県大津市野郷原２丁目１ 瀬田西IC /  Seta Nishi IC, 2-1, Nogohara, Otsu City, Shiga Prefecture 520-2133</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9111789,34.9689288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路瀬田東ジャンクションライブカメラ / Meishin Expressway Seta Higashi Junction Live Camera</name>
+        <description><![CDATA[〒520-2141 滋賀県大津市大江８丁目 瀬田東JCT 「NEXCO西日本」/ Setahigashi JCT, 8 Oe, Otsu City, Shiga Prefecture 520-2141, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9278324,34.9700829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道30号下鴨大津線比叡平ライブカメラ / Shiga Prefecture Road No. 30 Shimogamo Otsu Line Hieidaira Live Camera</name>
+        <description><![CDATA[滋賀県大津市比叡平 「ロードネット滋賀」/ Hieidaira, Otsu City, Shiga “Road Net Shiga”<br>https://livecamera.fujiyamasan.com/shiga-r30-hieidaira.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8361273,35.0335787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道367号葛川坂下町ライブカメラ / National Route 367 Kuzukawa Sakashita Town Live Camera</name>
+        <description><![CDATA[滋賀県大津市葛川坂下町 「ロードネット滋賀」/ Kuzukawa Sakashita Town, Otsu City, Shiga Prefecture, "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r367-kuzukawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8614331,35.1960431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川安吉橋ライブカメラ / Hinokawa Anyoshi Bridge Live Camera</name>
+        <description><![CDATA[〒523-0023 滋賀県近江八幡市倉橋部町 「滋賀県土木防災情報」/ Kurahashibe Town, Omihachiman City, Shiga Prefecture 523-0023, "Shiga Civil Engineering Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shiga-hinogawa-kurahashibe.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1237236,35.0933075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川桐原橋ライブカメラ / Hinokawa Kirihara Bridge Live Camera</name>
+        <description><![CDATA[滋賀県近江八幡市 桐原橋「滋賀県土木防災情報」/ Kirihara Bridge, Omihachiman City, Shiga Prefecture, "Shiga Civil Engineering Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shiga-hinogawa-kiriharabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0767195,35.103026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号友定ライブカメラ / Natioanl Road 8 Tomosada Live Camera</name>
+        <description><![CDATA[滋賀県近江八幡市友定町 「滋賀国道事務所」/ Tomosada-cho, Omihachiman-shi, Shiga, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-r8-tomosada.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1314838,35.1174318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十禅寺川南田山ライブカメラ / Juzenji River Minami Tayama Live Camera</name>
+        <description><![CDATA[滋賀県草津市野路３丁目 「滋賀県土木防災情報河川防災カメラ」/ 3-chome, Noji, Kusatsu-shi, Shiga,Shiga Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-juzenjigawa-noji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9469026,34.9991742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狼川狼川橋ライブカメラ / Okami River Okamigawa Bridge Live Camera</name>
+        <description><![CDATA[滋賀県草津市南笠東 「滋賀県土木防災情報河川防災カメラ」/ Minamikatohigashi, Kusatsu City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-okamigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9420911,34.9952887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>草津川馬場橋ライブカメラ / Kusatsu River Baba Bridge Live Camera</name>
+        <description><![CDATA[滋賀県草津市岡本町「滋賀県土木防災情報河川防災カメラ」/ Okamoto Town, Kusatsu City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera" <br>https://livecamera.fujiyamasan.com/shiga-kusatsu-banbabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9777044,34.9931553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水生植物公園みずの森玄関ライブカメラ / Aquatic plant park Mizunomori entrance live camera</name>
+        <description><![CDATA[〒525-0001 滋賀県草津市下物町１０９１草津市立水生植物公園みずの森 / Kusatsu City Aquatic Botanical Park Mizunomori,   1091 Oroshimocho, Kusatsu City, Shiga Prefecture 525-0001<br>https://livecamera.fujiyamasan.com/shiga-kusatsu-mizunomori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9343748,35.0730992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川川田町ライブカメラ / Yasugawa Kawada Town Live Camera</name>
+        <description><![CDATA[滋賀県守山市川田町 「国土交通省河川情報センター」/ Kawada Town, Moriyama City, Shiga Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-kawata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0066752,35.0746794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川東海道新幹線上流左岸ライブカメラ / Yasugawa Tokaido Shinkansen upstream left bank live camera</name>
+        <description><![CDATA[滋賀県守山市立入町 「	琵琶湖河川事務所」/ Tateiri-cho, Moriyama City, Shiga Prefecture "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-tateiri.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0098503,35.0534093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川新庄大橋ライブカメラ / Yasugawa Shinjo Ohashi Live Camera</name>
+        <description><![CDATA[〒524-0213 滋賀県守山市新庄町 新庄大橋 「琵琶湖河川事務所」/ Shinjo Ohashi, Shinjo Town, Moriyama City, Shiga Prefecture 524-0213, "Biwako River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-shnjo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9952007,35.0979213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川服部大橋右岸ライブカメラ / Yasugawa Hattori Ohashi right bank live camera</name>
+        <description><![CDATA[〒524-0212 滋賀県守山市服部町 「琵琶湖河川事務所」/ Hattori-cho, Moriyama City, Shiga Prefecture 524-0212 "Biwako River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-hattori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9931215,35.1018671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川服部大橋左岸ライブカメラ / Yasugawa Hattori Ohashi Left Bank Live Camera </name>
+        <description><![CDATA[滋賀県守山市服部町 「琵琶湖河川事務所」/ Hattori-cho, Moriyama City, Shiga Prefecture "Biwako River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-left.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9904287,35.1016301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川稲荷大橋ライブカメラ / Yasugawa Inari Ohashi Live Camera</name>
+        <description><![CDATA[滋賀県守山市幸津川町 「琵琶湖河川事務所」/ Kozugawa Town, Moriyama City, Shiga Prefecture "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-yukitsugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9902968,35.1086221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川幸浜大橋ライブカメラ / Yasuhama Yukihama Ohashi live camera</name>
+        <description><![CDATA[〒524-0211 滋賀県守山市小浜町 「琵琶湖河川事務所」/ Kobamacho, Moriyama City, Shiga Prefecture 524-0211,  "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-kobama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9859482,35.1142141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川天満大橋ライブカメラ / Yasu River Tenman Ohashi Bridge Live Camera</name>
+        <description><![CDATA[滋賀県守山市幸津川町 「	琵琶湖河川事務所」/ Kozugawa Town, Moriyama City, Shiga Prefecture "Biwa Lake River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-tenmanohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9803318,35.1173723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川中洲大橋ライブカメラ / Yasu River Nakasu Ohashi Live Camera</name>
+        <description><![CDATA[滋賀県守山市幸津川町 「琵琶湖河川事務所」/ Kozugawa Town, Moriyama City, Shiga Prefecture "Lake Biwa River Office" <br>https://livecamera.fujiyamasan.com/shiga-yasugawa-nakasuohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.972875,35.1219694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川野洲川大橋ライブカメラ / Yasugawa Yasugawa Ohashi live camera</name>
+        <description><![CDATA[滋賀県栗東市出庭「琵琶湖河川事務所」/ Deba, Ritto City, Shiga Prefecture, "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasugawa-ritto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0127661,35.0472342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[葉山川新上鈎橋ライブカメラ / Ritto City, Shiga Prefecture Deiwa "Lake Biwa River Office"]]></name>
+        <description><![CDATA[〒520-3022 滋賀県栗東市上鈎 「滋賀県土木交通部」<br>https://livecamera.fujiyamasan.com/shiga-hayamagawa-kamimagari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9907983,35.0247164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金勝川下之橋ライブカメラ / Kinsho River Shitanobashi Live Camera</name>
+        <description><![CDATA[滋賀県栗東市上砥山 「滋賀県土木防災情報河川防災カメラ」/ Kamitoyama, Ritto City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-konzegawa-shimonohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0149525,35.0057533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新名神高速道路亀山ジャンクション～土山サービスエリアライブカメラ</name>
+        <description><![CDATA[〒528-0212 滋賀県甲賀市土山町南土山 「NEXCO中日本」/Minamitsuyama, Tsuchiyama-cho, Koga-shi, Shiga 528-0212, ``NEXCO Central Japan''<br>https://livecamera.fujiyamasan.com/shiga-koka-tsuchiyama-shinmeishin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2881472,34.9234604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新名神高速道路甲賀土山インターチェンジライブカメラ / Shin-Meishin Expressway Koka Dozan Interchange Live Camera</name>
+        <description><![CDATA[〒520-3401 滋賀県甲賀市甲賀町岩室１０６−２ 「NEXCO中日本」/ "106-2 Iwamuro, Koka-cho, Koka-shi, Shiga 520-3401, Japan, NEXCO Central Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2628531,34.9269909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大戸川大戸川旭橋ライブカメラ / Otogawa Otogawa Asahibashi live camera</name>
+        <description><![CDATA[〒529-1851 滋賀県甲賀市信楽町長野 「滋賀県土木防災情報河川防災カメラ」 / Nagano, Shigaraki-cho, Koka City, Shiga Prefecture 529-1851 “Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera”<br>https://livecamera.fujiyamasan.com/shiga-daidogawa-asahibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0491689,34.8828294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杣川北杣橋ライブカメラ / Horikawa Hokuso Bridge Live Camera</name>
+        <description><![CDATA[滋賀県甲賀市水口町三大寺 「滋賀県土木防災情報河川防災カメラ」/ Sandaiji, Minakuchi-cho, Koka City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-koka-kitasomabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1494484,34.9514689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川青土ダムライブカメラ / Yasugawa Aoto Dam Live Camera</name>
+        <description><![CDATA[〒528-0221 滋賀県甲賀市土山町青土 「滋賀県土木防災情報」/ Oduchi, Tsuchiyama-cho, Koka City, Shiga Prefecture 528-0221,  "Shiga Prefecture Civil Engineering Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/shiga-koka-ozuchi-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3039138,34.9563028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹山ライブカム / Mt. Ibuki Webcam</name>
+        <description>滋賀県米原市大久保 伊吹山 / Mt. Ibuki, Okubo, Yonehara-shi, Shiga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.40625,35.418013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大戸川信楽大橋ライブカメラ / Otogawa Shigaraki Ohashi Live Camera</name>
+        <description><![CDATA[滋賀県甲賀市信楽町 「滋賀県土木防災情報河川防災カメラ」/ Shigaraki Town, Koka City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-koka-shigarakiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0795019,34.9079337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道307号塩野ライブカメラ / National Road 307 Shiono Live Camera</name>
+        <description><![CDATA[滋賀県甲賀市水口町山上 「ロードネット滋賀」/ Yamagami, Mizuguchi-cho, Koka City, Shiga Prefecture "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-koka-r307.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1321643,34.9233311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道9号大河原北土山線鮎河ライブカメラ / Shiga Prefectural Road No. 9 Okawara Kitayama Line Ayukawa Live Camera</name>
+        <description><![CDATA[滋賀県甲賀市土山町鮎河 「ロードネット滋賀」/ Ayukawa, Tsuchiyama-cho, Koka-shi, Shiga "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-koka-tsuchiyama-r9.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3385685,34.9537681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑のしだれ桜ライブカメラ / Field weeping cherry tree live camera</name>
+        <description>〒529-1813 滋賀県甲賀市信楽町畑 / Shigaraki Town, Koka City, Shiga Prefecture 529-1813</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0019781,34.8850503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道307号滝川橋ライブカメラ / National highway No. 307 Takigawabashi live camera</name>
+        <description><![CDATA[〒520-3315 滋賀県甲賀市甲南町塩野 「ロードネット滋賀」/ Shiono, Shiono, Konan Town, Koga City, Shiga Prefecture 520-3315, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-r307-takigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1373044,34.9245882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号田村橋ライブカメラ / National highway No. 1 Tamurabashi live camera</name>
+        <description><![CDATA[〒528-0212 滋賀県甲賀市土山町南土山 「日本道路交通情報センター(JARTIC)」/ Minamitsuyama, Tsuchiyama-cho, Koka City, Shiga Prefecture 528-0212, "Japan Road Traffic Information Center (JARTIC)"<br>https://livecamera.fujiyamasan.com/shiga-koka-r1-tamurabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2978951,34.9274857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号鈴鹿トンネルライブカメラ / National highway No. 1 Suzuka tunnel live camera </name>
+        <description><![CDATA[〒528-0206 滋賀県甲賀市土山町山中 「日本道路交通情報センター(JARTIC)」/ Yamanaka, Tsuchiyama-cho, Koka City, Shiga Prefecture 528-0206, "Japan Road Traffic Information Center (JARTIC)"<br>https://livecamera.fujiyamasan.com/shiga-r1-suzukatunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3363808,34.8965571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光善寺川光善寺川橋ライブカメラ / Kozenji River Kozenji River Bridge Live Camera</name>
+        <description><![CDATA[滋賀県野洲市小南 「滋賀県土木防災情報河川防災カメラ」/ Kominami, Yasu City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-yasu-kozenjjigawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.063517,35.0993923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川名神高速道路下流右岸ライブカメラ / Yasugawa Meishin Expressway downstream right bank live camera</name>
+        <description><![CDATA[滋賀県野洲市南櫻 「琵琶湖河川事務所」/ Minamizakura, Yasu City, Shiga Prefecture "Biwa Lake River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-minamizakura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0402037,35.0281272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川大山川合流部第1・第2ライブカメラ / Yasu River Oyama River Confluence Section 1st and 2nd Live Cameras</name>
+        <description><![CDATA[〒520-2323 滋賀県野洲市三上 「琵琶湖河川事務所」/ Mikami, Yasu City, Shiga Prefecture 520-2323 "Biwako River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-oyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0233005,35.0431166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川前田樋門下流ライブカメラ / Yasugawa Maeda Himon downstream live camera </name>
+        <description><![CDATA[〒520-2323 滋賀県野洲市三上 「琵琶湖河川事務所」/ Mikami, Yasu City, Shiga Prefecture 520-2323 "Biwako River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-maedahimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0187248,35.0513452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川野洲川水位観測所ライブカメラ / Yasu River Yasu River Water Level Observatory Live Camera</name>
+        <description><![CDATA[滋賀県野洲市野洲 「	琵琶湖河川事務所」/ Yasu, Yasu City, Shiga “Lake Biwa River Office”<br>https://livecamera.fujiyamasan.com/shiga-yasu-waterlevel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0052191,35.0618838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川近江富士大橋ライブカメラ / Yasugawa Omi Fuji Ohashi Live Camera </name>
+        <description><![CDATA[〒520-2342 滋賀県野洲市野洲 近江富士大橋 「琵琶湖河川事務所」/  Omi Fuji Ohashi Yasu, Yasu City, Shiga Prefecture, "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-fujiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0048047,35.0660969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川矢田樋門外水位ライブカメラ / Yasu River Yata Himon Outside Water Level Live Camera </name>
+        <description><![CDATA[滋賀県野洲市市三宅 「琵琶湖河川事務所」/ Miyake, Yasu-shi, Shiga "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-yatahimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0091055,35.0713223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川市三宅地区ヘリポートライブカメラ / Yasukawa City Ichimiyake District Heliport Live Camera</name>
+        <description><![CDATA[滋賀県野洲市市三宅 「琵琶湖河川事務所」/ Ichimiyake, Yasu-shi, Shiga "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-heliport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0115292,35.0753069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中道農園ライブカメラ / Nakamichi Farm Live Camera</name>
+        <description>〒520-2422 滋賀県野洲市比留田２４５８/ 2458 Hiruta, Yasu 520-2422, Shiga Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0293359,35.123445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川石部頭首工ライブカメラ / Yasugawa Ishibe Toushuko Live Camera</name>
+        <description><![CDATA[滋賀県湖南市菩提寺 「琵琶湖河川事務所」/ Bodaiji Temple, Konan City, Shiga Prefecture, "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-konan-ishibe.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0465886,35.0256531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川中郡橋ライブカメラ / Yasugawa Nakagunbashi Live Camera</name>
+        <description><![CDATA[〒520-3242 滋賀県湖南市菩提寺 「滋賀県土木交通部」 / Bodhi Temple, Konan City, Shiga Prefecture 520-3242<br>https://livecamera.fujiyamasan.com/shiga-yasu-chugunbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0629633,35.0188182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐久良川横山橋ライブカメラ / Sakura River Yokoyama Bridge Live Camera</name>
+        <description><![CDATA[〒529-1563 滋賀県東近江市横山町 「滋賀県土木防災情報河川防災カメラ」/ 〒529-1563 Yokoyama-cho, Higashi-Omi City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-sakuragawa-yokoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1617264,35.0643985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蛇砂川萬石橋ライブカメラ / Hebisuna River Mangoku Bridge Live Camera</name>
+        <description><![CDATA[滋賀県東近江市今堀町 「滋賀県土木防災情報河川防災カメラ」/ Imahori Town, Higashiomi City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-hebisuna-mangokubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1959913,35.0969605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇曽川宇曽川ダムライブカメラ / Usogawa Usogawa Dam Live Camera</name>
+        <description><![CDATA[〒527-0102 滋賀県東近江市平柳町 「滋賀県土木防災情報河川防災カメラ」/ Hiraiyanagi-cho, Higashi-Omi City, Shiga Prefecture 527-0102 "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-usogawadam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2924708,35.1537393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道421号永源寺ダム八日市インターチェンジ方面ライブカメラ / National highway No. 421 Eigenji dam Yokaichi interchange live camera</name>
+        <description>滋賀県東近江市佐目町「株式会社向茂組」 / Saga Town, Higashiomi City, Shiga Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3448814,35.0721825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛知川八幡橋ライブカメラ / Echi River Yawatabashi Live Camera</name>
+        <description><![CDATA[〒521-1211 滋賀県東近江市今町 「滋賀県土木交通部」/Imamachi, Higashiomi City, Shiga Prefecture 521-1211, "Shiga Prefecture Civil Engineering Department"<br>https://livecamera.fujiyamasan.com/shiga-echigawa-yawatabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1784666,35.1942417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路八日市インターチェンジライブカメラ / Meishin Expressway Yokaichi Interchange Live Camera</name>
+        <description><![CDATA[〒527-0063 滋賀県東近江市大森町 八日市IC 「NEXCO中日本サービス」/ Yokaichi IC, Omori Town, Higashi-Omi City, Shiga Prefecture 527-0063, "NEXCO Central Japan Service"<br>https://livecamera.fujiyamasan.com/shiga-yokaichi-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2260209,35.0924007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道421号不老橋ライブカメラ / National highway No. 421 Furobashi live camera</name>
+        <description><![CDATA[〒527-0205 滋賀県東近江市黄和田町 「ロードネット滋賀」/ Hiwada Town, Higashi-Omi City, Shiga Prefecture 527-0205, "Road Net Shiga''<br> https://livecamera.fujiyamasan.com/shiga-kiwada-r421.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.39428,35.0955854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出雲川大正橋ライブカメラ / Izumo River Taishobashi live camera</name>
+        <description><![CDATA[滋賀県蒲生郡日野町大字三十坪 「滋賀県土木防災情報河川防災カメラ」/ Sanjutsubo, Hino-cho, Gamo-gun, Shiga Prefecture, "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-hino-taishobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2115465,35.0186279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祖父川鵜川橋ライブカメラ / Sofu River Ugawa Bridge Live Camera</name>
+        <description><![CDATA[滋賀県蒲生郡竜王町大字鵜川 「滋賀県土木交通部」/ Ugawa, Ryuo-cho, Gamo-gun, Shiga Prefecture, "Shiga Prefecture Civil Engineering Department"<br>https://livecamera.fujiyamasan.com/shiga-sofugawa-ukawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1124215,35.0726504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢倉川高根橋ライブカメラ / Yaguragawa Takanebashi Live Camera</name>
+        <description><![CDATA[滋賀県彦根市鳥居本町 「滋賀県土木防災情報河川防災カメラ」/ Toriihoncho, Hikone City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-hikone-takanebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2833562,35.2829399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬上川今橋ライブカメラ / Inukami River Imahashi Live Camera</name>
+        <description><![CDATA[滋賀県彦根市開出今町 「滋賀県土木防災情報河川防災カメラ」/ Kaideima-cho, Hikone City, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-inukami-imahashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2270963,35.2564406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芹川上芹橋ライブカメラ / Seri River Kamiseri Bridge Live Camera</name>
+        <description><![CDATA[〒522-0032 滋賀県彦根市芹町 「滋賀県土木交通部」/ Seri-cho, Hikone 522-0032, Shiga Prefecture "Shiga Prefecture Civil Engineering Department"<br>https://livecamera.fujiyamasan.com/shiga-serikawa-kamiseribashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2588093,35.2624011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号外町ライブカメラ / National highway No. 8 Togamachi live camera</name>
+        <description><![CDATA[滋賀県彦根市外町 「滋賀国道事務所」/ Tomachi, Hikone City, Shiga Prefecture "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-tomachi-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2664239,35.2669896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路彦根トンネル西ライブカメラ / Meishin Expressway Hikone Tunnel West Live Camera</name>
+        <description><![CDATA[彦根市鳥居本町 「NEXCO中日本サービス」/ Toriihoncho, Hikone City "NEXCO Central Japan Service"<br>https://livecamera.fujiyamasan.com/shiga-hikonetunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2927547,35.2849893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彦根城ライブカメラ / Hikone-jo Castle Live Camera</name>
+        <description>〒522-0033 滋賀県彦根市芹川町５９３−１ アケボノ特機（株） / Akebono Tokki Co., Ltd., 593-1 Serikawa-cho, Hikone-shi, Shiga-ken 522-0033</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.260939,35.259637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路彦根インターチェンジライブカメラ / Meishin Expressway Hikone Interchange Live Camera</name>
+        <description><![CDATA[〒522-0023 滋賀県彦根市原町３６６ 「NEXCO中日本サービス」/ 366 Haramachi, Hikone 522-0023, Shiga Prefecture "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2788022,35.2605912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木下牧場 / Kinoshita Ranch</name>
+        <description>〒523-0802 滋賀県近江八幡市大中町 木下牧場 / Kinoshita Ranch, Onaka-cho, Omihachiman-shi, Shiga 523-0802</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1018085,35.1916968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野鳥観察ライブカメラ / Birding Live Camera</name>
+        <description>滋賀県野洲市比留田 中道農園 / Nakamichi Plantation, Hiruta, Yasu-shi, Shiga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.029346,35.123489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近江富士（三上山）ライブカメラ / Omifuji (Mt. Mikami）Live Camera</name>
+        <description><![CDATA[〒520-2332 滋賀県野洲市妙光寺215 近江富士いちご園 「苺屋はな」/ Omi Fuji Strawberry Garden "Ichigaya Hana," 215 Myokoji, Yasu-shi, Shiga-ken 520-2332<br>https://livecamera.fujiyamasan.com/shiga-yasu-mikamiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0296518,35.0583922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湖南市菩提寺ライブカメラ / Konan City Bodaiji Live Camera</name>
+        <description><![CDATA[〒520-3248 滋賀県湖南市菩提寺西３丁目７−３　株式会社西日本地所 / Nishinihonjisho Co., Ltd., 3-7-3 Bodaijinishi, Konan-shi, Shiga-ken 520-3248<br>https://livecamera.fujiyamasan.com/shiga-konan-bodaiji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0606585,35.0381518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琵琶湖カントリー倶楽部ライブカメラ / Biwako Country Club Live Camera</name>
+        <description>〒520-3005 滋賀県栗東市 御園513 琵琶湖カントリー倶楽部 / Biwako Country Club, 513 Misono, Ritto-shi, Shiga-ken 520-3005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.029367,35.006273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>信楽町の空ライブカメラ / The Sky of Shigaraki Town Live Camera</name>
+        <description><![CDATA[滋賀県甲賀市信楽町 Y's Factory / Shigaraki-cho, Koka-shi, Shiga<br>https://livecamera.fujiyamasan.com/shiga-koka-shigaraki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.056232,34.878327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琵琶湖の水鳥 / Waterfowl in Lake Biwa</name>
+        <description><![CDATA[滋賀県長浜市湖北町尾上 水鳥公園 「インターネット自然研究所」 / Waterfowl Park, Onoe, Kohoku-cho, Nagahama-shi, Shiga, "Internet Nature Information" System<br>https://livecamera.fujiyamasan.com/shiga-kohoku-mizudoripark.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1896135,35.4457782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヘイシン滋賀ライブカメラ / Heishin Shiga Live Camera</name>
+        <description><![CDATA[〒529-0261 滋賀県長浜市高月町東物部１０２０ 兵神装備滋賀事業所 / Heishin Soubi (Equipment) Shiga Office, 1020 Higashimonobe, Takatsuki-cho, Nagahama-shi, Shiga-ken 529-0261<br>https://livecamera.fujiyamasan.com/shiga-nagahama-heisin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2294923,35.4776174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>余呉ライブカメラ / Yogo Live Camera</name>
+        <description><![CDATA[滋賀県長浜市余呉町川並 余呉湖 / Lake Yogo, Kawanami, Yogo-cho, Nagahama-shi, Shiga<br>https://livecamera.fujiyamasan.com/shiga-yogotown.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.191759,35.53282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七々頭ヶ岳ライブカメラ / Mt. Nanazu Live Camera</name>
+        <description>滋賀県長浜市余呉町管並 / Suganami, Yogo-cho, Nagahama-shi, Shiga</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.217422,35.585712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まちづくり役場前ライブカメラ / Machidukuriyakuba Live Camera</name>
+        <description>〒526-0059 滋賀県長浜市元浜町６−１２ まちづくり役場 / Machidukuriyakuba, 6-12 Motohama-cho, Nagahama-shi, Shiga-ken 526-0059</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.268104,35.3806607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長浜バイオ大学命江館より琵琶湖を望む / View of Lake Biwa from Nagahama University of Biotechnology</name>
+        <description><![CDATA[〒526-0829 滋賀県長浜市田村町１２６６　長浜バイオ大学 / Nagahama Institute of Bio-Science and Technology, 1266 Tamura-cho, Nagahama-shi, Shiga-ken 526-0829<br>https://livecamera.fujiyamasan.com/shiga-tamura-biocollege.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2802553,35.3570706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>琵琶湖ライブカメラ / Lake Biwa Live Camera</name>
+        <description>〒520-1531 滋賀県高島市新旭町饗庭１６００−１ 新旭水鳥観察センター /Waterfowl Observation Center,  1600-1 Aiba, Shinasahi-cho, Takashima-shi, Shiga-ken 520-1531</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.035547,35.380233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹山ライブカメラ / Mt. Ibuki Live Camera
+</name>
+        <description>〒521-8501 滋賀県米原市下多良３丁目３ 米原市役所 米原庁舎 / Maibara City Hall Maibara Government Building, 3-3 Shimotara, Shiga-ken 521-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.283961,35.31484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芹川飛ノ木橋ライブカメラ / Seri River Tobinoki Bridge Live Camera</name>
+        <description><![CDATA[滋賀県犬上郡多賀町大字栗栖 「滋賀県土木防災情報河川防災カメラ」/ Kurusu, Taga-cho, Inakami-gun, Shiga, "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-taga-tobinokibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3169034,35.2356422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道307号多賀ライブカメラ / National Route 307 Taga Live Camera</name>
+        <description><![CDATA[滋賀県犬上郡多賀町大字多賀 「ロードネット滋賀」/ Taga, Taga-cho, Inukami-gun, Shiga, "Roadnet Shiga"<br>https://livecamera.fujiyamasan.com/shiga-taga-r307.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2917408,35.220969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇曽川島川ライブカメラ / Usogawa Shimakawa Live Camera</name>
+        <description><![CDATA[滋賀県愛知郡愛荘町島川 「滋賀県土木防災情報河川防災カメラ」/ Shimakawa, Aiso Town, Aichi District, Shiga Prefecture "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-usogawa-shimakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2315658,35.1736119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛知川御幸橋ライブカメラ / Echi River Miyuki Bridge Live Camera</name>
+        <description><![CDATA[〒529-1331 滋賀県愛知郡愛荘町愛知川 / 529-1331 Echigawa, Aisyo-cho, Aichi-gun, Shiga Prefecture<br>https://livecamera.fujiyamasan.com/shiga-echigawa-miyukibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2000114,35.1639838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥伊吹モーターパークライブカメラ / Okuibuki Motor Park Live Camera</name>
+        <description><![CDATA[〒521-0301 滋賀県米原市甲津原 奥伊吹　奥伊吹モーターパーク＆イベント会場 / Okuibuki Motor Park & Event Venue, Kozuhara Okuibuki, Maibara City, Shiga Prefecture, 521-0301<br>https://livecamera.fujiyamasan.com/shiga-maibara-okuibuki-motorpark.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3833963,35.5209682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹山ライブカメラ / Mt. Ibuki Live Camera</name>
+        <description><![CDATA[〒521-0221 滋賀県米原市池下８０−１ グリーンパーク山東「米原市役所」/ 80-1, Ikeshita, Maibara City, Shiga Prefecture 521-0221 "Maibara City Hall"<br>https://livecamera.fujiyamasan.com/shiga-maibara-ibukiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3621013,35.3724582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹山3合目ライブカメラ / Ibukiyama 3rd Station Live Camera</name>
+        <description><![CDATA[〒521-0312 滋賀県米原市上野 「米原市役所」/ Ueno, Maibara City, Shiga Prefecture 521-0312, "Umehara City Hall"<br>https://livecamera.fujiyamasan.com/shiga-maibara-ibukiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3959634,35.4051754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥伊吹スキー場杉の木ゲレンデライブカメラ / Okuibuki Ski Resort Cedar Tree Slope Live Camera</name>
+        <description>〒521-0301 滋賀県米原市甲津原 奥伊吹 「奥伊吹観光」/ Okuibuki, Kotsuhara, Maibara City, Shiga Prefecture 521-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3867294,35.5216216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号大野木ライブカメラ / National Highway 365 Onogi Live Camera</name>
+        <description><![CDATA[〒521-0244 滋賀県米原市大野木 「ロードネット滋賀」/ Onogi, Maibara City, Shiga Prefecture 521-0244 "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-maibara-r365.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4036165,35.3703424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天野川天野川橋ライブカメラ / Amano River Amano River Bridge Live Camera</name>
+        <description><![CDATA[〒521-0242 滋賀県米原市長岡 天野川橋 「滋賀県土木防災情報河川防災カメラ」/  Nagaoka Amanogawabashi, Maibara City, Shiga Prefecture 521-0242, "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-maibara-amanogawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3721012,35.360943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号土川橋ライブカメラ / National highway No. 8 Tsuchikawabashi live camera</name>
+        <description><![CDATA[〒521-0061 滋賀県米原市長沢 国道8号 & 土川橋 「滋賀国道事務所」/ National Highway No. 8 & Tsuchikawabashi, Nagasawa, Maibara City, Shiga Prefecture 521-0061,"Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-maibara-r8-tsuchikawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2943514,35.3492504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道21号長久寺東ライブカメラ / National highway No. 21 Chokyuji East live camera</name>
+        <description><![CDATA[〒521-0201 滋賀県米原市長久寺 「滋賀国道事務所」/ 521-0201 Nagahuji, Maibara City, Shiga Prefecture "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-chokyuji-r21.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4176829,35.3478406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号寒風トンネル西ライブカメラ / National highway No. 303 Samukaze Tunnel west live camera</name>
+        <description><![CDATA[滋賀県高島市今津町杉山 「ロードネット滋賀」/ Sugiyama, Imazu Town, Takashima City, Shiga Prefecture "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-kanputunenel-r303.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9216799,35.4348917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号水坂トンネル東ライブカメラ / National Highway No. 303 Mizusaka Tunnel East Live Camera</name>
+        <description><![CDATA[〒520-1648 滋賀県高島市今津町角川 「ロードネット滋賀」/ Kadokawa, Imazu Town, Takashima City, Shiga Prefecture 520-1648 "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-mizusakatunenel-r303.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9474451,35.4236722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川鴨川橋ライブカメラ / Kamo River Kamogawa Bridge Live Camera</name>
+        <description><![CDATA[〒520-1111 滋賀県高島市鴨 鴨川橋 「滋賀県土木防災情報河川防災カメラ」/ Kamogawabashi Bridge, Kamo, Takashima City, Shiga Prefecture 520-1111, "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-takashima-kamo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0208926,35.3170252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安曇川本庄橋ライブカメラ / Azumigawa Honjobashi live camera</name>
+        <description><![CDATA[〒520-1232 滋賀県高島市安曇川町北船木 「滋賀県土木防災情報河川防災カメラ」/ Kita-Funaki, Azumigawa-cho, Takashima City, Shiga Prefecture 520-1232 "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-adogawa-honjobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0673463,35.3223295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号野口ライブカメラ / National Highway No. 303 Noguchi Live Camera</name>
+        <description>〒520-1802 滋賀県高島市マキノ町野口 「ロードネット滋賀」/ Noguchi, Makino Town, Takashima City, Shiga Prefecture, 520-1802, Japan “Road Net Shiga”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0887353,35.4972394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高島市新旭水鳥観察センターライブカメラ / Takashima City Shin-Asamizu Bird Observation Center Live Camera</name>
+        <description><![CDATA[〒520-1531 滋賀県高島市新旭町饗庭１６００−１ 新旭水鳥観察センター / Shin-Asahi Waterfowl Observation Center 1600-1 Gion, Shin-Asahi-cho, Takashima City, Shiga Prefecture 520-1531<br>https://livecamera.fujiyamasan.com/shiga-takashima-bird.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.035576,35.380188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号県境国境ライブカメラ / National highway No. 161 prefectural border live camera</name>
+        <description><![CDATA[〒520-1802 滋賀県高島市マキノ町野口 「滋賀国道事務所」/ Noguchi, Makino-cho, Takashima City, Shiga Prefecture 520-1802, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-makinocho-r161.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0913045,35.5161807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川万年橋ライブカメラ / Kamo River Mannen Bridge Live Camera</name>
+        <description><![CDATA[〒520-1101 滋賀県高島市武曽横山 「滋賀県土木防災情報河川防災カメラ」/ Takeso Yokoyama, Takashima City, Shiga Prefecture 520-1101 ``Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera''<br>https://livecamera.fujiyamasan.com/shiga-takashima-mannenbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9658039,35.3279469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石田川大床ライブカメラ / Ishidagawa Ohto Live Camera</name>
+        <description><![CDATA[〒520-1654 滋賀県高島市今津町梅原 「滋賀県土木防災情報河川防災カメラ」 / Umehara, Imazu Town, Takashima City, Shiga Prefecture, 520-1654, Japan<br>https://livecamera.fujiyamasan.com/shiga-takashima-oduku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9753241,35.4210271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号高島ライブカメラ / National highway 161 Takashima live camera</name>
+        <description><![CDATA[〒520-1111 滋賀県高島市鴨 「滋賀県土木防災情報河川防災カメラ」/ Kamo, Takashima City, Shiga Prefecture 520-1111,  "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-takashima-r161.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0205704,35.3151581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箱館山スキー場駐車場ライブカメラ / Hakodateyama ski area parking lot live camera </name>
+        <description><![CDATA[〒520-1655 滋賀県高島市今津町日置前 箱館山スキー場 / Hakateyama Ski Resort, Hiokizen Imazu Town, Takashima City, Shiga Prefecture 520-1655<br> https://livecamera.fujiyamasan.com/shiga-hakodateyama-ski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9959043,35.4276315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号杉山ライブカメラ / National highway No. 303 Sugiyama live camera</name>
+        <description><![CDATA[〒520-1646 滋賀県高島市今津町杉山 「ロードネット滋賀」/ Sugiyama, Imazu Town, Takashima City, Shiga Prefecture 520-1646 "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-imaducho-r303.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9301201,35.4291922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号今津基地ライブカメラ / National highway 161 Imazu base live camera</name>
+        <description><![CDATA[〒520-1621 滋賀県高島市今津町今津 「滋賀国道事務所」/ Imazu, Imazu Town, Takashima City, Shiga Prefecture 520-1621 "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-imaducho-r161.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0256568,35.3963431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安曇川常安橋ライブカメラ / Ado River Joan Bridge Live Camera</name>
+        <description><![CDATA[〒520-1211 滋賀県高島市安曇川町常磐木 「滋賀県土木防災情報河川防災カメラ」/ Jobanki, Azumigawa Town, Takashima City, Shiga Prefecture 520-1211 "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-takashima-joanbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0158056,35.3440772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大浦川大浦黒山橋ライブカメラ / Oura River Oura Kuroyama Bridge Live Camera </name>
+        <description><![CDATA[〒529-0721 滋賀県長浜市西浅井町大浦 「滋賀県土木防災情報河川防災カメラ」/ Oura Nishi-Asai-cho, Nagahama-shi, Shiga Oura 529-0721,  "Shiga Prefecture disaster prevention information river disaster prevention camera"<br>https://livecamera.fujiyamasan.com/shiga-oura-kuroyamabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1111378,35.4825472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大川岩熊橋ライブカメラ / Okawa Yakumabashi Live Camera</name>
+        <description><![CDATA[滋賀県長浜市西浅井町塩津中 「滋賀県土木防災情報河川防災カメラ」/ Shiotsuka, Nishiasai-cho, Nagahama-shi, Shiga "Shiga Prefecture disaster prevention information river disaster prevention camera"<br>https://livecamera.fujiyamasan.com/shiga-nagahama-yanokumabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1541748,35.5268693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高時川錦織橋ライブカメラ / Takatokigawa Nishikori Bridge Live Camera</name>
+        <description><![CDATA[〒526-0101 滋賀県長浜市錦織町 「滋賀県土木防災情報河川防災カメラ」/ Nishikori Town, Nagahama City, Shiga Prefecture 526-0101 "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-takatoki-nishikori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2422939,35.4146603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>余呉川賤ヶ岳橋ライブカメラ / Yogogawa Shigetagatake Bridge Live Camera</name>
+        <description><![CDATA[〒529-0433 滋賀県長浜市木之本町西山 塩津 街道 賤ヶ岳橋 「滋賀県土木防災情報河川防災カメラ」/ Shiotsu Highway Shigetagatake Bridge, Nishiyama, Kinomoto-cho, Nagahama City, Shiga Prefecture 529-0433, "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-nagahama-shizugatakebashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2061251,35.5002844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高時川川合ライブカメラ / Takatoki River Kawai Live Camera</name>
+        <description><![CDATA[〒529-0414 滋賀県長浜市木之本町川合 「滋賀県土木防災情報河川防災カメラ」/ Kawai, Kinomoto-cho, Nagahama City, Shiga Prefecture 529-0414 "Shiga Prefecture Civil Engineering Disaster Prevention Information River Disaster Prevention Camera"<br>https://livecamera.fujiyamasan.com/shiga-takatokigawa-kawai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2522257,35.5291503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号黒山ライブカメラ / National highway No. 303 Kuroyama live camera</name>
+        <description><![CDATA[滋賀県長浜市西浅井町黒山 「ロードネット滋賀」/ Kuroyama, Nishiasai-cho, Nagahama-shi, Shiga "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-nishiasai-r303.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1063348,35.4973628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号八田部ライブカメラ / National highway No. 303 Hatabe live camera</name>
+        <description><![CDATA[滋賀県長浜市西浅井町八田部 「ロードネット滋賀」/ Hatabe, Nishiasai-cho, Nagahama-shi, Shiga "Road Net Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1429606,35.506684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号美濃山ライブカメラ / National highway No. 365 Minoyama live camera</name>
+        <description><![CDATA[滋賀県長浜市小谷丁野町 「ロードネット滋賀」/Otadaniyono-cho, Nagahama City, Shiga Prefecture,  "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-odaniyono-r365.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2605237,35.4594541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号落川ライブカメラ / National highway 365 Ochikawa live camera</name>
+        <description><![CDATA[〒529-0232 滋賀県長浜市高月町落川 「ロードネット滋賀」/ Ochikawa, Takatsuki Town, Nagahama City, Shiga Prefecture 529-0232, "Road Net Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.244952,35.4705433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滋賀県道44号木之本長浜線東柳野ライブカメラ / Shiga Prefectural Road No. 44 Kinomoto Nagahama Higashiyanagino Live Camera</name>
+        <description><![CDATA[〒529-0263 滋賀県長浜市高月町東柳野 「ロードネット滋賀」/ Higashiyanagino, Takatsuki Town, Nagahama City, Shiga Prefecture 529-0263, "Road Net Shiga''<br>https://livecamera.fujiyamasan.com/shiga-takatsuki-r44.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.212763,35.4739985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号金居原第1ライブカメラ / National Highway No. 303 Kaneihara No. 1 Live Camera </name>
+        <description><![CDATA[〒529-0401 滋賀県長浜市木之本町金居原 「ロードネット滋賀」/ 529-0401 Kaneihara, Kinomoto Town, Nagahama City, Shiga Prefecture "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-kinomoto-r303-kaneihara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3059777,35.5871689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号金居原第2ライブカメラ / National Highway No. 303 Kaneihara No. 2 Live Camera </name>
+        <description><![CDATA[〒529-0401 滋賀県長浜市木之本町金居原 「ロードネット滋賀」/ 529-0401 Kaneihara, Kinomoto Town, Nagahama City, Shiga Prefecture "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-kinomoto-r303-kaneihara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3032705,35.5875731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号東野ライブカメラ / National Highway 365 Higashino Live Camera</name>
+        <description><![CDATA[滋賀県長浜市余呉町東野 「ロードネット滋賀」/ Higashino, Yogo-cho, Nagahama-shi, Shiga "Road Net Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1991105,35.5526322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号椿坂第1ライブカメラ / National highway No. 365 Tsubakizaka first live camera</name>
+        <description><![CDATA[〒529-0532 滋賀県長浜市余呉町椿坂 「ロードネット滋賀」/ Tsubakizaka, Yogo Town, Nagahama City, Shiga Prefecture 529-0532,      "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-yogo-tsubakizaka-365.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1612835,35.6501516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号椿坂第2ライブカメラ / National highway No. 365 Tsubakizaka second live camera</name>
+        <description><![CDATA[〒529-0532 滋賀県長浜市余呉町椿坂 「ロードネット滋賀」/ Tsubakizaka, Yogo Town, Nagahama City, Shiga Prefecture 529-0532, "Road Net Shiga"<br>https://livecamera.fujiyamasan.com/shiga-yogo-tsubakizaka-365.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1649652,35.6328668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号中河内ライブカメラ / National Highway 365 Nakakochi Live Camera</name>
+        <description><![CDATA[〒529-0531 滋賀県長浜市余呉町中河内 「ロードネット滋賀」/ Nakanokawachi, Yogo Town, Nagahama City, Shiga Prefecture 529-0531, "Road Road Shiga"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1572656,35.6679678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道賤ヶ岳サービスエリアライブカメラ / Hokuriku Expressway Shigigatake Service Area Live Camera</name>
+        <description><![CDATA[〒529-0522 滋賀県長浜市余呉町坂口２６７−１ 賤ヶ岳SA (下り) 「NEXCO中日本サービス」/  Shigagatake SA (Down), 267-1 Sakaguchi, Yogo-cho, Nagahama City, Shiga Prefecture 529-0522 "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2168909,35.5202872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道滋賀福井県境付近ライブカメラ / Hokuriku Expressway Shiga Fukui border live camera</name>
+        <description><![CDATA[〒529-0515 滋賀県長浜市余呉町中之郷 「NEXCO中日本サービス」/ Nakanogo, Yogo Town, Nagahama City, Shiga Prefecture 529-0515 "NEXCO Central Japan Service"<br>https://livecamera.fujiyamasan.com/shiga-yogo-kenkyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2093793,35.5438276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号木之本基地ライブカメラ / National highway No. 8 Kinomoto base live camera</name>
+        <description><![CDATA[〒529-0425 滋賀県長浜市木之本町木之本 「滋賀国道事務所」/ Kinomoto, Kinomoto Town, Nagahama City, Shiga Prefecture 529-0425 ``Shiga National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2306854,35.5127331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号塩津ライブカメラ / National highway No. 8 Shiozu live camera</name>
+        <description><![CDATA[〒529-0701 滋賀県長浜市西浅井町塩津浜 「滋賀国道事務所」/ Shiotsuhama, Nishiazai Town, Nagahama City, Shiga Prefecture 529-0701, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-nishiazai-siotsuhama-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1713543,35.5156671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号下沓掛ライブカメラ / National Road 8 Shimokutsukake Live Camera</name>
+        <description><![CDATA[〒529-0708 滋賀県長浜市西浅井町沓掛 「滋賀国道事務所」/ Kutsukake, Nishiazai Town, Nagahama City, Shiga Prefecture 529-0708, "Shiga National Highway Office"<br>https://livecamera.fujiyamasan.com/shiga-kutsukake-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1374541,35.5658542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大津港ライブカメラ / Otsu Port Live Camera</name>
+        <description><![CDATA[〒520-0047 滋賀県大津市浜大津５ 丁目３−１０ 大津港 「BANTV」/  Otsu Port, 5-3-10 Hamaotsu, Otsu City, Shiga Prefecture 520-0047,  "BANTV"<br>https://livecamera.fujiyamasan.com/shiga-bantv-otsu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8658363,35.012715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>草津駅ホームライブカメラ / Kusatsu Station Home Live Camera</name>
+        <description><![CDATA[〒525-0026 滋賀県草津市渋川１丁目１「上梨鶴弦」/ 1-1, Shibukawa, Kusatsu City, Shiga Prefecture 525-0026 "Kaminashi Tsurugi"<br>https://livecamera.fujiyamasan.com/shiga-kusatsu-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9619841,35.0217133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲川川田大橋ライブカメラ / Yasugawa Kawada Ohashi Live Camera</name>
+        <description><![CDATA[滋賀県野洲市市三宅「琵琶湖河川事務所」/ Ichimiyake, Yasu City, Shiga Prefecture "Lake Biwa River Office"<br>https://livecamera.fujiyamasan.com/shiga-yasu-kawadaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0101781,35.0785123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名神高速道路彦根インターチェンジライブカメラ / Meishin Expressway Hikone Interchange Live Camera</name>
+        <description><![CDATA[〒522-0023 滋賀県彦根市原町３６６ 彦根 I.C. 「NEXCO中日本サービス」/ Hikone I.C., 366 Hara-cho, Hikone-shi, Shiga 522-0023, "NEXCO Central Japan Service"<br>https://livecamera.fujiyamasan.com/shiga-hikone-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2739309,35.259944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>北海道ライブカメラマップ / Hokkaido Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIAYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>北海道内ライブカメラ</name>
+      <Placemark>
+        <name>宗谷岬灯台ライブカメラ / Soya Misaki Lighthouse</name>
+        <description>北海道稚内市宗谷岬 稚内海上保安部 / Soya Misaki, Wakkanai City, Hokkaido, Wakkanai Coast Guard</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.947672,45.516256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>礼文町・利尻富士ライブカメラ / Mt. Rijiri (Rijiri Fuji)</name>
+        <description>〒097-1201 北海道礼文郡礼文町香深村ベツシュ−９６１−１ 礼文島温泉　うすゆきの湯　「礼文町役場」 / 961‐1 Betsushu, Kafuka-mura, Rebun-cho, Rebun-gun, Hokkaido 097-1201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0474161,45.3001584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利尻山ライブカメラ</name>
+        <description>〒097-0401 北海道利尻郡利尻町沓形字緑町１４−１　利尻町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.1396381,45.1870739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サロベツ原野 / Sarobetsu</name>
+        <description>北海道天塩郡幌延町字下沼 インターネット自然研究所 / Shimonuma, Horonobe-cho, Amashio-gun, Hokkaido, Internet Nature Information System　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.685696,45.104667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クッチャロ湖のハクチョウ / Swan in Lake kutcharo</name>
+        <description>北海道枝幸郡浜頓別町クッチャロ湖畔 インターネット自然研究所 / Kuccharo Kohan, Hamatonbetsu-cho, Esashi-gun, Hokkaito 098-5739, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.34612,45.124928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜頓別町ライブカメラ / Hamatonbetsu Town</name>
+        <description><![CDATA[北海道枝幸郡浜頓別町 夢らんど / Hamatonbetsu-cho, Edayuki-gun, Hokkaido, "Yumeland"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.359896,45.123687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中頓別町ライブカメラ / Nakatonbetsu Town, Esashi-gun</name>
+        <description>北海道枝幸郡中頓別町字中頓別 / Nakatonbetsu,  Nakatonbetsu-cho, Esashi-gun, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.286768,44.9698989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名寄市ライブカメラ / Nayoro City</name>
+        <description>北海道名寄市大通南１丁目 名寄市役所名寄庁舎 / 1-1 Odori Minami, Nayoro City, Hokkaido, 096-8686, Nayoro City Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.46315,44.356015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルパカ牧場ライブカメラ / VIVA ALPACA FARM</name>
+        <description>〒098-0341 北海道上川郡剣淵町東町３７３３ ビバアルパカ牧場 / 3733 Higashimachi, Kenbuchi-cho, Kamikawa-gun, Hokkaido 098-0341, VIVA ALPACA FARM</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.396653,44.103751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭川市旭山動物園‐動物ライブカメラ / Asahiyama Zoo, Asahikawa-shi</name>
+        <description>〒078-8205 北海道旭川市東旭川町倉沼 旭山動物園 / Higashi Asahikawa-cho Kuranuma, Asahikawa-shi, Hokkaido,  078-8205, Asahiyama Zoo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.4800913,43.7684204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マイルドセブンの丘 / Mild Seven Hills, Biei-Cho</name>
+        <description>〒071-0222 北海道上川郡美瑛町字美田 / Biden, Biei-cho, Kamikawa-gun, Hokkaido 071-0222</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.4287752,43.5977666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北海道の絶景！美瑛ポテトの丘ライブ配信</name>
+        <description>〒071-0218 北海道上川郡美瑛町字大村村山 ペンション ポテトヴィレッジ美瑛ポテトの丘</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.4440163,43.6046142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川町ライブカメラ</name>
+        <description>〒071-1423 北海道上川郡東川町東町１丁目１６−１　東川町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.5103227,43.6989716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゴルフ場ライブカメラ / Northern Arc Resort, Kitami City</name>
+        <description>〒099-2102 北海道北見市端野町二区 ノーザンアークゴルフクラブ / Hashino-cho 2-ku, Kitami-shi, Hokkaido 099-2102, Northern Arc Golf Club</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.915749,43.863712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野幌駅前ライブカメラ / JR Nopporo station</name>
+        <description>北海道江別市野幌町50-23 ＠ほ～むパソコンじゅく / 50-23 Nopporo-cho, Ebetsu City, Hokkaido 069-0813, @Home PC School</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5287353,43.0927913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌・石狩・太美駅 / Sapporo,Ishikari,Futomi Sta.</name>
+        <description><![CDATA[〒061-3775 北海道石狩郡当別町ビトエ６４０−１５ ロイズ太美工場 / Royce ' co., Ltd., 640-15 Bitoe, Tobetsu-cho, Ishikari-gun, Hokkaido 061-3775, camera 01: Sapporo district, camera 02: Ishikari district, camera 03: futomi station]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4337508,43.18286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丘珠空港方向(札幌市) / Okadama Airport direction </name>
+        <description>共立航空撮影株式会社 札幌営業所 / Kyoritsu aviation photography, Inc., Sapporo city</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.387863,43.103208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丘珠空港上空</name>
+        <description>〒007-0880 北海道札幌市東区丘珠町　丘珠空港　the world of arial photograph</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.381984,43.110414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北海道大学低温科学研究所観測露場WEB-Camera</name>
+        <description>〒060-0814 北海道札幌市北区北１９条西８丁目 北海道大学 低温科学研究所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3387981,43.0830353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤女子大学ライブカメラ</name>
+        <description>〒001-0016 北海道札幌市北区北16条西2丁目1−1　藤女子大学</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3508977,43.0800047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌市中央卸売市場 / Sapporo Central Wholesale Market</name>
+        <description>〒060-0012 北海道札幌市中央区 札幌市中央卸売市場 北１２条西２０丁目２−２ / 20-2 Nishi, 12 Kita, Chuo-ku, Sapporo city</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3197029,43.073422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いまの札幌ライブカメラ / Sapporo Now</name>
+        <description>北海道札幌市 株式会社エイチ・アイ・ディ / North One Street in Sapporo City</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.344744,43.061536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ネットワークカメラ</name>
+        <description><![CDATA[北海道札幌市西区二十四軒１条４丁目１−１０<br>株式会社リネット]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.316109,43.069742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サッポロビール園ライブカメラ / Sapporo Beer Garden, Garden Grill</name>
+        <description>北海道札幌市東区北７条東９丁目２ サッポロビール園 / Higashi 9-chome 2, 7-jo, Higashi-ku, Sapporo City, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.369088,43.071333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北海道河川リアルタイム情報システム</name>
+        <description>〒060-0808 北海道北区 北海道札幌市北区北８条西２丁目１　北海道開発局</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.351982,43.070947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さっぽろテレビ塔と大通公園 / Sapporo webcam, TV Tower and Odori Park</name>
+        <description>大通り東２丁目からの札幌テレビ塔と大通公園 / Sapporo TV Tower and Odori Park from Odori Higashi 2-chome</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3571948,43.0616374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌市中央区 / Sapporo-shi Chuuou-ku N1</name>
+        <description>札幌市中央区 / The east direction from Sapporo-shi Chuuou-ku N1W8)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.374259,43.0655645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌駅ライブカメラ</name>
+        <description><![CDATA[北海道札幌市中央区北４条西４丁目<br>読売北海道ビル]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.349486,43.066262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さっぽろテレビ塔ライブカメラ（Odori Park in Hokkaido Sapporo） / Sapporo TV Tower Live Cam</name>
+        <description>〒060-0042 北海道札幌市中央区大通西１丁目　さっぽろテレビ塔　北海道観光事業株式会社 大通公園、さっぽろ雪祭り、ホワイトイルミネーション / Sapporo City, Hokkaido sightseeing business co., Ltd., view of the Odori Park, from the observation deck of the TV Tower, view in the winter, Sapporo Snow Festival and white illuminationos</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3564384,43.0610965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌市街ライブカメラ / The Sky of Sapporo City</name>
+        <description>札幌市中央区南３条西８丁目７番地４ 株式会社　Ｍ．Ｃ．Ｓ / 7-4 Nishi 7-chome, Minami 3-jo, Chuo-ku, Sapporo City, M.C.S co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.346332,43.056264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌ライブカメラ「すすきの駅前通り」（USTREAM）</name>
+        <description>〒064-0804 北海道札幌市中央区南４条西４丁目 南4条西4　すすきの駅</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.353314,43.055451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>もいわ山展望台ライブカメラ</name>
+        <description>〒064-0942 北海道札幌市中央区伏見５丁目3番7号　もいわ山ロープウェイ</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3330593,43.0315438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北海道科学大学（手稲山・G棟アトリウムライブカメラ） / Hokkaido Institute of technology</name>
+        <description>北海道札幌市手稲区前田７条１５丁目４ 北海道科学大学 / 4-1, Maeda 7-jo 15-chome, Teine-ku, Sapporo, Japan 006-8585, Hokkaido Institute of technology</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.24871,43.135003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌テイネスキー場　(ハイランド・オリンピアゾーン) / Sapporo Teine Sky Resort</name>
+        <description>北海道札幌手稲区手稲本町 サッポロテイネスキ ー 場 / Teine Honcho, Teine-ku, Sapporo City, Hokkaido, Sapporo Teine Sky Resort</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.209764,43.096157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝野すずらん丘陵公園ライブカメラ</name>
+        <description>〒005-0862 北海道札幌市南区滝野２４７　国営滝野すずらん丘陵公園</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.3870072,42.9135046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エムズゴルフクラブ近況写真</name>
+        <description>〒068-0133 北海道岩見沢市栗沢町加茂川１８４　エムズゴルフクラブ</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.760447,43.105267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サケのふるさと館 / Salmon Park Chitose</name>
+        <description>北海道千歳市花園２丁目千歳, 千歳川水中観察室・千歳川 サケのふるさと館 / 312 Hanazono 2-chome, Chisose City, Hokkaido, Chitose River and Underwater Observation Room, Salmon Park Chitose</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.659147,42.832741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新千歳空港ライブカメラ / New Chitose Airport</name>
+        <description>千歳市美々　新千歳空港 札幌テレビ放送株式会社 / Mimi, Chitose City, New Chitose Airport, The Sapporo Television Broadcasting Co.,Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.681404,42.788346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新千歳空港駐車場A-LIVE現在のA駐車場</name>
+        <description>〒066-0012 北海道千歳市美々　新千歳空港駐車場A</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6784798,42.7883788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石狩市 / Ishikari Hokkaido Japan</name>
+        <description>北海道石狩市 LIVE.ps-j.com / Ishikari City, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.315594,43.17157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新篠津村ライブカメラ</name>
+        <description>〒068-1100 北海道石狩郡新篠津村第４７線北１３　新篠津村役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6492202,43.2254282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恵庭の天気LIVE中継 / Eniwa City</name>
+        <description>北海道恵庭市島松沢５５ 札幌エルムカントリークラブ / 55 Shimamatsuzawa, Eniwa City, Hokkaido 061-1363, SAPPORO ELM COUNTRY CLUB</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.501868,42.913503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮島沼ライブカメラ / Miyajima Pond</name>
+        <description><![CDATA[北海道美唄市西美唄町大曲 Pipa 美唄ファンポータル / Omagari, Nishi Bibai-cho, Bibai City, Hokkaido, "Pipa Hokkaido BIBAI city Portale site Network Service System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.712883,43.331796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小樽天狗山ロープウェイ / Otaru Mt. Tengu Ropeway</name>
+        <description>北海道小樽市最上２丁目１６−１５ 小樽天狗山ロープウェイ / 2-16-15 Mogami, Otaru City, Hokkaido, Otaru Mt. Tengu Ropeway</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.975232,43.177767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野澤ビジネススクール小樽校ライブカメラ</name>
+        <description>〒047-0027 北海道小樽市堺町５−１ 道通ビル 5F　野澤ビジネススクール 小樽校</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.006064,43.19485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金太郎の池ライブカメラ</name>
+        <description>〒053-0034 北海道苫小牧市清水町３丁目-１ 緑ヶ丘公園　「長岡造園株式会社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.591216,42.6572933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白鳥アリーナライブカメラ / Tomakomai City Hakucho Arena</name>
+        <description>北海道苫小牧市若草町２丁目４−１白鳥アリーナ / 2-4-1 Wakakusa-cho, Tomakomai City, Hokkaido, Tomakomai City Hakucho Arena</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.606474,42.639642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苫小牧港ライブカメラ / Tomakomai port</name>
+        <description>〒053-0003 北海道苫小牧市入船町１丁目２−３４ 苫小牧港管理組合 / 1-2-3 Irifune-cho, Tomakomai-shi, Hokkaido 053-0003, Port of Tomakomai, Tomakomai Port Authority</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.63512,42.638363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>糸井の森パークゴルフ / Park Golf Course</name>
+        <description>〒053-0814 北海道苫小牧市糸井４６５−２ 糸井の森パークゴルフ / 465-2 Itoi, Tomakomai-shi, Hokkaido 053-0814, Park Golf Itoi Forest Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.542079,42.638758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はまなすクラブ・パークゴルフ場ライブカメラ</name>
+        <description>〒059-1276 北海道苫小牧市はまなす町２丁目３　はまなすクラブ（ＮＰＯ法人）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5139029,42.6300862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>火山リアルタイム情報</name>
+        <description>国土交通省北海道開発局</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4277534,42.5976504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>噴火湾パノラマパークライブカメラ</name>
+        <description>〒049-3124 北海道八雲町 北海道二海郡八雲町浜松368−8　噴火湾パノラマパーク</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3139212,42.2271167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴎島灯台ライブカメラ / Kamomeshima Lighthouse</name>
+        <description>北海道檜山郡江差町姥神町 函館海上保安部 / Ubagami-cho, Esashimachi, Hiyama-gun, Hokkaido, Hakodate Coast Guard Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.114077,41.868239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上ノ国町ライブカメラ</name>
+        <description>〒049-0611 北海道檜山郡上ノ国町大留１００　上ノ国町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1213447,41.8010851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛登支岬灯台ライブカメラ</name>
+        <description><![CDATA[北海道北斗市茂辺地<br>函館海上保安部]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.601954,41.74362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館山ライブカメラ / Mt. Hakodate</name>
+        <description><![CDATA[北海道函館市戸倉町１４−１ 函館工業高等専門学校付近　「インフォ函館」 / 14-1 Tokura-cho, Hakodate-shi, Hokkaido, Near National Institute of Technology, Hakodate College "Info HAKODATE"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.802836,41.783605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館山山頂ライブカメラ / Top of Mt. Hakodate</name>
+        <description>北海道函館市元町１９−７ 函館山ロープウェイ / 19-7 Motomachi, Hakodate City, Hokkaido, Mt. Hakodate Ropeway</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.714264,41.760941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館市の眺め / Hakodate City Area</name>
+        <description>北海道函館市元町３−３ ガーデンハウスチャチャ / 3-3 Motomachi, Hakodate City, Hokkaido, Garden House CHACHA</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.711946,41.762237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五稜郭公園前交差点 / Goryokaku Park Intersection</name>
+        <description>北海道函館市本町 HAKODATE WATCH / Motomachi, Hakodate City, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7516,41.789281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津軽海峡ライブカメラ / Tsugaru Strait from Sumiyoshi Beach</name>
+        <description>北海道函館市住吉町4-12　無線ラボ（むせんらぼ） 大間屋 / 4-12 Sumiyoshi-cho, Hakodate City, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.718126,41.75028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>せたなBBカメラ / Setana BB camera</name>
+        <description>北海道久遠郡せたな町瀬棚区共和４０４−１せたな町立瀬棚中学校 / 404-1 Kyowa, Setana-ku, Setana-cho, Kudo-gun, Hokkaido, Setana Junior High School</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.855464,42.449681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ワタミファームカメラ / Watami Farm Camera</name>
+        <description>北海道久遠郡せたな町瀬棚区東大里379−1 （株）ワタミファーム瀬棚農場 / 379-1 Higashi Osato, Setana-ku, Setana-cho, Kudo-gun, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.896308,42.498958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>わっかけカメラ / Wackake-Rock</name>
+        <description>北海道久遠郡せたな町瀬棚区三本杉 わっかけ岩(Wackake-Rock) / Sanbonsugi, Setana-ku, Setana-cho, Kudo-gun, Hokkaido, Wackake-Rock</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.851649,42.459719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根室自然環境保全区 / Natural Environment Conservation District</name>
+        <description><![CDATA[北海道根室市厚床<br>株式会社明治]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            145.256724,43.229891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>納沙布岬灯台ライブカメラ / Nosappu Cape Lighthouse</name>
+        <description>〒087-0165 北海道根室市納沙布　納沙布岬灯台　根室海上保安部 / Nosappu, Nemuro-shi, Hokkaido 087-0165,  Nosappu Cape Lighthouse, Nemuro Coast Guard</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            145.8166302,43.3851559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>納沙布岬ライブカメラ / Nossappu Cape, Northern Museum</name>
+        <description>北海道根室市納沙布 納沙布岬 独立行政法人北方領土問題対策協会 / 36-6 Nosappu, Nemuro City, Hokkaido 087-0165, Northern Museum House of Nostalsia</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            145.81718,43.385351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭岳山頂ライブカメラ / Asahidake (Mt. Asahi)</name>
+        <description>北海道上川郡東川町勇駒別 大雪山国立公園旭岳WebView / Higashikawa-cho, Kamikawa-gun, Hokkaido</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.854152,43.663595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭岳ライブカメラ / Asahidake (Mt. Asahi)</name>
+        <description>北海道上川郡東川町勇駒別 旭岳ロープウェイ / Higashikawa-cho, Kmikawa-gun, Hokkaido, DAISETSUZAN ASAHIDAKE ROPEWAY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.806215,43.653652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[比布町ウェブカメラ「大雪山旭岳」 /  Pippu Web Camera "Daisetsuzan Asahidake (Mt. Asahi)"]]></name>
+        <description>〒078-0392 北海道上川郡比布町北町１丁目２番１号　比布町役場 / 1-2-1 Kitamachi, Pippu-cho, Kamikawa-gun, Hokkaido 078-0392, Hokkaido Pippu Town Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.477398,43.875252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>陽だまりライブカメラ / Hidamari Live Camera</name>
+        <description>北海道上川郡美瑛町 字水上 美瑛 旅の宿 陽だまり / Minakami, Biei-cho, Kamikawa-gun, Hokkaido 071-0241, Bie Travel Inn Hidamari</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.474823,43.579893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十勝岳連邦ライブカメラ / Tokachi-Dake mountain range</name>
+        <description>北海道上川郡美瑛町新区画 山荘ゆずりは/ Shinkukaku, Biei-cho, Kamikawa-gun, Hokkaido 071-0233, Lodge Yuzuriha, Biei Town</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.519155,43.589903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぜるぶ・アトムの丘ライブカメラ / Hills of Zerubu and Atom</name>
+        <description>北海道上川郡美瑛町大村 ぜるぶの丘・亜斗夢の丘 / Daisan, Biei-cho, Kamikawa-gun, Hokkaido 071-0225, Hills of Zerubu and Atom</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.469845,43.606375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View ながぬま / Town Naganuma</name>
+        <description>北海道夕張郡長沼町幌内 道の駅「マオイの丘公園」 / Horouchi, Naganuma-cho, Yubari-gun, Hokkaido, the Roadside Station, Maoi Hill Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.717453,42.950643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ニセコヘリポートからの映像 / Niseko Heliport, Niseko Town</name>
+        <description>北海道虻田郡ニセコ町曽我 ニセコ町役場 ニセコヘリポート / 47 Fujimi, Niseko-cho, Hiruta-gun, Hokkaido 048-1595, Niseko Town Office, Niseko Heliport</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.687442,42.804737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サホロリゾートゲレンデライブカメラ</name>
+        <description>〒081-0039 北海道上川郡新得町 狩勝高原　サホロリゾート</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.8133357,43.1664964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新得町商工会駅前カメラ</name>
+        <description>〒081-0008 北海道上川郡新得町本通南1丁目23　新得町商工会</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.8336232,43.0814516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スイートコーン畑ライブカメラ / Sweet corn fields, Tokachi</name>
+        <description>北海道河西郡芽室町 日本缶詰株式会社 / Memuro-cho, Kasai-gun, Hokkaido, Japan Canned Co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.031349,42.918218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>留寿都リゾートライブカメラ / RUSUTSU Sky Area</name>
+        <description>北海道虻田郡留寿都村泉川１３ ルスツリゾートホテル＆コンベンション / 13 Izumikawa, Rusutsu-mura, Hiruta-gun, Hokkaido, Rusutsu Resort</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.901632,42.750668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まっかり LIVE CAMERA</name>
+        <description>〒048-1631 北海道虻田郡真狩村真狩１１８　真狩村役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8037398,42.7629677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津別峠・屈斜路湖 / Tsubetsu Pass and Lake Kussharo</name>
+        <description>北海道網走郡津別町幸町４１津別町役場 / 41 Yukimachi, Tsubetsu-cho, Abashiri-gun, Hokkaido 092-0292, Tsubetsu Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.025269,43.706601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しまふくろうライブカメラ / Owl in Nakashibetsu</name>
+        <description>北海道標津郡中標津町養老牛 旅館藤や/ Yoroshi Onsen, Nakashibetsu-cho, Shibetsu-gun, Hokkaido 088-2684, Yoroshi Onsen Hotel Fujiya</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.72393,43.589344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>増毛灯台からの映像 / Mashike Lighthouse</name>
+        <description>北海道増毛郡増毛町 留萌海上保安部 / Mashike-cho, Mashike-gun, Hokkaido, Rumoi Coast Guard Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.52575,43.855202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>興部町風景ライブカメラ（USTREAM）</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            143.1238906,44.4698778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サロマ湖灯台からの映像 / Lake Saloma Lighthouse</name>
+        <description>北海道紋別郡湧別町登栄床 / Toetoko, Yubetsu-cho, Monbetsu-gun, Hokkaido 099-6412</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.779407,44.179142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日和山灯台からのライブ映像 / Lighthouse Hiyoriyama</name>
+        <description>北海道小樽市祝津 小樽海上保安部 / Shukutsu, Otaru City, Hokkaido, Coast Guard Headquarters in Otaru</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.01568,43.238364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌ライブカメラ / Sapporo City</name>
+        <description>北海道札幌市豊平区平岸４条１３丁目１０−１７ 北海道テレビ放送本社 / 13-10-17, Hiragishi 4-jo, Toyohira-ku, Sapporo City, Hokkaido, Hokkaido television broadcasting co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.375697,43.026047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>札幌市厚別中央２条WEBカメラ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            141.4612851,43.0338411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きじひき高原 パノラマ展望台ライブカメラ</name>
+        <description>北杜市役所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6164079,41.9439146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館ライブカメラ / Hakodate City</name>
+        <description>北海道函館市本町７−１８ 北海道テレビ放送（株）函館支社 / 7-18 Hon-cho, Hakodate City, Hokkaido, Hokkaido television broadcasting co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.750989,41.789617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美留和ライブカメラ</name>
+        <description>美留和 Portal Site</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.4334704,43.5551243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>摩周湖ライブカメラ / Lake Mashu</name>
+        <description><![CDATA[北海道川上郡弟子屈町美留和 摩周湖第一展望台<br>弟子屈なび / Biruwa, Teshikaga-cho, Kawakami-gun, Hokkaido, Lake Mashu, the No.1 Observatory, Teshikaga Navi]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.507294,43.555935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>摩周湖ライブカメラ</name>
+        <description><![CDATA[北海道川上郡弟子屈町弟子屈原野<br>摩周湖レストハウス]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.50871,43.555795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屈斜路湖ライブカメラ / Lake Kussharo</name>
+        <description><![CDATA[北海道川上郡弟子屈町字屈斜路603 弟子屈町役場 屈斜路ウォータースポーツ交流公園 弟子屈なび / 603 Kussharo, Teshikaga-cho, Kawakami-gun, Hokkaido, Teshikaga Town Office, Kussharo Water Sport Park, "Teshikaga Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.342027,43.565125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屈斜路湖ライブカメラ / Lake Kussharo</name>
+        <description><![CDATA[北海道川上郡弟子屈町屈斜路 コタン 弟子屈なび / Kussharo, Teshikaga-cho, Kawakami-gun, Hokkaido, Kotan, "Teshikaga Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.342048,43.566773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釧路高原のタンチョウ / Japanese Crane (Tancho) in Kushiro</name>
+        <description>北海道阿寒郡鶴居村中雪裡南 インターネット自然研究所 / Minami Nakasetsuri, Turui-mura, Akan-gun, Hokkaido 085-1205, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.332156,43.228351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知床半島・羅臼の山々/ Shiretoko Peninsula and Rausu Mountains</name>
+        <description>北海道目梨郡羅臼町礼文町３２−１ インターネット自然研究所 / 32-1 Rebun-cho, Rausu-cho, Menashi-gun, Hokkaido 086-1834,  Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            145.187223,44.013358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厚岸湖・別寒辺牛湿原 / Lake akkeshi and bekanbeushi Marsh animals</name>
+        <description>北海道厚岸郡厚岸町 インターネット自然研究所 /  Akkeshi-cho, Akkeshi-gun, Hokkaido, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.8564102,43.0898102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厚岸ライブカメラ</name>
+        <description>〒088-1151 北海道厚岸郡厚岸町真栄３丁目１　厚岸町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.8473681,43.0518705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在のたんちょう釧路空港</name>
+        <description>〒085-1203 北海道釧路市鶴丘2番地　たんちょう釧路空港</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.1945565,43.0451623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シマフクロウライブカメラ / An Owl, Shimafukuro</name>
+        <description>〒084-0922 北海道釧路市北斗２−２１０１ 釧路湿原野生生物保護センター / 2-2101 Hokuto, Kushiro-shi, Hokkaido 084-0922, Wildlife Conservation Center in Kushiro, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.2969285,43.0663761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿寒湖ライブカメラ</name>
+        <description><![CDATA[北海道釧路市阿寒町阿寒湖温泉4丁目6番10号<br>鶴雅ウイングス]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.090725,43.434796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弟子屈町内ライブカメラ / Teshikaga Town</name>
+        <description>〒088-3215 北海道川上郡弟子屈町美里４丁目２−１１ 有限会社大道開発 / 4-2-11 Misato, Teshikaga-cho, Kawakami-gun, Hokkaido, Omichi Development Co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.4497735,43.4894019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>開陽台ライブカメラ / Nakashibetsu Town and Kaiyodai</name>
+        <description>北海道標津郡中標津町開陽 開陽台 中標津町役場 / 2-22 Maruyama, Nakashibetsu-cho, Shibetsu-gun, Hokkaido 085-1197, Nakashibetsu Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.870272,43.614143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中標津病院ライブカメラ</name>
+        <description><![CDATA[北海道標津郡中標津町西１０条南 <br>町立中標津病院]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.972217,43.536572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十勝川白鳥大橋ライブカメラ（十勝川温泉第一ホテル屋上より）</name>
+        <description>〒080-0263 北海道河東郡音更町十勝川温泉南１２丁目１２−１ 十勝川温泉 第一ホテル　「十勝毎日新聞社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2969325,42.9328644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十勝大橋ライブカメラ</name>
+        <description>〒080-8688 北海道帯広市東１条南８丁目２　十勝毎日新聞社本社</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2072352,42.9237079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北の屋台・いさぬき通り / Isanuki Street, Kita no Yatai, Obihiro</name>
+        <description>北海道帯広市西1条南10丁目7番地 北の屋台 / 2-2-7 Nishi 2-jo 10-chome, Obihiro City, Hokkaido 080-0012, Kita no Yatai (Stand in the north)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.203609,42.920928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>帯広畜産大学の現在の様子（ライブカメラ）</name>
+        <description>〒080-0834 北海道帯広市稲田町西２線１１ 帯広畜産大学</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.1731714,42.8759981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR帯広駅ライブカメラ（ホテル日航ノースランド帯広屋上より）</name>
+        <description>〒080-0012 北海道帯広市西２条南１３丁目１　ホテル日航ノースランド帯広　「十勝毎日新聞社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2026499,42.9171251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とかち帯広空港ライブカメラ</name>
+        <description>〒089-1245 北海道帯広市泉町西9線中8西９線41　帯広空港（とかち帯広空港）「十勝毎日新聞社」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2128767,42.7322097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今日の田園風景 / Rural Landscape of Obihiro</name>
+        <description>北海道帯広市基松町基線３５番地 十勝ＮＯＳＡＩ　中部事業所 JA帯広川西 / 35 Kisen, Motoimatsu-cho, Obihiro City, Hokkaido 080-2331, Obihiro Kawanishi Agricultural Cooperative</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.102503,42.82158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大樹町ライブカメラ　日高山脈・歴舟川方向</name>
+        <description>〒089-2134 北海道広尾郡大樹町東本通３３　大樹町役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2788209,42.4975105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虹のひろばコスモス園ライブ映像 / Cosmos Garden, Engaru Town</name>
+        <description>北海道紋別郡遠軽町丸大７０－１太陽の丘えんがる公園 / Engaru-cho, Monbetsu-gun, Hokkaido, Taiyo-no-Oka Engaru Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.512344,44.058972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>チキウ岬灯台ライブカメラ / Chikiu Misaki Lighthouse</name>
+        <description>〒051-0003 北海道室蘭市母恋南町４丁目無番地 チキウ岬灯台 室蘭海上保安部 / 4 Irie-cho, Muroran-shi, Hokkaido 051-0003, Chikiu Misaki Lighthouse, Muroran Coast Guard Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0012176,42.3021505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>室蘭ライブカメラ</name>
+        <description>〒051-0022 北海道室蘭市海岸町１丁目５−１　室蘭観光協会</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.970185,42.322155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>様似郡様似町エンルム岬ライブカメラ</name>
+        <description>〒058-0014 北海道様似郡様似町大通３丁目６５−４　お食事処・女郎花</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.943247,42.124411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>襟裳岬灯台ライブカメラ / Erimo Misaki Lighthouse</name>
+        <description>北海道幌泉郡襟裳町東洋 襟裳岬 室蘭海上保安部 / Toyo, Erimo-cho, Horoizumi-gun, Hokkaido, Erimo Misaki, Muroran Coast Guard Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.248318,41.924448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>襟裳岬ライブカメラ（USTREAM）</name>
+        <description>〒058-0343 北海道えりも町 北海道幌泉郡えりも町東洋南東洋３６６－３　襟裳岬「風の館」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.2439717,41.9267559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>室蘭工業大学キャンパス / MURORAN INSTITUTE OF TECHNOLOGY</name>
+        <description>〒050-8585 北海道室蘭市水元町27−1 室蘭工業大学 / 27-1 Mizumoto-cho, Muroran City, Hokkaido 050-858, MURORAN INSTITUTE OF TECHNOLOGY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.0335538,42.3778855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜厚真ライブカメラ / Hama Atsuma Beach Live Camera</name>
+        <description>北海道勇払郡厚真町京町120番地 厚真町ライブカメラ / 120 Kyomachi, Atsuma-cho, Yufutsu-gun, Hokkaido, Hama Atsuma Beach Live Camera</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.877956,42.723687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤平市ライブカメラ / Akabira City</name>
+        <description>北海道赤平市泉町４丁目１−１ 赤平市役所 / 4-1 Izumi-cho, Akabira City, Hokkaido 079-1192, Akabira City Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.04421,43.558128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かもい岳スキー場ライブカメラ</name>
+        <description>〒073-0404 北海道歌志内市歌神９５−９ かもい岳スキー場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.0190769,43.5207074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>留萌海岸ゴールデンビーチ / Rumoi Coast and Kogane Cape</name>
+        <description>〒077-0048 北海道留萌市大町２丁目 海のふるさと館 「留萌海岸情報センター」 / Omachi 2-chome, Rumoi-shi, Hokkaido 077-0048, Rumoi Coast Tourisum Information Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.6297238,43.9461449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羊蹄山ライブ映像 / Niseko Live Camera, Yoteizan Live View</name>
+        <description><![CDATA[北海道虻田郡ニセコ元町７７−１０ 道の駅ニセコビュープラザ / 77-10 Motomachi, Niseko-cho, Hiruta-gun, Hokkaido, Roadside Station "Niseko View Plaza"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.702183,42.7994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゴンドラライブカメラ</name>
+        <description><![CDATA[北海道虻田郡ニセコ曽我 <br>アンヌプリスキー場]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.650234,42.852687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倶知安町の様子</name>
+        <description><![CDATA[北海道虻田郡倶知安町北１条東３丁目３ <br>倶知安町役場]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.758553,42.902879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知床ライブカメラ / Shiretoko Peninsula</name>
+        <description>〒099-4355 北海道斜里郡斜里町ウトロ東１７２ 知床グランドホテル北こぶし / 172 Utoro Higashi, Shari-cho, Shari-gun, Hokkaido 099-4355, Shiretoko Grand Hotel Kita Kobushi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.9952841,44.0721397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知床ライブカメラ / Shiretoko Peninsula and the Sea of Okhotsk</name>
+        <description>北海道斜里郡斜里町ウトロ香川192 知床プリンスホテル風なみ季 / 192 Utoro Kagawa, Shari-cho, Shari-gun, Hokkaido 099-4351, Shiretoko Prince Hotel Kazanamiki</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            145.000584,44.071754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斜里岳標高1545m / Shari-Dake 1545m above sea level</name>
+        <description>北海道斜里郡斜里町港町7番地9 フロンティア株式会社 / 7-9 Minato-machi, Shari-cho, Shari-gun, Hokkaido 099-4112,  Frontier co., Ltd</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.661918,43.913449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>斜里岳Webカメラ</name>
+        <description>〒099-4405 北海道斜里郡清里町羽衣町１３　清里町役場　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.5945634,43.8352196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知床連山・夕日台ライブカメラ / Shiretoko Mountains and Yuhidai</name>
+        <description>北海道札幌市中央区宮の森3条7丁目70番 北海道森林管理局 / 7-70, 3-jo, Miyanomori, Chuo-ku, Sapporo City, Hokkaido, Hokkaido Forest Management Bureau</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.304607,43.06152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オホーツク海・知床連山・流氷</name>
+        <description><![CDATA[北海道斜里郡斜里町ウトロ西５<br>いるかホテル]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.979534,44.06679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石狩郡当別町現在の様子 / Tobetsu Town Now</name>
+        <description>〒061-0233 北海道石狩郡当別町白樺町５８−９ 当別町役場 / 58-9 Shirakabamachi, Tobetsu-cho, Ishikari-gun, Hokkaido 061-0233</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.5170788,43.2236852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島牧WEBカメラ / Fishing Ports in Shimamaki Village</name>
+        <description>〒048-0621 北海道島牧郡島牧村泊83−1　島牧村役場 / 83-1 Tomari, Shimamaki-mura, Shimamaki-gun, Hokkaido 048-0621, Shimamaki Village Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0614895,42.7005094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>標茶町役場前ライブカメラ / Shibecha Town Office</name>
+        <description>北海道川上郡標茶町川上４丁目２ 標茶町役場 / 4-2 Kawakami, Shibecha-cho, Kawakami-gun, Hokkaido 088-2312, Shibecha Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.600849,43.303507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釧路防災カメラ</name>
+        <description>085-0018 北海道釧路市黒金町７丁目５　釧路市役所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.381359,42.984856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釧路港ライブカメラ / Kushiro Port</name>
+        <description>北海道釧路市錦町３丁目７ 釧路全日空ホテル 釧路夕焼けクラブ / 3-7, Nishiki-cho, Kushiro-City, Hokkaido, Kushiro ANA Hotel</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.382067,42.982612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まいづる 24h LIVE / Maizuru 24th LIVE</name>
+        <description><![CDATA[北海道釧路市幣舞町４−２８ 釧路レストランまいづる　釧路「夕焼けクラブ」 / 4-28 Nusamai-cho, Kushiro City, Hokkaido, Kushiro Restaurant Maizuru, "Kushiro Uyake Club"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.385328,42.977902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タンチョウライブカメラ / Japanese Crane (Tancho) Sanctuary</name>
+        <description>北海道阿寒郡鶴居村中雪裡 鶴居・伊藤タンチョウサンクチュアリ 日本野鳥の会　BIRD FAN / Minami Nakasetsuri, Turui-mura, Akan-gun, Hokkaido 085-1205, Wild Bird Society of Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.326534,43.225443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美瑛の丘と十勝岳連峰 / Biei webcam</name>
+        <description><![CDATA[北海道上川郡美瑛町ルベシベ 第2ペンション ジャガタラ しんしゅうアソシエイツ / Rubeshibe, Biei-cho, Kamikawa-gun, Hokkaido, the second pension "Jagatara," "Shinshu Associate"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.426758,43.56273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美瑛町新栄の丘ライブカメラ</name>
+        <description>〒071-0471 北海道上川郡美瑛町美馬牛新栄　新栄の丘風味舎</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.4593972,43.557189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在のファーム富田の映像</name>
+        <description>〒071-0704 北海道空知郡中富良野町基線北１５号　ファーム富田</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.427995,43.418149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富良野市ライブカム</name>
+        <description>〒076-0034 北海道富良野市北の峰町１４−３８　ニュー富良野ホテル</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.361555,43.342606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在のファーム富田の映像</name>
+        <description>〒071-0704 北海道空知郡中富良野町基線北１５号 ファーム富田</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.427995,43.418149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>網走流氷カメラ / Abashiri Drift Ice, Abashiri City</name>
+        <description>北海道網走市南４条東６丁目 流氷硝子館 / Higashi 6-chome, Minami 4-jo, Abashiri City, Hokkaido, Ryuhyo Glass Museum</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.277246,44.021999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>流氷カメラ / Abashiri Drift Ice, Abashiri City</name>
+        <description>北海道網走市字鱒浦７５番地 いもだんご村 / 75 Masuura, Abashiri City, Hokkaido 099-3119, Imodango Village</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.291,43.977993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>濤沸湖と斜里岳 / Mount Shari and Lake Tofutsu</name>
+        <description>北海道網走市北浜 白鳥公園内 インターネット自然研究所 / Kitahama, Abashiri City, Hokkaido, Swan Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.356918,43.956063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とよころ飛行場ライブカメラ / Toyokoro Airport, Tokachi</name>
+        <description>北海道中川郡豊頃町茂岩４９ とよころ飛行場 府中エアサービス株式会社 / 49 Moiwa, Toyokoro-cho, Nakagawa-gun, Hokkaido, Toyokoro Airport,  Fuchu air service co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.498054,42.801793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>更別村ライブカメラ / Sarabetsu Village</name>
+        <description>北海道河西郡更別村更別南１線 更別村役場 / 93 Sarabetsu Minami 1-sen, Sarabetsu-mura, Kasai-gun, Hokkaido 089-1595, Sarabetsu Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.18784,42.650406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ただいまのぬかびら源泉郷 / Nukabira Hot Spring Village</name>
+        <description>〒080-1400 北海道河東郡 上士幌町字上士幌町字ぬかびら源泉郷北区48-1 糠平館観光ホテル / Kita-ku 48-1, Nukabira Onsenkyo, Kamishihoro-cho, Kato-gun, Hokkaido 080-1403, Tourist Hotel Nukabirakan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.1883333,43.3653132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銀河の森天文台ライブカメラ</name>
+        <description>〒089-4301 北海道足寄郡陸別町陸別町宇遠別　りくべつ宇宙地球科学館（銀河の森天文台）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.7661055,43.4564451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スピードウェイコースライブ / Tokachi Speedway</name>
+        <description>〒089-1573 北海道河西郡更別村弘和477番地 十勝スピードウェイ / 477 Kowa, Sarabetsu-mura, Kasai-gun, Hokkaido 089-1573, Tokachi Speedway</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.286309,42.630454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北見の様子ライブカメラ / Kitami sekihoku main street</name>
+        <description>〒090-0832 北海道北見市栄町4丁目11番地6 永田建設株式会社 / 4-11-6 Sakae-cho, Kitami City, Hokkaido 090-0832, Nagata Construction Co., Ltd.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.876095,43.802184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北見工業大学流氷画像</name>
+        <description>〒090-8507 北海道北見市公園町１６５　北見工業大学　氷海環境研究室</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.9051056,43.822847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ところ昆虫の家今の様子 / The House of Insects, Kitami-shi</name>
+        <description>〒093-0334 北海道北見市常呂町字吉野１３７番地 ところ昆虫の家 / 137 Yoshino, Tokoro-cho, Kitami-shi, Hokkaido 093-0334, the house of insects Mumu Tokoro</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            143.8829605,43.9720637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寿都町ライブカメラ / Suttsu Town </name>
+        <description>〒048-0406 北海道寿都郡寿都町渡島町１４０−１ 寿都町役場 / 140-1 Toshima-cho, Suttu-cho, Suttu-gun, Hokkaido 048-0406, Suttu Town Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.228977,42.790992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島牧WEBカメラ</name>
+        <description>〒048-0621 北海道島牧郡島牧村泊83−1島牧村役場　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0614887,42.7004896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>洞爺湖温泉からみた洞爺湖 / Lake Toya from Toyako Onsen</name>
+        <description>北海道虻田郡洞爺湖町 洞爺湖温泉 インターネット自然研究所 / Toyako-cho, Hokkaido, Toyako Onsen, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.824471,42.565472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>インコム伊達ライブカメラ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.8779642,42.4605242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉源公園ライブカメラ / Sengen Park, Noboribetsu</name>
+        <description>北海道登別市登別温泉町６０ 登別観光協会 / 60 Noboribetsu Onsen-cho, Noboribetsu City, Hokkaido 059-0551, Noboribetsu Tourist Association Institute</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.143058,42.492467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>支笏湖と周辺の山々 / Lake Shikotsu and surrounding mountains</name>
+        <description>北海道千歳市支笏湖温泉モラップ / Morap, Shikotsuko Onsen, Chitose City</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.4033234,42.7738967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館お天気画像 / Hakodate Weather Live</name>
+        <description>函館市内 バイオウェザーサービス / Hakodate City, Hokkaido, BioWeather Service</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7288122,41.7687831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゲレンデライブカメラ</name>
+        <description>〒068-0411 北海道夕張市末広２丁目４ マウントレースイスキー場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.9698251,43.0507014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キロロリゾートライブカメラ</name>
+        <description>〒046-0571 北海道余市郡赤井川村常盤１２８−１　キロロリゾート</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.9892952,43.0678141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中標津町ライブカメラ</name>
+        <description>〒086-1109 北海道標津郡中標津町西９条南１丁目　雨宮印刷株式会社　「道東情報サイト yac-net」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.9644215,43.5417212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HBC情報カメラ・いまの旭川</name>
+        <description>〒070-0036 北海道旭川市６条通９丁目 右１　星野リゾート 旭川グランドホテル　「北海道テレビ放送（株）HBC情報カメラ」　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.3641413,43.770141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在のオホーツク(北見市常呂町)</name>
+        <description>〒093-0210 北海道北見市常呂町東浜 常呂町字常呂41番地　忠津鉄工所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.0855429,44.124101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の女満別空港ライブカメラ</name>
+        <description>女満別空港</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            144.157619,43.884532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見晴公園ライブカメラ / Miharashi Park Live Camera</name>
+        <description><![CDATA[〒042-0956 北海道函館市見晴町５６ 見晴公園 野外炉 「函館市住宅都市施設公社」/  Miharashi Park outdoor furnace,  56 Miharashi-cho, Hakodate-shi, Hokkaido 042-0956,   "Hakodate-shi residential city facility public corporation"<br>https://livecamera.fujiyamasan.com/miharashi-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8025076,41.7939642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函館公園ライブカメラ / Hakodate Park Live Camera</name>
+        <description><![CDATA[〒040-0044 北海道函館市青柳町１７−番地 函館公園 「函館市住宅都市施設公社」/ Hakodate Park, 17-17 Aoyagi-cho, Hakodate-shi, Hokkaido 040-0044  "Hakodate-shi Residential City Facility Corporation"<br>https://livecamera.fujiyamasan.com/hakodate-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7158338,41.7563506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江差ライブカメラ / Esashi live camera</name>
+        <description><![CDATA[〒043-0042 北海道檜山郡江差町上野町４６ 江差町公民館 対鴎館 「札幌テレビ放送」/ Esashi-cho Public Hall Taioukan, 46 Ueno-cho, Esashi-cho, Hiyama-gun, Hokkaido 043-0042  "Sapporo Television Broadcasting"<br>https://livecamera.fujiyamasan.com/esashi-uenocho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1229544,41.8653718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>宮崎県ライブカメラマップ / Miyazaki Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>宮崎県ライブカメラ</name>
+      <Placemark>
+        <name>航空大学校宮崎本校ライブ / Miyazaki Main School of Civil Aviation College Live Camera</name>
+        <description>〒880-0912 宮崎県宮崎市赤江６５２−２　航空大学校 / Civil Aviation College, 652-2 Akae, Miyazaki-shi, Miyazaki-ken 880-0912</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.442367,31.879334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瓜田川瓜田川輪中堤ライブカメラ / Uritagawa River Wajutei Live Camera</name>
+        <description><![CDATA[〒880-2214 宮崎県宮崎市高岡町小山田「国土交通省河川情報センター」/ Oyamada, Takaoka Town,  Miyazaki City, Miyazaki Prefecture 880-2214, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3059496,31.9294692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>麓川大津庵橋ライブカメラ / Fumotogawa River Daitsuan Bridge Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市高岡町小山田「国土交通省河川情報センター」/ Oyamada, Takaoka Town, Miyazaki City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3270601,31.9321974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川新山下橋ライブカメラ / Eyama Shinyamashita Bridge Live Camera</name>
+        <description><![CDATA[〒880-2212 宮崎県宮崎市高岡町下倉永 「国土交通省河川情報センター」/ Shimokuranaga, Takaoka-cho, Miyazaki City, Miyazaki Prefecture, 880-2212 "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3385522,31.9330927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瓜生野川後溝橋ライブカメラ / Uryunogawa River Atomizo Bridge Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市瓜生野 「国土交通省河川情報センター」/ Uryuno, Miyazaki City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3909554,31.9647325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷川城の下橋ライブカメラ / Otanigawa River Jonoshita Bridge Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市浮田 「国土交通省河川情報センター」/ Ukida, Miyazaki City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3774768,31.9271893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八重川両国橋ライブカメラ / Yae River Ryogoku Bridge live camera</name>
+        <description><![CDATA[宮崎県宮崎市恒久 「国土交通省河川情報センター」/ Tsunehisa, Miyazaki City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4144462,31.889356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日豊本線宮崎駅付近 NippoHonsen Miyazaki City Japan - Railfan Live [Slow TV]</name>
+        <description><![CDATA[〒880-0879 宮崎県宮崎市錦町１ 宮崎駅 「ジャパGOミヤ japagomiya」/ Miyazaki Station, 1 Nishikicho, Miyazaki City, Miyazaki Prefecture 880-0879,  "JAGOGO Miya"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4322211,31.9157131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内河川・国道・火山ライブカメラ / River, National Highway, Volcano Live Cameras </name>
+        <description>880-8253 宮崎県宮崎市大工2-39 宮崎河川国道事務所 / Miyazaki office of River and National Highway, Daiku 2-39, Miyazaki-shi, Miyazaki-ken 880-8253</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4103889,31.9163246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川ライブカメラ / Oyodo River Live Cam</name>
+        <description>〒880-0001 宮崎県宮崎市橘通西１−１−１ 宮崎市役所 / Miyazaki City Hall, 1-1-1 Tachibanadori Nishi, Miyazaki City, Miyazaki 880-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4201736,31.9081645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[現在の酒谷農場【いも畑】/ Sakaya Farm "Sweet Potato Farm"]]></name>
+        <description><![CDATA[〒887-0001 宮崎県日南市油津2-3-2京屋酒造有限会社 / Kyoya Distiller & Brewer Co.,Ltd., 2-3-2 Yutsu, Nichinan-shi, Miyazaki-ken 887-0001]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.403018,31.583169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川・道路ライブカメラ</name>
+        <description><![CDATA[〒882-0803 宮崎県延岡市大貫町１丁目２８８９　<br>国土交通省延岡河川国道事務所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6570521,32.579707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小倉ヶ浜ライブカメラ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            131.6308689,32.3773171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川・道路ライブカメラ / Rivers and Roads Live Cameras</name>
+        <description>〒882-0803 宮崎県延岡市大貫町１丁目２８８９　国土交通省延岡河川国道事務所 / Nobeoka river national highway office, Ministry of Land, Infrastructure and Transport, 1-2889 Onuki-machi, Onobeoka-shi, Miyazaki-ken 882-0803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.657041,32.579686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清武川河口ライブカメラ / Kiyotake River Kawaguchi Live Camera</name>
+        <description><![CDATA[〒889-2151 宮崎県宮崎市大字熊野「宮崎県」/ Kumano, Miyazaki City, Miyazaki Prefecture 889-2151, "Miyazaki Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4462559,31.8269335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami木崎浜ビーチ中央ポイントライブカメラ / iinami Kisakihama Beach Central Point Live Camera</name>
+        <description><![CDATA[〒889-2151 宮崎県宮崎市大字熊野２２０６−１ 木崎浜サーフポイント 「いい波プロジェクト(ii-nami)」/ Kisakihama Surf Point, 2206-1 Kumano, Miyazaki City, Miyazaki Prefecture 889-2151, "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4526723,31.827965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[iinami加江田こどものくにライブカメラ / iinami Kaeda Children's World Live Camera]]></name>
+        <description><![CDATA[〒889-2162 宮崎県宮崎市大字加江田７４７０−３ こどものくに 「いい波プロジェクト(ii-nami)」/ Kodomonokuni, 7470-3 Kaeda, Miyazaki City, Miyazaki Prefecture 889-2162, "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4577391,31.8077842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami青島ビーチライブカメラ / iinami Aoshima Beach Live Camera</name>
+        <description><![CDATA[〒889-2162 宮崎県宮崎市青島２ 丁目２３３青島ビーチ 「いい波プロジェクト(ii-nami)」/ Aoshima Beach, 2-233 Aoshima, Miyazaki City, Miyazaki Prefecture 889-2162, Japan "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4669789,31.8042335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami一ツ葉ビーチライブカメラ / iinami Hitotsuba beach live camera</name>
+        <description><![CDATA[〒880-0834 宮崎県宮崎市新別府町 「いい波プロジェクト(ii-nami)」/ Shin Beppu Town, Miyazaki City, Miyazaki Prefecture 880-0834,<br>"Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4627828,31.9218994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami木崎浜ビーチライブカメラ / iinami Kizakihama Beach Live Camera</name>
+        <description>〒889-2151 宮崎県宮崎市大字熊野２２０６−１「いい波プロジェクト(ii-nami)」/ 2206-1, Kumano, Miyazaki City, Miyazaki Prefecture 889-2151 “Iinami Project (ii-nami)”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4464837,31.8292855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡川清流園ライブカメラ / Okagawa River Seiryuen Live Camera</name>
+        <description><![CDATA[〒889-1602 宮崎県宮崎市清武町今泉甲６８９４　宮崎市養護老人ホーム清流園　「宮崎市役所」/Miyazaki-shi Nursing home Seiryuen, 6894 Imaizumi Ko, Kiyotake-cho, Miyazaki-shi, Miyazaki 889-1602, "Miyazaki City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3849768,31.8534127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水無川丸目橋ライブカメラ / Mizunashi River Marume Bridge Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市清武町今泉乙 「宮崎市役所」/ Imaizumi Otsu, Kiyotake Town, Miyazaki City, Miyazaki Prefecture, "Miyazaki City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.365932,31.8344101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清武川下流清滝橋ライブカメラ / Kiyotake River Lower Kiyotaki Bridge Live Camera</name>
+        <description>宮崎県宮崎市清武町船引 「宮崎市役所」/  Funabiki, Kiyotake-cho, Miyazaki City, Miyazaki Prefecture “Miyazaki City Hall”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3926741,31.8558555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清武川上流庵屋橋ライブカメラ / Kiyotake River Upstream Ioriya Bridge Live Camera</name>
+        <description><![CDATA[〒889-1604 宮崎県宮崎市清武町船引「宮崎市役所」/ Kiyotake-cho Funabiki, Miyazaki City, Miyazaki Prefecture 889-1604, "Miyazaki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3683005,31.8653045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山内川調整池ライブカメラ / Yamauchi River Adjustment Pond Live Camera</name>
+        <description><![CDATA[〒880-0912 宮崎県宮崎市大字赤江 「宮崎県」/ Akae, Miyazaki, Miyazaki Prefecture 880-0912, "Miyazaki Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4342277,31.8827706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川排水機場ライブカメラ / Kumano River Drainage Pump Live Camera</name>
+        <description><![CDATA[〒889-2151 宮崎県宮崎市大字熊野 「宮崎県」/Kumano, Miyazaki City, Miyazaki Prefecture 889-2151, "Miyazaki Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4305083,31.8359433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清武川岡川合流点ライブカメラ / Kiyotake River Okagawa Confluence Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市清武町木原 「宮崎県」/ Kihara, Kiyotake Town, Miyazaki City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3926797,31.8527924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新別府川新別府川防潮堰ライブカメラ / Shin-Beppu River Shin-Beppu River tide weir live camera</name>
+        <description><![CDATA[〒880-0833 宮崎県宮崎市昭栄町 「宮崎県」/  Shoei Town, Miyazaki City, Miyazaki Prefecture  880-0833, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4550133,31.9140893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松川小松川放水路ライブカメラ / Komatsugawa Komatsugawa spillway live camera</name>
+        <description><![CDATA[〒880-0024 宮崎県宮崎市祇園２丁目 「宮崎県」/ 2-chome Gion, Miyazaki City, Miyazaki Prefecture 880-0024, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4093346,31.9304185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六田川排水ポンプ場外水位ライブカメラ / Rokutagawa drainage pump station water level live camera</name>
+        <description><![CDATA[〒880-2114 宮崎県宮崎市大字富吉 「宮崎県」/　 Tomiyoshi, Miyazaki City, Miyazaki Prefecture 880-2114, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3560996,31.9379364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瓜田川番所橋ライブカメラ / Urita River Banshobashi Live Camera</name>
+        <description><![CDATA[〒880-2214 宮崎県宮崎市高岡町小山田「宮崎県」/ Oyamada, Takaoka Town, Miyazaki City, Miyazaki Prefecture 880-2214, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3059496,31.9294692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯田川飯田川排水機場ライブカメラ / Iidagawa drainage pumping station live camera </name>
+        <description><![CDATA[宮崎県宮崎市高岡町飯田「宮崎県」/ Iida, Takaoka Town, Miyazaki City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3039686,31.9554907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川仁反尾橋ライブカメラ / Oyodogawa Nintaobashi Live Camera</name>
+        <description><![CDATA[宮崎県宮崎市高岡町浦之名「宮崎県」/ Uranomyo, Takaoka Town, Miyazaki City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2488388,31.9292438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>追手川追手川排水機場ライブカメラ / Otegawa Otegawa drainage pumping station live camera</name>
+        <description><![CDATA[〒880-0301 宮崎県宮崎市佐土原町上田島上田島 追手川排水機場 「宮崎県」/ Otegawa drainage pumping station, Uedajima, Uedajima, Sadowara-cho, Miyazaki-shi, Miyazaki Prefecture 880-0301, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.433663,32.0544233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川大ノ丸橋ライブカメラ / Oyodogawa Onomaru Bridge Live Camera</name>
+        <description><![CDATA[〒880-2224 宮崎県宮崎市高岡町飯田 「宮崎河川国道事務所」/ Iida, Takaoka Town, Miyazaki City, Miyazaki Prefecture 880-2224, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3026187,31.9546753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川相生橋ライブカメラ / Oyodogawa Aioi Bridge live camera</name>
+        <description><![CDATA[宮崎県宮崎市瓜生野柏田 「宮崎河川国道事務所」/ Uryuno Kashiwada, Miyazaki City, Miyazaki Prefecture, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3959457,31.9579776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>細田川河口ライブカメラ / Hosoda River mouth live camera</name>
+        <description><![CDATA[宮崎県日南市南郷町「宮崎県」/ Nango Town, Nichinan City, Miyazaki Prefecture<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3790124,31.546501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道日南東郷インターチェンジライブカメラ / Higashikyushu Expressway Nichinan Togo Interchange Live Camera</name>
+        <description><![CDATA[〒889-2521 宮崎県日南市大字東弁分乙 日南東郷IC 「宮崎河川国道事務所」/ Nichinan Togo IC, Benbun Otsu, Nichinan City, Miyazaki Prefecture  889-2521, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3884168,31.6220716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道日南北郷インターチェンジライブカメラ / Higashi Kyushu Expressway Nichinan Kitago interchange live camera</name>
+        <description><![CDATA[〒889-2402 宮崎県日南市北郷町郷之原 日南北郷IC 「宮崎河川国道事務所」/ Nichinan Kitago IC, Gonohara, Kitago-cho, Nichinan City, Miyazaki Prefecture 889-2402, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3766867,31.6877665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道北郷町大藤ライブカメラ / Higashikyushu Expressway Kitago Town Ofuji Live Camera</name>
+        <description><![CDATA[宮崎県日南市北郷町大藤 「宮崎河川国道事務所」/ Ofuji, Kitago Town, Nichinan City, Miyazaki Prefecture, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.386168,31.6526544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami梅ヶ浜ビーチライブカメラ / iinami Umegahama Beach Live Camera</name>
+        <description><![CDATA[〒887-0017 宮崎県日南市梅ケ浜 「いい波プロジェクト(ii-nami)」/ Umegahama, Nichinan City, Miyazaki Prefecture 887-0017, "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4099972,31.584205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広渡川河口ライブカメラ / Hiroto River estuary live camera</name>
+        <description><![CDATA[宮崎県日南市梅ヶ浜 「宮崎県」/ Umegahama, Nichinan City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.409361111111,31.5910277777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒谷川戸高川合流点ライブカメラ /  Sakayagawa Totakagawa Confluence Live Camera</name>
+        <description><![CDATA[〒887-0015 宮崎県日南市大字平野 「宮崎県」/ Hirano, Nichinan City, Miyazaki Prefecture 887-0015, "Miyazaki Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3886729,31.5832309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒谷川東光寺橋ライブカメラ / Sakatani River Tokoji Bridge live camera</name>
+        <description><![CDATA[〒887-0041 宮崎県日南市吾田東３丁目４ 「宮崎県」/ 3-4 Agata Higashi, Nichinan City, Miyazaki Prefecture 887-0041, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.38288,31.60985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒谷川本町橋ライブカメラ / Sakatani River Honmachi Bridge live camera</name>
+        <description><![CDATA[宮崎県日南市大字楠原 本町橋 「宮崎県」/ Honmachibashi, Kusuhara, Nichinan City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3484528,31.6240653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広渡川東郷橋ライブカメラ / Hiroto River Togo Bridge Live Camera</name>
+        <description><![CDATA[〒889-2523 宮崎県日南市大字松永 「宮崎県」/ Matsunaga, Nichinan City, Miyazaki Prefecture 889-2523, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4037003,31.6433923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広渡川大藤井堰上流ライブカメラ  / Hiroto River Ofujii Weir upstream live camera </name>
+        <description><![CDATA[〒889-2402 宮崎県日南市北郷町郷之原 「宮崎県」/ Gonohara, Kitago-cho, Nichinan City, Miyazaki Prefecture 889-2402, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3711358,31.7010359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広渡川谷之城橋ライブカメラ / Hiroto River Taninojo Live Camera</name>
+        <description><![CDATA[〒889-2402 宮崎県日南市北郷町郷之原「宮崎県」/ Gonohara, Kitago-cho, Nichinan City, Miyazaki Prefecture 889-2402, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3711358,31.7010359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊比井海岸ライブカメラ / Ibii coast live camera</name>
+        <description><![CDATA[〒887-0111 宮崎県日南市大字伊比井 「宮崎県」/ Ibii, Nichinan City, Miyazaki Prefecture 887-0111, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4262338,31.7217593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道220号風田ライブカメラ / National highway No. 220 Kazeda live camera</name>
+        <description><![CDATA[〒887-0034 宮崎県日南市大字風田 「宮崎河川国道事務所」/ Kazeda, Nichinan City, Miyazaki Prefecture 887-0034, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4262338,31.6180034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京屋酒造酒谷農場いも畑第2ライブカメラ / Kyoya Sake Brewing Sakey Farm Imohata 2nd Live Camera</name>
+        <description><![CDATA[〒889-2511 宮崎県日南市大字酒谷乙 「京屋酒造」/  Sakatani Otsu, Nichinan City, Miyazaki Prefecture 889-2511, "Kyoya Sake Brewing"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2959142,31.6220167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本城川小田代橋ライブカメラ / Honjo River Odashiro Bridge live camera</name>
+        <description><![CDATA[〒888-0008 宮崎県串間市大字本城 「宮崎県」/ Honjo, Kushima City, Miyazaki Prefecture 888-0008, "Miyazaki Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2705551,31.430758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市木川古都橋ライブカメラ / Ichiki River Furuto Bridge live camera</name>
+        <description><![CDATA[宮崎県串間市市木「宮崎県」/ Ichiki, Kushima City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3451131,31.4642784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami恋ヶ浦ビーチライブカメラ / iinami Koigaura Beach Live Camera</name>
+        <description><![CDATA[〒888-0221 宮崎県串間市大納２０３８ 「いい波プロジェクト(ii-nami)」/ 2038 Ohno, Kushima City, Miyazaki Prefecture 888-0221, "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3430175,31.4120188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都井岬灯台ライブカメラ / Toi-misaki (Toi  Cape) Lighthouse</name>
+        <description>宮崎県串間市大納８０−２ (宮崎海上保安部) / Ono, Kushima City, Miyazaki (Miyazaki Coast Guard)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.345801,31.367379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福島川河口ライブカメラ / Fukushima River Mouth Live Camera</name>
+        <description><![CDATA[〒888-0001 宮崎県串間市大字西方 「宮崎県」/ Nishikata, Kushima City, Miyazaki Prefecture 888-0001, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.215566,31.4832237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川宮王丸ライブカメラ / Honjo River Miyaomaru Live Camera</name>
+        <description><![CDATA[宮崎県国富町宮王丸 「国土交通省河川情報センター」/ Miyaomaru, Kunitomi Town, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3563599,31.9794672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川竹田ライブカメラ / Honjo River Takeda Live Camera</name>
+        <description><![CDATA[宮崎県国富町竹田 「国土交通省河川情報センター」/ Takeda, Kunitomi Town, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3061099,31.9924321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>深年川三名ライブカメラ / Fukatoshi River Sanmyo Live Camera</name>
+        <description><![CDATA[宮崎県東諸県郡国富町三名 「国土交通省河川情報センター」/ Sanmyo, Kunitomi-cho, Higashimorokata-gun, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3508357,31.9995493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>深年川太田原ライブカメラ / Fukatoshi River Otabaru Live Camera</name>
+        <description><![CDATA[〒880-1101 宮崎県東諸県郡国富町大字本庄 「宮崎河川国道事務所」/ Honjo, Kunitomi-cho, Higashi-jou, Miyazaki Prefecture 880-1101, <br>"Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.326015,31.987499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川本庄橋ライブカメラ / Honjo River Honjo Bridge live camera</name>
+        <description><![CDATA[宮崎県国富町本庄 「宮崎河川国道事務所」/ Honjo, Kunitomi Town, Miyazaki Prefecture<br>"Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3190064,31.9849304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弥次川元町橋ライブカメラ / Yaji River Motomachi bridge Live Camera</name>
+        <description><![CDATA[〒880-1301 宮崎県東諸県郡綾町大字入野 「国土交通省河川情報センター」/ Irino, Aya-cho, Higashimorokata-gun, Miyazaki Prefecture 880-1301, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2657971,32.0112696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川南俣15.6KPライブカメラ / Honjo River Minamata 15.6KP live camera</name>
+        <description><![CDATA[宮崎県東諸県郡綾町大字南俣 「国土交通省河川情報センター」/ Minamimata, Aya-cho, Higashimorokata-gun, Miyazaki Prefecture,<br> "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2328704,31.9924122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川南俣12.4KPライブカメラ / Honjo River Minamimata 12.4KP live camera</name>
+        <description><![CDATA[宮崎県東諸県郡綾町南俣 「国土交通省河川情報センター」/ Minamimata, Aya-cho, Higashimorokata-gun, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2629593,31.9939037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾北川入野橋ライブカメラ / Ayakita River Irino Bridge Live Camera</name>
+        <description><![CDATA[宮崎県東諸県郡綾町北俣 「宮崎河川国道事務所」/ Kitamata, Aya Town, Higashimorokata-gun, Miyazaki Prefecture, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2661506,32.0031024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行縢川小峰天下橋ライブカメラ / Mukabaki River Komineamori Bridge Live Camera</name>
+        <description><![CDATA[宮崎県延岡市天下町 「国土交通省河川情報センター」/ Amori Town, Nobeoka City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6278708,32.5808311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖田川口広橋ライブカメラ / Okita River Kuchihiro Bridge Live Camera</name>
+        <description><![CDATA[宮崎県延岡市小野町 「国土交通省河川情報センター」/ Ono Town, Nobeoka City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6504471,32.5511325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川貝の畑第2樋管ライブカメラ / Gokase River Kainohata No. 2 gutter live camera</name>
+        <description><![CDATA[宮崎県延岡市貝の畑町 「国土交通省河川情報センター」/ Kainohata Town, Nobeoka City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5996769,32.564551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川KP10.9右岸ライブカメラ / Gokase River KP10.9 right bank live camera </name>
+        <description><![CDATA[宮崎県延岡市下三輪町 「国土交通省河川情報センター」/ Shimomiwa Town, Nobeoka City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6059574,32.5631689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川8.75KP右岸ライブカメラ / Gokase River 8.75KP right bank live camera</name>
+        <description><![CDATA[宮崎県延岡市西階町3丁目 「国土交通省河川情報センター」/ 3-chome Nishishina-machi, Nobeoka-shi, Miyazaki, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6285573,32.5672967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川7.0KP左岸ライブカメラ / Gokase River 7.0KP left bank live camera</name>
+        <description><![CDATA[宮崎県延岡市小峰町「国土交通省河川情報センター」/ Komine Town, Nobeoka City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6288664,32.5817888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖田川井替川合流点ライブカメラ / Okita River Ikae River Confluence Live Camera</name>
+        <description><![CDATA[宮崎県延岡市伊形町 「宮崎県」/ Igata Town, Nobeoka City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6761332,32.5328537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古江川河口ライブカメラ / Furue river mouth live camera</name>
+        <description><![CDATA[宮崎県延岡市北浦町古江 「宮崎県」/ Furue, Kitaura Town, Nobeoka City, Miyazaki Prefecture<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8221764,32.7053758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祝子川蛇谷川樋門ライブカメラ / Houri River Jadani River Himon live camera</name>
+        <description><![CDATA[〒882-0005 宮崎県延岡市夏田町  「宮崎県」/　Natsuda Town, Nobeoka City, Miyazaki Prefecture 882-0005, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6697588,32.6063177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜川防潮水門ライブカメラ / Hamakawa River tide floodgate live camera</name>
+        <description><![CDATA[〒882-0863 宮崎県延岡市緑ケ丘５丁目 「宮崎県」/ 5-chome Midorigaoka, Nobeoka City, Miyazaki Prefecture 882-0863, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6803495,32.54658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川南久保山ライブカメラ / Gokasegawa Minamikuboyama Live Camera</name>
+        <description><![CDATA[〒882-0128 宮崎県延岡市北方町南久保山 「宮崎県」/ Minamikuboyama, Kitakata-machi, Nobeoka City, Miyazaki Prefecture, 882-0128<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.523773,32.5728302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川岡元ライブカメラ / Gokase River Okamoto Live Camera</name>
+        <description><![CDATA[〒882-0075 宮崎県延岡市岡元町「宮崎県」/  Okamoto Town, Nobeoka City, Miyazaki Prefecture 882-0075, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5637393,32.5707935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川細見ライブカメラ / Gokase River Hosomi Live Camera</name>
+        <description><![CDATA[宮崎県延岡市細見町「宮崎県」/ Hosomi Town, Nobeoka City, Miyazaki Prefecture "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5824635,32.5714404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蛇谷川排水ポンプ場桜ヶ丘ライブカメラ / Jadani River drainage pump station Sakuragaoka live camera</name>
+        <description><![CDATA[〒882-0005 宮崎県延岡市夏田町 蛇谷川排水ポンプ場 「宮崎県」/ Jadanigawa River drainage pump station, Natsuda Town, Nobeoka City, Miyazaki Prefecture 882-0005,  "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6737052,32.6043228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川川島橋ライブカメラ / Kita River Kawashima Bridge live camera</name>
+        <description><![CDATA[宮崎県延岡市川島町 「宮崎県」/ Kawashima Town, Nobeoka City, Miyazaki Prefecture, <br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6897731,32.6131835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川熊田ライブカメラ / Kita River Kumada Live Camera</name>
+        <description><![CDATA[〒889-0101 宮崎県延岡市北川町川内名  「宮崎県」/ Kawachimyo, Kitagawa Town, Nobeoka City, Miyazaki Prefecture 889-0101, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6951194,32.6894055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川大貫第三緑地公園ライブカメラ / Oose River Onuki Third Green Park Live Camera</name>
+        <description><![CDATA[〒882-0803 宮崎県延岡市大貫町６丁目「延岡河川国道事務所」/ 6-chome, Onuki-cho, Nobeoka City, Miyazaki Prefecture 882-0803, <br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6473247,32.5663324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川大貫6丁目ライブカメラ / Oose River Onuki 6-chome live camera</name>
+        <description>〒882-0803 宮崎県延岡市大貫町６丁目 「延岡河川国道事務所」/ 6-chome, Onuki-cho, Nobeoka, Miyazaki 882-0803, Nobeoka River National Highway Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6473247,32.5663324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川三須樋管ライブカメラ / Oose River Misu Gutter Live Camera</name>
+        <description><![CDATA[〒882-0881 宮崎県延岡市三須町「延岡河川国道事務所」/  Misu Town, Nobeoka City, Miyazaki Prefecture 882-0881, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6398447,32.5623412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川古城ライブカメラ / Oose River Furushiro live camera</name>
+        <description><![CDATA[〒882-0837 宮崎県延岡市古城町 「延岡河川国道事務所」/ Furushiro Town, Nobeoka City, Miyazaki Prefecture, 882-0837, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6572966,32.5669805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川三輪水位観測所ライブカメラ / Gokase River Miwa Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒882-0883 宮崎県延岡市下三輪町 「延岡河川国道事務所」/ Shimomiwa Town, Nobeoka City, Miyazaki Prefecture, 882-0883, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6061717,32.5513762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川西階排水樋管ライブカメラ / Gokase River Nishishina drain gutter live camera</name>
+        <description><![CDATA[〒882-0804 宮崎県延岡市西階町３丁目 「延岡河川国道事務所」/  3-chome Nishishinamachi, Nobeoka City, Miyazaki Prefecture 882-0804, <br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6292461,32.567199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川天下橋下流ライブカメラ /  Gokase River Amori Bridge downstream live camera</name>
+        <description><![CDATA[〒882-0071 宮崎県延岡市天下町 「延岡河川国道事務所」/ Amori Town, Nobeoka City, Miyazaki Prefecture 882-0071, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6286226,32.5727072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川野田樋門ライブカメラ / Gokase River Noda Himon Live Camera</name>
+        <description><![CDATA[〒882-0801 宮崎県延岡市野田町「延岡河川国道事務所」/ Noda Town, Nobeoka City, Miyazaki Prefecture, 882-0801, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6379745,32.5765283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川野田口樋門ライブカメラ / Gokase River Nodaguchi Himon Live Camera</name>
+        <description><![CDATA[宮崎県延岡市本小路「延岡河川国道事務所」/ Motokoji, Nobeoka City, Miyazaki Prefecture<br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6604124,32.5826557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川三ツ瀬水位観測所ライブカメラ / Oose River Mitsuse Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒882-0815 宮崎県延岡市柳沢町 「延岡河川国道事務所」/  Yanagisawa Town, Nobeoka City, Miyazaki Prefecture 882-0815, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6667493,32.5793134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川エンシティホテル延岡ライブカメラ / Osegawa River Encity Hotel Nobeoka Live Camera</name>
+        <description><![CDATA[〒882-0047 宮崎県延岡市紺屋町１丁目４−２８エンシティホテル延岡 「延岡河川国道事務所」/ Encity Hotel Nobeoka, 4-28 Konya-cho, Nobeoka, Miyazaki Prefecture 882-0047,  "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6709528,32.5841352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川延岡大橋ライブカメラ / Osegawa River Nobeoka Ohashi Live Camera</name>
+        <description><![CDATA[宮崎県延岡市浜砂２丁目１ 延岡大橋 「延岡河川国道事務所」/ Nobeoka Ohashi, 2-chome, Hamasuna, Nobeoka City, Miyazaki Prefecture, <br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6806517,32.582109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川隔流水門大瀬川側水路ライブカメラ / Ose River riverside floodgate Osegawa side canal live camera</name>
+        <description><![CDATA[〒882-0034 宮崎県延岡市昭和町２丁目 「延岡河川国道事務所」/ 2-chome, Showamachi, Nobeoka City, Miyazaki Prefecture, 882-0034,<br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6791036,32.5867825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川昭和町第一樋管ライブカメラ / Gokase River Showa Town first gutter pipe live camera</name>
+        <description><![CDATA[〒882-0034 宮崎県延岡市昭和町「延岡河川国道事務所」/ Showa Town, Nobeoka City, Miyazaki Prefecture 882-0034, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6815953,32.5869432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬川方財水門ライブカメラ / Oose River Hozai sluice live camera</name>
+        <description><![CDATA[〒882-0853 宮崎県延岡市方財町 「延岡河川国道事務所」/ Hozai-machi, Nobeoka City, Miyazaki Prefecture 882-0853, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6984112,32.5865668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川河口ライブカメラ / Gokase River Mouth Live Camera</name>
+        <description><![CDATA[宮崎県延岡市方財町 「延岡河川国道事務所」/ Hozai-machi, Nobeoka City, Miyazaki Prefecture, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7106017,32.5901468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祝子川大武排水樋管ライブカメラ / Houri River Odake Drain pipe live camera</name>
+        <description><![CDATA[〒882-0024 宮崎県延岡市大武町 「延岡河川国道事務所」/  Odake Town, Nobeoka City, Miyazaki Prefecture 882-0024, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6946748,32.5939134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祝子川祝子水位観測所ライブカメラ / Houri River Houri Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒882-0031 宮崎県延岡市中川原町 「延岡河川国道事務所」/ Nakagawara Town, Nobeoka City, Miyazaki Prefecture 882-0031, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6722509,32.5983066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川東海水位観測所ライブカメラ / Kita River Tokai Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒882-0016 宮崎県延岡市東海町  「延岡河川国道事務所」/ Tokai Town, Nobeoka City, Miyazaki Prefecture 882-0016, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7183345,32.5925137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川寺島水門ライブカメラ / Kita River Terashima Sluice Live Camera</name>
+        <description><![CDATA[宮崎県延岡市二ツ島町 「延岡河川国道事務所」/ Futatsushima Town, Nobeoka City, Miyazaki Prefecture, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7034828,32.6039095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川川島排水機場ライブカメラ /Kita River Kawashima Drainage Pump Station Live Camera </name>
+        <description><![CDATA[宮崎県延岡市川島町 「延岡河川国道事務所」/ Kawashima Town, Nobeoka City, Miyazaki Prefecture, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7033927,32.6218964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号道の駅北川はゆまライブカメラ / National highway No. 10 roadside station Kitagawa Hayuma live camera</name>
+        <description><![CDATA[〒889-0102 宮崎県延岡市北川町長井５７５１−１ 道の駅 北川はゆま 「延岡河川国道事務所」/ Road Station Kitagawa Hayuma, 5751-1 Nagai, Kitagawa Town, Nobeoka City, Miyazaki Prefecture 889-0102, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.704479,32.666139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号土々呂町ライブカメラ / National highway No. 10 Totoro Town live camera</name>
+        <description><![CDATA[宮崎県延岡市土々呂町「延岡河川国道事務所」/ Totoro Town, Nobeoka City, Miyazaki Prefecture, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6710988,32.5051299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道延岡南インターチェンジライブカメラ / Higashikyushu Expressway Nobeoka Minami Interchange Live Camera
+</name>
+        <description><![CDATA[〒889-0503 宮崎県延岡市伊形町 延岡南IC 「延岡河川国道事務所」/ Nobeoka Minami IC, Igata Town, Nobeoka City, Miyazaki Prefecture 889-0503, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6664813,32.5298667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道延岡ジャンクションライブカメラ / Higashikyushu Expressway Nobeoka Junction Live Camera</name>
+        <description><![CDATA[宮崎県延岡市天下町 「延岡河川国道事務所」/ Amori Town, Nobeoka City, Miyazaki Prefecture,<br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6224867,32.5764693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号栂目ライブカメラ / National highway No. 10 Togame live camera</name>
+        <description><![CDATA[〒889-0101 宮崎県延岡市北川町川内名  「延岡河川国道事務所」/ Kawauchimyo, Kitagawa Town, Nobeoka City, Miyazaki Prefecture 889-0101, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6610356,32.7206937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道北浦インターチェンジライブカメラ / Higashikyushu Expressway Kitaura Interchange Live Camera</name>
+        <description><![CDATA[〒889-0301 宮崎県延岡市北浦町古江 北浦IC 「延岡河川国道事務所」/ Kitaura IC, Furue, Kitaura Town, Nobeoka City, Miyazaki Prefecture 889-0301, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8198726,32.7102608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道須美江トンネル起点坑口ライブカメラ / Higashikyushu Expressway Sumie tunnel starting point live camera</name>
+        <description><![CDATA[宮崎県延岡市須美江町 須美江トンネル　「延岡河川国道事務所」/ Sumie Tunnel, Sumie Town, Nobeoka City, Miyazaki Prefecture, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7519586,32.6774698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道北川トンネル起点坑口ライブカメラ / Higashikyushu Expressway Kitagawa tunnel starting pit live camera</name>
+        <description><![CDATA[〒889-0102 宮崎県延岡市北川町長井 北川トンネル 「延岡河川国道事務所」/ Kitagawa Tunnel, Nagai, Kitagawa Town, Nobeoka City, Miyazaki Prefecture 889-0102, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6991683,32.6558388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥野川瓦田橋ライブカメラ / Okunogawa Kawarada Bridge Live Camera</name>
+        <description><![CDATA[宮崎県日向市塩見「国土交通省河川情報センター」/ Shiomi, Hyuga City, Miyazaki Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5966231,32.414088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富高川年の神橋ライブカメラ / Tomitaka River Toshinokamibashi Live Camera</name>
+        <description><![CDATA[宮崎県日向市富高「国土交通省河川情報センター」/ Tomitaka, Hyuga City, Miyazaki Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6084625,32.4340959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤岩川赤岩橋ライブカメラ / Akaiwa River Akaiwa Bridge Live Camera</name>
+        <description><![CDATA[宮崎県日向市財光寺 「国土交通省河川情報センター」/ Zaikoji Temple, Hyuga City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.624645,32.395624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川下ノ原橋ライブカメラ / Shiomi River Shimonohara Bridge Live Camera</name>
+        <description><![CDATA[宮崎県日向市塩見 「国土交通省河川情報センター」/ Shiomi, Hyuga City, Miyazaki Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5910976,32.4080041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川縁開橋ライブカメラ / Shiomi River Enkaibashi Live Camera</name>
+        <description><![CDATA[宮崎県日向市塩見「国土交通省河川情報センター」/ Shiomi, Hyuga City, Miyazaki Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.615311,32.4152591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小倉ヶ浜ライブカメラ / Oguragahama</name>
+        <description><![CDATA[宮崎県日向市財光寺小倉ヶ浜 ii・nami.com / Oguragahama, Zaikoji, Hyuga City, Miyazaki, "ii・nami.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.642132,32.403878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami金ヶ浜ビーチライブカメラ / iinami Kanegahama Beach Live Camera</name>
+        <description><![CDATA[宮崎県日向市平岩 「いい波プロジェクト(ii-nami)」/ Hiraiwa, Hyuga City, Miyazaki Prefecture, "Iinami Project (ii-nami)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6238243,32.361813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>耳川河口ライブカメラ / Mimikawa River Mouth Live Camera</name>
+        <description><![CDATA[宮崎県日向市幸脇 「宮崎県」/ Saiwaki, Hyuga City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6122124,32.3403589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩見川河口ライブカメラ / Shiomi River estuary live camera</name>
+        <description><![CDATA[〒883-0021 宮崎県日向市大字財光寺１１３１−１ 日向市役所 下水道課浄化センター 「宮崎県」/ Hyuga City Hall Sewer Division Purification Center, 1131-1 Zaiko-ji, Oita, Hyuga City, Miyazaki Prefecture, 883-0021, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6402188,32.4064761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄手川庄手川防潮堰ライブカメラ / Shote River Shote River Seawall Live Camera</name>
+        <description><![CDATA[〒883-0062 宮崎県日向市大字日知屋 「宮崎県」/ Hichiya, Hyuga City, Miyazaki Prefecture 883-0062, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6435848,32.4357798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号大王ライブカメラ / National highway No. 10 live camera</name>
+        <description><![CDATA[〒883-0061 宮崎県日向市大王町１丁目 「延岡河川国道事務所」/  1-chome, Daio-cho, Hyuga City, Miyazaki Prefecture, 883-0061, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6295579,32.442302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号道の駅日向ライブカメラ / National highway No. 10 Roadside station Hinata live camera</name>
+        <description><![CDATA[〒889-1112 宮崎県日向市大字幸脇２４１−７　道の駅 日向 「延岡河川国道事務所」/ Road Station Hyuga, 241-7 Saiwaki, Hyuga-shi, Miyazaki Prefecture 889-1112, "Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6240436,32.3433606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮崎県日向市 / Hyuga City, Miyazaki</name>
+        <description><![CDATA[お天気カメラ / "Weather Live Cam, isapa home area"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6246653,32.4247463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三財川岩崎橋ライブカメラ / Sanzaigawa River Iwasakibashi live camera</name>
+        <description><![CDATA[〒881-0113 宮崎県西都市大字下三財 「国土交通省河川情報センター」/ Shimosanzai, Saito City, Miyazaki Prefecture 881-0113, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3535932,32.0683779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一ツ瀬川瀬口橋ライブカメラ / Hitotsusegawa Seguchibashi live camera</name>
+        <description><![CDATA[〒881-0001 宮崎県西都市大字岡富 「宮崎県」/ <br>Okatomi, Saito City, Miyazaki prefecture 881-0001, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4124644,32.079137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三財川鳥子橋ライブカメラ / Sanzaigawa River Toriko Bridge Live Camera</name>
+        <description><![CDATA[〒881-0005 宮崎県西都市大字三宅「宮崎県」/ Miyake, Saito City, Miyazaki 881-0005, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.386168,32.1142563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三財川清水橋ライブカメラ / Sanzaigawa Shimizubashi live camera</name>
+        <description><![CDATA[〒881-0004 宮崎県西都市大字清水「宮崎県」/ Shimizu, West City, Miyazaki Prefecture 881-0004, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3836629,32.0987931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一ツ瀬川杉安橋ライブカメラ / Hitotsusegawa Sugiyasu Bridge Live Camera</name>
+        <description><![CDATA[〒881-0027 宮崎県西都市大字南方「宮崎県」/ Minamikata, Saito City, Miyazaki prefecture 881-0027, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3720974,32.1480819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮田川塩田樋門ライブカメラ / Miyata River Shiota Himon Live Camera</name>
+        <description><![CDATA[宮崎県高鍋町南高鍋 「国土交通省河川情報センター」/ Minamitakanabe, Takanabe Town, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5071215,32.1212822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州地方整備局小丸川映像 / Kyushu Regional Development Bureau Omaru River Video</name>
+        <description><![CDATA[〒884-0005 宮崎県児湯郡高鍋町持田 小丸大橋 「宮崎河川国道事務所」/ Omaru Ohashi, Mochida, Takanabe-cho, Koyu-gun, Miyazaki Prefecture 884-0005, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5160506,32.1409446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高鍋町立高鍋東小学校ライブカメラ / Takanabe Town Takanabe Higashi Elementary School Live Camera</name>
+        <description>〒884-0002 宮崎県児湯郡高鍋町大字北高鍋４６００ 高鍋町立高鍋東小学校 / Takanabe Town Takanabe East Elementary School, 4600 Kitatakanabe, Takanabe-cho, Koyu-gun, Miyazaki Prefecture 884-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.51792,32.129298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一ツ瀬川河口ライブカメラ / Hitotsusegawa River Estuary Live Camera</name>
+        <description><![CDATA[宮崎県児湯郡新富町大字下富田 「宮崎県」/ Shimotonda, Shintomi Town, Koyu District, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4962794,32.0517046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一ツ瀬川一ツ瀬橋ライブカメラ / Hitotsuse River Hitotsusebashi Live Camera</name>
+        <description><![CDATA[宮崎県児湯郡新富町新田「宮崎県」/ Niyuta, Shintomi Town, Miyazaki Prefecture "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4458157,32.0585449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平田川松原橋ライブカメラ / Heida River Matsubarabashi live camera</name>
+        <description><![CDATA[宮崎県児湯郡川南町大字平田 「国土交通省河川情報センター」/ Heida, Kawanami-cho, Koyu-gun, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5419576,32.1924812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami伊倉ヶ浜ビーチライブカメラ / iinami Ikuragahama Beach Live Camera</name>
+        <description><![CDATA[宮崎県児湯郡川南町平田「iinami」/ "Iinami", Heida, Kawaminami-cho, Koyu-gun, Miyazaki Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5543621,32.1944501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都農川河口ライブカメラ / Tsuno River Mouth Live Camera</name>
+        <description><![CDATA[宮崎県児湯郡都農町明田 「宮崎県」/ Myoden, Tsuno-cho, Koyu-gun, Miyazaki Prefecture,<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.572605,32.2620963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸バエ川草川小学校ライブカメラ / Marubae River Kusagawa Elementary School Live Camera</name>
+        <description><![CDATA[〒889-0603 宮崎県東臼杵郡門川町加草４丁目９８ 門川町立草川小学校 「国土交通省河川情報センター」/ Kadogawa Municipal Kusagawa Elementary School,  4-98 Kakusa, Kadogawa-cho, Higashiusuki-gun, Miyazaki Prefecture 889-0603, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.665479,32.487156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五十鈴川小園井堰ライブカメラ / Isuzu River Kozoi Weir Live Camera</name>
+        <description>〒889-0611 宮崎県東臼杵郡門川町大字門川尾末「宮崎県」/ Kadogawa, Kadogawa-cho, Higashiusuki-gun, Miyazaki Prefecture 889-0611</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6261285,32.4872361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五十鈴川更生橋ライブカメラ / Isuzu river Koseibashi live camera</name>
+        <description><![CDATA[〒889-0604 宮崎県東臼杵郡門川町大字川内「宮崎県」/ Kawauchi, Kadogawa-cho, Higashiusuki-gun, Miyazaki Prefecture 889-0604<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5712298,32.4859305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号船越ライブカメラ / National highway No. 10 Funakoshi live camera</name>
+        <description><![CDATA[〒889-0603 宮崎県東臼杵郡門川町加草 「延岡河川国道事務所」/ Kakusa, Kadogawa-cho, Higashiusuki-gun, Miyazaki Prefecture 889-0603<br>"Nobeoka River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6641512,32.4876962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萩原川栄源寺橋ライブカメラ / Hagiwara River Eigenji Bridge Live Camera</name>
+        <description><![CDATA[〒885-0061 宮崎県都城市下長飯町 国道10号線　栄源寺橋 「国土交通省河川情報センター」/ Route 10 Eigenji Bridge, Shimonagae-cho, Miyakonojo City, Miyazaki Prefecture 885-0061, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0588423,31.712955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖水川沖水橋ライブカメラ / Okimizu River Okimizu Bridge Live Camera</name>
+        <description><![CDATA[宮崎県都城市上川東4丁目 「国土交通省河川情報センター」/  4-chome, Kamikawa Higashi,  Miyakonojo City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0779536,31.749301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東岳川大井出橋ライブカメラ / Higashidake River Oide Bridge Live Camera</name>
+        <description><![CDATA[宮崎県都城市高城町大井手二本松 「国土交通省<br>河川情報センター」/  Oide Nihonmatsu, Takashiro Town Miyakonojo City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1468776,31.7922115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高千穂峰南斜面ライブカメラ / Takachiho peak south slope live camera</name>
+        <description><![CDATA[〒885-0224 宮崎県都城市御池町 「宮崎河川国道事務所」/  Miike Town, Miyakonojo City, Miyazaki Prefecture 885-0224, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9334411,31.8675837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫城川放水路ライブカメラ / Himegi River Floodway Live Camera</name>
+        <description><![CDATA[〒885-0054 宮崎県都城市若葉町 「宮崎県」/ Wakaba Town, Miyakonojo City, Miyazaki Prefecture 885-0054  "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0803469,31.7210823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川岳下橋ライブカメラ</name>
+        <description><![CDATA[〒885-0083 宮崎県都城市都島町 「宮崎河川国道事務所」/ Miyakojima Town, Miyakonojo City,   Miyazaki Prefecture 885-0083, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0493393,31.7189037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀川樋渡橋ライブカメラ / Oyodogawa River Hiwatashibashi Bridge Live Camera</name>
+        <description><![CDATA[〒885-1311 宮崎県都城市高城町有水 「宮崎河川国道事務所」/ Takashiro Town Arimizu,   Miyakonojo City, Miyagi Prefecture 885-1311,   <br>"Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1134496,31.8598242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本庄川須木水位局ライブカメラ / Honjogawa Suki Water Level Station Live Camera</name>
+        <description><![CDATA[宮崎県小林市須木下田「国土交通省河川情報センター」/ Sukishita, Kobayashi city, Miyagi prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0772681,32.0719857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石氷川大手橋ライブカメラ / Ishigourigawa Otebashi live camera</name>
+        <description><![CDATA[宮崎県小林市真方 「国土交通省河川情報センター」/ Magata, Kobayashi City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9828658,32.0037584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩瀬川旧岩瀬橋ライブカメラ / Iwasegawa Old Iwasebashi live camera</name>
+        <description>〒886-0213 宮崎県小林市野尻町三ケ野山 「国土交通省河川情報センター」/ Mikkanoyama, Nojiri-cho, Kobayashi-shi, Miyazaki 886-0213, Japan Ministry of Land, Infrastructure, Transport and Tourism River Information Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.013513,31.976553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巣之浦川巣の浦ライブカメラ / Sunoura River Sunoura Live Camera</name>
+        <description><![CDATA[〒886-0005 宮崎県小林市南西方 巣ノ浦川 「宮崎県」/ Minaminishikata, Kobayashi City, Miyazaki Prefecture 886-0005, Sunoura River, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9038297,31.9793626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霧島山韓国岳ライブカメラ / Kirishimayama Kankokudake Live Camera</name>
+        <description><![CDATA[〒889-4302 宮崎県えびの市大字末永 韓国岳 「気象庁」/ Ebino City, Miyazaki Prefecture 889-4302, "JMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8615319,31.9341701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長江川浜川原橋ライブカメラ / Nagae River Hamakawabaru Bridge Live Camera</name>
+        <description><![CDATA[宮崎県えびの市東長江浦「国土交通省河川情報センター」/ Higashi Nagaeura, Ebino City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8186272,32.0146452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川池島大橋ライブカメラ / Sendai River Ikejima Ohashi Live Camera</name>
+        <description><![CDATA[宮崎県えびの市大明司 「国土交通省河川情報センター」/ Daimyouji, Ebino City, Miyazaki Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8245657,32.0484103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川榎田橋ライブカメラ / Sendai River Enokida Bridge Live Camera</name>
+        <description><![CDATA[宮崎県えびの市榎田 「国土交通省河川情報センター」/ Enokida, Ebino City, Miyazaki Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8092354,32.0550313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川加久藤樋門ライブカメラ / Sendai River Kakuto Himon Live Camera</name>
+        <description><![CDATA[〒889-4234 宮崎県えびの市大字永山 「国土交通省河川情報センター」/ Nagayama, Ebino City, Miyazaki Prefecture 889-4234. "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8059124,32.0543384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>えびの高原霧島連山ライブカメラ / Ebino Kogen Kirishima Mountains Live Camera</name>
+        <description><![CDATA[〒889-4302 宮崎県えびの市大字末永 えびの高原 「南日本放送」/ Ebino Kogen, Suenaga, Ebino-shi, Miyazaki Prefecture 889-4302, "Southern Japan Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8453045,31.9461018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>えびの高原からみた霧島連山 / Kirishima Mountain Range from Ebino Kogen</name>
+        <description>宮崎県えびの市 えびの高原 インターネット自然研究所 / Ebino City, Miyazaki, Ebino Kogen, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.854721,31.987695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC新燃岳韓国岳ライブカメラ / MBC Shinmoedake Kankokudake Live Camera</name>
+        <description><![CDATA[〒899-4201 鹿児島県霧島市霧島田口 新燃岳 「南日本放送」/ Shinmoedake, Kirishima Taguchi, Kirishima City, Kagoshima Prefecture, 899-4201, "South Japan Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8862587,31.9098442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川向江水門ライブカメラ / Sendaigawa River Mukae Sluice Live Camera</name>
+        <description><![CDATA[宮崎県えびの市向江 「川内川河川事務所」 / Mukae, Ebino City, Miyazaki Prefecture,  "Kawauchi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7583276,32.0406985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川亀沢第一樋管ライブカメラ / Sendaigawa River Kamezawa first gutter live camera </name>
+        <description><![CDATA[宮崎県えびの市亀沢 「川内川河川事務所」/ Kamezawa, Ebino City, Miyazaki Prefecture<br>"Kawauchi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7487157,32.0418595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川真幸堰下流ライブカメラ /Sendai River Masaki Weir downstream live camera</name>
+        <description><![CDATA[宮崎県えびの市向江 「川内川河川事務所」/ Mukae, Ebino City, Miyazaki Prefecture,  "Kawauchi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7603619,32.0502804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川上真幸橋ライブカメラ / Sendai River Kamimasaki Bridge Live Camera</name>
+        <description><![CDATA[宮崎県えびの市大字島内 上真幸橋 「川内川河川事務所」/ Kamimasaki Bridge, Shimauchi, Ebino City, Miyazaki Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7813334,32.0599915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川湯田ライブカメラ / Sendai River Yuda Live Camera</name>
+        <description><![CDATA[宮崎県えびの市大字湯田 「川内川河川事務所」/ Yuda, Ebino City, Miyazaki Prefecture<br> "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7981805,32.0538033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川麓橋下流ライブカメラ / Sendai River Fumoto Bridge Downstream Live camera</name>
+        <description><![CDATA[宮崎県えびの市原田 「川内川河川事務所」/ Harada, Ebino City, Miyazaki Prefecture<br>"Kawauchi River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.872056,32.0494334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霧島山硫黄山南ライブカメラ / Kirishimayama Iouyama South Live Camera</name>
+        <description><![CDATA[〒889-4302 宮崎県えびの市大字末永 硫黄山 「気象庁」/ Iouyama, Suenaga, Ebino City, Miyazaki Prefecture 889-4302, "JMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8532414,31.9473486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長江川柳ヶ本橋ライブカメラ / Nagaegawa Yanagigamoto Bridge Live Camera</name>
+        <description><![CDATA[宮崎県えびの市西長江浦弁財天380 「宮崎県」/ 380 Benzaiten, Nishinagaeura Benten, Ebino City, Miyazaki Prefecture, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8115282,32.0324434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>年見川放水路沖水川合流点ライブカメラ / Toshimi River Floodway Okimizu River Confluence Live Camera</name>
+        <description><![CDATA[〒889-1914 宮崎県北諸県郡三股町大字蓼池 「宮崎県」/ Tateike, Mimata Town, Kitamorokata  District, Miyazaki Prefecture 889-1914, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1174858,31.7603788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>年見川年見川放水路ライブカメラ / Tomiomi River Tomimi River Floodway Live Camera</name>
+        <description><![CDATA[〒889-1901 宮崎県北諸県郡三股町大字樺山 「宮崎県」/ Kabayama, Mimata-cho, Kitamorokata-gun, Miyazaki Prefecture 889-1901, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1351025,31.7133115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒲牟田川下川原橋ライブカメラ / Kamamuta River Shimokawahara Bridge Live Camera</name>
+        <description><![CDATA[宮崎県西諸県郡高原町大字蒲牟田 「宮崎河川国道事務所」/ Kamamuta, Takahara Town, Nishimorokata-gun, Miyazaki Prefecture, <br>"Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9721107,31.9130052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新燃岳東側ライブカメラ / Shinmoedake east live camera</name>
+        <description><![CDATA[〒889-4412 宮崎県西諸県郡高原町大字西麓 「宮崎河川国道事務所」/ Nishifumoto, Takaharu Town, Nishimorokata District, Miyazaki prefecture 889-4412, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0267987,31.937588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大幡川大幡第2砂防堰堤ライブカメラ / Ohata River Obata Second Sabo Dam Live Camera</name>
+        <description><![CDATA[〒889-4414 宮崎県西諸県郡高原町大字蒲牟田 「宮崎河川国道事務所」/ Kamamuta,  Takaharu-cho, Nishimorokata-gun, Miyazaki prefecture  889-4414, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9738308,31.8991657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢岳川矢岳第6砂防堰堤ライブカメラ / Yadake River Yadake 6th Sabo dam live camera</name>
+        <description><![CDATA[〒889-4411 宮崎県西諸県郡高原町大字広原 「宮崎河川国道事務所」/ Hirohara, Takaharu-cho, Nishimorokata-gun, Miyazaki Prefecture  889-4411, "Miyazaki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9889695,31.945267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一ツ瀬川村所橋ライブカメラ / Hitotsagawa Murokorobashi Live Camera</name>
+        <description><![CDATA[〒881-1411 宮崎県児湯郡西米良村大字村所 村所橋 「宮崎県」/ Murasho, Nishimera Village, Koyu District, Miyazaki Prefecture 881-1411, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.153558,32.2254468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>耳川諸塚ライブカメラ / Mimikawa River Morotsuka Live Camera</name>
+        <description><![CDATA[〒883-1301 宮崎県東臼杵郡諸塚村大字家代 「宮崎県」/ Eyo, Morotsuka-mura, Higashiusuki-gun, Miyazaki Prefecture, 883-1301<br>"Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3510866,32.5178737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西米良ライブカメラ 村所橋・八重渓谷 / Nishimera Live Cam Murasho Bridge and Yae Valley</name>
+        <description>〒881-1411 宮崎県児湯郡西米良村村所１５ 西米良村役場 , Nishimera Village Office, 15 Murasho,  Nishimera-son, Koyu-gun, Miyazaki 881-1411</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1544635,32.2262525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>椎葉村ライブカメラ / Shiiba Village Live Cam</name>
+        <description>〒883-1601 宮崎県東臼杵郡椎葉村下福良１７４７−２０ 椎葉村役場 / Shiiba Village Office, 1747-20 Shimofukura, Shiiba-son, Higashiusuki-gun, Miyazaki-ken 883-1601</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1575588,32.4667255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四季見原すこやかの森キャンプ場</name>
+        <description><![CDATA[〒882-1411 宮崎県高千穂町上野親父山平３７５１−７２２　四季見原すこやかの森キャンプ場　「高千穂町役場」<br>https://livecamera.fujiyamasan.com/takachiho-shikimihara-camp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3368301,32.7783622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国見ヶ丘ライブカメラ / Kunimigaoka Live Cam</name>
+        <description><![CDATA[宮崎県西臼杵郡高千穂町 国見ヶ丘 「高千穂町役場」 / Kunimigaoka, Takachiho-cho, Nishi Usuki-gun, Miyazaki-ken, "Takachiho Town Hall"<br>https://livecamera.fujiyamasan.com/takachiho-kunimigaoka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2801732,32.7197375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高千穂峡ライブカメラ / Takachiho Gorge Live Camera</name>
+        <description><![CDATA[〒882-1103 宮崎県西臼杵郡高千穂町向山 高千穂峡 「高千穂町役場」 / Takachiho-kyo, Mukouyama, Takachiho-cho, Nishiusuki-gun, Miyazaki-ken 882-1103, "Takachiho Town Office"<br>https://livecamera.fujiyamasan.com/takachihokyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3032297,32.6993439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高千穂町ライブカメラ / Takachiho Town Live Camera</name>
+        <description>〒882-1101 宮崎県西臼杵郡高千穂町三田井１３　高千穂町役場 / Takachiho Town Hall, 13 Mitai, Takachiho-cho, Nishiusuki-gun, Miyazaki-ken 882-1101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.307787,32.711723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日之影町防災カメラ / Hinokage Town Disaster Prevention Camera</name>
+        <description>〒882-0402 宮崎県西臼杵郡日之影町岩井川３３９８−１　日之影町役場 / Hinokage Town Hall, 3398-1 Iwaigawa, Hinoka-cho, Nishiusuki-gun, Miyazaki-ken 882-0402</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3881385,32.6538003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五ヶ瀬川日之影町役場ライブカメラ / Gokasegawa Hinokage Town Office Live Camera</name>
+        <description><![CDATA[〒882-0402 宮崎県西臼杵郡日之影町大字岩井川３３９８−１ 日之影町役場 「宮崎県」/ Hinokage Town Hall, 3398-1 Iwaigawa, Hinokage Town, Nishiusuki District, Miyazaki Prefecture 882-0402, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3882902,32.654073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ヶ所川貫原橋ライブカメラ / Sankasho River Nukubaru Bridge Live Camera</name>
+        <description><![CDATA[〒882-1203 宮崎県西臼杵郡五ヶ瀬町大字三ヶ所１６７０ 「宮崎県」/ 1670 Sankasho, Gokase-cho, Nishiusuki-gun, Miyazaki Prefecture 882-1203, "Miyazaki Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1965275,32.6829522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮崎県・霧島ＳＡライブカメラ</name>
+        <description>宮崎県小林市細野　宮崎自動車道・霧島ＳＡ下り　「西日本高速道路株式会社 大分高速道路事務所」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9539149,31.968248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須木の滝展望ライブ / Suki no Taki (Suki Waterfall)</name>
+        <description>宮崎県小林市須木下田４１２−６ すきむらんど 小林市役所 / Skimland, 412-6 Shimoda, Suki, Kobayashi City, Miyazaki, Kobayashi City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.087172,32.067429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小林市内展望ライブ / Kobayashi City</name>
+        <description>宮崎県小林市細野２２３５−３　小林市立病院　小林市役所 / Kobayashi City Hospital, 2235-3 Hosono, Kobayashi City, Miyazaki, Kobayashi City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.985699,31.989733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新燃岳噴火情報</name>
+        <description><![CDATA[宮崎県西諸県郡高原町<br>NHK宮崎放送局]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.008186,31.928272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[長谷酒食品ストアー / Nagatani Liquor & Food Store]]></name>
+        <description>〒889-4221 宮崎県えびの市栗下７４３ / 743 Kurishita, Ebino City, Miyazaki 889-4221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8138845,32.0372946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霧島連山 / Kirishima Mountain Range</name>
+        <description>霧島市霧島総合支所 / Kirishima general branch office, Kirishima City</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7994461,31.7888862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都城市の空ライブカメラ</name>
+        <description><![CDATA[宮崎県都城市<br>ウェザーニュース]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.061509,31.719589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ Part III (弊社西側の空模様) / Live Camera Part III (Skys on our west side)</name>
+        <description>〒885-0034 宮崎県都城市菖蒲原町１８−１５−４　ITサービスセンタ都城（有）ぱすとらる /   IT Service Center Miyakonojo (with) Pastoral,  18-15-4 Ayamebaru-cho, Miyakonojo-city, Miyazaki Prefecture 885-0034 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.084181,31.729235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>広島県ライブカメラマップ / Hiroshima Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>広島県内ライブカメラ</name>
+      <Placemark>
+        <name>備後東城の里 / Bingo Tojo no Sato Live Camera</name>
+        <description><![CDATA[広島県庄原市東条町 / Tojo-cho, Shobara City, Hiroshima<br>https://livecamera.fujiyamasan.com/hiroshima-tojonosato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2668853,34.8957344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>灰塚ダム　右岸下流・噴水監視 / Haizuka Dam Right bank downstream and Fountain monitoring</name>
+        <description>〒729-4302 広島県三次市三良坂町仁賀１５７５　国土交通省三次河川国道事務所 灰塚ダム管理支所 / Ministry of Land, Infrastructure and Transport Miyoshi River National Highway Office Haizuka Dam Management Branch, 1575 Nika, Mirasaka-cho, Miyoshi-shi, Hiroshima-ken 729-4302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9894696,34.7820926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川ライブカメラ・尾道自動車道 / River Camera and Onomichi Expressway</name>
+        <description>〒728-0011 広島県三次市十日市西６丁目２−１ 国土交通省三次河川国道事務所 / Miyoshi Office of River and National Highway, 6-2-1 Tokaichinishi, Miyoshi-shi, Hiroshima-ken 728-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8456442,34.8042097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三次高谷山雲の海ライブカメラ / Miyoshi Takataniyama Cloud Sea Live Camera</name>
+        <description><![CDATA[〒728-0025 広島県三次市粟屋町 高谷山 「ネットA趣向」 / Kuriya-cho, Miyoshi City, Hiroshima, "Net A-Shukou"<br>https://livecamera.fujiyamasan.com/hiroshima-miyoshi-tatataniyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.820501,34.794317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＴＳタカタサーキットWebカメラ / TS Takata Circuit Web Camera</name>
+        <description>〒739-1805 広島県安芸高田市 高宮町原田1378−2　ＴＳタカタサーキット / TS Takata Circuit, 1378-2 Harada, Takamiya-cho, Akitakata-shi, Hiroshima-ken 739-1805</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7124164,34.7489751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芸北高原大佐スキー場ライブカメラ / Geihoku Kogen Osa Ski Resort Live Camera</name>
+        <description><![CDATA[〒731-2431 広島県山県郡北広島町荒神原３８−３１　芸北高原大佐スキー場 / Geihoku Kogen Osa Ski Resort, 38-31 Kojinbara, Kitahiroshima-cho, Yamagata-gun, Hiroshima-ken 731-2431<br>https://livecamera.fujiyamasan.com/hiroshima-osaski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2199919,34.7478385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>康徳寺 / Kotokuji Temple</name>
+        <description><![CDATA[〒722-1111 広島県世羅郡世羅町寺町１３８６ / 1386 Teramachi, Sera-machi, Sera-gun, Hiroshima 722-1111<br>https://livecamera.fujiyamasan.com/hiroshima-kotokuji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0322456,34.5893047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福山平成大学Webカメラ</name>
+        <description>〒720-0001 広島県福山市御幸町大字上岩成１１７−１　福山平成大学</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.347581,34.549682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川流域ライブカメラ</name>
+        <description>〒720-0031 広島県福山市三吉町４丁目４−１３　国土交通省福山河川国道事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3766846,34.4956807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鞆の浦ライブカメラ / Tomonoura Live Camera</name>
+        <description>〒720-0201 広島県福山市鞆町鞆９０７ 澤村船具店 / Sawamura Fishing Tackle Shop, 907 Tomochotomo, Fukuyama-shi, Hiroshima-ken 720-0201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.381104,34.383591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道水道ライブカメラ / Onomichi Waterway Live Camera</name>
+        <description>広島県尾道市東土堂町１５−１千光寺山頂 「おのなび」 / Senkou-ji Temple, 15-1 Higashi Tsuchido-cho, Onomichi City, Hiroshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.198929,34.411158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島大学東広島キャンパス / Hiroshima University East Hiroshima Campus</name>
+        <description><![CDATA[広島県東広島市鏡山１丁目４ 広島大学 / Hiroshima University, 1-4 Kagamiyama, Higashihiiroshima-shi, Hiroshima-ken<br>https://livecamera.fujiyamasan.com/hiroshima-university.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.712977,34.398199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島IC周辺ライブカメラ / Around Hiroshima IC</name>
+        <description><![CDATA[〒731-0103 広島県広島市 安佐南区緑井1−5−2  フジグラン緑井 「RCC中国放送」 / Fujigran Midorii, 1-5-2 Midorii, Asaminami-ku, Hiroshima City, Hiroshima 731-0103, "RCC BROADCASTING CO.,LTD."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4763918,34.4663749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>音戸ノ瀬戸ライブカメラ / Ondo no Seto Live Camera</name>
+        <description>広島県呉市 呉海上保安部 / Kure Coast Guard, Kure City, Hiroshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.540972,34.200533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島（宇品）港ライブカメラ / Hiroshima (Ujina) Port</name>
+        <description>広島県広島市南区宇品海岸１丁目１３ 広島港 / Hiroshima Port, 1-13 Ujina Kaigan, Minami-ku, Hiroshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.45512,34.35256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>邇保姫神社境内の様子ライブカメラ / Nihohime Jinja Shrine Live Camera</name>
+        <description><![CDATA[〒734-0045 広島県広島市南区西本浦町１２−１７　邇保姫神社 / Nihohime Jinja Shrine, 12-17 Nishihonura-cho, Minami-ku, Hiroshima-shi, Hiroshima-ken 734-0045<br>https://livecamera.fujiyamasan.com/hiroshima-nihohime.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4873185,34.3760925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島城 / Hiroshima-jo Castle</name>
+        <description>広島県広島市中区基町２１−３ 中国放送本社 / RCC BROADCASTING CO.,LTD., 21-3 Moto-machi, Naka-ku, Hiroshima City, Hiroshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.461643,34.402112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川河川事務所 / Ota River Office</name>
+        <description>〒７３０－００１３　広島市中区八丁堀３番２０号 / 3-20 Hacchoubori, Naka-ku, Hiroshima City 730-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4625123,34.3968711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原爆ドームライブカメラ / Hiroshima Peace Memorial</name>
+        <description>広島県広島市中区紙屋町 紙屋町交差点付近 「RCC中国放送」 / RCC BROADCASTING CO.,LTD., Near Kamiyacho Intersection, Kamiya-cho, Naka-ku, Hiroshima City, Hiroshoma</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.457682,34.395298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原爆ドームライブ映像 / A-Bomb Dome Live Video</name>
+        <description><![CDATA[〒730-0802 広島県広島市中区本川町２丁目 本川リバーサイドビル2F　株式会社ミックス / "Innovation Service Company, MIX Co., Ltd." Honkawa Riverside Building 2F, 2-chome, Honkawa-cho, Naka-ku, Hiroshima-shi, Hiroshima 730-0802<br>https://livecamera.fujiyamasan.com/hiroshima-adome.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4516283,34.3971119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原爆ドーム・広島市民球場 / Hiroshima Peace Memorial and Hiroshima Municipal Stadium</name>
+        <description>〒730-0011 広島市中区基町5-44 広島商工会議所ビル4階 中国地域エネルギーフォーラム / Chugoku Energy Forum, Hiroshima Chamber of Commerce and Industry Building 4F, 5-44 Moto-machi, Naka-ku, Hiroshima-shi, Hiroshima-ken 730-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.453682,34.396623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HITP LiveCamera</name>
+        <description>〒733-8533 広島県広島市西区福島町２丁目１−１　広島工業大学専門学校　平和大通り / The Peace Street, Hiroshima Institute of Technology Polytechnic, Fukushima-cho, Nishi-ku, Hiroshima City, Hiroshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4352393,34.3936668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行者山太光寺ライブカメラ / Gyojayama Taiko-ji Temple</name>
+        <description>〒733-0851 広島県広島市西区田方１丁目５５１−１ 行者山太光寺 /  Gyojayama Taiko-ji Temple, 1-551-1 Takata, Nishi-ku, Hiroshima-shi, Hiroshima-ken 733-0851</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.401497,34.384547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮島ライブカメラ / Miyajima</name>
+        <description><![CDATA[広島県廿日市市宮島口西１丁目３−３１ レゾナンス宮島 「RCC中国放送」 / Rezonance Miyajima, 3-31 Nishi 1-chome, Miyajimaguchi, Hatsukaichi City, Hiroshima, "RCC BROADCASTING CO.,LTD."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.300239,34.306843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮島ライブカメラ / Miyajima Live Camera</name>
+        <description>〒739-0411 広島県廿日市市宮島口１−１５−６０ 宮島競艇場 / Boat Race Miyajima, 1-15-60 Miyajimaguchi, Hatsukaichi-shi, Hiroshima-ken 739-0411</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3060809,34.3149427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恐羅漢スノーパークライブカメラ / Osorakan Snow Park Live Camera</name>
+        <description><![CDATA[〒731-3801 広島県山県郡安芸太田町横川　恐羅漢スノーパーク / Osorakan Snow Park, Yokogo, Akiota-cho, Yamagata-gun, Hiroshima-ken 731-3801<br>https://livecamera.fujiyamasan.com/hiroshima-osorakan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1465473,34.5955956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島牡蠣ライブカメラ</name>
+        <description>〒737-2314 広島県江田島市沖美町美能９９９−１　寺本水産</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3809289,34.2535919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島テレビ防災ライブカメラ / Hiroshima TV disaster prevention live camera</name>
+        <description><![CDATA[〒730-0811 広島県広島市中区中島町３−３０ 土谷総合病院 「広島テレビ放送」/ Tsuchiya General Hospital, 3-30 Nakajima-cho, Naka-ku, Hiroshima-shi, Hiroshima 〒730-0811,   "Hiroshima Telecasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4515584,34.3903212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島市紙屋町交差点ライブカメラ / Hiroshima City Kamiyacho intersection live camera</name>
+        <description><![CDATA[〒730-0031 広島県広島市中区紙屋町２丁目１ 「ambient2step2」/ 2-1 Kamiyacho, Naka-ku, Hiroshima-shi, Hiroshima 730-0031 "ambient2 step2"<br>https://livecamera.fujiyamasan.com/hiroshima-kamiyacho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4569581,34.3950855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元安川1.5KP右岸ライブカメラ / Motoyasu River 1.5KP right bank live camera</name>
+        <description><![CDATA[〒730-0812 広島県広島市中区加古町 「国土交通省河川情報センター」/ Kakomachi, Naka-ku, Hiroshima City, Hiroshima Prefecture 730-0812 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4485157,34.3874362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元安川1.374KP左岸ライブカメラ / Motoyasu River 1.374KP Left Bank Live Camera</name>
+        <description><![CDATA[広島県広島市中区大手町4丁目「国土交通省河川情報センター」/ 4-chome, Otemachi, Naka-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4506812,34.3863231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川0.2KP左岸ライブカメラ / Former Ota River 0.2KP left bank live camera</name>
+        <description><![CDATA[広島県広島市中区吉島西3丁目「国土交通省河川情報センター」/ 3-chome, Yoshijimanishi, Naka-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4433291,34.3732505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満川1.3KP左岸ライブカメラ / Tenma River 1.3KP Left Bank Live Camera</name>
+        <description><![CDATA[広島県広島市中区舟入中町「国土交通省河川情報センター」/ Funairi Nakamachi, Naka-ku, Hiroshima City, Hiroshima Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4421083,34.3878699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川3.8KP左岸ライブカメラ/ Former Otagawa 3.8KP left bank live camera</name>
+        <description><![CDATA[広島県広島市中区基町18「国土交通省河川情報センター」/ 18 Motomachi, Naka-ku, Hiroshima City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4528899,34.4043369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川江波東空間ライブカメラ / Former Otagawa Ebahigashi Kukan Live Camera </name>
+        <description><![CDATA[広島県広島市中区江波東 「太田川河川事務所」/ Ebahigashi, Naka-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4398204,34.3700229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元安川千田沖ライブカメラ / Motoyasu River Senda offshore live camera </name>
+        <description><![CDATA[広島県広島市中区南千田西町 「太田川河川事務所」/ Minamisenda Nishimachi, Naka-ku, Hiroshima City, Hiroshima Prefecture<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4563042,34.3682517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元安川南大橋下流ライブカメラ / Motoyasugawa Minami Ohashi downstream live camera</name>
+        <description><![CDATA[広島県広島市中区千田町 「太田川河川事務所」/ Sendamachi, Naka-ku, Hiroshima City, Hiroshima Prefecture<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.45233,34.3790679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川江波観測所ライブカメラ / Former Otagawa Eba Observatory Live Camera </name>
+        <description><![CDATA[広島県広島市中区江波南2丁目 「太田川河川事務所」/  2-chome, Ebaminami, Naka-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4318432,34.3623047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川中島神崎橋下流ライブカメラ / Former Ota River Nakajima Kanzaki Bridge downstream live camera</name>
+        <description><![CDATA[広島県広島市中区河原町「太田川河川事務所」/ Kawaramachi, Naka-ku, Hiroshima City, Hiroshima Prefecture<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.446711,34.3885782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川相生橋下流ライブカメラ / Former Otagawa Aioi Bridge downstream live camera</name>
+        <description><![CDATA[広島県広島市中区本川町1丁目「太田川河川事務所」/ 1-chome, Honkawa-cho, Naka-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4517268,34.3962532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[広島市こども文化科学館ライブカメラ / Hiroshima Children's Museum Live Camera]]></name>
+        <description><![CDATA[〒730-0011 広島県広島市中区基町５−８３ 5-Daysこども文化科学館 / 5-Days Children's Museum of Culture and Science, 5-83 Motomachi, Naka-ku, Hiroshima-shi, Hiroshima 730-0011, Hiroshima Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4537796,34.3985603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島平和記念資料館東館1階混雑状況ライブカメラ / Hiroshima Peace Memorial Museum East Building 1st Floor Congestion Status Live Camera</name>
+        <description>〒730-0811 広島県広島市中区中島町１−２ 広島平和記念資料館 / Hiroshima Peace Memorial Museum, 1-2 Nakajima-cho, Naka-ku, Hiroshima-shi, Hiroshima 730-0811</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4531578,34.3915027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川寺町ライブカメラ / Former Ota River Teramachi Live Camera</name>
+        <description><![CDATA[〒730-0801 広島県広島市中区寺町「太田川河川事務所」/  Teramachi, Naka-ku, Hiroshima City, Hiroshima Prefecture 730-0801, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4497438,34.4028607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FMちゅーピー のライブ ストリーム / FM Chupy Live Stream</name>
+        <description><![CDATA[〒730-0854 広島県広島市中区土橋町７−１ （株）中国新聞社 「中国コミュニケーションネットワーク」/ China Newspaper Co., Ltd.,   7-1 Dohashi-cho, Naka-ku, Hiroshima-shi, Hiroshima 730-0854, "Chugoku Communication Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.448737,34.392497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川安芸大橋下流ライブカメラ / Otagawa Akio Bridge downstream live camera</name>
+        <description><![CDATA[広島県広島市東区戸坂千足1丁目「太田川河川事務所」/ 1-chome, Hesakasenzoku, Higashi-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4818984,34.4381826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>府中大川丸子橋ライブカメラ / Fuchuo River Maruko Bridge Live Camera</name>
+        <description><![CDATA[広島県広島市東区上温品1丁目15 「広島市防災情報サイト」/ 1-15 Kaminukushina, Higashi-ku, Hiroshima-shi, Hiroshima "Hiroshima-shi disaster prevention information site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5360417,34.4378228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ポケットTSS広島上空天気ライブカメラ / Pocket TSS Hiroshima Sky Weather Live Camera</name>
+        <description><![CDATA[〒732-0822 広島県広島市南区松原町１−５ ホテルグランヴィア広島 「テレビ新広島」/ Hotel Granvia Hiroshima , 1-5 Matsubara-cho, Minami-ku, Hiroshima-shi, Hiroshima 732-0822, "TV Shin-Hiroshima"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4754674,34.3991328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川1.8KP左岸ライブカメラ / Otagawa 1.8KP left bank live camera</name>
+        <description><![CDATA[広島県広島市西区小河内町2丁目 「国土交通省<br>河川情報センター」/ 2-chome, Ogawachimachi, Nishi-ku, Hiroshima City, Hiroshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4356879,34.4004585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川5.0KP右岸ライブカメラ / Former Otagawa 5.0KP right bank live camera</name>
+        <description><![CDATA[広島県広島市西区大芝公園「国土交通省<br>河川情報センター」/  Oshibakoen, Nishi-ku, Hiroshima City, Hiroshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism"<br>River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4603227,34.4147785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満川3.1KP右岸ライブカメラ / Tenma River 3.1KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県広島市西区中広町2丁目「国土交通省<br>河川情報センター」/  2-chome, Nakahiromachi, Nishi-ku, Hiroshima-shi, Hiroshima "Ministry of Land, Infrastructure, Transport and Tourism"<br>River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4456603,34.4036202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路草津観測所ライブカメラ / Ota River Floodway Kusatsu Observatory Live Camera</name>
+        <description><![CDATA[広島県広島市西区草津港「国土交通省<br>河川情報センター」/ Kusatsuko, Nishi-ku, Hiroshima City, Hiroshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism"<br>River Information Center "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4042215,34.362974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路扇空間ライブカメラ / Ota River Floodway Fan Space Live Camera</name>
+        <description><![CDATA[広島県広島市西区扇1丁目 「太田川河川事務所」/ 1-chome, Nishi-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4106832,34.3714556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路庚午南ライブカメラ / Ota River Floodway Kogominami Live Camera</name>
+        <description><![CDATA[広島県広島市西区庚午南「太田川河川事務所」/ Kogominami, Nishi-ku, Hiroshima City, Hiroshima Prefecture, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4155607,34.3775474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路庚午橋下流ライブカメラ / Ota River Floodway Kogobashi Downstream Live Camera</name>
+        <description><![CDATA[広島県広島市西区観音新町2丁目「太田川河川事務所」/ 2-chome, Kanonshinmachi, Nishi-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4210397,34.3792969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路山手橋警報所ライブカメラ / Ota River Floodway Yamatebashi Warning Station Live Camera</name>
+        <description><![CDATA[広島県広島市西区中広町3丁目「太田川河川事務所」/ 3-chome, Nakahiromachi, Nishi-ku, Hiroshima City, Hiroshima Prefecture<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4413616,34.4055218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路新庄橋警報所ライブカメラ / Ota River Floodway Shinjo Bridge Warning Station Live Camera</name>
+        <description><![CDATA[広島県広島市西区新庄町「太田川河川事務所」/ Shinjo-cho, Nishi-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4518824,34.4230136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川放水路祇園大橋観測所ライブカメラ / Ota River Floodway Gion Ohashi Observatory Live Camera</name>
+        <description><![CDATA[広島県広島市西区大宮3丁目「太田川河川事務所」/ 3-chome, Omiya, Nishi-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4584931,34.4240527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満川観音新町ライブカメラ / Tenma River Kanonshinmachi Live Camera</name>
+        <description><![CDATA[広島県広島市西区観音新町3丁目「太田川河川事務所」/ 3-chome, Kanonshinmachi, Nishi-ku, Hiroshima City, Hiroshima Prefecture<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4276534,34.3724667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満川中広大橋上流ライブカメラ / Tenma River Nakahiro Ohashi upstream live camera</name>
+        <description><![CDATA[広島県広島市西区中広町2丁目「太田川河川事務所」/ 2-chome, Nakahiromachi, Nishi-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.445671,34.40339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川横川橋上流ライブカメラ / Former Ota River Yokogawa Bridge upstream live camera</name>
+        <description><![CDATA[広島県広島市西区横川町1丁目「太田川河川事務所」/ 1-chome Yokogawa-cho, Nishi-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4510043,34.405785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川三篠橋上流ライブカメラ / Former Otagawa Misasa Bridge upstream live camera</name>
+        <description><![CDATA[広島県広島市西区楠木町1丁目「太田川河川事務所」/ 1-chome, Kusunoki-cho, Nishi-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4566299,34.4084263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧太田川北大橋上流ライブカメラ / Former Otagawa Kita Ohashi upstream live camera</name>
+        <description><![CDATA[広島県広島市西区大芝公園「太田川河川事務所」/ Oshibakoen, Nishi-ku, Hiroshima City, Hiroshima Prefecture, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4604514,34.4146457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安佐大橋下流（ 太田川水系　太田川 ）ライブカメラ / Downstream of Asa Bridge (Ota River system, Ota River) Live camera</name>
+        <description><![CDATA[広島県広島市安佐南区川内「国土交通省中国地方整備局」/ Kawauchi, Asaminami-ku, Hiroshima City, Hiroshima Prefecture "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4902932,34.4605993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川19.87KP右岸ライブカメラ / Otagawa 19.87KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区八木町「国土交通省河川情報センター」/ Yagi-cho, Asaminami-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4873047,34.5111826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川14.4KP右岸ライブカメラ / Otagawa 14.4KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区八木9丁目「国土交通省河川情報センター」/ 9-chome, Yagi, Asaminami-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5051612,34.483627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川4.8KP右岸ライブカメラ / Furukawa 4.8KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区緑井6丁目「国土交通省河川情報センター」/ 6-chome Midorii, Asaminami-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4849361,34.4742951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川2.8KP右岸ライブカメラ / Furukawa 2.8KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区中須2丁目「国土交通省河川情報センター」/ 2-chome Nakasu, Asaminami-ku, Hiroshima City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4780715,34.4590338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川8.0KP右岸ライブカメラ / Otagawa 8.0KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区東原1丁目「国土交通省河川情報センター」/ 1-chome, Higashihara, Asaminami-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4760298,34.4371282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川7.4KP右岸ライブカメラ / Otagawa 7.4KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区西原3丁目「国土交通省河川情報センター」/ 3-chome, Nishihara, Asaminami-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4711394,34.4326596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川1.0KP左岸ライブカメラ / Furukawa 1.0KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐南区東原3丁目「国土交通省河川情報センター」/ 3-chome, Higashihara, Asaminami-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4773876,34.4450634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安川上安ライブカメラ / Yaskawa Kamiyasu Live Camera</name>
+        <description><![CDATA[広島県広島市安佐南区上安 「広島県河川防災情報システム」/ Kamiyasu, Asaminami-ku, Hiroshima City, Hiroshima Prefecture "Hiroshima Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4427538,34.4728907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川祇園水門空間ライブカメラ / Ota River Gion Water Gate Space Live Camera</name>
+        <description><![CDATA[広島県広島市安佐南区長束1丁目 「太田川河川事務所」/ 1-chome Nagatsuka, Asaminami-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4614865,34.4268802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川祇園新橋上流ライブカメラ / Otagawa Gion Shimbashi upstream live camera</name>
+        <description><![CDATA[広島県広島市安佐南区西原3丁目「太田川河川事務所」/ 3-chome, Nishihara, Asaminami-ku, Hiroshima-shi, Hiroshima<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4713432,34.4325977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川佐東警報所ライブカメラ / Otagawa Sato Warning Station Live Camera</name>
+        <description><![CDATA[広島県広島市安佐南区東野2丁目「太田川河川事務所」/ 2-chome, Higashino, Asaminami-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4873371,34.4494929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川せせらぎ河川公園ライブカメラ / Ota River Seseragi River Park Live Camera</name>
+        <description><![CDATA[〒731-0103 広島県広島市安佐南区緑井５丁目１ 古川せせらぎ河川公園「太田川河川事務所」/ Furukawa Seseragi River Park, 5-1 Midorii, Asaminami-ku, Hiroshima City, Hiroshima Prefecture 731-0103, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4830315,34.4693041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川安川合流点ライブカメラ / Furukawa Yaskawa Confluence Live Camera</name>
+        <description><![CDATA[広島県広島市安佐南区中筋4丁目「太田川河川事務所」/ 4-chome, Nakasuji, Asaminami-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4774124,34.4557658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川高瀬堰ライブカメラ / Ota River Takase Weir Live Camera</name>
+        <description>〒731-0101 広島県広島市安佐南区八木５丁目３１−１ 国土交通省中国地方整備局太田川河川事務所 高瀬分室 / Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau Otagawa River Office Takase Branch Office, 5-31-1 Yagi, Asaminami-ku, Hiroshima-shi, Hiroshima Prefecture 731-0101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.500674,34.480183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島修道大学図書館前広場・本館前ロータリーライブカメラ / Hiroshima Shudo University Library Square Live Camera</name>
+        <description>〒731-3195 広島県広島市安佐南区大塚東１丁目１−１ 広島修道大学 / Hiroshima Shudo University 1-1-1, Ozukahigashi, Asaminami-ku, Hiroshima-shi, Hiroshima 731-3195</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4039778,34.433687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川35.4KP左岸ライブカメラ / Otagawa 35.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町小河内「国土交通省河川情報センター」/ Ogauchi, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4001332,34.5470472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川32.8KP右岸ライブカメラ / Otagawa 32.8KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町久地「国土交通省河川情報センター」/ Kuchi, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4105427,34.5325161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川25.5KP左岸ライブカメラ / Otagawa 25.5KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部町勝木「国土交通省河川情報センター」/ Katsugi, Kabe-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4646341,34.5224104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川22.7KP右岸ライブカメラ / Otagawa 22.7KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町筒瀬「国土交通省河川情報センター」/ Tsutsuse, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4786232,34.5121829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川21.2KP右岸ライブカメラ / Otagawa 21.2KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部町今井田「国土交通省河川情報センター」/ Imaida, Kabe-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4834342,34.5033809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川18.4KP左岸ライブカメラ / Otagawa 18.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区亀山1丁目「国土交通省河川情報センター」/ 1-chome, Kameyama, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5004135,34.5151425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川15.4KP左岸ライブカメラ / Otagawa 15.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部南1丁目「国土交通省河川情報センター」/ 1-chome Kabeminami, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5147393,34.4910379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川13.4KP左岸ライブカメラ / Otagawa 13.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区落合2丁目「国土交通省河川情報センター」/ 2-chome, Ochiai, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5015795,34.4767027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川9.05KP右岸ライブカメラ / Mishinogawa 9.05KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区狩留家町「国土交通省河川情報センター」/ Karuga-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5782595,34.4896034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川8.2KP左岸ライブカメラ / Mishinogawa 8.2KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区狩留家町「国土交通省河川情報センター」/ Karuga-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5734862,34.483049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川7.65KP右岸ライブカメラ / Misasagawa 7.65KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区狩留家町「国土交通省河川情報センター」/ Karuga-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.567381,34.4829416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川6.65KP右岸ライブカメラ / Misasagawa 6.65KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区上深川町「国土交通省河川情報センター」/ Kamifukawa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5629553,34.4780288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川5.9KP右岸ライブカメラ / Misasagawa 5.9KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区上深川町「国土交通省河川情報センター」/ Kamifukawa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5575485,34.4757369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川4.8KP右岸ライブカメラ / Misasagawa 4.8KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区上深川町「国土交通省河川情報センター」/ Kamifukawa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.552397,34.4728162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川2.9KP左岸ライブカメラ / Misasagawa 2.9KP left bank live camera </name>
+        <description><![CDATA[広島県広島市安佐北区深川7丁目「国土交通省河川情報センター」/ 7-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5377053,34.4819918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川1.7KP左岸ライブカメラ / Misasagawa 1.7KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区深川3丁目「国土交通省河川情報センター」/ 3-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5300294,34.4870257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川1.2KP右岸ライブカメラ / Misasagawa 1.2KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区深川3丁目「国土交通省河川情報センター」/ 3-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5259107,34.4907826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川1.6KP左岸ライブカメラ / Nenotanigawa 1.6KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部東1丁目「国土交通省河川情報センター」/ 1-chome Kabehigashi, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5209499,34.5031442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川1.25KP右岸ライブカメラ / Nenotanigawa 1.25KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部南2丁目「国土交通省河川情報センター」/ 2-chome, Kabeminami, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5190611,34.5003087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川0.3KP右岸ライブカメラ /Nenotanigawa 0.3KP right bank live camera </name>
+        <description><![CDATA[広島県広島市安佐北区可部南1丁目「国土交通省河川情報センター」/ 1-chome Kabeminami, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5150743,34.4942155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川4.4KP右岸ライブカメラ / Nenotanigawa 4.4KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部3丁目「国土交通省河川情報センター」/ 3-chome, Kabe, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5141002,34.5251504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川4.2KP右岸ライブカメラ / Nenotanigawa 4.2KP right bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部3丁目「国土交通省河川情報センター」/ 3-chome, Kabe, Asakita-ku, Hiroshima-shi, Hiroshima<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5138688,34.52352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川30.4KP左岸ライブカメラ / Otagawa 30.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町飯室「国土交通省河川情報センター」/ Imuro, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4322356,34.5441389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川29.4KP左岸ライブカメラ / Otagawa 29.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町飯室「国土交通省河川情報センター」/ Imuro, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4339655,34.5352759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川23.4KP左岸ライブカメラ / Otagawa 23.4KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部町今井田「国土交通省河川情報センター」/ Imaida, Kabe-cho, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4719588,34.5097987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川4.2KP左岸ライブカメラ / Misasagawa 4.2KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区深川7丁目「国土交通省河川情報センター」/ 7-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5480502,34.4764889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川9.8KP左岸ライブカメラ / Otagawa 9.8KP left bank live camera</name>
+        <description><![CDATA[広島県広島市安佐北区口田南1丁目「国土交通省河川情報センター」/ 1-chome Kuchitaminami, Asakita-ku, Hiroshima-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4909865,34.4429062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川鳥越橋上流ライブカメラ / Misasagawa Torigoe Bridge upstream live camera</name>
+        <description><![CDATA[広島県広島市安佐北区上深川町 「太田川河川事務所」/ Kamifukawa-cho, Asakita-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5584159,34.4758869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川小河原川合流ライブカメラ / Misasagawa Ogawara River Confluence Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区小河原町 「太田川河川事務所」/ Ogawara-cho, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5594752,34.4717969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川中郷排水樋門ライブカメラ / Misasagawa Nakago Drainage Gutter Gate Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区深川7丁目「太田川河川事務所」/ 7-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.537716,34.4817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三篠川三川合流ライブカメラ / Misasagawa Three Rivers Confluence Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区深川2丁目「太田川河川事務所」/ 2-chome, Fukagawa, Asakita-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5146535,34.4906134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川三川合流ライブカメラ / Otagawa Three River Confluence Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部南1丁目「太田川河川事務所」/ 1-chome, Kabeminami, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.512939,34.4925825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川上市井堰ライブカメラ / Nenotanigawa Kamiichiiseki Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部3丁目「太田川河川事務所」/ 3-chome, Kabe, Asakita-ku, Hiroshima-shi, Hiroshima, "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5138902,34.5233432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川寺山橋ライブカメラ / Nenotanigawa Tarayamabashi Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部町上原「太田川河川事務所」/ Uehara, Kabe-cho, Asakita-ku, Hiroshima-shi, Hiroshima<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.515501,34.5158638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根谷川新川橋ライブカメラ / Netanigawa Shinkawabashi Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部東1丁目「太田川河川事務所」/ 1-chome, Kabehigashi, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5172394,34.5076646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川帆待樋門ライブカメラ / Otagawa Homachi Himon Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区可部1丁目「太田川河川事務所」/ 1-chome, Kabe, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5027659,34.5143905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川大毛寺川合流点第2ライブカメラ / Otagawa Ogejigawa confluence 2nd live camera</name>
+        <description><![CDATA[広島県広島市安佐北区亀山1丁目「太田川河川事務所」/ 1-chome, Kameyama, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4984716,34.5159646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川安佐北大橋上流ライブカメラ / Otagawa Asakitaohashi upstream live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町筒瀬　「太田川河川事務所」/ Tsutsuse, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4799655,34.5066671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川飯室観測所第2ライブカメラ / Ota River Imuro Observatory 2nd Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町飯室「太田川河川事務所」/ Imuro, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima<br>"Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.433708,34.535541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川長沢橋下流ライブカメラ / Otagawa Nagasawa Bridge downstream live camera</name>
+        <description><![CDATA[広島県広島市安佐北区安佐町久地「太田川河川事務所」/ Kuchi, Asa-cho, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4298457,34.543199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田川矢口川合流点ライブカメラ / Ota River Yaguchi River Confluence Live Camera</name>
+        <description><![CDATA[広島県広島市安佐北区口田南1丁目 「太田川河川事務所」/ 1-chome, Kuchitaminami, Asakita-ku, Hiroshima-shi, Hiroshima "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4935829,34.4600442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陽自動車道志和インターチェンジ～広島東インターチェンジライブカメラ / Sanyo Expressway Doshi Interchange-Hiroshima Higashi Interchange Live Camera</name>
+        <description><![CDATA[〒739-1753 広島県広島市安佐北区狩留家町「NEXCO西日本」/ Karuga-cho, Asakita-ku, Hiroshima City, Hiroshima Prefecture 739-1753<br>"NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5852679,34.4774622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒瀬川町田ライブカメラ / Kurose River Machida Live Camera</name>
+        <description><![CDATA[広島県呉市広町田 「広島県河川防災情報システム」/ Hiromachida, Kure City, Hiroshima Prefecture "Hiroshima Prefecture River Disaster Prevention Information System"<br>https://livecamera.fujiyamasan.com/hiroshima-kurose-machida.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6295823,34.2494825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野呂川藤浪ライブカメラ / Noro River Fujinami Live Camera</name>
+        <description><![CDATA[〒737-2518 広島県呉市安浦町内海北 「広島県庁土木建築局河川課」/ Uchikaikita, Yasuura-cho, Kure-shi, Hiroshima 737-2518,  "Hiroshima Prefectural Government Civil Engineering Bureau River Division"<br>https://livecamera.fujiyamasan.com/hiroshima-noro-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7332659,34.2877122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご呉安浦町中畑ECO発電所ライブカメラ / Strawberry Kure Yasuuracho Nakahata ECO Power Plant Live Camera</name>
+        <description><![CDATA[〒737-2508 広島県呉市安浦町大字中畑 いちご呉安浦町中畑ECO発電所 「いちごECOエナジー」/ Strawberry Kure Yasuuracho Nakahata ECO Power Plant, Nakahata, Yasuura-cho, Kure-shi, Hiroshima 737-2508, "Ichigo ECO Energy"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6698038,34.2702067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島県道66号呉環状線苗代ライブカメラ / Hiroshima Prefectural Road 66 Wu Loop Line Seedbed Live Camera</name>
+        <description><![CDATA[広島県呉市苗代町 「ひろしま道路ナビ」/ Naeshiro-cho, Kure-shi, Hiroshima "Hiroshima Road Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5924127,34.2973671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大長港小長港ライブカメラ / Ocho Port Kocho Port Live Camera</name>
+        <description><![CDATA[〒734-0301 広島県呉市豊町大長５９９２−８６「呉市役所」/ 5992-86 Yutakamachiocho, Kure City, Hiroshima Prefecture 734-0301 "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8525496,34.1883002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ケーブル豊浜ライブカメラ / Cable Toyohama Live Camera</name>
+        <description><![CDATA[〒734-0101 広島県呉市豊浜町大字豊島３５２６ 「呉市役所」/ 3526 Oaza Toyoshima, Toyohama-cho, Kure-shi, Hiroshima 734-0101 "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7989517,34.1755486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下蒲刈市民センターライブカメラ / Shimo-kamagari Civic Center Live Camera</name>
+        <description><![CDATA[〒737-0303 広島県呉市下蒲刈町下島２３６１−７「呉市役所」/ 2361-7 Shimojima, Shimokamagari-cho, Kure-shi, Hiroshima 737-0303 "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6825334,34.1861356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合ケアセンターさざなみ苑ライブカメラ / Comprehensive Care Center Sazanamien Live Camera</name>
+        <description><![CDATA[〒737-1206 広島県呉市音戸町高須３丁目７−１５ 老人保健施設さざなみ苑 「呉市役所」/ Geriatric Health Facility Sazanamien, 3-7-15 Takasu, Ondo-cho, Kure-shi, Hiroshima 737-1206,  "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.541238,34.187939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狩留賀海浜公園ライブカメラ / Karuga Seaside Park Live Camera</name>
+        <description><![CDATA[〒737-0862 広島県呉市狩留賀町１ 狩留賀海浜公園 「呉市役所」/ Karuga Seaside Park, 1 Karuga-cho, Kure-shi, Hiroshima 737-0862 "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5170654,34.2617997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>呉市宮原まちづくりセンターライブカメラ / Kure City Miyahara Town Development Center Live Camera</name>
+        <description><![CDATA[〒737-0024 広島県呉市宮原７丁目４−２１　呉市宮原まちづくりセンター「呉市役所」/ Kure City Miyahara Town Development Center, 7-4-21 Miyahara, Kure City, Hiroshima Prefecture 737-0024, "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.559694,34.229829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>昭和市民センターライブカメラ / Showa Civic Center Live Camera</name>
+        <description><![CDATA[〒737-0935 広島県呉市焼山中央２丁目８−１２「呉市役所」/  2-8-12 Yakeyamachuo, Kure City, Hiroshima Prefecture 737-0935, "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5576589,34.2967086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かまがり天体観測館ライブカメラ / Kamagari Observatory Live Camera</name>
+        <description><![CDATA[〒737-0402 広島県呉市蒲刈町大浦８１６０ 呉市かまがり天体観測館「呉市役所」/ 8160 Oura, Kamagaricho, Kure City, Hiroshima Prefecture 737-0402 Kure City Kamagari Observatory "Kure City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7418817,34.1644162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>音戸の瀬戸南口第1・第2・北口ライブカメラ / Ondo no Seto South Exit 1st, 2nd, North Exit Live Camera</name>
+        <description><![CDATA[〒737-1203 広島県呉市音戸町鰯浜 「海上保安庁第六管区海上保安本部」/  Ondocho Iwashihama, Kure City, Hiroshima Prefecture 737-1203, "Japan Coast Guard 6th Regional Coast Guard Headquarters"<br>https://livecamera.fujiyamasan.com/ondonoseto.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.534411,34.1946503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道375号東広島呉自動車道郷原インターチェンジライブカメラ / National Route 375 Higashi Hiroshima Kure Expressway Gohara Interchange Live Camera</name>
+        <description><![CDATA[広島県呉市郷原町 郷原インターチェンジ 「広島国道事務所」/ Gohara Interchange, Gohara-cho, Kure-shi, Hiroshima "Hiroshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6256012,34.304306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>賀茂川竹原ライブカメラ / Kamo River Takehara Live Camera </name>
+        <description><![CDATA[広島県竹原市下野町 「広島県河川防災情報システム」/ Shimonocho, Takehara City, Hiroshima Prefecture "Hiroshima Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.901655,34.3459828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号新庄第1・２ライブカメラ /National Highway No. 2 Shinjo No. 1 and 2 Live Camera </name>
+        <description><![CDATA[〒725-0003 広島県竹原市新庄町 「広島国道事務所」/  Shinjo-cho, Takehara-shi, Hiroshima 725-0003, "Hiroshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.897888,34.3972143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号大曲第1・第2ライブカメラ / National highway No. 2 Omagari No. 1 and 2 live camera</name>
+        <description><![CDATA[〒725-0001 広島県竹原市田万里町「広島国道事務所」/  Tamaricho, Takehara City, Hiroshima Prefecture 725-0001, "Hiroshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8296643,34.4085831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号西小寺トンネル起点ライブカメラ / National highway No. 2 Nishikoji tunnel starting point live camera</name>
+        <description><![CDATA[広島県東広島市西条町上三永「広島国道事務所」/ Kamiminaga, Saijo-cho, Higashi-Hiroshima City, Hiroshima Prefecture "Hiroshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8117821,34.4054069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号新田万里トンネル起点・終点ライブカメラ / National highway No. 2 new Tamari tunnel starting and end  point live camera</name>
+        <description><![CDATA[〒725-0001 広島県竹原市田万里町 新田万里トンネル 「広島国道事務所」/ Shintamari tunnel,  Tamari-cho, Takehara-shi, Hiroshima  725-0001,   "Hiroshima national highway office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8146052,34.4069116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号南方小入口ライブカメラ / National highway No. 2 south entrance live camera</name>
+        <description><![CDATA[〒729-0413 広島県三原市本郷町南方 「福山河川国道事務所」/ Minamigata, Hongo-cho, Mihara City, Hiroshima Prefecture 729-0413, <br>"Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9410918,34.392551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号日名内第3ライブカメラ / National highway No. 2 Hinauchi 3rd live camera</name>
+        <description><![CDATA[〒729-0413 広島県三原市本郷町南方「福山河川国道事務所」/ Minamigata, Hongo-cho, Mihara City, Hiroshima Prefecture 729-0413,<br>"Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9366071,34.3897888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島ホームテレビ広島空港ライブカメラ / Hiroshima Home Television Hiroshima Airport Live Camera</name>
+        <description><![CDATA[〒729-0416 広島県三原市本郷町善入寺６４−３１ 広島空港 「HOME広島ニュース」/ Hiroshima Airport, 64-31 Zennyuji, Hongo-cho, Mihara-shi, Hiroshima 729-0416  "HOME Hiroshima News"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9182624,34.4373315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菅川菅川橋ライブカメラ / Sugakawa Sugakawabashi live camera</name>
+        <description><![CDATA[広島県三原市本郷町船木佐用沖 「広島県河川防災情報システム」/ Funaki Sayooki, Hongo-cho, Mihara City, Hiroshima Prefecture, "Hiroshima Prefecture River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9776232,34.4338463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号日名内第1ライブカメラ / National Highway No. 2 Hinauchi No. 1 Live Camera</name>
+        <description><![CDATA[〒729-0419 広島県三原市南方 「福山河川国道事務所」/  Minamigata, Mihara City, Hiroshima Prefecture 729-0419, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9714917,34.4032631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道2号辰巳ヶ原ライブカメラ / National highway No. 2 Tatsumigahara live camera </name>
+        <description><![CDATA[〒729-0419 広島県三原市南方「福山河川国道事務所」/ Minamigata, Mihara City, Hiroshima Prefecture  729-0419, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9694747,34.4034401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山陽自動車道高坂パーキングエリアライブカメラ</name>
+        <description>広島県三原市久井町山中野 「西日本高速道路」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0113361,34.4700676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島空港ライブカメラ / Hiroshima Airport Live Camera</name>
+        <description><![CDATA[〒729-0416 広島県三原市本郷町善入寺６４−３１　広島空港 「広島県空港振興協議会」/  Hiroshima Airport , 64-31 Zennyuji, Hongo-cho, Mihara-shi, Hiroshima 729-0416"Hiroshima Airport Promotion Council"<br>https://livecamera.fujiyamasan.com/hiroshima-airport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9206227,34.4372961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島空港ライブカメラ / Hiroshima Airport</name>
+        <description>〒729-0416 広島県三原市本郷町善入寺64-31 広島空港ターミナルビル  / Hiroshima Airport, Terminal Building, 64-31Zennyuji, Hongo-cho, Mihara City, Hiroshima 729-0416</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9190349,34.4399377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道自動車道木ノ庄トンネル北坑口ライブカメラ / Onomichi Expressway Kinosho Tunnel North Wellhead Live Camera</name>
+        <description><![CDATA[広島県尾道市御調町国守 「三次河川国道事務所」/ Mitsugicho Kunimori, Onomichi City, Hiroshima Prefecture "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1685182,34.4970345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道北インターチェンジライブカメラ / Onomichi Kita Interchange Live Camera</name>
+        <description><![CDATA[〒722-0326 広島県尾道市御調町岩根 尾道北IC 「三次河川国道事務所」/ Onomichi Kita IC,  Iwane, Mitsugicho, Onomichi City, Hiroshima Prefecture 722-0326,  "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1608438,34.5247735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道自動車道岩根トンネル南坑口ライブカメラ / Onomichi Expressway Iwane Tunnel South Wellhead Live Camera</name>
+        <description><![CDATA[広島県尾道市御調町大町「三次河川国道事務所」/ Omachi, Mitsugi-cho, Onomichi-shi, Hiroshima "Miyoshi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1590591,34.5259926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道駅前ライブカメラ / Onomichi Station</name>
+        <description><![CDATA[〒722-0036 広島県尾道市東御所町９−１ グリーンヒルホテル尾道 「RCC中国放送」 / Green Hill Hotel Onomichi, 9-1 Higashigosho-machi, Onomichi City, Hiroshima, "RCC BROADCASTING CO.,LTD."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1931299,34.4033687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾道水道ライブカメラ / Onomichi Suido Live Camera</name>
+        <description><![CDATA[〒722-0033 広島県尾道市東土堂町２０−２ 頂上展望台 「尾道観光協会」/ Top Observatory, 20-2 Higashitsuchido-cho, Onomichi-shi, Hiroshima 722-0033 "Onomichi Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1969604,34.4106865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局高屋川中津原浄水場ライブカメラ / Chugoku Regional Development Bureau Takaya River Nakatsuhara Water Purification Plant Live Camera</name>
+        <description><![CDATA[〒720-0004 広島県福山市御幸町中津原１５８中津原浄水場 「国土交通省中国地方整備局」/ 158 Nakatsuhara, Miyuki-cho, Fukuyama-shi, Hiroshima 720-0004 Nakatsuhara Water Purification Plant "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3586883,34.5182304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局芦田川南本庄ライブカメラ / Chugoku Regional Development Bureau Ashida Kawaminami Honjo Live Camera</name>
+        <description><![CDATA[〒720-0077 広島県福山市南本庄２丁目 「国土交通省中国地方整備局」/ 2-chome, Minamihonjo, Fukuyama-shi, Hiroshima 720-0077 "Chugoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3469661,34.4865763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川22.2KP左岸ライブカメラ / Ashida River 22.2KP Left Bank Live Camera</name>
+        <description><![CDATA[広島県福山市新市町新市 「国土交通省河川情報センター」/ Shinichi, Fukuyama City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2779691,34.5496362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川17.6KP右岸ライブカメラ / Ashida River 17.6KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県福山市駅家町坊寺「国土交通省河川情報センター」/ Ekiyacho Boji, Fukuyama City, Hiroshima Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.319583,34.5334373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川5.4KP右岸ライブカメラ / Ashida River 5.4KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県福山市水呑町「国土交通省河川情報センター」/ Minomicho, Fukuyama City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3637052,34.4633711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川4.0KP左岸ライブカメラ / Takaya River 4.0KP Left Bank Live Camera</name>
+        <description><![CDATA[広島県福山市神辺町川南「国土交通省河川情報センター」/ Kawaminami, Kannabe-cho, Fukuyama-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3651752,34.5282223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川20.1KP右岸ライブカメラ / Ashida River 20.1KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県福山市芦田町福田「国土交通省河川情報センター」/ Fukuda, Ashida-cho, Fukuyama-shi, Hiroshima "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2953356,34.5428408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川10.0KP左岸ライブカメラ / Ashida River 10.0KP Left Bank Live Camera</name>
+        <description><![CDATA[広島県福山市北本庄5丁目「国土交通省河川情報センター」/ 5-chome Kitahonjo, Fukuyama City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3426039,34.4978282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川0.6KP右岸ライブカメラ / Takaya River 0.6KP Right Bank Live Camera</name>
+        <description><![CDATA[広島県福山市郷分町「国土交通省河川情報センター」/ Gobuncho, Fukuyama City, Hiroshima Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3438743,34.5034841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オガワエコノス福山工場資源選別ラインライブカメラ / Ogawa Econos Fukuyama Factory Resource Sorting Line Live Camera</name>
+        <description><![CDATA[〒721-0956 広島県福山市箕沖町１０６ 番地3 （株）オガワエコノス福山工場 「オガワエコノス」/ Ogawa Econos Fukuyama Factory, 106-3 Minookicho, Fukuyama City, Hiroshima Prefecture 721-0956  "Ogawa Econos"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4220586,34.4312382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手城川手城ライブカメラ / Teshirogawa Teshiro Live Camera</name>
+        <description><![CDATA[広島県福山市春日町 「広島県河川防災情報システム」/ Kasuga-cho, Fukuyama-shi, Hiroshima "Hiroshima River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4114825,34.5251772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猪之子川西神島ライブカメラ / Inokogawa Nishi-Kamishima Live Camera</name>
+        <description><![CDATA[広島県福山市佐波町 「広島県河川防災情報システム」/ Saba-cho, Fukuyama-shi, Hiroshima "Hiroshima River Disaster Prevention Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.332939,34.483515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川中津原浄水場ライブカメラ / Takaya River Nakatsuhara Water Purification Plant Live Camera</name>
+        <description><![CDATA[〒720-0004 広島県福山市御幸町中津原１５８ 中津原浄水場 「福山河川国道事務所」/ Nakatsuhara Water Purification Plant, 158 Nakatsuhara, Miyuki-cho, Fukuyama-shi, Hiroshima 720-0004  "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3586883,34.5182304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川郷分町ライブカメラ / Ashida River Gobuncho Live Camera</name>
+        <description><![CDATA[広島県福山市郷分町「福山河川国道事務所」/ Gobuncho, Fukuyama City, Hiroshima Prefecture<br>"Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3493827,34.5144107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川新市町相方ライブカメラ / Ashida River Shinichicho Sagata Live Camera</name>
+        <description><![CDATA[広島県福山市新市町相方 「福山河川国道事務所」/ Shinichicho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2809079,34.5442126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川加茂川合流部付近ライブカメラ / Takaya River Kamo River Confluence Live Camera</name>
+        <description><![CDATA[広島県福山市神辺町川南「福山河川国道事務所」/ Kawaminami, Kannabe-cho, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3619988,34.5367553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川神辺町川北ライブカメラ / Takaya River Kannabecho Kawakita Live Camera</name>
+        <description><![CDATA[広島県福山市神辺町川北「福山河川国道事務所」/ Kawakita, Kannabe-cho, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3762374,34.5421976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高屋川川北管理境界付近ライブカメラ / Takaya River North Management Boundary Live Camera</name>
+        <description><![CDATA[広島県福山市神辺町川北 「福山河川国道事務所」/ Kawakita, Kannabe-cho, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.384721,34.5457539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川本泉寺橋ライブカメラ / Ashidagawa Honsenjibashi Live Camera</name>
+        <description><![CDATA[広島県福山市新市町相方「福山河川国道事務所」/ Shinichicho, Fukuyama City, Hiroshima Prefecture<br>"Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2720675,34.5487254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川神谷川合流部ライブカメラ / Ashida River Kamiya River Confluence Live Camera</name>
+        <description><![CDATA[広島県福山市新市町新市 「福山河川国道事務所」/ Shinichi, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2760487,34.550025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川御幸町中津原ライブカメラ / Ashida River Miyukicho Nakatsuhara Live Camera</name>
+        <description><![CDATA[広島県福山市御幸町中津原 「福山河川国道事務所」/ Nakatsuhara, Miyuki-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3569422,34.5231535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川新市町戸手ライブカメラ / Ashida River Shinichicho Tode Live Camera</name>
+        <description><![CDATA[広島県福山市新市町戸手 「福山河川国道事務所」/ Tode, Shinichicho, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.289305,34.5433269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川駅家町近田ライブカメラ / Ashida River Station Ekiyacho Chikata Live Camera</name>
+        <description><![CDATA[広島県福山市駅家町近田 「福山河川国道事務所」/ Chikata, Ekiya-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3079561,34.5414234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川坊寺橋ライブカメラ / Ashida River Boji Bridge Live Camera</name>
+        <description><![CDATA[広島県福山市駅家町坊寺 「福山河川国道事務所」/ Boji, Ekiyacho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3232835,34.5264026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川駅家町上山守ライブカメラ / Ashida River Station Ekiyacho Kamiyamamori Live Camera</name>
+        <description><![CDATA[広島県福山市駅家町上山守「福山河川国道事務所」/ Kamiyamamori, Ekiya-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3375363,34.5254576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川中津原上流部ライブカメラ / Ashida River Nakatsuhara upstream live camera</name>
+        <description><![CDATA[広島県福山市御幸町中津原「福山河川国道事務所」/ Nakatsuhara, Miyuki-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3585025,34.5312751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川出原橋ライブカメラ / Ashida River Ideharabashi Live Camera</name>
+        <description><![CDATA[広島県福山市北本庄「福山河川国道事務所」/ Kitahonjo, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3443356,34.5043948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川山手水位観測所ライブカメラ / Ashida River Yamate Water Level Observatory Live Camera</name>
+        <description><![CDATA[広島県福山市山手町6丁目「福山河川国道事務所」/ 6-chome, Yamate-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3389321,34.4961438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川山手町ライブカメラ / Ashida River Yamatecho Live Camera</name>
+        <description><![CDATA[広島県福山市山手町5丁目「福山河川国道事務所」/ 5-chome, Yamate-cho, Fukuyama-shi, Hiroshima "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3410646,34.490161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川福山河川国道事務所芦田川出張所ライブカメラ / Ashida River Fukuyama River National Highway Office Ashida River Branch Office Live Camera</name>
+        <description>〒720-0077 広島県福山市南本庄５丁目３−１２ 国土交通省福山河川国道事務所 芦田川出張所 /  Fukuyama River National Highway Office, Ministry of Land, Infrastructure, Transport and Tourism Ashidagawa Branch Office,   5-3-12 Minamihonjo, Fukuyama-shi, Hiroshima Prefecture 720-0077</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.349677,34.482622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川南本庄ライブカメラ / Ashida River Minamihonjo Live Camera</name>
+        <description><![CDATA[広島県福山市南本庄2丁目「福山河川国道事務所」/ 2-chome Minamihonjo, Fukuyama City, Hiroshima Prefecture "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3456631,34.4875026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川草戸下流部ライブカメラ / Ashida River Kusado downstream live camera</name>
+        <description><![CDATA[広島県福山市千代田町「福山河川国道事務所」/ Chiyoda-cho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3696545,34.4631932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川水呑町ライブカメラ / Ashida River Minomicho Live Camera</name>
+        <description><![CDATA[広島県福山市水呑町「福山河川国道事務所」/ Minomicho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3986485,34.4393913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川敷網ライブカメラ / Ashida River Shikiami Live Camera</name>
+        <description><![CDATA[広島県福山市箕島町南丘「福山河川国道事務所」/ Minamioka, Minoshima-cho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.413522,34.4363592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芦田川草戸上流部ライブカメラ / Ashida River Kusado upstream live camera</name>
+        <description><![CDATA[広島県福山市草戸町「福山河川国道事務所」/ Kusado-cho, Fukuyama City, Hiroshima Prefecture, "Fukuyama River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3529046,34.4731053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

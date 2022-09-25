@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>石川県ライブカメラマップ / Ishikawa Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>石川県内ライブカメラ</name>
+      <Placemark>
+        <name>珠洲市内ライブカメラ / Suzu City Live Camera</name>
+        <description><![CDATA[〒927-1215 石川県珠洲市上戸町北方１−６－２ 珠洲市役所 観光交流課 「すず観光ネットナビ」/ Suzu City Hall Tourism Exchange Division, 1-6-2 Kitagata, Uedo-machi, Suzu-shi, Ishikawa-ken 927-1215, "Suzu Tourism Net Navi"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.260406,37.436369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[「窓岩」現在の映像 / "Madoiwa" current image]]></name>
+        <description>〒928-0206 石川県輪島市町野町曽々木ア 曽々木海岸 / Sosogi Coast, A, Sosogi, Machinomachi, Wajima-shi, Ishikawa 928-0206</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.0806486,37.4615272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>役場屋上ライブカメラ 宇出津港 / Noto Town Hall Roof Live Camera - Ushitsu Port</name>
+        <description>〒927-0432 鳳珠郡能登町字宇出津新1−197−1　能登町役場 / Noto Town Hall, 1-197-1 Ushitsushin, Noto-cho, Housu-gun 927-0432</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.150069,37.30669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山湾ライブカメラ / Toyama Bay Live Camera</name>
+        <description>〒927-0435 石川県鳳珠郡能登町宇出津新港３丁目７ 海と魚の科学館 / Science Museum of Oceanography and Fisheries, 3-7 Ushitsushinko, Noto-cho, Hosu-gun, Ishikawa 927-0435</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1485777,37.2968189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[「千枚田」現在の映像 / the current image of "Senmaida"]]></name>
+        <description>〒928-0256 石川県輪島市白米町 白米の千枚田 / Shiroyone no Senmaida, Shiroyone-machi, Wajima-shi, Ishikawa 928-0256</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9971729,37.4240256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウェザーニュースライブカメラ / Weather News Live Camera</name>
+        <description>〒928-8588　石川県輪島市塚田町2-31-6 ホテル高州園 / Hotel Takasuen, 2-31-6 Tsukada-cho, Wajima-shi, Ishikawa 928-8588</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.915033,37.394624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[マリンタウン「キリコ会館」屋上からの映像 / Video from the Marine Town "Kiriko Kaikan" roof]]></name>
+        <description>〒928-0008 石川県輪島市マリンタウン6-1 輪島キリコ会館 / Wajima Kiriko Hall, 6-1 Marintown, Wajima-shi, Ishikawa 928-0008</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9076836,37.3970109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>輪島市ライブカメラ / Wajima City Live Camera</name>
+        <description>〒928-0021 石川県輪島市二ツ屋町２−２９ 輪島市役所 / Wajima CIty Hall, 2-29 Futatsuya-machi, Wajima-shi, Ishikawa-ken 928-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.899219,37.390618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>「門前総合支所前」現在の映像</name>
+        <description>〒927-2151 石川県輪島市門前町走出６−６９ 輪島市役所 門前総合支所 / Wajima city hall Monzen general branch office, 6-69 Hashiride, Monzen-machi, Wajima-shi, Ishikawa 927-2151</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7679941,37.2874042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[「ビューサンセット」現在の映像 / Current video "View Sunset"]]></name>
+        <description>〒927-2351 石川県輪島市門前町千代２９−５８ ビューサンセット / View Sunset, 29-58 Sendai, Monzen-machi, Wajima-shi, Ishikawa 927-2351</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7340374,37.2699547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>のとしんライブカメラ / Notoshin Live Camera</name>
+        <description>〒926-8601 石川県七尾市桧物町35番地 能登共栄信用金庫 / Notokyouei Shinyokinko, 35 Himono-machi, Nanao-shi, Ishikawa 926-8601</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9652496,37.0452396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七尾市ライブカメラ （七尾湾） 現在の七尾湾 / Nanao City Live Camera</name>
+        <description>石川県七尾市袖ケ江町イ 七尾市役所 / Nanao City Hall, I, Sodee-cho, Nanao-shi, Ishikawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9674972,37.0431895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七尾城山から能登半島の自然風景 / Natural landscape of Noto Peninsula from Nanao Shiroyama</name>
+        <description>〒926-0014 石川県七尾市矢田町２１号鉄砲山３−６Cafe J,Road / Cafe J, Road, 3-6 Teppoyama, 21 Yata-cho, Nanao-shi, Ishikawa-ken 926-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.982939,37.022046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ホテル海望「七尾市ライブカメラ」 / Hotel Kaibo, "Nanao City Live Camera"]]></name>
+        <description>〒926-0175 石川県七尾市和倉町和歌崎部１２−３ ホテル海望 / Hotel Kaibo, 12-3 Wakasakibe, Wakura-machi, Nanao-shi, Ishikawa-ken 926-0175</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.921675,37.088084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千里浜ライブカメラ / Chirihama Live Camera</name>
+        <description><![CDATA[〒925-0054 石川県羽咋市千里浜町タ−４−１ 千里浜レストハウス 「羽咋市役所」 / Chirihama Resthouse, Ta-4-1 Chirihama-machi, Hakui-shi, Ishikawa-ken 925-0054, "Hakui City Official Web Site"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7663519,36.8933603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝達志水町ライブカメラ / Hodatsushimizu Town Live Camera</name>
+        <description>石川県羽咋郡宝達志水町 宝達志水町役場 / Hodatsushimizu Town Hall, Hodatsushimizu-cho, Hakui-gun, Ishikawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7976813,36.8628835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今浜海岸 / Imahama Coast</name>
+        <description>〒929-1344 石川県羽咋郡宝達志水町今浜ソ1−10 海の家今浜 / Sea House Imahama, So 1-10 Imahama, Hodatsushimizu-cho, Hakui-gun, Ishikawa 929-1344</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7498517,36.8394206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山の竜宮城 / Yama-no-Ryugujo</name>
+        <description><![CDATA[〒929-1314	石川県羽咋郡宝達志水町	紺屋町 宝達山頂休養施設「山の龍宮城」 / Houdatsu summit recreation facility "Yama-no-Ryugujoi", Hodatsushimizu-cho & Konya-cho, Hakui-gun, Ishikawa 929-1314]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8127871,36.7820371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かほく市ライブカメラ / Kahoku City Live Camera</name>
+        <description>〒929-1125 石川県かほく市宇野気ニ−81 かほく市役所 / Kahoku City Hall, Ni-81 Unoke, Kahoku-shi, Ishikawa 929-1125</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.706657,36.719932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夕陽カフェと夕陽ライブカメラ / Sunset Cafe and Sunset Live Camera</name>
+        <description>〒929-1211 石川県かほく市二ツ屋フ−１６−３ 道の駅高松 / Roadside Station Takamatsu, Fu-16-3 Futatsuya, Kahoku-shi, Ishikawa-ken 929-1211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7247564,36.7863336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内灘町ライブカメラ / Uchinada Town Live Camera</name>
+        <description>〒920-0265 石川県河北郡内灘町大学１丁目２−１ 内灘町役場 / Uchinada Town Hall, 1-2-1 Daigaku, Uchinada-cho, Kawakita-gun, Ishikawa-ken 920-0265</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.645128,36.653532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野灯台ライブカメラ / Ono Lighthouse Live Camera</name>
+        <description>石川県金沢市大野町４丁目 大野灯台 （金沢海上保安部） / Ono Lighthouse, 4 Ono-cho, Kanazawa-shi, Ishikawa (Kanazawa Maritime Safety Agency）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.602867,36.616096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢港ライブカメラ / Kanazawa Port Live Webcam Ishikawa, Japan</name>
+        <description><![CDATA[〒920-0000 石川県金沢市無量寺町リ 金沢港 「You Tube」/ Kanazawa Port,  Machiri, Muryoji, Kanazawa-shi, Ishikawa-ken 920-0000, "You Tube"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6154968,36.6082096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手取川ライブ情報 / Tedori River Live Information</name>
+        <description>〒920-0024 石川県金沢市西念４丁目２３−５ 国土交通省北陸地方整備局金沢河川国道事務所 / Kanazawa River and National Highway Office, 4-23-5 Sainen, Kanazawa-shi, Ishikawa 920-0024</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6314537,36.5887174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢城公園 / Kanazawa-jo Castle Park</name>
+        <description>〒920-0937 石川県金沢市丸の内１−１/ 1-1 Marunouchi, Kanazawa-shi, Ishikawa-ken 920-0937</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6588628,36.565817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>兼六園ライブカメラ / Kenrokuen Live Camera</name>
+        <description>〒920-0936 石川県金沢市兼六町１ / 1 Kenroku-cho, Kanazawa-shi, Ishikawa-ken 920-0936</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6626515,36.5621278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢21世紀美術館ライブカメラ / 21st Century Museum of Contemporary Art, Kanazawa Live Camera</name>
+        <description>〒920-8509 石川県金沢市広坂１丁目２−１　金沢21世紀美術館 / 21st Century Museum of Contemporary Art, Kanazawa, 1-2-1 Hirosaka, Kanazawa-shi, Ishikawa-ken 920-8509</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.65815,36.560879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸新幹線金沢駅ライブカメラ / Hokuriku Shinkansen Kanazawa Station Live Camera</name>
+        <description>〒920-0858 石川県金沢市木ノ新保町1番1号 / 1-1 Kinoshinbo-machi, Kanazawa-shi, Ishikawa-ken 920-0858</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6480351,36.578268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢市とFMスタジオの様子 / Kanazawa City and FM Studio</name>
+        <description>〒921-8811 石川県野々市市高橋町２４−２ （株）えふえむエヌ・ワン / FM-N1 Co., Ltd., 24-2 Takahashi-cho, Nonoichi-shi, Ishikawa 921-8811</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6304035,36.5303554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢市街ライブカメラ / Kanazawa City Live Camera</name>
+        <description>〒921-8135 石川県金沢市四十万３丁目４３０ シンワ通信工業（株） / Shinwa Tsushin Kogyo Co., 3-430 Shijima, Kanazawa-shi, Ishikawa 921-8135 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6197817,36.5063642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防災情報システム</name>
+        <description><![CDATA[金沢河川国道事務所<br>白山遠景・松任海岸]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.557827,36.519397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白山展望の湯ライブカメラ</name>
+        <description><![CDATA[石川県白山市倉光２丁目<br>白山市役所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.565809,36.514448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>獅子吼山頂ライブカメラ / Live Camera of the Summit of Shishiku</name>
+        <description><![CDATA[石川県白山市鶴木町　奥獅子吼山　「白山市観光連盟」 / Okushishikuyama, Tsurugi-machi, Hakusan-shi, Ishikawa, "Hakusan City Tourism League"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.668034,36.417622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防本部からのライブ / Live from Fire Headquarters</name>
+        <description>〒923-0801 石川県小松市園町ホ−110−1 小松市消防本部 / Komatsu City Fire Headquarters, Ho-110-1, Sono-machi, Komatsu-shi, Ishikawa 923-0801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4577162,36.408435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松市役所ライブカメラ / Komatsu City Hall Live Camera</name>
+        <description>〒923-0904 石川県小松市小馬出町91 小松市役所 / Komatsu City Hall, 91 Konmade-machi, Komatsu-shi, Ishikawa 923-0904</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4455713,36.4083489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木場潟ライブカメラ（小松市）/ Kibagata Live Camera, Komatsu City</name>
+        <description>石川県小松市 木場潟 / Kibagata, Komatsu-shi, Ishikawa-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4443444,36.3674188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中消防署西出張所からのライブ</name>
+        <description><![CDATA[石川県小松市長崎町４丁目<br>中消防署西出張所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.43024,36.420782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安宅の関ライブカメラ / Atakanoseki Live Camera</name>
+        <description>〒923-0003 石川県小松市安宅町タ−140−4 安宅の関 / Atakanoseki, Ta-140-4 Ataka-machi, Komatsu-shi, Ishikawa 923-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4170214,36.4190546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松市ライブカメラ</name>
+        <description><![CDATA[石川県小松市浮柳町ヨ<br>小松空港<br>小松市役所]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.41331,36.401665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柴山潟 / Shibayamagata</name>
+        <description>石川県加賀市 柴山潟 / Shibayamagata, Kaga-shi, Ishikawa</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.377883,36.3488333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那谷寺からのライブ</name>
+        <description><![CDATA[石川県小松市那谷町ユ１２２<br>那谷寺]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.420412,36.313534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加賀市鴨池観察館 / Kaga Kamoike observation Museum</name>
+        <description>〒922-0564 石川県加賀市片野町子２−１ 鴨池観察館 / Kamoike observation Museum, 2-1 Katanomachiko, Kaga-shi, Ishikawa 922-0564</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.29408,36.321721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加賀市Webカメラ / Kaga City Web Camera</name>
+        <description>〒922-8622 石川県加賀市大聖寺南町ニ４１ 加賀市役所 / Kaga City Hall, 41 Ni, Minami-machi, Daisho-ji, Kaga-shi, Ishikawa-ken 922-8622</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.31454,36.302675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白山ブナオ山の動物たち / Hakusan Bunao Mountain Animals</name>
+        <description><![CDATA[〒920-2333 石川県白山市尾添　「インターネット自然研究所」 / Ozo, Hakusan-shi, Ishikawa-ken 920-2333, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7162362,36.2685588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白山天望の湯ライブカメラ / Hakusan Tenbo-no-yu Live Camera</name>
+        <description>〒920-2501 石川県白山市白峰ツ−５２/ Tsu-52, Shiramine, Hakusan-shi, Ishikawa-ken 920-2501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.634916,36.165559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石川県漁協かなざわ総合市場ライブカメラ / Ishikawa Prefecture Fishery Cooperative Kanazawa General Market Live Camera</name>
+        <description>〒920-0332 石川県金沢市無量寺町ヲ−５１かなざわ総合市場 / 　Kanazawa General Market (Kanazawa Sogo Ichiba), Wo-51 Muryoji-machi, Kanazawa-shi, Ishikawa-ken 920-0332</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6093233,36.6111874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

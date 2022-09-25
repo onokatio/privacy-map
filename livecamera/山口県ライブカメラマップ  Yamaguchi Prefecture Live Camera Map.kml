@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>山口県ライブカメラマップ / Yamaguchi Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>山口県内ライブカメラ</name>
+      <Placemark>
+        <name>見島北灯台からの映像 / Video from Mishima Kita Lighthouse</name>
+        <description><![CDATA[山口県萩市見島  見島北灯台 「仙崎海上保安部」 / Mishima Kita Lighthouse, Mishima, Hagi City, Yamaguchi, "Senzaki Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1313102,34.7978055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土井ヶ浜ライブカメラ / Doigahama Beach Live Camera</name>
+        <description><![CDATA[〒759-6121 山口県下関市豊北町大字神田上江尻下8174 土井ヶ浜南海の家 / Doigahama Beach, the beach house, "Nankai no Ie," 8174 Kandakami, Hohoku-cho, Shimonoseki City, Yamaguchi 759-6121]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8849873,34.2987507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長門市ライブカメラ / Nagato City Live Camera</name>
+        <description>〒759-4101 山口県長門市東深川１３３９−２ 長門市役所 / Nagato City Hall, 1339-2 Higashi Fukawa, Nagato-shi, Yamaguchi 759-4101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1821977,34.3709995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦帯橋ライブカメラ / Kintaikyo-Bridge Live Camera</name>
+        <description><![CDATA[山口県岩国市横山２丁目 錦帯橋 「岩国市公式ホームページ」 / Kintaikyo-Bridge, 2 Yokoyama, Iwakuni-shi, Yamaguchi-ken, "Iwakuni City Official Site"<br>https://livecamera.fujiyamasan.com/yamaguchi-iwakuni-kintaikyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.178402,34.167553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長宝寺からのライブカメラ / Live Camera from Choho-ji Temple</name>
+        <description>山口県岩国市周東町祖生 長宝寺 / Choho-ji Temple, Soo, Shuto-cho, Iwakuni City, Yamaguchi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.144156,34.072782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳井市役所大畠出張所 / Obatake Branch of Yanai City</name>
+        <description>〒749-0102　山口県柳井市大畠１５００ / 1500 Obatake, Yanai City, Yamaguchi 749-0102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1696137,33.9609117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳井市役所ライブカメラ / Yanai City Hall Live Camera</name>
+        <description><![CDATA[〒742-0031 山口県柳井市南町１丁目１０−２ 柳井市役所　「災害情報提供システム」 / 10-2 Minami-machi, Yanai City, Yamaguchi 742-0031, "Disaster Information Service System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1015835,33.9638999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新庄小学校ライブカメラ / Shinjo Elementary School Live Camera</name>
+        <description><![CDATA[〒742-0033 山口県柳井市新庄２６１４ 「柳井市役所」/ 2614 Shinjo, Yanai City, Yamaguchi 742-0033, "Yanai City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0898247,33.9699506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾国コミュニティセンターライブカメラ / Okuni Community Center Live Camera</name>
+        <description>〒742-1113 山口県平生町尾国463-2 / 463-2 Okuni, Hirao-cho, Yamaguchi 742-1113</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1213514,33.875002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上関町役場中央公民館ライブカメラ / Kaminoseki Town Office central community center Live Camera</name>
+        <description>〒742-1403　山口県熊毛郡上関町大字室津８４７ / 847 Murodu, Kaminoseki-cho, Kumage-gun, Yamaguchi 742-1403</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1174836,33.8346418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上関城山歴史公園ライブカメラ / Kaminoseki Shiroyama Historical Park Live Camera</name>
+        <description><![CDATA[〒742-1402 山口県熊毛郡上関町大字長島 「柳井市役所」 / Nagashima, Kaminoseki-cho, Kumage-gun, Yamaguchi 742-1402, "Yanai City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1087503,33.8354528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県漁業協同組合平生町支店ライブカメラ / Yamaguchi Prefecture Fisheries Cooperatives Hirao branch Live Camera</name>
+        <description><![CDATA[〒742-1111 山口県熊毛郡平生町佐賀１５７８−１０ 山口県漁業協同組合平生町支店「柳井市役所」 / Yamaguchi Prefecture Fisheries Cooperatives Hirao branch, 1578-10 Saga, Hirao-cho, Kumage-gun, Yamaguchi 742-1111, "Yanai City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0800722,33.8927721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神花山古墳公園ライブカメラ / Jinkayama Tumulus park Live Camera</name>
+        <description><![CDATA[〒742-1100　山口県熊毛郡平生町佐賀1199-1 「柳井市役所」  / 1191-1 Saga, Hirao-cho, Kumage-gun, Yamanashi 742-1100, "Yanai City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0580405,33.9105997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[光市情報カメラ「EyeLiveひかり」 / Hikari City Info Camera "Eye Live Hikari"]]></name>
+        <description>山口県光市中央６丁目１−１ 光市役所 / Hikari City Hall, 6-1-1 Chuo, Hikari City, Yamaguchi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.942196,33.961978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下松ライブカメラ / Shimmomatsu Live Camera</name>
+        <description><![CDATA[山口県下松市 「下松市私設案内」 / Shimomatsu City, "Shimomatsu City Private Guide"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.870356,34.015104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川ライブ映像 / Sanami River Live Video</name>
+        <description>山口県防府市国衙１丁目１０ 山口河川国道事務所 / Yamaguchi River National Highway Office, 1-10 Kokuga, Bofu City, Yamaguchi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.583402,34.055273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うめてらすLIVEカメラ</name>
+        <description>〒747-0029 山口県防府市松崎町１−２０　防府市まちの駅うめてらす</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.573811,34.0616407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FM山口スタジオ / FM Yamaguchi Studio</name>
+        <description>山口県山口市緑町３ エフエム山口本社 / FM Yamaguchi headquarters, 3 Midori-cho, Yamaguchi City, Yamaguchi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.465321,34.17105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口大学吉田キャンパスカメラ</name>
+        <description>〒753-8511 山口県山口市吉田１６７７−１ 山口大学吉田キャンパス</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.467635,34.147662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヤングオート店内ライブカメラ / Young Auto Store Live Camera</name>
+        <description>山口県山口市小郡上郷１８４５−１ ヤングオート（株） / Young Auto Co.,Ltd., 1845-1 Ogori Kamigo, Yamaguchi City, Yamaguchi</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.40923,34.124702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口大学小串キャンパスライブカメラ / Yamaguchi University Kogushi Campus Live Camera</name>
+        <description>〒755-0046 山口県宇部市南小串１丁目１−１　山口大学 / Yamaguchi University 1-1-1, Minamikogushi, Ube City, Yamaguchi Prefecture 755-0046</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2486021,33.9581358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口大学常盤キャンパスライブカメラ / Yamaguchi University Tokiwa Campus Live Camera</name>
+        <description>〒755-0097 山口県宇部市常盤台２丁目１６−１　山口大学常盤キャンパス / Yamaguchi University Tokiwa Campus, 2-16-1 Tokiwadai, Ube City, Yamaguchi Prefecture 755-0097 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2725285,33.9564169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>火ノ山下潮流信号所からの映像 / Hinoyamashita Tide Signal Station</name>
+        <description><![CDATA[山口県下関市みもすそ川町３−１ 火ノ山下潮流信号所 「海上保安庁第七管区門司海上保安部」 / Hinoyamashita Tide Signal Station, 3-1 Mimosusogawa-cho, Shimonoseki City, Yamaguchi, "Moji Maritime Security Department, 7th Regional Coast Guard, Japan Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.961494,33.968082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関門ライブチャンネル / KANMON Live Channel</name>
+        <description><![CDATA[山口県下関市唐戸町 関門海峡 Kanmon.TV / Kanmon Strait, Karato-cho, Shimonoseki City, Yamaguchi, "Kanmon TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.94428,33.956291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関門海峡ライブカメラ / Kanmon Strait Live Camera</name>
+        <description>〒750-0005 山口県下関市唐戸町６−１ カモンワーフ / Kamonwharf, 6-1 Karato-cho, Shimonoseki-shi, Yamaguchi-ken 750-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.943867,33.956296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関門海峡海上交通センター</name>
+        <description><![CDATA[福岡県北九州市門司区松原２丁目１０<br>関門海峡海上交通センター<br>門司海峡海上交通センター<br>仙崎海上保安部]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.918922,33.897225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海峡ライブカメラ / Strait Live Camera</name>
+        <description>〒750-0005 山口県下関市 唐戸町5-1　ふくの河久 唐戸店 / Fukunofuku Karatoten, 5-1 Karato-cho, Shimonoseki-shi, Yamaguchi-ken 750-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9433601,33.9564728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路路面情報提供 / National Route road surface information provision</name>
+        <description>〒747-0024 山口県防府市国衙１丁目１０−２０ 国土交通省山口河川国道事務所 / Ministry of Land, Infrastructure and Transport Yamaguchi River National Highway Office, 1-10-20 Kokuga, Hofu-shi, Yamaguchi-ken 747-0024</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.583297,34.055257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局佐波川堀ライブカメラ / China Regional Development Bureau Saba River Hori Live Camera</name>
+        <description><![CDATA[山口県山口市徳地堀「国土交通省中国地方整備局」/ Tokujihori, Yamaguchi City, Yamaguchi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6545696,34.1899901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局佐波川漆尾ライブカメラ / China Regional Development Bureau Saba River Urushio Live Camera</name>
+        <description><![CDATA[山口県山口市徳地伊賀地上沖の原564-3 漆尾水位観測所「国土交通省中国地方整備局」/ Urushio Water Level Observatory, 564-3 Okinohara, Tokujihori, Yamaguchi City, Yamaguchi Prefecture, "China Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6438007,34.1803507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川関ライブカメラ / Saba River Seki Live Camera</name>
+        <description><![CDATA[山口県山口市徳地堀 「国土交通省河川情報センター」/ Tokujihori, Yamaguchi City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6576955,34.1948446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川上佐ライブカメラ / Saba River Agesa Live Camera</name>
+        <description><![CDATA[山口県山口市徳地堀「国土交通省河川情報センター」/ Tokujihori, Yamaguchi City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6561626,34.1931184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川沖ノ原西ライブカメラ / Saba River Okinohara Nishi Live Camera</name>
+        <description><![CDATA[山口県山口市徳地伊賀地「国土交通省河川情報センター」/ Tokujiikaji, Yamaguchi City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6394733,34.176282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川徳行ライブカメラ / Saba River Tokugyo Live Camera</name>
+        <description><![CDATA[山口県山口市徳地岸見「国土交通省河川情報センター」/ Tokujikishimi, Yamaguchi City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6294258,34.1571076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川島地川合流点ライブカメラ / Saba River Shimajigawa Confluence Live Camera</name>
+        <description><![CDATA[山口県山口市徳地堀「山口河川国道事務所」/ Tokujihori, Yamaguchi City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6511535,34.184333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川上流端ライブカメラ / Live camera at the upstream end of the Saba River</name>
+        <description><![CDATA[山口県山口市徳地小古祖「山口河川国道事務所」/ Tokujiogoso, Yamaguchi City, Yamaguchi Prefecture, "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6630807,34.1991455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川岸見ライブカメラ / Saba River Kishimi Live Camera</name>
+        <description><![CDATA[山口県山口市徳地岸見「山口河川国道事務所」/ Tokujikishimi, Yamaguchi City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6263672,34.1549028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道315号栃山ライブカメラ / Route 315 Tochiyama Live Camera</name>
+        <description><![CDATA[〒759-1513 山口県山口市阿東徳佐下「山口県道路整備課」/ Atotokusashimo Ato, Yamaguchi City, Yamaguchi Prefecture 759-1513<br>"Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6909381,34.4025932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご山口佐山ECO発電所ライブカメラ / Ichigo Yamaguchi Sayama ECO Power Plant Live Camera</name>
+        <description><![CDATA[〒754-0894 山口県山口市佐山　いちご山口佐山ECO発電所 「いちごECOエナジー」/Strawberry Yamaguchi Sayama ECO Power Plant, Sayama, Yamaguchi City, Yamaguchi Prefecture 754-0894,  "Strawberry ECO Energy"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3495393,34.0313501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご山口秋穂西ECO発電所ライブカメラ / Ichigo Yamaguchi Akihonishi ECO Power Plant Live Camera</name>
+        <description><![CDATA[山口県山口市秋穂西 「いちごECOエナジー」/ Akihonishi, Yamaguchi City, Yamaguchi Prefecture "Strawberry ECO Energy"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.425433,34.0267287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国自動車道山口ジャンクションライブカメラ / Chugoku Expressway Yamaguchi Junction Live Camera</name>
+        <description><![CDATA[〒753-0851 山口県山口市黒川 「NEXCO西日本」/ Kurokawa, Yamaguchi City, Yamaguchi Prefecture 753-0851 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.454333,34.1319401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道9号生雲東分ライブカメラ / National highway No. 9 Ikumo Higashibun live camera</name>
+        <description><![CDATA[〒759-1231 山口県山口市阿東生雲東分 「山口河川国道事務所」/ Atoikumohigashi, Yamaguchi City, Yamaguchi Prefecture 759-1231, "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6061717,34.3412452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県道6号山口宇部線阿知須高架橋ライブカメラ / Yamaguchi Prefectural Road No. 6 Yamaguchi Ube Line Ajisu Viaduct Live Camera</name>
+        <description><![CDATA[〒754-1277 山口県山口市阿知須 「山口県道路整備課」/ Ajisu, Yamaguchi City, Yamaguchi Prefecture 754-1277<br>"Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3310303,34.0161877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県道6号山口宇部線四十八瀬川橋ライブカメラ / Yamaguchi Prefectural Road No. 6 Yamaguchi Ube Line 48 Segawabashi Live Camera</name>
+        <description><![CDATA[〒754-0001 山口県山口市小郡上郷新町西 四十八瀬川橋 「山口県道路整備課」/ Forty-eight Segawa Bridge, Shinmachinishi, Ogorikamigo, Yamaguchi City, Yamaguchi Prefecture, 754-0001, "Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3902721,34.1173147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局佐波川新橋ライブカメラ / China Regional Development Bureau Saba River Shimbashi Live Camera</name>
+        <description><![CDATA[山口県防府市新橋町「国土交通省中国地方整備局」/ Shinbashi-cho, Hofu City, Yamaguchi Prefecture "Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.558671,34.0635485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川和字ライブカメラ / Saba River Waji Live Camera</name>
+        <description><![CDATA[山口県防府市和字 「国土交通省河川情報センター」/ Waji, Hofu City, Yamaguchi Prefecture<br>"River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6077462,34.1210962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川鈴屋佐尾ライブカメラ / Saba River Suzuya Sao Live Camera</name>
+        <description><![CDATA[山口県防府市鈴屋「国土交通省河川情報センター」/ Suzuya, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6036063,34.1137439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川坂本ライブカメラ / Saba River Sakamoto Live Camera</name>
+        <description><![CDATA[山口県防府市鈴屋「国土交通省河川情報センター」/ Suzuya, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6028072,34.11171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川中央ライブカメラ / Saba River Central Live Camera</name>
+        <description><![CDATA[山口県防府市真尾「国土交通省河川情報センター」/ Manao, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6005063,34.1045493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川鈴屋沖ライブカメラ / Saba River Suzuya offing live camera</name>
+        <description><![CDATA[山口県防府市鈴屋「国土交通省河川情報センター」/ Suzuya, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5916472,34.1061861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川上右田第1ライブカメラ / Saba River Kamimigita 1st Live Camera</name>
+        <description><![CDATA[山口県防府市上右田「国土交通省河川情報センター」/ Kamimigita, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5765338,34.0788863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川人丸ライブカメラ / Sabakawa Hitomaru Live Camera</name>
+        <description><![CDATA[山口県防府市東佐波令「国土交通省河川情報センター」/ Higashisabaryo, Hofu City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5775316,34.0775711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川小島ライブカメラ / Saba River Kojima Live Camera</name>
+        <description><![CDATA[山口県防府市佐野 「山口河川国道事務所」/ Sano, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.499384,34.0389071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川西之浦ライブカメラ / Saba River Nishinoura Live Camera</name>
+        <description><![CDATA[〒747-0835 山口県防府市大字西浦「山口河川国道事務所」/ Nishinoura, Hofu City, Yamaguchi Prefecture 747-0835 "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5162761,34.0281768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川佐波川大橋ライブカメラ / Saba River Saba River Ohashi Live Camera</name>
+        <description><![CDATA[山口県防府市植松「山口河川国道事務所」/ Uematsu, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5179029,34.0458529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川甲久保ライブカメラ / Saba River Kokubo Live Camera</name>
+        <description><![CDATA[山口県防府市佐野「山口河川国道事務所」/ Sano, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.523203,34.0513566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川佐野堰ライブカメラ / Saba River Sano Weir Live Camera</name>
+        <description><![CDATA[山口県防府市佐野「山口河川国道事務所」/ Sano, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5379572,34.0531654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川山口河川国道事務所佐波川出張所ライブカメラ / Saba River Yamaguchi River National Highway Office Saba River Branch Office Live Camera</name>
+        <description>〒747-0056 山口県防府市古祖原１８−４３ 山口河川国道事務所佐波川出張所 / Yamaguchi River National Highway Office Sabakawa Branch Office, 18-43 Kosobara, Hofu City, Yamaguchi Prefecture 747-0056 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.548091,34.057776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川総合堰ライブカメラ / Saba River general weir live camera</name>
+        <description><![CDATA[山口県防府市迫戸町「山口河川国道事務所」/ Sebato-cho, Hofu City, Yamaguchi Prefecture<br>"Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5674722,34.069273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川矢筈ライブカメラ / Saba River Yahazu Live Camera</name>
+        <description><![CDATA[山口県防府市上右田「山口河川国道事務所」/ Kamimigita, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.581596,34.0925175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川真尾ライブカメラ / Saba River Manao Live Camera</name>
+        <description><![CDATA[山口県防府市真尾「山口河川国道事務所」/ Manao, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5946895,34.1043145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川上右田堰ライブカメラ / Saba River Kamimigita Weir Live Camera</name>
+        <description><![CDATA[山口県防府市真尾「山口河川国道事務所」/ Manao, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5881348,34.1012933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川真尾堰ライブカメラ / Saba River Manao Weir Live Camera</name>
+        <description><![CDATA[山口県防府市真尾 「山口河川国道事務所」/ Manao, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6027106,34.1086542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川奈美ライブカメラ / Nami Sabakawa Live Camera</name>
+        <description><![CDATA[山口県防府市奈美「山口河川国道事務所」/ Nami, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6064832,34.1228427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川上右田ライブカメラ / Saba River Kamimigita Live Camera</name>
+        <description><![CDATA[山口県防府市上右田「山口河川国道事務所」/ Kamimigita, Hofu City, Yamaguchi Prefecture "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5755145,34.0756797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夜市川的場川合流付近ライブカメラ / Yaji River Matoba River Confluence Live Camera</name>
+        <description><![CDATA[〒746-0084 山口県周南市大字夜市 「周南市役所」/ Yaji, Shunan City, Yamaguchi Prefecture 746-0084, "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7158444,34.093437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夜市川下佐畑橋ライブカメラ / Yaji River Shimosahata Bridge Live Camera</name>
+        <description><![CDATA[〒745-1131 山口県周南市大字戸田「周南市役所」/ Heta, Shunan City, Yamaguchi Prefecture 745-1131 "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6859555,34.0689555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大津島潮位ライブカメラ / Ozu Island Tide Live Camera</name>
+        <description><![CDATA[山口県周南市大津島「周南市役所」/ Ozu Island, Shunan City, Yamaguchi Prefecture "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7226351,33.9894994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富田川音羽橋ライブカメラ / Tonda River Otowa Bridge Live Camera</name>
+        <description><![CDATA[山口県周南市川崎 「周南市役所」/ Kawasaki, Shunan City, Yamaguchi Prefecture "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7775311,34.072914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富田川川本ライブカメラ / Tonda River Kawamoto Live Camera</name>
+        <description><![CDATA[山口県周南市上村平山841-2「周南市役所」/ 841-2 Hirayama, Uemura, Shunan City, Yamaguchi Prefecture "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7880232,34.0947134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦川田原橋ライブカメラ / Nishikigawa Tahara Bridge Live Camera</name>
+        <description><![CDATA[山口県周南市大字鹿野下「周南市役所」/ Kanoshimo, Shunan City, Yamaguchi Prefecture<br>"Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8145941,34.2243888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西光寺川隅田川合流付近ライブカメラ / Saikouji River Sumida River Confluence Live Camera</name>
+        <description><![CDATA[山口県周南市久米「周南市役所」/ Kume, Shunan City, Yamaguchi Prefecture "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8343724,34.028787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島田川蓬来橋ライブカメラ / Shimata River Horai Bridge Live Camera</name>
+        <description><![CDATA[山口県周南市安田「周南市役所」/ Yasuda, Shunan City, Yamaguchi Prefecture "Shunan City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9826714,34.0316488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国自動車道鹿野サービスエリア下りライブカメラ / Chugoku Expressway Kano Service Area Downhill Live Camera</name>
+        <description><![CDATA[山口県周南市鹿野中1745 「NEXCO西日本」/ 1745 Kanonaka, Shunan City, Yamaguchi Prefecture "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.799272,34.2203363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国自動車道下関ジャンクションライブカメラ / Chugoku Expressway Shimonoseki Junction Live Camera</name>
+        <description><![CDATA[山口県下関市吉田地方 「NEXCO西日本」/ Yoshida Jikata, Shimonoseki City, Yamaguchi Prefecture "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.079231,34.0920319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇部魚市場周防灘鮮魚エリアライブカメラ / Ube Fish Market Suo Nada Fresh Fish Area Live Camera</name>
+        <description>〒755-0027 山口県宇部市港町２丁目５−１宇部魚市場（株）/ Ube Fish Market Co., Ltd., 2-5-1 Minato-machi, Ube City, Yamaguchi Prefecture 755-0027</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.246961,33.943885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県道6号山口宇部線栄川運河橋ライブカメラ / Yamaguchi Prefectural Road No. 6 Yamaguchi Ube Line Sakaekawa Canal Bridge Live Camera</name>
+        <description><![CDATA[〒755-0067 山口県宇部市大字小串 栄川運河橋 「山口県道路整備課」/ Sakaegawa Canal Bridge, Kogushi, Ube City, Yamaguchi Prefecture 755-0067, "Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2270606,33.9618472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局小瀬川小瀬川出張所ライブカメラ / China Regional Development Bureau Ozegawa Ozegawa Branch Office Live Camera</name>
+        <description><![CDATA[〒741-0091 山口県岩国市小瀬２８２−６ 国土交通省 太田川河川事務所 小瀬川出張所 「国土交通省中国地方整備局」/ Ministry of Land, Infrastructure, Transport and Tourism Otagawa River Office Ozegawa Branch Office, 282-6 Ose, Iwakuni City, Yamaguchi Prefecture 741-0091, <br>"Ministry of Land, Infrastructure, Transport and Tourism China Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.192785,34.2078636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小瀬川10.6KP右岸ライブカメラ / Ozegawa 10.6KP right bank live camera</name>
+        <description><![CDATA[山口県岩国市小瀬乙瀬 「国土交通省河川情報センター」/ Otoze Otoze, Iwakuni City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1906595,34.2268375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小瀬川5.3KP右岸ライブカメラ / Ozegawa 5.3KP right bank live camera</name>
+        <description><![CDATA[山口県岩国市小瀬「国土交通省河川情報センター」/ Oze, Iwakuni City, Yamaguchi Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.195417,34.2105991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島田川久田橋ライブカメラ / Shimata River Hisabashi Live Camera</name>
+        <description><![CDATA[〒742-0413 山口県岩国市周東町上久原「岩国市役所」/ Kamikubara, Shutomachi, Iwakuni City, Yamaguchi Prefecture 742-0413, "Iwakuni City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0633371,34.0774719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由宇川平和橋付近ライブカメラ / Live camera near Yukawa Heiwabashi</name>
+        <description><![CDATA[山口県岩国市由宇町「岩国市役所」/ Yuumachi, Iwakuni City, Yamaguchi Prefecture "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.186899,34.0302155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>由宇川中村橋付近ライブカメラ / Live camera near Yu River Nakamurabashi</name>
+        <description><![CDATA[〒740-1412 山口県岩国市由宇町中村「岩国市役所」/ Nakamura, Yuumachi, Iwakuni City, Yamaguchi Prefecture 740-1412<br>"Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1893673,34.0452249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>門前川門前橋付近ライブカメラ / Live camera near Monzengawa Monzenbashi</name>
+        <description><![CDATA[〒740-0027 山口県岩国市中津町「岩国市役所」/ Nakazumachi, Iwakuni City, Yamaguchi Prefecture 740-0027, "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2152777,34.1522903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今津川川下小学校ライブカメラ / Imazu River Kawashimo Elementary School Live Camera</name>
+        <description><![CDATA[〒740-0026 山口県岩国市車町１丁目１−４３「岩国市役所」/ 1-1-43 Kurumamachi, Iwakuni City, Yamaguchi Prefecture 740-0026 "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2139836,34.1578498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本郷川広瀬橋付近ライブカメラ / Live camera near Hirose Bridge, Hongo River</name>
+        <description><![CDATA[山口県岩国市錦町広瀬「岩国市役所」/ Hirose, Nishikimachi, Iwakuni City, Yamaguchi Prefecture "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9460503,34.2605842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦川南桑駅ライブカメラ / Nishikigawa Naguwa Station Live Camera</name>
+        <description><![CDATA[〒740-0504 山口県岩国市美川町南桑 南桑駅 「岩国市役所」/ Naguwa Station, Mikawamachi, Iwakuni City, Yamaguchi Prefecture 740-0504<br>"Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0209116,34.2094179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦川岩国市役所美川支所ライブカメラ / Nishikigawa Iwakuni City Hall Mikawa Branch Live Camera</name>
+        <description><![CDATA[〒740-0502 山口県岩国市美川町四馬神１０５７番地 岩国市美川支所 「岩国市役所」/ 1057 Mikawamachi Shimegami, Iwakuni City, Yamaguchi Prefecture 740-0502 Mikawa Branch, Iwakuni City "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9862956,34.2419436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦川川向橋付近ライブカメラ / Live camera near Nishikigawa Kawamukai Bridge</name>
+        <description><![CDATA[山口県岩国市美川町四馬神「岩国市役所」/ Mikawamachi Shimegami, Iwakuni City, Yamaguchi Prefecture "Iwakuni City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9782745,34.2513689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県道15号岩国玖珂線欽明路峠ライブカメラ / Yamaguchi Prefectural Road No. 15 Iwakuni Kuga Line Kinmeiji Pass Live Camera</name>
+        <description><![CDATA[〒741-0073 山口県岩国市柱野二軒屋 「山口県道路整備課」/ Hashirano Nikenya, Iwakuni City, Yamaguchi Prefecture 741-0073<br>"Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1424497,34.1268277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光市上空天気虹ヶ浜方面ライブカメラ / Hikari City Sky Weather Nijigahama Live Camera</name>
+        <description><![CDATA[〒743-0031 山口県光市虹ケ丘７丁目３−７ 虹ヶ丘第二公園 「Kビジョン」/ Nijigaoka Daini Park, 7-3-7 Nijigaoka, Hikari City, Yamaguchi Prefecture 743-0031, "K Vision"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.908599,33.9757681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光市上空天気島田川上流方面ライブカメラ / Hikari City Sky Weather Shimada River Upstream Live Camera</name>
+        <description><![CDATA[〒743-0031 山口県光市虹ケ丘２丁目８ 虹ケ丘公園 「Kビジョン」/ Nijigaoka Park, 2-8 Nijigaoka, Hikari City, Yamaguchi Prefecture 743-0031  "K Vision"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9118942,33.9755658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>冠山総合公園ライブカメラ / Kanmuriyama Park Live Camera</name>
+        <description><![CDATA[〒743-0001 山口県光市大字室積村６２８８ 冠山総合公園 「光市役所」/ 6288 Murozumimura, Hikari City, Yamaguchi Prefecture 743-0001 Kanmuriyama Park, "Hikari City Hall"<br>https://livecamera.fujiyamasan.com/yamaguchi-hikari-kanmuriyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9607753,33.9525226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光井川ライブカメラ / Mitsui River Live Camera</name>
+        <description><![CDATA[〒743-0011 山口県光市光井「光市役所」/  Mitsui, Hikari City, Yamaguchi Prefecture 743-0011,  "Hikari City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9556056,33.9582331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島田川ライブカメラ / Shimata River Live Camera</name>
+        <description><![CDATA[〒743-0021 山口県光市浅江「光市役所」/ Asae, Hikari City, Yamaguchi Prefecture 743-0021 "Hikari City Hall"<br>https://livecamera.fujiyamasan.com/yamaguchi-hikari-shimada-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9221277,33.9641203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>室積海岸ライブカメラ / Murozumi Beach Live Camera</name>
+        <description><![CDATA[山口県光市室積新開1丁目4 室積海岸 「光市役所」/ Murozumi Beach, 1-4 Murozumishinkai, Hikari City, Yamaguchi Prefecture "Hikari City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9621902,33.9457889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虹ケ浜海岸ライブカメラ / Nijigahama Beach Live Camera</name>
+        <description><![CDATA[山口県光市室積 虹ケ浜海岸「光市役所」/ Murozumi, Hikari City, Yamaguchi Prefecture Nijigahama Beach "Hikari City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.916391,33.968951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊藤公記念公園ライブカメラ / Itoko Memorial Park Live Camera</name>
+        <description><![CDATA[〒743-0105 山口県光市大字束荷 伊藤公記念公園「光市役所」/ Itoko Memorial Park, Tsukari, Hikari City, Yamaguchi Prefecture 743-0105, <br>"Hikari City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9959836,34.008836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中国地方整備局小瀬川中市堰右岸ライブカメラ / Live camera on the right bank of the weir in Ozegawa Naka City, China Regional Development Bureau</name>
+        <description>〒740-0062 山口県玖珂郡和木町瀬田２丁目１−１ 中国地方整備局太田川河川事務所中市堰 / Otagawa River Office, China Regional Development Bureau Nakaichi Dam, 2-1-1 Seta, Waki-cho, Kuga-gun, Yamaguchi 740-0062</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2144,34.203038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小瀬川油送管上流ライブカメラ / Ozegawa oil pipe upstream live camera</name>
+        <description><![CDATA[山口県和木町和木6丁目 「太田川河川事務所」/ 6-chome, Waki, Waki-cho, Yamaguchi "Otagawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2343673,34.2084517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中の浦観光施設ライブカメラ / Nakaura Tourist Facility Live Camera</name>
+        <description><![CDATA[〒742-1402 山口県熊毛郡上関町大字長島　中の浦観光施設 「柳井市役所」/ Nakanoura Tourist Facility, Nagashima, Kaminoseki-cho, Kumage-gun, Yamaguchi 742-1402<br>"Yanai City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.093018,33.8353779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひらおボートパークライブカメラ / Hirao Boat Park Live Camera</name>
+        <description><![CDATA[〒742-1107 山口県熊毛郡平生町大字曽根新地 ひらおボートパーク 「柳井市役所」/ Hirao Boat Park, Oaza Sone Shinchi, Hirao-cho, Kumage-gun, Yamaguchi 742-1107<br>"Yanai City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0586048,33.9204826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道262号小木原ライブカメラ / National highway No. 262 Ogiwara live camera</name>
+        <description><![CDATA[〒753-0101 山口県萩市大字佐々並 「山口県道路整備課」/ Sasanami, Hagi City, Yamaguchi Prefecture 753-0101, "Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4512603,34.2624259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道262号釿切ライブカメラ / National highway No. 262 Chonogiri live camera</name>
+        <description><![CDATA[〒754-0411 山口県萩市大字明木 「山口県道路整備課」/ Akiragi, Hagi City, Yamaguchi Prefecture 754-0411, "Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4380877,34.3189109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長門湯本温泉ライブカメラ 恩湯（おんとう）前</name>
+        <description>〒759-4103 山口県長門市深川湯本湯本　長門湯本温泉 恩湯広場 / Nagato Yumoto Onsen Onyu Square, Fukawayumoto Yumoto, Nagato City, Yamaguchi Prefecture 759-4103 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1718979,34.3288759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道316号大ヶ峠トンネルライブカメラ / National highway No. 316 Oga Pass tunnel live camera</name>
+        <description><![CDATA[山口県長門市渋木　大ヶ峠トンネル 「長門市役所」/ Oga Pass Tunnel, Shibuki, Nagato City, Yamaguchi Prefecture, "Nagato City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1940039,34.2836508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口県道34号下関長門線俵山ライブカメラ / Yamaguchi Prefectural Road No. 34 Shimonoseki Nagato Line Tawarayama Live Camera</name>
+        <description><![CDATA[〒759-4211 山口県長門市俵山 「長門市役所」/ Tawarayama, Nagato City, Yamaguchi Prefecture 759-4211,  "Nagato City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1099341,34.2911178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道191号上城地区ライブカメラ / National highway No. 191 Kamishiro district live camera</name>
+        <description><![CDATA[〒759-4401 山口県長門市日置上上城 「長門市役所」/  Hekikami Kamijo, Nagato City, Yamaguchi Prefecture 759-4401, "Nagato City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1124514,34.3801846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長門市役所本庁南側ライブカメラ / Nagato City Hall Main Office South Side Live Camera</name>
+        <description><![CDATA[〒759-4101 山口県長門市東深川正明市１３３９−２ 「長門市役所」/ 1339-2 Higashifukawa Shomyoichi, Nagato City, Yamaguchi Prefecture 759-4101 "Nagato City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1822238,34.3709965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道490号長登橋ライブカメラ / National highway No. 490 Naganobori live camera</name>
+        <description><![CDATA[山口県美祢市美東町長登 「山口県道路整備課」/ Mitocho Naganobori, Mine City, Yamaguchi Prefecture "Yamaguchi Prefecture Road Maintenance Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3385522,34.2463968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川西大津樋門ライブカメラ / Saba River Nishi Otsu Himon Live Camera</name>
+        <description><![CDATA[山口県山口市徳地伊賀地 「河川情報センター」/ Tokujiikaji, Yamaguchi City, Yamaguchi Prefecture, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.632034,34.1708355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川伊賀地ライブカメラ / Saba River Ikaji Live Camera</name>
+        <description><![CDATA[山口県山口市徳地伊賀地「山口河川国道事務所」/ Tokujiikaji, Yamaguchi City, Yamaguchi Prefecture, "Yamaguchi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6332096,34.1641011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川片地山バス停留所ライブカメラ / Saba River Katachiyama Bus Stop Live Camera</name>
+        <description><![CDATA[山口県防府市久兼 「河川情報センター」/ Hisakane, Hofu City, Yamaguchi Prefecture, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6173363,34.1346942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川下切排水樋門ライブカメラ / Saba River Shimogiri Drainage Gutter Gate Live Camera</name>
+        <description><![CDATA[山口県防府市中山「河川情報センター」/ Nakayama, Hofu City, Yamaguchi Prefecture "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6080144,34.1317965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川15.6KP左岸ライブカメラ / Saba River 15.6KP Left Bank Live Camera</name>
+        <description><![CDATA[山口県防府市和字「河川情報センター」/ Waji, Hofu City, Yamaguchi Prefecture, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6109427,34.1259207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐波川壺谷川排水樋門ライブカメラ / Saba River Tsubaya River Drainage Gutter Live Camera</name>
+        <description><![CDATA[山口県防府市上右田沖田ノ口「河川情報センター」/ Okitanokuchi, Kamimigita, Hofu City, Yamaguchi Prefecture, "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5794897,34.0921821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関門橋壇之浦パーキングエリア下りライブカメラ / Kanmon Bridge Dannoura Parking Area Down Live Camera</name>
+        <description><![CDATA[〒751-0814 山口県下関市壇之浦町６−１ 壇之浦PA (下り) 「NEXCO西日本」/ Dannoura PA (down), 6-1 Dannoura-cho, Shimonoseki-shi, Yamaguchi 751-0814, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9538473,33.9637467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[お天気カメラ「海響館＆はい！からっと横丁」/ Weather camera "Kaikyokan & Yes! Karatto Yokocho"]]></name>
+        <description><![CDATA[〒750-0006 山口県下関市南部町２１−１９ 下関商工会館 「KRY山口放送公式チャンネル」/ Shimonoseki Chamber of Commerce and Industry, 21-19 Nabecho, Shimonoseki City, Yamaguchi Prefecture 750-0006, "KRY Yamaguchi Broadcasting Official Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.940534,33.95562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

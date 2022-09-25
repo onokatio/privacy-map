@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>愛媛県ライブカメラマップ / Ehime Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>愛媛県内ライブカメラ</name>
+      <Placemark>
+        <name>上島町ライブカメラ 積善山山頂・豊島 / Kamijima Town Live Camera - Mt. Sekizen and Toyoshima Island</name>
+        <description><![CDATA[〒794-2506 愛媛県越智郡上島町弓削下弓削２１０　上島町役場 / Kamijima Town Hall, 210 Yugeshimoyuge, Kamijima-cho, Ochi-gun, Ehime-ken 794-2506<br>https://livecamera.fujiyamasan.com/kamijima-sekizensan.html<br>https://livecamera.fujiyamasan.com/ehime-kamijima-toyoshima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2044917,34.2574665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千年松ライブカメラ</name>
+        <description>〒794-2116 愛媛県今治市吉海町名駒２５　千年松</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.022551,34.109621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>来島海峡海上交通センターライブカメラ / Kurushima Vessel Traffic Center Live Camera</name>
+        <description>〒794-0003 愛媛県今治市湊町２丁目５−１００ 来島海峡海上交通センター / Kurushima Kaikyo Vessel Traffic Service Center, 2-5-100 Minato-cho, Imabari-shi, Ehime-ken 794-0003 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9877319,34.0901454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉祥寺Webカメラ / Kichijoji webcam</name>
+        <description>〒799-0126 愛媛県四国中央市下川町４８７−１　吉祥寺 / Kichijoji, 487-1 Shimokawa-cho, Shikokuchuo-shi, Ehime 799-0126</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.654292,34.0049459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シーパＭＡＫＯＴＯオーシャンビュー / Seapa MAKOTO Ocean View</name>
+        <description>〒799-2431 愛媛県松山市北条１１８０ シーパＭＡＫＯＴＯ / Seapa MAKOTO, 1180 Hojo, Matsuyama-shi, Ehime-ken 799-2431</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.771492,33.977585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山観光港ライブカメラ / Matsuyama Kanko Port Live Camera</name>
+        <description><![CDATA[〒791-8081　松山市高浜町5丁目2259番地1 松山観光港ターミナル / Matsuyama Kanko Port Terminal, 5-2259-1 Takahama-cho, Matsuyama-shi, Ehime-ken 791-8081<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-kankoko-terminal.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.704244,33.88864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山市内ライブカメラ / Matsuyama City Live Camera</name>
+        <description>〒７９１－８０１１ 愛媛県松山市吉藤４丁目１番地３６号 松永通信 / Matsunaga tsuushin.inc, 4-1-36 Yoshifuji, Matsuyama-shi, Ehime-ken 791-8011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.757094,33.872803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道後温泉ライブカメラ / Dogo Onsen Live Camera</name>
+        <description>〒790-0836 松山市道後鷺谷町1-1 ホテル古湧園 / Hotel Kowakuen, 1-1 Dogosagidani-cho, Matsuyama-shi, Ehime-ken 790-0836</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.785611,33.852847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山の空生中継 / The Sky of Matsuyama Live Broadcast</name>
+        <description>愛媛県松山市 愛媛大学文京キャンパス 会計情報論研究室 / Ehime University Bunkyo Campus, Matsuyama City, Ehime</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.76866,33.850958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山城・松山市内ライブカメラ / Matsumoto-jo Castle and Matsumoto City Live Camera</name>
+        <description><![CDATA[〒790-8510 愛媛県松山市本町１丁目１−１　南海放送 / Nankai Broadcasting Co.,ltd., 1-1-1 Hon-machi, Matsuyama-shi, Ehime-ken 790-8510<br>https://livecamera.fujiyamasan.com/matsuyma-castle.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.758331,33.84086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秀峰堂ライブカメラ / Shuhodo Live Camera</name>
+        <description>〒790-0877 愛媛県松山市錦町２−１ 有限会社秀峰堂 / Shuho-do Co., Ltd., 2-1 Nishiki-cho, Matsuyama-shi, Ehime-ken 790-0877</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.776771,33.8374754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とべ動物園 / TOBE ZOOLOGICAL PARK OF EHIME PREF. </name>
+        <description>〒791-2191 愛媛県伊予郡砥部町上原町２４０ とべ動物園 / TOBE ZOOLOGICAL PARK OF EHIME PREF. , 240 Kamiharamachi, Tobe-cho, Iyo-gun, Ehime-ken 791-2191</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7919788,33.7643116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちご伊予中山町出渕ECO発電所 / Ichigo Iyo Nakayamacho Izubuchi ECO Power Plant</name>
+        <description><![CDATA[〒791-3204 愛媛県伊予市中山町出渕 いちご伊予中山町出渕ECO発電所 / Ichigo Iyo Nakayamacho Izubuchi ECO Power Plant, Izubuchi, Nakayama-cho, Iyo-shi, Ehime-ken 791-3204<br>https://livecamera.fujiyamasan.com/ehime-iyo-nakayama-ichigo-izubuchi-solar-power-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7103804,33.6405623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川あらし展望台公園ライブカメラ / Hijikawa Arashi Observatory Park Live Camera</name>
+        <description><![CDATA[〒799-3401 愛媛県大洲市長浜 肱川あらし展望台公園「大洲市役所」 / Hijikawa Arashi Observatory Park, Nagahama, Ozu-shi, Ehime-ken 799-3401, "Ozu City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.487028,33.611769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>冨須山（とみすやま）公園ライブカメラ / Tomisuyama Park Live Camera</name>
+        <description><![CDATA[〒795-0063 愛媛県大洲市田口 冨須山公園「大洲市役所」 / Tomisuyama Park, Taguchi, Ozu-shi, Ehime-ken 795-0063, "Ozu City Official Website"<br>https://livecamera.fujiyamasan.com/ehime-osu-tomisuyama-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.56066,33.5090977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田岬ライブカメラ / Sada Cape Live Camera</name>
+        <description><![CDATA[〒796-0611 愛媛県西宇和郡伊方町川之浜 佐田岬　「えひめの道ライブカメラ」/ Cape Sada, Kawanohama, Ikata-cho, Nishiuwa-gun, Ehime Prefecture 796-0611 "Ehime no Michi Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2169665,33.4332497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国カルストライブカメラ / Shikoku Karst Live Camera</name>
+        <description>〒785-0610 高知県高岡郡梼原町梼原１４４４−１　梼原町役場 / Yusuhara Town Hall, 1444-1 Yusuhara, Yusuhara-cho, Takaoka-gun, Kochi-ken 785-0610</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9269878,33.3922477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼北町定点カメラ</name>
+        <description>愛媛県北宇和郡鬼北町　「四国の宮坂家のホームページ」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6841037,33.2558573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇和島ライブカメラ / Uwajima Live Camera</name>
+        <description><![CDATA[〒798-0030 愛媛県宇和島市曙町１ 宇和島市役所 / Uwajima City Hall, 1 Akebono-cho, Uwajima-shi, Ehime-ken 798-0030<br>https://livecamera.fujiyamasan.com/ehime-uwajima-city-tv-ehime.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5604665,33.2233007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真珠養殖場ライブカメラ / Pearl Farm Live Camera</name>
+        <description>〒798-0102 愛媛県宇和島市三浦西５１２１−９ 有限会社土居真珠 / Doi Pearl Co., Ltd., 5121-9 Miuranishi, Uwajima-shi, Ehime-ken 798-0102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5059536,33.1707853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道20号湯山北条線JRアンダー東側ライブカメラ / Prefectural Road No. 20 Yuyama Hojo Line JR Under East Live Camera</name>
+        <description><![CDATA[愛媛県松山市粟井河原 「愛媛県庁」/ Awaikawara, Matsuyama City, Ehime Prefecture "Ehime Prefectural Office"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-awaikawara-r20-jr-under-east.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7701702,33.9363418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道440号三坂峠ライブカメラ / National highway No. 440 Misaka Pass live camera</name>
+        <description><![CDATA[〒791-1132 愛媛県松山市久谷町 三坂峠 「愛媛県庁」/ Misaka Pass, Kutanimachi, Matsuyama City, Ehime Prefecture 791-1132, "Ehime Prefectural Office"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-kutani-r440-misaka-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8606376,33.707714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川左岸10.6K河原排水樋管ライブカメラ / Shigenobu River 10.6K river drainage gutter pipe live camera</name>
+        <description><![CDATA[愛媛県松山市南高井町 「国土交通省河川情報センター」/ Minamitakaimachi, Matsuyama City, Ehime Prefecture, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-minamitakai-shigenobu-river-l-10_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8057346,33.7845437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸2.6K東垣生ライブカメラ / Shigenobugawa Right Bank 2.6K Higashihabu live camera</name>
+        <description><![CDATA[愛媛県松山市東垣生町「国土交通省川の防災情報」/ Higashihabumachi, Matsuyama City, Ehime Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-shigenobu-river-r-2_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7191379,33.8098067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川左岸11.5K中野霞堤ライブカメラ / Shigenobu River Left Bank 11.5K Nakano Kasumi Tsutsumi Live Camera</name>
+        <description><![CDATA[愛媛県松山市大橋町 「川の防災情報CCTVカメラ」/ Ohashimachi, Matsuyama City, Ehime Prefecture, "River disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-shigenobu-river-l-11_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.815917,33.783656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸6.2K古川霞堤ライブカメラ / Shigenobu River Right Bank 6.2K Furukawa Kasumi Embankment Live Camera</name>
+        <description><![CDATA[愛媛県松山市古川南「川の防災情報CCTVカメラ」/ Furukawaminami, Matsuyama City, Ehime Prefecture "River disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-shigenobu-river-r-6_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7616058,33.8023639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石手川左岸1.7KJR予讃線鉄橋上流ライブカメラ / Ishite River 1.7K JR Yosan Line Railway Bridge Upstream Live Camera</name>
+        <description><![CDATA[愛媛県松山市市坪北「国土交通省川の防災情報」/ Ichitsubokita, Matsuyama City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-ichitsubokita-ishite-river-l-1_7k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7500209,33.8136435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石手川左岸0.3K市坪霞堤ライブカメラ / Ishite River Left Bank 0.3K Ichitsubo Kasumitei Live Camera</name>
+        <description><![CDATA[愛媛県松山市市坪西町「国土交通省川の防災情報」/ Ichitsubo Nishimachi, Matsuyama City, Ehime Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-ichitsubonishi-ishite-river-l-0_3k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7376162,33.8077675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸9.0K重信川出張所ライブカメラ / Shigenobu River Right Bank 9.0K Shigenobu River Branch Office Live Camera</name>
+        <description><![CDATA[〒791-1113 愛媛県松山市森松町４５４−４７ 国土交通省四国地方整備局松山河川国道事務所 重信川出張所「川の防災情報CCTVカメラ」/ Ministry of Land, Infrastructure, Transport and Tourism Shikokuchi Regional Development Bureau Matsuyama River National Highway Office Shigenobu River Branch Office, 454-47 Morimatsumachi, Matsuyama City, Ehime Prefecture, 791-1113, "River disaster prevention information CCTV camera"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-shigenobu-river-r-9_0k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.788223,33.788355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道後温泉本館正面ライブカメラ / Dogo Onsen Main Building Front Live Camera</name>
+        <description><![CDATA[〒790-0842 愛媛県松山市道後湯之町５−６ 道後温泉本館 「ポニーキャニオン」/ Dogo Onsen Main Building, 5-6 Dogoyunomachi, Matsuyama City, Ehime Prefecture 790-0842, "Pony Canyon"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7864296,33.8520076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道33号97.3Kつづら跨道橋ライブカメラ / National highway No. 33 97.3K Tsuzura overpass live camera </name>
+        <description><![CDATA[〒791-1132 愛媛県松山市久谷町 「四国地方整備局」/ Kutanimachi, Matsuyama City, Ehime Prefecture 791-1132, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-r33-97_3k-tsuzura-overpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8394161,33.7122043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石手川湯渡ライブカメラ / Ishitegawa Yuwatari Live Camera</name>
+        <description><![CDATA[〒790-0905 愛媛県松山市樽味１丁目８ 「愛媛県河川砂防情報システム」/ 1-8 Tarumi, Matsuyama City, Ehime Prefecture 790-0905<br>"Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-tarumi-ishite-river-yuwatari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7917824,33.8420001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道317号水ヶ峠トンネル松山市側ライブカメラ / National highway 317 Mizuga Pass tunnel Matsuyama city side live camera</name>
+        <description><![CDATA[愛媛県松山市米野町 水ケ峠トンネル「愛媛県河川砂防情報システム」/ Mizuga Pass Tunnel, Komenomachi, Matsuyama City, Ehime Prefecture, "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-r317-mizugataketoge-tunnel-matsuyama-side.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8985345,33.93071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山自動車道伊予インターチェンジ～内子五十崎インターチェンジライブカメラ / Matsuyama Expressway Iyo Interchange-Uchiko Ikasaki Interchange Live Camera</name>
+        <description><![CDATA[愛媛県伊予市三秋「NEXCO西日本」/ Miaki, Iyo City, Ehime Prefecture "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-iyo-miaki-matsuyama-expressway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6831652,33.7149005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道56号犬寄峠東峰トンネル起点ライブカメラ / National highway No. 56 Inuyori Pass Higashimine tunnel starting point live camera</name>
+        <description><![CDATA[〒799-3202 愛媛県伊予市双海町上灘 東峰トンネル 「四国地方整備局」/ Higashimine Tunnel,    Kaminada Futami-cho, Iyo-shi, Ehime 799-3202,  "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-iyo-futami-r56-higashimine-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6974634,33.6846948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道494号河之内ライブカメラ / National highway No. 494 Kawanouchi live camera</name>
+        <description><![CDATA[愛媛県東温市河之内 「えひめの道ライブカメラ」/ Kawanouchi, Toon City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-toon-kawanouchi-r494.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9698078,33.7721504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸15.4K東温市四号床止ライブカメラ / Shigenobu River Right Bank 15.4K Toon City No. 4 Tokodome Live Camera</name>
+        <description><![CDATA[愛媛県東温市田窪 「国土交通省川の防災情報」/ Tanokubo, Toon City, Ehime Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-toon-tanokubo-shigenobu-river-r-15_4k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8622021,33.7837475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川左岸16.9K上重信橋ライブカメラ / Shigenobu River Left Bank 16.9K Kamishigenobu Bridge Live Camera</name>
+        <description><![CDATA[愛媛県東温市下林 「国土交通省川の防災情報」/ Shimohayashi, Toon City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-toon-shigenobu-river-l-16_9k-kamishigenobu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8776921,33.784608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸12.8K南野田ライブカメラ / Shigenobu River Right Bank 12.8K  Minaminoda Live Camera</name>
+        <description><![CDATA[愛媛県東温市南野田 「国土交通省川の防災情報」 / Minaminoda, Toon City, Ehime Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-toon-minaminoda-shigenobu-river-r-12_8k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8319798,33.7859046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根無谷川根無谷ライブカメラ / Nemaya River Nenaya Live Camera</name>
+        <description><![CDATA[〒791-0315 愛媛県東温市井内 「四国山地砂防事務所」/  Iuchi, Toon City, Ehime Prefecture 791-0315, "Shikoku Mountains Sabo Office"<br>https://livecamera.fujiyamasan.com/ehime-toon-iuchi-nenashidani-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9368321,33.7526004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川重信川砂防出張所ライブカメラ / Shigenobu River Shigenobu River Sabo Branch Office Live Camera</name>
+        <description><![CDATA[〒791-0203 愛媛県東温市横河原 国土交通省 重信川砂防出張所 「四国山地砂防事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Shigenobu River Sabo Branch Office,   Yokogawara, Toon City, Ehime Prefecture 791-0203, "Shikoku Mountains Sabo Office"<br>https://livecamera.fujiyamasan.com/ehime-toon-yokogawara-shigenobu-river-sabo-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8882777,33.8043444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道380号真弓トンネル久万高原町側ライブカメラ / National highway No. 380 Mayumi tunnel Kumakogen town side live camera</name>
+        <description><![CDATA[愛媛県久万高原町父野川「えひめの道ライブカメラ」/ Chichinokawa, Kumakogen Town, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-r380-mayumi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8502368,33.6029722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道12号西条久万線峠御堂隧道久万高原町側ライブカメラ / Ehime Prefectural Road No. 12 Saijo Kuma Line Pass Mido Tunnel Kumakogen Town Side Live Camera</name>
+        <description><![CDATA[愛媛県上浮穴郡久万高原町「えひめの道ライブカメラ」/ Kumakogen Town, Kamiukena District, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-sugo-r12.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9118363,33.6675062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道440号地芳トンネル久万高原町側ライブカメラ / National highway No. 440 Jiyoshi tunnel Kumakogen town side live camera</name>
+        <description><![CDATA[愛媛県久万高原町西谷「えひめの道ライブカメラ」/ Nishidani, Kumakogen Town, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-r440-jiyoshi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9433298,33.4846801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石鎚スカイライン長尾根展望台ライブカメラ / Ishizuchi Skyline Nagaone Observatory Live Camera</name>
+        <description><![CDATA[〒791-1710 愛媛県上浮穴郡久万高原町若山 長尾尾根展望台 「石鎚山系連携事業協議会」/  Nagaone Observatory,  Wakayama, Kumakogen Town, Kamiukena District, Ehime Prefecture, 791-1710, "Ishizuchi Mountains Cooperation Business Council"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-ishizuchi-skyline-nagaone-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1272612,33.7428473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道33号久万高原の家モデルハウス / Nationala Route 33 Kumakogen House Model House</name>
+        <description><![CDATA[〒791-1202 愛媛県上浮穴郡久万高原町入野１８２９−１ 「久万材の家づくり推進協議会」/ 1829-1 Irino, Kumakogen Town, Kamiukena District, Ehime Prefecture 791-1202, <br>"Kuma material house building promotion council"https://livecamera.fujiyamasan.com/ehime-kumakogen-irino-r33.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8982834,33.6619774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久万スキーランドゲレンデライブカメラ / Kuma Ski Land slope live camera</name>
+        <description><![CDATA[〒791-1204 愛媛県上浮穴郡久万高原町東明神乙７５４ ６０ 久万スキーランド /Kuma Ski Land, 75460 Higashimyojin Otsu, Kumakogen Town, Kamiukena District, Ehime Prefecture 791-1204 <br>https://livecamera.fujiyamasan.com/ehime-kumakogen-kuma-ski-land.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.874481,33.718494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白石ロッジ石鎚山瓶ヶ森ライブカメラ / Shiraishi Lodge Ishizuchisan Kamegamori Live Camera</name>
+        <description><![CDATA[〒791-1710 愛媛県上浮穴郡久万高原町若山２１−１５８１ 白石ロッジ / 21-1581 Wakayama, Kumakogen Town, Kamiukena District, Ehime Prefecture 791-1710 Shiraishi Lodge<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-shiraishi-lodge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1478607,33.7548095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道33号70.5K美川日野浦ライブカメラ /National Route 33 70.5K Mikawa Hinoura Live Camera </name>
+        <description><![CDATA[愛媛県上浮穴郡久万高原町日野浦 「四国地方整備局」/ Hinoura, Kumakogen Town, Kamiukena District, Ehime Prefecture "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-hinoura-r33-70_5k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9757465,33.5806577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道33号65.5K柳谷磯ガ成龍宮大橋ライブカメラ / National highway No. 33 65.5K Yanagiya Isogasei live camera </name>
+        <description><![CDATA[愛媛県上浮穴郡久万高原町柳井川「四国地方整備局」/ Yanaigawa, Kumakogen Town, Kamiukena District, Ehime Prefecture, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-yanaigawa-r33-ryuguohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.008694,33.5433891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川松前町大新田床止ライブカメラ / Shigenobu River Masaki Town Ohshinden Tokodome Live Camera</name>
+        <description><![CDATA[〒791-3131 愛媛県伊予郡松前町北川原 「国土交通省川の防災情報」/ Kitagawara, Masaki-cho, Iyo-gun, Ehime Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-masaki-kitagawara-shigenobu-river-l-1_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7084748,33.80527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川左岸6.0K中川原橋ライブカメラ / Shigenobu River Left Bank 6.0K Nakagawara Bridge Live Camera</name>
+        <description><![CDATA[愛媛県伊予郡松前町大字中川原 「国土交通省川の防災情報」/ Nakagawara, Oaza, Masaki-cho, Iyo-gun, Ehime Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-masaki-nakagawara-shigenobu-river-l-6_0k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7575498,33.8016055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川左岸10.0K広瀬霞堤ライブカメラ / Shigenobu River Left Bank 10.0K Hirose Kasumi Embankment Live Camera</name>
+        <description><![CDATA[愛媛県伊予郡砥部町高尾田「国土交通省川の防災情報」/ Takooda, Tobe-cho, Iyo-gun, Ehime Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7985264,33.7847527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道379号玉谷ライブカメラ / National highway 379 Tamatani live camera</name>
+        <description><![CDATA[愛媛県伊予郡砥部町玉谷 「えひめの道ライブカメラ」/ Tamatani, Tobe-cho, Iyo-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-tobe-tamatani-r379.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8020606,33.6825306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒼社川片山ライブカメラ / Soja River Katayama Live Camera</name>
+        <description><![CDATA[〒794-0063 愛媛県今治市片山 「愛媛県河川・砂防情報システム」/ 〒794-0063 Katayama, Imabari City, Ehime Prefecture, "Ehime Prefecture River / Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-iabari-katayama-soja-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9793932,34.0542475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道317号水ヶ峠トンネル今治市側ライブカメラ / National Route 317 Mizuga Pass Tunnel Imabari City Side Live Camera</name>
+        <description><![CDATA[愛媛県今治市玉川町「えひめの道ライブカメラ」/ Tamagawa Town, Imabari City, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-imabari-r317-mizuga-pass-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.91098,33.9535944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道11号新居浜角野線JRアンダー北側ライブカメラ / Ehime Prefectural Road No. 11 Araihama Kakuno Line JR Under North Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市坂井町1丁目「えひめの道ライブカメラ」/ 1-chome, Sakai-cho, Niihama-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-niihama-sakai-r11-jr-under-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2907953,33.9460738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道11号新居浜角野線JRアンダー南側ライブカメラ / Ehime Prefectural Road No. 11 Araihama Kakuno Line JR Under South Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市松木町「えひめの道ライブカメラ」/ Matsugicho, Niihama City, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-niihama-matsugi-r11-jr-under-south.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2920981,33.9434374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道13号壬生川新居浜野田線一宮ライブカメラ / Ehime Prefectural Road No. 13 Mibugawa Araihama Noda Line Ichinomiya Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市一宮町2丁目 「えひめの道ライブカメラ」/ 2-chome, Ikkucho, Niihama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-niihama-ikkucho-r13.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2763436,33.9594761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>落神川松神子橋上流ライブカメラ / Ochigamigawa Matsumiko Bridge upstream live camera</name>
+        <description><![CDATA[〒792-0881 愛媛県新居浜市松神子 「新居浜市役所」/  Matsumiko, Niihama City, Ehime Prefecture 792-0881, "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-ochigami-river-matsumiko-bridge-upsteram.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.32343,33.9750837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>客谷川客谷橋ライブカメラ / Kyakutanigawa River Kyakutani Bridge Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市船木 「新居浜市役所」/ Funaki, Niihama City, Ehime Prefecture "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-funaki-kyakutani-river-kyakutani-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3403896,33.9305914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>王子川旧新居浜市立若宮小学校ライブカメラ / Ojikawa Former Niihama City Wakamiya Elementary School Live Camera</name>
+        <description><![CDATA[〒792-0003 愛媛県新居浜市新田町１丁目８−５６ 「	新居浜市役所」/ 1-8-56 Shindencho, Niihama City, Ehime Prefecture 792-0003 "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-shinden-oji-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2644469,33.9579316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尻無川田所小橋ライブカメラ / Shirinashigawa Tadokoro Kobashi Live Camera</name>
+        <description><![CDATA[〒792-0802 愛媛県新居浜市新須賀町１丁目 「新居浜市役所」/ 1-chome, Shinsuka-cho, Niihama-shi, Ehime 792-0802, "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-shirinashi-river-tadokorokobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2878031,33.9651304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川新居浜商工会議所ライブカメラ / Higashikawa Niihama Chamber of Commerce Live Camera </name>
+        <description><![CDATA[〒792-0025 愛媛県新居浜市一宮町２丁目４−８ 新居浜商工会議所 「新居浜市役所」/ Niihama Chamber of Commerce and Industry, 2-4-8 Ikkucho, Niihama City, Ehime Prefecture 792-0025,  "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-ikkucho-higashikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.275235,33.958487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川金栄橋ライブカメラ / Higashikawa Kinei Bridge Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市久保田町２丁目「新居浜市役所」/ 2-chome, Kubota-cho, Niihama City, Ehime Prefecture "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-kubota-higashigawa-kinei-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2815381,33.9532088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国領川城下橋ライブカメラ / Kokuryo River Shiroshita Bridge Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市郷「新居浜市役所」/ Go, Niihama City Hall, Ehime Prefecture "Niihama City Hall"<br> https://livecamera.fujiyamasan.com/ehime-niihama-kokuryo-river-shiroshita-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3018734,33.9559024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渦井川川口橋ライブカメラ / Uzui River Kawaguchi Bridge Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市大生院「新居浜市役所」/ Ojoin, Niihama City, Ehime Prefecture "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-uzui-river-kawaguchi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2609346,33.8962953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿島川向川橋ライブカメラ / Ashima River Mukaigawabashi Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市阿島2丁目12「新居浜市役所」/ 2-12 Ashima, Niihama City, Ehime Prefecture "Niihama City Hall"<br>https://livecamera.fujiyamasan.com/ehime-niihama-ashima-river-mukaigawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3573082,33.9726813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道47号新居浜別子山線大永山ライブカメラ / Ehime Prefectural Road No. 47 Araihama Beshikoyama Line Daieiyama Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市大永山 「えひめの道ライブカメラ」/ Daieiyama, Niihama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-niihama-daieiyama-r47.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3063705,33.8489247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>生子山(煙突山)ライブカメラ / Uukoyama (Entotsuyama) Live Camera</name>
+        <description><![CDATA[〒792-0846 愛媛県新居浜市立川町  / Tatsukawa-cho, Niihama City, Ehime Prefecture 792-0846<br>https://livecamera.fujiyamasan.com/ehime-niihama-tatsukawa-shojiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3099606,33.9203904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道141号西条港線JRアンダー北側ライブカメラ / Ehime Prefectural Road 141 Saijo Port Line JR Under North Live Camera</name>
+        <description><![CDATA[愛媛県西条市神拝甲「えひめの道ライブカメラ」/ Kanbaiko, Saijo City, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-saijo-r141-jr-under-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1819393,33.9095167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道141号西条港線JRアンダー南側ライブカメラ / Ehime Prefectural Road 141 Saijo Port Line JR Under South Live Camera</name>
+        <description><![CDATA[愛媛県西条市大町「えひめの道ライブカメラ」/ Omachi, Saijo City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-saijo-r141-jr-under-south.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1839431,33.9082597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道12号西条久万線西之川ライブカメラ / Ehime Prefectural Road No. 12 Saijo Kuma Line Nishinokawa Live Camera</name>
+        <description><![CDATA[〒793-0215 愛媛県西条市西之川「えひめの道ライブカメラ」/ Nishinokawa, Saijo City, Ehime Prefecture 793-0215, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-saijo-nishinokawa-r12.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1456475,33.785535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道194号寒風山トンネル西条市側ライブカメラ / National highway No. 194 Kanpuzan tunnel Saijo city side live camera</name>
+        <description><![CDATA[愛媛県西条市藤之石己 寒風山トンネル 「えひめの道ライブカメラ」/ Kanpuzan Tunnel,  Fujinoishi, Saijo City, Ehime Prefecture,  <br> "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-saijo-r194-kanpuzan-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2325687,33.8126247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石鎚登山ロープウェイ山頂成就駅瓶ヶ森方面ライブカメラ / Ishizuchi Tozan Ropeway Joju Station Kamegamori Live Camera</name>
+        <description><![CDATA[〒793-0215 愛媛県西条市西之川丁 「石鎚山系連携事業協議会」/ Nishinokawa, Saijo City, Ehime Prefecture, "Ishizuchi Mountains Cooperation Business Council"<br>https://livecamera.fujiyamasan.com/ehime-saijo-ishizuchitozan-ropeway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1335737,33.7951305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石鎚神社成就社石鎚山ライブカメラ / Ishizuchi Shrine Jojusha Ishizuchiyama Live Camera </name>
+        <description><![CDATA[〒799-1112 愛媛県西条市小松町石鎚４１７ 「石鎚山系連携事業協議会」/ 417 Ishizuchi, Komatsu-cho, Saijo-shi, Ehime 799-1112<br>"Ishizuchi Mountains Cooperation Business Council"<br>https://livecamera.fujiyamasan.com/ehime-saijo-ishizuchi-shrine-jojusha-ishizuchisan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1288757,33.7903841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中山川田野上方ライブカメラ / Nakayama River Tano Upper Live Camera</name>
+        <description><![CDATA[〒799-1106 愛媛県西条市小松町大頭１１７３−１ 「愛媛県河川・砂防情報システム」/ 1173-1 Komatsucho Oto, Saijo City, Ehime Prefecture 799-1106 "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-saijo-komatsu-nakayama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0714462,33.8867417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂川長瀬ライブカメラ / Kamogawa Nagase Live Camera</name>
+        <description><![CDATA[愛媛県西条市黒瀬乙815-10「愛媛県河川・砂防情報システム」/ 815-10 Kurose Otsu, Saijo City, Ehime Prefecture "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-saijo-kurose-kamo-river-nagase.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1750798,33.8812313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道11号桜三里ライブカメラ / National highway No. 11 Sakura Sanri live camera</name>
+        <description><![CDATA[〒791-0538 愛媛県西条市丹原町千原 「四国地方整備局」/ Chihara, Tanbara-cho, Saijo-shi, Ehime 791-0538 "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-r11-sakurasanri.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9927622,33.8220012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道13号壬生川新居浜野田線JRアンダー南側ライブカメラ / Ehime Prefectural Road No. 13 Nyugawa Niihama Noda Line JR Under South Live Camera</name>
+        <description><![CDATA[〒799-0435 愛媛県四国中央市豊岡町長田 「えひめの道ライブカメラ」/ Osada, Toyooka-cho, Shikokuchuo-shi, Ehime 799-0435<br>"Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-toyooka-r13-jr-under-south.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4765172,33.9657735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道13号壬生川新居浜野田線JRアンダー北側ライブカメラ / Ehime Prefectural Road No. 13 Nyugawa  Niihama Noda Line JR Under North Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市豊岡町長田「えひめの道ライブカメラ」/ Osada, Toyooka-cho, Shikokuchuo-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-toyooka-r13-jr-under-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4749684,33.9712021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道6号高知伊予三島線富郷町津根山ライブカメラ / Ehime Prefectural Road No. 6 Kochi Iyo Mishima Line Tomisatocho Tsuneyama Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市富郷町津根山「えひめの道ライブカメラ」/ Tsuneyama, Tomisato-cho, Shikokuchuo City, Ehime Prefecture<br>"Ehime no Michi Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4581918,33.8667754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道319号法皇トンネル金砂町平野山側ライブカメラ / National highway No. 319 Hoou tunnel Kinshacho Hiranoyama side live camera</name>
+        <description><![CDATA[愛媛県四国中央市金砂町平野山「えひめの道ライブカメラ」/ Hiranoyama, Kinshacho, Shikokuchuo City, Ehime Prefecture<br>"Ehime no Michi Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5304963,33.9355919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道319号堀切トンネルライブカメラ / National Route 319 Horikiri Tunnel Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市金田町半田 堀切トンネル「えひめの道ライブカメラ」/ Horikiri tunnel, Handa, Kanada-cho, Shikokuchuo City, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-r319-horikiri-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6230912,33.9643225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>影井堰下流ライブカメラ / Kagei dam downstream live camera</name>
+        <description><![CDATA[愛媛県四国中央市新宮町新宮影井「池田総合管理所」/ Shingu Kagei, Shingu Town, Shikokuchuo City, Ehime Prefecture, "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-shingu-kagei-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6379873,33.9513619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛川法皇湖合流点ライブカメラ / Kuzukawa Hoo Lake Confluence Live Camera</name>
+        <description><![CDATA[〒799-0645 愛媛県四国中央市富郷町津根山 「池田総合管理所」/ Tsuneyama, Tomisato-cho, Shikokuchuo City, Ehime Prefecture 799-0645, "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-kuzukawa-hooko-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.47411,33.8784973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銅山川馬立川合流点ライブカメラ / Dozan River Umatate River Confluence Live Camera</name>
+        <description><![CDATA[〒799-0303 愛媛県四国中央市新宮町新宮「池田総合管理所」/ Shingu, Shingu-cho, Shikokuchuo-shi, Ehime 799-0303, "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-dozan-umatate-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6351321,33.9456718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銅山川吉之瀬橋ライブカメラ / Dozan River Yoshinosebashi Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市新宮町上山「池田総合管理所」/ Kamiyama, Shingucho, Shikokuchuo City, Ehime Prefecture, "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-dozan-river-yoshinose-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6701129,33.9581409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銅山川神子屋敷橋ライブカメラ / Dozan River Miko Yashikibashi Live Camera</name>
+        <description><![CDATA[〒799-0303 愛媛県四国中央市新宮町新宮「池田総合管理所」/ Shingu, Shingu-cho, Shikokuchuo-shi, Ehime 799-0303, "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-dozan-river-mikoyashikihashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6316235,33.9558253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宮ダム上流・下流ライブカメラ / Shingu Dam upstream and downstream live camera</name>
+        <description><![CDATA[〒799-0301 愛媛県四国中央市新宮町馬立１１４４ 新宮ダム管理所「池田総合管理所」/ Shingu Dam Management Office, 1144 Umatate, Shingu-cho, Shikokuchuo-shi, Ehime 799-0301,  "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-shingu-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.62454,33.956999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銅山川富郷キャンプ場ライブカメラ / Dozan River Tomisato Campsite Live Camera</name>
+        <description><![CDATA[〒799-0645 愛媛県四国中央市富郷町津根山２−２ 富郷キャンプ場「池田総合管理所」/ 2-2 Tsuneyama, Tomisato-cho, Shikokuchuo-shi, Ehime 799-0645 Tomisato Campsite "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-dozan-river-tomisato-camp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.485289,33.9018295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富郷ダムライブカメラ / Tomisato Dam Live Camera</name>
+        <description><![CDATA[〒799-0645 愛媛県四国中央市富郷町津根山３５３−６ 富郷ダム管理所「池田総合管理所」/ Tomisato Dam Management Office, 353-6 Tsuneyama, Tomisato-cho, Shikokuchuo-shi, Ehime 799-0645"Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-tomisato-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4786702,33.8842437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銅山川猿田川合流点ライブカメラ / Dozan River Saruta River Confluence Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市富郷町寒川山「池田総合管理所」/ Sangawayama, Tomisato-cho, Shikokuchuo-shi, Ehime "Ikeda General Management Office"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-dozan-saruta-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5006644,33.9063285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高知自動車道笹ヶ峰トンネル付近ライブカメラ / Kochi Expressway Sasagamine Tunnel Live Camera</name>
+        <description><![CDATA[愛媛県四国中央市新宮町馬立 「NEXCO西日本」/ Umatate, Shingucho, Shikokuchuo City, Ehime Prefecture, "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-kochi-expressway-sasagamine-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6323296,33.8991741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高知自動車道新宮インターチェンジ付近ライブカメラ / Kochi Expressway Shingu Interchange Live Camera</name>
+        <description><![CDATA[〒799-0301 愛媛県四国中央市新宮町馬立 新宮IC 「NEXCO西日本」/ Shingu IC, Shingucho Umatate, Shikokuchuo City, Ehime Prefecture 799-0301, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6397399,33.9242144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関川天王橋ライブカメラ / Sekikawa Tennobashi Live Camera</name>
+        <description><![CDATA[〒799-0711 愛媛県四国中央市土居町土居 「愛媛県河川・砂防情報システム」/ Doi, Doi-cho, Shikokuchuo-shi, Ehime 799-0711, "Ehime Prefecture River / Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-doi-sekikawa-tennobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.4235324,33.961855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金生川上金沢橋ライブカメラ / Kinsei River Kanazawa Bridge Live Camera</name>
+        <description><![CDATA[〒799-0123 愛媛県四国中央市金田町金川「愛媛県河川・砂防情報システム」/ Kanagawa, Kanada-cho, Shikokuchuo-shi, Ehime 799-0123 "Ehime Prefecture River / Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-kinsei-river-kamikanazawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.5967268,33.9761914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道57号広見三間宇和島線三間町務田ライブカメラ / Ehime Prefectural Road No. 57 Hiromi Mima Uwashima Line Mimacho Muden Live Camera</name>
+        <description><![CDATA[愛媛県宇和島市三間町務田 「えひめの道ライブカメラ」/ Mimacho Muden, Uwajima City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-mima-r57.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5924191,33.2787949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須賀川和霊ライブカメラ / Sukagawa Kazurei Live Camera</name>
+        <description><![CDATA[〒798-0016 愛媛県宇和島市和霊中町３丁目 「愛媛県河川・砂防情報システム」/  3-chome, Warei Nakamachi, Uwajima City, Ehime Prefecture 798-0016, "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-wareinakamachi-sukagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5702611,33.2318042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日振島日崎海水浴場ライブカメラ / Hiburi Island Hizaki Beach Live Camera</name>
+        <description><![CDATA[〒798-0099 愛媛県宇和島市日振島 日崎海水浴場 「宇和島市役所」/ Hizaki beach, Hiburijima, Uwajima City, Ehime Prefecture 798-0099,  "Uwajima City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.2936035,33.1739851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉島漁港ライブカメラ / Kashima fishing port live camera</name>
+        <description><![CDATA[愛媛県宇和島市戸島「宇和島市役所」/ Tojima, Uwajima City, Ehime Prefecture "Uwajima City Hall"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-tojima-kashima-fishing-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3623569,33.1987963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蒋淵ライブカメラ / Komobuchi Live Camera</name>
+        <description><![CDATA[〒798-0211 愛媛県宇和島市蒋淵「宇和島市役所」/ Komobuchi, Uwajima City, Ehime Prefecture 798-0211, "Uwajima City Hall"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-komobuchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4012132,33.1930586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中山池自然公園ライブカメラ / Nakayamaike Nature Park Live Camera</name>
+        <description><![CDATA[〒798-1116 愛媛県宇和島市三間町黒井地１５４２ 中山池自然公園「宇和島市役所」/ Nakayamaike Nature Park, 1542 Kuroiji, Mima-cho, Uwajima-shi, Ehime 798-1116  "Uwajima City Hall"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-mima-nakayamaike-nature-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.597119,33.3083897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道56号法華津トンネル起点ライブカメラ / Live camera starting from National Route 56 Hoketsu Tunnel</name>
+        <description><![CDATA[愛媛県宇和島市吉田町法花津 「四国地方整備局」/ Hokezu, Yoshida-cho, Uwajima City, Ehime Prefecture, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-uajiima-yoshida-r56-hokezu-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5248501,33.3324768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道26号八幡浜三瓶線横平トンネル布喜川側ライブカメラ / Ehime Prefectural Road No. 26 Hachimanhama Sanbin Line Yokohira Tunnel Fukinokawa side live camera</name>
+        <description><![CDATA[愛媛県八幡浜市布喜川 「えひめの道ライブカメラ」/ Fukinokawa, Yawatahama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-yawatahama-fukinokawa-r26-yokohira-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4370268,33.422638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号大峠トンネル八幡浜市側ライブカメラ / National highway No. 197 Otoge tunnel Yawatahama city side live camera</name>
+        <description><![CDATA[愛媛県八幡浜市保内町宮内 「えひめの道ライブカメラ」/ Miyauchi, Honai-cho, Yawatahama-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-yawatahama-r197-otoge-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3866028,33.4897335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号名坂トンネル大平側ライブカメラ / National highway No. 197 Nasaka tunnel Ohira side live camera</name>
+        <description><![CDATA[愛媛県八幡浜市大平  「えひめの道ライブカメラ」/ Ohira, Yawatahama City, Ehime Prefecture "Ehime no Michi Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4230093,33.4704549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道378号保内町磯崎ライブカメラ / National Route 378 Honaicho Isaki Live Camera</name>
+        <description><![CDATA[愛媛県八幡浜市保内町磯崎 「えひめの道ライブカメラ」/ Isaki, Honai-cho, Yawatahama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-yawatahama-honai-isaki-r378.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4044621,33.5383909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千丈川八幡浜ライブカメラ / Senjo River Yawatahama Live Camera</name>
+        <description><![CDATA[〒796-0031 愛媛県八幡浜市江戸岡 「愛媛県河川・砂防情報システム」/ Edooka, Yawatahama City, Ehime Prefecture 796-0031 "River and Sabo Information System, Ehime Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4346979,33.4579148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道25号八幡浜宇和線笠置トンネル八幡浜市側ライブカメラ / Ehime Prefectural Road No. 25 Yawatahama Uwa Line Kasagi Tunnel Yawatahama City Side Live Camera</name>
+        <description><![CDATA[愛媛県八幡浜市釜倉「えひめの道ライブカメラ」/ Kamanokura, Yawatahama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-yawatahama-r25-kasagi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4661926,33.409565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号夜昼トンネル八幡浜市側ライブカメラ / National highway No. 197 Yoruhiru tunnel Yawatahama city side live camera</name>
+        <description><![CDATA[愛媛県八幡浜市川之内「えひめの道ライブカメラ」/ Kawanouchi, Yawatahama City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-yawatahama-r197-yoruhiru-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4839819,33.4661142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号肱東中学校付近ライブカメラ / National highway No. 197 Hato Junior High School live camera</name>
+        <description><![CDATA[愛媛県大洲市菅田町菅田「えひめの道ライブカメラ」/ Sugeta, Sugeta-cho, Ozu-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-sugeta-r197-koto-junior-high-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.58495,33.5106913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道441号白髭トンネル大洲市側ライブカメラ / National Route 441 Shirahige Tunnel Ozu City Side Live Camera</name>
+        <description><![CDATA[愛媛県大洲市梅川「えひめの道ライブカメラ」/ Umegawa, Ozu City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-umegawa-r441-shirahige-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5663125,33.453255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道234号大洲保内線西大洲ライブカメラ / Ehime Prefectural Road No. 234 Ozu Honai Line Nishiozu Live Camera</name>
+        <description><![CDATA[愛媛県大洲市西大洲「えひめの道ライブカメラ」/ Nishiozu, Ozu City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-nishiozu-r234.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5299896,33.5052556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道43号長浜中村線多田ライブカメラ / Ehime Prefectural Road No. 43 Nagahama Nakamura Line Tada Live Camera</name>
+        <description><![CDATA[愛媛県大洲市多田「えひめの道ライブカメラ」/ Tada, Ozu City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-tada-r43.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5491354,33.5490592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道24号大洲長浜線春賀ライブカメラ / Ehime Prefectural Road No. 24 Ozu Nagahama Line Haruka Live Camera</name>
+        <description><![CDATA[愛媛県大洲市春賀「えひめの道ライブカメラ」/ Haruka, Ozu City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-haruka-r24.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.546555,33.5585413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号菅田小学校ライブカメラ / National highway No. 197 Sugeta Elementary School live camera</name>
+        <description><![CDATA[愛媛県大洲市菅田町菅田「えひめの道ライブカメラ」/ Sugeta, Sugeta-cho, Ozu-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-sugeta-r197-sugeta-elementary-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5928246,33.5096825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号鹿野川大橋ライブカメラ / National highway No. 197 Kanogawa Ohashi live camera </name>
+        <description><![CDATA[愛媛県大洲市肱川町宇和川「えひめの道ライブカメラ」/ Uwagawa, Hijikawa-cho, Ozu-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r197-kanogawaohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.680142,33.454039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢落川右岸3.6KP新谷ライブカメラ / Yaochi River Niiya Live Camera</name>
+        <description><![CDATA[愛媛県大洲市新谷甲 「国土交通省川の防災情報」/ Niiya Ko, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-niiya-yaochi-river-r-3_6k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6044034,33.5346942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国地方整備局 肱川CCTV のライブ ストリーム / Live stream of Hijikawa CCTV, Shikoku Regional Development Bureau</name>
+        <description><![CDATA[〒797-1504 愛媛県大洲市肱川町山鳥坂２８０ 国土交通省 鹿野川ダム管理支所 「四国地方整備局」/ 280 Yamatorazaka, Hijikawa-cho, Ozu-shi, Ehime 797-1504<br>Kanogawa Dam Management Branch, Ministry of Land, Infrastructure, Transport and Tourism<br>"Shikoku Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6859029,33.450884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川大洲市肱南浄化センターライブカメラ / Hijikawa Ozu City Hijikawa Purification Center Live Camera</name>
+        <description><![CDATA[〒795-0025 愛媛県大洲市阿蔵 甲1567 大洲市肱南浄化センター 「国土交通省川の防災情報」/   Ozu City Hainan Purification Center, 1567 Azo Ko, Ozu City, Ehime Prefecture 795-0025 "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-azo-purification-center.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5358769,33.5094765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川右岸14.9K肱川防災ステーションライブカメラ / Hijikawa River Right Bank 14.9K Hijikawa Disaster Prevention Station Live Camera</name>
+        <description><![CDATA[〒795-0052 愛媛県大洲市若宮１８６９−１ 大洲市 防災センター「国土交通省川の防災情報」/   Ozu City Disaster Prevention Center, 1869-1 Wakamiya, Ozu City, Ehime Prefecture 795-0052  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-disaster-prevention-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.563238,33.5301364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川右岸13.2K坂路陸閘ライブカメラ / Hijikawa River Right Bank 13.2K Hanro Rikko Live Camera</name>
+        <description><![CDATA[愛媛県大洲市五郎甲「国土交通省川の防災情報」/ Goro Kou, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r-13_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5690972,33.5441901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川右岸10.2K和田川樋門ライブカメラ / Hijikawa River Right Bank 10.2K Wadagawa Himon Live Camera</name>
+        <description><![CDATA[愛媛県大洲市春賀「国土交通省川の防災情報」/ Haruka, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r-10_2k-wadagawahimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5454389,33.55821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川左岸8.6K出石川樋門ライブカメラ / Hijikawa Left Bank 8.6K Izushigawa Himon Live Camera</name>
+        <description><![CDATA[愛媛県大洲市八多喜町「国土交通省川の防災情報」/ Hataki-cho, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-izushigawa-himon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5280348,33.5634038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川左岸6.6K除川樋門ライブカメラ / Hijikawa River Left Bank 6.6K Yokegawa Himon Live Camera</name>
+        <description><![CDATA[愛媛県大洲市柴甲「国土交通省川の防災情報」/ Shibako, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-l-6_6k-yokegawa-himon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5246471,33.5746053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川右岸6.0K加屋排水樋門ライブカメラ / Hijikawa River Right Bank 6.0K Kaya Drainage Gutter Gate Live Camera</name>
+        <description><![CDATA[愛媛県大洲市白滝「国土交通省川の防災情報」/ Shirataki, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r-6_0k-kayahaisuihimon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5234975,33.5800414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川斉藤山ライブカメラ / Hijikawa Saitoyama Live Camera</name>
+        <description><![CDATA[〒799-3404 愛媛県大洲市長浜町沖浦甲 斎藤山「国土交通省川の防災情報」/ Saitoyama,    Okiura Ko, Nagahama-cho, Ozu City, Ehime Prefecture 799-3404, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-nagahama-hijikawa-saitosan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4783031,33.5941768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川河口ライブカメラ / Hijikawa estuary live camera</name>
+        <description><![CDATA[愛媛県大洲市長浜甲「国土交通省川の防災情報」/  Nagahama Ko, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r-0_4k-estuary.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4802544,33.6109399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢落川東大洲暫定堤防ライブカメラ / Yaochi River Higashi Ozu Provisional Embankment Live Camera</name>
+        <description><![CDATA[愛媛県大洲市東大洲「国土交通省川の防災情報」/ Higashiozu, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-higashiozu-yaochi-river-l-0_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5703136,33.5391994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿野川ダムダ上流直上ライブカメラ / Kanogawa Dam Live camera directly above the dam</name>
+        <description><![CDATA[愛媛県大洲市肱川町山鳥坂「国土交通省川の防災情報」/ Yamatosaka, Hijikawa-cho, Ozu-shi, Ehime, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-kanogawa-dam-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6868532,33.4501183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿野川ダム肱川河辺川合流点ライブカメラ / Kanogawa Dam Hijikawa Kawabe River Confluence Live Camera</name>
+        <description><![CDATA[愛媛県大洲市肱川町宇和川「国土交通省川の防災情報」/ Uwagawa, Hijikawa-cho, Ozu-shi, Ehime "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-kanogawa-dam-hijikawa-kawabe-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6798952,33.4546746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号鹿野川湖ライブカメラ / National highway No. 197 Kanogawa lake live camera</name>
+        <description><![CDATA[愛媛県大洲市肱川町宇和川「えひめの道ライブカメラ」/ Uwagawa, Hijikawa-cho, Ozu-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-r197-kanogawako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6859484,33.4470369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢落川左岸0.8K都谷川樋門ライブカメラ / Yaochi River Left Bank 0.8K Toyagawa Himon Live Camera</name>
+        <description><![CDATA[愛媛県大洲市新谷地先 「大洲河川国道事務所」/ Niiya, Ozu City, Ehime Prefecture "Ozu River National Highway Office"<br>https://livecamera.fujiyamasan.com/ehime-ozu-niiya-yaochi-river-l-0_2k.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5735058,33.5341652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川大洲市街ライブカメラ / Hijikawa Ozu city live camera</name>
+        <description>〒795-0072 愛媛県大洲市新谷甲 大洲河川国道事務所 / Ozu River National Highway Office, Niiya Ko, Ozu City, Ehime Prefecture 795-0072 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5773631,33.5373262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川河口全景肱川あらし展望公園ライブカメラ / Hijikawa estuary panoramic view Hijikawa storm observation park live camera</name>
+        <description><![CDATA[〒799-3401 愛媛県大洲市長浜甲 肱川あらし展望公園 「大洲河川国道事務所」/ Hijikawa Arashi Observatory Park, Nagahama Ko, Ozu City, Ehime Prefecture 799-3401, "Ozu River National Highway Office"<br>https://livecamera.fujiyamasan.com/ehime-osu-nagahama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4870584,33.6118595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川左岸18.7K肱川橋ライブカメラ / Hijikawa River Left Bank 18.7K Hijikawa Bridge Live Camera</name>
+        <description><![CDATA[愛媛県大洲市大洲「大洲河川国道事務所」/Ozu, Ozu City, Ehime Prefecture<br>"Ozu River National Highway Office"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-l-18_7k-hijikawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5453066,33.5082476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道56号鳥坂峠ライブカメラ / National Route 56 Torisaka Pass Live Camera</name>
+        <description><![CDATA[〒795-0007 愛媛県大洲市稲積 「四国地方整備局」/  Inazumi, Ozu City, Ehime Prefecture 795-0007, "Shikoku Regional Development Bureau"<br>https://livecamera.fujiyamasan.com/ehime-ozu-r56-torisaka-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5264409,33.4603548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号夜昼トンネル大洲市側ライブカメラ / National highway No. 197 Yoruhiru tunnel Ozu city side live camera</name>
+        <description><![CDATA[愛媛県大洲市平野町 「えひめの道ライブカメラ」/ Hirano-cho, Ozu City, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hirano-r197-yoruhiru-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5047417,33.476517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道31号宇和三間線歯長隧道西予市側ライブカメラ / Ehime Prefectural Road No. 31 Uwa Sanma Line Hanaga Tunnel Seiyo City Side Live Camera</name>
+        <description><![CDATA[愛媛県西予市宇和町下川「えひめの道ライブカメラ」/ Hitougawa, Uwa-cho, Seiyo-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-uwa-r31-hanagasuido.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5637663,33.3284043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四国地方整備局野村ダムダム右岸直下流ライブカメラ / Shikoku Regional Development Bureau Nomura Dam Dam Right bank direct downstream live camera</name>
+        <description><![CDATA[〒797-1212 愛媛県西予市野村町野村 野村ダム 「国土交通省四国地方整備局」/ Nomura Dam, Nomura Town, Seiyo City, Ehime Prefecture 797-1212 "Shikoku Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-nomura-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6291856,33.3591844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道29号宇和野村線出合大橋ライブカメラ / Ehime Prefectural Road No. 29 Uwanomura Line Deai Ohashi Live Camera</name>
+        <description><![CDATA[愛媛県西予市野村町河西 「えひめの道ライブカメラ」/ Kawasai, Nomura-cho, Seiyo-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-nomura-r29-deaiohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6158865,33.3623349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号城川町高野子ライブカメラ / National highway No. 197 Shirokawacho Takanoko live camera</name>
+        <description><![CDATA[愛媛県西予市城川町高野子「えひめの道ライブカメラ」/ Takanoko, Shirokawa-cho, Seiyo-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-shirokawa-takanoko-r197.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7913881,33.3444051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川神領ライブカメラ / Hijikawa Jinryo Live Camera</name>
+        <description><![CDATA[〒797-0016 愛媛県西予市宇和町神領「愛媛県河川・砂防情報システム」/ Uwacho Jinryo, Seiyo City, Ehime Prefecture 797-0016, <br>"Ehime Prefecture River / Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5037503,33.3647612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛媛県道25号八幡浜宇和線笠置トンネル西予市側ライブカメラ / Ehime Prefectural Road No. 25 Hachimanhama Uwa Line Kasagi Tunnel Seiyo City Side Live Camera</name>
+        <description><![CDATA[愛媛県西予市宇和町岩木「えひめの道ライブカメラ」/ Iwaki, Uwa-cho, Seiyo-shi, Ehime "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-uwa-r25-kasagi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4692953,33.3978276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道379号吉野川ライブカメラ / National Route 379 Yoshino River Live Camera</name>
+        <description><![CDATA[愛媛県喜多郡内子町吉野川「えひめの道ライブカメラ」/ Yoshinokawa, Uchiko Town, Kita District, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-uchiko-yoshinogawa-r379.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7664215,33.5796988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道379号内子ライブカメラ / National highway No. 379 Uchiko live camera</name>
+        <description><![CDATA[愛媛県喜多郡内子町内子「えひめの道ライブカメラ」/ Uchiko, Uchiko-cho, Kita-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-uchiko-uchiko-r379.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6577735,33.5556521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道380号真弓トンネル内子町側ライブカメラ / National highway No. 380 Mayumi tunnel Uchiko town side live camera</name>
+        <description><![CDATA[愛媛県喜多郡内子町大平「えひめの道ライブカメラ」/ Ohira, Uchiko-cho, Kita-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-uchiko-r380-mayumi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8414266,33.6009525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号大久東トンネル三崎町側ライブカメラ / National highway No. 197 Okuhigashi tunnel Misaki-cho side live camera</name>
+        <description><![CDATA[愛媛県西宇和郡伊方町大久「えひめの道ライブカメラ」/ Oku, Ikata-cho, Nishiuwa-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ikata-r197-okuhigashi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.1986201,33.4195089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号河内ライブカメラ / National highway No. 197 Kawachi live camera</name>
+        <description><![CDATA[愛媛県西宇和郡伊方町河内「えひめの道ライブカメラ」/ Kawachi, Ikata-cho, Nishiuwa-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-ikata-kawauchi-r197.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.3705261,33.4977106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道381号出目ライブカメラ / National highway 381 Izume live camera</name>
+        <description><![CDATA[愛媛県北宇和郡鬼北町大字出目「えひめの道ライブカメラ」/ Izume, Kihoku-cho, Kitauwa-gun, Ehime Prefecture, "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-kihoku-izume-r381.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6955588,33.2470929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道320号水分ライブカメラ / National highway 320 Mizuwake live camera</name>
+        <description><![CDATA[愛媛県北宇和郡鬼北町大字北川「えひめの道ライブカメラ」/ Kitagawa, Kihoku-cho, Kitauwa-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br>https://livecamera.fujiyamasan.com/ehime-kihoku-kitagawa-r320-mizuwakare.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6240496,33.2416906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼北町役場日吉支所屋上ライブカメラ / Kihoku Town Hall Hiyoshi Branch Rooftop Live Camera</name>
+        <description><![CDATA[〒798-1502 愛媛県北宇和郡鬼北町大字下鍵山４６３ 鬼北町 日吉支所 「えひめの道ライブカメラ」/ Kihoku Town Hiyoshi Branch, 463 Shimokagiyama, Kihoku-cho, Kitauwa-gun, Ehime Prefecture, 798-1502, "Ehime no Michi Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.797505,33.334037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道197号高研峠ライブカメラ / National highway No. 197 Koken Pass live camera</name>
+        <description><![CDATA[愛媛県北宇和郡鬼北町大字日向谷「えひめの道ライブカメラ」/ Hyugai, Kihoku-cho, Kitauwa-gun, Ehime Prefecture "Ehime no Michi Live Camera"<br> https://livecamera.fujiyamasan.com/ehime-kihoku-hyugai-r197-takatogi-pass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8488191,33.3769097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山市ライブカメラ / Matsuyama City Live Camera</name>
+        <description><![CDATA[〒790-8537 愛媛県松山市真砂町１１９ (株)テレビ愛媛本社 /  TV Ehime Headquarters, 119 Masagocho, Matsuyama City, Ehime Prefecture 790-8537<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-tv-ehime.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.759179,33.8324521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小野川右岸精農橋ライブカメラ / Onogawa right bank Seinobashi live camera</name>
+        <description><![CDATA[〒790-0952 愛媛県松山市朝生田町６丁目４　精農橋「愛媛県」/ Seinobashi, 6-4 Asodamachi, Matsuyama City, Ehime Prefecture 790-0952, <br> "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-ono-river-seino-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.765426,33.8199934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立岩川高柳橋ライブカメラ / Tateiwa River Takayanagibashi Live Camera</name>
+        <description><![CDATA[愛媛県松山市正岡神田「愛媛県河川砂防情報システム」/ Masaokakanda, Matsuyama City, Ehime Prefecture "Ehime Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.8057727,33.96971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大川鴨中橋ライブカメラ / Okawa Kamochubashi Live Camera</name>
+        <description><![CDATA[愛媛県松山市鴨川3丁目「愛媛県」/ 3-chome Kamogawa, Matsuyama City, Ehime Prefecture "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-okawa-kamochubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7496635,33.8738996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川土居ライブカメラ / Uchikawa Doi Live Camera</name>
+        <description><![CDATA[〒791-1115 愛媛県松山市土居町　土居団地公園 「愛媛県」/ Doi housing complex park, Doimachi, Matsuyama City, Ehime Prefecture 791-1115, "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-doi-uchikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7906558,33.7980248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮前川放水路ライブカメラ / Miyamae River Flood Bypass Live Camera </name>
+        <description><![CDATA[〒791-8056 愛媛県松山市別府町 「愛媛県」/ Befu-cho, Matsuyama City, Ehime Prefecture, 791-8056, "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-miyamae-river-flood-bypass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7245025,33.8432062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山市南クリーンセンター入口付近重信川沿いライブカメラ / Live camera along the Shigenobu River near the entrance of Matsuyama City South Clean Center</name>
+        <description><![CDATA[〒790-0948 愛媛県松山市市坪西町１０００−１　松山市 南クリーンセンター　「松山市清掃施設課チャンネル」/ Matsuyama City South Clean Center, 1000-1 Ichitsubo Nishimachi, Matsuyama City, Ehime Prefecture 790-0948  "Matsuyama City Cleaning Facility Division Channel"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-matsuyama-south-clean-center.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7385364,33.8071716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道20号湯山北条線JRアンダー西側ライブカメラ / Prefectural Road No. 20 Yuyama Hojo Line JR Under West Live Camera</name>
+        <description><![CDATA[愛媛県松山市粟井河原 「愛媛県庁」/ Awaikawara, Matsuyama City, Ehime Prefecture "Ehime Prefectural Office"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-awaikawara-r20-jr-under-west.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7670267,33.9374812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>重信川右岸8.3K井門霞堤ライブカメラ / Shigenobu River Right Bank 8.3K Ido Kasumi Tsutsumi Live Camera</name>
+        <description><![CDATA[愛媛県松山市森松町「国土交通省川の防災情報」/ Morimatsumachi, Matsuyama City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-matsuyama-shigenobu-river-r-8_3.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7824389,33.791565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀江海岸マリンハウスライブカメラ / Horie Kaigan Marine House Live Camera</name>
+        <description><![CDATA[〒799-2651 愛媛県松山市堀江町番外２２２　堀江マリンハウス 「カモンガイス(Come on guys)」/ Horie Marine House, 222 Horie-cho, Matsuyama-shi, Ehime 799-2651,  "Come on guys"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7409711,33.9033623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷川下三谷ライブカメラ / Daiya River Shimomitani Live Camera</name>
+        <description><![CDATA[愛媛県伊予市下吾川「愛媛県河川砂防情報システム」/ Shimoagawa, Iyo City, Ehime Prefecture "Ehime Prefecture River Sabo Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7135395,33.7704207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山自動車道桜三里パーキングエリア付近ライブカメラ / Live camera near Sakurasanri parking area on Matsuyama Expressway</name>
+        <description><![CDATA[〒791-0314 愛媛県東温市松瀬川「NEXCO西日本」/ Masekawa, Toon City, Ehime Prefecture 791-0314 "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-toon-matsuyama-expressway-sakurasanri-pa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9398685,33.8032416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久万川久万ライブカメラ / Kumakawa Kuma Live Camera</name>
+        <description><![CDATA[愛媛県上浮穴郡久万高原町久万「愛媛県」/ Kuma, Kumakogen Town, Kamiukena District, Ehime Prefecture, "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-kumakogen-kuma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9018456,33.6603825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しまなみ海道来島海峡大橋ライブカメラ / Shimanami Kaido Kurushima Kaikyo Bridge Live Camera</name>
+        <description><![CDATA[〒794-2115 愛媛県今治市吉海町南浦487番地4 亀老山展望公園 「愛媛朝日テレビ」/ Kirosan Observatory Park, 487-4 Minamiura, Yoshiumi-cho, Imabari-shi, Ehime 794-2115, "Ehime Asahi Television"<br>https://livecamera.fujiyamasan.com/ehima-imabari-shimanami-kaido-kurushima-kaikyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0334642,34.1199263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しまなみ海道ライブカメラ / Shimanami Kaido Live Camera</name>
+        <description><![CDATA[〒799-2111 愛媛県今治市小浦町２丁目５−２　来島海峡展望館 「テレビ愛媛」/ 2-5-2 Kouracho, Imabari City, Ehime Prefecture 799-2111 Kurushima Strait Observatory "TV Ehime"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9778337,34.1140186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>糸山公園来島海峡ライブカメラ / Itoyama Park Kurushima Strait Live Camera</name>
+        <description><![CDATA[〒799-2111 愛媛県今治市小浦町２丁目５　糸山公園　「インターネット自然研究所」 /  Itoyama Park,  2-5 Kouracho, Imabari City, Ehime Prefecture 799-2111 "Internet Nature Research Institute"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9763543,34.1140939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>来島海峡急流観潮船ライブカメラ / Kurushima Kaikyo torrent tide boat live camera</name>
+        <description><![CDATA[〒794-2118 愛媛県今治市吉海町臥間5292　来島海峡急流観潮船「株式会社しまなみ」/  5292 Fusuma, Yoshiumi-cho, Imabari-shi, Ehime 794-2118, "Shimanami Co., Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.0198475,34.1277412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>来島海峡急流観潮船ライブカメラ / Kurushima Kaikyo torrent tide boat live camera</name>
+        <description>〒794-0002 愛媛県今治市大浜町１丁目 丙２３２−１　株式会社しまなみ / Shimanami Co., Ltd. 232-1 1-chome, Ohama-cho, Imabari-shi, Ehime 794-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.98561,34.096359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>頓田川国分橋ライブカメラ / Tondagawa Kokubunbashi Live Camera</name>
+        <description><![CDATA[愛媛県今治市国分甲「愛媛県」/ Kokubuko, Imabari City, Ehime Prefecture, "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-imabari-tonda-river-kokubu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.016299,34.0295655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今治市議会ライブカメラ / Imabari City Council Live Camera</name>
+        <description>〒794-8511 愛媛県今治市別宮町１丁目４−１　今治市役所 / 1-4-1, Bekkucho, Imabari City, Ehime Prefecture 794-8511 Imabari City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.9975244,34.0663192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マイントピア別子東平ゾーンライブカメラ / Minetopia Besshi Tonaru Zone Live Camera</name>
+        <description><![CDATA[〒792-0846 愛媛県新居浜市立川町　東平展望台 「新居浜市観光物産協会」/ Todaira Observatory, Tatsukawa-cho, Niihama City, Ehime Prefecture 792-0846, "Niihama City Tourism and Products Association"<br>https://livecamera.fujiyamasan.com/ehime-niihama-tatsukawa-tonaru.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3146687,33.8766288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新居大島ライブカメラ / Nii Oshima Live Camera</name>
+        <description><![CDATA[〒792-0896 愛媛県新居浜市阿島「新居浜市観光物産協会」/ Ashima, Niihama City, Ehime Prefecture 792-0896 "Niihama City Tourism and Products Association"<br>https://livecamera.fujiyamasan.com/ehime-niihama-niioshima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3632538,33.9678681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東川黒岩橋ライブカメラ / Higashikawa Kuroiwabashi Live Camera</name>
+        <description><![CDATA[愛媛県新居浜市萩生「愛媛県」/ Hagyu, Niihama City, Ehime Prefecture "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-niihama-higashikawa-kuroiwabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.2796111,33.9292363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国領川城下ライブカメラ / Kokuryo River Shiroshita Live Camera</name>
+        <description><![CDATA[〒792-0886 愛媛県新居浜市郷５丁目 「愛媛県河川砂防情報システム」/ 5-chome, Niihama City, Ehime Prefecture, 792-0886<br>"Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-niihama-kokuryo-river-shiroshita.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.3010907,33.9581955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渦井川飯積橋ライブカメラ / Uzui River Iizumi Bridge Live Camera</name>
+        <description><![CDATA[〒793-0006 愛媛県西条市下島山甲「愛媛県河川砂防情報システム」/  Shimoshimayama Ko, Saijo City, Ehime Prefecture 793-0006, "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-saijo-uzui-river-iizumi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.208994,33.9258154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山自動車道石鎚山サービスエリア上りライブカメラ / Matsuyama Expressway Ishizuchisan Service Area Uphill Live Camera</name>
+        <description><![CDATA[〒799-1101 愛媛県西条市小松町新屋敷 乙２２−２０　石鎚山サービスエリア (上り)「西日本高速道路」/ Ishizuchisan Service Area (Up) ,   22-20 Shinyashiki, Komatsucho, Saijo City, Ehime Prefecture 799-1101, "West Nippon Expressway"<br>https://livecamera.fujiyamasan.com/ehime-saijo-matsuyama-expressway-ishizuchisan-sa-up.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.1099703,33.8856888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高知自動車道川之江ジャンクション付近ライブカメラ / Live camera near Kawanoe Junction on the Kochi Expressway</name>
+        <description><![CDATA[〒799-0111 愛媛県四国中央市金生町下分 川之江JCT「NEXCO西日本」/ Kawanoe JCT, Kinseicho Shimobun, Shikokuchuo City, Ehime Prefecture 799-0111, "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-kochi-expressway-kawanoe-jct.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.597095,34.0008249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高知自動車道新宮インターチェンジ付近ライブカメラ / Live camera near the Shingu interchange on the Kochi Expressway</name>
+        <description><![CDATA[〒799-0301 愛媛県四国中央市新宮町馬立 新宮IC「NEXCO西日本」/ Shingu IC, Shingucho Umatate, Shikokuchuo City, Ehime Prefecture 799-0301, "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-shikokuchuo-kochi-expressway-shingu-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            133.6397399,33.9242144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三間川月見橋ライブカメラ / Mima River Tsukimibashi Live Camera</name>
+        <description><![CDATA[愛媛県宇和島市三間町迫目「愛媛県」/ Mimacho Hazame, Uwajima City, Ehime Prefecture "Ehime Prefecture"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-mima-river-tsukimi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6028872,33.2841494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩松川岩淵ライブカメラ / Iwamatsu River Iwabuchi Live Camera</name>
+        <description><![CDATA[愛媛県宇和島市津島町岩渕「愛媛県 河川砂防情報システム」/ Iwabuchi, Tsushima-cho, Uwajima City, Ehime Prefecture "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-uwajima-tsushima-iwabuchi-iwamatsu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5505539,33.1236431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川菅田町ライブカメラ / Hijikawa Sugetacho Live Camera</name>
+        <description><![CDATA[〒795-0000 愛媛県大洲市菅田町宇津 「愛媛県 河川・砂防情報システム」/  Utsu, Sugeta-cho, Ozu City, Ehime Prefecture 795-0000 "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-ozu-sugeta-hijikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6105766,33.5011058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川大川ライブカメラ / Hijikawa Okawa Live Camera</name>
+        <description><![CDATA[愛媛県大洲市森山「愛媛県 河川・砂防情報システム」/ Moriyama, Ozu City, Ehime Prefecture "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-ozu-moriyama-hijikawa-okawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6356564,33.4837629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川道の駅ひじかわライブカメラ / Hijikawa Road Station Hijikawa Live Camera </name>
+        <description><![CDATA[〒797-1503 愛媛県大洲市肱川町宇和川「愛媛県 河川・砂防情報システム」/ Uwagawa, Hijikawa-cho, Ozu-shi, Ehime 797-1503 "Ehime Prefecture River and Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-michinoeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6770154,33.461348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川右岸7.8K清永川樋門ライブカメラ / Hijikawa Right Bank 7.8K Seieigawa Himon Live Camera</name>
+        <description><![CDATA[愛媛県大洲市米津「国土交通省川の防災情報」/ Yonazu, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5326789,33.5697246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川左岸3.0K大和橋ライブカメラ / Hijikawa River Left Bank 3.0K Yamatobashi Live Camera</name>
+        <description><![CDATA[愛媛県大洲市長浜町下須戒「国土交通省川の防災情報」/ Shimosukai, Nagahama-cho, Ozu City, Ehime Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/ehime-ozu-hijikawa-l-3_0k-yamato-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.4977663,33.5941809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川大洲市街ライブカメラ / Hijikawa Ozu city live camera</name>
+        <description><![CDATA[〒795-0054 愛媛県大洲市中村210 大洲河川国道鉄塔「大洲河川国道事務所」/ Ozu River National Highway Tower, 210 Nakamura, Ozu City, Ehime Prefecture 795-0054  "Ozu River National Highway Office"<br>https://livecamera.fujiyamasan.com/ehime-ozu-nakamura-hijikawa-ozu-city.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5444415,33.5165225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肱川野村大橋ライブカメラ / Hijikawa RIver Ohashi Live Camera</name>
+        <description><![CDATA[〒797-1212 愛媛県西予市野村町野村「愛媛県河川砂防情報システム」/ Nomura, Nomura-cho, Seiyo-shi, Ehime 797-1212 "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-seiyo-hijikawa-nomuraohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6450991,33.3796008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小田川内子ライブカメラ / Odagawa Uchiko Live Camera</name>
+        <description><![CDATA[〒791-3301 愛媛県喜多郡内子町内子「愛媛県河川砂防情報システム」/ Uchiko, Uchiko-cho, Kita-gun, Ehime Prefecture 791-3301 "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-uchiko-odagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6549644,33.5505122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松山自動車道内子五十崎インターチェンジ付近ライブカメラ / Live camera near the Ikazaki interchange on the Matsuyama Expressway</name>
+        <description><![CDATA[〒791-3301 愛媛県喜多郡内子町内子 内子五十崎IC「NEXCO西日本」/ Uchiko Ikazaki IC, Uchiko, Uchiko-cho, Kita-gun, Ehime Prefecture, 791-3301, "NEXCO West Japan"<br>https://livecamera.fujiyamasan.com/ehime-uchiko-matsuyama-expressway-uchikoikazaki-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.6519612,33.5450308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田岬半島ライブカメラ / Sadamisaki Peninsula Live Camera</name>
+        <description><![CDATA[〒796-0821 愛媛県西宇和郡伊方町与侈「かいらし」/ Yobokori, Ikata-cho, Nishiuwa-gun, Ehime Prefecture, 796-0821<br>"Kairashi"<br>https://livecamera.fujiyamasan.com/ehime-ikata-yobokori-sadamisaki-peninsula.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0855993,33.3937876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐田岬灯台ライブカメラ / Sadamisaki Lighthouse Live Camera</name>
+        <description><![CDATA[〒796-0823 愛媛県西宇和郡伊方町正野　佐田岬灯台「海上保安庁」/ Sadamisaki Lighthouse, Shono, Ikata-cho, Nishiuwa-gun, Ehime Prefecture 796-0823<br>"Japan Coast Guard"<br><br>https://livecamera.fujiyamasan.com/ehime-ikata-sadamisaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.0148716,33.3430773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広見川小倉ライブカメラ / Hiromi River Oguwa Live Camera</name>
+        <description><![CDATA[〒798-1321 愛媛県北宇和郡鬼北町小倉「愛媛県河川砂防情報システム」/ Oguwa, Kihoku-cho, Kitauwa-gun, Ehime Prefecture, 798-1321 "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-kihoku-oguwa-hiromi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.7210156,33.2783906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EBC愛南町ライブカメラ / EBC Ainan Town Live Camera</name>
+        <description><![CDATA[〒798-4110 愛媛県南宇和郡愛南町御荘平城３０４　南レク松軒山公園 「テレビ愛媛」/ Nan Lek Shokenzan Park, 304 Mishohirajo, Ainan-cho, Minamiuwa-gun, Ehime Prefecture 798-4110,  "TV Ehime"<br>https://livecamera.fujiyamasan.com/ehime-ainan-shokenyama-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5558308,32.9723913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>僧都川御荘ライブカメラ / Sozu River Misho Live Camera</name>
+        <description><![CDATA[〒798-4110 愛媛県南宇和郡愛南町御荘平城「愛媛県河川砂防情報システム」/ Mishohirajo, Ainan-cho, Minamiuwa-gun, Ehime 798-4110 "Ehime Prefecture River Sabo Information System"<br>https://livecamera.fujiyamasan.com/ehime-ainan-mishohirajo-sozu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            132.5630043,32.961475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

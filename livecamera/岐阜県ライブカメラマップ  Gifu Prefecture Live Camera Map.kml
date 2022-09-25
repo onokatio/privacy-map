@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>岐阜県ライブカメラマップ / Gifu Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>岐阜県内ライブカメラ</name>
+      <Placemark>
+        <name>槍ヶ岳山荘から見た槍ヶ岳 / Mt. Yarigatake seen from Yarigatake Sanso (Mountain Cottage)</name>
+        <description><![CDATA[〒390-0813 長野県松本市埋橋1ー7ー2 槍ヶ岳山荘　「槍ヶ岳山荘グループ」/ Yarigatake Sanso, 1-7-2 Uzuhashi, Matsumoto-shi, Nagano-ken 390-0813<br>https://livecamera.fujiyamasan.com/yarigatake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6457799,36.3409548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南岳小屋のライブカメラ</name>
+        <description><![CDATA[〒506-1421 岐阜県高山市 奥飛騨温泉郷神坂 南岳小屋　「槍ヶ岳山荘グループ」<br>https://livecamera.fujiyamasan.com/yarigatake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6506568,36.3168876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山荘より奧穂高岳方面（オフシーズンは休止中）</name>
+        <description>〒506-1421 岐阜県高山市 奥飛騨温泉郷神坂　穂高岳山荘</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.647552,36.293469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新穂高ロープウェイライブカメラ / Shinhotaka Ropeway Live Camera</name>
+        <description><![CDATA[岐阜県高山市奥飛騨温泉郷神坂<br>新穂高ロープウェイ・西穂高口駅<br>https://livecamera.fujiyamasan.com/takayama-nishihodaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.6015712,36.2686013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠ヶ岳山荘 / Northern Alps Mt. Kasagatake Lodge</name>
+        <description><![CDATA[〒506-1421 岐阜県高山市奥飛騨温泉郷神坂 笠ケ岳 / Kasagatake, Kansaka, Okuhidaonsengo, Takayama-shi, Gifu 506-1421<br>https://livecamera.fujiyamasan.com/kasagatake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5503731,36.3160934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高原川流域LIVE画像 / Takahara River basin LIVE image</name>
+        <description><![CDATA[〒506-1121 岐阜県飛騨市神岡町殿１０２０−４　国土交通省北陸地方整備局神通川水系砂防事務所 / Ministry of Land, Infrastructure and Transport Hokuriku Regional Development Bureau Jinzu water erosion control office, 1020-4 Tono, Kamioka-cho, Hida-shi, Gifu 506-1121<br>https://livecamera.fujiyamasan.com/takaharagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3102886,36.3228663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平湯温泉「旅荘 つゆくさ」ライブカメラ / Hirayu Onsen TSUYUKUSA Live Camera</name>
+        <description><![CDATA[〒506-1433 岐阜県高山市奥飛騨温泉郷平湯621−1　旅荘 つゆくさ / Ryokan TSUYUKUSA, 621-1 Hirayu, Hidaonsengo, Takayama-shi, Gifu-ken 506-1433<br>https://livecamera.fujiyamasan.com/takayama-tsuyukusa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.5515953,36.1918118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飛騨ほおのき平スキー場 / Hida Hoonokidaira Ski Resort</name>
+        <description>〒506-2252 岐阜県高山市丹生川町久手４４７ 飛騨ほおのき平スキー場 / Hida Hoonokidaira Ski Resort, 447 Nyukawachokute, Takayama-shi, Gifu 506-2252</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4919114,36.1757384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>のりくらライブカメラ / Norikura Live Camera</name>
+        <description>岐阜県高山市丹生川町岩井谷 乗鞍岳 （高山市観光課）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.550244,36.108063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南乗鞍キャンプ場カメラ / Minaminorikura Camp Site Camera</name>
+        <description><![CDATA[〒509-3405 岐阜県高山市 高根町子ノ原高原 無印良品南乗鞍キャンプ場 / MUJI Minaminorikura Camp Site, Konoharakogen, Takane-cho, Takayama-shi, Gifu 509-3405<br>https://livecamera.fujiyamasan.com/minaminorikura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4763548,36.075868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゲレンデライブカメラ</name>
+        <description>〒509-3403 岐阜県高山市高根町日和田１７３９−１　チャオ御岳スノーリゾート</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4854165,35.947011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民宿桑谷屋のお天気カメラ</name>
+        <description><![CDATA[〒506-0007 岐阜県高山市 総和町1丁目50-30 民宿 桑谷屋<br>https://livecamera.fujiyamasan.com/takayama-kuwatani.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2544611,36.1437654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[飛騨高山ライブカメラ「宮川・鍛冶橋」 / Hidatakayama Live Camera "Miyagawa Kajibashi"]]></name>
+        <description><![CDATA[〒506-0011 岐阜県高山市本町３丁目 / 3-chome, Honmachi, Takayama-shi, Gifu-ken 506-0011<br>https://livecamera.fujiyamasan.com/takayama-kajibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2570808,36.1434601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飛騨高山ライブカメラ / Live Camera in Hida Takayama</name>
+        <description><![CDATA[〒506-0031 岐阜県高山市西之一色町２−１８０ 高山グリーンホテル / Takayama Green Hotel, 2-180 Nishinoisshikimachi, Takayama-shi, Gifu 506-0031<br>https://livecamera.fujiyamasan.com/takayama-green.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2476722,36.1379476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飛騨の里通り / Hidanosato Street</name>
+        <description>〒506-0055 岐阜県高山市上岡本町１丁目１３６ 飛騨高山の風雅陶器・小糸焼窯元 / Tasteful pottery of Hida Takayama, Koito-yaki pottery, 1-136 Kamiokamotomachi, Takayama-shi, Gifu 506-0055</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.240071,36.1355677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道41号道路状況ライブカメラ / Road Information Live Camera</name>
+        <description><![CDATA[〒506-0055 岐阜県高山市上岡本町7-425 国土交通省 中部地方整備局　高山国道事務所 / Takayama National Highway Office, 7-425 Kamiokamotomachi, Takayama-shi, Gifu 506-0055<br>https://livecamera.fujiyamasan.com/hidar41.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2408354,36.145274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白川郷ライブカメラ / Shirakawa-go Live Camera</name>
+        <description><![CDATA[〒501-5627 岐阜県大野郡白川村荻町２４９５−３ 白川郷観光案内所　（総合案内所・であいの館） / Shirakawa-go tourist office (House of the General Information and Center of Encounter), 2495-3 Ogi-machi, Shirakawa-mura, Ono-gun, Gifu 501-5627<br>https://livecamera.fujiyamasan.com/shirakawago.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9027001,36.2564533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モンデウスライブ映像 / Mondeus Live Video</name>
+        <description><![CDATA[〒509-3505 岐阜県高山市一之宮町7846-1 道の駅モンデウス飛騨位山　（モンデウス飛騨位山スノーパーク） / Roadside Station Mondeus Hidakuraiyama (Mondeus Hidakuraiyama Snow Park）, 7846-1 Ichinomiya-cho, Takayama-shi, Gifu 509-3505<br>https://livecamera.fujiyamasan.com/takayama-montdeus.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2262661,36.0615719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゲレンデライブカメラ</name>
+        <description>〒501-5231 岐阜県郡上市白鳥町石徹白峠山１−１ ウイングヒルズ白鳥リゾートスキー場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.80267,35.965913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夜叉ヶ池ライブカメラ / Yashaga Pond Live Camera</name>
+        <description><![CDATA[〒501-0901 岐阜県揖斐郡揖斐川町坂内川上 夜叉ヶ池 / Yashaga-ike, Sakauchikawakami, Ibigawa-cho, Ibi-gun, Gifu 501-0901<br>https://livecamera.fujiyamasan.com/yashagaike.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2902069,35.6730209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下呂市ライブカメラ / Gero City Live Camera</name>
+        <description>〒509-2295 岐阜県下呂市森960番地 下呂市役所下呂庁舎 / Gero City Hall Gero Building, 960 Mori, Gero-shi, Gifu 509-2295</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2441343,35.8058521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中津川市の遠景ライブカメラ / Distant view of Nakatsugawa, Gifu Prefecture, Japan</name>
+        <description><![CDATA[〒508-0011 岐阜県中津川市駒場１６６０−１４３　株式会社大坪通信設備 / Otsubo Communication Equipment Ltd. , 1660-143 Komaba, Nakatsugawa-shi, Gifu 508-0011<br>https://livecamera.fujiyamasan.com/nakatsugawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4976633,35.5037146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恵那ライブカメラ / Ena Live Camera</name>
+        <description>〒509-7204 岐阜県恵那市長島町永田４１４−３ 　恵那エネルギー環境研究所 / Ena Institute for Energy and Environmental Research, 414-3 Nagata, Nagashima-cho, Ena-shi, Gifu 509-7204</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.400899,35.4455078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道19号・21号道路ライブ / National Highway Route 19 and 21 Live Cameras</name>
+        <description>〒507-0028 岐阜県多治見市小田町4-8-6　多治見砂防国道事務所 / Tajimi Sabo National Highway Office, 4-8-6 Oda-cho, Tajimi-shi, Gifu 507-0028</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1307362,35.3410652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多治見市ライブカメラ / Tajimi City Live Camera</name>
+        <description><![CDATA[〒507-8703 岐阜県多治見市日ノ出町2丁目15番地  多治見市役所 / Tajimi City Hall, 2-15 Hinode-cho, Tajimi-shi, Gifu 507-8703<br>https://livecamera.fujiyamasan.com/tajimicity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1321896,35.3327905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美濃和紙の里会館 / MINO-WASHI Museum</name>
+        <description>〒501-3788 岐阜県美濃市蕨生１８５１−３ / 1851-3 Warabi, Mino-shi, Gifu 501-3788</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8764735,35.5835132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小倉公園ライブカメラ / Ogura Park Live Camera</name>
+        <description>〒501-3729 岐阜県美濃市泉町１５７１－３  小倉公園 （美濃市役所） /  Ogura Park, 1571-3 Izumi-cho, Mino-shi, Gifu 501-3729 (Mino City Hall)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.9118786,35.5499303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大矢田神社 / Oyada Shrine</name>
+        <description>〒501-3771 岐阜県美濃市大矢田２５９６</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8712968,35.5471287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美濃市ライブカメラ / Mino City Live Camera</name>
+        <description>岐阜県美濃市 美濃市役所 / Mino City Hall, Mino-shi, Gifu</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.907673,35.544623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>淡墨桜のライブ映像</name>
+        <description><![CDATA[〒501-1525 岐阜県本巣市 根尾板所今村　根尾谷淡墨ザクラ　「本巣市役所」<br>https://livecamera.fujiyamasan.com/neodanisakura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6088227,35.6322248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根尾川ライブカメラ / Neogawa River Live Camera</name>
+        <description><![CDATA[〒501-1201 岐阜県本巣市山口８９７ 根尾川筋漁業協同組合 / Neogawa River Fishery Cooperatives, 897 Yamaguchi, Motosu-shi, Gifu 501-1201<br>https://livecamera.fujiyamasan.com/motosu-neo-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6529542,35.5113564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越美山系防災情報 / Etsumi Sankei Disaster Prevention Information</name>
+        <description>〒501-0605　岐阜県揖斐郡揖斐川町極楽寺１３７番地 越美山系砂防事務所 / Etsumi Sankei Sabo Office, Chubu Regional Development Bureau, 137 Gokurakuji, Ibigawa-cho, Ibi-gun, Gifu 501-0605</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5674561,35.4915687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岐阜大学ライブカメラ / Gifu University Live Camera</name>
+        <description><![CDATA[岐阜県岐阜市柳戸１−１ 本部屋上・大学会館・図書館屋上 / Headquarters, University Hall and Library, 1-1 Yanagido, Gifu-shi, Gifu<br>https://livecamera.fujiyamasan.com/gifudai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.733651,35.467905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梶尾谷漆黒ザクラライブ映像 / Neo Valley Awasumi Cherry Tree Live</name>
+        <description>〒501-1203 岐阜県本巣市文殊３２４ 本巣市役所 / Motosu City Hall, 324 Monji, Motosu-shi, Gifu 501-1203</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6787702,35.4830534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川ライブカメラ / Kiso River Live Camera</name>
+        <description>500-8801 岐阜県岐阜市忠節町５丁目１ 木曽川上流河川事務所 / Kiso River Upperstream River Office, 5-1 Chusetsu-cho, Gifu-shi, Gifu 500-8801</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7494735,35.4282229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路状況ライブカメラ / Road Conditions Live Camera</name>
+        <description>〒500-8262　岐阜市茜部本郷1丁目36番地の1 国土交通省 中部地方整備局 岐阜国道事務所 / Ministry of Land, Infrastructure and Transport Chubu Regional Development Bureau Gifu national highway office, 1-36-1 Akanabehongo, Gifu-shi 500-8262</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7545107,35.3934713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防災情報提供システム / Disaster prevention information system</name>
+        <description>〒509-0492 岐阜県加茂郡七宗町上麻生2442番地3 七宗町役場 / Hishiso Town Hall, 2442-3 Kamiaso, Hichiso-cho, Kamo-gun, Gifu 509-0492</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1199643,35.5438638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸山ダムライブカメラ / Maruyama Dam Live Camera</name>
+        <description>〒505-0301 岐阜県加茂郡八百津町八百津１４２２−５ 国土交通省丸山ダム管理所 / Ministry of Land, Infrastructure and Transport Maruyama Dam management office, 1422-5 Yaotsu, Yaotsu-cho, Kamo-gun, Gifu 505-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.1695853,35.4683247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽川・長良川ライブカメラ / Kiso River and Nagara River Live Camera</name>
+        <description>〒511-0002 三重県桑名市福島４６５ 国土交通省　中部地方整備局木曽川下流河川事務所 / Ministry of Land, Infrastructure and Transport Chubu Regional Development Bureau Kiso River Downstream River Office, 465 Fukushima, Kuwana-shi, Mie 511-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6875172,35.0782838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ダイナランドスキー場ライブカメラ</name>
+        <description><![CDATA[〒501-5305 岐阜県郡上市高鷲町西洞３０３５−２<br>https://livecamera.fujiyamasan.com/dynaland.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8678529,35.9906949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>めいほうスキー場ライブカメラ / Meiho Ski Resort Live Camera</name>
+        <description><![CDATA[〒501-4304 岐阜県郡上市明宝奥住水沢上３４４７−１　めいほうスキー場 / Meiho Ski Resort, 3447-1 Meihookuzumi Mizusawakami, Gujo City, Gifu Prefecture 501-4304<br>https://livecamera.fujiyamasan.com/meihouski.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.042953,35.941763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>付知川ライブカメラ / Tsukechi River Live Camera</name>
+        <description><![CDATA[岐阜県中津川市付知町「恵那漁業協同組合」/ Tsukechi-cho, Nakatsugawa City, Gifu Prefecture<br>"Ena Fisheries Cooperative"<br>https://livecamera.fujiyamasan.com/tsukechigawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.4403602,35.6423721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠松駅ライブカメラ / Kasamatsu station live camera</name>
+        <description><![CDATA[〒501-6037 岐阜県羽島郡笠松町西金池町１　笠松駅　「笠松駅前」 / Kasamatsu Station, 1 Nishikanaike-cho, Kasamatsu-cho, Hashima-gun, Gifu 501-6037  "Kasamatsu Station"<br>https://livecamera.fujiyamasan.com/kasamatsueki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7642866,35.3740727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳山ダムライブカメラ / Tokuyama Dam Live Camera</name>
+        <description><![CDATA[〒501-0815 岐阜県揖斐郡揖斐川町開田４４８ 徳山ダム管理所 / 448 Kaiden, Ibigawa-cho, Ibi-gun, Gifu 501-0815 Tokuyama Dam Management Office<br>https://livecamera.fujiyamasan.com/tokuyamadam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4987321,35.666092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東白川村河川ライブカメラ / Higashishirakawa Village River Live Camera</name>
+        <description><![CDATA[〒509-1302 岐阜県加茂郡東白川村神土５４８　東白川村役場 / Higashishirakawa Village Office, 548 Kando, Higashishirakawa Village, Kamo District, Gifu Prefecture 509-1302<br>https://livecamera.fujiyamasan.com/higashishirakawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.3236158,35.6425595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中部国際ゴルフクラブライブカメラ / Chubu International Golf Club Live Camera</name>
+        <description><![CDATA[〒509-0233 岐阜県可児市柿下１２６−２ 中部国際ゴルフクラブ / Chubu Kokusai Golf Club, 126-2 Kakishita, Kani City, Gifu Prefecture 509-0233<br>https://livecamera.fujiyamasan.com/chubugolf.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.120179,35.388412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中橋ライブカメラ / Nakahashi Live Camera</name>
+        <description><![CDATA[〒506-0023 岐阜県高山市川原町４９ 「agataJapan」/ 49 Kawaharamachi, Takayama City, Gifu Prefecture 506-0023 "agata Japan"<br>https://livecamera.fujiyamasan.com/nakabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            137.2592227,36.1400068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長良川・鮎之瀬大橋ライブカメラ / Nagara River and Ayunose Ohashi Live Camera</name>
+        <description><![CDATA[岐阜県関市池尻 鮎之瀬大橋 「関市役所」/ Ayunose Ohashi, Ikejiri, Seki City, Gifu Prefecture "Seki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.884069,35.5013504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>板取川洞戸橋ライブカメラ / Itadori River Dotobashi Live Camera</name>
+        <description><![CDATA[〒501-2812 岐阜県関市洞戸市場２９４−５　関市 洞戸保健センター 「関市役所」/ Seki City Horado Health Center, 294-5 Horadoichiba, Seki City, Gifu Prefecture 501-2812, "Seki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8171491,35.602154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

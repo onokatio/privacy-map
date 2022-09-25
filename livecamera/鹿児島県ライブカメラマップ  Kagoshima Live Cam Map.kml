@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>鹿児島県ライブカメラマップ / Kagoshima Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/<br>ライブカメラJAPAN FUJIYAMA ‐ 鹿児島県内ライブカメラ<br>https://livecamera.fujiyamasan.com/kagoshimaken.html]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>鹿児島県ライブカメラ</name>
+      <Placemark>
+        <name>さつまライブカメラ / Satsuma Live Cam</name>
+        <description>鹿児島県薩摩郡さつま町時吉４０ 宮之城ちくりん館(さつま町役場) / Miyanojo Chikurinkan, 40 Tokiyoshi, Satsuma-cho, Satsuma-gun, Kagoshima (Satsuma Town Hall)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.462046,31.913665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さつま町議会ライブ中継 / Satsuma Town Council Live Streaming</name>
+        <description>〒895-1803 鹿児島県薩摩郡さつま町宮之城屋地１５６５−２　さつま町役場 / Satsuma Town Hall, 1565-2 Miyanojoyachi, Satsuma-cho, Satsuma-gun, Kagoshima-ken 895-1803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4551524,31.9062775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹島・硫黄島・黒島ライブカメラ</name>
+        <description>〒892-0821 鹿児島県鹿児島市名山町１２−１８  三島村役場</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5607011,31.5945241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島ライブカメラ / Sakurajima Live Camera</name>
+        <description>〒890-0062 鹿児島県鹿児島市与次郎１丁目９−３３南日本新聞社本社 / Minami Nippon Shimbun, 1-9-33 Yojiro, Kagoshima-shi, Kagoshima-ken 890-0062</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.565257,31.567475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島ライブカメラ / Sakurajima　（停止中）</name>
+        <description>〒890-0033　鹿児島県鹿児島市西別府町3200番地6　加根又産業（株） / 3200-6 Nishi Beppu-cho, Kagoshima City, Kagoshima 890-0033</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.505219,31.589265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島（KTS本社から）</name>
+        <description>〒890-0082 鹿児島県鹿児島市紫原６丁目１５−８　鹿児島テレビ放送（株）　「鹿児島テレビLIVEカメラ　USTREAM」</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5313689,31.5613489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島ライブカメラ</name>
+        <description>〒890-0073 鹿児島県鹿児島市宇宿２丁目５−３３　かごしま通信システム（株）</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5476821,31.5421369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿児島市街（湯之平展望所から）/ Kagoshima City (from Yunohira Observatory)</name>
+        <description><![CDATA[〒891-1418 鹿児島県鹿児島市 桜島小池町1025　湯之平展望所　「KTS鹿児島テレビライブカメラ」/ "KTS Kagoshima TV Live Camera", Yunodaira Observatory, 1025 Sakurajima Koikecho, Kagoshima City, Kagoshima Prefecture 891-1418]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6300636,31.5914829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ダグリ岬（ライブ）/ Daguri Cape Live Camera</name>
+        <description><![CDATA[〒899-7101 鹿児島県志布志市志布志町夏井　ダグリ岬　「志布志アグリネット」/ Daguri Cape, Natsui, Shibushi-cho, Shibushi-shi, Kagoshima 899-7101, "Shibushi Agri Net"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1398405,31.4632713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪之瀬島（寄木・キャンプ場）</name>
+        <description>火山カメラ画像　気象庁</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7078824,29.6459027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊計島灯台からの映像 / Image from Ikeijima Lighthouse</name>
+        <description><![CDATA[〒904-2421 沖縄県うるま市与那城伊計　伊計島灯台 「海上保安庁 海の安全情報」/ Ikeijima Lighthouse, Ikei, Yonashiro, Uruma-shi, Okinawa-ken 904-2421, "Japan Coast Guard - Maritime Information and Communication System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.9962356,26.3989633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC南日本放送本社屋上ライブカメラ / MBC South Japan Broadcasting Headquarters rooftop live camera</name>
+        <description>〒890-0051 鹿児島県鹿児島市高麗町５−２５ (株)南日本放送(ＭＢＣ) /  South Japan Broadcasting Corporation (MBC),  5-25 Komacho, Kagoshima City, Kagoshima Prefecture 890-0051 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5520292,31.5824138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号赤水遮断機ライブカメラ / National highway No. 224 Red water circuit breaker Live camera </name>
+        <description><![CDATA[〒891-1420 鹿児島県鹿児島市桜島赤水町 「大隅河川国道事務所」/Sakurajima Akamizu-cho, Kagoshima City, Kagoshima Prefecture 891-1420, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6126498,31.5735009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号有村ライブカメラ / National highway No. 224 Arimura live camera</name>
+        <description><![CDATA[〒891-1545 鹿児島県鹿児島市有村町 「大隅河川国道事務所」/Arimura Town, Kagoshima City, Kagoshima Prefecture 891-1545, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6803583,31.5573656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かごしまライブカメラネットワーク桜島港ライブカメラ / Kagoshima Live Camera Network Sakurajima Port Live Camera</name>
+        <description><![CDATA[〒891-1419 鹿児島県鹿児島市桜島横山町１７２２−１６ 国民宿舎レインボー桜島「かごしまライブカメラネットワーク」/  National lodging rainbow Sakurajima, 1722-16 Sakurayama Yokoyama-cho, Kagoshima City, Kagoshima Prefecture 891-1419 "Kagoshima Live Camera Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5958082,31.5913884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かごしまライブカメラネットワーク錦江湾ライブカメラ / Kagoshima Live Camera Network Kinkowan Live Camera</name>
+        <description>〒892-0871 鹿児島県鹿児島市吉野町６７６９ 南国カンツリークラブ /  Tropical Country Club, 6769 Yoshino-cho, Kagoshima City, Kagoshima Prefecture 892-0871 Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.596884,31.63705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かごしまライブカメラネットワーク桜島ライブカメラ / Kagoshima Live Camera Network Sakurajima Live Camera</name>
+        <description><![CDATA[〒892-0802 鹿児島県鹿児島市清水町３１−８ 「かごしまライブカメラネットワーク」/ 31-8 Shimizu-cho, Kagoshima City, Kagoshima Prefecture 892-0802 "Kagoshima Live Camera Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5727457,31.6073937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かごしま通信システムライブカメラ / Kagoshima communication system live camera</name>
+        <description><![CDATA[〒890-0073 鹿児島県鹿児島市宇宿２丁目５−３３ 「かごしま通信システム」/ 2-chome Ujuku, Kagoshima City, Kagoshima 890-0073, Japan, "Kagoshima Communication System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5476648,31.5421075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島・長谷川ライブカメラ / Sakurajima and Hasegawa Live Camera</name>
+        <description>〒892-0812 鹿児島県鹿児島市浜町１２−１ 鹿児島森林管理署 / Kagoshima Shinrinkanrisho (Kagoshima Forest Management Office), 12-1 Hama-machi, Kagoshima-shi, Kagoshima-ken 892-0812 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.569276,31.602789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿児島ライブカメラ / Kagoshima Live Camera</name>
+        <description>〒890-0062 鹿児島県鹿児島市与次郎1-9-34 鹿児島読売テレビ / Kagoshima Yomiuri Television, 1-9-34 Yojiro, Kagoshima-shi, Kagoshima-ken 890-0062</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.565005,31.567256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かごしま水族館 / Kagoshima Aquarium</name>
+        <description>〒892-0814 鹿児島県鹿児島市本港新町3-1 かごしま水族館 / Kagoshima Aquarium, 3-1 Honkoushin-machi, Kagoshima-shi, Kagoshima-ken 892-0814</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5647421,31.5961011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川動物園ライブカメラ / Hirakawa Animal Park</name>
+        <description><![CDATA[〒891-0133 鹿児島県鹿児島市平川町５６６９−１　鹿児島市平川動物園 「ホワイトタイガー」 / Kagoshima City Hirakawa Animal Park "White Tiger," 5669-1 Hirakawa-cho, Kagoshima-shi, Kagoshima-ken 891-0133]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.501957,31.463518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道225号川辺峠ライブカメラ / National Highway 225 Kawabe Pass Live Camera</name>
+        <description>〒891-0133 鹿児島県鹿児島市平川町 川辺峠 「日本道路交通情報センター(JARTIC)」/ Japan Road Traffic Information Center (JARTIC), Kawabe Pass, Hirakawa Town, Kagoshima City, Kagoshima Prefecture 891-0133</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4839776,31.4506154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モリナガ祇園之洲店から現在の桜島 / Video of the current Sakurajima from the Morinaga Gionnosu store </name>
+        <description>〒892-0803 鹿児島県鹿児島市祇園之洲町５６−１ MORiNAGA祇園之洲店 / MORiNAGA Gionnozu 56-1 Gionnosu-cho, Kagoshima City, Kagoshima 892-0803 Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5741286,31.606722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県民住宅桜島マリンポートかごしまライブカメラ / Sakurajima Marine Port Kagoshima Live Camera</name>
+        <description>〒891-0115 鹿児島県鹿児島市東開町１３−３０ 「株式会社県民住宅」/ 13-30 Higashikai-cho, Kagoshima City, Kagoshima Prefecture, 891-0115, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5405148,31.5278055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木之下川JR線ライブカメラ / Kinoshita River JR Line Live Camera</name>
+        <description>〒891-0141 鹿児島県鹿児島市谷山中央６丁目４ 「鹿児島県土木部」/ 6-4 Taniyama-Chuo, Kagoshima City, Kagoshima Prefecture, 891-0141 “Civil Engineering Department, Kagoshima Prefecture”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.508024,31.5182682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KKB鹿児島中央駅ライブカメラ / KKB Kagoshima Chuo Station live camera</name>
+        <description><![CDATA[〒890-0062 鹿児島県鹿児島市与次郎２丁目５−１２ 「鹿児島放送」/ 5-12 Yojiro, Kagoshima City, Kagoshima Prefecture 890-0062 "Kagoshima Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5607103,31.5630065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC鹿児島中央駅ライブカメラ / MBC Kagoshima Chuo Station live camera </name>
+        <description><![CDATA[〒890-0053 鹿児島県鹿児島市中央町 「南日本放送(MBC)」/ Chuo-cho, Kagoshima City, Kagoshima Prefecture 890-0053 ``South Japan Broadcasting (MBC)'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5418412,31.583859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永田川宮下橋ライブカメラ / Nagata River Miyashita Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県鹿児島市中山町 「鹿児島県土木部」/ Chuzan-cho, Kagoshima City, Kagoshima Prefecture "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5001854,31.5458857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷川一ツ橋ライブカメラ / Inari River Hitotsubashi Live Camera</name>
+        <description><![CDATA[〒892-0806 鹿児島県鹿児島市池之上町９ 「鹿児島県土木部」/ 9 Ikenoue-cho, Kagoshima City, Kagoshima Prefecture 892-0806, "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.564043,31.6082715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川田上橋ライブカメラ / Shinkawa Tagami Bridge Live Camera</name>
+        <description><![CDATA[〒890-0034 鹿児島県鹿児島市田上１丁目２６ 「鹿児島県土木部」/ 〒890-0034 1-26 Tagami, Kagoshima City, Kagoshima Prefecture "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5297228,31.5764533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>甲突川宮山橋ライブカメラ / Kotsukigawa Miyayamabashi live camera</name>
+        <description><![CDATA[〒891-1105 鹿児島県鹿児島市郡山町２５８８ 鹿児島県鹿児島地域振興局本庁舎 「鹿児島県土木部」/ Kagoshima Prefecture Regional Development Bureau Main Government Building, 2588 Koriyamacho, Kagoshima City, Kagoshima Prefecture 891-1105 "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4659652,31.6875372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>甲突川岩崎橋ライブカメラ / Kotsuki River Iwasaki Bridge Live Camera</name>
+        <description>鹿児島県鹿児島市下伊敷町48 「鹿児島県土木部」/ 48 Shimoishiki-cho, Kagoshima City, Kagoshima Prefecture “Civil Engineering Department, Kagoshima Prefecture”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5287901,31.6135678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島国際火山砂防センター桜島噴煙状況ライブカメラ / Sakurajima International Volcano Sabo Center Sakurajima Smoke Status Live Camera</name>
+        <description>〒891-1541 鹿児島県鹿児島市野尻町２０３−１ 桜島国際火山砂防センター / Sakurajima International Volcanic Sabo Center 203-1 Nojiri Town, Kagoshima City, Kagoshima Prefecture, 891-1541, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.617597,31.566996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有村川桜島土石流状況ライブカメラ / Arimura River Sakurajima debris flow situation live camera</name>
+        <description><![CDATA[〒891-1545 鹿児島県鹿児島市有村町 「大隅河川国道事務所」/ `Arimura Town, Kagoshima City, Kagoshima Prefecture 891-1545, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6803583,31.5573656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>錦江台桜島ライブカメラ / Kinkodai Sakurajima Live Camera</name>
+        <description><![CDATA[〒891-0145 鹿児島県鹿児島市錦江台 「熊本大学教育学部理科教育研究室」/  Kinkodai, Kagoshima City, Kagoshima 891-0145, Japan, "Kumamoto University Faculty of Education Science Education Laboratory'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4961776,31.5027501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号第二古里橋ライブカメラ / National highway No. 224 second Furusato bridge live camera </name>
+        <description><![CDATA[〒891-1544 鹿児島県鹿児島市古里町 「大隅河川国道事務所」/ Furusato-cho, Kagoshima City, Kagoshima Prefecture, 891-1544, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6575262,31.5526912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号野尻橋ライブカメラ / National highway No. 224 Nojiri Bridge live camera</name>
+        <description><![CDATA[〒891-1541 鹿児島県鹿児島市野尻町 「大隅河川国道事務所」/ Nojiri Town, Kagoshima City, Kagoshima Prefecture, 891-1541, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6207042,31.5632934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号道の駅桜島ライブカメラ / National highway No. 224 station Sakurajima live camera</name>
+        <description><![CDATA[〒891-1419 鹿児島県鹿児島市桜島横山町１７２２−４８ 道の駅 桜島 「大隅河川国道事務所」/ 1722-48 Sakurajima Yokoyama-cho, Kagoshima City, Kagoshima Prefecture 891-1419 Road Station Sakurajima "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5988039,31.5893744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒神川1号ダム上流右岸桜島噴煙状況ライブカメラ / Live camera of Sakurajima volcanic smoke upstream of Kurokami River No. 1 dam</name>
+        <description><![CDATA[〒891-1401 鹿児島県鹿児島市黒神町 「大隅河川国道事務所」/ Kurokami Town, Kagoshima City, Kagoshima Prefecture, 891-1401, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7006459,31.5781089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒神川桜島土石流状況ライブカメラ / Kurokami River Sakurajima debris flow situation live camera</name>
+        <description><![CDATA[〒891-1401 鹿児島県鹿児島市黒神町 「大隅河川国道事務所」/ Kurokami Town, Kagoshima City, Kagoshima Prefecture, 891-1401, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7006459,31.5781089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>持木川桜島土石流状況ライブカメラ / Mochiki River Sakurajima debris flow situation live camera</name>
+        <description><![CDATA[鹿児島県鹿児島市持木町 「大隅河川国道事務所」/ Mochiki Town, Kagoshima City, Kagoshima Prefecture "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6308774,31.5632382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新生田上霊園ライブカメラ / Shinsei Tagami Cemetery Live Camera</name>
+        <description>〒890-0036 鹿児島県鹿児島市田上台１丁目２１−１ 新生田上霊園 / 1-21-1 Tagamidai, Kagoshima City, Kagoshima 890-0036 Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5280937,31.5701931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道226号喜入ライブカメラ / National highway 226 Kiiri live camera</name>
+        <description><![CDATA[〒891-0205 鹿児島県鹿児島市喜入前之浜町 「鹿児島国道事務所」/  Kiiri Maenohama Town, Kagoshima City, Kagoshima Prefecture 891-0205, `"Kagoshima National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5381458,31.3354325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道224号古里ライブカメラ / Route 224 Furusato Live Camera</name>
+        <description>〒891-1544 鹿児島県鹿児島市古里町 「日本道路交通情報センター(JARTIC)」/ Japan Road Traffic Information Center (JARTIC), Furusato-cho, Kagoshima City, Kagoshima Prefecture, 891-1544</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6616461,31.5529107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枕崎観光ホテルライブカメラ / Makurazaki Kanko Hotel live camera</name>
+        <description><![CDATA[〒898-0058 鹿児島県枕崎市岩戸町５８ 枕崎観光ホテル岩戸 「枕崎観光ホテル岩戸」/ Makurazaki Kanko Hotel Iwato, 58 Iwato-cho, Makurazaki-shi, Kagoshima 898-0058,  "Makurazaki Kanko Hotel Iwato"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3093153,31.2666427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花渡川神浦橋ライブカメラ / Hanatagawa Kamiurabashi live camera</name>
+        <description><![CDATA[鹿児島県枕崎市西鹿篭 「鹿児島県土木部」/ Nishikagago, Makurazaki City, Kagoshima Prefecture "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2654531,31.2975932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花渡川神浦橋ライブカメラ / Hanatagawa Kamiurabashi live camera</name>
+        <description>鹿児島県枕崎市西鹿篭「鹿児島県土木部」/ Nishikagama, Makurazaki City, Kagoshima Prefecture “Kobe Island Civil Engineering Department”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2654531,31.2975932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小平瀬鼻灯台 / Kohirasehana Lighthouse</name>
+        <description>〒896-0036 鹿児島県いちき串木野市浦和町５４−１ 串木野海上保安部 / Kushikino Coast Guard, Urawa-cho, 54‐1Ichikikushikino-shi, Kagoshima-ken 896-0036</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2640744,31.7147406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC小平瀬鼻灯台ライブカメラ / MBC Kodaira Sehana Lighthouse Live Camera</name>
+        <description><![CDATA[〒899-1131 鹿児島県阿久根市脇本 小平瀬鼻灯台 「南日本放送(MBC)」/ Kodaira Sehana Lighthouse, Wakimoto, Akune City, Kagoshima Prefecture 899-1131, "South Japan Broadcasting (MBC)'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1711655,32.0810746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出水平野のツル / Cranes in Izumi</name>
+        <description>鹿児島県出水市荘荒崎 インターネット自然研究所 / Shoarasaki, Izumi City, Kagoshima, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.27442,32.103516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出水市のツル / Cranes in Izumi City</name>
+        <description><![CDATA[〒899-0208 鹿児島県出水市文化町１０００出水市ツル博物館クレインパークいずみ / Izumi  City Crane Museum "Crane Park Izumi," 1000 Bunka-cho, Izumi-shi, Kagoshima-ken 899-0208]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.34317,32.098281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米之津川春日橋ライブカメラ / Komenotsu River Kasuga Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県出水市 春日橋 「鹿児島県土木部」/ Kasuga Bridge, Izumi City, Kagoshima Prefecture "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3533573,32.0864949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>校内中庭・出水市 / School Courtyard and Izumi City</name>
+        <description>〒899-0213 鹿児島県出水市西出水町４４８ 出水中央高等学校 / Izumi Chuo High School, 448 Nishiizumi-cho, Izumi-shi, Kagoshima-ken 899-0213</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.338707,32.077193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTS開聞岳長崎鼻ライブカメラ / KTS Kaimondake Nagasakibana Live Camera</name>
+        <description><![CDATA[〒891-0513 鹿児島県指宿市山川岡児ケ水１５７１−１　長崎鼻パーキングガーデン　鹿児島テレビ放送(live4 kts) / Nagasakibana parking garden, 1571-1 Yamagawa-Okagamizu, Ibusuki-shi, Kagoshima 891-0513  "Kagoshima Television Broadcasting (live 4 kts)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.587683,31.161075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二反田川二月田橋ライブカメラ / Nitanda River Nigatsuden Bridge Live Camera</name>
+        <description>鹿児島県指宿市十町 「鹿児島県土木部」/ Juccho, Ibusuki City, Kagoshima Prefecture “Civil Engineering Department, Kagoshima Prefecture”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6287022,31.2570624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藺牟田池カメラ / Imuta-ike Cam</name>
+        <description>鹿児島県薩摩川内市 湖畔リゾートホテルいむた (薩摩川内市役所) / Lakeside Resort Hotel Imuta, Satsumasendai City, Kagoshima (Satsumasendai City Hall)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.471916,31.821419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里（甑島館）/ Sato (Koshikishimakan)</name>
+        <description><![CDATA[〒896-1101 鹿児島県薩摩川内市里町里１６１９−１５　リゾートホテル甑島館　「薩摩川内市ライブ映像」/ Resort Hotel Koshikishimakan, 1619-15 Sato, Sato-cho, Satsumasendai-shi, Kagoshima-ken 896-1101, "Satsumasendai City Live Videos"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9206228,31.8425568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藺牟田池 / Imuta-ike (Pond)</name>
+        <description><![CDATA[〒895-1502 鹿児島県薩摩川内市祁答院町藺牟田 藺牟田池  「薩摩川内市ライブ映像」/ Imuta-ike Pond, Imuta, Kedoin-cho, Satsumasendai-shi, Kagoshima-ken 895-1502, "Satsumasendai City Live Video"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4681821,31.8180788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手打ライブカメラ / Teuchi Live Cam</name>
+        <description>〒896-1601 鹿児島県薩摩川内市下甑町手打1035番地1‎ 手打地区コミュニティ協議会 / Teuchi District Community Council, 1035-1 Teuchi, Shimokoshiki-cho, Satsumasendai-shi, Kagoshima-ken 896-1601</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.705559,31.6377779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川リアルタイム防災情報 / Sendai River real-time disaster prevention information</name>
+        <description>〒895-0075 鹿児島県薩摩川内市東大小路町２０−２ 国土交通省 九州地方整備局　川内川河川事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Sendai River Office, 20-2 Higashioshoji-cho, Satsumasendai-shi, Kagoshima-ken 895-0075</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.310544,31.823666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川南瀬第三樋管ライブカメラ / Sendai River Nanase third gutter live camera</name>
+        <description><![CDATA[〒895-1105 鹿児島県薩摩川内市東郷町南瀬 「川内川河川事務所」/ Nouze, Togo-cho, Satsumasendai-shi, Kagoshima Prefecture, 895-1105, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3877024,31.8545301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川庄込第一樋門ライブカメラ / Sendai River Shogome First Himon Live Camera</name>
+        <description>〒895-0003 鹿児島県薩摩川内市中村町 「国土交通省河川情報センター」/ Nakamura-cho, Satsumasendai City, Kagoshima Prefecture, 895-0003 Japan “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3582961,31.8485062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川倉浦排水樋門ライブカメラ / Sendai River Kuraura drainage gutter live camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市久見崎町 「国土交通省河川情報センター」/ Kumizaki-cho, Satsumasendai City, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2117858,31.8311389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC上甑島懐団地ライブカメラ / MBC Kamikoshiki Island Futokorodanchi Live Camera</name>
+        <description><![CDATA[〒896-1203 鹿児島県薩摩川内市上甑町江石 「南日本放送(MBC)」/  Eishi, Kamikoshiki-cho, Satsumasendai City, Kagoshima Prefecture, "Minami Nippon Broadcasting System (MBC)'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.875912,31.8167727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上甑島懐団地ライブカメラ / Kamikoshikishima Futokorodanchi Live Camera</name>
+        <description><![CDATA[〒896-1201 鹿児島県薩摩川内市上甑町　「薩摩川内市ライブ映像」/ Kamikoshiki-cho, Satsumasendai-shi, Kagoshima-ken 896-1201, "Satsumasendai City Live Videos"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8650139,31.8349752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿島（鳥ノ巣山灯台）/ Kashima (Torinosuyama Lighthouse)</name>
+        <description><![CDATA[〒896-1301 鹿児島県薩摩川内市鹿島町藺牟田 鳥ノ巣山灯台　「南日本放送(MBC)」/ Torinosuyama, Imuta, Kashima-cho, Satsumasendai-shi, Kagoshima-ken 896-1301, "South Japan Broadcasting (MBC)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.801134,31.7848455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺山公園ライブカメラ / Terayama Park Live Cam</name>
+        <description><![CDATA[〒895-0011 鹿児島県薩摩川内市天辰町２４５３−３０　寺山いこいの広場公園　「南日本放送(MBC)」 / Terayama Ikoino Hiroba Park, 2453-30 Amatatsu-cho, Satsumasendai-shi, Kagoshima 895-0011, "Minaminihon Broadcasting (MBC)""]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.340123,31.824846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西方海岸カメラ / Nishikata Coast</name>
+        <description><![CDATA[〒899-1801 鹿児島県薩摩川内市西方町３３１１　薩摩川内市西方地区 コミュニティセンター 「南日本放送(MBC)」 / Satsumasendai City Nishikata District Community Center, 3311 Nishikata-cho, Satsumasendai-shi, Kagoshima 899-1801, " Minaminihon Broadcasting Co.,Ltd. "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2240828,31.9170346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薩摩川内市ライブカメラ映像</name>
+        <description>薩摩川内市役所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.303956,31.813489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川天辰ライブカメラ / Sendai River Amatatsu Live Camera</name>
+        <description><![CDATA[〒895-0011 鹿児島県薩摩川内市天辰町 「川内川河川事務所」/ Amatatsu-cho, Satsumasendai City, Kagoshima Prefecture, 895-0011, Japan, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3210421,31.8264362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川天辰馬場ライブカメラ / Sendai River Amatatsu Baba Live Camera</name>
+        <description><![CDATA[〒895-0011 鹿児島県薩摩川内市天辰町 「川内川河川事務所」/ Amatatsu-cho, Satsumasendai City, Kagoshima Prefecture, 895-0011, Japan, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3318311,31.8308189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川斧渕通山ライブカメラ / Sendai River Onobuchi Tsuyama Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市東郷町斧渕 「川内川河川事務所」/ Onobuchi, Togo-cho, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.349798,31.8591317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川上水流ライブカメラ / Kawauchi river water stream live camera</name>
+        <description>鹿児島県薩摩川内市中郷町 「川内川河川事務所」/ Nakago Town, Satsumasendai City, Kagoshima Prefecture “Kawauchi River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3200728,31.8464754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川山田島ライブカメラ / Sendai River Yamadajima Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市中郷町山田島 「川内川河川事務所」/Yamadajima, Chugo-cho, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3175344,31.8382476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川東大小路ライブカメラ / Sendai River Higashioshouji Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市東大小路町 「川内川河川事務所」/ Higashioshouji-cho, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3116352,31.8232782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川隈之城川合流点ライブカメラ / Sendai River Kumanojo River Confluence Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市西開聞町 「川内川河川事務所」/ Nishikaimon Town, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2961413,31.8161303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川花木ライブカメラ / Sendai River Hanaki Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市若葉町 「川内川河川事務所」/ Wakaba Town, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.301063,31.8204818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川宮内ライブカメラ / Sendai River Miyauchi Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市宮内町 「川内川河川事務所」/ Miyauchi Town, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2889643,31.8201748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川銀杏木排水機場外水ライブカメラ / Sendai River Ichogi Drainage Pump Station Outdoor Water Live Camera</name>
+        <description><![CDATA[〒895-0065 鹿児島県薩摩川内市宮内町 銀杏木排水機場 「川内川河川事務所」 / Ichogi tree drainage pumping station, Miyauchi Town, Satsumasendai City, Kagoshima Prefecture, 895-0065 Japan, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2885583,31.8204443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川五代ライブカメラ / Sendai River Godai Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市五代町 「川内川河川事務所」/ Godai Town, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2783197,31.825338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川川内河口大橋ライブカメラ / Sendai River Sendai Kawaguchi Ohashi Bridge Live Camera </name>
+        <description><![CDATA[鹿児島県薩摩川内市港町船間島 「川内川河川事務所」/Funamajima, Minato-cho, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2107563,31.8449132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川小倉ライブカメラ / Sendai River Kokura Live Camera</name>
+        <description><![CDATA[〒899-1922 鹿児島県薩摩川内市小倉町 「川内川河川事務所」/ Kokura Town, Satsumasendai City, Kagoshima Prefecture 899-1922, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2579064,31.830324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川久見崎ライブカメラ / Sendai River Gumizaki Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市久見崎町 「川内川河川事務所」/ Gumizaki Town, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2068088,31.8391681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平佐川草原橋ライブカメラ / Hirasa River Sougen Bridge Live Camera</name>
+        <description><![CDATA[〒895-0012 鹿児島県薩摩川内市平佐町１６８６−６ 「鹿児島県土木部」/ 1686-6 Hirasa-cho, Satsumasendai-shi, Kagoshima Prefecture 895-0012, "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3238268,31.8085792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川太平橋ライブカメラ / Sendai River Taihei Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩川内市向田本町 「川内川河川事務所」/ Mukoudahon-machi, Satsumasendai City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3037074,31.8194393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川倉野橋ライブカメラ / Sendai River Kurano Bridge Live Camera</name>
+        <description><![CDATA[〒895-1105 鹿児島県薩摩川内市東郷町南瀬 「川内川河川事務所」/ Nouze, Togo-cho, Satsumasendai-shi, Kagoshima Prefecture, 895-1105, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3853898,31.8699023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下甑（前の平展望所）/ Shimokoshiki (Maenodaira Observatory)</name>
+        <description><![CDATA[鹿児島県薩摩川内市下甑町瀬々野浦１１９１　前の平展望所(ナポレオン岩)　「薩摩川内市ライブ映像」/ Maenodaira Observatory (Napoleon Rock), 1191 Sesenoura, Shimokoshiki-cho, Satsumasendai-shi, Kagoshima-ken, "Satsumasendai City Live Videos"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.6940994,31.6934172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吹上浜ライブカメラ / Fukiage Beach Live Cam</name>
+        <description><![CDATA[〒899-2203 鹿児島県日置市東市来町伊作田７４２５−５ 日置市江口蓬莱館 「日置市役所」 / Hioki City Eguchi Horai-kan, 7425-5 Izakuda, Higashiichiki-cho, Hioki-shi, Kagoshima-ken 899-2203, "Hioki City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.323,31.645417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC江口浜ライブカメラ / MBC Eguchi Beach Live Camera</name>
+        <description><![CDATA[〒899-2203 鹿児島県日置市東市来町伊作田 「南日本放送(MBC)」/  Izakuda, Higashiichikicho, Hioki City, Kagoshima Prefecture 899-2203, "South Japan Broadcasting (MBC)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3269921,31.6366814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>iinami江口ライブカメラ / iinami Eguchi Live Camera</name>
+        <description><![CDATA[〒899-2203 鹿児島県日置市東市来町伊作田 「iinami.com」/ Izakuda, Higashiichikicho, Hioki City, Kagoshima Prefecture 899-2203, "iinami.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3265522,31.6369828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神之川荒瀬橋下流ライブカメラ / Kannogawa River Arase Bridge downstream live camera</name>
+        <description><![CDATA[〒899-2502 鹿児島県日置市伊集院町徳重３７１−１ 「鹿児島県土木部」/ 371-1 Tokushige, Ijuin-cho, Hioki-shi, Kagoshima 899-2502, "Japan Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3945902,31.630017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島ライブカメラ / Sakurajima Live Cam</name>
+        <description>〒899-4501 鹿児島霧島市福山町福山３６２１−１ 伊達醸造 / Date Jozo Limited Partnership, 3621-1 Fukuyama, Fukuyama-cho, Kirishima-shi, Kagoshima 899-4501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8129327,31.6810264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC新燃岳大浪池ライブカメラ / MBC Shinmoedake Onamiike Live Camera</name>
+        <description><![CDATA[鹿児島県霧島市 大浪池 「南日本放送(MBC)」/ Onamiike, Kirishima-shi, Kagoshima "Southern Japan Broadcasting (MBC)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8494149,31.9221138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天降川日当山橋ライブカメラ / Amori River Hitoyama Bridge Live Camera</name>
+        <description><![CDATA[〒899-5115 鹿児島県霧島市隼人町東郷 日当山橋 「鹿児島県土木部」/ Hitoyama Bridge, Hayato-cho Togo, Kirishima City, Kagoshima Prefecture, 899-5115, Japan, "Kagoshima Prefecture Civil Engineering Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7538711,31.7709247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿児島空港ライブカメラ / Kagoshima Airport live camera</name>
+        <description><![CDATA[〒899-6404 鹿児島県霧島市溝辺町麓８７６−１５ バレル・バレー 「かごしまライブカメラネットワーク」/ Barrel Valley,  876-15, Mizobe Town, Kirishima City, Kagoshima Prefecture 899-6404"Kagoshima Live Camera Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7136935,31.7970312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿児島空港ライブカメラ / Kagoshima Airport Live Camera</name>
+        <description>〒899-6404 鹿児島県霧島市溝辺町麓８２２ 鹿児島空港 / Kagoshima Airport Building Co., Ltd., 822 Fumoto, Mizobe-cho, Kirishima-shi, Kagoshima-ken 899-6404</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7180234,31.8028526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC国分ハイテク展望台ライブカメラ / MBC Kokubu High-tech Observatory Live Camera</name>
+        <description>鹿児島県霧島市国分上野原テクノパーク2-1 国分ハイテク展望台 / Kokubu Uenohara Techno Park 2-1 Kokubu High-Tech Observatory, Kirishima City, Kagoshima Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7933417,31.7137139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大浪池霧島山火山監視ライブカメラ / Onami Pond Kirishimayama volcano monitoring live camera</name>
+        <description><![CDATA[鹿児島県霧島市 大浪池 「鹿児島県姶良伊佐地域振興局」/ Onamiike, Kirishima City, Kagoshima Prefecture "Aira Isa Area Promotion Bureau, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8492432,31.9210028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道3号金山峠ライブカメラ /National Highway No. 3 Kanayama Pass Live Camera </name>
+        <description><![CDATA[〒896-0075 鹿児島県いちき串木野市金山 「鹿児島国道事務所」/  Kanayama, Ichikikushikino City, Kagoshima Prefecture 896-0075, "Kagoshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3012044,31.747195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県立吹上浜海浜公園風景ライブカメラ / Fukiagehama Seaside Park</name>
+        <description>〒897-1123 鹿児島県南さつま市加世田高橋１９３６−２ 県立吹上浜海浜公園 / Fukiagehama Seaside Park, 1936-2 Kayodatakahashi, Minami satsuma-shi, Kagoshima-ken 897-1123</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.28914,31.438001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[今日のサンセットブリッジ / Today's Sunset Bridge]]></name>
+        <description>〒897-1124 鹿児島県南さつま市加世田宮原２３９８　株式会社 エルム / ELM Inc., 2398 Kasedamiyabara, Minamisatsuma-shi, Kagoshima-ken 897-1124</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3070889,31.4319587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加世田川日新橋ライブカメラ / Kaseda River Nisshin Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県南さつま市加世田武田「鹿児島県土木部」/ Takeda Kaseda, Minamisatsuma City, Kagoshima Prefecture "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2935452,31.3993631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加世田川日新橋ライブカメラ / Kasegawa Nisshinbashi Live Camera</name>
+        <description>鹿児島県南さつま市加世田武田 「鹿児島県土木部」/ Kasedatakeda, Minamisatsuma City, Kagoshima Prefecture “Civil Engineering Department, Kagoshima Prefecture”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2935452,31.3993631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>万之瀬川万之瀬橋ライブカメラ / Manose River Manose Bridge live camera</name>
+        <description><![CDATA[鹿児島県南さつま市 万之瀬橋 「鹿児島県土木部」/ Manosebashi, Minamisatsuma City, Kagoshima Prefecture, "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3262406,31.4279437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>万之瀬川大渡橋ライブカメラ / Manose River Owatari Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県南九州市川辺町平山六丁園田4619-1 「鹿児島県土木部」/ 4619-1, Hirayama Rokuchoenoda, Kawabe-cho, Minamikyushu-shi, Kagoshima Prefecture, "Public Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3798057,31.3809213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道225号峯尾ライブカメラ / National highway No. 225 Mineo live camera</name>
+        <description><![CDATA[鹿児島県南九州市川辺町上山田 「鹿児島国道事務所」/ Kamiyamada, Kawabe-cho, Minamikyushu-shi, Kagoshima "Kagoshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3394854,31.339032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道225号川辺峠ライブカメラ / National Highway 225 Kawabe Pass Live Camera</name>
+        <description><![CDATA[鹿児島県南九州市川辺町平山 「鹿児島国道事務所」/ Hirayama, Kawabe-cho, Minamikyushu, Kagoshima Prefecture "Kagoshima National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.393037,31.3976045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽月川金波田第三樋門ライブカメラ / Haduki River Kanehada third gutter live camera</name>
+        <description><![CDATA[〒895-2523 鹿児島県伊佐市大口金波田 「国土交通省河川情報センター」/ Okuchikanehada, Isa City, Kagoshima Prefecture 895-2523, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.606756,32.0343265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽月川榎水流ライブカメラ / Haduki River Enokizuru Live Camera</name>
+        <description>鹿児島県伊佐市大口金波田 「羽月川河川事務所」/ Okuchikanehada, Isa City, Kagoshima, “Haduki River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6132508,32.0325942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川曽木第一樋門ライブカメラ / Sendai River Sogi No. 1 Himon Live Camera </name>
+        <description>鹿児島県伊佐市大口曽木 「国土交通省河川情報センター」 / Okuchi Sogi, Isa City, Kagoshima Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5970902,32.0119498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川筏場樋門ライブカメラ / Sendai River Ikadaba Gutter Gate Live Camera</name>
+        <description>鹿児島県伊佐市大口曽木 「国土交通省河川情報センター」/ Okuchi Sogi, Isa City, Kagoshima Prefecture “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5831304,32.0142528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川曽木の滝分水路ライブカメラ / Sendai River Sogi Falls Watershed Live Camera </name>
+        <description><![CDATA[鹿児島県伊佐市大口曽木 「	川内川河川事務所」/ Okuchi Sogi, Isa City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.579061,32.0105481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川曽木の滝ライブカメラ / Sendai River Sogi Falls Live Camera</name>
+        <description><![CDATA[〒895-2526 鹿児島県伊佐市大口宮人６２８−４１ 曽木の滝 「川内川河川事務所」/ Sogi Falls,  628-41 Okuchi Miyahito, Isa City, Kagoshima Prefecture 895-2526, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5772006,32.011431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽月川羽月橋ライブカメラ / Haduki River Haduki Bridge Live Camera</name>
+        <description><![CDATA[〒895-2522 鹿児島県伊佐市大口大島 「	川内川河川事務所」/ Okuchi Oshima, Isa City, Kagoshima Prefecture 895-2522, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5965967,32.0477238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川湯之尾堰下流ライブカメラ / Sendai River Yunoo Weir downstream live camera</name>
+        <description><![CDATA[〒895-2708 鹿児島県伊佐市菱刈川北 「川内川河川事務所」/ Hishikarikawakita, Isa City, Kagoshima Prefecture 895-2708, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6803583,31.9940767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川湯之尾堰ライブカメラ / Sendai River Yunoo Weir Live Camera</name>
+        <description>〒895-2812 鹿児島県伊佐市菱刈川南７８−１ 国土交通省川内川工事事務所 菱刈出張所 / 78-1 Hishikarigawa Minami, Isa City, Kagoshima Prefecture, 895-2812, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6571764,31.9906264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川西山ライブカメラ / Sendai River Nishiyama Live Camera</name>
+        <description><![CDATA[〒895-2708 鹿児島県伊佐市菱刈川北 「川内川河川事務所」/ Hishikarikawakita, Isa City, Kagoshima Prefecture 895-2708, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6803583,31.9940767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川広田第一樋門ライブカメラ / Sendai River Hirota First Gutter Live Camera </name>
+        <description><![CDATA[鹿児島県伊佐市菱刈川南  「国土交通省河川情報センター」/ Hishikarikawaminami, Isa City, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.674421,31.9787671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川鵜泊橋ライブカメラ / Sendai River Udomari Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県伊佐市菱刈川南 「川内川河川事務所」/ Hishikari Kawaminami, Isa City, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6643007,31.9849994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽月川下手ライブカメラ / Haduki river Shimode live camera</name>
+        <description><![CDATA[鹿児島県伊佐市菱刈下手 「羽月川河川事務所」/ Hishikari Shimode, Isa City, Kagoshima Prefecture, "Haduki River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6009802,32.020566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川荒田天神橋ライブカメラ / Sendai River Arata Tenjinbashi live camera</name>
+        <description><![CDATA[〒895-2811 鹿児島県伊佐市菱刈荒田 「川内川河川事務所」/ Hishikari Arata, Isa City, Kagoshima Prefecture, 895-2811, "Sendai River Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6270694,31.9933094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>別府川友徳橋ライブカメラ / Beppu River Tomonobashi Live Camera</name>
+        <description><![CDATA[〒899-5405 鹿児島県姶良市住吉 「鹿児島県土木部」/ Sumiyoshi, Aira City, Kagoshima Prefecture 899-5405, "Public Engineering Department, Kagoshima Prefecture'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5927864,31.7656191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島SAライブカメラ / Sakurajima SA live camera</name>
+        <description><![CDATA[〒899-5431 鹿児島県姶良市西餅田２３５６ 桜島SA (下り)　NEXCO西日本 / Sakurajima SA (down) , 2356 Nishi-Mochida, Aira-shi, Kagoshima 899-5431, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6162935,31.7262973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴田ダムLIVE / Tsuruta Dam LIVE</name>
+        <description>〒895-2102　鹿児島県薩摩郡さつま町神子3988-2 鶴田ダム管理所 / Tsuruta Dam Management Office, 3988-2 Koshi, Satsuma-cho, Satsuma-gun, Kagoshima 895-2102</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.491486,31.989296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北薩広域公園ライブカメラ / Hokusatsu Koiki Park Live Cam</name>
+        <description>〒895-1811 鹿児島県薩摩郡さつま町虎居５４７０ 北薩広域公園 / Hokusatsu Koiki Park, 5470 Torai, Satsuma-cho, Satsuma-gun, Kagoshima-ken 895-1811</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.439129,31.896943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川神子橋ライブカメラ / Sendai  River Kamiko Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県さつま町神子 「国土交通省河川情報センター」/ Miko, Satsuma Town, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4807958,31.9568336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川夜星川合流地点ライブカメラ / Sendai River Yaboshi River Confluence Live Camera </name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町柏原 「国土交通省河川情報センター」/ Kashiwabaru, Satsuma Town,  Satsuma-gun, Kagoshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.464689,31.9246775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川柏原橋ライブカメラ / Sendai River Kashiwabaru Bridge Live Camera</name>
+        <description><![CDATA[〒895-2104 鹿児島県薩摩郡さつま町柏原 「川内川河川事務所」/Kashiwabaru, Satsuma-cho, Satsuma-gun, Kagoshima Prefecture 895-2104,  "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4567255,31.9377229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川運床川樋門ライブカメラ / Sendi River Unsho River Gutter Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町二渡 「国土交通省河川情報センター」/ Futawatari, Satsuma-cho, Satsuma-gun, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4283223,31.8666856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川宮都大橋ライブカメラ / Sendai River Miyatoohashi Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町宮之城屋地 「川内川河川事務所」/ Miyanojoyachi, Satsuma-cho, Satsuma-gun, Kagoshima Prefecture, <br>"Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4574094,31.9095521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川虎居ライブカメラ / Sendai River Torai Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町宮之城屋地 「川内川河川事務所」/Miyanojo Yachi, Satsuma-cho, Satsuma-gun, Kagoshima Prefecture, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4592716,31.9058629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川轟大橋ライブカメラ / Sendai River Todorokiohashi Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町時吉 「川内川河川事務所」/ Tokiyoshi, Satsuma-cho, Satsuma-gun, Kagoshima "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4613903,31.9140021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川山崎橋ライブカメラ / Sendai River Yamasaki Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県薩摩郡さつま町山崎 「川内川河川事務所」/ Yamazaki, Satsuma-cho, Satsuma-gun, Kagoshima "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4281737,31.8643051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川推込分水路ライブカメラ / Sendai River Shigome Diversion Channel Live Camera</name>
+        <description><![CDATA[鹿児島県さつま町宮之城屋地 「川内川河川事務所」/ Miyanojo Yachi, Satsuma Town, Kagoshima Prefecture "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4445053,31.9039263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川西新町ライブカメラ / Sendai River Nishishinmachi Live Camera</name>
+        <description><![CDATA[〒895-1815 鹿児島県薩摩郡さつま町西新町 「	川内川河川事務所」/ Nishishinmachi, Satsuma-cho, Satsuma-gun, Kagoshima Prefecture 895-1815, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4471766,31.9063317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川中鶴橋ライブカメラ / Sendai River Nakatsuru Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県湧水町鶴丸 「国土交通省河川情報センター」/ Tsurumaru, Yusui Town, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7409659,32.0266456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川田尾原第一樋門ライブカメラ / Sendai River Taobaru First Himon Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町北方 「国土交通省河川情報センター」/ Kitakata, Yusui Town, Aira District, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7062267,31.9593771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川轟橋ライブカメラ / Sendai River Todoroki Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町稲葉崎 「国土交通省河川情報センター」/ Inabazaki, Yusui Town, Aira District, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6893966,31.9648341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川広田川樋門ライブカメラ / Sendai River Hirota River Himon Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町稲葉崎 「国土交通省河川情報センター」/ Inabazaki, Yusui-cho, Aira-gun, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6882824,31.9714322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川鶴丸用排水樋門ライブカメラ / Sendai River Tsurumaru drainage gutter live camera </name>
+        <description><![CDATA[鹿児島県姶良郡湧水町鶴丸　「国土交通省河川情報センター」/ Tsurumaru, Yusui-cho, Aira-gun, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7431473,32.0361369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川鶴丸水門ライブカメラ / Sendai River Tsurumaru Sluice Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町般若寺 「国土交通省河川情報センター」/ Hannyaji, Yusui Town, Aira District, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7386097,32.0285286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川宇都川樋門ライブカメラ / Sendai River Uto River Himon Live Camera</name>
+        <description><![CDATA[鹿児島県湧水町川西 「国土交通省河川情報センター」/ Kawanishi, Yusui-cho, Kagoshima "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7407007,32.0014392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川綿打第一樋門ライブカメラ / Sendai River Watauchi Daiichi Himon Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町米永 「国土交通省河川情報センター」/ Yoneaga, Yusui-cho, Aira-gun, Kagoshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7079094,31.9475516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川栗野橋ライブカメラ / Sendai River Kurino Bridge Live Camera</name>
+        <description>鹿児島県姶良郡湧水町米永 「川内川河川事務所」/ Yonenaga, Yusui-cho, Aira-gun, Kagoshima “Sendai River Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7161594,31.951676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川木場ライブカメラ / Sendai River Kiba Live Camera</name>
+        <description><![CDATA[鹿児島県姶良郡湧水町木場 「川内川河川事務所」/ Kiba, Yusui-cho, Aira-gun, Kagoshima Prefecture "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7462671,31.9449107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川北方ライブカメラ / Sendai River Kitakata Live Camera</name>
+        <description><![CDATA[〒899-6202 鹿児島県姶良郡湧水町北方 「川内川河川事務所」/ Kitakata, Yusui Town, Aira District, Kagoshima Prefecture 899-6202, <br>"Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7209264,31.9689234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川阿波井堰ライブカメラ / Sendai River Awai Weir Live Camera</name>
+        <description><![CDATA[〒899-6103 鹿児島県姶良郡湧水町川添 「川内川河川事務所」/ Kawazoe, Yusui Town, Aira District, Kagoshima Prefecture 899-6103, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7389298,31.9759891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川川添ライブカメラ / Sendai River Kawasoe Live Camera</name>
+        <description><![CDATA[〒899-6103 鹿児島県姶良郡湧水町川添 「川内川河川事務所」/ Kawasoe, Yusui-cho, Aira-gun, Kagoshima 899-6103, Japan, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7665315,31.9749597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川竹下ライブカメラ / Sendai River Takeshita Live Camera</name>
+        <description>〒899-6102 鹿児島県姶良郡湧水町中津川914−5 国土交通省川内川河川事務所 竹下排水機場 / 914-5 Nakatsugawa, Yusui-cho, Aira-gun, Kagoshima Prefecture 899-6102, Takeshita Drainage Pumping Station, Sendai River Office, Ministry of Land, Infrastructure, Transport and Tourism </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7433328,32.0175082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川内川吉松橋ライブカメラ / Sendai River Yoshimatsu Bridge Live Camera</name>
+        <description><![CDATA[〒899-6103 鹿児島県姶良郡湧水町川添 吉松橋 「川内川河川事務所」/  Yoshimatsubashi, Kawasoe, Yusui-cho, Aira-gun, Kagoshima 899-6103, Japan, "Sendai River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7584004,31.9922599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大浜サンセットライブカメラ / Ohama Sunset Live Cam</name>
+        <description>〒894-0046 鹿児島県奄美市名瀬大字小宿７０１−１奄美海洋展示館 / Amami Marine Exhibition Hall, 701-1 Naze Koshuku, Amami-shi, Kagoshima-ken 894-0046</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.4546991,28.4021312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笠利崎灯台からの映像 / Image from Kasarizaki Lighthouse</name>
+        <description><![CDATA[〒894-0621 鹿児島県奄美市笠利町大字用　笠利崎灯台　「奄美海上保安部」 / Kasarizaki Lighthouse, Oazayo, Kasari-cho, Amami-shi, Kagoshima-ken 894-0461, "Amami Coast Guard"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.6892432,28.5295417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC奄美市名瀬ライブカメラ / MBC Amami City Naze Live Camera</name>
+        <description><![CDATA[〒894-0000 鹿児島県奄美市名瀬永田町１７−３ 名瀬港 「南日本放送(MBC)」/ Naze Port, 17-3 Naze Nagatacho, Amami City, Kagoshima Prefecture 894-0000,  "Minaminihon Broadcasting Co.,Ltd. "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.496942,28.3887663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奄美空港ライブカメラ / Amami Airport Live Camera</name>
+        <description><![CDATA[鹿児島県奄美市笠利町和野374-4 奄美空港 「南日本放送」/Amami Airport, 374-4 Wano, Kasari Town, Amami City, Kagoshima Prefecture "Minaminihon Broadcasting Co.,Ltd."<br>https://livecamera.fujiyamasan.com/amami-airport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7118767,28.4310693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十島村監視カメラシステム / Toshima Village Surveillance Camera System</name>
+        <description>〒892-0822 鹿児島県鹿児島市泉町１４−１５ 十島村役場 / Toshima Village Office, 14-15 Izumi-cho, Kagoshima-shi, Kagoshima-ken 892-0822</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.560515,31.593195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC諏訪之瀬島切石港ライブカメラ / MBC Suwanosejima Kiriishi Port Live Camera</name>
+        <description><![CDATA[〒891-5203 鹿児島県鹿児島郡十島村諏訪之瀬島 切石港 「南日本放送(MBC)」/ Kiriishi Port,  Suwanosejima, Toshima Village, Kagoshima District, Kagoshima Prefecture 891-5203, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.7133788,29.6102249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC宝島前籠漁港ライブカメラ / MBC Takarajima Island Maegomori Fishing Port Live Camera</name>
+        <description><![CDATA[〒891-5301 鹿児島県鹿児島郡十島村宝島 「南日本放送(MBC)」/  Takarajima,  Toshima Village, Kagoshima-gun, Kagoshima Prefecture 891-5301, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.2115678,29.1488119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC悪石島やすら浜港ライブカメラ / MBC Akusekijima Yasurahama Port Live Camera</name>
+        <description><![CDATA[鹿児島県十島村悪石島 「南日本放送(MBC)」/ Akusekijima, Toshima-mura, Kagoshima,  "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.593674,29.4560631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC平島東之浜港ライブカメラ / MBC Tairajima Higashinohama Port Live Camera</name>
+        <description><![CDATA[鹿児島県鹿児島郡十島村平島 「南日本放送(MBC)」/ Tairajima, Toshima-mura, Kashima-gun, Kagoshima, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.5304121,29.6887977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪之瀬島寄木ライブカメラ / Suwanosejima Yoriki Live Camera</name>
+        <description>〒891-5201 鹿児島県鹿児島郡十島村中之島 「気象庁」/ Nakanoshima, Toshima Village, Kagoshima District, Kagoshima Prefecture, 891-5201 Japan Meteorological Agency</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.8681983,29.8569908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>喜界島ライブカメラ / Kikaijima Live Camera</name>
+        <description>〒891-6202 鹿児島県大島郡喜界町湾１７４６ 喜界町役場 / Kikai Town Hall, 1746 Kikaichowan, Oshima-gun, Kagoshima-ken 891-6202</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9400393,28.3168301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC喜界町ライブカメラ / MBC Kikai Town Live Camera</name>
+        <description><![CDATA[〒891-6292 鹿児島県大島郡喜界町大字湾１７４６　喜界町役場 「南日本放送(MBC)」/ Kikai Town Office, 1746 Wan, Kikai Town, Oshima District, Kagoshima Prefecture 891-6292,  "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.940355,28.317131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>tokki-TV</name>
+        <description>〒891-7101 鹿児島県大島郡徳之島町亀津５３　（有）徳之島通信特機 / Tokunoshimatsushintokki Inc., Ltd., 53 Kametsu, Tokunoshima-cho, Oshima-gun, Kagoshima-ken 891-7101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.0212817,27.7370526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳之島町亀津ライブカメラ / Tokunoshima Town Kamatsu Live Camera</name>
+        <description><![CDATA[鹿児島県大島郡徳之島町亀津 「yasu ibuchan」/ Kameshima, Tokunoshima-cho, Oshima-gun, Kamezu "yasu ibu chan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.9981052,27.730571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天城町役場ライブカメラ / Amagi Town Office Live Camera</name>
+        <description>〒891-7692　鹿児島県大島郡天城町平土野2691-1 天城町役場 / Amagi Town Hall, 2691-1 Hetono, Amagi-cho, Oshima-gun, Kagoshima-ken 891-7692</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.897696,27.811778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和泊町ライブカメラ / Wadomari Town Live Cam</name>
+        <description>〒891-9112 鹿児島県大島郡和泊町和泊１０ 和泊町役場 / Wadomari Town Hall, 10 Wadomari, Wadomari-cho, Oshima-gun, Kagoshima 891-9112</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.655267,27.392564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC和泊町和泊ライブカメラ / MBC Wadomari Town Wadomari Live Camera</name>
+        <description><![CDATA[〒891-9112 鹿児島県大島郡和泊町和泊１４ 朝戸医院 「南日本放送(MBC)」/  Asado Clinic, 14 Wadomari, Wadomari-cho, Oshima-gun, Kagoshima Prefecture 891-9112, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.6546056,27.3927814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知名町ライブカメラ / China Town Live Cam</name>
+        <description>〒891-9295 鹿児島県大島郡知名町大字知名307番地　知名町役場 / China Town Hall, 307 China, China-cho, Oshima-gun, Kagoshima 891-9295</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.573728,27.333698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC知名町ライブカメラ / MBC China Town Live Camera</name>
+        <description><![CDATA[〒891-9214 鹿児島県大島郡知名町知名３０７番地 知名町役場 「南日本放送(MBC)」/  China Town Office, 307 China, China Town, Oshima District, Kagoshima Prefecture 891-9214,  "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.5739709,27.3338903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>与論島ライブカメラ / Yoronjima Live Cam</name>
+        <description><![CDATA[鹿児島県大島郡与論町 「ライブカメラYORON」 / Yoron-cho, Oshima-gun, Kagoshima, "Live Cam YORON"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.414726,27.048577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>与論島沖縄本島北部ライブカメラ / Yoron Island Okinawa Main Island Northern Live Camera</name>
+        <description>鹿児島県大島郡与論町 与論電子 / Yoron Electronics, Yoron-cho, Oshima-gun, Kagoshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            128.4163795,27.045326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白水キャンパス・海洋スポーツセンター・大隅湖畔 / Shiramizu Campus, Marine Sports Center, Lake Osumi</name>
+        <description>〒891-2311 鹿児島県鹿屋市白水町１　鹿屋体育大学 スポーツ情報センター / Kanoya Sports University Sports Information Center, 1 Shiromizu-cho, Kanoya City, Kagoshima Prefecture 891-2311 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7863513,31.3950435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿屋体育大学大隅湖畔ライブカメラ / Kanoya University of Physical Education Osumi Lakeside Live Camera</name>
+        <description>鹿児島県鹿屋市上高隈町 「鹿屋体育大学」/ Kamitakakuma Town, Kanoya City, Kagoshima Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8612343,31.5094557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿屋市ライブカメラ / Kanoya City Live Camera</name>
+        <description>〒893-0005 鹿児島県鹿屋市共栄町２０−１鹿屋市役所 / Kanoya City Hall, 20-1 Kyoei-cho, Kanoya-shi, Kagoshima-ken 893-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.852082,31.378335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かのやばら園 / Kanoya Rose Garden</name>
+        <description>〒893-0053 鹿児島県鹿屋市浜田町１２５０ / 1250 Hamada-cho, Kanoya-shi, Kagoshima-ken 893-0053</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8168697,31.3455006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大隈広域公園 / Osumi Regional Park</name>
+        <description><![CDATA[〒893-1101 鹿屋市吾平町上名黒羽子地内 大隅広域公園管理事務所 「今日の空ライブカメラ」 / Osumi Regional Park Office, Kamimyokurohane, Aira-cho, Kanoya-shi 893-1101, "Today's Sky Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.918751,31.2948344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串良川下中橋ライブカメラ / Kushira River Shimonaka Bridge Live Camera</name>
+        <description>鹿児島県鹿屋市串良町細山田 「国土交通省河川情報センター」/ Hosoyamada, Kushira Town, Kanoya City, Kagoshima Prefecture, Ministry of Land, Infrastructure, Transport and Tourism River Information Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9428657,31.4415996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川大園橋下流ライブカメラ / Kimotsuki River Ozono Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市祓川町 「国土交通省河川情報センター」/ Haraigawa-cho, Kanoya-shi, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8485045,31.4181918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川鹿屋市立鹿屋小学校前ライブカメラ / Kimotsuki River Liver camera in front of Kanoya Elementary School</name>
+        <description><![CDATA[鹿児島県鹿屋市古前城町 「国土交通省河川情報センター」/ Kozenjo Town, Kanoya City, Kagoshima Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8536787,31.3903772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川新川田崎大橋下流ライブカメラ / Kimotsuki River Shinkawa Tasaki Ohashi Downstream Live Camera</name>
+        <description>鹿児島県鹿屋市市川東町 「国土交通省河川情報センター」/ Kawato-cho, Kanoya-shi, Kagoshima “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8721951,31.3708417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川大正橋下流ライブカメラ / Kimotsuki River Taishobashi downstream live camera</name>
+        <description><![CDATA[鹿児島県鹿屋市川東町 「国土交通省河川情報センター」/ Kahigashi-cho, Kanoya-shi, Kagoshima "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8839127,31.3651622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川更生橋上流ライブカメラ / Aira River Kosei Bridge Upstream Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町麓 「国土交通省河川情報センター」/ Fumoto, Aira-cho, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9007863,31.3310074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川上名ライブカメラ / Aira River Kamimyo Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町上名 「大隅河川国道事務所」/ Kamimyo, Aira-cho, Kanoya-shi, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9033696,31.3086723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川中福良ライブカメラ / Aira River Nakafukura Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町上名 「大隅河川国道事務所」/ Kamimyo, Aira-cho, Kanoya-shi, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9027749,31.3180411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川月見橋ライブカメラ / Aira River Tsukimi Bridge Live Camera</name>
+        <description>鹿児島県鹿屋市吾平町上名　「大隅河川国道事務所」/ Kamimyo, Aira-cho, Kanoya-shi, Kagoshima Prefecture, ”Osumi River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.899714,31.3248476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川下名ライブカメラ / Aira River Shimomyo Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町下名 「大隅河川国道事務所」/ Shimomyo, Aira-cho, Kanoya-shi, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9045446,31.352762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川流合橋下流ライブカメラ / Kimotsuki River Nagareai Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町下名 「国土交通省河川情報センター」/ Shimomyo, Aira-cho, Kanoya-shi, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9093647,31.3599088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川大手町ライブカメラ / Kimotsuki River Otemachi Live Camera</name>
+        <description>鹿児島県鹿屋市大手町 「大隅河川国道事務所」/ Otemachi, Kanoya-shi, Kagoshima “Osumi River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8517237,31.3897394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川朝日橋水位観測所ライブカメラ / Kimotsuki River Asahi Bridge Water Level Observatory  Live camera</name>
+        <description>鹿児島県鹿屋市向江町 「大隅河川国道事務所」/ Mukae-cho, Kanoya-shi, Kagoshima,  “Osumi River National Highway Office”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8521407,31.3844891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串良川岡崎ライブカメラ / Kushira River Okazaki Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市串良町岡崎 「大隅河川国道事務所」/ Okazaki, Kushira Town, Kanoya City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9604257,31.388641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串良川大塚原ライブカメラ / Kushira River Otsukahara Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市串良町有里 「大隅河川国道事務所」/ Arisato, Kushira-cho, Kanoya-shi, Kagoshima, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9583096,31.4001162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串良川霧島大橋ライブカメラ / Kushira River Kirishima Ohashi Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市串良町細山田 「大隅河川国道事務所」/ Hosoyamada, Kushira Town, Kanoya City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9511615,31.4370417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大隅縦貫道細山田インターチェンジライブカメラ / Osumi Jukando Hosoyamada Interchange Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市串良町細山田 「大隅河川国道事務所」/ Hosoyamada, Kushira Town, Kanoya City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9233393,31.4544095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姶良川姶良橋ライブカメラ / Aira River Aira Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市吾平町麓 「大隅河川国道事務所」/  Fumoto, Aira-cho, Kanoya City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9027682,31.3440895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下谷川鉄道橋ライブカメラ / Shimotanigawa railway bridge live camera</name>
+        <description><![CDATA[〒893-0063 鹿児島県鹿屋市新栄町 「大隅河川国道事務所」/ Shineicho, Kanoya, Kagoshima Prefecture 893-0063,  "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8487826,31.375051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川王子橋ライブカメラ / Kimotsuki River Oji Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県鹿屋市王子町 「大隅河川国道事務所」/ "Osumi River National Highway Office", Ojimachi, Kanoya, Kagoshima Prefecture]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8562269,31.39691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道220号郷之原トンネル起点ライブカメラ / National highway 220 Gonohara tunnel starting live camera</name>
+        <description><![CDATA[鹿児島県鹿屋市郷之原町 「大隅河川国道事務所」/ Gonohara Town, Kanoya City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8146311,31.3941141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道220号古江ライブカメラ / National Road 220 Furue Live Camera</name>
+        <description><![CDATA[〒891-2321 鹿児島県鹿屋市古江町「大隅河川国道事務所」/ Furue Town, Kanoya City, Kagoshima Prefecture 8932-21, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7677978,31.4061419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC桜島ライブカメラ / MBC Sakurajima Live Camera</name>
+        <description><![CDATA[〒899-4632 鹿児島県垂水市牛根麓 「南日本放送(MBC)」/ Ushinefumoto, Tarumizu-shi, Kagoshima 899-4632, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7867889,31.5497627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島ライブカメラ / Sakurajima Live Cam</name>
+        <description>〒891-2122 鹿児島県垂水市上町１１４ 垂水市役所 / Tarumizu City Hall, 114 Kanmachi, Tarumizu-shi, Kagoshima-ken 891-2122</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7008266,31.4927249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道220号道の駅たるみず湯っ足り館ライブカメラ / National Road No. 220 Roadside Station Tarumuzu Yuttarikan Live Camera</name>
+        <description>〒899-4632 鹿児島県垂水市牛根麓１０３８−１　道の駅 たるみず 湯っ足り館 / Road Station Tarumuzu Yuttarikan, 1038 Ushinefumoto, Tarumi-shi, Kagoshima 899-4632</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7451917,31.5586578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本城川今川原橋ライブカメラ / Honjo River Imagawahara Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県垂水市高城761 「鹿児島県土木部」/ 761 Takashiro, Tarumi-shi, Kagoshima "Civil Engineering Department, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7272786,31.4789668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海潟桜島噴煙状況ライブカメラ / Kaigata Sakurajima volcanic smoke live camera</name>
+        <description><![CDATA[〒891-2101 鹿児島県垂水市海潟 「大隅河川国道事務所」/ Kaigata, Tarumi City, Kagoshima Prefecture 891-2101, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7209264,31.5418061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道梶ヶ野橋ライブカメラ / Higashikyushu Expressway Kajigano Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県曽於市大隅町中之内 「大隅河川国道事務所」/ Nakanouchi, Osumi Town, Soo City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9476693,31.6235506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道曽於弥五郎インターチェンジCランプライブカメラ / Higashikyushu Expressway Soya Goro interchange C lamp live camera</name>
+        <description><![CDATA[〒899-8102 鹿児島県曽於市大隅町岩川 曽於弥五郎IC 「大隅河川国道事務所」/  Soya Goro IC, Iwakawa, Osumi Town, Soo City, Kagoshima 899-8102, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9691101,31.5916708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道菱田川橋ライブカメラ / Higashi Kyushu Expressway Hishida River Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県曽於市 菱田川橋 「大隅河川国道事務所」/ Hishida River Bridge, Soo City, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9370652,31.6599094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道末吉財部インターチェンジライブカメラ / Higashikyushu Expressway Sueyoshitakarabe Interchange Live Camera</name>
+        <description><![CDATA[〒899-8604 鹿児島県曽於市末吉町深川 末吉財部IC 「大隅河川国道事務所」/  Sueyoshitakarabe IC, Fukagawa, Sueyoshi-cho, Soo-shi, Kagoshima 899-8604, Japan, "Osumi River National Highway Office'']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9375704,31.6799796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC志布志市志布志ライブカメラ / MBC Shibushi City Shibushi Live Camera </name>
+        <description><![CDATA[〒899-7103 鹿児島県志布志市志布志町志布志 「南日本放送(MBC)」/ Shibushi, Shibushi Town, Shibushi City, Kagoshima Prefecture 899-7103, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0984236,31.4687864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志布志市ライブカメラ / Shibushi City</name>
+        <description>鹿児島県志布志市有明町野井倉１７５６ 志布志市役所 / Shibushi City Office, 1756 Noikura, Ariake-cho, Shibushi City, Kagoshima</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.045308,31.495469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くにの松原キャンプ場ライブカメラ / Kunino Matsubara Campground Live Camera</name>
+        <description>〒899-7303 鹿児島県曽於郡大崎町益丸２２６−１ くにの松原キャンプ場 /  Kuni Matsubara Campground, 226-1 Masumaru, Osaki-cho, Soo-gun, Kagoshima 899-7303</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0330347,31.4236543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道野方インターチェンジライブカメラ / Higashikyushu Expressway Nogata Interchange Live Camera</name>
+        <description><![CDATA[〒899-8313 鹿児島県曽於郡大崎町野方 野方IC 「大隅河川国道事務所」/ Nogata IC, Nogata, Osaki-cho, Soo-gun, Kagoshima Prefecture 899-8313,  "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9237844,31.5005099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東九州自動車道大鳥川橋ライブカメラ / Higashikyushu Expressway Otorikawabashi live camera</name>
+        <description><![CDATA[鹿児島県曽於郡大崎町野方 「大隅河川国道事務所」/ Nogata, Osaki-cho, Soo-gun, Kagoshima "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9334411,31.4979718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川俣瀬橋ライブカメラ / Kimotsuki River Matase Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県肝属郡東串良町川西 「大隅河川国道事務所」/ Kawanishi, Higashikushira-cho, Hashigen-gun, Kagoshima Prefecture "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9757194,31.3596231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川新川西ライブカメラ / Kimotsuki River Shinkawanishi Live Camera</name>
+        <description><![CDATA[鹿児島県東串良町新川西 「大隅河川国道事務所」/ Shinkawa-nishi, Higashi-Kushira Town, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0005903,31.3584228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串良川十五社橋ライブカメラ / Kushira River Jugosha Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県肝属郡東串良町岩弘 「大隅河川国道事務所」/ Iwahiro, Higashikushira-cho, Hashigen-gun, Kagoshima Prefecture "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9539021,31.4204327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雄川北之口橋ライブカメラ / Ogawa River Kitanokuchi Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県南大隅町根占川南 「鹿児島県土木部」/ Nejimekawaminami, Minami-Osumi Town, Kagoshima Prefecture, "Kagoshima Prefecture Civil Engineering Department"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.7903599,31.2181353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州最南端「佐多岬」からの映像 / Image from Sata Cape Lighthouse</name>
+        <description>〒893-2604 鹿児島県肝属郡南大隅町佐多馬籠４１７ 佐多岬灯台 (鹿児島海上保安部) / Sata Cape Lighthouse, 417 Satamagome, Minami Osumi-cho, Kimotsuki-gun, Kagoshima-ken 893-2604 (Kagoshima Coast Guard)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6615701,30.9950663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮騒荘から望む内之浦湾 / Uchinoura Bay seen from Shiosaiso</name>
+        <description>〒893-1401 鹿児島県肝属郡肝付町北方２３２５−３　潮騒荘 /  Shiosaiso, 2325-3 Kitakata, Kimotsuki-cho, Kimotsuki-gun, Kagoshima 893-1401</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0744918,31.2922449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川高山川合流部ライブカメラ / Kimotsuki River Takayama River Confluence Live Camera </name>
+        <description><![CDATA[鹿児島県肝属郡肝付町新富 「国土交通省河川情報センター」/ Niitomi, Kimotsuki-cho, Kimotsuki-gun, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9577441,31.36394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高山川永山橋ライブカメラ / Koyama River Nagayama Bridge Live Camera</name>
+        <description><![CDATA[鹿児島県肝付町新富 「国土交通省河川情報センター」/ Niitomi, Kimotsuki-cho, Kimotsuki-gun, Kagoshima Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9501955,31.3249334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川宮下ライブカメラ / Kimotsuki River Miyage Live Camera</name>
+        <description><![CDATA[鹿児島県肝属郡肝付町宮下 「大隅河川国道事務所」/Miyage, Kimotsuki-cho, Kimotsuki-gun, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9193972,31.363128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川高良橋ライブカメラ / Kimotsuki River Takarabashi live camera</name>
+        <description><![CDATA[鹿児島県肝属郡肝付町前田 「大隅河川国道事務所」/ Maeda, Kimotsuki-cho, Kimotsuki-gun, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9474601,31.3615835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高山川神之市橋ライブカメラ / Takayama River Kamishinoichibashi Live Camera</name>
+        <description><![CDATA[鹿児島県肝付町前田 「大隅河川国道事務所」/ Maeda, Kimotsuki-cho, Kagoshima Prefecture, "Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9413927,31.3375958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高山川前田ライブカメラ / Koyama River Maeda Live Camera</name>
+        <description><![CDATA[〒893-1206 鹿児島県肝属郡肝付町前田 「大隅河川国道事務所」/ Maeda, Kimotsuki-cho, Kimotsuki-gun, Kagoshima Prefecture 893-1206,<br>"Osumi River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9359663,31.3426881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>肝属川・桜島・国道220号・東九州道 / Kimotsuki River, Sakurajima, Route 220, Higashikyushu Road</name>
+        <description>〒893-1207 鹿児島県肝属郡肝付町新富１０１３−１　国土交通省大隅河川国道事務所 / Ministry of Land, Infrastructure and Transport, Kyushu Regional Development Bureau, Osumi River and National Highway Office, 1013-1 Niitomi, Kimotsuki-cho, Kimotsuki-gun, Kagoshima-ken 893-1207</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.950614,31.350289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜島防災監視カメラ</name>
+        <description>〒893-1207 鹿児島県肝属郡肝付町新富１０１３−１　国土交通省大隅河川国道事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.950614,31.350289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薩摩硫黄島岩ノ上ライブカメラ / Satsuma Iwojima Iwanoue Live Camera</name>
+        <description><![CDATA[〒890-0901 鹿児島県鹿児島郡三島村大字硫黄島 硫黄島 「気象庁」/ Iojima, Mishima village, Kagoshima-gun, Kagoshima Prefecture 890-0901, "The Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.3037572,30.7921704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>硫黄島 硫黄島港 ライブ映像 / Iwo Jima Iwo Jima Port Live Video</name>
+        <description><![CDATA[〒890-0901 鹿児島県鹿児島郡三島村硫黄島　「鹿児島県三島村」/ Iojima, Mishima-mura, Kagoshima-gun, Kagoshima 890-0901 "Mishima-mura, Kagoshima"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2797413,30.7803035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒島 片泊港 ライブ映像 / Kuroshima Katadomari Port Live Video</name>
+        <description><![CDATA[〒890-0902 鹿児島県鹿児島郡三島村黒島　「鹿児島県三島村」/Kuroshima, Mishima Village, Kagoshima District, Kagoshima Prefecture 890-0902, "Mishima Village, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9059594,30.8314058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒島 大里港 ライブ映像 / Kuroshima Osato Port Live Video</name>
+        <description><![CDATA[〒890-0902 鹿児島県鹿児島郡三島村黒島　「鹿児島県三島村」/ Kuroshima, Mishima Village, Kagoshima District, Kagoshima Prefecture 890-0902, "Mishima Village, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            129.9576724,30.8361686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹島 竹島港 ライブ映像 / Takeshima Takeshima Port Live Video</name>
+        <description><![CDATA[〒890-0903 鹿児島県鹿児島郡三島村竹島　「鹿児島県三島村」/ Takeshima, Mishima Village, Kagoshima District, Kagoshima Prefecture 890-0903,  "Mishima Village, Kagoshima Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4161879,30.8156532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西之表市ライブカメラ / Nishinoomote City Live Camera</name>
+        <description>〒891-3101 鹿児島県西之表市西之表７６１２　西之表市役所 / Nishinoomote City Hall, 7612 Nishinoomote, Nishinoomote-shi, Kagoshima-ken 891-3101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9970367,30.7324507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鉄浜海岸ライブカメラ / Kanehama Beach Live Camera</name>
+        <description>〒891-3432 鹿児島県西之表市安城 平山 鉄浜海岸 「西之表市役所」/ Anjo Hirayama, Nishinoomote City, Kagoshima Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0526981,30.6630998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神橋ライブカメラ / Tenjinbashi live camera</name>
+        <description><![CDATA[鹿児島県西之表市鴨女町 「西之表市役所」/ Kamome-cho, Nishinoomote City, Kagoshima Prefecture, "Nishinoomote City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9974253,30.7247611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浦田海水浴場ライブカメラ / Urata beach live camera</name>
+        <description><![CDATA[〒891-3222 鹿児島県西之表市国上１２３−１ 浦田海水浴場 「西之表市役所」/ Urata beach, 123-1 Kunigami, Nishinoomote-shi, Kagoshima 891-3222, "Nishinoomote City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.038896,30.821923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>種子島ライブカメラ / Tanegashima Live Camera</name>
+        <description>〒891-3793 鹿児島県熊毛郡南種子町大字茎永字麻津 宇宙航空研究開発機構 種子島宇宙センター / Japan Aerospace Exploration Agency, Tanegashima Space Center, Kukinaga, Minamitane-cho, Kumage-gun, Kagoshima-ken 891-3793</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9575244,30.3748379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>種子島灯台からの映像 / Image from Tanegashima Lighthouse</name>
+        <description>鹿児島県熊毛郡南種子町　種子島灯台「鹿児島海上保安部 沿岸域情報提供システム（MICS）ミックス」/ Tanegashima Lighthouse, Minamitane-cho, Kumage-gun, Kagoshima-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9614944,30.3853149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋久島町太忠岳ライブカメラ / Yakushima Townn Tachudake Live Camera</name>
+        <description><![CDATA[〒891-4311 鹿児島県熊毛郡屋久島町安房 太忠 岳　「インターネット自然研究所」/Mt. Tachu, Awa, Yakushima-cho, Kumage-gun, Kagoshima 891-4311,  "Internet Nature Research Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5645618,30.3194218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋久島の山々 / Mountains in Yakushima</name>
+        <description>鹿児島県熊毛郡屋久島町 太忠岳 / Taichudake (Mt. Taichu), Yakushima-cho, Kumage-gun, Kagoshima (Internet Nature Information System)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5635834,30.3201369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋久島ライブカメラ / Yakushima Live Camera</name>
+        <description>〒891-4205 鹿児島県熊毛郡屋久島町宮之浦７９９ 屋久島観光センター / Yakushima Tourism Center, 799 Miyanoura, Yakushima-cho, Kumage-gun, Kagoshima-ken 891-4205</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.5689101,30.4300815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋久島・宮之浦港 / Miyanoura Port in Yakushima</name>
+        <description><![CDATA[鹿児島県熊毛郡屋久島町宮之浦　「屋久島REALWAVE」 / Miyanoura, Yakushima-cho, Kumage-gun, Kagoshima, "Yakushima REALWAVE"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.574784,30.429989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>口永良部島・永迫牧場と屋久島 / Kuchinoerabu Island, Nagasako Lanch and Yakushima</name>
+        <description><![CDATA[鹿児島県熊毛郡屋久島町 「インターネット自然研究所」 / Yakushima-cho, Kumage-gun, Kagoshima-ken, "Internet Nature Information System"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.667267,30.37169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBC口永良部島ライブカメラ / MBC Kuchinoerabu Island Live Camera</name>
+        <description><![CDATA[鹿児島県熊毛郡屋久島町吉田 「南日本放送(MBC)」/ Yoshida, Yakushima-cho, Kumage-gun, Kagoshima Prefecture, "Minaminihon Broadcasting Co.,Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4872714,30.4069059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KYT口永良部島ライブカメラ / KYT Kuchinoerabujima Live Camera</name>
+        <description><![CDATA[鹿児島県熊毛郡屋久島町 「鹿児島読売テレビ(KYT)」/ Yakushima-cho, Kumage-gun, Kagoshima Prefecture "Kagoshima Yomiuri Television (KYT)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.6556905,30.3619849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KTS口永良部島ライブカメラ / KTS Kuchinoerabujima Live Camera</name>
+        <description><![CDATA[〒891-4208 鹿児島県熊毛郡屋久島町 口永良部島 「鹿児島テレビ放送」/  Kuchinoerabujima, Yakushima-cho, Kumage-gun, Kagoshima Prefecture 891-4208, "Kagoshima Television Broadcasting"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.2168991,30.4447113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>口永良部島永田ライブカメラ / Kuchinoerabu Island Nagata Live Camera</name>
+        <description><![CDATA[〒891-4201 鹿児島県熊毛郡屋久島町永田 吉田岳 「気象庁」/ Mt. Yoshida, Nagata, Yakushima-cho, Kumage-gun, Kagoshima 891-4201 "Japan Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.4775072,30.3994825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>口永良部島（本村西・屋久島永田）</name>
+        <description>〒891-4208 鹿児島県熊毛郡 屋久島町　口永良部島</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.1921223,30.464337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第十一管区海上保安本部 / 11th Regional Coast Guard Headquarters</name>
+        <description>〒900-0001 沖縄県那覇市港町２丁目１１−１ 那覇港湾合同庁舎 / Naha Port Godochosha (Complex), 2-11-1 Minato-machi, Naha-shi, Okinawa-ken 900-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            127.677094,26.241665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

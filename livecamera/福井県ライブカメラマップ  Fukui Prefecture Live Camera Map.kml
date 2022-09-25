@@ -1,0 +1,3034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>福井県ライブカメラマップ / Fukui Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>福井県内ライブカメラ</name>
+      <Placemark>
+        <name>福井県あわら温泉ライブカメラ / Fukui Prefecture Awara Onsen Live Camera</name>
+        <description><![CDATA[福井県あわら市舟津 あわら温泉 「北陸の宿・福井県」 / Awara Onsen, Funatsu, Awara-shi, Fukui, "Hokuriku Accomodation Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1915448,36.2249054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三国サンセットビーチ / Mikuni Sunset Beach</name>
+        <description><![CDATA[〒913-0063 福井県坂井市三国町宿米ケ脇 三国サンセットビーチ 「福井ケーブルテレビ」 / Mikuni Sunset Beach, Yadokomegawaki, Sakai-shi, Fukui-ken 913-0063, "Fukui Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1353089,36.2226421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雄島ライブカメラ / Oshima Live Camera</name>
+        <description>〒913-0064 福井県坂井市三国町安島 雄島 / Oshima, Anto, Mikuni-cho, Sakai-shi, Fukui-ken 913-0064</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1192677,36.2518663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井駅西・大名町交差点付近 / West of Fukui Station and Daimyo Town Intersection</name>
+        <description><![CDATA[福井県福井市大名町　「福井ケーブルテレビ」  / Daimyo-cho, Fukui-shi, Fukui-ken, "Fukui Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2175783,36.0625609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川・木田橋付近 / Asuwa River and Kida Bridge</name>
+        <description><![CDATA[福井県福井市 「福井ケーブルテレビ」 / Fukui-shi, Fukui-ken, "Fukui Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.220164,36.054243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西山動物園レッサーパンダライブカメラ / Nishiyama Zoo Lesser panda Live Camera</name>
+        <description><![CDATA[〒916-0027 福井県鯖江市桜町３−８−９ 西山動物園「鯖江市役所」 / Nishiyama Zoo, 3-8-9 Sakura-machi, Sabae-shi, Fukui-ken 916-0027, "Sabae City Official Web Site"<br>https://livecamera.fujiyamasan.com/nishiyama-zoo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.180923,35.95067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田町・足羽川・文化交流会館 / Ikeda Town, Asuwa River and Cultural Exchange Hall</name>
+        <description><![CDATA[福井県今立郡池田町 「福井ケーブルテレビ」 / Ikeda-cho, Imadate-gun, Fukui-ken, "Fukui Cable Television"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.344881,35.89496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の梅浦の海況 / Sea conditions of the current Umeura</name>
+        <description>〒916-0311 福井県丹生郡越前町梅浦１１４−９１ ダイビングセンターLOG / Diving Center Log, 114-91 Umeura, Echizen-cho, Nyu-gun, Fukui 916-0311</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9774078,35.9574004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号、九頭竜川 / National Highway Route 158 and Kuzuryu River</name>
+        <description><![CDATA[〒912-0207 福井県大野市下山６３−２－２４ ホテルフレアール和泉 「大野市役所」 / Hotel Furearu Izumi, 63-2-24 Shimoyama, Ono-shi, Fukui 912-0207, "Ono City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6448164,35.9221423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜スキー場、鷲鞍岳 / Kuzuryu Ski Area and Mt. Washikura</name>
+        <description><![CDATA[〒912-0217 福井県大野市角野１４−３ 国民宿舎 パークホテル九頭竜 「大野市役所」 / National youth hostels Park Hotel Kuzuryu, 14-3 Kakuno, Ono-shi, Fukui 912-0217, "Ono City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.652627,35.8984195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石徹白川 / Itoshiro River</name>
+        <description><![CDATA[〒912-0201 福井県大野市朝日前坂６－２３ 和泉前坂家族旅行村管理棟 「大野市役所」 / Izumi Maesaka family travel village administration building, 6-23 Asahimaesaka, Ono-shi, Fukui 912-0201, "Ono City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7074674,35.9466614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西浦（水島） / Nishiura (Mizushima)</name>
+        <description><![CDATA[福井県敦賀市色浜33-1 「つるがライブカメラ」 / 33-1 Irohama, Tsuruga-shi, Fukui, "Tsuruga Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0352361,35.7299138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>敦賀港 / Tsuruga Port</name>
+        <description><![CDATA[福井県敦賀市桜町1-1 「つるがライブカメラ」 / 1-1 Sakura-machi, Tsuruga-shi, Fukui, "Tsuruga Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0722828,35.6787033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美浜の海 / Mihama Sea Live Camera</name>
+        <description>〒919-1202 福井県三方郡美浜町竹波 水晶浜海水浴場 / Suishohama Bathing Beach, Takenami, Mihama-cho, Mikata-gun, Fukui 919-1202</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9776974,35.6873481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笙の川 / Shonokawa River</name>
+        <description><![CDATA[福井県敦賀市呉竹町1-3-7 「つるがライブカメラ」 / 1-3-7 Kuretake-cho, Tsuruga-shi, Fukui, "Tsuruga Live Camera"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0616612,35.649799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>敦賀市役所屋上からの風景 / Landscape from Tsuruga city hall rooftop</name>
+        <description>〒914-0811 福井県敦賀市中央町２丁目１−１ 敦賀市役所 / Tsuruga City Hall, 2-1-1 Chuo-cho, Tsuruga-shi, Fukui 914-0811</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.055481,35.645204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるがライブカメラ / Tsuruga Live Camera</name>
+        <description>〒914-0814 福井県敦賀市木崎４０−８－１（株）嶺南ケーブルネットワーク / Reinan Cable Network CO., LTD, 40-8-1 Kizaki, Tsuruga-shi, Fukui 914-0814</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.043732,35.6451161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若狭和田海水浴場ライブカメラ / Wakasa Wada Bathing Beach Live Camera</name>
+        <description><![CDATA[〒919-2201 福井県大飯郡高浜町和田 若狭和田海水浴場 「若狭和田観光協会」 / Wakasawada Beach, Wada, Takahama-cho,  Oi-gun , Fukui-ken,  "Wakasa Wada Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5745719,35.4925775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海の駅「若狭おばま」ライブカメラ/ Uminoeki Wakasa Obama Live Camera</name>
+        <description><![CDATA[〒917-0081 福井県小浜市川崎２丁目 海の駅「若狭おばま」 / Uminoeki Wakasaobama, 2-chome, Kawasaki, Obama-shi, Fukui-ken 917-0081<br>https://livecamera.fujiyamasan.com/obamacity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7400945,35.5015618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅 若狭おばまライブカメラ / Michinoeki Wakasaobama Live Camera</name>
+        <description><![CDATA[〒917-0024 福井県小浜市和久里２４−４５−２ / 24-45-2 Wakuri, Obama-shi, Fukui-ken 917-0024<br>https://livecamera.fujiyamasan.com/obamacity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7630924,35.4919773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おおい町防災カメラ / Ohi Town Disaster Prevention Camera</name>
+        <description>〒919-2111 福井県大飯郡おおい町本郷１３６−１－１ おおい町役場 本庁舎 / Ohi Town main office building, 136-1-1 Hongo, Ohi-cho, Ohi-gun, Fukui-ken 919-2111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6176946,35.4811437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小浜市まちの駅 旭座 ライブカメラ/ Obamashi-Machinoeki Live Camera</name>
+        <description>〒917-0069 福井県小浜市小浜白鬚１１１−１ / 111-1 Obama Shirahige, Obama-shi, Fukui-ken 917-0069   https://livecamera.fujiyamasan.com/obamacity.html</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7415781,35.4950925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜川・日野川ライブカメラ / Kuzuryu River / Hino River Live Camera</name>
+        <description><![CDATA[福井県福井市六日市町 「近畿地方整備局」/ Muikaichicho, Fukui City, Fukui Prefecture "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1913455,36.111488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道191号線鯖江浅水線福井市三本木アンダーライブカメラ / Prefectural Route 191 Sabae Asamizu Line Fukui City Sanbongi Under Live Camera</name>
+        <description><![CDATA[福井県福井市三本木町 「福井県土木部道路保全課みち情報ネットふくい」/ Sanbongicho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2053604,35.9876163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道180号線東郷福井線福井市春日ライブカメラ / Prefectural Road 180 Togo Fukui Line Fukui City Kasuga Live Camera</name>
+        <description><![CDATA[福井県福井市西木田「福井県土木部道路保全課みち情報ネットふくい」/ Nishikida, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2173166,36.0526883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道25号福井今立線戸口トンネルライブカメラ / Fukui Prefectural Road No. 25 Fukui Imatate Line Doorway Tunnel Live Camera</name>
+        <description><![CDATA[福井県福井市西大味町「福井県土木部道路保全課みち情報ネットふくい」/ Nishiomicho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Maintenance Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-nishiomi-r25-toguchi-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2552813,35.9845849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線九十九橋北第2ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Kujubashi Kita No. 2 Live Camera</name>
+        <description><![CDATA[福井県福井市照手1丁目「福井県土木部道路保全課みち情報ネットふくい」/ 1-chome Terute, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Maintenance Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-terute-r5-tsukumo-bridge-north-west.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2118104,36.0643239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号重立アンダーパス第2ライブカメラ / National highway 416 Omodachi underpass 2nd live camera</name>
+        <description><![CDATA[福井県福井市間山町「福井県土木部道路保全課みち情報ネットふくい」/ Mayama-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2787247,36.0841564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号鮎川ライブカメラ / National Route 305 Ayukawa Live Camera</name>
+        <description><![CDATA[福井県福井市鮎川町「福井県土木部道路保全課みち情報ネットふくい」/ Ayukawa-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0373964,36.1034557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬渡川灯明寺ライブカメラ / Umawatarigawa Tomyoji Live Camera</name>
+        <description><![CDATA[〒910-0063 福井県福井市灯明寺１丁目 「福井県河川砂防総合情報」/ 1-chome, Tomyoji, Fukui City, Fukui Prefecture 910-0063 "Fukui Prefecture River Sabo Comprehensive Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2118442,36.0907292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川原目ライブカメラ / Arakawa Harame Live Camera</name>
+        <description><![CDATA[〒910-0825 福井県福井市原目町 「福井県河川砂防総合情報」/ Harame-cho, Fukui-shi, Fukui 910-0825, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.265991,36.0735639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古川松城ライブカメラ / Furukawa Matsushiro Live Camera</name>
+        <description><![CDATA[福井県福井市松城町「福井県河川砂防総合情報」/ Matsushiro-cho, Fukui City, Fukui Prefecture "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.23749,36.063272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大森川天池ライブカメラ / Omorikawa Amaike Live Camera</name>
+        <description><![CDATA[〒910-0124 福井県福井市天池町「福井県河川砂防総合情報」/  Amaike-cho, Fukui-shi, Fukui 910-0124, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2170538,36.1070666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七瀬川内山梨子ライブカメラ / Nanase River Uchiyamanashiko Live Camera</name>
+        <description><![CDATA[〒910-3116 福井県福井市内山梨子町「福井県河川砂防総合情報」/ Uchiyamanashicho, Fukui City, Fukui Prefecture 910-3116,  "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1571283,36.132793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江端川江端川水門ライブカメラ / Ebata River Ebata River Sluice Live Camera</name>
+        <description><![CDATA[福井県福井市江守の里1丁目「福井県河川砂防総合情報」/ 1-chome, Emorinosato, Fukui City, Fukui Prefecture "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1834309,36.0333082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川福井県立馬術競技場ライブカメラ / Hinogawa Fukui Prefectural Equestrian Stadium Live Camera</name>
+        <description><![CDATA[福井県福井市海老助町 「国土交通省河川情報センター」/ Ebisuke-cho, Fukui City, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1872737,36.0920351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜川江上町ライブカメラ / Kuzuryu River Egamicho Live Camera</name>
+        <description><![CDATA[福井県福井市江上町「国土交通省河川情報センター」/ Egami-cho, Fukui City, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1711398,36.1385452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCTV国道8号福井バイパス大和田方面ライブカメラ / FCTV Route 8 Fukui Bypass Owada area live camera</name>
+        <description><![CDATA[福井県福井市新保北 「福井ケーブルテレビ」/ Shinbokita, Fukui City, Fukui Prefecture "Fukui Cable TV"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-shinbokita-r8.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2490479,36.0892905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCTV福井駅西口ライブカメラ / FCTV Fukui Station West Exit Live Camera</name>
+        <description><![CDATA[〒910-0005 福井県福井市大手２丁目 「福井ケーブルテレビ」/  Ote 2-chome, Fukui City, Fukui Prefecture 910-0005, "Fukui Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.224158,36.0639829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道229号福井鯖江線花堂ライブカメラ / Fukui Prefectural Road 229 Fukui Sabae Line Hanado Live Camera</name>
+        <description><![CDATA[福井県福井市花堂南1丁目 「福井県土木部道路保全課(みち情報ネットふくい)」/ Hanando Minami 1-chome, Fukui City, Fukui Prefecture<br>"Fukui Prefecture Civil Engineering Department Road Conservation Division (Michi Information Net Fukui)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2134183,36.0347558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道30号福井丸岡線東下ライブカメラ / Fukui Prefectural Road No. 30 Fukui Maruoka Line Azumashimo Live Camera</name>
+        <description><![CDATA[福井県福井市松本4丁目「福井県土木部道路保全課(みち情報ネットふくい)」/ 4-chome Matsumoto, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Section (Michi Information Net Fukui)"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-matsumoto-r30-azumashimo-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2183447,36.0708911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道183号上一光大丹生線上一光ライブカメラ / Fukui Prefectural Road No. 183 Kamiikarionyu Line Kamiikari Live Camera</name>
+        <description><![CDATA[福井県福井市上一光町「福井県土木部道路保全課(みち情報ネットふくい)」/ Kamiikari-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division (Michi Information Net Fukui)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.092484,36.0678857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道229号福井鯖江線福井赤十字病院入口ライブカメラ / Fukui Prefectural Road 229 Fukui Sabae Line Fukui Red Cross Hospital Entrance Live Camera</name>
+        <description><![CDATA[福井県福井市みのり1丁目「福井県土木部道路保全課(みち情報ネットふくい)」/ 1-chome, Minori, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division (Michi Information Net Fukui)"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2151983,36.0483655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道128号福井停車場米松線福井県立病院北ライブカメラ / Fukui Prefectural Road No. 128 Fukui Stop Yonematsu Line Fukui Prefectural Hospital North Live Camera</name>
+        <description><![CDATA[〒910-0845 福井県福井市志比口２丁目「福井県土木部道路保全課「みち情報ネットふくい」/ Shiiguchi, Fukui City, Fukui Prefecture,  "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui "<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-shiiguchi-r128-fukui-prefectural-hospital-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2408636,36.0722388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道115号殿下福井線光陽ライブカメラ / Fukui Prefectural Road 115 Denka Fukui Line Koyo Live Camera</name>
+        <description><![CDATA[福井県福井市学園「福井県土木部道路保全課「みち情報ネットふくい」/ Gakuen, Fukui City, Fukui Prefecture, "Fukui Prefecture Civil Engineering Department Road Conservation Division" Michi Information Net Fukui "<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-gakuen-r115-koyo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1973036,36.0687244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道28号福井朝日武生線渕町ライブカメラ / Fukui Prefectural Road No. 28 Fuchimachi Live Camera on the Fukui Asahi Takefu Line</name>
+        <description><![CDATA[福井県福井市渕町4丁目「福井県土木部道路保全課みち情報ネットふくい」/ 4-chome, Fuchimachi, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division" Michi Information Net Fukui "<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-fuchimachi-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.18693,36.046832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道28号福井朝日武生線島寺ライブカメラ</name>
+        <description><![CDATA[福井県福井市島寺町「福井県土木部道路保全課みち情報ネットふくい」/ Shimadera-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-shimadera-r28.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1503574,36.0251414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道6号福井四ヶ浦線社中入口ライブカメラ / Fukui Prefectural Road No. 6 Fukui Yokkaura Line Yashirochu Entrance Live Camera</name>
+        <description><![CDATA[福井県福井市若杉「福井県土木部道路保全課みち情報ネットふくい」/ Wakasugi, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-wakasugi-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1875629,36.0567997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道6号福井四ヶ浦線明里ライブカメラ / Fukui Prefectural Road No. 6 Fukui Yotsugaura Line Akari Live Camera</name>
+        <description><![CDATA[福井県福井市明里町「福井県土木部道路保全課みち情報ネットふくい」/ Akari-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-akari-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1974085,36.0601464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線九十九橋北第1ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Tsukumobashi Kita No. 1 Live Camera</name>
+        <description><![CDATA[福井県福井市順化2丁目「福井県土木部道路保全課みち情報ネットふくい」/ Junka 2-chome,  Fukui City, Fukui Prefecture, "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-r5-tsukumo-bridge-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2121974,36.0645676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線御幸ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Miyuki Live Camera</name>
+        <description><![CDATA[福井県福井市御幸 「福井県土木部道路保全課みち情報ネットふくい」/ Miyuki, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-miyuki-r5.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2340151,36.0549923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線福井大学北ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Fukui University North Live Camera</name>
+        <description><![CDATA[福井県福井市文京3丁目 「福井県土木部道路保全課みち情報ネットふくい」/ 3-chome, Bunkyo, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Maintenance Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-r5-fukui-university-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2097628,36.0773424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線天池ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Amaike Live Camera</name>
+        <description><![CDATA[福井県福井市天池町「福井県土木部道路保全課みち情報ネットふくい」/ Amaike-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-amaike-r5.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2121459,36.1080685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号大宮ライブカメラ / National highway 416 Omiya live camera</name>
+        <description><![CDATA[福井県福井市大宮「福井県土木部道路保全課みち情報ネットふくい」/ Omiya, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2090521,36.0827743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号河原橋ライブカメラ / National highway No. 476 Koubarabashi live camera</name>
+        <description><![CDATA[福井県福井市西河原町「福井県土木部道路保全課みち情報ネットふくい」/ Nishikobara-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3664069,35.9592295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号重立アンダーパス第1ライブカメラ / National highway 416 Omodachi underpass 1st live camera</name>
+        <description><![CDATA[福井県福井市間山町「福井県土木部道路保全課みち情報ネットふくい」/ Mayama-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2797068,36.0843298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号幾久南ライブカメラ / National highway 416 Ikuyo south live camera</name>
+        <description><![CDATA[福井県福井市大宮「福井県土木部道路保全課みち情報ネットふくい」/ Omiya, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2250011,36.0838009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号茱崎ライブカメラ / National Route 305 Gumizaki Live Camera</name>
+        <description><![CDATA[福井県福井市茱崎町「福井県土木部道路保全課みち情報ネットふくい」/ Gumizaki-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Maintenance Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.012274,36.0460473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号両橋屋ライブカメラ / Route 305 Ryohashiya Live Camera</name>
+        <description><![CDATA[福井県福井市両橋屋町「福井県土木部道路保全課みち情報ネットふくい」/ Ryohashiya-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0872257,36.1430226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号薬師ライブカメラ / Route 158 Yakushi Live Camera</name>
+        <description><![CDATA[福井県福井市薬師町「福井県土木部道路保全課みち情報ネットふくい」/ Yakushi-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3859178,36.0069053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号天神ライブカメラ / Route 158 Tenjin Live Camera</name>
+        <description><![CDATA[福井県福井市篠尾町「福井県土木部道路保全課みち情報ネットふくい」/ Shinoo-cho, Fukui City, Fukui Prefecture "Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2903113,36.0237616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号栂野ライブカメラ / National highway No. 158 Togano live camera</name>
+        <description><![CDATA[福井県福井市栂野町「福井県土木部道路保全課みち情報ネットふくい」/ Togano-cho, Fukui City, Fukui Prefecture<br>"Fukui Prefecture Civil Engineering Department Road Conservation Division Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.257453,36.0357488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川朝谷ライブカメラ / Asuwa River Asadani Live Camera</name>
+        <description><![CDATA[福井県福井市朝谷町 「福井県河川砂防総合情報」/ Asadani-cho, Fukui City, Fukui Prefecture "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3592495,35.9978713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新九頭竜橋（仮) ライブカメラ / New Kuzuryu Bridge (provisional) live camera</name>
+        <description><![CDATA[〒910-0138 福井県福井市東森田１丁目２４１５　福井市企業局森田配水塔 マイアクア 「福井ケーブルテレビ」/ Fukui City Corporate Bureau Morita Water Distribution Tower My Aqua, 1-2415 Higashi Morita, Fukui City, Fukui Prefecture 910-0138,  "Fukui Cable TV"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2498418,36.1133785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDK福井県道5号福井加賀線片町入口交差点付近ライブカメラ / SDK Fukui Prefectural Road No. 5 Fukui Kaga Line Katamachi Entrance Near the intersection Live camera</name>
+        <description><![CDATA[〒910-0023 福井県福井市順化２丁目１−２ 酒井電機 / Sakai Electric, 2-1-2 Junka, Fukui City, Fukui Prefecture 910-0023 <br>https://livecamera.fujiyamasan.com/fukui-fukuishi-junka-r5-katamachi-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2143151,36.0635899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[福井市にぎわい交流施設『ハピテラス』 ライブカメラ / Fukui City Lively Exchange Facility "Hapiterasu" Live Camera]]></name>
+        <description><![CDATA[〒910-0006 福井県福井市中央１丁目２−１ 福井市にぎわい交流施設『ハピテラス』/ Fukui City Lively Exchange Facility, 1-2-1 Central, Fukui City, Fukui Prefecture 910-0006  "Hapi Terrace"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-chuo-hapiterasu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2220734,36.0616228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井駅福井市役所ライブカメラ / Fukui Station Fukui City Hall Live Camera</name>
+        <description>〒910-8511 福井県福井市大手３丁目１０−１福井市役所 / Fukui City Hall, 3-10-1, Ote, Fukui City, Fukui Prefecture, 910-8511</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2195398,36.0640618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川美山ライブカメラ / Asuwa River Miyama Live Camera</name>
+        <description>〒910-2351 福井県福井市美山町７−１ 福井市役所 美山総合支所 / Fukui City Hall Miyama General Branch, 7-1 Miyama-cho, Fukui-shi, Fukui 910-2351 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.360638,35.998669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川九十九橋ライブカメラ / Asuwa River Tsukumo Bridge Live Camera</name>
+        <description><![CDATA[〒910-0024 福井県福井市照手１丁目１−１ 「福井市役所」/ 1-1-1, Terute, Fukui City, Fukui Prefecture 910-0024 "Fukui City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2115313,36.0640103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号越廼ライブカメラ / National Route 305 Koshino Live Camera</name>
+        <description>〒910-3553 福井県福井市蒲生町１−８８ 福井市役所 越廼総合支所 / Fukui City Hall Koshihiro General Branch, 1-88 Gamoucho, Fukui City, Fukui Prefecture 910-3553 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.012792,36.039036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タカスサーキットライブカメラ / Takasu Circuit Live Camera</name>
+        <description>〒910-3372 福井県福井市西二ツ屋町２−１−３５ タカスサーキット / Takasu Circuit, 2-1-35 Nishifutatsuya-cho, Fukui City, Fukui Prefecture 910-3372 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0839233,36.1389961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江端川江端ライブカメラ / Ebata River Ebata Live Camera</name>
+        <description><![CDATA[福井県福井市江端町12 「福井市役所」/ 12 Ebata-cho, Fukui City, Fukui Prefecture "Fukui City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2153957,36.0260926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狐川若杉ライブカメラ / Kitsune River Wakasugi Live Camera</name>
+        <description><![CDATA[〒918-8055 福井県福井市若杉４丁目 「福井市役所」/ 4-chome, Wakasugi, Fukui City, Fukui Prefecture 918-8055 "Fukui City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1847774,36.0566123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川勝見ライブカメラ /Arakawa Katsumi Live Camera</name>
+        <description><![CDATA[〒910-0856 福井県福井市勝見１丁目「福井市役所」/ 1-chome, Katsumi, Fukui City, Fukui Prefecture 910-0856 "Fukui City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2239033,36.0549451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>底喰川上里ライブカメラ / Sokobami River Kamisato Live Camera</name>
+        <description><![CDATA[〒910-0017 福井県福井市文京５丁目「福井市役所」/ 5-chome, Bunkyo, Fukui City, Fukui Prefecture, 910-0017<br>"Fukui City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2055142,36.0766776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号東川上町ライブカメラ / National highway No. 158 Higashikawa Kamicho live camera</name>
+        <description><![CDATA[〒910-2341 福井県福井市東川上町「みち情報ネットふくい」/  Higashikawakamicho, Fukui City, Fukui Prefecture 910-2341<br>"Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4461357,35.9917362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道18号鯖江美山線浄教寺ライブカメラ / Fukui Prefectural Road No. 18 Sabae Miyama Line Jokyoji Live Camera</name>
+        <description><![CDATA[〒910-2155 福井県福井市浄教寺町「みち情報ネットふくい」/ Jokyoji-cho, Fukui City, Fukui Prefecture 910-2155, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3083051,35.9803704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号堀ノ宮ライブカメラ / National highway 416 Horinomiya live camera</name>
+        <description><![CDATA[〒910-0032 福井県福井市堀ノ宮１丁目「みち情報ネットふくい」/ 1-chome Horinomiya, Fukui City, Fukui Prefecture 910-0032 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1961103,36.080199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道6号福井四ヶ浦線竹生町ライブカメラ / Fukui Prefectural Road No. 6 Fukui Yokkaura Line Takoocho Live Camera</name>
+        <description><![CDATA[〒910-3602 福井県福井市竹生町「みち情報ネットふくい」/ Takoo-cho, Fukui City, Fukui Prefecture 910-3602, "Michi Information Net Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-takocho-r6.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.157963,36.0487145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道115号殿下福井線白滝町ライブカメラ / Fukui Prefectural Road 115 His Imperial Highness Fukui Line Shiratakicho Live Camera</name>
+        <description><![CDATA[〒910-3511 福井県福井市白滝町「みち情報ネットふくい」/ Shirataki-cho, Fukui City, Fukui Prefecture 910-3511, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0775826,36.042178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜川中角ライブカメラ / Kuzuryu River Nakakaku Live Camera</name>
+        <description><![CDATA[〒910-0061 福井県福井市舟橋新町 「福井河川国道事務所」/ Funabashishinmachi, Fukui City, Fukui Prefecture, 910-0061, "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2073456,36.0998436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川深谷ライブカメラ / Hinogawa Fukaya Live Camera</name>
+        <description><![CDATA[〒910-0039 福井県福井市三ツ屋町 「福井河川国道事務所」/ Mitsuya-cho, Fukui City, Fukui Prefecture 910-0039, "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1855175,36.083736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道福井北インターチェンジライブカメラ / Hokuriku Expressway Fukui Kita Interchange Live Camera</name>
+        <description><![CDATA[福井県福井市重立町 「NEXCO中日本サービス」/ Shigetate-cho, Fukui City, Fukui Prefecture "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2788915,36.0863327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号縫原町ライブカメラ / National Route 158 Nuibaracho Live Camera</name>
+        <description><![CDATA[〒910-2335 福井県福井市縫原町「みち情報ネットふくい」/ Nuibara-cho, Fukui City, Fukui Prefecture 910-2335, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4184419,36.0147499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川・木田橋ライブカメラ / Asuwa River / Kidabashi Live Camera</name>
+        <description><![CDATA[〒910-0857 福井県福井市豊島１丁目３−１ 三谷ビル 「福井ケーブルテレビ株式会社ライブチャンネル」/ Mitani Building, 1-3-1, Toyoshima, Fukui City, Fukui Prefecture 910-0857, "Fukui Cable Television Co., Ltd. Live Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2205644,36.0575695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日詰川牛ケ原ライブカメラ / Hizume River Ushigahara Live Camera</name>
+        <description><![CDATA[〒912-0091 福井県大野市牛ケ原 「福井県河川砂防総合情報」/ Ushigahara, Ono City, Fukui Prefecture 912-0091 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4655452,36.0049491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道172号皿谷大野線陽明ライブカメラ / Fukui Prefectural Road No. 172 Saratani Ono Line Yomei Live Camera</name>
+        <description><![CDATA[福井県大野市陽明町「みち情報ネットふくい」/ Yomeicho, Ono City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4981182,35.9909319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号牛ケ原第2ライブカメラ / Route 158 Ushigahara No. 2 Live Camera</name>
+        <description><![CDATA[福井県大野市牛ケ原「みち情報ネットふくい」/ Ushigahara, Ono City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4697775,35.9936777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号下山ライブカメラ / National highway 158 Shimoyama live camera</name>
+        <description><![CDATA[福井県大野市下山「みち情報ネットふくい」/ Shimoyama, Ono City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.628723,35.9201625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越前大野城雲海ライブカメラ / Echizen Ono Castle Sea of Clouds Live Camera</name>
+        <description><![CDATA[〒912-0087 福井県大野市城町３−１０９ 越前大野城 「結の故郷越前おおの」/ Echizen Ono Castle, 3-109 Shiromachi, Ono City, Fukui Prefecture 912-0087  "Yui's Hometown Echizen Ono"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4830622,35.9865864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清滝川横枕ライブカメラ / Kiyotaki River Yokomakura live camera</name>
+        <description><![CDATA[〒912-0012 福井県大野市横枕「福井県河川砂防総合情報」/ Yokomakura, Ono City, Fukui Prefecture 912-0012 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5081223,36.0019714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤根川新庄ライブカメラ / Akanegawa Shinjo Live Camera</name>
+        <description><![CDATA[〒912-0085 福井県大野市新庄「福井県河川砂防総合情報」/ Shinjo, Ono City, Fukui Prefecture 912-0085, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4858701,35.9752898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号東市布ライブカメラ / National highway No. 158 Higashiichinuno live camera</name>
+        <description><![CDATA[〒912-0222 福井県大野市東市布「福井県河川砂防総合情報」/ Higashiichinuno, Ono City, Fukui Prefecture 912-0222, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.815598,35.8577822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号下半原ライブカメラ / National highway No. 158 Shimohanbara live camera</name>
+        <description><![CDATA[〒912-0211 福井県大野市下半原「福井県河川砂防総合情報」/ Shimohanbara, Ono City, Fukui Prefecture 912-0211 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.7792927,35.8660733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号川合ライブカメラ / National highway No. 158 Kawai live camera</name>
+        <description><![CDATA[〒912-0218 福井県大野市川合「みち情報ネットふくい」/ Kawai, Ono City, Fukui Prefecture 912-0218, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6740866,35.903905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道26号大野勝山線南六呂師ライブカメラ / Fukui Prefectural Road No. 26 Ono Katsuyama Line Minamirokuroshi Live Camera</name>
+        <description><![CDATA[〒912-0131 福井県大野市南六呂師「みち情報ネットふくい」/  Minamirokuroshi, Ono City, Fukui Prefecture 912-0131, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5941661,36.0207624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道157号中据ライブカメラ / National highway No. 157 Nakashigarami live camera</name>
+        <description><![CDATA[〒912-0437 福井県大野市中据「みち情報ネットふくい」/ Nakashigarami, Ono City, Fukui Prefecture 912-0437, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5102454,35.9596813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号牛ケ原ライブカメラ / National highway No. 158 Ushigahara live camera</name>
+        <description><![CDATA[〒912-0091 福井県大野市牛ケ原「みち情報ネットふくい」/ Ushigahara, Ono City, Fukui Prefecture 912-0091 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4631419,35.9948804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道158号越美通洞西ライブカメラ / National Route 158 Etsumi Tunnel West Live Camera </name>
+        <description><![CDATA[〒912-0222 福井県大野市東市布 「岐阜国道事務所」/ Higashiichinuno, Ono City, Fukui Prefecture 912-0222, "Gifu National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.8131089,35.8714501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石田おとり店九頭竜川ライブカメラ / Ishida decoy store Kuzuryu River live camera</name>
+        <description>〒911-0841 福井県勝山市鹿谷町保田１−１石田おとり店 /  Ishida decoy store,  1-1 Hota, Shikatani-cho, Katsuyama-shi, Fukui 911-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4702444,36.0721002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大蓮寺川元町ライブカメラ / Dairenji River Motomachi Live Camera</name>
+        <description><![CDATA[〒911-0804 福井県勝山市元町１丁目 「福井県河川砂防総合情報」/ 1-chome, Motomachi, Katsuyama-shi, Fukui 911-0804 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.501818,36.0596681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畝見川北郷町東野ライブカメラ / Unemigawa Kitagocho Higashino Live Camera </name>
+        <description><![CDATA[〒911-0054 福井県勝山市北郷町東野「福井県河川砂防総合情報」/  Higashino, Kitago-cho, Katsuyama-shi, Fukui 911-0054,   "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4301532,36.0823499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道260号勝山インター線鹿谷ライブカメラ / Fukui Prefectural Road 260 Katsuyama Inter Line Shikatani Live Camera</name>
+        <description><![CDATA[福井県勝山市鹿谷町志田「みち情報ネットふくい」/ Shida, Shikadanicho, Katsuyama City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4666815,36.0642018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道157号下荒井橋ライブカメラ / Route 157 Shimoaraibashi Live Camera</name>
+        <description><![CDATA[福井県勝山市遅羽町下荒井「みち情報ネットふくい」/ Shimoarai, Osowa-cho, Katsuyama-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5143566,36.0223437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜川比島ライブカメラ / Kuzuryu River Hishima Live Camera</name>
+        <description><![CDATA[〒911-0831 福井県勝山市遅羽町比島「福井県河川砂防総合情報」/ Hishima, Osowa-cho, Katsuyama-shi, Fukui 911-0831,   "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4816881,36.0611408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道157号北谷町小原ライブカメラ / Route 157 Kitadani Town Ohara Live Camera</name>
+        <description><![CDATA[〒911-0001 福井県勝山市北谷町小原「みち情報ネットふくい」/ Ohara, Kitadani-cho, Katsuyama-shi, Fukui 911-0001 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.6156476,36.0881786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道17号勝山丸岡線北郷町坂東島ライブカメラ / Fukui Prefectural Road No. 17 Katsuyama Maruoka Line Kitagocho Bandojima Live Camera</name>
+        <description><![CDATA[〒911-0056 福井県北郷町坂東島「みち情報ネットふくい」/ Bandojima, Kitago-cho, Fukui Prefecture 911-0056 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4064847,36.0849951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道157号村岡町暮見ライブカメラ / National highway No. 157 Murokocho Kuremi live camera </name>
+        <description><![CDATA[〒911-0022 福井県勝山市村岡町暮見「みち情報ネットふくい」/ Kuremi, Muroko-cho, Katsuyama-shi, Fukui 911-0022 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5299395,36.0829279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号荒土町松田ライブカメラ / National highway 416 Aradocho Matsuta live camera</name>
+        <description><![CDATA[〒911-0042 福井県勝山市荒土町松田「みち情報ネットふくい」/ Matsuta, Aradocho, Katsuyama City, Fukui Prefecture 911-0042 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4751835,36.0793417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道157号谷ライブカメラ / Route 157 valley live camera</name>
+        <description><![CDATA[〒911-0006 福井県勝山市北谷町谷「みち情報ネットふくい」/ Kitadanichotani, Katsuyama City, Fukui Prefecture 911-0006 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.5836702,36.1359527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>穴田川上河端ライブカメラ / Anada River Kamikobata Live Camera</name>
+        <description><![CDATA[〒916-0037 福井県鯖江市上河端町 「福井県河川砂防総合情報」/ Kamikobata-cho, Sabae City, Fukui Prefecture 916-0037 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1985851,35.954898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川糺橋ライブカメラ / Hinogawa Tadasubashi Live Camera</name>
+        <description><![CDATA[福井県鯖江市石田上町「福井県河川砂防総合情報」/ Ishidakamicho, Sabae City, Fukui Prefecture "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1660604,35.9729544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河和田川戸口町ライブカメラ / Kawada River Tonokuchicho Live Camera</name>
+        <description><![CDATA[〒916-1113 福井県鯖江市戸口町「福井県河川砂防総合情報」/ Tonokuchi-cho, Sabae-shi, Fukui 916-1113, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2482399,35.951954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道39号鯖江インター線横越ライブカメラ / Fukui Prefectural Road 39 Sabae Inter Line Yokogoshi Live Camera</name>
+        <description><![CDATA[福井県鯖江市横越町「みち情報ネットふくい」/ Yokogoshi-cho, Sabae City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2006976,35.9496303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅水川鳥羽ライブカメラ / Asamizu River Toba Live Camera</name>
+        <description><![CDATA[〒916-0014 福井県鯖江市鳥羽町「福井県河川砂防総合情報」/ Tobacho, Sabae City, Fukui Prefecture 916-0014, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1993316,35.981927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道417号川去町ライブカメラ / National Route 417 Kawasaricho Live Camera</name>
+        <description><![CDATA[〒916-0088 福井県鯖江市川去町「みち情報ネットふくい」/ Kawasari-cho, Sabae-shi, Fukui 916-0088, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1444832,35.9691364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号宮前ライブカメラ / National highway No. 8 Miyamae live camera</name>
+        <description><![CDATA[福井県鯖江市宮前「みち情報ネットふくい」/ Miyamae, Sabae City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1896398,35.9325631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号御幸町ライブカメラ / National highway No. 8 Miyukicho live camera</name>
+        <description><![CDATA[〒916-0015 福井県鯖江市御幸町「みち情報ネットふくい」/ Miyukicho, Sabae City, Fukui Prefecture 916-0015 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1945003,35.9786116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道104号鯖江織田線石生谷ライブカメラ / Fukui Prefectural Road 104 Sabae Oda Line Ishodani Live Camera</name>
+        <description><![CDATA[〒916-0076 福井県鯖江市石生谷町「みち情報ネットふくい」/  Ishodanicho, Sabae City, Fukui Prefecture 916-0076, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1319356,35.9422723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道北鯖江パーキングエリア上りライブカメラ / Hokuriku Expressway Hokuriku Expressway Kita Sabae Parking Area Up Live Camera</name>
+        <description><![CDATA[〒916-0038 福井県鯖江市下河端町８６−２ オレボステーション 北鯖江PA上り 「NEXCO中日本サービス」/ Kita-Sabae PA Up, 86-2 Shimokobata-cho, Sabae-shi, Fukui 916-0038 Orebo Station "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2040272,35.9727529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道124号牛ノ谷停車場線下金屋ライブカメラ / Fukui Prefectural Road No. 124 Ushinoya Stop Line Shimokanaya Live Camera</name>
+        <description><![CDATA[福井県あわら市下金屋「みち情報ネットふくい」/ Shimokanaya, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2809878,36.2381759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道123号芦原温泉停車場中川線菅野アンダーパスライブカメラ / Fukui Prefectural Road No. 123 Awara Onsen Stop Nakagawa Line Sugano Underpass Live Camera</name>
+        <description><![CDATA[福井県あわら市自由ケ丘「みち情報ネットふくい」/ Jiyugaoka, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2355278,36.2116088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道37号金津インター線金津インターチェンジ交差点ライブカメラ / Fukui Prefectural Road No. 37 Kanazu Interchange Kanazu Intersection Live Camera</name>
+        <description><![CDATA[福井県あわら市熊坂「みち情報ネットふくい」/ Kumasaka, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.28341,36.2368404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道29号福井金津線吉崎交差点ライブカメラ / Fukui Prefectural Road No. 29 Fukui Kanazu Line Yoshizaki Intersection Live Camera</name>
+        <description><![CDATA[福井県あわら市吉崎「みち情報ネットふくい」/ Yoshizaki, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2558027,36.2875127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道29号福井金津線山十楽交差点ライブカメラ / Fukui Prefectural Road No. 29 Fukui Kanazu Line Yamajuraku Intersection Live Camera</name>
+        <description><![CDATA[福井県あわら市山十楽「みち情報ネットふくい」/ Yamajuraku, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2296741,36.2394451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道29号福井金津線坂ノ下南交差点ライブカメラ / Fukui Prefectural Road No. 29 Fukui Kanazu Line Sakanoshita Minami Crossing Live Camera</name>
+        <description><![CDATA[福井県あわら市花乃杜「みち情報ネットふくい」/ Hananomori, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2201451,36.216874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線あわら市芦原小学校東向ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Awara City Ashihara Elementary School Eastward Live Camera</name>
+        <description><![CDATA[福井県あわら市田中々2-25「みち情報ネットふくい」/ 2-25 Tanakanaka, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1922694,36.2196947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線あわら市芦原小学校北向ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Awara City Ashihara Elementary School Northbound Live Camera</name>
+        <description><![CDATA[〒910-4124 福井県あわら市田中々２−２５ あわら市芦原小学校「みち情報ネットふくい」/ 2-25 Tanakanaka, Awara City, Fukui Prefecture 910-4124 Awara City Ashihara Elementary School "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.192662,36.221831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線下番蔵間交差点ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Shimoban Kurama Intersection Live Camera</name>
+        <description><![CDATA[福井県あわら市下番「みち情報ネットふくい」/ Shimoban, Awara City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1907525,36.2067126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井坂井地区広域市町村圏事務組合清掃センターライブカメラ / Fukui Sakai District Wide Area Municipal Area Office Cleaning Center Live Camera</name>
+        <description>〒919-0726 福井県あわら市笹岡33号3番地１ 福井坂井地区広域市町村圏事務組合 清掃センター /  3-1 Sasaoka, Awara City, Fukui Prefecture 919-0726, Fukui Sakai District Wide Area Municipal Area Office Cleaning Center</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2644551,36.2110451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田川上新橋ライブカメラ / Takeda River Kamishinbashi Live Camera</name>
+        <description><![CDATA[〒919-0632 福井県あわら市春宮 「福井県河川砂防総合情報」/ Harumiya, Awara City, Fukui Prefecture 919-0632 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2320472,36.2168687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道金津インターチェンジライブカメラ / Hokuriku Expressway Kanazu Interchange Live Camera</name>
+        <description><![CDATA[〒919-0723 福井県あわら市熊坂 金津IC 「NEXCO中日本サービス」/ Kanazu IC,  Kumasaka, Awara City, Fukui Prefecture 919-0723,  "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.280407,36.2348255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号牛ノ谷峠ライブカメラ / National highway No. 8 Ushinotani Pass live camera</name>
+        <description><![CDATA[福井県あわら市牛ノ谷「福井河川国道事務所」/  Ushinoya, Awara City, Fukui Prefecture "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.287466,36.2607655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道40号武生インター線武生インターチェンジライブカメラ / Fukui Prefectural Road No. 40 Takefu Inter Line Takefu Interchange Live Camera</name>
+        <description><![CDATA[福井県越前市庄町「みち情報ネットふくい」/ Shocho, Echizen City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1975237,35.9022807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>服部川東庄境ライブカメラ / Hattori River Higashishozakai Live Camera</name>
+        <description><![CDATA[〒915-0251 福井県越前市東庄境町 「福井県河川砂防総合情報」/ Higashishozakai Town, Echizen City, Fukui Prefecture 915-0251 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2525849,35.9383831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道2号武生美山線相木ライブカメラ / Fukui Prefectural Road No. 2 Takefu Miyama Line Ainoki Live Camera</name>
+        <description><![CDATA[福井県越前市相木町「みち情報ネットふくい」/ Ainoki-cho, Echizen City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3050269,35.9352178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道2号武生美山線粟田部ライブカメラ / Fukui Prefectural Road No. 2 Takefu Miyama Line Awatabe Live Camera</name>
+        <description><![CDATA[福井県越前市粟田部町「みち情報ネットふくい」/ Awatabe-cho, Echizen City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2387624,35.9117427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野瀬川上太田ライブカメラ / Yoshinose River Kamioda Live Camera</name>
+        <description><![CDATA[〒915-0882 福井県越前市上太田町 「福井県河川砂防総合情報」/ Kamioda-cho, Echizen City, Fukui Prefecture 915-0882 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1475681,35.906635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川万代橋ライブカメラ / Hinogawa Bandai Bridge Live Camera</name>
+        <description><![CDATA[〒915-0061 福井県越前市堀川町「福井県河川砂防総合情報」/Horikawa-cho, Echizen-shi, Fukui  915-0061, "Comprehensive information on river sabo in Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.172212,35.8992841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鞍谷川粟田部町ライブカメラ / Kuratani River Awatabecho Live Camera</name>
+        <description><![CDATA[〒915-0242 福井県越前市粟田部町「福井県河川砂防総合情報」/  Awatabe-cho, Echizen-shi, Fukui  915-0242, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2377432,35.9160925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道417号南坂下町ライブカメラ / National Route 417 Minamisakashitacho Live Camera</name>
+        <description><![CDATA[〒915-0226 福井県越前市南坂下町「みち情報ネットふくい」/ Minamisakashita-cho, Echizen City, Fukui Prefecture 915-0226<br>"Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2915452,35.8950819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道201号菅生武生線入谷町ライブカメラ / Fukui Prefectural Road 201 Sugo Takefu Line Iritanicho Live Camera</name>
+        <description><![CDATA[〒915-0035 福井県越前市入谷町「みち情報ネットふくい」/ Iritani-cho, Echizen City, Fukui Prefecture 915-0035, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2957369,35.8770445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号葛岡ライブカメラ / National highway No. 8 Kuzuoka live camera</name>
+        <description><![CDATA[〒915-0041 福井県越前市葛岡町「みち情報ネットふくい」/ Kuzuoka-cho, Echizen City, Fukui Prefecture 915-0041, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1912141,35.9021195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道229号福井鯖江線家久町ライブカメラ / Fukui Prefectural Road 229 Fukui Sabae Line Iehisacho Live Camera</name>
+        <description><![CDATA[〒915-0801 福井県越前市家久町「みち情報ネットふくい」/  Iehisacho, Echizen City, Fukui Prefecture 〒915-0801, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1694447,35.9282769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道19号武生米ノ線広瀬町ライブカメラ / Fukui Prefectural Road No. 19 Takefu Yoneno Line Hirosecho Live Camera</name>
+        <description><![CDATA[〒915-0872 福井県越前市広瀬町 「みち情報ネットふくい」/ Hirose-cho, Echizen City, Fukui Prefecture 915-0872 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1256258,35.881635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道19号武生米ノ線丸岡町ライブカメラ / Fukui Prefectural Road No. 19 Takefu Yoneno Line Marukacho Live Camera</name>
+        <description><![CDATA[〒915-1213 福井県越前市丸岡町「みち情報ネットふくい」/ Marukacho, Echizen City, Fukui Prefecture 915-1213 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.068782,35.8778523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リトラス福井支店ライブカメラ / Litras Fukui Branch Live Camera</name>
+        <description>〒915-0042 福井県越前市大屋町４８−８−１リトラス 福井支店 / Litrus Fukui Branch, 48-8-1, Oya-cho, Echizen-shi, Fukui 915-0042 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.191995,35.895064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道364号上竹田ライブカメラ / National highway No. 364 Kamitakeda live camera</name>
+        <description><![CDATA[福井県坂井市丸岡町上竹田「みち情報ネットふくい」/ Kamitakeda, Maruoka-cho, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.328262,36.1488808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCTV三国サンセットビーチライブカメラ / FCTV Mikuni Sunset Beach Live Camera</name>
+        <description><![CDATA[〒913-0056 福井県坂井市三国町宿２丁目１８−１ 三国温泉ゆあぽーと 「福井ケーブルテレビ株式会社ライブチャンネル」/ Mikuni Onsen Yuaport, 2-18-1, Mikunichoshuku, Sakai City, Fukui Prefecture 913-0056  "Fukui Cable Television Co., Ltd. Live Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.135791,36.220869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道29号福井金津線下関交差点ライブカメラ / Fukui Prefectural Road No. 29 Fukui Kanazu Line Shimonoseki Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市坂井町下関「みち情報ネットふくい」/ Shimozeki, Sakai-cho, Sakai-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2221955,36.1933246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道10号丸岡川西線一本田交差点ライブカメラ / Fukui Prefectural Road No. 10 Maruoka River West Line Ipponden Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市丸岡町一本田「みち情報ネットふくい」/ Ipponda, Maruoka-cho, Sakai-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2643011,36.1467152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道160号板倉高江線中筋アンダーパスライブカメラ / Fukui Prefectural Road 160 Itakura Takae Line Nakasuji Underpass Live Camera</name>
+        <description><![CDATA[福井県坂井市春江町中筋「みち情報ネットふくい」/ Haruecho Nakasuji, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2279924,36.1262774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道106号三国丸岡停車場線上兵庫交差点ライブカメラ / Fukui Prefectural Road 106 Mikuni Maruoka Stop Line Kamohyogo Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市坂井町上兵庫「みち情報ネットふくい」/ Kamihyogo, Sakai-cho, Sakai-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2202192,36.1671234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道112号栃神谷鳴鹿森田線磯部島交差点ライブカメラ / Fukui Prefectural Road 112 Tochigamiya Naruka Morita Line Isobejima Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市丸岡町磯部島「みち情報ネットふくい」/ Isobejima, Maruoka-cho, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2760763,36.1154407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道38号丸岡インター線丸岡インターチェンジ交差点ライブカメラ / Fukui Prefectural Road No. 38 Maruoka Inter Line Maruoka Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市丸岡町猪爪「みち情報ネットふくい」/ Inotsume, Maruoka-cho, Sakai-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2765627,36.1417573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道30号福井丸岡線南横地交差点ライブカメラ / Fukui Prefectural Road No. 30 Fukui Maruoka Line Minami Yokochi Intersection Live Camera</name>
+        <description><![CDATA[福井県坂井市丸岡町南横地「みち情報ネットふくい」/ Minami Yokochi, Maruoka-cho, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2499337,36.1258759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道20号三国春江線池見口南東向ライブカメラ / Fukui Prefectural Road No. 20 Mikuni Harue Line Ikemiguchi Southeastward Live Camera</name>
+        <description><![CDATA[福井県坂井市三国町池見「みち情報ネットふくい」/ Ikemi, Mikuni-cho, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1667713,36.1789095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道5号福井加賀線西長田第2交差点西向・南向ライブカメラ / Fukui Prefectural Road No. 5 Fukui Kaga Line Nishi Nagata No. 2 Intersection Westward and Southward Live Camera</name>
+        <description><![CDATA[福井県坂井市春江町西長田「みち情報ネットふくい」/ Nishinagata, Harue-cho, Sakai-shi, Fukui "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2027062,36.1557683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道364号丸岡山中温泉トンネルライブカメラ / National highway No. 364 Maruoka Yamanaka Onsen tunnel live camera</name>
+        <description><![CDATA[〒910-0204 福井県坂井市丸岡町山竹田「みち情報ネットふくい」/ Yamatakeda, Maruoka-cho, Sakai-shi, Fukui 910-0204, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3236923,36.174655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号山岸第二交差点ライブカメラ / National highway No. 305 Yamagishi second intersection live camera</name>
+        <description><![CDATA[福井県坂井市三国町山岸「みち情報ネットふくい」/ Yamagishi, Mikuni-cho, Sakai City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1385424,36.1914535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>兵庫川下兵庫ライブカメラ / Hyogo River Shimo Hyogo Live Camera</name>
+        <description><![CDATA[〒919-0527 福井県坂井市坂井町下兵庫 「福井県河川砂防総合情報」/ Shimohyogo, Sakai-cho, Sakai-shi, Fukui 919-0527 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1951935,36.1765019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道364号丸岡町上久米田ライブカメラ / National highway No. 364 Maruokacho Kamikumeda live camera</name>
+        <description><![CDATA[〒910-0331 福井県坂井市丸岡町上久米田「みち情報ネットふくい」/ Kamikumeda, Maruoka-cho, Sakai-shi, Fukui 910-0331, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3410478,36.1199774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道10号丸岡川西線丸岡町山久保ライブカメラ / Fukui Prefectural Road No. 10 Maruoka Kawanishi Line Maruokacho Yamakubo Live Camera</name>
+        <description><![CDATA[〒910-0207 福井県坂井市丸岡町山久保「みち情報ネットふくい」/ Yamakubo, Maruoka-cho, Sakai City, Fukui Prefecture 910-0207 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2974505,36.1727782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道38号丸岡インター線丸岡町猪爪ライブカメラ / Fukui Prefectural Road 38 Maruoka Inter Line Maruokacho Inotsume Live Camera</name>
+        <description><![CDATA[〒910-0303 福井県坂井市丸岡町猪爪「みち情報ネットふくい」/ Yamakubo, Maruoka-cho, Sakai City, Fukui Prefecture 910-0207 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2751541,36.1430542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道364号丸岡町山竹田ライブカメラ / National highway No. 364 Maruokacho Yamatakeda live camera</name>
+        <description><![CDATA[〒910-0204 福井県坂井市丸岡町山竹田「みち情報ネットふくい」/ Yamatakeda, Maruoka-cho, Sakai-shi, Fukui 910-0204, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.332962,36.170775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸岡城ライブカメラ / Maruoka Castle Live Camera</name>
+        <description><![CDATA[〒910-0231 福井県坂井市丸岡町霞町１丁目５９ 「坂井市観光連盟」/ 1-59 Kasumicho, Maruoka-cho, Sakai-shi, Fukui 910-0231 "Sakai-shi Tourism Federation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2721028,36.1523454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道112号栃神谷鳴鹿森田線兼定島アンダーパスライブカメラ / Fukui Prefectural Road 112 Tochikamiya Naruka Morita Line Kenjojima Underpass Live Camera </name>
+        <description><![CDATA[福井県永平寺町松岡兼定島「みち情報ネットふくい」/ Matsuokakenjojima, Eiheiji Town, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.281479,36.1122216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河内川石上ライブカメラ / Kawachigawa Ishigami Live Camera</name>
+        <description><![CDATA[〒910-1313 福井県吉田郡永平寺町石上 「福井県河川砂防総合情報」/ Ishigami, Eiheiji-cho, Yoshida-gun, Fukui 910-1313 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.4033798,36.0624288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道164号大畑松岡線福井県立大学永平寺キャンパス前ライブカメラ / Fukui Prefectural Road No. 164 Ohata Matsuoka Line Fukui Prefectural University Eiheiji Campus Live Camera</name>
+        <description><![CDATA[福井県吉田郡永平寺町松岡兼定島「みち情報ネットふくい」/ Matsuokakenjojima, Eiheiji-cho, Yoshida-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2797398,36.1097542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道17号勝山丸岡線北島鮎大橋北ライブカメラ / Fukui Prefectural Road No. 17 Katsuyama Maruoka Line Kitajima Ayu Ohashi Kita Live Camera</name>
+        <description><![CDATA[福井県永平寺町栃原「みち情報ネットふくい」/ Tochihara, Eiheiji Town, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3762105,36.0901027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道416号永平寺町役場前ライブカメラ / Live camera in front of Eiheiji Town Hall on Route 416</name>
+        <description><![CDATA[福井県吉田郡永平寺町松岡春日１丁目「みち情報ネットふくい」/ 1-chome Matsuoka Kasuga, Eiheiji-cho, Yoshida-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2993272,36.0920833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道364号志比ライブカメラ / National highway 364 Shihi live camera</name>
+        <description><![CDATA[〒910-1228 福井県吉田郡永平寺町志比「みち情報ネットふくい」/ Shihi, Eiheiji-cho, Yoshida-gun, Fukui Prefecture 910-1228, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.357795,36.0473254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九頭竜川鳴鹿大堰魚道ライブカメラ / Kuzuryugawa Naruka Oizumi Fishway Live Camera</name>
+        <description>〒910-1211 福井県吉田郡永平寺町法寺岡５−２６−１ 近畿地方整備局 福井河川国道事務所 九頭竜川鳴鹿大堰管理所 / Kinki Regional Development Bureau Fukui River National Highway Office Kuzuryugawa Naruka Oizumi Management Office, 5-26-1 Hojioka, Eiheiji-cho, Yoshida-gun, Fukui 910-1211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3211637,36.1018739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足羽川稲荷ライブカメラ / Asuwa River Inari Live Camera</name>
+        <description><![CDATA[福井県今立郡池田町稲荷 「福井県河川砂防総合情報」/ Inari, Ikeda-cho, Imadate-gun, Fukui Prefecture "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3420648,35.8886508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号白粟ライブカメラ / National highway 476 Shiraawa live camera</name>
+        <description><![CDATA[〒910-2556 福井県今立郡池田町松ヶ谷「みち情報ネットふくい」/ Matsugatani, Ikeda-cho, Imadate-gun, Fukui Prefecture 910-2556 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3638104,35.936726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道2号武生美山線清水谷ライブカメラ / Fukui Prefectural Road No. 2 Takefu Miyama Line Shimizutani Live Camera</name>
+        <description><![CDATA[〒910-2507 福井県今立郡池田町清水谷「みち情報ネットふくい」/ Shimizutani, Ikeda-cho, Imadate-gun, Fukui Prefecture 910-2507 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3346528,35.9124241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道201号菅生武生線魚見ライブカメラ / Fukui Prefectural Road 201 Sugo Takefu Line Uomi Live Camera</name>
+        <description><![CDATA[〒910-2534 福井県今立郡池田町魚見「みち情報ネットふくい」/ Uomi, Ikeda-cho, Imadate-gun, Fukui Prefecture 910-2534<br>"Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2809608,35.8437691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道417号板垣トンネルライブカメラ / National Route 417 Itagaki Tunnel Live Camera</name>
+        <description><![CDATA[〒910-2527 福井県今立郡池田町板垣「みち情報ネットふくい」/ Itagaki, Ikeda-cho, Imadate-gun, Fukui Prefecture 910-2527 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.3083045,35.8832351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号孫谷ライブカメラ / National highway 365 Magotani live camera</name>
+        <description><![CDATA[福井県南条郡南越前町孫谷「みち情報ネットふくい」/ Magotani, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1762348,35.744566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野川聖橋ライブカメラ / Hinogawa Hijiribashi Live Camera</name>
+        <description><![CDATA[〒919-0101 福井県南条郡南越前町湯尾 「福井県河川砂防総合情報」 / Yunoo, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0101 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1756813,35.787055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[河野・北前船主の館右近家 ライブカメラ / Kono / Kitamae Shipowner's House Ukonya Live Camera]]></name>
+        <description><![CDATA[〒915-1111 福井県南条郡南越前町河野２−１５ 北前船主の館 右近家 「福井ケーブルテレビ株式会社ライブチャンネル」/ 2-15 Kono, Minamiechizen-cho, Nanjo-gun, Fukui 915-1111 Kitamae Shipowner's House Ukonya "Fukui Cable Television Co., Ltd. Live Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.068248,35.826251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道南条ＳＡ付近 ライブカメラ / Hokuriku Expressway near Nanjo SA Live camera</name>
+        <description><![CDATA[〒919-0203 福井県南条郡南越前町牧谷２９−１５−１ 南条文化会館 「福井ケーブルテレビ株式会社ライブチャンネル」/ Nanjo Cultural Center, 29-15-1 Makidani, Minamiechizen-cho, Nanjo-gun, Fukui 919-0203  "Fukui Cable Television Co., Ltd. Live Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.199995,35.833084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号大谷ライブカメラ / Route 305 Otani Live Camera</name>
+        <description><![CDATA[福井県南条郡南越前町大谷「みち情報ネットふくい」/ Otani, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0982654,35.7813771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号赤萩ライブカメラ / National Route 305 Akahagi Live Camera</name>
+        <description><![CDATA[〒915-1105 福井県南条郡南越前町赤萩 「みち情報ネットふくい」/ Akahagi, Minamiechizen-cho, Nanjo-gun, Fukui 915-1105 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1054564,35.8325108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号鯖波ライブカメラ / National highway 365 Sabanami live camera</name>
+        <description><![CDATA[〒919-0212 福井県南条郡南越前町鯖波「みち情報ネットふくい」/ Sabanami, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0212 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2007842,35.8172906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号奥野々ライブカメラ / National Route 305 Okunono Live Camera</name>
+        <description><![CDATA[〒919-0215 福井県南条郡南越前町奥野々「みち情報ネットふくい」/ Okunono, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0215 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1614625,35.8071301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号大門ライブカメラ / Route 365 Daimon Live Camera</name>
+        <description><![CDATA[〒919-0122 福井県南条郡南越前町大門「みち情報ネットふくい」/  Daimon, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0122,  "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2115465,35.748023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号上板取ライブカメラ / National highway 476 Kamitatori live camera</name>
+        <description><![CDATA[〒919-0128 福井県南条郡南越前町板取「みち情報ネットふくい」/  Itadori, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0128,   "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1565639,35.7163698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道敦賀トンネルライブカメラ / Hokuriku Expressway Tsuruga Tunnel Live Camera</name>
+        <description><![CDATA[福井県南条郡南越前町二ツ屋 敦賀トンネル 「NEXCO中日本サービス」/ Futatsuya Tsuruga Tunnel, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1351363,35.7458993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道南条サービスエリア下りライブカメラ / Hokuriku Expressway Nanjo Service Area Down Live Camera</name>
+        <description><![CDATA[福井県南条郡南越前町 「NEXCO中日本サービス」/ Minamiechizen Town, Nanjo District, Fukui Prefecture, "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2018161,35.8285213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号板取ライブカメラ / National Route 365 Itadori Live Camera</name>
+        <description><![CDATA[〒919-0128 福井県南条郡南越前町板取「みち情報ネットふくい」/ Itadori, Minamiechizen-cho, Nanjo-gun, Fukui Prefecture 919-0128,   "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1565639,35.7163698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号道の駅河野ライブカメラ / National highway No. 8 roadside station Kono live camera</name>
+        <description><![CDATA[〒915-1103 福井県南条郡南越前町大谷８６−１道の駅 河野 「福井河川国道事務所」/ 86-1 Otani, Minamiechizen-cho, Nanjo-gun, Fukui 915-1103 Road Station Kono "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0919952,35.7966957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天王川江波ライブカメラ / Tennogawa Enami Live Camera</name>
+        <description><![CDATA[〒916-0255 福井県丹生郡越前町江波 「福井県河川砂防総合情報」/ Enami, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0255 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0703889,35.9430441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道28号福井朝日武生線田中ライブカメラ / Fukui Prefectural Road No. 28 Fukui Asahi Takefu Line Tanaka Live Camera</name>
+        <description><![CDATA[福井県丹生郡越前町田中「みち情報ネットふくい」/ Tanaka, Echizen-cho, Nyu-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1481141,35.9872235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号午房ケ平ライブカメラ / National Route 305 Gobogadaira Live Camera</name>
+        <description><![CDATA[〒916-0428 福井県丹生郡越前町午房ヶ平「みち情報ネットふくい」/ Gobogadaira, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0428,  "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0096876,35.8785512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号梅浦第2ライブカメラ / National Route 305 Umeura No. 2 Live Camera</name>
+        <description><![CDATA[〒916-0311 福井県丹生郡越前町梅浦「みち情報ネットふくい」/ Umeura, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0311 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9787166,35.9565715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号越前海岸ライブカメラ / National Route 305 Echizen Coast Live Camera</name>
+        <description><![CDATA[〒916-0311 福井県丹生郡越前町梅浦 「越前町役場」/ Umeura, Echizen Town, Nyu District, Fukui Prefecture 916-0311 "Echizen Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9843607,35.9529831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道264号越前織田線道口ライブカメラ / Fukui Prefectural Road 264 Echizen Oda Line Michiguchi Live Camera</name>
+        <description><![CDATA[〒916-0421 福井県丹生郡越前町道口「越前町役場」/ Michiguchi, Echizen Town, Nyu District, Fukui Prefecture 916-0421<br>"Echizen Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0023267,35.9373897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天王川宝泉寺ライブカメラ / Tennogawa Hosenji Live Camera</name>
+        <description><![CDATA[〒916-0124 福井県丹生郡越前町宝泉寺 「福井県河川砂防総合情報」/ Hosenji, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0124, "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1239769,35.9778524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号江波ライブカメラ / Route 365 Enami Live Camera</name>
+        <description><![CDATA[〒916-0255 福井県丹生郡越前町江波「みち情報ネットふくい」/ Enami, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0255 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0675565,35.9422798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道3号福井大森河野線下糸生野田ライブカメラ / Fukui Prefectural Road No. 3 Fukui Omori Kono Line Shimoitou Noda Live Camera</name>
+        <description><![CDATA[〒916-0114 福井県丹生郡越前町下糸生「みち情報ネットふくい」/ Shimoitou, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0114, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0856057,35.9834071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道365号上山中ライブカメラ / National highway 365 Kamiyama Naka live camera</name>
+        <description><![CDATA[〒916-0225 福井県丹生郡越前町上山中「みち情報ネットふくい」/ Kamiyamanaka, Echizen-cho, Nyu-gun, Fukui Prefecture 916-0225,   "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0232018,35.950361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道19号武生米ノ線米ノライブカメラ / Fukui Prefectural Road No. 19 Takefu Komeno Line Komeno Live Camera</name>
+        <description><![CDATA[〒916-0426 福井県丹生郡越前町米ノ 「越前町役場」/ Komeno, Echizen Town, Nyu District, Fukui Prefecture 916-0426 "Echizen Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0029075,35.8921089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道305号梅浦第1ライブカメラ / National Route 305 Umeura No. 1 Live Camera</name>
+        <description><![CDATA[福井県丹生郡越前町梅浦「みち情報ネットふくい」/ Umeura, Echizen-cho, Nyu-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9839937,35.9532801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木の芽川木ノ芽橋ライブカメラ / Kinomegawa Kinomebashi Live Camera</name>
+        <description><![CDATA[福井県敦賀市布田町 「福井県河川砂防総合情報」/ Nunoda-cho, Tsuruga-shi, Fukui "Comprehensive information on river sabo in Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.071713,35.642724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道13号敦賀停車場線白銀ライブカメラ / Fukui Prefectural Road No. 13 Tsuruga Stop Line Shirogane Live Camera</name>
+        <description><![CDATA[福井県敦賀市白銀町「みち情報ネットふくい」/ Shiroganecho, Tsuruga City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.07407,35.6463987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笙の川呉竹ライブカメラ / Shonogawa Kuretake Live Camera</name>
+        <description><![CDATA[〒914-0802 福井県敦賀市呉竹町 「福井県河川砂防総合情報」/ Kuretake-cho, Tsuruga-shi, Fukui 914-0802,  "Comprehensive information on river sabo in Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0598977,35.6490616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号田尻ライブカメラ / National highway 476 Tajiri live camera</name>
+        <description><![CDATA[〒914-0007 福井県敦賀市田尻「みち情報ネットふくい」/ Tajiri, Tsuruga City, Fukui Prefecture 〒914-0007, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1159439,35.6885229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号新保ライブカメラ / Route 476 Shinbo Live Camera</name>
+        <description><![CDATA[〒914-0001 福井県敦賀市新保「みち情報ネットふくい」/ Shinbo, Tsuruga City, Fukui Prefecture 914-0001 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1374541,35.7076683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道141号竹波立石縄間線手ライブカメラ / Fukui Prefectural Road 141 Takenami Tateishi Nawama Line Hand Live Camera</name>
+        <description><![CDATA[〒914-0845 福井県敦賀市手「みち情報ネットふくい」/  Tsuruga City, Fukui Prefecture 914-0845, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0385107,35.7118528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道476号余座ライブカメラ / National Route 476 Yoza Live Camera</name>
+        <description><![CDATA[〒914-0016 福井県敦賀市余座「みち情報ネットふくい」/ Yoza, Tsuruga City, Fukui Prefecture 914-0016 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0861337,35.6521743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道204号大谷杉津線大比田ライブカメラ / Fukui Prefectural Road 204 Otani Sugizu Line Ohida Live Camera</name>
+        <description><![CDATA[〒914-0262 福井県敦賀市大比田「みち情報ネットふくい」/ Ohida, Tsuruga City, Fukui Prefecture 914-0262 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0999037,35.7484144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道204号大谷杉津線元比田ライブカメラ / Fukui Prefectural Road 204 Otani Sugizu Line Motohida Live Camera</name>
+        <description><![CDATA[〒914-0261 福井県敦賀市元比田「みち情報ネットふくい」/ Motohida, Tsuruga City, Fukui Prefecture 914-0261 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1064167,35.7576994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道140号敦賀柳ヶ瀬線刀根ライブカメラ / Fukui Prefectural Road 140 Tsuruga Yanagase Line Tone Live Camera</name>
+        <description><![CDATA[〒914-0313 福井県敦賀市刀根「みち情報ネットふくい」/ Tone, Tsuruga City, Fukui Prefecture 914-0313, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1565639,35.6011512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号岡山町1丁目ライブカメラ / National highway No. 27 Okayamacho 1-chome live camera</name>
+        <description><![CDATA[〒914-0044 福井県敦賀市岡山町１丁目「みち情報ネットふくい」/ 1-chome, Okayama-cho, Tsuruga-shi, Fukui 914-0044 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.070927,35.6311227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCN敦賀港ライブカメラ / RCN Tsuruga Port Live Camera</name>
+        <description><![CDATA[〒914-0078 福井県敦賀市桜町１−１ きらめきみなと館 「嶺南ケーブルネットワーク」/ Kirameki Minatokan, 1-1 Sakuramachi, Tsuruga City, Fukui Prefecture 914-0078,  "Reinan Cable Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0710015,35.6600089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCN国道27号岡山交差点ライブカメラ / RCN National Highway No. 27 Okayama Intersection Live Camera</name>
+        <description><![CDATA[〒914-0037 福井県敦賀市道口６３−１０−１ 「嶺南ケーブルネットワーク」/ 63-10-1 Michinokuchi, Tsuruga City, Fukui Prefecture 914-0037 "Reinan Cable Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0724938,35.6315372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCN笙の川ライブカメラ / RCN Shonogawa Live Camera</name>
+        <description><![CDATA[〒914-0802 福井県敦賀市呉竹町 「嶺南ケーブルネットワーク」/  Kuretake-cho, Tsuruga-shi, Fukui 914-0802, "Reinan Cable Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0598977,35.6490616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCN西浦水島ライブカメラ / RCN Nishiura Mizushima Live Camera</name>
+        <description><![CDATA[〒914-0844 福井県敦賀市色33−１−２敦賀市立西浦小学校(休校)「嶺南ケーブルネットワーク」/ Tsuruga City Nishiura Elementary School (closed), 33-1-2 Color, Tsuruga City, Fukui Prefecture 914-0844, "Reinan Cable Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.032079,35.733333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCN五幡ライブカメラ / RCN Itsuhata Live Camera</name>
+        <description><![CDATA[〒914-0267 福井県敦賀市五幡３２−８−１東浦公民館「嶺南ケーブルネットワーク」/ Higashiura Community Center, 32-8-1 Itsuhata, Tsuruga City, Fukui Prefecture 914-0267 "Reinan Cable Network"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.090035,35.708311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道161号疋田ライブカメラ / National highway No. 161 Hikida live camera</name>
+        <description><![CDATA[〒914-0302 福井県敦賀市疋田 「福井河川国道事務所」/ Hikida, Tsuruga City, Fukui Prefecture 914-0302, "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1011622,35.5984384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号疋田ライブカメラ / National highway No. 8 Hikida live camera</name>
+        <description><![CDATA[〒914-0302 福井県敦賀市疋田 「福井河川国道事務所」/ Hikida, Tsuruga City, Fukui Prefecture 914-0302, "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1065695,35.6044401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号田結トンネル敦賀側ライブカメラ / National highway No. 8 Tai tunnel Tsuruga side live camera</name>
+        <description><![CDATA[〒914-0273 福井県敦賀市田結 「福井河川国道事務所」/ Tai, Tsuruga City, Fukui Prefecture 914-0273, "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0863564,35.6775809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道敦賀市北部ライブカメラ / Hokuriku Expressway Tsuruga City Northern Live Camera</name>
+        <description><![CDATA[〒914-0002 福井県敦賀市葉原 「NEXCO中日本サービス」/ Habara, Tsuruga City, Fukui Prefecture 914-0002 "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1183518,35.6989652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道刀根パーキングエリアライブカメラ / Hokuriku Expressway Tone Parking Area Live Camera</name>
+        <description><![CDATA[〒914-0313 福井県敦賀市刀根 刀根PA (上り) 「NEXCO中日本サービス」/ Tone PA (Up), Tone, Tsuruga City, Fukui Prefecture 914-0313,  "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1516917,35.6034745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道杉津パーキングエリア新潟方面ライブカメラ / Hokuriku Expressway Suizu Parking Area Niigata Live Camera</name>
+        <description><![CDATA[福井県敦賀市杉津 「NEXCO中日本サービス」/Suizu, Tsuruga City, Fukui Prefecture "NEXCO Central Japan Service" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.113773,35.7330767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北陸自動車道敦賀インターチェンジライブカメラ / Hokuriku Expressway Tsuruga Interchange Live Camera</name>
+        <description><![CDATA[〒914-0014 福井県敦賀市井川 敦賀IC「NEXCO中日本サービス」/ Tsuruga IC, Ikawa. Tsuruga City, Fukui Prefecture 914-0014, "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0956136,35.6458719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号赤崎ライブカメラ / National highway No. 8 Akasaki live camera</name>
+        <description><![CDATA[〒914-0272 福井県敦賀市赤崎 「福井河川国道事務所」/ Akasaki, Tsuruga City, Fukui Prefecture 914-0272 "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0920984,35.6892096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道8号敦賀市新道ライブカメラ / National highway No. 8 Tsuruga city Shindo live camera</name>
+        <description><![CDATA[〒914-0317 福井県敦賀市新道 「福井河川国道事務所」/ Shindo, Tsuruga City, Fukui Prefecture  914-0317,  "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1255143,35.5848128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局北川高塚ライブカメラ / Kinki Regional Development Bureau Kitagawa Takatsuka Live Camera</name>
+        <description><![CDATA[福井県小浜市高塚 「近畿地方整備局」/ Takatsuka, Obama City, Fukui Prefecture "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7797533,35.4936559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>近畿地方整備局北川丸山橋上流ライブカメラ / Kinki Regional Development Bureau Kitagawa Maruyama Bridge upstream live camera</name>
+        <description><![CDATA[福井県小浜市府中 「近畿地方整備局」/ Fuchu, Obama City, Fukui Prefecture "Kinki Regional Development Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7603759,35.4986617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道162号矢代ライブカメラ / National highway 162 Yashiro live camera</name>
+        <description><![CDATA[福井県小浜市矢代「みち情報ネットふくい」/ Yashiro, Obama City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8076822,35.5259529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道162号阿納ライブカメラ / National highway 162 Ano live camera</name>
+        <description><![CDATA[福井県小浜市阿納尻「みち情報ネットふくい」/ Anojiri, Obama City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7715124,35.5328527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠敷川遠敷ライブカメラ / Onyu River Onyu Live Camera</name>
+        <description><![CDATA[福井県小浜市遠敷 「福井県河川砂防総合情報」/ Onyu, Obama City, Fukui Prefecture "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7835596,35.478685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野木川新保ライブカメラ / Nogigawa Shinbo Live Camera</name>
+        <description><![CDATA[〒917-0222 福井県小浜市新保「福井県河川砂防総合情報」/ Shinbo, Obama City, Fukui Prefecture 917-0222 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8350929,35.5007835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川検当橋ライブカメラ / Kitagawa Kento Bridge Live Camera</name>
+        <description><![CDATA[福井県小浜市高塚 「国土交通省河川情報センター」/ Takatsuka, Obama City, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7851841,35.492992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川高塚ライブカメラ / Kitagawa Takatsuka Live Camera</name>
+        <description><![CDATA[福井県小浜市高塚「国土交通省河川情報センター」/ Takatsuka, Obama City, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7872695,35.4905312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道24号小浜上中線和久里ライブカメラ / Fukui Prefectural Road No. 24 Obama Kaminaka Line Wakuri Live Camera</name>
+        <description><![CDATA[福井県小浜市和久里 「みち情報ネットふくい」/ Wakuri, Obama City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7664708,35.4920885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[国道162号小浜駅前ライブカメラ / Wakuri, Obama City, Fukui Prefecture "Michi Information Net Fukui"]]></name>
+        <description><![CDATA[福井県小浜市駅前町「みち情報ネットふくい」/ Ekimaecho, Obama City, Fukui Prefecture<br>"Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7453644,35.49208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舞鶴若狭自動車道加斗パーキングエリア下りライブカメラ / Maizuru Wakasa Expressway Kato Parking Area Downhill Live Camera</name>
+        <description><![CDATA[〒917-0045 福井県小浜市加斗 加斗PA (下り) 「NEXCO西日本」/ Kado PA (Down), Kado, Obama City, Fukui Prefecture 917-0045,   "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6731651,35.4800567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南川和久里ライブカメラ / Minamigawa Wakuri Live Camera</name>
+        <description><![CDATA[〒917-0024 福井県小浜市和久里 「福井県河川砂防総合情報」/ Wakuri, Obama City, Fukui Prefecture 917-0024 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7627611,35.4907501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江古川羽賀ライブカメラ / Ekogawa Haga Live Camera</name>
+        <description><![CDATA[〒917-0017 福井県小浜市羽賀 「福井県河川砂防総合情報」/ Haga, Obama City, Fukui Prefecture 917-0017 "Comprehensive Information on River Sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.763946,35.516715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号湯岡ライブカメラ / National highway No. 27 Yuoka live camera</name>
+        <description><![CDATA[福井県小浜市湯岡「みち情報ネットふくい」/ Yunooka, Obama City, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7579599,35.4884935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川高塚橋ライブカメラ / Kitagawa Takatsukabashi Live Camera</name>
+        <description><![CDATA[福井県小浜市高塚 「福井河川国道事務所」/ Takatsuka, Obama City, Fukui Prefecture "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7799891,35.4935049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海の駅御食国若狭おばま食文化館第2ライブカメラ / Umi no Eki Shokukoku Wakasa Obama Food Culture Museum 2nd Live Camera</name>
+        <description><![CDATA[〒917-0081 福井県小浜市川崎３丁目４ 御食国若狭おばま食文化館 「小浜市役所」/ Wakasa Obama Food Culture Center, 3-4 Kawasaki, Obama City, Fukui Prefecture 917-0081, "Obama City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7376862,35.501442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号湯岡橋ライブカメラ / National highway No. 27 Yuokahashi live camera</name>
+        <description><![CDATA[〒917-0076 福井県小浜市湯岡 「福井河川国道事務所」/ Yunooka, Obama City, Fukui Prefecture 917-0076 "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7572668,35.4886685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道33号佐田竹波敦賀線菅浜ライブカメラ / Fukui Prefectural Road 33 Sada Takenami Tsuruga Line Sugahama Live Camera</name>
+        <description><![CDATA[福井県三方郡美浜町菅浜「みち情報ネットふくい」/ Sugahama, Mihama-cho, Mikata-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9763261,35.6631498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>耳川河原市ライブカメラ / Mimigawa Kawaraichi Live Camera</name>
+        <description><![CDATA[〒919-1138 福井県三方郡美浜町河原市 「福井県河川砂防総合情報」/ Kawaraichi, Mihama-cho, Mikata-gun, Fukui Prefecture 919-1138 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9455799,35.6056485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水晶浜海水浴場ライブカメラ / Suishohama beach live camera</name>
+        <description><![CDATA[〒919-1202 福井県三方郡美浜町竹波８３ 「美浜町役場」/ 83 Takenami, Mihama-cho, Mikata-gun, Fukui 919-1202 "Mihama Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9783622,35.683966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道213号松屋河原市線新庄ライブカメラ / Fukui Prefectural Road No. 213 Matsuya Kawaraichi Line Shinjo Live Camera</name>
+        <description><![CDATA[〒919-1144 福井県三方郡美浜町新庄 「みち情報ネットふくい」/ Shinjo, Mihama-cho, Mikata-gun, Fukui Prefecture 919-1144 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9991326,35.5338473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道33号佐田竹波敦賀線竹波ライブカメラ / Fukui Prefectural Road 33 Sada Takenami Tsuruga Line Takenami Live Camera</name>
+        <description><![CDATA[〒919-1202 福井県三方郡美浜町竹波「みち情報ネットふくい」/ Takenami, Mihama-cho, Mikata-gun, Fukui Prefecture 919-1202<br>"Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.989479,35.6844377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道225号敦賀美浜線関峠付近ライブカメラ / Fukui Prefectural Road No. 225 Tsurugamihama Line Seki Pass area live camera</name>
+        <description><![CDATA[〒919-1205 福井県三方郡美浜町佐田「みち情報ネットふくい」/ Sata, Mihama-cho, Mikata-gun, Fukui Prefecture 919-1205, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9967512,35.6235345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道149号音海中津海線音海ライブカメラ / Fukui Prefectural Road 149 Otomi Nakatsukai Line Otomi Live Camera</name>
+        <description><![CDATA[福井県高浜町音海「みち情報ネットふくい」/ Otomi, Takahama Town, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5126039,35.5212863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道149号音海中津海線田ノ浦下りライブカメラ / Fukui Prefectural Road 149 Otomi Nakatsukai Line Tanoura Downhill Live Camera</name>
+        <description><![CDATA[〒919-2362 福井県大飯郡高浜町田ノ浦「みち情報ネットふくい」/ Tanoura, Takahama-cho, Oi-gun, Fukui Prefecture 919-2362 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5042532,35.5235126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関屋川小和田ライブカメラ / Sekiyagawa Owada Live Camera</name>
+        <description><![CDATA[〒919-2373 福井県大飯郡高浜町小和田 「福井県河川砂防総合情報」/ Owada, Takahama-cho, Oi-gun, Fukui Prefecture 919-2373 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.500447,35.4886692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道149号音海中津海線田ノ浦上りライブカメラ / Fukui Prefectural Road 149 Otomi Nakatsukai Line Tanoura Up Live Camera</name>
+        <description><![CDATA[福井県高浜町田ノ浦「みち情報ネットふくい」/ Tanoura, Takahama Town, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5121015,35.5213108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道21号舞鶴野原港高浜線鎌倉ライブカメラ / Fukui Prefectural Road No. 21 Maizuru Nohara Port Takahama Line Kamakura Live Camera</name>
+        <description><![CDATA[〒919-2352 福井県大飯郡高浜町鎌倉「みち情報ネットふくい」/ Kamakura, Takahama-cho, Oi-gun, Fukui 919-2352 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4538081,35.5215684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号関屋ライブカメラ / Route 27 Sekiya Live Camera</name>
+        <description><![CDATA[〒919-2386 福井県大飯郡高浜町関屋 「福井河川国道事務所」/ Sekiya, Takahama-cho, Oi-gun, Fukui 919-2386 "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4827755,35.4683338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号高浜町青葉トンネルライブカメラ / National highway No. 27 Takahama-cho Aoba tunnel live camera</name>
+        <description><![CDATA[福井県大飯郡高浜町蒜畠 青葉トンネル 「福井河川国道事務所」/ Aoba Tunnel, Hirubatake, Takahama Town, Oi District, Fukui Prefecture<br> "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.4696889,35.4868075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道241号赤礁崎公園線新大島ライブカメラ / Fukui Prefectural Road No. 241 Akarezaki Koen Line Shin-Oshima Live Camera</name>
+        <description><![CDATA[福井県おおい町犬見「みち情報ネットふくい」/ Inumi, Oi Town, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6200067,35.495857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舞鶴若狭自動車道大飯高浜インターチェンジ～小浜西インターチェンジライブカメラ / Maizuru Wakasa Expressway Oi Takahama Interchange-Obama Nishi Interchange Live Camera</name>
+        <description><![CDATA[〒919-2131 福井県大飯郡おおい町福谷 「NEXCO西日本」/ Fukutani, Oi-cho, Oi-gun, Fukui 919-2131 "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5393476,35.4504827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南川坂本高浜線交差点付近ライブカメラ / Minamikawa Sakamoto Takahama Line intersection live camera</name>
+        <description><![CDATA[福井県おおい町名田庄口坂本 「おおい町役場」/ Natashokuchisakamoto, Oi Town, Fukui Prefecture "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6108931,35.3993994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南川道の駅名田庄ライブカメラ / Minamikawa Road Station Natasho Live Camera</name>
+        <description><![CDATA[〒917-0375 福井県大飯郡おおい町名田庄納田終109‐4‐1 道の駅 名田庄 「おおい町役場」/ Natashonotaoi, Oi-cho, Oi-gun, Fukui Prefecture 917-0375 109-4-1 Roadside Station Natashonotaoi "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.584211,35.394654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南川名田庄総合事務所ライブカメラ / Minamikawa Nadasho General Office Live Camera </name>
+        <description><![CDATA[〒917-0382 福井県大飯郡おおい町名田庄久坂３−４１−３ おおい町役場 名田庄総合事務所「おおい町役場」/ Oi Town Hall Natasho General Office, 3-41-3 Natashohisasaka, Oi-cho, Oi-gun, Fukui 917-0382,  "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.682112,35.400017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐分利川きのこの森ライブカメラ / Saburi River Mushroom Forest Live Camera</name>
+        <description><![CDATA[〒919-2123 福井県大飯郡おおい町鹿野４２−２７ 「おおい町役場」/ 42-27 Shikano, Oi Town, Oi Town, Oi District, Fukui Prefecture 919-2123 "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5655413,35.4531334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐分利川大飯中学校ライブカメラ / Saburi River Oi Junior High School Live Camera</name>
+        <description><![CDATA[〒919-2114 福井県大飯郡おおい町野尻 大飯中学校 「おおい町役場」/ Ohi Junior High School, Oi Town, Oi District, Fukui Prefecture 919-2114 "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.608632,35.462222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はまかぜ交流センターしーまいるライブカメラ / Hamakaze Exchange Center Shimaru Live Camera</name>
+        <description><![CDATA[〒919-2101 福井県大飯郡おおい町大島９０−２７ おおい町 はまかぜ交流センターしーまいる 「おおい町役場」/ Oi-cho Hamakaze Exchange Center, 90-27 Oshima, Oi-cho, Oi-gun, Fukui 919-2101 "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6426371,35.5245644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐分利川本郷橋上流ライブカメラ / Saburi River Hongobashi upstream live camera </name>
+        <description><![CDATA[福井県大飯郡おおい町本郷 「おおい町役場」/ Hongo, Oi Town, Oi District, Fukui Prefecture "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6242771,35.4783456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐分利川本郷橋下流ライブカメラ / Saburi River Hongobashi downstream live camera </name>
+        <description><![CDATA[福井県大飯郡おおい町本郷 「おおい町役場」/ Hongo, Oi Town, Oi District, Fukui Prefecture "Oi Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6239016,35.4799881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐分利川本郷ライブカメラ / Saburi River Hongo Live Camera</name>
+        <description><![CDATA[〒919-2111 福井県大飯郡おおい町本郷「福井県河川砂防総合情報」/ Hongo, Oi-cho, Oi-gun, Fukui Prefecture 919-2111 "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6219705,35.4777078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道241号赤礁崎公園線犬見ライブカメラ / Fukui Prefectural Road No. 241 Akarezaki Koen Line Inumi Live Camera</name>
+        <description><![CDATA[〒919-2106 福井県大飯郡おおい町犬見 「みち情報ネットふくい」/ Inumi, Oi-cho, Oi-gun, Fukui Prefecture 919-2106, "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6243333,35.5074964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道162号名田庄納田終ライブカメラ / National highway 162 Natashonotaoi live camera</name>
+        <description><![CDATA[〒917-0375 福井県大飯郡おおい町名田庄納田終 「みち情報ネットふくい」/ Natashonotaoi, Oi-cho, Oi-gun, Fukui 917-0375 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5535013,35.3908223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道16号坂本高浜線福谷ライブカメラ / Fukui Prefectural Road No. 16 Sakamoto Takahama Line Fukutani Live Camera</name>
+        <description><![CDATA[〒919-2131 福井県大飯郡おおい町福谷 「みち情報ネットふくい」/ Fukutani, Oi-cho, Oi-gun, Fukui Prefecture 919-2131 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5393476,35.4504827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はす川井崎橋ライブカメラ / Hasugawa Izakibashi Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町井崎 「福井県河川砂防総合情報」/ Izaki, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8995704,35.5162094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川松野橋ライブカメラ / Kitagawa Matsunobashi Live Camera</name>
+        <description><![CDATA[〒919-1559 福井県三方上中郡若狭町下野木「国土交通省河川情報センター」/ Shimonogi, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1559 "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8018778,35.4855244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川三宅浄化センターライブカメラ / Kitagawa Miyake Purification Center Live Camera</name>
+        <description><![CDATA[〒919-1545 福井県三方上中郡若狭町日笠６７−１ 三宅浄化センター 「国土交通省河川情報センター」/ Miyake Purification Center, 67-1 Hikasa, Wakasa-cho, Mikatakaminaka-gun, Fukui 919-1545, "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8201342,35.4733039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川古川橋ライブカメラ / Kitagawa Furukawabashi Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町日笠「国土交通省河川情報センター」/ Hikasa, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8259153,35.4711583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川武生樋門ライブカメラ / Kitagawa Takefu Himon Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町兼田「国土交通省河川情報センター」/ Kaneda, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.836688,35.4699809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川天徳寺ライブカメラ / Kitagawa Tentokuji Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町神谷「国土交通省河川情報センター」/ Kamiya, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8404966,35.4686611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川孫城床固工ライブカメラ / Kitagawa Sonjo Floor Fixing Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町井ノ口「国土交通省河川情報センター」/ Inokuchi, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8594878,35.4662245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川熊川浄化センターライブカメラ / Kitagawa Kumakawa Purification Center Live Camera </name>
+        <description><![CDATA[福井県三方上中郡若狭町新道「国土交通省河川情報センター」/ Shindo, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8828591,35.4506853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川上中橋ライブカメラ / Kitagawa Kaminakabashi Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町上吉田「国土交通省河川情報センター」/ Kamiyoshida, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "River Information Center, Ministry of Land, Infrastructure, Transport and Tourism"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8666859,35.4644957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道22号上中田烏線下吉田ライブカメラ / Fukui Prefectural Road No. 22 Uenakada Karasu Line Shimoyoshida Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町下吉田 「みち情報ネットふくい」/ Shimoyoshida, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8660602,35.4708887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥羽川無悪ライブカメラ / Toba River Sakanashi Live Camera</name>
+        <description><![CDATA[〒919-1512 福井県三方上中郡若狭町無悪 「福井県河川砂防総合情報」/ Sakanashi, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1512,  "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8671435,35.5188123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三方湖鳥浜ライブカメラ / Mikata Lake Torihama Live Camera</name>
+        <description><![CDATA[〒919-1331 福井県三方上中郡若狭町鳥浜「福井県河川砂防総合情報」/  Torihama, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1331,  "Comprehensive information on river sabo in Fukui Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9004039,35.5561894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道22号上中田烏線上黒田ライブカメラ / Fukui Prefectural Road No. 22 Uenakada Karasu Line Uekuroda Live Camera</name>
+        <description><![CDATA[〒919-1503 福井県三方上中郡若狭町上黒田「みち情報ネットふくい」/ Kamikuroda, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1503 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8684021,35.5101431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道216号常神三方線海山ライブカメラ / Fukui Prefectural Road 216 Tsunekami Mikata Line Umiyama Live Camera</name>
+        <description><![CDATA[〒919-1461 福井県三方上中郡若狭町海山「みち情報ネットふくい」/ Umiyama, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1461 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.870706,35.5945346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道216号常神三方線小川ライブカメラ / Fukui Prefectural Road 216 Tsunegami Mikata Line Ogawa Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町小川「みち情報ネットふくい」/ Ogawa, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8429615,35.6079789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舞鶴若狭自動車道三方五湖パーキングエリアライブカメラ / Maizuru Wakasa Expressway Mikatagoko Parking Area Live Camera</name>
+        <description><![CDATA[福井県三方上中郡若狭町生倉 「NEXCO中日本サービス」/ Ikura, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture "NEXCO Central Japan Service"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9014735,35.5609272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道303号熊川ライブカメラ / Route 303 Kumagawa Live Camera</name>
+        <description><![CDATA[〒919-1532 福井県三方上中郡若狭町熊川「みち情報ネットふくい」/ Kumagawa, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1532 "Michi Information Net Fukui"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8992156,35.4394241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道27号三宅ライブカメラ / National highway No. 27 Miyake live camera</name>
+        <description><![CDATA[〒919-1536 福井県三方上中郡若狭町三宅 「福井河川国道事務所」/ Miyake, Wakasa-cho, Mikatakaminaka-gun, Fukui Prefecture 919-1536 "Fukui River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8635813,35.4430319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三方青年の家ライブカメラ / Mikata Youth House Live Camera</name>
+        <description><![CDATA[〒919-1331 福井県三方上中郡若狭町鳥浜１２２−２７−１ 福井県立三方青年の家 「インターネット自然研究所」/ 122-27-1 Torihama, Wakasa-cho, Mikatakaminaka-gun, Fukui 919-1331 Fukui Prefectural Mikata Youth House "Internet Nature Research Institute"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8945273,35.5600373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井駅西口周辺大名町交差点ライブカメラ / Daimyomachi intersection live camera around the west exit of Fukui station</name>
+        <description><![CDATA[〒910-0005 福井県福井市大手３丁目７−１ 福井県繊協ビル ３Ｆ　(一社)福井県繊協ビル同業会「	福井放送」/ Fukui Prefectural Senkyo Building 3F (1 company) Fukui Prefectural Senkyo Building Association, 3-7-1 Ote, Fukui City, Fukui Prefecture 910-0005, "Fukui Broadcasting"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-daimyomachi-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2180799,36.0633541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井新聞社本社屋上ライブカメラ / Fukui Shimbun Headquarters Rooftop Live Camera</name>
+        <description><![CDATA[〒910-8552 福井県福井市大和田２丁目８０１(株)福井新聞社 / Fukui Shimbun Co., Ltd., 2-801 Owada, Fukui City, Fukui Prefecture 910-8552 <br>https://livecamera.fujiyamasan.com/fukui-fukuishi-owada-fukui-shimbun-headquarters.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2504977,36.0984341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR福井駅東口付近ライブカメラ / Live camera near the east exit of JR Fukui Station</name>
+        <description><![CDATA[〒910-0858 福井県福井市手寄１丁目９「福井放送」/ 1-9 Teyose, Fukui City, Fukui Prefecture 910-0858 "Fukui Broadcasting"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-jr-fukui-station-east-exit.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2225394,36.0592019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井テレビ福井駅西口周辺ライブカメラ / Fukui TV Fukui Station West Exit Live Camera</name>
+        <description><![CDATA[〒910-0005 福井県福井市大手２丁目６「福井テレビ」/ 2-6 Ote, Fukui City, Fukui Prefecture 910-0005, "Fukui Television"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-fukui-tv.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2223421,36.0627366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井市役所福井駅ライブカメラ / Fukui City Hall Fukui Station Live Camera</name>
+        <description>〒910-8511 福井県福井市大手３丁目１０−１ 福井市役所 / Fukui City Hall, 3-10-1, Ote, Fukui City, Fukui Prefecture 910-8511</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2195398,36.0640618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道30号福井丸岡線田原ライブカメラ / Fukui Prefectural Road No. 30 Fukui Maruoka Line Tawara Live Camera</name>
+        <description><![CDATA[〒910-0018 福井県福井市田原「福井県土木部道路保全課」/ Tawara, Fukui City, Fukui Prefecture 910-0018 "Fukui Prefecture Civil Engineering Department Road Conservation Division"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-tawara-r30.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2184825,36.0735269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福井県道128号福井停車場米松線福井市志比口ライブカメラ / Fukui Prefectural Road No. 128 Fukui Stop Yonematsu Line Fukui City Shiiguchi Live Camera</name>
+        <description><![CDATA[〒910-0845 福井県福井市志比口３丁目３−３８「福井の景色」/ 3-3-38 Shibiguchi, Fukui City, Fukui Prefecture 910-0845 "Scenery of Fukui"<br>https://livecamera.fujiyamasan.com/fukui-fukuishi-shiiguchi-r128.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.2375245,36.0724159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

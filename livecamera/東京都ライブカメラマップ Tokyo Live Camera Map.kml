@@ -1,0 +1,3414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>東京都ライブカメラマップ / Tokyo Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>東京都のライブカメラ一覧<br>https://livecamera.fujiyamasan.com/tokyo.html<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/<br>]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>東京都内ライブカメラ</name>
+      <Placemark>
+        <name>【過去画像】東京スカイツリーライブカメラ / Tokyo Sky Tree Live Camera</name>
+        <description>〒111-0035 東京都台東区西浅草１丁目５−１４ 京成サンコーポ浅草 / Keisei Sankopo Asakusa, 1-5-14 Nishiasakusa, Taito-ku, Tokyo 111-0035</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.788773,35.71197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【過去映像】スカイツリーLIVE / Sky Tree LIVE</name>
+        <description>〒111-0032 東京都台東区浅草７丁目２−１６ ㈱中村千之助商店 / Nakamurasennosuke Co., Ltd., 7-2-16 Asakusa, Taito-ku, Tokyo 111-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8021372,35.715868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京スカイツリーライブカメラ / Tokyo Sky Tree Live Camera</name>
+        <description>〒105-6791 東京都港区芝浦１丁目２−１ １０Ｆコムテック株式会社 / COMTEC INC. 10F 1-2-1 Shibaura, Minato-ku, Tokyo 105-6791</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.756902,35.649922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅草のライブカメラ 浅草中屋  屋上よりの映像 / ASAKUSA Live Camera from the rooftop of ASAKUSA NAKAYA</name>
+        <description>〒111-0032 東京都台東区浅草２丁目２−１２ 祭用品専門店 浅草中屋 本店 / Asakusanakaya, 2-2-12 Asakusa, Taito-ku, Tokyo 111-0032</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.797191,35.713452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[東京都台東区大関横丁交差点(三ノ輪駅前)ライブカメラ / Tokyo Taitou City Ozekiyokocho Intersection "Minowa Station" Live Camera]]></name>
+        <description>〒110-0011 東京都台東区三ノ輪１丁目２８ 明治通り大関横丁 / Meijidori Ozekiyokocho, 1-28 Minowa, Taitou-ku, Tokyo 110-0011</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.79182,35.7300028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワーライブカメラ / TOKYOTOWER LIVE CAMERA</name>
+        <description><![CDATA[〒105-0011 東京都港区芝公園４丁目２−８　東京タワー「東京タワー公式チャンネル」/ Tokyo Tower, 4-2-8 Shibakouen, Minato-ku, Tokyo 105-0011, "Tokyo Tower Official Channel"<br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7454329,35.6585805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワー・六本木一丁目方面 ライブカメラ Tokyo Tower Live Streaming</name>
+        <description>東京都港区六本木１丁目 / 1-chome, Roppongi, Minato-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7402946,35.6647384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>港区三田ライブカメラ / Minato-ku Mita Live Camera</name>
+        <description>〒108-0073 東京都港区三田３丁目２−１ 弓和三田ビジデンス 8F　司法書士矢本好事務所 / Judicial scrivener Yamoto Konomu Office, Yumiwamita Bisidence 8F, 3-2-1 Mita, Minato-ku, Tokyo 108-0073</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.742145,35.647719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[東京ミッドタウン 桜並木 ライブカメラ - Live streaming of cherry blossom trees "SAKURA" in Tokyo!]]></name>
+        <description><![CDATA[〒107-0052 東京都港区赤坂９丁目７−１東京ミッドタウン / Tokyo Midtown, 9-7-1 Akasaka, Minato-ku, Tokyo 107-0052<br>https://livecamera.fujiyamasan.com/tokyo-midtown.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7308747,35.6659803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京汐留鉄道ライブカメラ / Tokyo Shiodome Live Camera</name>
+        <description>Tokyo Live Camera</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7587622,35.6597272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷公園通りライブカメラ / SHIBUYA KOEN-DORI Live Camera</name>
+        <description><![CDATA[〒150-0041 東京都渋谷区神南１丁目９−４　渋谷公園通商店街振興組合 / Shibuya Koen-dori shopping district promotion association, 1-9-4 Jinnan, Shibuya-ku, Tokyo 150-0041<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-jinnan-koendori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.701428,35.664007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東急ハンズ渋谷店前ライブカメラ / Tokyu Hands Shibuya Store Live Camera</name>
+        <description>東急ハンズ渋谷店前 井の頭通り・神南小学校下 東京都渋谷区宇田川町 / ifo TOKYU HANDS SHIBUYA, Inogashira Street, UDAGAWA-Cho, Shibuya-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6978074,35.6621322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷駅前スクランブル交差点カメ ラ / Shibuya station scramble crossing Camera</name>
+        <description><![CDATA[〒150-0041 東京都渋谷区神南１丁目２３−１０MAGNET by SHIBUYA 109　「SHIBUYA COMMUNITY NEWS」/ MAGNET by SHIBUYA 109, 1-23-10 Jinnan, Shibuya-ku, Tokyo 150-0041,  "SHIBUYA COMMUNITY NEWS"<br>https://livecamera.fujiyamasan.com/shibuya-scramble-crossing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7009678,35.6598155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷スクランブル交差点ライブカメラ / Shibuya Scramble Crossing Live Camera</name>
+        <description><![CDATA[〒150-0043 東京都渋谷区道玄坂２丁目２−１ 「ANNnewsCH」 / 2-2-1 Dogenzaka, Shibuya-ku, Tokyo 150-0043, "ANNnewsCH"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7002425,35.6593881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷109前交差点メガドンキ側ライブ映像 / Shibuya 109 front intersection Megadonki side live video</name>
+        <description>〒150-0043 東京都渋谷区道玄坂２丁目３０−４ 玉 久 ビル 3F　スタジオエイメイ渋谷店 / STUDIO EIMEI SHIBUYA, 3F Tamahisa Building, 2-30-4 Dogenzaka, Shibuya-ku, Tokyo 150-0043</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.698908,35.659623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷道玄坂ライブカメラ / Shibuya Dogenzaka Live Camera</name>
+        <description><![CDATA[〒150-0043 東京都渋谷区道玄坂 / Dogenzaka, Shibuya-ku, Tokyo 150-0043, "SHIBUYA LIVE CAMERA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6981574,35.6581518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都高速4号新宿線初台出入口ライブカメラ / Shuto Expressway No. 4 Shinjuku Line Hatsudai Entrance Live Camera</name>
+        <description>〒151-0061 東京都渋谷区初台 / Hatsudai, Shibuya-ku, Tokyo 151-0061</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6853944,35.6782619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宿大通りカメラ・JR新宿駅東口方面カメラ / Shinjuku Boulevard Camera andJR Shinjuku Station East Exit Camera</name>
+        <description>新宿大通商店街振興組合 / SHINJUKU OHDOORI SYOUTENGAI SHINKOU KUMIAI</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.707294,35.690357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宿御苑ライブカメラ / Shinjuku Gyoen Live Camera</name>
+        <description>〒160-0014 東京都新宿区内藤町１１ 新宿御苑 / Shinjuku Gyoen Live Camera, 11 Naitou-cho, Shinjuku-ku, Tokyo 160-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7100517,35.6851763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GV-cloud 新宿区四谷交差点ライブカメラ / Live Camera Yotsuya intersection Tokyo</name>
+        <description>〒160-0004 東京都新宿区四谷1-2-8　高千穂交易（株）/ Takachiho Koheki Co. Ltd., 1-2-8 Yotsuya, Shinjuku-ku, Tokyo 160-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.728967,35.685647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>よつやの窓ライブカメラ /Shinjuku City Yotsuya Live Camera</name>
+        <description>東京都新宿区四谷 / Yotsuya, Shinjuku-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7287997,35.6853727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋葉原ライブカメラ / Akihabara Live Camera</name>
+        <description><![CDATA[〒101-0021 東京都千代田区外神田１丁目１２−３ 愛三ビル 愛三電機 / Aisan Electric Co.,Ltd., Aisan Building, 1-12-3 Sotokanda, Chiyoda-ku, Tokyo 101-0021<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-akihabara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.771671,35.699486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋葉原昌平橋通りライブカメラ / Akihabara Shouhei Bridge Street Live Camera</name>
+        <description>東京都千代田区外神田 / Sotokanda, Chiyoda-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7692509,35.7008313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京・秋葉原ライブカメラ 「オノデンch のライブ ストリーム」/ Tokyo Akihabara Live Camera</name>
+        <description><![CDATA[〒101-0021 東京都千代田区外神田１丁目２−７ 株式会社 オノデン YouTube / 1-2-7 Sotokanda, Chiyoda-ku, Tokyo 101-0021<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-akihabara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7709634,35.6983166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代田区役所屋上高所カメラ / Chiyoda ward office rooftop high altitude camera</name>
+        <description><![CDATA[〒102-0074 東京都千代田区九段南１丁目２−１ 千代田区役所 / Chiyoda Ward Office, 1-2-1 Kudanminami, Chiyoda-ku, Tokyo 102-0074<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-city-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.753435,35.6940187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代田区河川情報システムライブカメラ / Chiyoda City River Information System Live Camera</name>
+        <description>〒102-0074 東京都千代田区九段南１丁目２−１ 千代田区役所 「千代田区河川情報システム」/ Chiyoda City Office, 1-2-1 Kudanminami, Chiyoda-ku, Tokyo 102-0074</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7536451,35.694083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京千鳥ヶ淵ライブカメラ / Tokyo Chidorigafuchi Live Camera</name>
+        <description><![CDATA[〒102-0082 東京都千代田区麹町１丁目２ 千鳥ヶ淵公園 / Chidorigafuchi Park, 1-2 Koji-machi, Chiyoda-ku, Tokyo 102-0082<br>https://livecamera.fujiyamasan.com/chidorigafuchi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7449906,35.6861597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京駅丸の内口エリアライブカメラ / Tokyo Station Marunouchi Exit Area Live Camera</name>
+        <description><![CDATA[〒100-6390 東京都千代田区丸の内２丁目４−１　一般社団法人　大手町・丸の内・有楽町地区　まちづくり協議会  / Marunouchi Building, 2-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-6390,  General Incorporated Association Otemachi / Marunouchi / Yurakucho District Town Development Council<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-marunouchi-tokyoeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7638097,35.6811046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東神田ライブカメラ - Higashikanda Livecam</name>
+        <description><![CDATA[〒101-0031 東京都千代田区東神田２丁目６−２ タカラビル 7F 日本ボレイト株式会社 / Nihon Borate Inc., 7F Takara Building, 2-6-2 Higashikanda, Chiyoda-ku, Tokyo 101-0031<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-higashikanda.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7802068,35.695623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京スカイツリーライブカメラ / TOKYO Live Camera from Otemachi</name>
+        <description><![CDATA[〒100-0004 東京都千代田区大手町１丁目７−２ 東京サンケイビル 12F 産経新聞社 / Sankei Shimbun, 12F Tokyo Sankei Building, 1-7-2 Otemachi, Chiyoda-ku, Tokyo 100-0004<br>https://livecamera.fujiyamasan.com/tokyo-otemachi-sankei.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7654072,35.687024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋上からの展望映像 / Outlook video from the rooftop</name>
+        <description><![CDATA[〒100-6090 東京都千代田区霞が関３−２−５<br>霞ヶ関ビルディング / Kasumigaseki Building,  3-2-5 Kasumigaseki, Chiyoda-ku, Tokyo 100-6090]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.747081,35.671191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中野区防災気象情報 / Nakano City Disaster Prevention Weather Information</name>
+        <description>〒164-8501 東京都中野区中野４丁目８−１中野区役所 / Nakano City Hall, 4-8-1 Nakano, Nakano-ku, Tokyo 164-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.66383,35.707285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中野大久保通りお天気ライブカメラ / Nakano Okubo Street Weather Live Camera</name>
+        <description><![CDATA[東京都中野区中央 Nakano VE Channel/ Chuo, Nakano-ku, Tokyo, "Nakano VE Channel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6669184,35.702972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西新井大師参道ライブカメラ / Nishiaraidaiishisando Live Camera</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.7798966,35.7789377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光街道北千住方面・竹ノ塚方面ライブカメラ / Nikko Kaido Kitasenju and Takenotsuka live cameras</name>
+        <description>〒123-0851 東京都足立区梅田２丁目４−１９ 株式会社コムネットシステム / Comnet System Co., Ltd., 2-4-19 Umeda, Adachi-ku, Tokyo 123-0851</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8035016,35.7655657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都足立区お天気カメラ / Tokyo Adachi City weather camera</name>
+        <description><![CDATA[東京都足立区 「Yuji Hatsumi」/ Adachi-ku, Tokyo "Yuji Hatsumi"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-weather.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8044129,35.775017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】原宿ライブカメラ / Harajuku Live Camera</name>
+        <description>〒100-0005 東京都渋谷区神宮前2-32-4 神宮前シティタワー1002 株式会社 エンゼルフォース「harajuku24」 / Angel Force Inc., 1002 Jingumae City Tower, 2-32-4 Jingumae, Shibuya-ku, Tokyo 100-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.708629,35.672271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[六義園ライブカメラ「しだれ桜・心泉亭」 / Rikugien Live Camera, "Shidarezakura and Shinsentei"]]></name>
+        <description><![CDATA[〒113-0021 東京都文京区本駒込6 六義園 / Rikugien, 6 Honkomagome, Bunkyo-ku, Tokyo 113-0021<br>https://livecamera.fujiyamasan.com/bunkyo-shidarezakura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.746566,35.733136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あじさいカメラ（白山神社境内より中継） / Hydrangea camera (relay from the grounds of Hakusan Shrine)</name>
+        <description>〒112-0001 東京都文京区白山５丁目３１−２６ 白山神社 / Hakusan Jinja Shrine, 5-31-26 Hakusan, Bunkyo-ku, Tokyo 112-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7506714,35.7219658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つつじカメラ（根津神社つつじ苑） / Azalea Camera (Nezu Shrine Azalea Garden)</name>
+        <description>〒113-0031 東京都文京区根津１丁目２８−９ 根津神社 / Nedu Jinja Shrine, 1-28-9 Nedu, Bunkyo-ku, Tokyo 113-0031</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7607541,35.7200104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北区観光ライブカメラ / Kita City Live Camera</name>
+        <description>〒114-8508 東京都北区王子本町１丁目１５−２２ 北区役所 / Kita City Office, 1-15-22 Ohjihon-cho, Kita-ku, Tokyo 114-8508</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7339227,35.7529398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川水位・雨量・ライブ映像 / Arakawa Rvier water level · rainfall · live image</name>
+        <description>〒115-0042 東京都北区志茂５丁目 荒川下流河川事務所 / Arakawa-karyu River Office, 5-chome Shimo, Kita-ku, Tokyo 115-0042</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7308365,35.7853383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AI鉄道画像認識ライブカメラ(東京 赤羽駅周辺) Tokyo Japan Train Live Camera HD</name>
+        <description><![CDATA[東京都北区赤羽 「Railway Live Camera」 / Akabane, Kita-ku, Tokyo, "Railway Live Camera"<br>https://livecamera.fujiyamasan.com/kitaku-akabane.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7210653,35.7777451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ＬＩＶＥカメラほうとくねっと（板橋仲宿交差点）/ Itabashi Nakashuku Intersection, "LIVE Camera Houtoku Net"]]></name>
+        <description>〒173-0013 東京都板橋区氷川町７−１ 豊徳グループ 3F　(株)豊徳 / Houtoku Co., Ltd., 3F Houtoku Group, 7-1 Hikawa-cho, Itabashi-ku, Tokyo 173-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7082893,35.7528666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>板橋区気象観測システム 河川映像情報 / Itabashi-ku Meteorological Observation System River image information</name>
+        <description>〒173-0004 東京都板橋区板橋２丁目６６番１号　板橋区役所 / Itabashi City Office, 2-66-1 Itabashi, Itabashi-ku, Tokyo 173-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7093054,35.7512432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アシカ水槽・ペンギンビーチ・クマノミ水槽</name>
+        <description>〒170-8630 東京都豊島区 東池袋3−1−3 サンシャイン水族館</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7193231,35.7291404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】JR中央線 靖国通り方面 / JR Chuo Line toward Yasukuni Street</name>
+        <description>〒101-0041 東京都千代田区神田須田町2丁目2−7 TOHAN須田町ビル 6F ゲイル（株）/ GALE Co.,ltd, TOHAN Sudamachi Building 6F, 2-2-7 Kandasuda-cho, Chiyoda-ku, Toyo 101-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7718753,35.6955063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銀座ライブカメラ / Ginza Live Camera</name>
+        <description><![CDATA[〒104-0061 東京都中央区銀座 ANN newsch / Ginza, Chuo-ku, Tokyo 104-0061, "ANNnewsch"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7664859,35.6712228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>現在の農園の風景 / Current farm landscape</name>
+        <description><![CDATA[農業体験農園「イガさんの畑」/ Farming experience farm "Iga's field"  <br>http://www.iga3farm.jp/wp/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6159593,35.7648633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京環八ライブ映像 / Tokyo Kanpachi Live Video</name>
+        <description>〒167-0021 東京都杉並区井草３丁目３２−２ 第 2 関口 マンション　サンシステムサプライ（株）/ SUN SYSTEM SUPPLY Co.,Ltd., Second Sekiguchi Manshion, 3-3 Igusa, Suginami-ku, Tokyo 167-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.614229,35.72933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山カメラ 都庁舎（３１階）からの映像 / Mt. Fuji Camera from Tokyo Metropolitan Government Building (31st floor)</name>
+        <description>〒163-8001 東京都新宿区西新宿２丁目８−１ 東京都庁 / Tokyo Metropolitan Government Building, 2-8-1 Nishishinjuku, Shinjuku-ku, Tokyo 163-8001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6921007,35.6896342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目黒区防災気象情報 / Meguro-ku disaster prevention weather information</name>
+        <description>〒153-0051 東京都目黒区上目黒２丁目１９−１５ 目黒区役所 目黒区都市整備部土木工事課工務係 / Meguro-ku Urban Development Department Civil Engineering Division Engineering Division, Meguro City Office, 2-19-15 Kamimeguro, Meguro-ku, Tokyo 153-0051</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6981887,35.6413679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港ターミナル周辺ライブカメラ / Tokyo Port Terminal Live Camera</name>
+        <description>〒135-0064 東京都江東区青海２丁目４−２４ 東京港埠頭（株）/ Tokyo Port Terminal Corporation, 2-4-24 Oume, Kouto-ku, Tokyo 135-0064</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7783806,35.6176571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京お台場 ライブカメラ / Tokyo Odaiba Live Camera</name>
+        <description>FineScape</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7805445,35.6205834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都高速湾岸線葛西有明付近ライブカメラ / Live camera near Kasai Ariake on the Shuto Expressway Wangan Line</name>
+        <description>東京都江戸川区臨海町 首都高速湾岸線　「モバイルテレビジョン道路ライブ2（YouTube)」 / Tokyo Metropolitan Expressway Wangan Line, Rinkai-cho, Edogawa-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8506506,35.6469069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛西海浜公園ライブカメラ / Kasai Kaihin Park Live Camera</name>
+        <description>〒134-0086 東京都江戸川区臨海町６丁目２−地先 葛西海浜公園 「公益財団法人 東京都公園協会」/ Kasai Kaihin Park, 6-2 Rinkai-cho, Edogawa-ku, Tokyo 134-0086</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8551959,35.6383242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>品川区エリアライブカメラ / Shinagawa Live Camera</name>
+        <description><![CDATA[国道15号、品川全景、高輪方面、Canon / National Road 15, Shinagawa, Takawa Area, "Canon"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7303364,35.6091973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池上本門寺Now! / Ikegamihonmon-ji Temple Now</name>
+        <description><![CDATA[〒146-8576 東京都大田区池上１−１−１ 池上本門寺 / Ikegamihonmon-ji Temple 1-1-1 Ikegami, Ohta-ku, Tokyo 146-8576<br>https://livecamera.fujiyamasan.com/ikegamihonmonji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.705238,35.579081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港野鳥公園ライブカメラ / Tokyo Port Wild Bird Park Live Camera</name>
+        <description>〒143-0001 東京都大田区東海３丁目３−１ / 3-3-1 Tokai, Ota-ku, Tokyo 143-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7603075,35.5838724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>空観察用定点ライブカメラ（東京都大田区/西方向）Fixed point sky observation live camera (Ota-ku,Tokyo Japan./West direction)</name>
+        <description><![CDATA[東京都大田区　「xylitoljpn」/ Ota-ku, Tokyo "xylitol jpn"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7160626,35.561407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽田空港駐車場 / Haneda Airport Parking</name>
+        <description>〒144-0041 東京都大田区羽田空港 / Haneda Airport, Ota-ku, Tokyo 144-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.784739,35.549145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山・モノレールライブ映像 / Mt. Fuji and Monorail Live Video</name>
+        <description>東京都大田区羽田空港２丁目６ 東京モノレール羽田空港国際線ビル駅 / Tokyo Monorail Haneda Airport International Terminal Station, 2-6 Hanedakuko, Ota-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.768367,35.544344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>世田谷区 雨量・水位情報 河川ライブカメラ / Setagaya-ku rainfall, water level information river live camera</name>
+        <description>〒154-8504 東京都世田谷区世田谷4丁目21番27号 世田谷区役所 / Setagaya Ward Office, 4-21-27 Setagaya, Setagaya-ku, Tokyo 154-8504</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6529412,35.6459261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都高ライブカメラ用賀駒沢 / Tokyo Metropolitan Expressway live camera Yoga Komazawa</name>
+        <description>東京都世田谷区上用賀 / Kamiyouga, Setagaya-ku, Tokyo</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6309844,35.6263817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二子玉川ライズ ライブカメラ / Futako Tamagawa Rise Live Camera</name>
+        <description><![CDATA[〒158-0094 東京都世田谷区玉川２丁目２１−１ 二子玉川ライズ・ ショッピングセンター 二子玉川ライズ iTSCOM STUDIO & HALL / iTSCOM STUDIO & HALL, Futako Tamagawa Rise, 2-21-1 Tamagawa, Setagaya-ku, Tokyo 158-0094]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6288904,35.6119368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亜細亜大学キャンパス24時間ライブカメラ / Asia University Campus 24 hour live camera</name>
+        <description>〒180-8629 東京都武蔵野市境５−２４−１０ 亜細亜大学 / Asia University, 5-24-10 Sakai, Musashino-shi, Tokyo 180-8629</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5355842,35.7056871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京経済大学 国分寺キャンパスライブカメラ （動画バージョン）/ Tokyo Keizai University Kokubunji Campus Live Camera</name>
+        <description>〒185-0021 東京都国分寺市南町１丁目７−３４　東京経済大学 国分寺キャンパス / Tokyo Keizai University Kokubunji Campus, 1-7-34 Minami-machi, Kokubunji-shi, Tokyo 185-0021</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4901671,35.6997786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田無タワーLIVE / Tanashi Tower LIVE</name>
+        <description>〒188-0014 東京都西東京市芝久保町5-8-2 スカイタワー西東京 / Sky Tower Nishitokyo, 5-8-2 Shibakubo-cho, Nishitokyo-shi, Tokyo 188-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.525166,35.735087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライブカメラ大垂水区間（八王子市南浅川町～相模原市緑区千木良）</name>
+        <description>〒192-0045 東京都八王子市大和田町4-3-13　国土交通省 関東地方整備局 相武国道事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3554441,35.6636881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>創価大学現在のキャンパス（WEBカメラ）/ Soka University Campus Web Camera</name>
+        <description><![CDATA[〒192-8577 東京都八王子市丹木町１丁目１−２３６　創価大学 / Soka University, 1-1-236 Tangi-machi, Hachioji-shi, Tokyo 192-8577<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-soka-university.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3240982,35.69166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>初沢川ライブカメラ（浅川中学校西側）</name>
+        <description>〒192-0051 東京都八王子市 元本郷町３丁目２４-１八王子市役所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.316075,35.6665696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八王子市めじろ台１丁目交差点ライブカメラ / Hachioji City Mejirodai 1-chome Intersection Live Camera</name>
+        <description><![CDATA[〒193-0833 東京都八王子市めじろ台１丁目７−１８ 八王子リフォーム 前田住建 / Hachioji Reform Maeda Juken, 1-7-18 Mejirodai, Hachioji-shi, Tokyo 193-0833<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-mejirodai-1chome-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3099214,35.6448641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高尾山LiveCam / Mt. Takao Live Cam</name>
+        <description>〒193-0844 東京都八王子市高尾町 「高尾山春夏秋冬」 / Takao-cho, Hachioji-shi, Tokyo 193-0844</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2436413,35.6251927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>店より見える只今の高尾山麓 / Mt. Takao from Takahashiya</name>
+        <description><![CDATA[〒193-0844 東京都八王子市高尾町2209 高尾山 髙橋家 / Takaosan Takahashiya, 2209 Takao-cho, Hachioji-shi, Tokyo 193-0844<br>https://livecamera.fujiyamasan.com/hachioji-takaosan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2679043,35.6314327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】ただいまの東京サマーランド / Tokyo Summer Land</name>
+        <description>〒197-0832 東京都あきる野市上代継６００　東京サマーランド / Tokyo Summer Land, 600 Kamiyotsugi, Akiruno-shi, Tokyo 197-0832</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2740948,35.7177763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青梅ゴルフ倶楽部ライブカメラ / Ome Golf Club Live Camera</name>
+        <description>〒198-0004 東京都青梅市根ヶ布１丁目 根ヶ布１丁目４９０ 青梅ゴルフ倶楽部 / Ome Golf Club, 1-1-490 Nekabu, Ome-shi, Tokyo 198-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2728165,35.8024308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>檜原村天狗の滝ライブカメラ / Hinohara Village Tengu Waterfall Live Camera</name>
+        <description>〒190-0211 東京都西多摩郡檜原村三都郷 天狗滝 / Tengu Waterfall, Mitsugo, Hinohara-mura, Nishitama-gun, Tokyo 190-0211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1487927,35.7490902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>払沢の滝ライブカメラ / Haraizawa Waterfall Live Camera</name>
+        <description><![CDATA[〒190-0214 東京都西多摩郡檜原村本宿 払沢の滝「檜原村役場」 / Haraizawa Waterfall, Motoshuku, Hinohara-mura, Nishitama-gun, Tokyo 190-0214, "Hinohara Village Office"<br>https://livecamera.fujiyamasan.com/tokyo-hinohara-motoshuku-haraizawa-waterfall.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1411432,35.7301581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山のふるさと村ビジターセンターからの映像 / YAMANOFURUSATOMURA Visitor Center Live Camera</name>
+        <description>〒198-0225 東京都西多摩郡奥多摩町川野１７４０　東京都立奥多摩湖畔公園 山のふるさと村 / Yamanofurusatomura, 1740 Kawano, Okutama-cho, Nishitama-gun, Tokyo 198-0225</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0229487,35.7666765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊豆大島マシオライブカメラ / Izuohsima Mashio Live Camera</name>
+        <description><![CDATA[〒100-0101 東京都大島町元町大洞４９２−１ 伊豆大島ホテル&リゾート マシオ / Izuohshima Hotel & Resort Mashio, 492-1 Ohbora, Motomachi, Ohshima-machi, Tokyo 100-0101]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3691336,34.7500424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【現在停止中】24時間ライブカメラ：伊豆大島波浮港・水中</name>
+        <description>JEDI-SYSTEM</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4376885,34.6881625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新島ライブカメラ / Niijima Live Camera</name>
+        <description>〒100-0402 東京都新島村本村1丁目1−1 新島村役場 / Niijima Village Office, 1-1-1 Honson, Niijima-mura, Tokyo 100-0402</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2565692,34.3771887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御蔵島桟橋カメラ / Mikurajima Island Bridge Live Camera</name>
+        <description>〒100-1301 東京都御蔵島村 御蔵島港 / Mikurajima Port, Mikurajma-mura, Tokyo 100-1301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5897317,33.8955507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八丈島灯台からの映像 / Picture from Hachijojima lighthouse</name>
+        <description><![CDATA[〒100-1622 東京都八丈町末吉 八丈島灯台 「沿岸域情報提供システム 海上保安庁」/ Hachijojima Lighthouse, Sueyoshi, Hachijo-machi, Tokyo 100-1622<br>https://livecamera.fujiyamasan.com/tokyo-hachijo-sueyoshi-hachijojima-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8537932,33.0790774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八丈ビューホテル設置のライブカメラ映像 / Hachijo View Hotel Live Camera</name>
+        <description><![CDATA[〒100-1401 東京都八丈町大賀郷４４２２−１　八丈ビューホテル / Hachijo View Hotel, 4422-1 Ohkago, Hachijo-machi, Tokyo 100-1401 <br>https://livecamera.fujiyamasan.com/tokyo-hachijo-okago-hachijo-view-hotel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7684151,33.1154046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父島・母島港湾ライブカメラ / Chichijima and Hahajima Port Live Cameras</name>
+        <description>〒100-2101 東京都小笠原村 父島字西町 小笠原村役場 / Ogasawara Village Office, Chichijimanishi-machi, Ogasawara-mura, Tokyo 100-2101</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.1919009,27.0943852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央線豊田駅～日野駅LIVE</name>
+        <description>東京都日野市 USREAM</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3901629,35.6649979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日野気象台ライブカメラ / Hino Meteorological Observatory Live Camera</name>
+        <description><![CDATA[〒191-0041 東京都日野市南平２丁目 石井宏ナチュラル研究所 / Hiroshi Ishii Natural Research Institute, 2-chome Minamidaira, Hino-shi, Tokyo 191-0041<br>https://livecamera.fujiyamasan.com/tokyo-hino-minamidaira-meteorological-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.398924,35.6544645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>歌舞伎町ライブカメラ / KABUKICHO TOKYO live stream</name>
+        <description>Studio TOCACOCAN live stream (Sub Channel)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7027938,35.6947983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥多摩町日原ライブ映像　（日原集落対岸）</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.0439945,35.841686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【停止中】東京スカイツリーライブカメラ / Tokyo Sky Tree Live Camera</name>
+        <description><![CDATA[〒131-0045 東京都墨田区押上１丁目１−２　東武タワースカイツリー株式会社 / TOBU RAILWAY CO.,LTD. & TOBU TOWER SKYTREE CO.,LTD., 1-1-2 Oshiage, Sumida-ku, Tokyo 131-0045]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8107192,35.7100367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋葉原ライブカメラ Akihabara Tokyo Japan Live Camera</name>
+        <description>〒101-0021 東京都千代田区外神田３丁目１６−１３ AKIHABARA KADAN 8F TOKYOITE! the music space / TOKYOITE! The music space, AKIHABARA KADAN 8F, 3-16-13 Sotokanda, Chiyoda-ku, Tokyo 101-0021, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7714962,35.7024825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京湾東京ゲートブリッジライブカメラ / Tokyo Bay Tokyo Gate Bridge Live Camera</name>
+        <description><![CDATA[〒136-0083 東京都江東区若洲３丁目１ 東京ゲートブリッジ 「湾岸Go」/ Tokyo Gate Bridge,  3-1 Wakasu, Koto-ku, Tokyo 136-0083, "Wangan Go"<br>https://livecamera.fujiyamasan.com/tokyo-gate-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8266203,35.6104491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【期間限定】四谷見附堤の桜ライブカメラ / [Limited time offer] Sakura live camera at Yotsuya Mitsuke Embankment</name>
+        <description><![CDATA[〒160-0004 東京都新宿区四谷１丁目 土木学会 /  Civil Engineering Society, 1-chome, Yotsuya, Shinjuku-ku, Tokyo 160-0004<br>https://livecamera.fujiyamasan.com/shinjuku-doboku.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7305158,35.6873882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田駅北口ライブカメラ / Kanda Station North Exit Live Camera</name>
+        <description><![CDATA[〒101-0045 東京都千代田区神田鍛冶町３丁目 / 3-chome, Kanda Kajicho, Chiyoda-ku, Tokyo 101-0045<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-kanda-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7706392,35.6938359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田ライブカメラ / Kanda Live Camera</name>
+        <description><![CDATA[〒101-0041 東京都千代田区神田須田町１丁目８−６ FMちよだ / FM Chiyoda, 1-8-6 Kanda Sudacho, Chiyoda-ku, Tokyo 101-0041<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-kandasuda.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.768322,35.6952419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本橋川三崎橋ライブカメラ / Nihonbashi River Misaki Bridge Live Camera</name>
+        <description><![CDATA[〒101-0061 東京都千代田区神田三崎町３丁目８−５ 新三崎橋水位局 「千代田区役所」/ New Misakibashi Water Level Bureau, 3-8-5 Misakicho, Kanda, Chiyoda-ku, Tokyo 101-0061  "Chiyoda-ku Office"<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-misaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7513773,35.7019753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川後楽橋ライブカメラ / Kanda River Korakubashi Live Camera</name>
+        <description><![CDATA[〒101-0061 東京都千代田区神田三崎町３丁目９−１ 「千代田区役所」/ 3-9-1, Misakicho, Kanda, Chiyoda-ku, Tokyo 101-0061 "Chiyoda-ku government office"<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-misaki-kourakubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7516736,35.7024427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸ノ内鍛冶橋オートバイ専用駐車場ライブカメラ / Marunouchi Kaji Bridge Motorcycle Parking Live Camera</name>
+        <description><![CDATA[〒100-0005 東京都千代田区丸の内３丁目８−２ 丸ノ内鍛冶橋オートバイ専用駐車場 「東京都道路整備保全公社」/ Marunouchi Kaji Bridge Motorcycle Parking Lot, 3-8-2 Marunouchi, Chiyoda-ku, Tokyo 100-0005<br>"Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-chiyoda-marunouchi-motorcycle.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7665593,35.6769526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>晴海・選手村ライブカメラ / Harumi・Olympic Village Live Camera</name>
+        <description><![CDATA[〒104-0053 東京都中央区晴海「HAPPY CLIPS / ハッピークリップ」/ Harumi, Chuo-ku, Tokyo 104-0053, "HAPPY CLIPS "]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7805445,35.6527438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内田洋行東京新川本社ライブカメラ / Uchida Yoko Tokyo Shinkawa Headquarters Live Camera</name>
+        <description><![CDATA[東京都中央区新川2－4－7 内田洋行本社 / Uchida Yoko Co., Ltd.,  shinkawa, chuo-ku, Tokyo 104-8282<br>https://livecamera.fujiyamasan.com/tokyo-chuo-sinkawa-uchidayoko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.780108,35.676233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>築地本願寺ライブカメラ / Tsukiji Honganji Temple Live Camera</name>
+        <description><![CDATA[〒104-0045 東京都中央区築地３丁目１５−１ 築地本願寺 / Tsukiji Honganji Temple, 3-15-1 Tsukiji, Chuo-ku, Tokyo 104-0045<br>https://livecamera.fujiyamasan.com/tokyo-chuo-tsukiji-honganji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7722836,35.6664862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新橋駅西口通りライブカメラ / Shimbashi Station West Exit Street Live Camera</name>
+        <description><![CDATA[〒105-0004 東京都港区新橋４丁目１８−２ ステージシステム /  Stage system, 4-18-2 Shinbashi, Minato-ku, Tokyo 105-0004<br>https://livecamera.fujiyamasan.com/tokyo-minato-shinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.75736,35.664628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京汐留鉄道ライブカメラ / Tokyo Shiodome Railway Live Camera</name>
+        <description><![CDATA[〒105-0021 東京都港区東新橋 「Tokyo Live Camera」/ Higashi-Shimbashi, Minato-ku, Tokyo 105-0021, "Tokyo Live Camera"<br>https://livecamera.fujiyamasan.com/tokyo-minato-higashisinbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7613745,35.664582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワーライブカメラ / Tokyo Tower Live Camera</name>
+        <description><![CDATA[〒105-0014 東京都港区芝２丁目１−２８ アネックスビル 5F 東京リスマチック㈱ 立体造形工房 /Three-dimensional modeling studio,  Annex Building 5F Tokyo Lithmatic Co., Ltd. , 2-1-28 Shiba, Minato-ku, Tokyo 105-0014 <br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7508288,35.6533795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[東京タワーライブカメラ / Tokyo Tower Live Camera
+溜池山王・赤坂・TBS・首相官邸・東京駅方面ライブカメラ / Live camera for Tameike Sanno, Akasaka, TBS, Prime Minister's Office, Tokyo Station
+]]></name>
+        <description><![CDATA[〒107-0052 東京都港区赤坂 「 LIVE TOKYO ライブ東京」/ Akasaka, Minato-ku, Tokyo 107-0052, "LIVE TOKYO Live Tokyo"<br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html<br>https://livecamera.fujiyamasan.com/tokyo-minato-akasaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7345469,35.6710403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワーと竹芝桟橋・日の出桟橋・東海汽船・水上バス・ジェット船ライブカメラ / Tokyo Tower and Takeshiba Pier / Hinode Pier / Tokai Kisen / Water Bus / Jet Ship Live Camera</name>
+        <description><![CDATA[〒135-0091 東京都港区台場 「ちんあなご」/ Daiba, Minato-ku, Tokyo 135-0091, "Spotted garden eel"<br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7787019,35.6311555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワー・虎ノ門ヒルズ・アークヒルズライブカメラ / Tokyo Tower / Toranomon Hills / Ark Hills Live Camera</name>
+        <description><![CDATA[東京都港区 「Mechapinky」/ Minato-ku, Tokyo "Mechapinky"<br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7515077,35.6580813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京タワーライブカメラ / Tokyo Tower Live Camera</name>
+        <description><![CDATA[東京都中央区 「 東京の空」/ Chuo-ku, Tokyo "Sky of Tokyo"<br>https://livecamera.fujiyamasan.com/tokyo-minato-tokyotower.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7719892,35.6706392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>表参道ライブカメラ / Omotesando Live Camera</name>
+        <description><![CDATA[〒107-0061 東京都港区北青山３丁目５−３０ アニヴェルセル 表参道 / Anniversaire Omotesando, 3-5-30 Kita-Aoyama, Minato-ku, Tokyo 107-0061<br>https://livecamera.fujiyamasan.com/tokyo-minato-kitaaoyama-omotesando.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7112062,35.6660433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>表参道ライブカメラ / Omotesando Live Camera</name>
+        <description><![CDATA[〒107-0061 東京都港区北青山３丁目 「Myo-onFM」/ 3-chome, Kita-Aoyama, Minato-ku, Tokyo 107-0061, "Myo-on FM"<br>https://livecamera.fujiyamasan.com/tokyo-minato-kitaaoyama-omotesando.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7121998,35.6660865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道1号桜田通り・港区三田上空ライブカメラ / National highway No. 1 Sakurada-dori / Mita-ku, Minato-ku live camera</name>
+        <description><![CDATA[〒108-0073 東京都港区三田２丁目 「w-akrs-2」/ 2-chome, Mita, Minato-ku, Tokyo 108-0073<br>"W-akrs-2"<br>https://livecamera.fujiyamasan.com/tokyo-minato-mita-r1.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7409333,35.6494981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港区三田の空お天気カメラ / Sky weather camera in Mita, Minato-ku, Tokyo</name>
+        <description><![CDATA[〒108-0073 東京都港区三田 「三田の空ライブ【 Mita TOKYO Sky Live】」/ Mita, Minato-ku, Tokyo 108-0073 "Mita TOKYO Sky Live"<br>https://livecamera.fujiyamasan.com/tokyo-minato-mita-r1.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7409333,35.647202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虎ノ門ヒルズビジネスタワーライブカメラ / Toranomon Hills Business Tower Live Camera</name>
+        <description><![CDATA[〒105-6490 東京都港区虎ノ門１丁目１７−１ 虎ノ門ヒルズビジネスタワー / Toranomon Hills Business Tower 1-17-1 Toranomon, Minato-ku, Tokyo 105-6490<br>https://livecamera.fujiyamasan.com/tokyo-minato-toranomon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7500377,35.6678347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>品川ライブカメラ / Shinagawa Live camera</name>
+        <description><![CDATA[〒108-8011 東京都港区港南２丁目１６−６ キヤノンマーケティングジャパン㈱ 本社 / Canon Marketing Japan Co., Ltd. Headquarters, 2-16-6 Konan, Minato-ku, Tokyo 108-8011<br>https://livecamera.fujiyamasan.com/tokyo-minato-konan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7401369,35.6257433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>品川埠頭東京入国管理局前道路ライブカメラ・品川埠頭品川埠頭背後道路大井方面ライブカメラ / Shinagawa Wharf Tokyo Immigration Bureau Road Live Camera and Shinagawa Wharf Road behind Shinagawa Wharf Live camera in the direction of Oi</name>
+        <description><![CDATA[〒108-0075 東京都港区港南５丁目６−７ ホクレン 東京食品流通センター 「東京港埠頭株式会社」/ Hokuren Tokyo Food Distribution Center, 5-6-7 Konan, Minato-ku, Tokyo 108-0075  "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-minato-konan-shinagawa-wharf.html<br>https://livecamera.fujiyamasan.com/tokyo-minato-konan-shinagawa-oi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.756683,35.630202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京湾・品川コンテナ埠頭海上保安庁大型測量船専用岸壁ライブカメラ / Tokyo Bay / Shinagawa Container Pier Japan Coast Guard Large-scale surveying vessel dedicated quay live camera</name>
+        <description><![CDATA[〒135-0091 東京都港区台場 「EN DAIBA」/ Daiba, Minato-ku, Tokyo 135-0091<br>"EN DAIBA"<br>https://livecamera.fujiyamasan.com/tokyo-minato-daiba-tokyo-bay.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7804185,35.6306672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京西麻布ライブカメラ / Tokyo Nishiazabu Live Camera</name>
+        <description><![CDATA[〒106-0031 東京都港区西麻布１丁目２−９ EX TOWER １０階 株式会社フレックス / Flex Co., Ltd., EX TOWER 10th floor, 1-2-9 Nishi-Azabu, Minato-ku, Tokyo 106-0031 <br>https://livecamera.fujiyamasan.com/tokyo-minato-nishiazabu.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7271651,35.6613235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海岸二丁目オートバイ専用駐車場ライブカメラ / Kaigan 2-chome Motorcycle Parking Live Camera</name>
+        <description><![CDATA[〒105-0022 東京都港区海岸２丁目１−１８ 高丸ビル 海岸二丁目オートバイ専用駐車場 「東京都道路整備保全公社」/ Kaigan 2-chome Motorcycle Parking Lot, Takamaru Building, 2-1-18 Kaigan, Minato-ku, Tokyo 105-0022, <br>"Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-minato-kaigan-motorcycle-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.758946,35.65027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新橋三丁目オートバイ専用駐車場ライブカメラ / Shinbashi Sanchome Motorcycle Parking Live Camera</name>
+        <description><![CDATA[〒105-0004 東京都港区新橋３丁目２５ 先（JR線高架下）新橋三丁目オートバイ専用駐車場 「東京都道路整備保全公社」/ Shinbashi Sanchome Motorcycle Parking Lot, 3-25 Shimbashi, Minato-ku, Tokyo 105-0004 (under the elevated JR line), <br>"Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-minato-shinbashi-motorcycle-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7582865,35.6648024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都台東区大関横丁交差点(三ノ輪駅前)ライブカメラ / Live camera at Ozeki Yokocho intersection, Taito-ku, Tokyo (in front of Minowa station)</name>
+        <description><![CDATA[〒110-0011 東京都台東区三ノ輪１丁目２８「三ノ輪駅前ライブカメラ」/ 1-28 Minowa, Taito-ku, Tokyo 110-0011 "Live camera in front of Minowa station"<br>https://livecamera.fujiyamasan.com/tokyo-taito-minowa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.79157,35.7293369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都台東区議会（生中継・録画）ライブカメラ / Tokyo Taito Ward Assembly (live broadcast / recording) live camera</name>
+        <description><![CDATA[〒110-8615 東京都台東区東上野４丁目５−６ 台東区役所 / Taito-ku Office, 4-5-6 Higashiueno, Taito-ku, Tokyo 110-8615 <br>https://livecamera.fujiyamasan.com/tokyo-taito-ward-assembly.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7800509,35.7125779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>墨田区立外手小学校ライブカメラ / Sumida Ward Sotode Elementary School Live Camera </name>
+        <description><![CDATA[〒130-0004 東京都墨田区本所２丁目１−１６ 墨田区立外手小学校 「内田洋行」/ Sumida-ku Sotode Elementary School, 2-1-16 Honjo, Sumida-ku, Tokyo 130-0004  "Uchida Yoko"<br>https://livecamera.fujiyamasan.com/tokyo-sumida-honjo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8005917,35.7025972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大盛り弁当屋さん（キッチンDIVE）のライブカメラ / Live camera of a large lunch box shop (Kitchen DIVE)</name>
+        <description><![CDATA[〒136-0071 東京都江東区亀戸６丁目５８−１５ KITCHEN DIVE / KITCHEN DIVE, 6-58-15 Kameido, Koto-ku, Tokyo 136-0071<br>https://livecamera.fujiyamasan.com/tokyo-koto-kameido-kitchen-dive.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8270814,35.6968402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木場公園ライブカメラ / Kiba Park Live Camera</name>
+        <description><![CDATA[〒135-0042 東京都江東区木場５丁目 「のんびりカメラ RelaxCam」/ 5-chome, Kiba, Koto-ku, Tokyo 135-0042, "Relaxing camera RelaxCam"<br>https://livecamera.fujiyamasan.com/tokyo-koto-kiba-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8080323,35.6712135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヤマタネ深川営業所隅田川ライブカメラ / Yamatane Fukagawa Sales Office Sumida River Live Camera</name>
+        <description><![CDATA[〒135-0044 東京都江東区越中島１丁目１−１ ㈱ヤマタネ 物流本部 深川営業所 「ベイネット防災」 / Yamatane Co., Ltd. Logistics Headquarters Fukagawa Sales Office, 1-1-1, Etchujima, Koto-ku, Tokyo 135-0044  "Baynet Disaster Prevention"<br>https://livecamera.fujiyamasan.com/tokyo-koto-ecchujima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7898379,35.6719148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有明１丁目</name>
+        <description>〒135-0063 東京都江東区有明１丁目</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7869359,35.6403728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新砂緊急用船着場ライブカメラ / Shinsuna emergency dock live camera</name>
+        <description><![CDATA[〒136-0075 東京都江東区新砂３丁目８ CR 新砂リバーステーション 「荒川下流河川事務所」/ Shinsuna River Station,  3-8 Shinsuna, Koto-ku, Tokyo 136-0075,  "Arakawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/tokyo-koto-shinsuna.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8422332,35.6542326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港中央防波堤外側ふ頭方面ライブカメラ / Live camera towards the outer wharf of Tokyo Harbor Central Breakwater</name>
+        <description><![CDATA[〒135-0093 東京都大田区令和島１丁目 「東京港埠頭株式会社」/ 1-chome, Reiwajima, Ota-ku, Tokyo 135-0093 "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-ota-reiwajima-central-breakwater.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7997763,35.594463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港フェリー埠頭東京湾岸アンダー出口交差点有明方面ライブカメラ / Tokyo Port Ferry Pier Tokyo Bay Under Exit Intersection Ariake Area Live Camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海１丁目３−１５ パレットタウン 「東京港埠頭株式会社」/ Palette Town, 1-3-15 Aomi, Koto-ku, Tokyo 135-0064, <br>"Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-wanganunder.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7823538,35.6259917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭国道357号辰巳方面ライブカメラ / Aomi Wharf National Highway No. 357 Tatsumi area live camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海１丁目１−１０ ダイバーシティ東京プラザ 「東京港埠頭株式会社」/ DiverCity Tokyo Plaza,  1-1-10 Aomi, Koto-ku, Tokyo 135-0064, "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-r357.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7756314,35.6251856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海一丁目交差点付近中防方面ライブカメラ / Aomi Pier Aomi 1-chome intersection near Nakabo live camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海１丁目１−２０ ダイバーシティ東京 オフィスタワー 「東京港埠頭株式会社」/ DiverCity Tokyo Office Tower, 1-1-20 Aomi, Koto-ku, Tokyo 135-0064,  "Tokyo Harbor Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-1crossing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7767324,35.6252747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海三丁目交差点付近ライブカメラ / Live camera near Aomi Wharf Aomi 3-chome intersection</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海３丁目１「東京港埠頭株式会社」/ 3-1 Aomi, Koto-ku, Tokyo 135-0064 "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-3crossing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7799054,35.61286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海公共埠頭背後道路第1ライブカメラ / Aomi Wharf Aomi Public Wharf Behind Road Road 1 Live Camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海３丁目４−３２ 青海コンテナ埠頭　㈱ユニエツクスNCT 青海営業所 / UNI-X NCT Aomi Sales Office, Aomi Container Wharf, 3-4-32 Aomi, Koto-ku, Tokyo 135-0064<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-haigodouro1.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.788312,35.606034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海公共埠頭背後道路第2ライブカメラ / Aomi Wharf Aomi Public Wharf Behind Road 2nd Live Camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海３丁目４ 青海流通センター１号棟「東京港埠頭株式会社」/ Aomi Distribution Center Building No. 1, 3-4 Aomi, Koto-ku, Tokyo 135-0064, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-haigodouro2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7861369,35.607168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海公共埠頭車両待機場ライブカメラ / Aomi Wharf Aomi Public Wharf Vehicle Waiting Area Live Camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海４丁目７−１　青海公共埠頭車両待機場 「東京港埠頭株式会社」/ Aomi Public Wharf Vehicle Waiting Area, 4-7-1 Aomi, Koto-ku, Tokyo 135-0064, "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-waiting-parking-area.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7895273,35.6094012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青海埠頭青海縦貫線中防方面ライブカメラ / Aomi Wharf Aomi Longitudinal Line Chuobo area live camera</name>
+        <description><![CDATA[〒135-0064 東京都江東区青海４丁目４−２３ 栗林運輸㈱ 通関センター 「東京港埠頭株式会社」/ Kuribayashi Unyu Co., Ltd. Customs Clearance Center,  4-4-23 Aomi, Koto-ku, Tokyo 135-0064, "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-aomi-jukansen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7851901,35.6149323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港フェリー埠頭フェリーふ頭入口交差点ライブカメラ / Tokyo Port Ferry Pier Ferry Wharf Entrance Intersection Live Camera</name>
+        <description><![CDATA[〒135-0063 東京都江東区有明３丁目４−１０ TFTビル西館 「東京港埠頭株式会社」/ TFT Building West, 3-4-10 Ariake, Koto-ku, Tokyo 135-0063, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-ariake-ferry-wharf.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.789581,35.6302977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港フェリー埠頭海の森トンネル出入口有明側ライブカメラ / Tokyo Port Ferry Pier Umi no Mori Tunnel Entrance / Exit Ariake Side Live Camera</name>
+        <description><![CDATA[〒135-0063 東京都江東区有明４丁目８−６　東京港フェリーターミナル 「東京港埠頭株式会社」/ Tokyo Port Ferry Terminal, 4-8-6 Ariake, Koto-ku, Tokyo 135-0063, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-ariake-uminomori-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7957085,35.61731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新木場埠頭新木場交差点方面ライブカメラ / Shinkiba Pier Shinkiba intersection direction live camera</name>
+        <description><![CDATA[〒136-0082 東京都江東区新木場１丁目１０−９ DHL Express ServicePoint 東京セントラルサービスセンター 「東京港埠頭株式会社」/ DHL Express ServicePoint Tokyo Central Service Center, 1-10-9 Shinkiba, Koto-ku, Tokyo 136-0082  "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-shinkiba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8366431,35.644727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>辰巳埠頭辰巳交差点方面ライブカメラ / Tatsumi Wharf Tatsumi intersection direction live camera</name>
+        <description><![CDATA[〒135-0053 東京都江東区辰巳３丁目 「東京港埠頭株式会社」/ 3-chome, Tatsumi, Koto-ku, Tokyo 135-0053, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-koto-tatsumi-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8150661,35.6424398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目黒川市場橋ライブカメラ / Meguro River Ichiba Bridge Live Camera</name>
+        <description><![CDATA[〒141-0031 東京都品川区西五反田３丁目１０−１７ 市場橋 「品川区役所」/ Ichiba Bridge, 3-10-17 Nishigotanda, Shinagawa-ku, Tokyo 141-0031  "Shinagawa-ku government office"<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-meguro-river-ichiba-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7161082,35.6277774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目黒川荏原調節池上流水位観測所ライブカメラ / Meguro River Ebara Control Pond Upstream Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒141-0031 東京都品川区西五反田３丁目６「東京都建設局河川部防災課」/ 3-6 Nishigotanda, Shinagawa-ku, Tokyo 141-0031 "Disaster Prevention Division, River Department, Construction Bureau, Tokyo"<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-meguro-river-ebara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7182646,35.6274889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立会川月見橋ライブカメラ / Tachiaigawa Tsukimi Bridge live camera</name>
+        <description><![CDATA[〒140-0011 東京都品川区東大井 「品川区役所」/ Higashioi, Shinagawa-ku, Tokyo 140-0011 "Shinagawa Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-tachiai-river-tukimibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7409333,35.6035663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井埠頭大井税関前交差点第1ライブカメラ / Oi Wharf Oi Customs Front Crossing 1st Live Camera</name>
+        <description><![CDATA[〒140-0003 東京都品川区八潮２丁目７−１０ 三菱倉庫㈱ 大井冷蔵営業所 「東京港埠頭株式会社」/ Mitsubishi Logistics Corp. Oi Refrigeration Sales Office, 2-7-10 Yashio, Shinagawa-ku, Tokyo 140-0003, "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-yashio-oi-customs.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7657499,35.595863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井埠頭八潮二丁目交差点ライブカメラ / Oi Wharf Yashio 2-chome intersection live camera</name>
+        <description><![CDATA[〒140-0003 東京都品川区八潮２丁目９「東京港埠頭株式会社」/ 2-9 Yashio, Shinagawa-ku, Tokyo 140-0003 "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-yashio-2chome-intersection.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7616939,35.6029825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井埠頭大井中央陸橋交差点方面ライブカメラ / Oi Wharf Oi Chuo Overpass Intersection Live Camera</name>
+        <description><![CDATA[東京都品川区八潮５丁目７ 大井中央陸橋「東京港埠頭株式会社」/ Oichuo Overpass, 5-7 Yashio, Shinagawa-ku, Tokyo, "Tokyo Port Wharf Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-yashio-oichuo-overpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7522877,35.5954699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井埠頭北部陸橋上交差点ライブカメラ / Live camera at the intersection on the northern overpass of Oi Wharf</name>
+        <description><![CDATA[〒140-0003 東京都品川区八潮１丁目４−１ 品川清掃工場「東京港埠頭株式会社」/ Shinagawa Incineration Plant, 1-4-1, Yashio, Shinagawa-ku, Tokyo 140-0003, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-yashio-northern-overpass.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7540573,35.6093146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>品川埠頭品川コンテナセンター前ライブカメラ / Live camera in front of Shinagawa Wharf Shinagawa Container Center</name>
+        <description><![CDATA[〒140-0002 東京都品川区東品川５丁目４−３６ 品川コンテナセンター 「東京港埠頭株式会社」/ Shinagawa Container Center, 5-4-36 Higashi-Shinagawa, Shinagawa-ku, Tokyo 140-0002, "Tokyo Harbor Pier Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shinagawa-container-center.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7579804,35.6220634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目黒川青葉台映像監視局ライブカメラ / Meguro River Aobadai Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒153-0042 東京都目黒区青葉台２丁目１７ 「東京都水防チャンネル」 / 2-17 Aobadai, Meguro-ku, Tokyo 153-0042 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-meguro-river-aobadai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6934507,35.6493046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目黒清掃工場建替工事ライブカメラ / Meguro Incineration Plant rebuilding work live camera</name>
+        <description><![CDATA[〒153-0062 東京都目黒区三田２丁目１９−４３ 目黒清掃工場 「JFEエンジ清水建設特定建設工事共同企業体」/ Meguro Incineration Plant, 2-19-43 Mita, Meguro-ku, Tokyo 153-0062<br>"JFE Engineering Shimizu Corporation Specified Construction Joint Venture"<br>https://livecamera.fujiyamasan.com/tokyo-meguro-incineration-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7071746,35.6380588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAL東京国際空港羽田ライブカメラ / JAL Tokyo International Airport Haneda Live Camera</name>
+        <description><![CDATA[〒144-0041 東京都大田区羽田空港 羽田空港 「日本航空」/ Haneda Airport, Hanedakuko, Ota-ku, Tokyo 144-0041, "Japan Airlines"<br>https://livecamera.fujiyamasan.com/tokyo-ota-haneda-airport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7798386,35.5493932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京港野鳥公園ライブカメラ / Tokyo Port Wild Bird Park Live Camera</name>
+        <description><![CDATA[〒143-0001 東京都大田区東海３丁目3  野鳥公園ネイチャーセンター 「東京都立東京港野鳥公園」/ Wild Bird Park Nature Center, 3-3 Tokai, Ota-ku, Tokyo 143-0001, "Tokyo Port Wild Bird Park"<br>https://livecamera.fujiyamasan.com/tokyo-port-wild-bird-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7648486,35.5819485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川多摩川緑地事務所ライブカメラ / Tamagawa Tamagawa Greenery Office Live Camera</name>
+        <description><![CDATA[〒144-0056 東京都大田区西六郷４丁目２３−３ 大田区多摩川緑地事務所 「京浜河川事務所」/ Ota Ward Tamagawa Greenery Office, 4-23-3 Nishirokugo, Ota-ku, Tokyo 144-0056, <br>"Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-ota-tama-river-greenery-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7050472,35.5408083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川田園調布出張所ライブカメラ / Tamagawa Denenchofu Branch Office Live Camera </name>
+        <description><![CDATA[〒145-0072 東京都大田区田園調布本町３１−１ 国土交通省 関東地方整備局 京浜河川事務所 田園調布出張所 / Denenchofu Branch Office, Keihin River Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure, Transport and Tourism,  31-1 Denenchofuhoncho, Ota-ku, Tokyo 145-0072<br>https://livecamera.fujiyamasan.com/tokyo-ota-denenchofu-tama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.671921,35.583103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川田園調布上水位観測所ライブカメラ / Tama River Denenchofu Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒145-0071 東京都大田区田園調布１丁目５７ 田園調布（上）水位観測所 「京浜河川事務所」/ Denenchofu (above) Water Level Observatory, 1-57 Denenchofu, Ota-ku, Tokyo 145-0071,  "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-ota-denenchofu-water-level-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6658001,35.5892689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>呑川池上ライブカメラ / Nomigawa Ikegami Live Camera</name>
+        <description><![CDATA[〒146-0082 東京都大田区池上１丁目「東京都水防チャンネル」/ 1-chome, Ikegami, Ota-ku, Tokyo 146-0082 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-ota-ikegami-nomi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7070931,35.5779355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吞川・内川ライブカメラ</name>
+        <description><![CDATA[〒144-0033 東京都大田区東糀谷「大田区役所」/ Higashikojiya, Ota-ku, Tokyo 144-0033<br>"Ota City Office"<br>https://livecamera.fujiyamasan.com/tokyo-ota-nomi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7460429,35.5573589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ペットホテルエアポートライブカメラ / Pet Hotel Airport Live Camera</name>
+        <description><![CDATA[〒143-0015 東京都大田区大森西３丁目３２−１ ペットホテルエアポート / Pet Hotel Airport, 3-32-1, Omorinishi, Ota-ku, Tokyo 143-0015<br>https://livecamera.fujiyamasan.com/tokyo-ota-pethotel-airport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.733516,35.575066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都高速用賀ライブカメラ / Metropolitan Expressway Yoga Live Camera</name>
+        <description><![CDATA[〒158-0097 東京都世田谷区用賀４丁目１０−１　世田谷ビジネススクエア 「iTSCOM」/ Setagaya Business Square, 4-10-1, Yoga, Setagaya-ku, Tokyo 158-0097, "iTSCOM"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-metropolitan-expressway-yoga.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6328653,35.6268458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シモキタフロント前下北沢駅前広場24時間ライブカメラ / Shimokita Front Shimokitazawa Station Square 24-hour live camera</name>
+        <description><![CDATA[〒155-0031 東京都世田谷区北沢２丁目２４−５シモキタフロント  / Shimokita Front, 2-24-5 Kitazawa, Setagaya-ku, Tokyo 155-0031<br>https://livecamera.fujiyamasan.com/tokyo-ota-shimokita-front.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6676418,35.6619898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三軒茶屋キャロットタワー首都高速3号渋谷線ライブカメラ / Sangenjaya Carrot Tower Metropolitan Expressway No. 3 Shibuya Line Live Camera</name>
+        <description><![CDATA[〒154-0004 東京都世田谷区太子堂４丁目１−１ キャロットタワー 「世田谷区役所」/  Carrot Tower, 4-1-1 Taishido, Setagaya-ku, Tokyo 154-0004 "Setagaya-ku Office"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-taishido.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.669292,35.6436933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川二子玉川ライズタワーオフィス屋上ライブカメラ / Tamagawa Futako Tamagawa Rise Tower Office Rooftop Live Camera</name>
+        <description><![CDATA[〒158-0094 東京都世田谷区玉川１丁目１４−２ 二子玉川ライズ・タワーオフィス  「京浜河川事務所」/ Futakotamagawa Rise Tower Office,  1-14-2 Tamagawa, Setagaya-ku, Tokyo 158-0094, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-tamagawa-futakotamagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6300918,35.610432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野川鎌田橋野川映像監視局ライブカメラ / Nogawa Kamadabashi Nogawa Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒157-0077 東京都世田谷区鎌田４丁目１ 鎌田橋野川水位観測所「東京都水防チャンネル」/ Kamata Bridge Nogawa Water Level Observatory, 4-1 Kamata, Setagaya-ku, Tokyo 157-0077, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-kamata-nogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6115831,35.621464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙川鎌田橋仙川映像監視局ライブカメラ / Sengawa Kamatabashi Sengawa Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒157-0077 東京都世田谷区鎌田３丁目１３ 鎌田橋仙川水位観測所 「東京都水防チャンネル」/ Kamata Bridge Sengawa Water Level Observatory, 3-13 Kamata, Setagaya-ku, Tokyo 157-0077, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-kamata-sengawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6136543,35.6215813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸子川滝ノ橋映像監視局ライブカメラ / Marukogawa Takinobashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒158-0092 東京都世田谷区野毛１丁目５ 滝の橋「東京都水防チャンネル」/ Takinohashi, 1-5 Noge, Setagaya-ku, Tokyo 158-0092  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-noge-maruko-river-takinohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6455615,35.6003636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷沢川丸山橋映像監視局ライブカメラ / Yazawa River Maruyama Bridge video monitoring station live camera</name>
+        <description><![CDATA[〒158-0091 東京都世田谷区中町４丁目「東京都水防チャンネル」/ 4-chome, Nakamachi, Setagaya-ku, Tokyo 158-0091 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-nakamachi-yazawa-maruyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6432963,35.6177391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷沢川矢川橋映像監視局ライブカメラ / Yazawa River Yagawa Bridge video monitoring station live camera</name>
+        <description><![CDATA[〒158-0092 東京都世田谷区野毛１丁目６ 矢川橋 「東京都水防チャンネル」/ Yagawabashi, 1-6 Noge, Setagaya-ku, Tokyo 158-0092  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-noge-yazawa-river-yagawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6457648,35.6021753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都世田谷区立東玉川小学校ライブカメラ / Tokyo Setagaya Ward Higashitamagawa elementary school live camera</name>
+        <description><![CDATA[〒158-0083 東京都世田谷区奥沢１丁目１−１ 世田谷区立東玉川小学校 「内田洋行」/ Setagaya-ku Higashi-Tamagawa Elementary School, 1-1-1, Okusawa, Setagaya-ku, Tokyo 158-0083, "Uchida Yoko"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-okusawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.68058,35.598559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>世田谷区立船橋小学校ライブカメラ / Setagaya Ward Funabashi Elementary School Live Camera</name>
+        <description><![CDATA[〒156-0055 東京都世田谷区船橋４丁目４１−１世田谷区立船橋小学校「内田洋行」/ Setagaya-ku Funabashi Elementary School,  4-41-1 Funabashi, Setagaya-ku, Tokyo 156-0055, "Uchida Yoko"<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-funabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.616894,35.6532071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松陰神社境内ライブカメラ / Shoin Shrine precincts live camera</name>
+        <description><![CDATA[〒154-0023 東京都世田谷区若林４丁目３５−１　松陰神社 / Shoin Shrine, 4-35-1 Wakabayashi, Setagaya-ku, Tokyo 154-0023<br>https://livecamera.fujiyamasan.com/tokyo-setagaya-shoin-shrine.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6559358,35.6469984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷ライブカメラ / Shibuya Live Camera</name>
+        <description><![CDATA[〒150-8512 東京都渋谷区桜丘町２６−１ セルリアンタワー東急ホテル 「iTSCOM」/ Cerulean Tower Tokyu Hotel, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512, "ISSCOM"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-sakuragaoka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6993541,35.6564093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷スクランブル交差点ライブカメラ / Shibuya scramble crossing live camera</name>
+        <description><![CDATA[〒150-0043 東京都渋谷区道玄坂１丁目１２−１　渋谷マークシティ「FNNプライムオンライン」/ Shibuya Mark City, 1-12-1 Dogenzaka, Shibuya-ku, Tokyo 150-0043, "FNN Prime Online"<br>https://livecamera.fujiyamasan.com/shibuya-scramble-crossing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6980562,35.658046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷公園通り商店街マルイWEBカメラ / Shibuya Koen-dori Shopping Street Marui WEB Camera</name>
+        <description><![CDATA[〒150-0041 東京都渋谷区神南１丁目２２−６ 渋谷マルイ 「渋谷公園通り」/ Shibuya Marui, 1-22-6 Jinnan, Shibuya-ku, Tokyo 150-0041,  "Shibuya Koen Dori"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-jinnan-koendori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7010863,35.6608725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷公園通り商店街大外ビルライブカメラ / Shibuya Koen Dori Shopping Street Daigai Building Live Camera</name>
+        <description><![CDATA[〒150-0043 東京都渋谷区道玄坂２丁目３−１ 大外ビル 「渋谷公園通り」/ Daigai Building, 2-3-1 Dogenzaka, Shibuya-ku, Tokyo 150-0043, "Shibuya Koen-dori"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-jinnan-koendori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6999079,35.6591463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷川渋谷橋映像監視局ライブカメラ / Shibuya River Shibuya Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒150-0013 東京都渋谷区恵比寿１丁目２ 「東京都水防チャンネル」/ 1-2 Ebisu, Shibuya-ku, Tokyo 150-0013 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-ebisu-shibuya-river-shibuya-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7116412,35.6481465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷道玄坂AIライブカメラ / Shibuya Dogenzaka AI Live Camera</name>
+        <description><![CDATA[〒150-0043 東京都渋谷区道玄坂２丁目１０ 「GAUSS Channel」/ 2-10 Dogenzaka, Shibuya-ku, Tokyo 150-0043 "GAUSS Channel"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-dogenzaka-ai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6973596,35.6582616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷愛ビジョン宮益坂交差点ライブカメラ / Shibuya Ai Vision Miyamasu-zaka intersection live camera</name>
+        <description><![CDATA[〒150-0002 東京都渋谷区渋谷２丁目２０ 「渋谷愛ビジョン」/ 2-20 Shibuya, Shibuya-ku, Tokyo 150-0002 "Shibuya Ai Vision"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-miyamasuzakashita.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7028644,35.6593971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷NHK前ライブカメラ / Live camera in front of Shibuya NHK</name>
+        <description><![CDATA[〒150-0041 東京都渋谷区神南１丁目「SHIBUYA-LIVE-CHANNEL」/ 1-chome, Jinnan, Shibuya-ku, Tokyo 150-0041, "SHIBUYA-LIVE-CHANNEL"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-jinnan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6947236,35.664534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷南口再開発工事24時間ライブカメラ / Shibuya South Exit Redevelopment Work 24 Hours Live Camera</name>
+        <description><![CDATA[〒150-0031 東京都渋谷区桜丘町１４−１ ハッチェリー渋谷　ジェイグラブ株式会社 / Hatchery Shibuya, 14-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-0031, "J-Grab Co., Ltd."<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-sakuragaoka-jclub.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7017873,35.6555579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京京王線笹塚駅入線風景ライブカメラ / Tokyo Keio Line Sasazuka Station entrance scenery live camera</name>
+        <description><![CDATA[〒151-0073 東京都渋谷区笹塚 「milanac07」/ Sasazuka, Shibuya-ku, Tokyo 151-0073 "milanac07"<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-sasaduka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6668931,35.6748366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>首都高3号線ライブカメラ / Metropolitan Expressway Route 3 Live Camera</name>
+        <description><![CDATA[〒150-0031 東京都渋谷区桜丘町３１−１１ 日本システムウエア本社ビル / Japan Systemware Headquarters Building, 31-11 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-0031<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-sakuragaoka-me3.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6977186,35.6560034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本門佛立宗妙証山乗泉寺ライブカメラ / Jyousenji Temple Live Camera</name>
+        <description><![CDATA[〒150-0032 東京都渋谷区鶯谷町１０−１５　乗泉寺 / Josenji Temple, 10-15 Uguisudani-cho, Shibuya-ku, Tokyo 150-0032<br>https://livecamera.fujiyamasan.com/tokyo-shibuya-jyousenji.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7024844,35.6531783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京中野大久保通りお天気ライブカメラ / Nakano Okubo Street Weather Live Camera</name>
+        <description><![CDATA[〒164-0001 東京都中野区中野２丁目 「Nakano VE Channel」/ 2-chome, Nakano, Nakano-ku, Tokyo 164-0001, "Nakano VE Channel "<br>https://livecamera.fujiyamasan.com/tokyo-nakano-okubo-street.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6688067,35.7037003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川和田見橋水位観測所ライブカメラ / Kanda River Wadamibashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒164-0013 東京都中野区弥生町５丁目７ 和田見橋水位観測所「東京都水防チャンネル」/ Wadami Bridge Water Level Observatory, 5-7 Yayoi-cho, Nakano-ku, Tokyo 164-0013  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nakano-yayoi-kanda-river-wadamibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6640227,35.6865831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙正寺川鷺盛橋映像監視局ライブカメラ / Myoshoji River Sagimori Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒165-0034 東京都中野区大和町４丁目５１「東京都水防チャンネル」/ 4-51 Yamato-cho, Nakano-ku, Tokyo 165-0034 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nakano-yamato-myoshoji-sagimori.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6428181,35.7157343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙正寺川千歳橋映像監視局ライブカメラ / Myoshoji River Chitose Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒165-0025 東京都中野区沼袋３丁目１５「東京都水防チャンネル」/ 3-15 Numabukuro, Nakano-ku, Tokyo 165-0025 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nakano-myoshoji-chitose.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6590796,35.7162648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中野駅前オートバイ駐車場ライブカメラ / Nakano station square motorcycle parking lot live camera</name>
+        <description><![CDATA[〒164-0001 東京都中野区中野４丁目９　中野駅前オートバイ駐車場「東京都道路整備保全公社」/ Nakano station square motorcycle parking lot, 4-9 Nakano, Nakano-ku, Tokyo 164-0001,  "Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-nakano-motorcycle-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6627513,35.7061578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川南小滝橋映像監視局ライブカメラ / Kanda River South Kotakibashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒164-0003 東京都中野区東中野５丁目１２−１　南小滝橋「東京都水防チャンネル」/ Minamikodaki Bridge, 5-12-1 Higashinakano, Nakano-ku, Tokyo 164-0003,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nakano-kanda-river-minamikotaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6895905,35.7079174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>立正佼成会普門館ライブカメラ / Rissho Koseikai Fumonkan Live Camera</name>
+        <description><![CDATA[〒166-0012 東京都杉並区和田２丁目６−１ 立正佼成会普門館 / Rissho Koseikai Fumonkan, 2-6-1 Wada, Suginami-ku, Tokyo 166-0012<br>https://livecamera.fujiyamasan.com/tokyo-suginami-wada-fumonkan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6587607,35.6874757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川番屋橋映像監視局ライブカメラ / Kanda River Banya Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒168-0063 東京都杉並区和泉４丁目１６　番屋橋水位観測所「東京都水防チャンネル」/ Banya Bridge Water Level Observatory, 4-16 Izumi, Suginami-ku, Tokyo 168-0063, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-suginami-kanda-river-banyabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6498323,35.6787227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川富士見橋ライブカメラ / Kanda River Fujimi Bridge Live Camera</name>
+        <description><![CDATA[〒166-0012 東京都杉並区和田１丁目１８−１　富士見橋 「杉並区役所」/ Fujimi Bridge, 1-18-1 Wada, Suginami-ku, Tokyo 166-0012, "Suginami-ku government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6666813,35.6906575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善福寺川丸山橋ライブカメラ / Zenpukuji River Maruyama Bridge Live Camera</name>
+        <description><![CDATA[〒167-0043 東京都杉並区上荻４丁目３ 丸山橋 「杉並区役所」/ Maruyama Bridge, 4-3 Kamiogi, Suginami-ku, Tokyo 167-0043, "Suginami-ku government office"<br>https://livecamera.fujiyamasan.com/tokyo-suginami-rivers.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6040084,35.7086719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善福寺川松見橋ライブカメラ / Zenpukuji River Matsumi Bridge Live Camera</name>
+        <description><![CDATA[〒167-0051 東京都杉並区荻窪２丁目３９　松見橋（善福寺川）「杉並区役所」/ Matsumi Bridge (Zenfukuji River) , 2-39 Ogikubo, Suginami-ku, Tokyo 167-0051 "Suginami Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-suginami-rivers.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6207871,35.6979147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善福寺川武蔵野橋ライブカメラ / Zenpukuji River Musashino Bridge Live Camera</name>
+        <description><![CDATA[〒166-0013 東京都杉並区堀ノ内２丁目３７−２０　武蔵野橋 「杉並区役所」/ Musashino Bridge, 2-37-20 Horinouchi, Suginami-ku, Tokyo 166-0013  "Suginami-ku government office"<br>https://livecamera.fujiyamasan.com/tokyo-suginami-rivers.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.649344,35.688252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田川向陽橋ライブカメラ</name>
+        <description><![CDATA[〒168-0073 東京都杉並区下高井戸３丁目２７ 向陽橋 「杉並区役所」<br>https://livecamera.fujiyamasan.com/tokyo-suginami-rivers.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6352009,35.6745583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>善福寺川西田端橋映像監視局ライブカメラ / Zenpukuji River Nishitabata Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒167-0051 東京都杉並区荻窪３丁目 西田端橋 「東京都水防チャンネル」/ Nishitabata Bridge, 3-chome, Ogikubo, Suginami-ku, Tokyo 167-0051 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-suginami-zenpukuji-nishitabata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6243347,35.6952642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヘアーサロン佐野ライブカメラ / Hair Salon Sano Live Camera</name>
+        <description><![CDATA[〒168-0073 東京都杉並区下高井戸１丁目１−１９−５ ヘアーサロン佐野 / 1-19-5 Shimotakaido, Suginami-ku, Tokyo 168-0073 Hair Salon Sano<br>https://livecamera.fujiyamasan.com/tokyo-suginami-shimotakaido-hairsalon-sano.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.633576,35.668022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>椎名橋北オートバイ専用駐車場入口側・奥側ライブカメラ / Shiinabashi North Motorcycle Parking Lot Entrance / Back Live Camera</name>
+        <description><![CDATA[〒171-0021 東京都豊島区西池袋４丁目３８「東京都道路整備保全公社」/ 4-38 Nishiikebukuro, Toshima-ku, Tokyo 171-0021 "Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-toshima-nishiikebukuro-shiinakita-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6964023,35.7266942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>椎名橋南オートバイ専用駐車場ライブカメラ / Shiinabashi Minami Motorcycle Parking Live Camera</name>
+        <description><![CDATA[〒171-0031 東京都豊島区目白５丁目２７ 椎名橋南オートバイ専用駐車場「東京都道路整備保全公社」/ Shiinabashi Minami Motorcycle Parking, 5-27 Mejiro, Toshima-ku, Tokyo 171-0031, "Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-toshima-mejiro-shiinabashiminami-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6958439,35.7258248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六ツ又陸橋オートバイ駐車場ライブカメラ / Mutsumata Overpass Motorcycle Parking Live Camera</name>
+        <description><![CDATA[〒170-0013 東京都豊島区東池袋３丁目７ 六ツ又陸橋オートバイ駐車場 「東京都道路整備保全公社」/ Mutsumata Overpass Motorcycle Parking, 3-7 Higashiikebukuro, Toshima-ku, Tokyo 170-0013, "Tokyo Road Maintenance Corporation"<br>https://livecamera.fujiyamasan.com/tokyo-toshima-higashiikebukuro-mutsumatarikkyo-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7173568,35.7331189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東池袋オートバイ専用駐車場入口側・奥側ライブカメラ</name>
+        <description><![CDATA[〒170-0013 東京都豊島区東池袋１丁目２９ 東京パブリック 東池袋オートバイ専用駐車場 「東京都道路整備保全公社」/ Tokyo Public Higashiikebukuro Motorcycle Parking, 1-29 Higashiikebukuro, Toshima-ku, Tokyo 170-0013 "Tokyo Road Maintenance Corporation"<br> https://livecamera.fujiyamasan.com/tokyo-toshima-higashiikebukuro-motorcycle-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7167664,35.7304893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北区観光ライブカメラ / Kita Ward Sightseeing Live Camera</name>
+        <description><![CDATA[〒114-8503 東京都北区王子１丁目１１−１ 北とぴあ 「PR Station」/ Hokutopia, 1-11-1 Oji, Kita-ku, Tokyo 114-8503, "PR Station"<br>https://livecamera.fujiyamasan.com/tokyo-kita-oji-hokutopia.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7364112,35.75523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>築地本願寺王子布教所ＷＥＢ参拝ライブカメラ / Tsukiji Honganji Oji Mission WEB worship live camera</name>
+        <description><![CDATA[〒114-0002 東京都北区王子２丁目１５−８ ＭＹＳビル 2Ｆ　築地本願寺王子布教所 / Tsukiji Honganji Oji Mission, MYS Building 2F, 2-15-8 Oji, Kita-ku, Tokyo 114-0002<br> https://livecamera.fujiyamasan.com/tokyo-kita-oji-tsukijihonganji-mission.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7371615,35.7574199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川溝田橋映像監視局ライブカメラ / Shakujii River Mizota Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒114-0004 東京都北区堀船１丁目１２ 溝田橋水位観測所 「東京都水防チャンネル」/ Mizotabashi Water Level Observatory, 1-12 Horifune, Kita-ku, Tokyo 114-0004, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-kita-horifune-shakujii-river-mizotabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7422905,35.7535163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川観音橋ライブカメラ / Shakujii River Kannonbashi Live Camera</name>
+        <description><![CDATA[〒114-0023 東京都北区滝野川 観音橋「北区役所」/ Kannon Bridge, Takinogawa, Kita-ku, Tokyo 114-0023, "Kita Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-kita-takinogawa-shakuji-kannon.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7257734,35.7501198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川新柳橋ライブカメラ / Shakujii River Shinyanagibashi Live Camera</name>
+        <description><![CDATA[〒114-0003 東京都北区豊島２丁目１１ 新柳橋「北区役所」/ Shinyanagi Bridge, 2-11 Toshima, Kita-ku, Tokyo 114-0003 "Kita-ku Office"<br>https://livecamera.fujiyamasan.com/tokyo-kita-toshima-shakujii-shinyanagi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7450162,35.7573506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川松橋ライブカメラ / Shakujii River Matsubashi Live Camera</name>
+        <description><![CDATA[〒114-0022 東京都北区王子本町１丁目７−４ 松橋 「北区役所」/ Matsubashi, 1-7-4 Ojihoncho, Kita-ku, Tokyo 114-0022, "Kita-ku government office"<br>https://livecamera.fujiyamasan.com/tokyo-kita-ojihoncho-shakuji-matsubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7319005,35.7524052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川岩淵水門ライブカメラ / Arakawa Iwabuchi Water Gate Live Camera</name>
+        <description><![CDATA[〒115-0042 東京都北区志茂５丁目４１−２ 岩淵水門 「荒川下流河川事務所」/ Iwabuchi Water Gate, 54-1-2 Shimo, Kita-ku, Tokyo 115-0042,  "Arakawa downstream river office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7320697,35.78516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川新河岸橋ライブカメラ / Shingashi River Shingashi Bridge Live Camera</name>
+        <description><![CDATA[〒115-0051 東京都板橋区浮間５丁目１７ 新河岸橋 「東京都水防チャンネル」/ Shingashi Bridge, 5-17 Ukima, Itabashi-ku, Tokyo 115-0051,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-kita-ukima-shingashi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.690677,35.7859251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川志茂橋映像監視局ライブカメラ / Shingashi River Shimobashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒115-0042 東京都北区志茂5丁目 「東京都水防チャンネル」/ 5-chome, Shimo, Kita-ku, Tokyo 115-0042 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-kita-shimo-shingashi-river-shimobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7303692,35.784549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川浮間橋ライブカメラ / Shingashi River Ukimabashi Live Camera</name>
+        <description><![CDATA[東京都北区浮間３丁目１ 浮間橋　「東京都水防チャンネル」/ Ukima Bridge, 3-1 Ukima, Kita-ku, Tokyo, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-kita-ukima-shingashi-ukimabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7059405,35.7870781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川区議会ライブカメラ / Arakawa City Assembly Live Camera</name>
+        <description><![CDATA[〒116-0002 東京都荒川区荒川２丁目２−３ 荒川区議会 / Arakawa Ward Assembly, 2-2-3 Arakawa, Arakawa-ku, Tokyo 116-0002<br>https://livecamera.fujiyamasan.com/tokyo-arakawa-city-assembly.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7834944,35.7361604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川平成橋ライブカメラ / Shingashi River Heisei Bridge Live Camera</name>
+        <description><![CDATA[〒174-0041 東京都板橋区平成橋１丁目４ 平成橋 「板橋区役所」/ Heisei Bridge, 1-4 Heiseibashi, Itabashi-ku, Tokyo 174-0041,  "Itabashi City Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-singashi-river-heisei-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6865394,35.7903511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新河岸川芝原橋ライブカメラ / Shingashi River Shibahara Bridge Live Camera</name>
+        <description><![CDATA[〒175-0081 東京都板橋区新河岸３丁目１ 芝原橋 「板橋区役所」/ Shibahara Bridge, 3-1 Shingashi, Itabashi-ku, Tokyo 175-0081,  "Itabashi Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-singashi-river-shibahara-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6593676,35.7931093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川板橋ライブカメラ / Shakujii River Itabashi Live Camera</name>
+        <description><![CDATA[〒173-0001 東京都板橋区本町２８−２９ 板橋 「板橋区役所」/ Itabashi, 28-29 Honcho, Itabashi-ku, Tokyo 173-0001, "Itabashi Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-nakajuku-shakujii-itabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7088965,35.7572864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川栗原橋ライブカメラ / Shakujii River Kurihara Bridge Live Camera</name>
+        <description><![CDATA[〒173-0037 東京都板橋区小茂根５丁目１７ 栗原橋 「板橋区役所」/ Kurihara Bridge, 5-17 Komone, Itabashi-ku, Tokyo 173-0037, "Itabashi Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-komone-shakujii-kurihara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6754195,35.7548365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川学校橋ライブカメラ / Shakujii River School Bridge Live Camera</name>
+        <description><![CDATA[〒174-0073 東京都板橋区東山町２２ 学校橋「板橋区役所」/ Gakkobashi, 22 Higashiyama-cho, Itabashi-ku, Tokyo 174-0073, "Itabashi City Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-higashiyama-shakujii-gakko.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6869075,35.7517666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川成増橋ライブカメラ / Shirako River Narimasu Bridge Live Camera</name>
+        <description><![CDATA[〒175-0094 東京都板橋区成増５丁目１９ 成増橋 「板橋区役所」/ Narimasu Bridge, 5-19 Narimasu, Itabashi-ku, Tokyo 175-0094, "Itabashi Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-misono-shirako-river-narimasubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6360856,35.7900986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川落合橋ライブカメラ / Shirako River Ochiai Bridge Live Camera</name>
+        <description><![CDATA[〒175-0091 東京都板橋区三園２丁目１７ 落合橋 「板橋区役所」/ Ochiai Bridge, 2-17 Misono, Itabashi-ku, Tokyo 175-0091, "Itabashi Ward Office"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-misono-shirako-river-ochiaibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6412427,35.7977473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高橋製作所本社上空ライブカメラ / Takahashi Seisakusho headquarters sky live camera</name>
+        <description><![CDATA[〒174-0061 東京都板橋区大原町４１−７ 高橋製作所 / Takahashi Seisakusho, 41-7 Ohara-cho, Itabashi-ku, Tokyo 174-0061<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-ohara-takahashiseisakusho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.696861,35.7702379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川加賀橋映像監視局ライブカメラ / Shakujii River Kagabashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒173-0003 東京都板橋区加賀１丁目１２ 加賀橋水位観測所「東京都水防チャンネル」/ Kagabashi Water Level Observatory , 1-12 Kaga, Itabashi-ku, Tokyo 173-0003 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-itabashi-kaga-shakujii-kagabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7173868,35.7542605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川稲荷橋映像監視局ライブカメラ / Shakujii River Inaribashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒177-0045 東京都練馬区石神井台７丁目９ 稲荷橋水位観測所「東京都水防チャンネル」/ Inari Bridge Water Level Observatory, 7-9 Shakujiidai, Nerima-ku, Tokyo 177-0045, <br>"Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-shakujiidai-sahkujii-inaribashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5785335,35.7288342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川松殿橋映像監視局ライブカメラ / Shirakogawa Matsudenbashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒178-0064 東京都練馬区南大泉４丁目１０松殿橋 「東京都水防チャンネル」/ Matsudono Bridge, 4-10 Minamioizumi, Nerima-ku, Tokyo 178-0064,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-minamioizumi-shirako-matsudono.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5783766,35.7475856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川三ツ橋映像監視局ライブカメラ / Shirako River Mitsubashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒178-0063 東京都練馬区東大泉２丁目３１ 三ツ橋 「東京都水防チャンネル」/ Mitsubashi, 2-31 Higashi-Oizumi, Nerima-ku, Tokyo 178-0063  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-higashioizumi-shirako-mitsuhashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5963541,35.7562902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川越後山橋映像監視局ライブカメラ / Shirako River Echigoyama Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒179-0076 東京都練馬区土支田４丁目４７ 越後山橋 「東京都水防チャンネル」/ Echigoyama Bridge, 4-47 Doshida, Nerima-ku, Tokyo 179-0076 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-doshida-shirako-echigoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.6121278,35.770357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子川子安橋映像監視局ライブカメラ / Shirako River Koyasu Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒179-0071 東京都練馬区旭町 子安橋　「東京都水防チャンネル」/ Koyasu Bridge, Asahi-cho, Nerima-ku, Tokyo 179-0071 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-asahi-shirako-koyasubashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.626083,35.7752905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青梅街道ライブカメラ / Ome Kaido Live Camera</name>
+        <description><![CDATA[〒177-0051 東京都練馬区関町北１丁目１　青梅街道「ちんあなご」/ Oume Kaido, 1-1, Sekimachikita, Nerima-ku, Tokyo 177-0051,  "Chinanago"<br>https://livecamera.fujiyamasan.com/tokyo-nerima-sekimachikita-oumekaido.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5806495,35.7233386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川五色桜大橋ライブカメラ / Arakawa Goshikizakura Ohashi Live Camera</name>
+        <description><![CDATA[〒120-0000 東京都足立区宮城２丁目 五色桜大橋 「荒川下流河川事務所」/ Goshikizakura Bridge, 2-chome, Miyagi, Adachi-ku, Tokyo 120-0000 "Arakawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-goshikizakura-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7601552,35.7652967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川西新井橋上流ライブカメラ / Arakawa Nishiarai Bridge upstream live camera</name>
+        <description><![CDATA[〒123-0851 東京都足立区梅田４丁目 「荒川下流河川事務所」/ 4-chome, Umeda, Adachi-ku, Tokyo 123-0851 "Arakawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-umeda-arakawa-nishiaraibashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7926887,35.7626258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝川新芝川橋ライブカメラ / Shibakawa Shinshibakawa Bridge Live Camera</name>
+        <description><![CDATA[〒121-0836 東京都足立区入谷7丁目 「東京都水防チャンネル」/ 7-chome, Iriya, Adachi-ku, Tokyo 121-0836 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-iriya-shibakawa-shinshibakawabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7574214,35.8016012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛長川毛長橋映像監視局ライブカメラ / Kenaga River Kenaga Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒121-0801 東京都足立区東伊興２丁目２１ 毛長橋 「東京都水防チャンネル」/ Kenagabashi, 2-21 Higashiiko, Adachi-ku, Tokyo 121-0801  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-kojiyahoncho-kenagabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7830958,35.8066183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>綾瀬川伝右川排水機場ライブカメラ / Ayase River Denu River Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒121-0061 東京都足立区花畑８丁目１−１ 伝右川排水機場 「江戸川河川事務所」 / Denu River Drainage Pump Station, 8-1-1 Hanahata, Adachi-ku, Tokyo 121-0061,  "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/tokyo-adachi-hanabatake-ayase-denu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8222955,35.8092584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川堀切緊急用船着場ライブカメラ / Arakawa Horikiri emergency dock live camera</name>
+        <description><![CDATA[〒124-0006 東京都葛飾区堀切１丁目 堀切緊急用船着場 「荒川下流河川事務所」/Horikiri Emergency Landing, Horikiri 1-chome, Katsushika-ku, Tokyo, "Arakawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/tokyo-katsushika-horikiri-emergency-dock.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.823795,35.7402419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川高砂水位観測所ライブカメラ / Nakagawa Takasago Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒125-0062 東京都葛飾区青戸６丁目３１ 高砂水位観測所 「江戸川河川事務所」/ Takasago Water Level Observatory, 6-31 Aoto, Katsushika-ku, Tokyo 125-0062,  "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/tokyo-katsushika-aoto-nakagawa-takasago.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8610365,35.7497665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石塚製作所ライブカメラ / Ishizuka Seisakusho Live Camera</name>
+        <description><![CDATA[〒125-0052 東京都葛飾区柴又２丁目１０−６ 石塚製作所 / Ishizuka Seisakusho, 2-10-6 Shibamata, Katsushika-ku, Tokyo 125-0052<br>https://livecamera.fujiyamasan.com/tokyo-katsushika-shibamata-ishizuka-seisakusho.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.867506,35.7589593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川小松川船着場ライブカメラ / Arakawa Komatsugawa dock live camera</name>
+        <description><![CDATA[〒132-0034 東京都江戸川区小松川１丁目１ 小松川緊急用船着場 「荒川下流河川事務所」/ Komatsugawa Emergency Berth Office, 1-1 Komatsugawa, Edogawa-ku, Tokyo 132-0034  "Arakawa Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.846812,35.6811445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川平井大橋上流ライブカメラ / Arakawa Hirai Ohashi upstream live camera</name>
+        <description><![CDATA[東京都江戸川区平井6丁目「荒川下流河川事務所」/ 6-chome Hirai, Edogawa-ku, Tokyo "Arakawa Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.844231,35.7147042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒川首都高7号線下流ライブカメラ / Arakawa Metropolitan Expressway Route 7 downstream live camera</name>
+        <description><![CDATA[〒132-0032 東京都江戸川区西小松川町「荒川下流河川事務所」/ Nishikomatsugawamachi, Edogawa-ku, Tokyo 132-0032, "Arakawa downstream river office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.861126,35.6976141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城東動物霊園本堂永代納骨堂ライブカメラ / Joto Animal Cemetery Hondo Perpetual Ossuary live camera</name>
+        <description>〒134-0003 東京都江戸川区春江町４丁目 ２３番４号 城東動物霊園 / Joto Animal Cemetery, 4-23-4 Harue-cho, Edogawa-ku, Tokyo 134-0003 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8751275,35.6821797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道20号大垂水区間大垂水峠ライブカメラ / National Highway No. 20 Otarumizu Section Otarimizu Pass Live Camera</name>
+        <description><![CDATA[〒193-0846 東京都八王子市南浅川町「相武国道事務所」/ "Soubu National Highway Office", Minamiasakawamachi, Hachioji-shi, Tokyo 193-0846<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-minamiasakawa-r20.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2572982,35.6190263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央自動車道八王子ジャンクションライブカメラ / Chuo Expressway Hachioji Junction Live Camera</name>
+        <description><![CDATA[〒193-0841 東京都八王子市裏高尾町　八王子J.C.T. 「NEXCO中日本」/ Hachioji J.C.T.,  Uratakaomachi, Hachioji City, Tokyo 193-0841,<br>"NEXCO Central Japan"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-uratakao-hachioji-jct.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2548488,35.6404793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>圏央道八王子西インターチェンジライブカメラ / Ken-O Expressway Hachioji West Interchange Live Camera</name>
+        <description><![CDATA[〒192-0154 東京都八王子市下恩方町 八王子西IC 「ウェザーニュース」/ Hachioji Nishi IC, Shimoongatamachi, Hachioji City, Tokyo 192-0154, "Weathernews"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-shimoongata-hahiojinishi-ic.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2531225,35.6803241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川JR八高線上流ライブカメラ / Tama River JR Hachiko Line upstream live camera</name>
+        <description><![CDATA[〒192-0022 東京都八王子市平町「京浜河川事務所」/ Tairamachi, Hachioji-shi, Tokyo 192-0022, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-taira-tama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3583347,35.6925947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川47.8KP右岸ライブカメラ  / Tamagawa 47.8KP right bank live camera</name>
+        <description><![CDATA[東京都八王子市高月町「河川情報センター」/ Takatsukimachi, Hachioji City, Tokyo<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-takatsuki-tama-river-47-8kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3302365,35.7054482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川48.4KP右岸ライブカメラ / Tama River 48.4KP Right Bank Live Camera</name>
+        <description><![CDATA[東京都八王子市高月町「河川情報センター」/ Takatsukimachi, Hachioji City, Tokyo<br>"River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-takatsuki-tama-river-48-4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3259864,35.7115013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川浅川橋水位観測所ライブカメラ / Asakawa Asakawabashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒192-0062 東京都八王子市大横町 「京浜河川事務所」/ Oyoko-cho, Hachioji-shi, Tokyo 192-0062, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-oyoko-asakawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.329905,35.666037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川暁橋上流ライブカメラ / Asakawa Akatsuki Bridge upstream live camera</name>
+        <description><![CDATA[〒192-0064 東京都八王子市田町「京浜河川事務所」/ Tamachi, Hachioji-shi, Tokyo 192-0064 <br>"Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-tamachi-asakawa-akatsuki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3357384,35.6668242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川板当橋ライブカメラ / Asakawa Itaatebashi Live Camera</name>
+        <description><![CDATA[東京都八王子市上恩方町 「東京都水防チャンネル」/ Kamiongatamachi, Hachioji-shi, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-kamiongata-asakawa-itaate-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2402209,35.6686035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大栗川常盤橋ライブカメラ / Okuri River Tokiwa Bridge Live Camera</name>
+        <description><![CDATA[東京都八王子市大塚 「東京都水防チャンネル」/ Otsuka, Hachioji-shi, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-otsuka-okuri-river-tokiwa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4159497,35.6357374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南浅川浅川事務所映像監視局ライブカメラ / Minamiasakawa Asakawa Office Video Surveillance Bureau Live Camera</name>
+        <description><![CDATA[〒193-0844 東京都八王子市高尾町１６５２−１八王子市役所 浅川事務所「東京都水防チャンネル」/ 1652-1 Takaomachi, Hachioji-shi, Tokyo 193-0844 Hachioji-shi Hall Asakawa Office "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-hachioji-takao-asakawa-office.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.276924,35.643603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川日野橋水位観測所ライブカメラ / Tama River Hino Bridge Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒190-0022 東京都立川市錦町５丁目２０ 「京浜河川事務所」/ 5-20 Nishikicho, Tachikawa-shi, Tokyo 190-0022 "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-tachikawa-nishiki-tama-river-hino-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4119767,35.6855138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>残堀川下砂橋映像監視局ライブカメラ / Zanbori River Downstream Sand Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[東京都立川市上砂町5丁目「東京都水防チャンネル」/ 5-chome, Kamisuna-cho, Tachikawa-shi, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-tachikawa-kamisuna-zanbori-river-shimosuna-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3862062,35.7299114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成蹊気象観測所ライブカメラ / Seikei Meteorological Observatory Live Camera</name>
+        <description><![CDATA[〒180-0001 東京都武蔵野市吉祥寺北町３丁目１０−１３　成蹊中学・高等学校 「成蹊学園」/ Seikei Junior and Senior High School, 3-10-13 Kichijoji Kitamachi, Musashino City, Tokyo 180-0001, "Seikei Gakuen"<br>https://livecamera.fujiyamasan.com/tokyo-musashino-kichijoji-seikeigakuen.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.57254,35.716187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野川大沢池上映像監視局ライブカメラ / Nogawa Osawa Ikegami Video Surveillance Station Live Camera</name>
+        <description><![CDATA[東京都三鷹市大沢６丁目 「東京都水防チャンネル」/ 6-chome, Osawa, Mitaka-shi, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-mitaka-nogawa-osawaikegami.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5318466,35.674558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仙川長久保映像監視局ライブカメラ / Sengawa Nagakubo Video Surveillance Station Live Camera</name>
+        <description><![CDATA[東京都三鷹市新川「東京都水防チャンネル」/ Shinkawa, Mitaka City, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-mitaka-shinkawa-senkawa-nagakubo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5683698,35.6805262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御岳渓谷LIVEカメラ / Mitake Gorge LIVE Camera</name>
+        <description><![CDATA[〒198-0173 東京都青梅市御岳本町３６２−８ 青梅 市 御岳 交流 センター 「青梅市観光協会」/ 362-8 Mitakehoncho, Ome City, Tokyo 198-0173 Ome City Mitake Exchange Center "Ome City Tourism Association"<br>https://livecamera.fujiyamasan.com/tokyo-ome-mitakehoncho-mitake-gorge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1845188,35.8014296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵御嶽神社ライブカメラ / Musashi Mitake Shrine Live Camera</name>
+        <description><![CDATA[〒198-0175 東京都青梅市御岳山１７６ 武藏御嶽神社 「青梅市観光協会」/ 176 Mitakesan, Ome City, Tokyo 198-0175 Musashi Mitake Shrine,  "Ome City Tourism Association"<br>https://livecamera.fujiyamasan.com/tokyo-ome-mitakesan-musashimitake-shrine.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1502762,35.7827106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川調布橋水位観測所ライブカメラ / Tama River Chofubashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[〒198-0052 東京都青梅市長淵６丁目 「京浜河川事務所」/ 6-chome, Nagabuchi, Ome-shi, Tokyo 198-0052 "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-ome-nagabuchi-tama-river-chofu-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2673521,35.7814426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞川霞川水位観測所ライブカメラ / Kasumigawa Kasumigawa water level observatory live camera</name>
+        <description><![CDATA[東京都青梅市今井1丁目 霞川水位観測所 「東京都水防チャンネル」/ Kasumi River Water Level Observatory, 1-chome, Imai, Ome-shi, Tokyo,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-ome-imai-kasumi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3145322,35.8086972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>成木川成木川映像監視局ライブカメラ / Nariki River Nariki River Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒198-0001 東京都青梅市成木１丁目「東京都水防チャンネル」/ 1-chome, Nariki, Ome-shi, Tokyo 198-0001 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-ome-nariki-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2803409,35.8360913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川大丸用水堰下流ライブカメラ / Tama River Oomaru irrigation weir downstream live camera</name>
+        <description><![CDATA[〒183-0014 東京都府中市是政６丁目２７ 大丸用水堰下 「 京浜河川事務所」/ Under the Daimaru irrigation dam6-27 Koremasa, Fuchu-shi, Tokyo 183-0014, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-fuchu-koremasa-tama-river-oomaru.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4800508,35.6520629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川秋川合流点ライブカメラ / Tama River Akigawa Confluence Live Camera</name>
+        <description><![CDATA[〒196-0002 東京都昭島市拝島町５丁目 「京浜河川事務所」/ 5-chome, Haijima-cho, Akishima-shi, Tokyo 196-0002, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-akishima-haijima-tama-aki-river-confluence.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3361306,35.70585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川石原水位観測所ライブカメラ / Tama River Ishihara Water Level Observatory Live Camera </name>
+        <description><![CDATA[〒182-0025 東京都調布市多摩川 石原水位観測所「京浜河川事務所」/ Ishihara Water Level Observatory, Tamagawa, Chofu City, Tokyo 182-0025, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-chofu-tamagawa-ishihara-water-level-observatory.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5318179,35.6456034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川京王相模原線下流ライブカメラ / Tama River Keio Sagamihara Line Downstream Live Camera</name>
+        <description><![CDATA[〒182-0025 東京都調布市多摩川７丁目「京浜河川事務所」/ 7-chome, Tamagawa, Chofu-shi, Tokyo 182-0025, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-chofu-tamagawa-keiosagami-line-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5388189,35.6421293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川入間川映像監視局ライブカメラ / Iruma River Iruma River Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒182-0003 東京都調布市若葉町３丁目「東京都水防チャンネル」/ 3-chome, Wakabamachi, Chofu-shi, Tokyo 182-0003 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-chofu-wakaba-iruma-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5833902,35.6543886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちのや駐車場ライブカメラ / Ichinoya parking lot live camera</name>
+        <description><![CDATA[〒194-0022 東京都町田市森野１丁目２１−１４ いちのや駐車場  / Ichinoya Parking Lot, 1-21-14 Morino, Machida-shi, Tokyo 194-0022<br>https://livecamera.fujiyamasan.com/tokyo-machida-morino-ichinoya-parking.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4435652,35.5450243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川鶴間映像監視局ライブカメラ / Sakaigawa Tsuruma Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒194-0004 東京都町田市鶴間１丁目「東京都水防チャンネル」/ 1-chome, Tsuruma, Machida-shi, Tokyo 194-0004 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-tsuruma-sakai-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4643104,35.5128485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川境橋映像監視局ライブカメラ / Sakaigawa Sakaibashi Video Surveillance Station Live Camera </name>
+        <description><![CDATA[〒194-0013 東京都町田市原町田１丁目２９ 境橋水位観測所 「東京都水防チャンネル」/ Sakaibashi Water Level Observatory, 1-29 Haramachida, Machida-shi, Tokyo 194-0013,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-haramachida-sakai-river-sakai-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4483481,35.5369281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川根岸橋映像監視局ライブカメラ / Sakaigawa Negishi Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒194-0034 東京都町田市根岸町 根岸橋水位観測所「東京都水防チャンネル」/ Negishi Bridge Water Level Observatory, Negishimachi, Machida City, Tokyo 194-0034, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-negishi-negishi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4078486,35.577671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真光寺川矢崎橋映像監視局ライブカメラ / Shinkoji River Yazakibashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒195-0053 東京都町田市能ヶ谷４丁目 矢崎橋水位観測所 「東京都水防チャンネル」/ Yasakibashi Water Level Observatory, 4-chome Nogaya, Machida-shi, Tokyo 195-0053<br>"Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-nogaya-shinkoji-river-yazaki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4853781,35.5861511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴見川下川戸橋映像監視局ライブカメラ / Tsurumi River Shimokawatobashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒195-0062 東京都町田市大蔵町 下川戸橋水位観測所 「東京都水防チャンネル」/ Shimokawatobashi Water Level Observatory, Okuramachi, Machida-shi, Tokyo 195-0062 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-okura-tsurumi-river-shimokawato-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4656682,35.5867723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恩田川高瀬橋映像監視局ライブカメラ / Onda River Takasebashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒194-0044 東京都町田市成瀬 高瀬橋水位観測所 「東京都水防チャンネル」/ Takasebashi Water Level Observatory, Naruse, Machida-shi, Tokyo 194-0044, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-machida-nishinaruse-onda-river-takase-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4758402,35.5427467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川山根橋ライブカメラ / Sakaigawa Yamanebashi Live Camera</name>
+        <description><![CDATA[東京都町田市根岸町「河川情報センター」/ Negishimachi, Machida-shi, Tokyo "River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-machida-negishi-sakai-river-yamane-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4081645,35.5757343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川幸延寺橋付近ライブカメラ / Live camera near Sakaigawa Koenji Bridge </name>
+        <description><![CDATA[〒194-0022 東京都町田市南区森野２丁目１−８７ 幸延寺橋 「神奈川県雨量水位情報」/ Koenji Bridge, 2-1-87 Morino, Minami-ku, Machida-shi, Tokyo 194-0022  "Kanagawa Precipitation Water Level Information"<br>https://livecamera.fujiyamasan.com/tokyo-machida-minami-morino-sakai-river-koenji-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4390272,35.5443606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境川高橋ライブカメラ / Sakaigawa Takahashi Live Camera</name>
+        <description><![CDATA[〒194-0212 東京都町田市小山町 「横浜市水防災情報」/  Oyamamachi, Machida-shi, Tokyo 194-0212, "Yokohama City Water Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/tokyo-machida-oyama-sakai-river-takahashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3876743,35.5887616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小金井市議会ライブカメラ / Koganei City Council Live Camera</name>
+        <description><![CDATA[〒184-8504 東京都小金井市本町６丁目６−３ 小金井市役所 / Koganei City Hall, 6-6-3 Honcho, Koganei City, Tokyo 184-8504<br>https://livecamera.fujiyamasan.com/tokyo-koganei-honcho-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.502989,35.699479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川栄町排水樋管ライブカメラ / Tamagawa Sakaemachi drainage gutter pipe live camera</name>
+        <description><![CDATA[〒191-0001 東京都日野市栄町２丁目 「京浜河川事務所」/ 2-chome, Sakaemachi, Hino-shi, Tokyo 191-0001, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hino-sakae-tama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3926091,35.6847986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>程久保川程久保橋映像監視局ライブカメラ / Hodokubo River Hodokubo Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒191-0032 東京都日野市三沢３丁目 程久保橋水位観測所 「東京都水防チャンネル」/ Hodokubobashi Water Level Observatory,  3-chome Misawa, Hino-shi, Tokyo 191-0032,  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-hino-misawa-hodokubo-river-hodokubo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4136868,35.6581831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川高幡橋水位観測所ライブカメラ / Asakawa Takahatabashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[東京都日野市高幡 高幡橋水位観測所「京浜河川事務所」/ Takahata Bridge Water Level Observatory, Takahata, Hino City, Tokyo, <br>"Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hino-takahata-asakawa-takahata-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4098032,35.6641984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川平山橋上流ライブカメラ / Asakawa Hirayamabashi upstream live camera</name>
+        <description><![CDATA[東京都日野市平山５丁目「京浜河川事務所」/ 5-chome, Hirayama, Hino-shi, Tokyo<br>"Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hino-hirayama-asakawa-hirayama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3808641,35.6493284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川高幡橋上流ライブカメラ / Asakawa Takahata Bridge upstream live camera</name>
+        <description><![CDATA[東京都日野市上田「京浜河川事務所」/ Kamida, Hino City, Tokyo, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hino-takahata-asakawa-takahata-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.404336,35.6660589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川1.6KP左岸ライブカメラ / Asakawa 1.6KP left bank live camera</name>
+        <description><![CDATA[東京都日野市新井「河川情報センター」/ Arai, Hino-shi, Tokyo "River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-hino-arai-asakawa-1-6kp-left-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4148577,35.6678008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅川5.9KP右岸ライブカメラ / Asakawa 5.9KP right bank live camera</name>
+        <description><![CDATA[東京都日野市東平山「河川情報センター」/ Higashihirayama, Hino-shi, Tokyo "River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-hino-higashihirayama-asakawa-5-9kp-right-bank.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3786592,35.6468976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>空堀川丸山橋ライブカメラ / Karabori River Maruyama Bridge Live Camera</name>
+        <description><![CDATA[東京都東村山市栄町1丁目 丸山橋「東京都水防チャンネル」/ Maruyama Bridge, 1-chome, Sakae-cho, Higashimurayama-shi, Tokyo  "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-higashimurayama-sakae-karabori-river-maruyama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4776392,35.7553113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>空堀川青葉町ライブカメラ / Karabori River Aobacho Live Camera</name>
+        <description><![CDATA[〒189-0002 東京都東村山市青葉町 「東京都水防チャンネル」/ Aoba-cho, Higashimurayama-shi, Tokyo 189-0002 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-higashimurayama-aoba-karabori-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4949175,35.7669063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京ビックサイト東京オリンピック　2020関係者送迎バスライブカメラ / Tokyo Big Sight Tokyo Olympics 2020 official shuttle bus live camera</name>
+        <description><![CDATA[〒135-0063 東京都江東区有明３丁目１１−１ 東京ビッグサイト「湾岸Go」/ Tokyo Big Sight, 3-11-1, Ariake, Koto-ku, Tokyo 135-0063,  "Gulf Go"<br>https://livecamera.fujiyamasan.com/tokyo-koto-ariake-olympic-shuttle-bus.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7974644,35.6321416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンケイハウジング国立富士見通り店ライブカメラ / Sankei Housing Kunitachi Fujimi-dori Store Live Camera</name>
+        <description><![CDATA[〒186-0004 東京都国立市中１丁目１０−２５　（株）サンケイハウジング 国立富士見通り店 / Sankei Housing Co., Ltd. Kunitachi Fujimi-dori,   1-10-25 Naka, Kunitachi-shi, Tokyo 186-0004 <br>https://livecamera.fujiyamasan.com/tokyo-kunitachi-naka-sankei-housing.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4438974,35.6973632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川中央自動車道上流ライブカメラ / Tama River Chuo Expressway upstream live camera</name>
+        <description><![CDATA[東京都国立市谷保「京浜河川事務所」/ Yaho, Kunitachi, Tokyo "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-kunitachi-yaho-tama-river-chuo-expressway-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4235075,35.6795004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川睦橋上流ライブカメラ / Tama River Mutsubashi upstream live camera</name>
+        <description><![CDATA[東京都福生市南田園 「京浜河川事務所」/ Minamidenen, Fussa-shi, Tokyo "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-fussa-minamidenen-tama-river-mutsumi-bridge-upstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3297951,35.7201773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川小田急線橋梁上流ライブカメラ / Tama River Odakyu Line Bridge Upstream Live Camera</name>
+        <description><![CDATA[東京都狛江市東和泉「京浜河川事務所」/ Higashiizumi, Komae-shi, Tokyo "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-komae-higashiizumi-tama-river-odakyusen-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5715302,35.6256673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野川野川映像監視局ライブカメラ / Nogawa Nogawa Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒201-0002 東京都狛江市東野川3丁目 野川水位観測所 「東京都水防チャンネル」/ Nogawa Water Level Observatory, 3-chome, Higashinogawa, Komae-shi, Tokyo 201-0002 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-komae-higashinogawa-nogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5839889,35.6469641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良橋川宮前二の橋映像監視局ライブカメラ / Narahashi River Miyamae Nibashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒207-0005 東京都東大和市高木３丁目 宮前二の橋 「東京都水防チャンネル」/ Miyamae Nibashi, 3-chome Takagi, Higashiyamato-shi, Tokyo 207-0005 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-higashiyamato-takagi-narahasi-river-miyamaeninohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.434222,35.7504182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳瀬川金山橋映像監視局ライブカメラ / Yanasegawa Kinzanbashi Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒204-0003 東京都清瀬市中里６丁目 金山橋 「東京都水防チャンネル」/ Kanayama Bridge, 6-chome, Nakazato, Kiyose-shi, Tokyo 204-0003, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-kiyose-nakazato-yanase-river-kanayama-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5234884,35.7883308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清瀬市野菜直売所ライブカメラ / Kiyose City Vegetable Direct Sales Office Live Camera</name>
+        <description><![CDATA[〒204-0002 東京都清瀬市旭が丘 「kishi831」/ Asahigaoka, Kiyose City, Tokyo 204-0002 "kishi831"<br>https://livecamera.fujiyamasan.com/tokyo-kiyose-asahigaoka-vegetable-shop.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5394554,35.7952332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川京王線橋梁上流ライブカメラ / Tamagawa Keio Line Bridge upstream live camera </name>
+        <description><![CDATA[東京都多摩市関戸1丁目 「京浜河川事務所」/ 1-chome, Sekido, Tama-shi, Tokyo "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-tama-sekido-tama-river-keiosen-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4475088,35.6533695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川関戸橋下流ライブカメラ / Tama River Sekido Bridge downstream live camera</name>
+        <description><![CDATA[東京都多摩市関戸 関戸橋  「京浜河川事務所」/ Sekido Bridge, Sekido, Tama City, Tokyo<br> "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-tama-sekido-tama-river-sekido-bridge-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4530493,35.6523375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大栗川報恩橋水位観測所ライブカメラ / Okurigawa Hoonbashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[東京都多摩市関戸 報恩橋 「京浜河川事務所」/ Hoonbashi, Sekido, Tama City, Tokyo<br>"Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-tama-sekido-okuri-river-hoonbashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4578979,35.6485065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大栗川霞ケ関橋映像監視局ライブカメラ / Okurigawa Kasumigaseki Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒206-0011 東京都多摩市関戸 霞ケ関橋 「東京都水防チャンネル」/ Kasumigaseki Bridge,  Sekido, Tama City, Tokyo 206-0011, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-tama-higashiteragata-okuri-river-kasumigaseki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4465874,35.6475651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大栗川1.0KP右岸ライブカメラ / Okuri River 1.0KP Right Bank Live Camera</name>
+        <description><![CDATA[〒206-0021 東京都多摩市連光寺1丁目 多摩ニュータウン 「河川情報センター」/ Tama New Town, 1-chome, Renkoji, Tama-shi, Tokyo 206-0021,  "River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4549882,35.6472783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩市議会ライブカメラ / Tama City Council Live Camera</name>
+        <description><![CDATA[〒206-8666 東京都多摩市関戸６丁目１２−１ 多摩市役所 / Tama City Hall, 6-12-1 Sekido, Tama City, Tokyo 206-8666 <br>https://livecamera.fujiyamasan.com/tokyo-tama-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4463099,35.6370055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三沢川砂場の橋映像監視局ライブカメラ / Misawa River Sandbox Bridge Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒206-0804 東京都稲城市百村 「東京都水防チャンネル」/ Momura, Inagi City, Tokyo 206-0804, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-inagi-momura-misawa-river-sunabanobashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4961895,35.6334921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川羽村大橋下流ライブカメラ / Tama River Hamura Ohashi downstream live camera</name>
+        <description><![CDATA[〒205-0024 東京都羽村市玉川２丁目 「京浜河川事務所」/ 2-chome Tamagawa, Hamura-shi, Tokyo 205-0024, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hamura-tamagawa-tama-river-hamuraohashi-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3142521,35.7503487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川那賀樋管ライブカメラ / Tama River Naga Gutter Live Camera</name>
+        <description><![CDATA[〒205-0015 東京都羽村市羽中４丁目 「京浜河川事務所」/ 4-chome, Hanenaka, Hamura-shi, Tokyo 205-0015, "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hamura-hanenaka-tama-river-naga-gutter.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3069689,35.7571529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川草花排水樋管上流ライブカメラ / Tama River flower drainage gutter pipe upstream live camera</name>
+        <description><![CDATA[東京都羽村市羽「京浜河川事務所」/ Hane, Hamura City, Tokyo "Keihin River Office"<br>https://livecamera.fujiyamasan.com/tokyo-hamura-hane-tama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3027293,35.7556425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都道33号上野原あきる野線十里木ライブカメラ / Tokyo Metropolitan Road No. 33 Uenohara Akiruno Line Jurigi Live Camera</name>
+        <description><![CDATA[東京都あきる野市戸倉「西多摩建設事務所」/ Tokura, Akiruno-shi, Tokyo "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-akiruno-tokura-r33.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1933141,35.729082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋川秋留橋ライブカメラ / Akikawa Akirubashi Live Camera</name>
+        <description><![CDATA[〒197-0826 東京都あきる野市牛沼 秋留橋 「東京都水防チャンネル」/ Akirubashi, Ushinuma, Akiruno City, Tokyo 197-0826, "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-akiruno-ushinuma-akikawa-akiru-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2835778,35.714886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋川山田ライブカメラ / Akikawa Yamada Live Camera</name>
+        <description><![CDATA[東京都あきる野市山田「東京都水防チャンネル」/ Yamada, Akiruno-shi, Tokyo "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-akiruno-yamada-akikawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2577957,35.7239347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多摩川50.2KP右岸ライブカメラ / Tama River 50.2KP Right Bank Live Camera</name>
+        <description><![CDATA[東京都あきる野市平沢 「河川情報センター」/ Hirasawa, Akiruno-shi, Tokyo "River Information Center"<br>https://livecamera.fujiyamasan.com/tokyo-akiruno-hirasawa-tama-river-50k2.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.323331,35.7278582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川向台映像監視局ライブカメラ / Shakujii Mukodai video monitoring station live camera</name>
+        <description><![CDATA[〒188-0013 東京都西東京市向台町５丁目 「東京都水防チャンネル」/ 5-chome, Mukodai-cho, Nishitokyo-shi, Tokyo 188-0013 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nishitokyo-mukodai-shakujii-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5286002,35.7219603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神井川芝久保映像監視局ライブカメラ / Shakujii River Shibakubo Video Surveillance Station Live Camera</name>
+        <description><![CDATA[〒188-0014 東京都西東京市芝久保町１丁目１８  「東京都水防チャンネル」/ 1-18 Shibakubocho, Nishitokyo City, Tokyo 188-0014 "Tokyo Flood Control Channel"<br>https://livecamera.fujiyamasan.com/tokyo-nishitokyo-shibakubo-shakujii-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5243405,35.7231776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都道33号上野原あきる野線山梨県境付近ライブカメラ / Tokyo Metropolitan Road No. 33 Uenohara Akiruno Line Yamanashi Prefectural Border Live Camera</name>
+        <description><![CDATA[東京都檜原村 「西多摩建設事務所」/ Hinohara Village, Tokyo "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-hinohara-r33-yamanashi-prefectural-border.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0990356,35.6974635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京都道33号上野原あきる野線滑石橋ライブカメラ / Tokyo Metropolitan Road No. 33 Uenohara Akiruno Line Nameishi Bridge live camera</name>
+        <description><![CDATA[東京都檜原村「西多摩建設事務所」/ Hinohara Village, Tokyo "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-hinohara-r33-nameishi-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1169598,35.7046803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道139号山梨県境付近ライブカメラ / National highway No. 139 Yamanashi prefectural border live camera</name>
+        <description><![CDATA[東京都奥多摩町川野「西多摩建設事務所」/ Kawano, Okutama-cho, Tokyo "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-okutama-kawano-r139.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9905531,35.7614298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道411号山梨県境付近ライブカメラ / National highway No. 411 Yamanashi prefectural border live camera</name>
+        <description><![CDATA[東京都奥多摩町留浦「西多摩建設事務所」/ Tozura, Okutama-cho, Tokyo "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-okutama-tozura-r411.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            138.9874654,35.7806862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道411号大麦代トンネル山梨側ライブカメラ / National highway No. 411 Omugishiro tunnel Yamanashi side live camera</name>
+        <description><![CDATA[東京都奥多摩町原「西多摩建設事務所」/ Hara, Okutama-cho, Tokyo, "Nishitama Construction Office"<br>https://livecamera.fujiyamasan.com/tokyo-okutama-hara-r411-omugishiro-tunnel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.0424169,35.7896565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊豆大島北西外輪ライブカメラ / Izu Oshima Northwest Paddle Steamer Live Camera</name>
+        <description><![CDATA[〒100-0101 東京都大島町元町 「気象庁」/ Motomachi, Oshima-cho, Tokyo 100-0101<br>"Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-oshima-motomachi-izuoshima-miharayama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3703919,34.7578731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊豆大島中央火孔北ライブカメラ / Izu Oshima Central Fire Hole North Live Camera</name>
+        <description><![CDATA[〒100-0104 東京都大島町野増 三原山 「気象庁」/  Nomasu Miharayama, Oshima-cho, Tokyo 100-0104, "Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-oshima-nomashi-izuoshima-central-fire-north.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3922369,34.7310356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新島式根ライブカメラ / Niijima Shikine Live Camera</name>
+        <description><![CDATA[〒100-0511 東京都新島村 式根島「気象庁」/ Shikinejima,  Niijima Village, Tokyo 100-0511<br>"Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-niijima-sikine.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2106794,34.3257648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽伏浦海水浴場ライブカメラ / Habushiura beach live camera</name>
+        <description><![CDATA[〒100-0402 東京都新島村本村 羽伏浦海岸 「新島村役場」/ Habushiura Coast, Honson, Niijima-mura, Tokyo 100-0402, "Niijima Village Hall"<br>https://livecamera.fujiyamasan.com/tokyo-niijima-motomura-habushiura-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.2758643,34.3764131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神津島前浜南東ライブカメラ / Kozushima Maehama Southeast Live Camera</name>
+        <description><![CDATA[〒100-0601 東京都神津島村「気象庁」/ Kozushima Village, Tokyo 100-0601<br>"Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-kozushima-maehama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.1344994,34.2055236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖倉商店三宅島ライブカメラ / Okikura Shoten Miyakejima Live Camera</name>
+        <description><![CDATA[〒100-1212 東京都三宅島三宅村阿古６９１番地１ CAFE691 （有）沖倉商店 / CAFE691 Okikura Shoten, 691-1 Ako, Miyake-mura, Miyakejima, Tokyo 100-1212<br>https://livecamera.fujiyamasan.com/tokyo-miyakejima-miyakemura-ako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4821406,34.0668323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三宅島建設工業雄山・伊ヶ谷港ライブカメラ / Miyakejima Construction Industry Oyama and Igaya Port Live Camera</name>
+        <description><![CDATA[〒100-1103 東京都三宅島三宅村伊ヶ谷333 三宅島建設工業（株）/  Miyakejima Construction Industry Co., Ltd., 333 Igaya, Miyake-mura, Miyakejima, Tokyo 100-1103<br>https://livecamera.fujiyamasan.com/tokyo-miyakemura-igaya-oyama.html<br>https://livecamera.fujiyamasan.com/tokyo-miyake-igaya-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.4921751,34.1001737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三宅島坪田ライブカメラ / Miyakejima Tsubota Live Camera</name>
+        <description><![CDATA[〒100-1211 東京都三宅村坪田 「気象庁」/ Tsubota, Miyake-mura, Tokyo 100-1211 "Japan Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-miyakejima-miyake-tsubota.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5432745,34.0656171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三宅島神着ライブカメラ / Miyakejima Kamitsuki Live Camera</name>
+        <description><![CDATA[〒100-1101 東京都三宅村神着「気象庁」/ Kamitsuki, Miyake-mura, Tokyo 100-1101,<br>"Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-miyakejima-miyake-kamitsuki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.5330908,34.1175077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八丈島楊梅ヶ原ライブカメラ / Hachijojima Youbaigahara Live Camera</name>
+        <description><![CDATA[〒100-1401 東京都八丈町大賀郷楊梅ヶ原 「気象庁」/ Youbaigahara, Okago, Hachijo-cho, Tokyo 100-1401, "Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-hachijo-okago-youbaigahara.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7677638,33.1221773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青ヶ島手取山ライブカメラ / Aogashima Tedorisan Live Camera</name>
+        <description><![CDATA[〒100-1701 東京都青ヶ島村 「気象庁」/  Aogashima Village, Tokyo 100-1701, "Japan Meteorological Agency"<br>https://livecamera.fujiyamasan.com/tokyo-aogashima-tedoriyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7636109,32.4665329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父島二見港ライブカメラ / Chichijima Futami Port Live Camera</name>
+        <description><![CDATA[〒100-2101 東京都小笠原村父島大根山 小笠原村情報センター 「小笠原村役場」/ Ogasawara Village Information Center, Chichijima Oneyama, Ogasawara-mura, Tokyo 100-2101,<br> "Ogasawara Village Office"<br>https://livecamera.fujiyamasan.com/tokyo-ogasawara-chichijima-futami-port.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.189271,27.0915169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父島小港海岸ライブカメラ / Chichijima Kominato Beach Live Camera</name>
+        <description><![CDATA[〒100-2101 東京都小笠原村父島北袋沢 小港海岸 「小笠原村役場」/ Kominato Beach,  Chichijima Kitafukurozawa, Ogasawara-mura, Tokyo 100-2101,  "Ogasawara Village Office"<br>https://livecamera.fujiyamasan.com/tokyo-ogasawara-chichijima-kominato-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.19513,27.0603207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父島振分山ライブカメラ / Chichijima Furiwakeyama Live Camera</name>
+        <description><![CDATA[〒100-2101 東京都小笠原村父島洲崎 振分山　「小笠原村役場」/ Furiwakeyama, Susaki, Ogasawara-mura, Tokyo 100-2101,<br> "Ogasawara Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.196616,27.0725555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>父島宮之浜海岸ライブカメラ / Chichijima Miyanohama coast live camera</name>
+        <description><![CDATA[〒100-2101 東京都小笠原村父島宮之浜 宮之浜園地 「小笠原村役場」/ Miyanohama Garden, Miyanohama, Chichijima, Ogasawara-mura, Tokyo 100-2101,  "Ogasawara Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.194414,27.103526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>母島沖港ライブカメラ / Hahajima Oki Port Live Camera</name>
+        <description><![CDATA[〒100-2211 東京都小笠原村母島元地「小笠原村役場」/ Motochi, Hahajima, Ogasawara-mura, Tokyo 100-2211, "Ogasawara Village Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.1600454,26.640885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>母島中ノ平無線中継所ライブカメラ / Hahajima Nakanotaira Radio Relay Station Live Camera</name>
+        <description><![CDATA[〒100-2211 東京都小笠原村母島中ノ平 「小笠原村役場」/ Nakanotaira, Hahajima, Ogasawara Village, Tokyo 100-2211 "Ogasawara Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            142.1739775,26.6308021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

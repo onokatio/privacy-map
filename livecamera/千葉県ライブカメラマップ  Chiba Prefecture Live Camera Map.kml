@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>千葉県ライブカメラマップ / Chiba Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>千葉県内ライブカメラ</name>
+      <Placemark>
+        <name>水郷佐原あやめパーク園内ライブカメラ / Suigosawara Ayame Park Live Camera</name>
+        <description><![CDATA[〒287-0801 千葉県香取市扇島１８３７−２ / 1837-2 Ougishima, Katori-shi, Chiba-ken 287-0801<br>https://livecamera.fujiyamasan.com/katori-ayame-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.524278,35.928016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川下流河川ライブ映像 / the live camera view of the downstream of Tonegawa River</name>
+        <description>〒287-8510　千葉県香取市佐原イ4149 国土交通省　関東地方整備局　利根川下流河川事務所 / Tonegawa River Downstream Office, Kanto Regional Development Bureau, Ministry of Land, Infrastructure and Transport, 4149 I, Sahara, Katori-shi, Chiba 287-8510</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5032693,35.8980165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多古町・国道296号ライブカメラ / Tako Town and National Highway Route 296 Live Camera</name>
+        <description><![CDATA[〒289-2241 千葉県香取郡多古町多古1069−1 道の駅多古あじさい館 / Michinoeki Tako Ajisaikan, 1069-1 Tako, Tako-cho, Katori-gun, Chiba 289-2241<br>https://livecamera.fujiyamasan.com/chiba-michinoeki-tako.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4752205,35.7314861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>干潟八万石の水田 / Paddy Fields of Higata Hachimangoku</name>
+        <description>〒289-0512 千葉県旭市南堀之内１０ 旭市役所干潟支所 / Asahi City Hall Higata Branch, 10 Minamihorinouchi, Asahi-shi, Chiba 289-0512</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.61867,35.766381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海上コミュニティ運動公園 / Kaijo Community Sport Park</name>
+        <description>〒289-2604 千葉県旭市高生１ 旭市役所海上支所 / Asahi City Hall Kaijo Branch, 1 Takaoi, Asahi-shi, Chiba 289-2604</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6919689,35.7332841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>刑部岬から九十九里海岸 / Kujukuri Coast from Gyobumisaki</name>
+        <description>〒289-2704 千葉県旭市上永井1309−1 刑部岬展望館 「旭市役所」 / Gyobumisaki Observatory Hall, 1309-1 Kaminagai, Asahi-shi, Chiba 289-2704</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7393478,35.6934127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬吠崎灯台ライブカメラ / Inubosaki Lighthouse Live Camera</name>
+        <description>〒288-0012 千葉県銚子市犬吠埼１０２９３ ぎょうけい館 / Gyokeikan, 10293 Inubosaki, Choshi-shi, Chiba 288-0012</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8630269,35.7037466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬吠崎灯台からの映像 / Video from Inubosaki Lighthouse</name>
+        <description><![CDATA[〒288-0012 千葉県銚子市犬吠埼９５７６ 犬吠崎灯台 「銚子海上保安部」 / Inubosaki Lighthouse, 9576 Inubosaki, Choshi-shi, Chiba 288-012, "Choshi Coast Guard"<br>https://livecamera.fujiyamasan.com/chiba-choshi-inubosaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8684403,35.7079284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゴルフ場・九十九里海岸 / Golf Course and Kujukuri Coast</name>
+        <description><![CDATA[〒289-2523　旭市中谷里8340番地 あさひ健康福祉センター 「旭日市役所」 / Asahi Health and Welfare Center, 8340 Nakayari, Asahi-shi, Chiba 289-2523<br>https://livecamera.fujiyamasan.com/asaahi-kujukuri-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6452403,35.6852541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九十九里浜ライブカメラ</name>
+        <description><![CDATA[千葉県匝瑳市野手１７１４７−１０<br>国民宿舎のさか望洋荘]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.593243,35.653251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドッグランフィールド / Dog Run Field</name>
+        <description><![CDATA[〒289-1305 千葉県山武市本須賀３８３４−３８ エルエー・ドッグスポーツフィールド / LADF, 3834-38 Motosuka, Sanmu-shi, Chiba 289-1305<br>https://livecamera.fujiyamasan.com/chiba-sanmu-motosuka-ladf.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4660091,35.5513973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九十九里町LIVEカメラ / Kujukuri Town LIVE Camera</name>
+        <description><![CDATA[〒283-0114 千葉県山武郡九十九里町真亀４９０８ 国民宿舎サンライズ九十九里 / Kokuminshukusha Sunrise Kujukuri, 4908 Magame, Kujukuri-machi, Sanbu-gun, Chiba 283-0114<br>https://livecamera.fujiyamasan.com/chiba-kujukuri-magame-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4299713,35.500736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九十九里浜ライブカメラ</name>
+        <description><![CDATA[千葉県長生郡白子町古所３２９１−３<br>国民宿舎白子荘]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.402398,35.447491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふくろう巣箱カメラ / Owl nest box camera in Abiko City Museum of Birds </name>
+        <description><![CDATA[〒270-1145 千葉県我孫子市高野山２３４−３ 我孫子市鳥の博物館 / Abiko City Museum of Birds, 234-3 Konoyama, Abiko-shi, Chiba 270-1145<br>https://livecamera.fujiyamasan.com/chiba-abiko-city-museum-of-birds.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.030751,35.861353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号線ライブカメラ / National Highway Route 16 Live Camera</name>
+        <description>〒277-0841 千葉県柏市柏5丁目10番1号 柏市役所 / Kashiwa City Hall, 5-10-1 Kashiwa, Kashiwa-shi, Chiba 277-0841</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9758094,35.8678128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)藤井製作所 千葉工場 / Fujii Manufacturing Co., Ltd. Chiba Plant</name>
+        <description>〒270-1406 千葉県白井市中157−8 (株)藤井製作所 千葉工場 / Fujii Manufacturing Co., Ltd. Chiba Plant, 157-8 Naka, Shirai-shi, Chiba-ken 270-1406</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0504517,35.8200634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>教習所コースカメラ / Driving Course Camera</name>
+        <description><![CDATA[〒272-0013 千葉県市川市高谷１９７４−１１ 市川中央自動車教習所 / Ichikawa Chuo Driving School, 1974-11 Koya, Ichikawa-shi, Chiba 272-0013<br>https://livecamera.fujiyamasan.com/chiba-ichikawa-ichikawachuo-driving-school.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9431181,35.6899145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷津干潟ライブカメラ / Yatsu Higata (Tideland) Live Camera</name>
+        <description><![CDATA[〒275-0025 千葉県習志野市秋津５丁目１−１ 谷津干潟自然観察センター / Yatsu Higata Nature Observation Center, 5-1-1 Akitsu, Narashino-shi, -Chiba <br>https://livecamera.fujiyamasan.com/chiba-narashino-yatsuhigata.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0055437,35.6753518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美浜ライブカメラ</name>
+        <description><![CDATA[ワールドビジネスガーデン<br>ちばみはまオンライン]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.035965,35.648578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CSTライブカメラ / CST Live Camera</name>
+        <description>〒274-0063 千葉県船橋市習志野台７−２４−１日本大理工学部船橋キャンパス / Funabashi Campus of College of Science and Techonology, Nihon University, 7-24-1 Narashinodai, Funabashi-shi, Chiba 274-0063</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0575733,35.7257851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京情報大学ライブカメラ / Tokyo University of Information Science Live Camera</name>
+        <description>〒265-8501 千葉県千葉市若葉区御成台４丁目４−１　東京情報大学 / Tokyo University of Information Science, 4-4-1 Onaridai, Wakaba-ku, Chiba-shi, Chiba-ken 265-8501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2031316,35.637621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲毛ヨットハーバーライブカメラ / Inage Yacht Harbor Live Camera</name>
+        <description>〒261-0012 千葉県千葉市美浜区磯辺２丁目８−１ 千葉市スポーツ振興財団稲毛ヨットハーバー / Inage Yacht Harbor, 2-8-1 Isobe, Mihama-ku, Chiba-shi, Chiba-ken 261-0012</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.055955,35.624029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千葉大学自然科学総合研究棟屋上展望カメラ / Chiba University natural science research building rooftop observation camera</name>
+        <description><![CDATA[〒263-8522 千葉県千葉市稲毛区弥生町１−３３ 千葉大学 自然科学系総合研究棟2 / natural science research building of Chiba University, 1-33 Yayoi-cho, Inage-ku, Chiba-shi, Chiba-ken 263-8522<br>https://livecamera.fujiyamasan.com/chiba-unibersity.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1042512,35.6270166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千葉駅ライブカメラ / Chiba Station Live Camera</name>
+        <description>〒260-0045 千葉県千葉市中央区弁天１丁目１−１ カットロゼ / Cut Roze, 1-1-1 Benten, Chuo-ku, Chiba-shi, Chiba 260-0045</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1142695,35.6135622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野島崎灯台からの映像 / Video from Nojimazaki Lighthouse</name>
+        <description>〒260-0024 千葉県千葉市中央区中央港１丁目１２−２ 千葉海上保安部管理課 / Chiba Coast Guard Administration Division, 1-12-2 Chuoko, Chuo-ku, Chiba-shi, Chiba</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.104201,35.602794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市原マリンホテル屋上からの風景 / the landscape from the rooftop of Ichihara Marine Hotel</name>
+        <description><![CDATA[〒290-0081 千葉県市原市五井中央西２丁目２２−８ 市原マリンホテル / Ichihara Marine Hotel, 2-22-8 Gochuonishi, Ichihara-shi, Chiba 290-0081<br>https://livecamera.fujiyamasan.com/chiba-ichihara-marine-hotel.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.086048,35.516718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウーロン菜館お店入口ライブカメラ / Wulong Saikan Entrance Live Camera</name>
+        <description>〒266-0003 千葉県千葉市緑区高田町４０１−１３１　ウーロン菜館 / Chinese Restaurant Wulong Saikan, 402-131 Takada-cho, Midori-ku, Chiba-shi, Chiba-ken 266-0003</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2125199,35.5515206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オリジナルメーカー海づり公園ライブカメラ / Shinsen-ichiba Maruei Umiduri-Kouen Live Camera</name>
+        <description><![CDATA[〒290-0045 千葉県市原市五井南海岸１−１２ オリジナルメーカー海づり公園 / Umiduri-Kouen, 1-12 Goiminamikaigan, Ichihara-shi, Chiba-ken 290-0045<br>https://livecamera.fujiyamasan.com/chiba-ichihara-originalmaker-umizuri-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0603667,35.5423068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KRSライブ放送 / K.R.S Live Camera</name>
+        <description><![CDATA[〒290-0215 千葉県市原市土宇1100−51　ケイチューンレーシングスピードウェイ / KeiTune Racing Speed-way, 1100-51 Tsuchiu, Ichihara-shi, Chiba-ken 290-0215<br>https://livecamera.fujiyamasan.com/chiba-ichihara-keitune-racing-speedway.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1342899,35.4306581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>袖ケ浦公園ライブカメラ / Sodegaura Park Live Camera</name>
+        <description><![CDATA[〒299-0256 千葉県袖ケ浦市飯富2360　袖ケ浦公園 / Sodegaura Park, 2360 Iitomi, Sodegaura-shi, Chiba-ken 299-0256<br>https://livecamera.fujiyamasan.com/chiba-sodegaura-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9894905,35.4195697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志田下ライブ</name>
+        <description>〒299-4303 千葉県長生郡一宮町東浪見　釣ヶ崎海岸</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3946395,35.335899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いすみ鉄道国吉駅ライブカメラ / Isumi Railway Kuniyoshi Station Live Camera</name>
+        <description><![CDATA[〒298-0123 千葉県いすみ市　国吉駅　「ローカル鉄道ドットコム」/ Kuniyoshi Station, Isumi-shi, Chiba-ken 298-0123, "Local Railway.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.313736,35.280493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いすみ鉄道大原駅ライブカメラ / Isumi Railway Ohara Station Live Camera</name>
+        <description><![CDATA[〒298-0004 千葉県いすみ市　いすみ鉄道大原駅　「ローカル鉄道ドットコム」/ Isumi Railway Ohara Station, Isumi-shi, Chiba-ken 298-0004, "Local Railway.com"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3908495,35.2509417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御宿・月の沙漠記念像周辺ライブカメラ / Onjuku and Tsukinosabaku Memorial Image Live Cameras</name>
+        <description>〒299-5106 千葉県夷隅郡御宿町須賀１９５ 御宿町観光協会 / Onjuku Town Tourist Association, 195 Suka, Onjuku-machi, Isumi-gun, Chiba-ken 299-5106</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3523015,35.1881899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンチャイルド千葉波情報ライブカメラ / Sun Child Chiba Wave Information Live Camera</name>
+        <description><![CDATA[〒299-5107 千葉県夷隅郡御宿町浜2163−93　サンチャイルド千葉 / Sun Child Chiba, 2163-93 Hama, Onjuku-cho, Isumi-gun, Chiba 299-5107<br>https://livecamera.fujiyamasan.com/chiba-onjuku-hama-sunchild-chiba.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3511241,35.1823015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンセットタウン部原正面ライブカメラ / Sunset Hebara Live Camera</name>
+        <description><![CDATA[〒299-5223 千葉県勝浦市部原１９２８−２５　サンセットタウン / Sunset Town, 1928-25 Hebara, Katsuura-shi, Chiba-ken 299-5223<br>https://livecamera.fujiyamasan.com/chiba-katsuura-hebara-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.336664,35.168678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川市内のライブカメラ / Kamogawa City Live Camera</name>
+        <description>〒296-0001 千葉県鴨川市横渚１４５０ 鴨川市役所 / Kamogawa City Hall, 1450 Yokosuka, Kamogawa-shi, Chiba-ken 296-0001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0988498,35.1140198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千葉県内房津浜ライブカメラ / Chiba Utsubusa Tsuhama Live Camera</name>
+        <description>〒299-1622 千葉県富津市萩生１６０ ハーバー津浜 / Harbor Tsuhama, 160 Hagiu, Futtsu-shi, Chiba 299-1622</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8335658,35.2044663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浦賀水道を行き交う船舶と富士山が見えるライブカメラ / Uragasuido Live Camera</name>
+        <description><![CDATA[〒299-1622 千葉県富津市萩生１４６４−１９ 富士見ヶ丘 / Fujimigaoka, 1464-19 Hagiu, Futtsu-shi, Chiba-ken 299-1622<br>https://livecamera.fujiyamasan.com/chiba-futtsu-uragasuido.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8233021,35.1924955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川大山千枚田 / Kamogawa Oyama Senmaida</name>
+        <description>〒296-0232 千葉県鴨川市平塚５４０ 大山千枚田保存会 / Oyama Senmaida Hozonkai, 540 Hiratsuka, Kamogawa-shi, Chiba 296-0232</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9738565,35.1303267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[南房総ハイビジョンカメラ「千葉県酪農のさと」 / Minami Boso high-definition camera "Chiba Dairy Farm Village"]]></name>
+        <description>〒299-2507 千葉県南房総市大井６８６ 千葉県酪農のさと / The Village of Dairy Farming of Chiba Prefecture, 686 Oi, Minamiboso-shi, Chiba 299-2507</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9898855,35.1045763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渚の駅たてやまからのライブ映像 / Nagisa no Eki Tateyama Live Camera</name>
+        <description><![CDATA[〒294-0036 千葉県館山市館山１５６４−１　“渚の駅”たてやま ・渚の博物館 / 1564-1 Tateyama, Tateyama-shi, Chiba 294-0036 "Nagisanoekitate" Tateyama ・ Nagisanoekitate<br>https://livecamera.fujiyamasan.com/chiba-tateyama-nagisanoeki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8544433,34.9897126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>館山のライブ映像 / Tateyama Live Video</name>
+        <description><![CDATA[千葉県館山市 城山山頂 「館山市役所」 / the summit of Shiroyama, Tateyama-shi, Chiba, "Tateyama City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8561072,34.9810996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夢三崎の屋上から望む千倉海岸 / Chikura Coast from the rooftop of Yumemisaki</name>
+        <description><![CDATA[〒295-0004 千葉県南房総市千倉町瀬戸３１３７ 癒しめぐりの宿 夢みさき / Yumemisaki, 3137 Seto, Chikura-cho, Minamiboso-shi, Chiba 295-0004<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-chikura-yumemisaki.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9657188,34.9794348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローズマリー公園 はなまる市場</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.9756345,35.0083695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくらの山公園成田国際空港ライブカメラ / Sakuranoyama Park Narita International Airport Live Camera</name>
+        <description><![CDATA[〒286-0121 千葉県成田市駒井野１３３８−１　さくらの山公園「Charlie FURUSHO NRT Base」/ Sakuranoyama Park, 1338-1 Komaino, Narita City, Chiba Prefecture 286-0121, "Charlie FURUSHO NRT Base"<br>https://livecamera.fujiyamasan.com/chiba-sakuranoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3634742,35.7760682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>焼鳥丸十ライブカメラ / Yakitori Maruju Live Camera</name>
+        <description>〒260-0022 千葉県千葉市中央区神明町２−４ 焼鳥丸十 / Yakitori Maruju, 2-4 Shinmeicho, Chuo-ku, Chiba-shi, Chiba 260-0022</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.117921,35.604346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京情報大学千葉キャンパスライブカメラ / Tokyo University of Information Sciences Chiba Campus Live Camera</name>
+        <description><![CDATA[〒265-8501 千葉県千葉市若葉区御成台４丁目４−１ 東京情報大学 / Tokyo University of Information Sciences, 4-4-1 Onaridai, Wakaba-ku, Chiba-shi, Chiba 265-8501<br>https://livecamera.fujiyamasan.com/chiba-wakaba-tokyo-university-of-information-sciences.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2047442,35.6367963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR京葉線海浜幕張駅周辺ライブカメラ / JR Keiyo Line Kaihin Makuhari Station Live Camera</name>
+        <description><![CDATA[〒261-0023 千葉県千葉市美浜区中瀬２丁目６−１ マリブイースト UQLife / UQ Life, Malibu East, 2-6-1 Nakase, Mihama-ku, Chiba-shi, Chiba 261-0023 <br>https://livecamera.fujiyamasan.com/chiba-mihama-kaihinmakuhari-station.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0391641,35.6494255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BayFM78幕張ライブカメラ / BayFM78 Makuhari Live Camera</name>
+        <description><![CDATA[〒261-0023 千葉県千葉市美浜区中瀬２丁目２丁目６ ワールドビジネスガーデンマリブウエストタワー bayfm78 / bayfm78, World Business Garden Malibu West Tower, 2-2-6 Nakase, Mihama-ku, Chiba-shi, Chiba 261-0023<br>https://livecamera.fujiyamasan.com/chiba-mihama-bayfm78-makuhari.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.038163,35.6480438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川新行徳橋下流ライブカメラ / Edogawa Shingyotoku Bridge downstream live camera</name>
+        <description><![CDATA[〒272-0014 千葉県市川市田尻５丁目 新行徳橋 「江戸川河川事務所」/ Shingyotoku Bridge, 5-chome, Tajiri, Ichikawa-shi, Chiba 272-0014, "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/chiba-ichikawa-edogawa-shingyotoku-bridge-downstream.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9256113,35.7022582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本光寺ライブカメラ / Honkoji Live Camera</name>
+        <description>〒272-0805 千葉県市川市大野町３丁目１６９５−１　光胤山 大野本光寺</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9540334,35.7557627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市川市議会ライブカメラ / Ichikawa City Council Live Camera</name>
+        <description><![CDATA[〒272-8501 千葉県市川市八幡１丁目１−１　市川市役所 / Ichikawa City Hall, 1-1-1, Yawata, Ichikawa City, Chiba Prefecture 272-8501<br>https://livecamera.fujiyamasan.com/chiba-ichikawa-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9305537,35.7218592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都川矢作ライブカメラ / Miyakogawa Yahagi Live Camera</name>
+        <description><![CDATA[千葉県千葉市中央区都町・矢作町「国土交通省川の防災情報」/ Miyakocho and Yahagicho, Chuo-ku, Chiba-shi, Chiba, "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-chuo-miyako-river-yahagi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.142365,35.608653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真間川鬼越ライブカメラ / Mama River Onigoe Live Camera</name>
+        <description><![CDATA[千葉県市川市鬼越2丁目「国土交通省川の防災情報」/ 2-chome Onigoe, Ichikawa-shi, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kumamoto-ichikawa-onigoe-mama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9355274,35.7186043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三番瀬ライブカメラ / Sambanze Live Camera</name>
+        <description><![CDATA[〒273-0016 千葉県船橋市潮見町４０　ふなばし三番瀬環境学習館 /  Funabashi Sambanze Environmental Learning Center, 40 Shiomicho, Funabashi City, Chiba Prefecture 273-0016<br>https://livecamera.fujiyamasan.com/chiba-funabashi-shiomi-sambanze.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9683866,35.672688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海老川船橋本町ライブカメラ / Ebigawa Funabashi Honcho Live Camera</name>
+        <description><![CDATA[千葉県船橋市本町・市場 「国土交通省川の防災情報」/ Honcho / Ichiba, Funabashi City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-funabashi-honcho-ebigawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9916405,35.7016087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂川大谷口新田水位観測所ライブカメラ / Sakagawa Oyaguchi Nitta Water Level Observatory Live Camera</name>
+        <description><![CDATA[千葉県松戸市新松戸「江戸川河川事務所」/ Shinmatsudo, Matsudo City, Chiba Prefecture "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/chiba-matsudo-sakagawa-oyagawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9064275,35.828567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川松戸水位観測所赤圦ラバー堰ライブカメラ / Edogawa Matsudo Water Level Observatory Akatsuki Rubber Weir Live Camera</name>
+        <description><![CDATA[千葉県松戸市松戸 「国土交通省川の防災情報」/ Matsudo, Matsudo City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.895243,35.7822072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新坂川新松戸ライブカメラ / Shin Sakagawa Shin Matsudo Live Camera</name>
+        <description><![CDATA[千葉県松戸市新松戸「国土交通省川の防災情報」/ Shinmatsudo, Matsudo City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-matsudo-shinmatsudo-shinkawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.918794,35.8238428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新坂川根本ライブカメラ / Shinsaka River Nemoto Live Camera</name>
+        <description><![CDATA[千葉県松戸市根本「国土交通省川の防災情報」/ Nemoto, Matsudo City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8980801,35.7901258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂川馬橋ライブカメラ / Sakagawa Mabashi Live Camera</name>
+        <description><![CDATA[千葉県松戸市栄町8丁目「国土交通省川の防災情報」/ 8-chome, Sakae-cho, Matsudo-shi, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-matsudo-sakagawa-mabashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9020456,35.8130213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂川古ケ崎ライブカメラ / Sakagawa River Kogasaki Live Camera</name>
+        <description><![CDATA[千葉県松戸市古ケ崎「国土交通省川の防災情報」/ Kogasaki, Matsudo City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-matsudo-kogasaki-sakagawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8991856,35.7918233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂川1.5KP左岸ライブカメラ / Sakagawa 1.5KP left bank live camera</name>
+        <description><![CDATA[千葉県松戸市新松戸「国土交通省川の防災情報」/ Shinmatsudo, Matsudo City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9060299,35.82653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千葉カントリークラブ野田コースライブカメラ / Chiba Country Club Noda Course Live Camera</name>
+        <description><![CDATA[〒278-0041 千葉県野田市蕃昌４　千葉カントリークラブ野田コース / Chiba Country Club Noda Course, 4 Bansho, Noda City, Chiba Prefecture 278-0041<br>https://livecamera.fujiyamasan.com/chiba-noba-chiba-country-club.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8707019,35.9708592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川下総利根大橋上流ライブカメラ / Tone River Downstream Tone Ohashi Upstream Live Camera</name>
+        <description><![CDATA[千葉県野田市木間ヶ瀬「利根川上流河川事務所」/ Kimagase, Noda City, Chiba Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/kumamoto-noda-tonegawa-shimousatoneohashi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8371351,36.0372255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川芽吹橋水位観測所ライブカメラ / Tonegawa Mefukibashi Water Level Observatory Live Camera</name>
+        <description><![CDATA[千葉県野田市目吹「利根川上流河川事務所」/ Mefuki, Noda City, Chiba Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-tonegawa-mefuki-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8919326,35.9800286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川三ツ堀ライブカメラ / Tonegawa Mitsubori Live Camera</name>
+        <description><![CDATA[千葉県野田市三ツ堀「利根川上流河川事務所」/ Mitsubori, Noda City, Chiba Prefecture "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-mitsubori-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9321488,35.9423937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川菅生越流堤ライブカメラ / Tone River Sugou Overflow Embankment Live Camera</name>
+        <description><![CDATA[〒278-0002 千葉県野田市木野崎「利根川上流河川事務所」/ Kinosaki, Noda City, Chiba Prefecture 278-0002 "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-kinosaki-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9110643,35.9596344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川102.9KP右岸ライブカメラ / Tone River 102.9KP Right Bank Live Camera</name>
+        <description><![CDATA[千葉県野田市目吹「国土交通省川の防災情報」/ Mefuki, Noda City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/kumamoto-noda-mefuki-tonegawa-102-9kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8999791,35.9751498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川野田水位観測所ライブカメラ / Edogawa Noda Water Level Observatory Live Camera</name>
+        <description><![CDATA[千葉県野田市中野台「江戸川河川事務所」/ Nakanodai, Noda City, Chiba Prefecture "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-nakanodai-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8526795,35.9350634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川野田岩名ライブカメラ / Edogawa Noda Iwana Live Camera</name>
+        <description><![CDATA[千葉県野田市岩名「江戸川河川事務所」/ Iwana, Noda City, Chiba Prefecture "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/kumamoto-noda-iwana-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8369998,35.9612797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川野田尾崎ライブカメラ / Edogawa Noda Ozaki Live Camera</name>
+        <description><![CDATA[千葉県野田市尾崎 「江戸川河川事務所」/ Osaki, Noda City, Chiba Prefecture "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-ozaki-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8276657,35.9816876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川分派点関宿城ライブカメラ / Edogawa branch point Sekiyado castle live camera</name>
+        <description><![CDATA[〒270-0206 千葉県野田市関宿町１４７５　関宿城跡 「江戸川河川事務所」/ Sekiyado Castle Ruins, 1475 Sekiyado Town, Noda City, Chiba Prefecture 270-0206,  "Edogawa River Office"<br>https://livecamera.fujiyamasan.com/chiba-noda-sekiyado-edogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7800666,36.0966607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日新聞成田支局成田空港ライブカメラ / Asahi Shimbun Narita Branch Narita Airport Live Camera</name>
+        <description><![CDATA[〒282-8610 千葉県成田市東三里塚 第1ターミナル 成田国際空港 「朝日新聞」/ Narita International Airport, Terminal 1 Higashisanrizuka, Narita City, Chiba 282-8610<br>"Asahi Shimbun"<br>https://livecamera.fujiyamasan.com/chiba-narita-asahishimbun-narita-airport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3835311,35.7635869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゲートグルメジャパン成田空港滑走路ライブカメラ / Gate Gourmet Japan Narita Airport Runway Live Camera</name>
+        <description><![CDATA[〒286-0111 千葉県成田市三里塚１−７２０ ゲートグルメジャパン有限会社 / Gate Gourmet Japan Co., Ltd., 1-720 Sanrizuka, Narita-shi, Chiba 286-0111 <br>https://livecamera.fujiyamasan.com/kumamoto-narita-gate-gourmet-japan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3823981,35.7465719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根木名川新妻ライブカメラ / Nekona River Nittsuma Live Camera</name>
+        <description><![CDATA[千葉県成田市新妻 「国土交通省川の防災情報」/ Nittsuma, Narita City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-narita-nittsuma-nekona-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3171021,35.8119345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高崎川鏑木橋ライブカメラ / Takasaki River Kaburagi Bridge Live Camera</name>
+        <description><![CDATA[千葉県佐倉市鏑木町 「国土交通省川の防災情報」/ Kaburagimachi, Sakura City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.231868,35.7132474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏市大井国道16号ライブカメラ / Kashiwa City Oi National Highway No. 16 Live Camera</name>
+        <description><![CDATA[千葉県柏市大井「柏市役所」/ Oi, Kashiwa City, Chiba Prefecture "Kashiwa City Hall"<br>https://livecamera.fujiyamasan.com/chiba-kashiwa-oi-r16.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9947609,35.8493149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手賀沼手賀沼水位観測所ライブカメラ / Teganuma Lake Teganuma Water Level Observatory Live Camera</name>
+        <description><![CDATA[千葉県柏市曙橋「国土交通省川の防災情報」/ Akebonobashi, Kashiwa City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kashiwa-akebonobashi-teganuma.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0657853,35.8509584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川田中調節池下流ライブカメラ / Tonegawa Tanaka Stormwater Live Camera</name>
+        <description><![CDATA[千葉県柏市布施「利根川上流河川事務所」/ Fuse, Kashiwa City, Chiba Prefecture "Tone River Upstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0077412,35.9061158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川92.4KP右岸ライブカメラ / Tone River 92.4KP Right Bank Live Camera</name>
+        <description><![CDATA[千葉県柏市花野井「国土交通省川の防災情報」/ Hananoi, Kashiwa City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kashiwa-tonegawa-92-4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9763327,35.9025968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川96.2KP右岸ライブカメラ / Tone River 96.2KP Right Bank Live Camera</name>
+        <description><![CDATA[千葉県柏市船戸「国土交通省川の防災情報」/ Funato, Kashiwa City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9472053,35.9289023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根運河6.5KP左岸ライブカメラ / Tone Canal 6.5KP Left Bank Live Camera</name>
+        <description><![CDATA[千葉県柏市船戸山高野「国土交通省川の防災情報」/ Funatoyamagoya, Kashiwa City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kashiwa-tone-canal-6-5kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9393467,35.9251878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>村田川草刈ライブカメラ / Murata River Kusakari Live Camera</name>
+        <description><![CDATA[千葉県市原市草刈「国土交通省川の防災情報」/ Kusakari, Ichihara City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-ichihara-kusakari-murata-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.163553,35.531578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>村田川押沼橋ライブカメラ / Murata River Oshinuma Bridge Live Camera</name>
+        <description><![CDATA[千葉県市原市押沼「国土交通省川の防災情報」/　Oshinuma, Ichihara City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1971733,35.5297188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>養老川牛久ライブカメラ / Yoro River Ushiku Live Camera</name>
+        <description><![CDATA[千葉県市原市牛久「国土交通省川の防災情報」/ Ushiku, Ichihara City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-ichihara-ushiku-yoro-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1386285,35.3974997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>椎津川椎津ライブカメラ / Shiizu River Shiizu Live Camera</name>
+        <description><![CDATA[千葉県市原市椎津「国土交通省川の防災情報」/ Shiizu, Ichihara City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-ichihara-shiizu-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0403664,35.4740594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちはらFMライブカメラ / Ichihara FM live camera</name>
+        <description><![CDATA[〒290-0081 千葉県市原市五井中央西１丁目１−２５ サンプラザ市原　市原ＦＭ放送（株）サンプラザスタジオ / Sunplaza Ichihara, 1-1-25 Goichuonishi, Ichihara City, Chiba Prefecture 290-0081, "Ichihara FM Broadcasting Co., Ltd. Sun Plaza Studio"<br>https://livecamera.fujiyamasan.com/chiba-ichihara-kamitakane-ichiharafm.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.088762,35.5128806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江戸川流山ライブカメラ / Edogawa Nagareyama Live Camera</name>
+        <description><![CDATA[〒270-0164 千葉県流山市流山 「江戸川河川事務所」/ Nagareyama, Nagareyama City, Chiba Prefecture 270-0164 "Edogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9014576,35.833693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根運河4.0KP右岸ライブカメラ / Tone Canal 4.0KP Right Bank Live Camera</name>
+        <description><![CDATA[千葉県流山市東深井「国土交通省川の防災情報」/ Higashifukai, Nagareyama City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-nagareyama-toneunga-4kp.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.913941,35.9159579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八千代1号幹線水位監視八千代台北ライブカメラ / Yachiyo No. 1 trunk line water level monitoring Yachiyo Taipei live camera</name>
+        <description><![CDATA[〒276-0031 千葉県八千代市八千代台北 「八千代市役所上下水道局」/ Yachiyodaikita, Yachiyo City, Chiba Prefecture 276-0031, "Yachiyo City Hall Water and Sewerage Bureau"<br>https://livecamera.fujiyamasan.com/chiba-yachiyo-yachiyodaikita.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0945277,35.7077123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八千代1号幹線水位監視八千代台西ライブカメラ / Yachiyo No. 1 trunk line water level monitoring Yachiyo Taisai live camera</name>
+        <description><![CDATA[〒276-0034 千葉県八千代市八千代台西「八千代市役所上下水道局」/ Yachiyodainishi, Yachiyo City, Chiba Prefecture 276-0034, "Yachiyo City Hall Water and Sewerage Bureau"<br>https://livecamera.fujiyamasan.com/chiba-yachiyo-yachiyodainishi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0842493,35.699034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八千代1号幹線水位監視大和田ライブカメラ / Yachiyo No. 1 trunk line water level monitoring Owada live camera</name>
+        <description><![CDATA[〒276-0045 千葉県八千代市大和田「八千代市役所上下水道局」/ Owada, Yachiyo City, Chiba Prefecture 276-0045 "Yachiyo City Hall Water and Sewerage Bureau"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1048079,35.7140882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川布川水位観測所ライブカメラ / Tone River Fukawa Water Level Observatory Live Camera</name>
+        <description><![CDATA[千葉県我孫子市布佐 「利根川下流河川事務所」/ Fusa, Abiko City, Chiba Prefecture "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-abiko-fusa-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1384087,35.8534219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川田中ライブカメラ / Tonegawa Tanaka Live Camera</name>
+        <description><![CDATA[〒270-1172 千葉県我孫子市北新田「利根川上流河川事務所」/ Kitashinden, Abiko City, Chiba Prefecture 270-1172 "Tone River Upstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-abiko-kitashinden-tonegawa-tanaka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0405967,35.8928764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌ケ谷市議会ライブカメラ / Kamagaya City Council Live Camera</name>
+        <description><![CDATA[〒273-0195 千葉県鎌ケ谷市新鎌ケ谷２丁目６−１ 鎌ケ谷市役所 / Kamagaya City Hall, 2-6-1 Shinkamagaya, Kamagaya City, Chiba Prefecture 273-0195 <br>https://livecamera.fujiyamasan.com/chiba-kamagaya-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0008008,35.7767458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>舞浜上空天気ライブカメラ / Maihama sky weather live camera</name>
+        <description><![CDATA[〒279-0031 千葉県浦安市舞浜「livecamera maihama」/ Maihama, Urayasu City, Chiba Prefecture 279-0031 "live camera maihama"<br>https://livecamera.fujiyamasan.com/chiba-urayasu-maihama-weather.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8803281,35.635183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四街道市議会ライブカメラ / Yotsukaido City Council Live Camera </name>
+        <description><![CDATA[〒284-8555 千葉県四街道市鹿渡無番地　四街道市役所 / Yotsukaido City Hall, Shikawatashi Mubanchi, Yotsukaido City, Chiba Prefecture 284-8555<br>https://livecamera.fujiyamasan.com/chiba-yotsukaido-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1683528,35.6699724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八街市議会ライブカメラ / Yachimata City Council Live Camera</name>
+        <description>〒289-1192 千葉県八街市八街ほ−３５−２９ 八街市役所 / Yachimata City Hall, 35-29 Ho, Yachimata, Yachimata City, Chiba Prefecture 289-1192</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3181775,35.665666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川木下ライブカメラ / Tonegawa Kioroshi Live Camera</name>
+        <description><![CDATA[〒270-1326 千葉県印西市木下 「利根川下流河川事務所」/ Kioroshi, Inzai City, Chiba Prefecture 270-1326, "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-inzai-kioroshi-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1536626,35.8392839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川須賀ライブカメラ / Tonegawa Suka Live Camera</name>
+        <description><![CDATA[千葉県栄町須賀「利根川下流河川事務所」/ Suka, Sakae-cho, Chiba "Tonegawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-sakae-suka-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2376982,35.8515248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川須賀新田ライブカメラ / Tonegawa Sukashinden Live Camera</name>
+        <description><![CDATA[千葉県栄町須賀新田 「利根川下流河川事務所」/ Sukashinden, Sakae Town, Chiba Prefecture "Tonegawa Downstream River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2475124,35.8564908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬吠テラステラスライブカメラ / Inubow Terasu Terrace Live Camera</name>
+        <description><![CDATA[〒288-0012 千葉県銚子市犬吠埼９５７５−２　犬吠テラステラス /  Inubow Terasu Terrace, 9575-2 Inubosaki, Choshi-shi, Chiba 288-0012<br>https://livecamera.fujiyamasan.com/chiba-choshi-inubosaki-inubow-terasu-terrace.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8673028,35.7074552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ぎょうけい館ライブカメラ / Gyoukeikan Live Camera</name>
+        <description><![CDATA[〒288-0012 千葉県銚子市犬吠埼１０２９３　犬吠埼温泉 ぎょうけい館 / Inubosaki Onsen Gyokeikan, 10293 Inubosaki, Choshi City, Chiba Prefecture 288-0012 <br>https://livecamera.fujiyamasan.com/chiba-choshi-inubosaki-gyoukeikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8630487,35.7037303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銚子マリーナライブカメラ / Choshi Marina Live Camera</name>
+        <description><![CDATA[〒288-0025 千葉県銚子市潮見町１５　銚子マリーナ / 15 Choshi Marina, Shiomi-cho, Choshi-shi, Chiba 288-0025<br>https://livecamera.fujiyamasan.com/chiba-choshi-shiomi-choshi-marina.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.840653,35.704227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川松岸町ライブカメラ / Tonegawa Matsugishimachi Live Camera</name>
+        <description><![CDATA[〒288-0836 千葉県銚子市松岸町 「利根川下流河川事務所」/ Matsugishimachi, Choshi City, Chiba Prefecture 288-0836, "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-choshi-matsugishi-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7949296,35.7418174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川1.0KP右岸ライブカメラ / Tone River 1.0KP Right Bank Live Camera</name>
+        <description><![CDATA[千葉県銚子市新生町1丁目「国土交通省川の防災情報」/ 1-chome, Araoicho, Choshi-shi, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-choshi-araoi-tonegawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8399454,35.7367888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>銚子市議会ライブカメラ / Choshi City Council Live Camera</name>
+        <description><![CDATA[〒288-0047 千葉県銚子市若宮町１−１　銚子市役所 / Choshi City Hall, 1-1 Wakamiyacho, Choshi City, Chiba Prefecture 288-0047 <br>https://livecamera.fujiyamasan.com/chiba-choshi-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.8267661,35.73465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北森ペット病院駐車場ライブカメラ / Kitamori Pet Hospital Parking Live Camera </name>
+        <description><![CDATA[〒297-0074 千葉県茂原市小林２３６８　北森ペット病院 / Kitamori Pet Hospital, 2368 Kobayashi, Mobara City, Chiba Prefecture 297-0074<br>https://livecamera.fujiyamasan.com/chiba-mobara-kitamori-pet-hospital.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2947947,35.4405173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一宮川早野ライブカメラ / Ichinomiya River Hayano Live Camera</name>
+        <description><![CDATA[千葉県茂原市茂原「国土交通省川の防災情報」/ Mobara, Mobara City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-mobara-ichinomiya-river-hayano.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2922341,35.423015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯岡波情報ライブカメラ / Iioka wave information live camera</name>
+        <description><![CDATA[〒289-2708 千葉県旭市平松 「飯岡平松浜波情報日記」/ Hiramatsu, Asahi City, Chiba 289-2708 "Iioka Hiramatsu Hamami Information Diary"<br>https://livecamera.fujiyamasan.com/chiba-asahi-hiramatsu-iioka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.7221969,35.7067108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波通飯岡ライブカメラ / Namitsu Iioka Live Camera</name>
+        <description><![CDATA[〒289-2713 千葉県旭市萩園１４３７ いいおか潮騒ホテル 「デジサーフ」/ Iioka Shiosai Hotel,  1437 Hagizono, Asahi City, Chiba Prefecture 289-2713 "Digisurf"<br>https://livecamera.fujiyamasan.com/chiba-asahi-hagizono-iioka.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.710571,35.702994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>匝瑳市議会ライブカメラ / Sosa City Council Live Camera</name>
+        <description><![CDATA[〒289-2198 千葉県匝瑳市八日市場ハ７９３−２ 匝瑳市役所 / Sosa City Hall, 793-2 Yokaichiba, Sosa City, Chiba Prefecture 289-2198 <br>https://livecamera.fujiyamasan.com/chiba-sosa-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5643455,35.7078296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川利根川下流河川事務所小見川出張所ライブカメラ / Tone River Tone River Downstream River Office Omigawa Branch Office Live Camera</name>
+        <description>〒289-0313 千葉県香取市小見川４８８４−８　国土交通省 利根川下流河川事務所 小見川出張所 / Omigawa Branch Office, Tone River Downstream River Office, Ministry of Land, Infrastructure, Transport and Tourism, 4884-8 Omigawa, Katori City, Chiba Prefecture 289-0313 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.615547,35.861259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北利根川加藤洲ライブカメラ / Kita Tone River Katozu Live Camera</name>
+        <description><![CDATA[〒287-0802 千葉県香取市加藤洲「霞ヶ浦河川事務所」/ Katozu, Katori City, Chiba Prefecture 287-0802 "Kasumigaura River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5437681,35.9342302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横利根川新横利根閘門ライブカメラ / Yokotone River New Yokotone Lock Live Camera </name>
+        <description><![CDATA[千葉県香取市大島「霞ヶ浦河川事務所」/ Oshima, Katori City, Chiba Prefecture "Kasumigaura River Office"<br>https://livecamera.fujiyamasan.com/chiba-katori-oshima-shinyokotone-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.5092704,35.9573789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒部川新開橋ライブカメラ / Kurobe River Shinkaibashi Live Camera</name>
+        <description><![CDATA[千葉県香取市小見川「国土交通省川の防災情報」/ Omigawa, Katori City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-katori-kurobe-river-shinkai-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6107665,35.8576608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小野川牧野ライブカメラ / Onogawa Makino Live Camera</name>
+        <description><![CDATA[千葉県香取市牧野「国土交通省川の防災情報」/ Makino, Katori City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-katori-makino-onogawa.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4997932,35.8852702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真柄観音太陽光発電所ライブカメラ / Magara Kannon solar power plant live camera </name>
+        <description><![CDATA[〒287-0036 千葉県香取市観音「真柄建設」/ Kannou, Katori City, Chiba Prefecture 287-0036<br>"Magara Construction"<br>https://livecamera.fujiyamasan.com/chiba-katori-kannon-solar-power-plant.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4747594,35.8632972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>作田川成東ライブカメラ / Sakuda River Naruto Live Camera</name>
+        <description><![CDATA[千葉県山武市成東「国土交通省川の防災情報」/ Naruto, Sammu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-sammu-naruto-sakuda-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4106251,35.6036704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>作田川日向ライブカメラ / Sakuda River Hyuga Live Camera </name>
+        <description><![CDATA[千葉県山武市椎崎「国土交通省川の防災情報」/ Shiizaki, Sammu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-sammu-shiizaki-sakuda-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3638843,35.6274987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木戸川中台ライブカメラ / Kidogawa Chudai Live Camera</name>
+        <description><![CDATA[千葉県山武市松尾町高富「国土交通省川の防災情報」/ Takatomi, Matsuo Town, Sammu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-sammu-matsuo-kidogawa-chudai.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4584582,35.6159859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南白亀川九十根ライブカメラ / Nabaki River Kujune Live Camera</name>
+        <description><![CDATA[千葉県大網白里市九十根「国土交通省川の防災情報」/ Kujune, Oamishirasato City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3785009,35.5009733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大網白里市議会ライブカメラ / Oamishirasato City Council Live Camera</name>
+        <description><![CDATA[〒299-3251 千葉県大網白里市大網１１５−２　大網白里市役所 / 115-2 Oami, Oamishirasato City, Chiba Prefecture 299-3251 Oamishirasato City Hall<br>https://livecamera.fujiyamasan.com/chiba-oamishirasato-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3209569,35.5217475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川川端樋管ライブカメラ / Tonegawa Kawabata Gutter Live Camera</name>
+        <description><![CDATA[千葉県神崎町神崎本宿「利根川下流河川事務所」/ Kozakihonshuku, Kozaki-machi, Chiba Prefecture "Tonegawa Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-kozaki-tonegawa-kawabatahikan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4074565,35.9062093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利根川黒部川排水機場ライブカメラ / Tone River Kurobe River Drainage Pump Station Live Camera</name>
+        <description><![CDATA[〒289-0611 千葉県香取郡東庄町新宿「利根川下流河川事務所」/ Niijuku, Tonosho-cho, Katori-gun, Chiba 289-0611, "Tone River Downstream River Office"<br>https://livecamera.fujiyamasan.com/chiba-tonosho-tonegawa-kurobehaisuikijo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.6975389,35.8347805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真亀川不動堂ライブカメラ / Magame River Fudodo Live Camera</name>
+        <description><![CDATA[千葉県山武郡九十九里町不動堂「国土交通省川の防災情報」/ Fudodo, Kujukuri-cho, Sambu-gun, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kujukuri-fudodo-magame-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4192291,35.515959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋形海岸ライブカメラ / Yakata Beach Live Camera</name>
+        <description><![CDATA[〒289-1735 千葉県山武郡横芝光町屋形 「横芝光町役場」/  Yakata, Yokoshibahikari Town, Sambu District, Chiba Prefecture 289-1735,  "Yokoshibahikari Town Hall"<br>https://livecamera.fujiyamasan.com/chiba-yokoshibahikari-yakata-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.530291,35.606023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗山川芝崎ライブカメラ / Kuriyama River Shibasaki Live Camera</name>
+        <description><![CDATA[千葉県横芝光町宮川「国土交通省川の防災情報」/ Miyagawa, Yokoshibahikari Town, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-yokoshibahikari-kuriyama-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4950475,35.6663178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一宮海岸サーフィンライブ波情報ライブカメラ / Ichinomiya coast surfing live wave information live camera</name>
+        <description><![CDATA[〒299-4301 千葉県長生郡一宮町一宮「kaijyosaikyo」/ Ichinomiya, Ichinomiya-cho, Chosei-gun, Chiba 299-4301 "kaijyosaikyo"<br>https://livecamera.fujiyamasan.com/chiba-ichinomiya-coast.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3893079,35.3798429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平久里川三芳ライブカメラ / Heguri River Miyoshi Live Camera</name>
+        <description><![CDATA[千葉県館山市亀ケ原 「国土交通省川の防災情報」/ Kamegahara, Tateyama City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-tateyama-heguri-river-miyoshi.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8880086,35.0223901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>館山市議会ライブカメラ / Tateyama City Council Live Camera</name>
+        <description><![CDATA[〒294-0045 千葉県館山市北条１１４５−１ 館山市役所 / Tateyama City Hall, 1145-1 Hojo, Tateyama City, Chiba Prefecture 294-0045<br>https://livecamera.fujiyamasan.com/chiba-tateyama-city-council.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8699153,34.9965623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢那川木更津ライブカメラ / Yana River Kisarazu Live Camera</name>
+        <description><![CDATA[千葉県木更津市請西「国土交通省川の防災情報」/ Jozai, Kisarazu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kisarazu-yanagawa-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9436066,35.3756905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スプラッシュ部原海岸サーフィンライブカメラ / Splash Hebara Beach Surfing Live Camera</name>
+        <description>〒299-5223 千葉県勝浦市部原１１２２−４　スプラッシュ ゲストハウス / Splash Guest House,  1122-4 Hebara, Katsuura City, Chiba 299-5223</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3331924,35.1651539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川シーサイド前原海岸ライブカメラ / Kamogawa Seaside Maebara Beach Live Camera</name>
+        <description><![CDATA[〒296-0002 千葉県鴨川市前原 前原海水浴場 「みんなの休日」/ Maebara Maebara Beach, Kamogawa City, Chiba Prefecture 296-0002 "Everyone's Holiday"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.1056043,35.1022967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加茂川貝渚ライブカメラ / Kamogawa Kaisuka Live Camera</name>
+        <description><![CDATA[千葉県鴨川市貝渚 「国土交通省川の防災情報」/ Kaisuka, Kamogawa City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0878898,35.1087333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小櫃川雨城橋ライブカメラ / Obitsu River Ujobashi Live Camera</name>
+        <description><![CDATA[千葉県君津市久留里市場「国土交通省川の防災情報」/ Kururiichiba, Kimitsu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kimitsu-obitsu-river-ujo-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.075483,35.294018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小糸川中島ライブカメラ / Koitogawa Nakajima Live Camera</name>
+        <description><![CDATA[千葉県君津市上「国土交通省川の防災情報」/ Kami, Kimitsu City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-kimitsu-koito-river-nakajima.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9542007,35.3112896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三島ダムライブカメラ / Mishima Dam Live Camera</name>
+        <description><![CDATA[〒292-1174 千葉県君津市正木１５２ 三島ダム管理所 「小糸川沿岸土地改良区」/ 152 Mishima Dam Management Office, 152 Masaki, Kimitsu City, Chiba 292-1174 "Koitogawa Coastal Land Improvement Zone"<br>https://livecamera.fujiyamasan.com/chiba-kimitsu-mishima-dam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0268906,35.2208559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金谷マリーンベースアルバトロスライブカメラ / Kanaya Marine Base Albatross Live Camera</name>
+        <description><![CDATA[〒299-1861 千葉県富津市金谷７５８ 金谷マリンベース アルバトロス / Kanaya Marine Base Albatross, 758 Kanaya, Futtsu City, Chiba Prefecture 299-1861 <br>https://livecamera.fujiyamasan.com/chiba-futtsu-kanaya-marine-base-albatross.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8180322,35.1760473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湊川丹後橋ライブカメラ / Minatogawa Tangobashi Live Camera</name>
+        <description><![CDATA[〒299-1618 千葉県富津市花輪313−7 丹後橋 「国土交通省川の防災情報」/ Tango Bridge, 313-7 Hanawa, Futtsu-shi, Chiba 299-1618  "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-futtsu-minato-river-tango-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8880902,35.2180992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小櫃川富川橋ライブカメラ / Obitsu River Tomikawa Bridge Live Camera</name>
+        <description><![CDATA[千葉県袖ケ浦市阿部「国土交通省川の防災情報」/ Abe, Sodegaura City, Chiba Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-sodegaura-obitsu-river-tomikawa-bridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.0250386,35.3796054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野島埼灯台ライブカメラ / Nojimasaki Lighthouse Live Camera</name>
+        <description><![CDATA[〒295-0102 千葉県南房総市白浜町白浜６３０ 野島埼灯台 「海上保安庁第三管区千葉海上保安部」/ Nojimasaki Lighthouse, 630 Shirahama, Shirahama-cho, Minamiboso-shi, Chiba 295-0102,  "Chiba Coast Guard Department, 3rd Regional Coast Guard Station"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-nojimasaki-lighthouse.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8883406,34.9017272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅ちくら潮風王国ライブカメラ / Roadside Station Chikura Sea Breeze Kingdom Live Camera</name>
+        <description><![CDATA[〒295-0025 千葉県南房総市千倉町千田１０５１　道の駅 ちくら・潮風王国 「南房総市役所」/ Roadside Station Chikura Shiokaze Kingdom, 1051 Senda, Chikura-cho, Minamiboso-shi, Chiba 295-0025  "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-michinoeki-chikura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9525449,34.9297117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南房総市立富浦小学校ライブカメラ / Minamiboso City Tomiura Elementary School Live Camera</name>
+        <description><![CDATA[〒299-2403 千葉県南房総市富浦町原岡９３１ 富浦小学校「南房総市役所」/ Tomiura Elementary School, 931 Haraoka, Tomiura-cho, Minamiboso-shi, Chiba 299-2403 "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-tomiura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.834553,35.048142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白間津花畑ライブカメラ / Shiramazu Flower Field Live Camera</name>
+        <description><![CDATA[〒295-0027 千葉県南房総市千倉町白間津「南房総市役所」/ Shiramazu, Chikura-cho, Minamiboso-shi, Chiba 295-0027 "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-chikura-shiramazu-flower-field.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.9341269,34.9199201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅とみうら枇杷倶楽部花畑側ライブカメラ / Road Station Tomiura Biwa Club Hanabata Side Live Camera</name>
+        <description><![CDATA[〒299-2416 千葉県南房総市富浦町青木１２３−１　道の駅 とみうら 枇杷倶楽部「南房総市役所」/ Road Station Tomiura Biwa Club, 123-1 Aoki, Tomiura-cho, Minamiboso-shi, Chiba 299-2416  "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-michinoeki-tomiura.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.837377,35.0376357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅富楽里とみやま花畑側ライブカメラ / Road Station Furari Tomiyama Flower Field Side Live Camera</name>
+        <description><![CDATA[〒299-2214 千葉県南房総市二部２２１１　道の駅 富楽里とみやま　「南房総市役所」/ Road Station Furari Tomiyama, 2211 Nibu, Minamiboso-shi, Chiba 299-2214, "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-michinoeki-furari-tomiyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8556065,35.1005137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅おおつの里花倶楽部ライブカメラ / Road Station Otsu no Satohana Club Live Camera</name>
+        <description><![CDATA[〒299-2412 千葉県南房総市富浦町大津３２０ 道の駅 おおつの里 花倶楽部 「南房総市役所」/ Road Station Otsunosato Hana Club, 320 Otsu, Tomiura-cho, Minamiboso-shi, Chiba 299-2412,  "Minamiboso City Hall"<br>https://livecamera.fujiyamasan.com/chiba-minamiboso-michinoeki-otsunosato.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8603465,35.0576339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カフェGAKE太平洋ライブカメラ / Cafe GAKE Pacific Live Camera</name>
+        <description><![CDATA[〒299-4503 千葉県いすみ市岬町和泉２４０４−２１　GAKE / 2404-21 Misakichoizumi, Isumi City, Chiba Prefecture 299-4503 GAKE<br>https://livecamera.fujiyamasan.com/chiba-isumi-cafe-gake.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.4115387,35.314803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夷隅川桑田ライブカメラ / Isumi River Kuwada Live Camera</name>
+        <description><![CDATA[千葉県いすみ市岬町桑田 「国土交通省川の防災情報」/ Kuwada, Misaki-cho, Isumi-shi, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"<br>https://livecamera.fujiyamasan.com/chiba-isumi-misaki-kuwada-isumi-river.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.356059,35.3000096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夷隅川大多喜ライブカメラ / Isumi River Otaki Live Camera</name>
+        <description><![CDATA[千葉県大多喜町桜台「国土交通省川の防災情報」/ Sakuradai, Otaki-cho, Chiba "Ministry of Land, Infrastructure, Transport and Tourism River Disaster Prevention Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.2507616,35.2841411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御宿ライブカメラ / Onjuku Live Camera</name>
+        <description><![CDATA[〒299-5104 千葉県夷隅郡御宿町六軒町５０５−１　月の沙漠記念館 「御宿町観光協会」/ 505-1 Rokkenmachi, Onjuku-cho, Isumi-gun, Chiba 299-5104 Moon Desert Museum "Onjuku-cho Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.3578256,35.1842981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鋸南町議会ライブカメラ / Kyonan Town Council Live Camera</name>
+        <description><![CDATA[〒299-2192 千葉県安房郡鋸南町下佐久間３４５８ 鋸南町役場 「鋸南町役場」/  Kyonan Town Hall, 3458 Shimosakuma, Kyonan Town, Awa District, Chiba 299-2192, "Kyonan Town Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.8357022,35.1111243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

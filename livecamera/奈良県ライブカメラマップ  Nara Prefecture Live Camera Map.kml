@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>奈良県ライブカメラマップ / Nara Prefecture Live Camera Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>奈良県内ライブカメラ</name>
+      <Placemark>
+        <name>名阪国道・京奈和自動車道ライブカメラ / Meihan National Highway and Keinawa Expressway Live Camera</name>
+        <description>〒630-8115 奈良県奈良市大宮町３丁目５−１１奈良国道事務所 / Nara National Highway Office, 3-5-11 Omiya-cho, Nara-shi, Nara 630-8115</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8121729,34.6835815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良大宮通りライブカメラ / Nara Omiya-dori Live Camera</name>
+        <description>〒630-8115 奈良県奈良市大宮町１丁目１１５−１ 長尾谷高等学校 奈良校 / Nagaodani High School Nara School, 1-115-1 Omiya-cho, Nara-shi, Nara-ken 630-8115</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.818031,34.684693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐保川（奈良市法蓮）ライブカメラ / Saho River (Nara City Houren) Live Camera</name>
+        <description><![CDATA[〒630-8113 奈良県奈良市法蓮町１１５４ 「奈良県県土マネジメント部河川課」/ 1154 Houren-cho, Nara-shi, Nara 630-8113, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8274358,34.6893399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良若草山ライブカメラ / Narawakakusayama Live Camera</name>
+        <description>〒630-8211 奈良県奈良市雑司町 若草山 / Wakakusayama, Zoushi-cho, Nara-shi, Nara 630-8211</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8544345,34.6911496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良神野山スカイビュー / Mt. Kamino in Nara Sky View</name>
+        <description><![CDATA[奈良県山辺郡山添村伏拝 神野山 「星空観望」 / Mt. Kamino, Fushiogami, Yamazoe-mura, Yamabe-gun, Nara, "Starry Sky Observation"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.996237,34.667876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良県王寺町ライブカメラ / Nara Prefecture Ouji-cho Live Camera</name>
+        <description>奈良県北葛城郡王寺町 さんきゅう堂 / Sankyudo, Ouji-cho, Kitakatsuragi-gun, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.70658,34.596688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リアルタイム観測情報 / Real-time observation information</name>
+        <description>〒583-0001 大阪府藤井寺市川北３丁目８−３３　大和川河川事務所 / Yamatogawa River Office 3-8-33 Kawakita, Fujiidera-shi, Osaka 583-0001, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6177899,34.5833264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安部文殊院ライブカメラ / Abemonjuin Live Camera</name>
+        <description><![CDATA[〒633-0054 奈良県桜井市安倍山645 安部文殊院 / Abemonjuin, 645 Abe, Sakurai-shi, Nara-ken 633-0054<br>https://livecamera.fujiyamasan.com/nara-sakurai-monjuin.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.841742,34.503869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金峯山寺ライブカメラ / Kinpusen-ji Temple Live Camera</name>
+        <description>〒639-3115 奈良県吉野郡吉野町吉野山２４９８ 金峯山寺 / Kinpusen-ji Temple, 2498 Yoshinoyama, Yoshino-cho, Yoshino-gun, Nara-ken 639-3115</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8588222,34.3684486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野郡吉野町上市橋ライブカメラ / Kamiichibashi Bridge Live Camera</name>
+        <description><![CDATA[奈良県吉野郡吉野町 上市橋 「こまどりケーブル株式会社」 / Kamiichibashi Bridge, Yoshino-cho, Yoshino-gun, Nara, "Komadori Cable Co., Ltd."]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8512365,34.3936223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野山から望む吉野桜と町並みのライブカメラ / Yoshino cherry tree and townscape live camera seen from Mount Yoshino</name>
+        <description><![CDATA[〒639-3115 奈良県吉野郡吉野町大字吉野山 吉野山 / Yoshinoyama, Yoshino-cho, Yoshino-gun, Nara 639-3115<br>https://livecamera.fujiyamasan.com/nara-yoshinoyama.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.870617,34.356433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛山頂ライブカメラ / Kongozan Live Camera (the summito of Mt. Kongo)</name>
+        <description>大阪府南河内郡千早赤阪村千早 金剛山 / Kongozan, Chihaya, Chihaya Akasaka-mura, Minamikawachi-gun, Osaka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.672913,34.419089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奈良県五條市ライブカメラ / Gojo City in  Nara Prefecture Live Camera</name>
+        <description>〒637-0041 奈良県五條市本町１丁目１−１五條市役所 / Gojo City Office, 1-1-1 Honmachi, Gojo-shi, Nara-ken 637-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6937502,34.3519616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五條市宇智小学校ライブカメラ / Gojo City Uchi Elementary School Live Camera</name>
+        <description>〒637-0004 奈良県五條市今井町１１５３ 五條市立宇智小学校 / Gojo City Uchi Elementary School, 1153 Imai-cho, Gojo-shi, Nara-ken 637-0004</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.70957,34.361549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まちなみ伝承館ライブカメラ / Machinami Denshokan Live Camera</name>
+        <description><![CDATA[〒637-0041 奈良県五條市本町２丁目７−１ まちなみ伝承館 「五條市役所」 / Machinami Denshokan, 2-7-1 Honmachi, Gojo-shi, Nara-ken, "Gojo City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.693346,34.348751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猿谷ダムライブカメラ / Sarutani Dam Live Camera</name>
+        <description>〒637-0002 奈良県五條市三在町１６８１ 国土交通省 近畿地方整備局 紀の川ダム統合管理事務所 / Kinokawa Dam Integrated Management Office Kinki Regional Development Bureau Ministry of Land, Infrastructure, Transport and Tourism, 1681 Sanjai-cho, Gojo-shi, Nara Prefecture 637-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.727482,34.381236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下市自然カメラ / Shimoichi Nature Camera</name>
+        <description><![CDATA[奈良県吉野郡下市町下市１９６０ 下市町役場 吉野川・秋野川・広葉樹林 / Shimoichi Town Hall, 1960 Shimoichi, Shimoichi-cho, Yoshino-gun, Nara, "Yoshino River, Akino River and　Broadleaf Forest”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.791788,34.360974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ごろごろ茶屋ライブカメラ / Gorogoro Teahouse Live Camera</name>
+        <description><![CDATA[〒638-0431 奈良県吉野郡天川村洞川686-139 ごろごろ茶屋 / Gorogoro Teahouse, 686-139 Dokawa, Tenkawa-mura, Yoshino-gun, Nara-ken 638-0431<br>https://livecamera.fujiyamasan.com/nara-gorogorochaya.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8807084,34.2689209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野迫川村雲海景勝地・川原樋川（かわらびがわ）ライブカメラ / Nosegawa Village Unkai Scenic Spot and Kawarabigawa Live Camera</name>
+        <description>〒648-0305 奈良県吉野郡野迫川村大字北股８４ 野迫川村役場 / Nosegawa Village Office, 84 Kitamata, Nosegawa-mura, Yoshino-gun, Nara 648-0305</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.63303,34.166296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>賀名生の里歴史民族資料館ライブカメラ / Anou no Sato Museum of History and Folklore Live Camera</name>
+        <description><![CDATA[〒637-0117 奈良県五條市西吉野町賀名生 賀名生の里歴史民族資料館 「五條市役所」 / Anou no Sato Museum of History and Folklore, Anou, Nishiyoshino-cho, Gojo-shi, Nara-ken 637-0117, "Gojo City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7195723,34.2985118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふれあい交流館大塔温泉夢乃湯ライブカメラ / Friendship Exchange Center Daito Onsen Yumenoyu Live Camera</name>
+        <description><![CDATA[〒637-0405 奈良県五條市大塔町宇井９４ ふれあい交流館 大塔温泉 夢乃湯 「五條市役所」 / Friendship Exchange Center Daito Onsen Yumenoyu, 94 Ui, Oto-machi, Gojo-shi, Nara-ken 637-0405, "Gojo City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7454177,34.1513157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あきつの小野公園ライブカメラ / Akitsunoono Park Live Camera</name>
+        <description><![CDATA[〒639-3542 奈良県吉野郡川上村大字西河 あきつの小野公園 / Akitsunoono Park, Nishikawa, Kawakami-mura, Yoshino-gun, Nara 639-3542<br>https://livecamera.fujiyamasan.com/nara-kawakami-akitsuno-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9171515,34.3542716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上池原・浦向ライブカメラ / Kamiikehara and Uramuki Live Camera</name>
+        <description>〒639-3803 奈良県吉野郡下北山村大字寺垣内９８３ 下北山村役場 / Shimokitayama Village Office, Teragaito, Shimokitayama-mura, Yoshino-gun, Nara 639-3803</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9551688,34.0049865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上北山村河合（役場付近）ライブカメラ / Kamikitayama Village Kawai (near the government office) live camera</name>
+        <description>奈良県吉野郡上北山村大字河合 / Kawai, Kamikitayama-mura, Yoshino-gun, Nara Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0467851,34.0996721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀧川寺ライブカメラ / Ryusenji Temple Live Camera</name>
+        <description>〒639-3702 奈良県吉野郡上北山村大字小橡２２８瀧川寺 / Ryusenji Temple, 228 Kotochi, Kamikitayama-mura, Yoshino-gun, Nara 639-3702</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.012876,34.145084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紀の川大淀町下渕ライブカメラ / Kinokawa Oyodocho Shimobuchi Live Camera</name>
+        <description>〒638-0821 奈良県吉野郡大淀町大字下渕 「奈良県県土マネジメント部河川課」 / Shimobuchi, Oyodo-cho, Yoshino-gun, Nara 630-0821</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7829081,34.3868333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道の駅針テラスライブカメラ / Michinoeki (Roadside Station) Hariterasu Live Camera</name>
+        <description><![CDATA[〒632-0251 奈良県奈良市針町３４５ 道の駅 針テラス 「奈良国道事務所」/ Michinoeki Hariterace, 345 Hari-machi, Nara-shi, Nara 632-0251, "Nara National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9627614,34.6100798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道米谷橋ライブカメラ / Meihan National Highway Maitanibashi Live Camera</name>
+        <description><![CDATA[〒630-8402 奈良県奈良市米谷町 米谷橋 「奈良国道事務所」 / Maitanibashi, Maitani-cho, Nara-shi, Nara 630-8402, "Nara National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8730013,34.6169904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道針東ライブカメラ / Meihan Expressway Harihigashi Live Camera</name>
+        <description><![CDATA[奈良県奈良市針町 「北勢国道事務所」 / Harimachi, Nara-shi, Nara, "Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9539064,34.616352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道小倉西1・2・3ライブカメラ / Meihan Expressway Live Camera</name>
+        <description><![CDATA[奈良県奈良市小倉町　「国土交通省中部地方整備局北勢国道事務所」 / Ogura-cho, Nara-shi, Nara, "Ministry of Land, Infrastructure, Transport and Tourism Chubu Regional Development Bureau Hokusei National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9834504,34.6238557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田川（大和高田市磐築橋）ライブカメラ / Takada River (Yamatotakada City Iwatsuki Bridge) Live Camera</name>
+        <description><![CDATA[〒635-0071 奈良県大和高田市大字築山 磐築橋 「奈良県県土マネジメント部河川課」 / Iwatsukibashi Bridge, Tsukiyama, Yamatotakada-shi, Nara 635-0071, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.737049,34.5243046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西名阪自動車道天理パーキングエリア上りライブカメラ / Nishi-Meihan Expressway Tenri Parking Area Up Live Camera</name>
+        <description>〒639-1114 奈良県大和郡山市新庄町 ウツキ田 １０４−１天理パーキングエリア / Tenri Parking Area, Utsukida, Shinjo-cho, Yamatokoriyama-shi, Nara 639-1114</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8134243,34.6160678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西名阪自動車道天理パーキングエリア下りライブカメラ / Nishi-Meihan Expressway Tenri Parking Area Down Live Camera</name>
+        <description><![CDATA[〒639-1113 奈良県大和郡山市櫟枝町１９５−１「NEXCO西日本ハイウェイ交通情報」/ Tenri PA, 195-1 Ichiedacho, Yamatokoriyama City, Nara Prefecture 639-1113, "NEXCO West Japan Highway Traffic Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.810206,34.617128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐保川杉橋ライブカメラ / Sabogawa Sugihashi live camera</name>
+        <description>〒639-1117 奈良県大和郡山市番条町 / Banjo-cho, Yamatokoriyama-shi, Nara Prefecture 639-1117</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7912064,34.6263344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐保川高瀬川合流点ライブカメラ / Live camera at the confluence of the Takase River on the Sabo River</name>
+        <description>〒639-1124 奈良県大和郡山市馬司町 / Matsukasa-cho, Yamatokoriyama-shi, Nara Prefecture 639-1124</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7840935,34.6141715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小倉インターチェンジ北側ライブカメラ / Ogura interchange north side live camera</name>
+        <description>〒632-0111 奈良県奈良市小倉町 小倉IC / Ogura IC, Ogura-cho, Nara-shi, Nara 632-0111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9845375,34.6262234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名阪国道薬師橋ライブカメラ / Meihan National Highway Yakushihashi Live Camera</name>
+        <description><![CDATA[〒630-8402 奈良県奈良市米谷町 名阪国道 & 薬師橋 / Meihan National Highway & Yakushibashi, Maitani-cho, Nara-shi, Nara Prefecture 630-8402]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.8857632,34.6199274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秋篠川ライブカメラ / Akishinogawa Live Camera</name>
+        <description>奈良県奈良市秋篠町 / Akishino-cho, Nara-shi, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7870397,34.684658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道369号都祁吐山町ライブカメラ / National Road 369 Tsugehayama Town Live Camera</name>
+        <description>奈良県奈良市都祁吐山町 「奈良県道路規制情報」/ Tsugehayama-cho, Nara-shi, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.958665,34.5693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川庵治ライブカメラ / Yamato River Ouji Live Camera</name>
+        <description><![CDATA[〒632-0086 奈良県天理市庵治町 「奈良県県土マネジメント部河川課」/ Ouji-cho, Tenri-shi, Nara 632-0086, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7935777,34.5827658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛生駒 紀泉国定公園 葛城高原ロッジ / Kongokikoma Kisenkokuteikouen Katsuragi Kogen Lodge Live Camera</name>
+        <description>〒639-2312 奈良県南河内郡御所市大字櫛羅２５６９ /  2569 Kujira, Gose-shi, Minamikawachi-gun, Nara Prefecture 639-2312</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6838528,34.4544528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竜田川壱分ライブカメラ / Tatsutagawa Ichibu Live Camera</name>
+        <description>〒630-0222 奈良県生駒市壱分町 / Ichibu-cho, Ikoma-shi, Nara 630-0222</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7106555,34.674385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛下川瓦口ライブカメラ / Katsuge River Kawaraguchi Live Camera</name>
+        <description><![CDATA[〒639-0225 奈良県香芝市瓦口 「奈良県県土マネジメント部河川課」 / Kawaraguchi, Kashiba City, Nara Prefecture 639-0225, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7177574,34.5371052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇陀川室生大野ライブカメラ / Udagawa River Muroo Ono Live Camera</name>
+        <description>奈良県宇陀市室生大野 / Muroo Ohno, Uda-shi, Nara Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0038958,34.5606294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇陀川三本松ライブカメラ / Uda River Sanbonmatsu Live Camera</name>
+        <description>奈良県宇陀市室生三本松 / Muroosanbonmatsu, Uda-shi, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0324844,34.5735198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名張川広瀬橋ライブカメラ / Nabari River Hirose Bridge Live Camera</name>
+        <description>奈良県山添村大字広瀬 / Hirose, Yamazoe-mura, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0777843,34.6767444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川JR第1大和川橋梁ライブカメラ / Yamatogawa JR 1st Yamatogawa Bridge Live Camera</name>
+        <description><![CDATA[〒636-0132 奈良県生駒郡斑鳩町目安「国土交通省川の防災情報」 / Meyasu, Ikaruga-cho, Ikoma-gun, Nara 636-0321, "Ministry of Land, Infrastructure, Transport and Tourism river disaster prevention information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7361091,34.5940028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川寺川合流点ライブカメラ / Yamatogawa Teragawa Confluence Live Camera</name>
+        <description><![CDATA[〒639-1064 奈良県生駒郡安堵町大字窪田 「国土交通省川の防災情報」/ Kubota, Azai-cho, Ikoma-gun, Nara 639-1064, "Ministry of Land, Infrastructure, Transport and Tourism river disaster prevention information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7580219,34.5956128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川太子橋ライブカメラ / Yamatogawa Taishi Bridge Live Camera</name>
+        <description>〒636-0205 奈良県磯城郡川西町大字保田 / Yasuda, Kawanishi-cho, Isojo-gun, Nara 636-0205</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7532946,34.5836383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽我川保田下流ライブカメラ / Sogagawa Yasuda downstream live camera</name>
+        <description><![CDATA[〒636-0205 奈良県磯城郡川西町大字保田  「大和川河川事務所」/ Yasuda, Kawanishi-cho, Isojo-gun, Nara 636-0205, "Yamatogawa River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7510201,34.5839916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽我川大場ライブカメラ / Soga River Oba Live Camera</name>
+        <description><![CDATA[〒636-0216 奈良県磯城郡三宅町大字小柳 「国土交通省河川情報センター」/ Oyanagi, Miyake-cho, Isojo-gun, Nara 636-0216, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7580219,34.5777574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽我川但馬ライブカメラ / Soga River Tajima Live Camera</name>
+        <description><![CDATA[〒636-0214 奈良県磯城郡三宅町大字但馬 「奈良県県土マネジメント部河川課」 / Tajima, Miyake-cho, Shiki-gun, Nara 636-0214, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7680933,34.5695036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺川秦庄ライブカメラ / Terakawa River Hatanosho Live Camera</name>
+        <description><![CDATA[〒636-0343 奈良県磯城郡田原本町大字秦庄 「奈良県県土マネジメント部河川課」 / Hatanosho, Tawaramoto-cho, Shiki-gun, Nara 636-0343, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7956267,34.5437933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京奈和自動車道矢部南ライブカメラ / Keiwana Expressway Yabe Minami Live Camera</name>
+        <description><![CDATA[〒636-0346 奈良県磯城郡田原本町大字矢部 「奈良国道事務所」 / Yabe, Taharahoncho, Isojo-gun, Nara 636-0346, "Nara National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7817228,34.5416467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京奈和自動車道宮古ライブカメラ / Keiwana Expressway Miyako Live Camera</name>
+        <description>〒636-0302 奈良県磯城郡田原本町大字宮古 / Miyako, Taharahoncho, Isojo-gun, Nara 636-0302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7817228,34.5617463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町家のギャラリー輝ライブカメラ / Machiya Gallery Kagayaki Live Camera</name>
+        <description>〒635-0153 奈良県高市郡高取町大字下土佐３４１町家のギャラリー輝 / 341 Shimodosa, Takatori-cho, Takaichi-gun, Nara 635-0153, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7977461,34.4467686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川王寺町元町ライブカメラ / Yamatogawa River Ojimachi Motomachi live camera</name>
+        <description>〒636-0013 奈良県北葛城郡王寺町元町２丁目 「国土交通省河川情報センター」/ Motomachi 2-chome, Oji-cho, Kitakatsuragi-gun, Nara Prefecture 636-0013</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6958631,34.5901578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川藤井下流ライブカメラ / Yamatogawa  River Fujii downstream live camera</name>
+        <description>〒636-0014 奈良県北葛城郡王寺町藤井 / Fujii, Oji-cho, Kitakatsuragi-gun, Nara Prefecture 636-0014</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6798926,34.5778535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽我川萱野ライブカメラ / Soga River Kayano Live Camera</name>
+        <description><![CDATA[奈良県北葛城郡広陵町大字萱野 国土交通省河川情報センター  / Kayano, Koryo-cho Kitakatsuragi-gun, Nara, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7509139,34.5722904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川新御幸橋ライブカメラ / Yamatogawa Shin Miyuki Bridge Live Camera</name>
+        <description>〒636-0091 奈良県北葛城郡河合町泉台３丁目 /  3-choume Izumidai, Kawai-cho, Kitakatsuragi-gun, Nara Prefecture 636-0091</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7372933,34.5911953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和川富雄川合流点ライブカメラ / Yamatogawa River Tomio Confluence Live Camera</name>
+        <description>〒636-0054 奈良県北葛城郡河合町大字穴闇 / Nagura, Kawai-cho, Kitakatsuragi-gun, Nara, 636-0054</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7390697,34.5847522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西名阪自動車道法隆寺・郡山インターチェンジライブカメラ / Nishi-Meihan Expressway Horyuji and Koriyama interchange live camera</name>
+        <description>〒636-0055 奈良県北葛城郡河合町大字西穴闇 / Nishinagura, Kawai-cho, Kitakatsuragi-gun, Nara 636-0005</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7349249,34.5856538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉野川宮滝ライブカメラ / Yoshinogawa River Miyataki Live Camera</name>
+        <description>〒639-3443 奈良県吉野郡吉野町大字宮滝８２−１ / 82-1 Miyataki, Yoshino-cho, Yoshino-gun, Nara 639-3443</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.896354,34.376593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紀の川上市ライブカメラ / Kinokawakamiichi Live Camera</name>
+        <description>〒639-3111 奈良県吉野郡吉野町大字上市２１５０−１ / 2150-1 Kamiichi, Yoshino-cho, Yoshino-gun, Nara 639-3111</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.852152,34.392924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紀の川下渕ライブカメラ / Kinokawa Shimobuchi Live Camera</name>
+        <description><![CDATA[〒638-0821 奈良県吉野郡大淀町大字下渕  「奈良県県土マネジメント部河川課」/ Shimobuchi, Oyodo-cho, Yoshino-gun, Nara Prefecture 638-0821, "Nara Prefecture Soil Management Department River Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7829081,34.3868333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曽爾高原ライブカメラ / Soni Kogen Live Camera</name>
+        <description><![CDATA[〒633-1202 奈良県宇陀郡曽爾村大字太良路 曽爾高原 「曽爾村役場」 /  Sonikogen, Taraji, Soni-mura, Uda-gun, Nara Prefecture 633-1202, "Soni Village Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.1604877,34.517839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野川塩野橋ライブカメラ / Kumano River Shiono Bridge Live Camera</name>
+        <description>〒638-0563 奈良県吉野郡天川村大字塩野 / Shiono, Tenkawa-mura, Yoshino-gun, Nara 638-0563</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.7492033,34.2090845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川原樋川民宿かわらび荘ライブカメラ / Kawarabigawa River Minshuku Kawarabiso Live Camera</name>
+        <description>〒648-0307 奈良県吉野郡野迫川村大字北今西８４１ 民宿かわらび荘 / Minshuku Kawarabiso, 841 Kita-Imanishi, Nosakogawa-mura, Yoshino-gun, Nara 648-0307, Japan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6228643,34.1095661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野辻休憩所雲海景勝地ライブカメラ / Takanotsuji Rest Station Unkai Scenic Spot Live Camera</name>
+        <description>〒648-0301 奈良県吉野郡野迫川村大字池津川 雲海景勝地 / Iketsugawa,  Nosakogawa-mura, Yoshino-gun, Nara Prefecture 648-0301</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6423368,34.1838429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗平川砂防堰堤ライブカメラ / Kurihira River Sabo dam live camera</name>
+        <description><![CDATA[〒637-1212 奈良県吉野郡十津川村大字内原 「紀伊山系砂防事務所」/  Naibara, Totsukawa-mura, Yoshino-gun, Nara Prefecture 637-1212, "Kiiyama Sabo Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.846961,34.0728717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大滝ダム上流ライブカメラ / Otaki dam upstream live camera</name>
+        <description>〒639-3543 奈良県吉野郡川上村大字大滝９６２−１ / 962-1 Otaki, Kawakami-mura, Yoshino-gun, Nara 639-3543</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.933136,34.352626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道166号杉谷ライブカメラ / National highway No. 166 Sugitani live camera</name>
+        <description><![CDATA[〒633-2304 奈良県吉野郡東吉野村大字杉谷 「奈良県庁道路管理課」/ Sugitani, Higashiyoshino-mura, Yoshino-gun, Nara Prefecture 633-2304, "Nara Prefectural Government Road Management Division"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.06109,34.4071133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道166号木津ライブカメラ / National Road 166 Live Camera</name>
+        <description>奈良県吉野郡東吉野村大字木津 / Kidu, Higashiyoshino-mura, Yoshino-gun, Nara</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            136.0324844,34.421167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道166号鷲家ライブカメラ / National Road 166 Washika Live Camera</name>
+        <description>奈良県吉野郡東吉野村大字鷲家 / Washika, Higashiyoshino-mura, Yoshino-gun, Nara Prefecture</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9807923,34.4391863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金剛山ライブカメラ</name>
+        <description><![CDATA[〒639-2336 奈良県御所市高天 国見城址<br>https://livecamera.fujiyamasan.com/kongozan.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.6708502,34.4208573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下北山スポーツ公園ライブカメラ / Shimokitayama Sports Park Live Camera</name>
+        <description><![CDATA[〒639-3805 奈良県吉野郡下北山村上池原１０２６ 下北山スポーツ公園 総合管理事務所 「下北山村役場」/ Shimokitayama Sports Park General Management Office, 1026 Kamiikehara, Shimokitayama Village, Yoshino District, Nara Prefecture 639-3805, "Shimokitayama Village Hall"<br>https://livecamera.fujiyamasan.com/shimokitayama-sport.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.9622377,34.0478858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

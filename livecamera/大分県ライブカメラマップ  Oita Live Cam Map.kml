@@ -1,0 +1,2794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>大分県ライブカメラマップ / Oita Live Cam Map</name>
+    <description><![CDATA[ライブカメラJAPAN FUJIYAMA<br>https://livecamera.fujiyamasan.com/<br>FUJIYAMA LIVE JAPAN<br>http://livejapan.fujiyamasan.com/]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>大分県内ライブカメラ</name>
+      <Placemark>
+        <name>山国川のライブカメラ映像 / River Yamakuni Live Images</name>
+        <description>〒871-0026 大分県中津市高瀬1851-2　国土交通省 九州地方整備局 山国川河川事務所 / Ministry of Land, Infrastructure and Transport, Kyushu Regional Development Bureau, Yamakuni River Office, 1851-2 Takase, Nakatsu-shi, Oita-ken 871-0026</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1738396,33.5840212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防災カメラ情報（長洲・高津）/ Disaster Prevention Information (Nagatsu, Takatsu)</name>
+        <description>〒879-0453 大分県宇佐市上田１０３０　宇佐市役所　「宇佐市防災情報」 / Usa City Hall, 1030 Ueda, Usa-shi, Oita-ken 879-0453</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3492013,33.5322044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊後高田市内のライブカメラ映像 / Bungo Takada City Live Cam Images</name>
+        <description>〒879-0621 大分県豊後高田市是永町39−3 豊後高田市役所 / Bungotakada City Office, 39-3 Korenaga-machi, Bungotakada-shi, Oita-ken 879-0621 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4470409,33.5561953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分空港ライブカメラ / Oita Airport Live Camera</name>
+        <description><![CDATA[〒873-0421 大分県国東市武蔵町糸原　大分空港　「JAL天気情報」/ Oita Airport, Itoharu, Musashi-machi, Kunisaki-shi, Oita-ken 873-0421, "JAL Weather Information"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7326541,33.4771814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国東重販本社ライブカメラ / Kunisaki Juhan Co. Ltd. Live Camera</name>
+        <description>〒８７３－００３１　大分県杵築市狩宿２５０９－３０ 国東重販 / Kunisaki Juhan Co. Ltd., 2509-30 Kariyado, Kitsuki-shi, Oita-ken 873-0031</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6875683,33.4207369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>別府湯けむりライブカメラ / Tetsuwa Onsen, Beppu City Live Camera</name>
+        <description>〒874-0042 大分県別府市 鉄輪東８組 / 8-kumi, Tetsuwa, Beppu-shi, Oita-ken 874-0042</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4832164,33.3177981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Live @APU</name>
+        <description>〒874-8577 大分県別府市十文字原１−１　立命館アジア太平洋大学　「APU 校友会」/ Ritsumeikan Asia Pacific University, 1-1 Jumonjibaru, Beppu-shi, Oita-ken 874-8577</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4684203,33.3370608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分自動車道別府湾サービスエリアライブカメラ / Oita Expressway Beppu Bay Service Area Live Camera</name>
+        <description><![CDATA[大分県別府市内竈  大分自動車道(大分道)別府湾サービスエリア 「西日本高速道路」/ Oita Expressway Beppu Bay Service Area, Uchikamado, Beppu City, Oita Prefecture, "West Japan Expressway"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.462746,33.335405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分自動車道 由布岳PA / Oita Highway Yufu-dake Parking Area</name>
+        <description>大分県由布市湯布院町塚原 「西日本高速道路株式会社 大分高速道路事務所」 / Tsukahara, Yufuin-cho, Yufu City, Oita, West Nippon Expressway Company Ltd. Oita highway office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3975143,33.3034166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯布院ライブカメラ / Yufuin Live Camera</name>
+        <description>〒879-5196 大分県由布市湯布院町川南１０８−１ ゆふいん山水館 / Hotel Yufuin Sansuikan, 108-1 Kawaminami, Yufuin-cho, Yufu-shi, Oita-ken 879-5196 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3569164,33.2593873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯布院ライブカメラ / Yufuin</name>
+        <description>大分自動車道湯布院IC 西日本高速道路 大分高速事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.329494,33.257709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯布院カントリークラブ / Yufuin Country Club</name>
+        <description>〒879-5112大分県由布市湯布院町湯平1211-2　湯布院カントリークラブ　レークサイドコース / 1211-2 Yudaira, Yufuin-cho, Yufu City, Oita 879-5112, Yufuin Country Club, Lakeside Course</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.301212,33.1974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水分パーキングエリア / Mizuwake Parking Area</name>
+        <description>〒879-4802 大分県玖珠郡九重町野上 「西日本高速道路大分高速道路事務所」/ Nogami, Kokonoe-cho, Kusu-gun, Oita 879-4802</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2463665,33.247517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長者原からみた三俣山 / Mt. Mimatayama from Chojagahara</name>
+        <description>大分県玖珠郡九重町田野255-33　長者原　インターネット自然研究所 / 255-33 Tano, Kokonoe-cho, Kusu-gun, Oita, Chojagahara, Internet Nature Information System</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.227055,33.119222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日田玖珠九重Webカメラ / Hita Kusu Kokonoe webcam</name>
+        <description>〒877-0025 大分県日田市田島２丁目６−１ 日田市役所 / 2-6-1 Tajima, Hita City, Oita 877-0025, Hita City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9410667,33.3213485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松原ダムライブカメラ / Matsubara Dam</name>
+        <description>〒877-0201 大分県日田市大山町西大山8492−3 国土交通省筑後川ダム統合管理事務所 松原ダム管理支所 / Matsubara Dam Management Branch Office of Chikugo River Dam Office, 8492-3 Nishioyama, Oyama-machi, Hita-shi, Oita-ken 877-0201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9928465,33.1946812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下筌ダム / Shimouke Dam</name>
+        <description>熊本県阿蘇郡小国町蜂の巣湖 / Lake Hachinosu, Oguni-cho, Aso-gun, Kumamoto</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9842396,33.1599003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳴子川大吊橋ライブカメラ / River Naruko Otsurihashi Bridge</name>
+        <description><![CDATA[大分県玖珠郡九重町大字田野１２０８番地 九重“夢”大吊橋 / 1208 Tano, Kokonoe-cho, Kusu-gun, Oita, Kokonoe "Dream" Bridge]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.22684,33.173911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オートポリスWEBカメラ / AUTOPOLIS Webcam　</name>
+        <description>〒877-0312 大分県日田市上津江町上野田1112-8　株式会社オートポリス / AUTOPOLIS Ltd., 1112-8 Uenoda, Kamitsue-machi, Hita-shi, Oita-ken 877-0312</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9734682,33.0392126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県ソフトパーク / Oita Soft Park</name>
+        <description>〒870-0037 大分県大分市東春日町１７−２０ ソフトパークセンタービル / Soft Park Center Building, 17-20 Higashikasuga-cho, Oita-shi, Oita-ken 870-0037</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5996621,33.2416492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分かんたん港園 / Oita Kantan Port Park</name>
+        <description>大分県大分市生石５-８-８ / 5-8-8 Ikushi, Oita, Oita</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.58205,33.248737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川・大野川河川LIVE映像 / Oita River and Ono River LIVE Images</name>
+        <description>〒870-0820 大分県大分市西大道一丁目１番７１号 国土交通省九州地方整備局大分河川国道事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau, Oita River National Highway Office,1-1-71 Nishiomichi, Oita-shi, Oita-ken 870-0820</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.597701,33.2327558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関崎灯台からの映像 / Images from Kanzaki Lighthouse</name>
+        <description>〒879-2201 大分県大分市佐賀関 関崎灯台 大分海上保安部 / Kanzaki Lighthouse, Oita Coast Guard, Saganoseki, Oita-shi, Oita-ken 879-2201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9020461,33.2668169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防災カメラ　臼杵地域・野津地域 / Disaster Prevention Camera - Usuki Area and Nodu Area</name>
+        <description>〒875-0041 大分県臼杵市大字臼杵洲崎72−1　臼杵市役所 / Usuki City Hall, 72-1 Susaki, Usuki, Usuki-shi, Oita-ken 875-0041</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8051257,33.1260129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津久見市観光情報提供システム「つくみウェブカメラ」</name>
+        <description>〒879-2435 大分県津久見市宮本町２０−１５　津久見市役所　</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8612763,33.0721849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[つくみウェブカメラ「大友公園」 / Tsukumi Webcam "Otomo Park"]]></name>
+        <description>大分県津久見市大友町６　大友公園 / 6 Otomo-cho, Tsukumi City, Oita, Otomo Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.865849,33.071243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[つくみウェブカメラ「四浦公園」 / Tsukumi Webcam "Youra Park"]]></name>
+        <description>〒 879-2683　大分県津久見市大字四浦　津久見市役所 / Youra, Tsukumi City, Oita 879-2683, Tsukumi City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.989617,33.068564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上浦ライブカメラ / Kamiura Live Camera</name>
+        <description><![CDATA[〒879-2601 大分県佐伯市上浦大字浅海井浦１４４−５　佐伯市役所 上浦振興局上浦地区公民館　「佐伯市観光協会」/ Saiki City Hall Kamiura Promotion Bureau Kamiura district public hall, 144-5 Azamuiura, Kamiura, Saiki-shi, Oita-ken 879-2601, "Saiki City Tourism Association"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9226511,33.0452416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長門記念病院 / Nagato Memorial Hospital</name>
+        <description>〒876-0835 大分県佐伯市鶴岡町１丁目１１−５９ 長門記念病院 / Nagato Memorial Hospital, 11-59 Tsuruoka-machi 1-chome, Saiki-shi, Oita-ken 876-0835</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.881599,32.95895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>番匠大橋ライブカメラ / Banjo Ohashi Bridge</name>
+        <description>大分県佐伯市弥生大字小田 河川ライブ画像 佐伯河川国道事務所 / Oda, Yayoi, Saiki City, Oita, River Live Images, Saiki River and National Highway Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.842632,32.955799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北川ダムネットワークカメラ / Kitagawa Dam Network Camera</name>
+        <description>〒879-3302 大分県佐伯市宇目大字南田原2369 大分県北川ダム管理事務所 / Oita Prefecture Kitagawa Dam Management Office, 2369 Umeminamitabaru, Saiki-shi, Oita-ken 879-3302</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6071642,32.7904721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPA直入Web Camera / SPA Naoiri webcam</name>
+        <description>〒878-0403 大分県竹田市直入町大字上田北５１０−１５ ＳＰＡ直入 / SPA Naoiri, 510-15 Kamitagita, Naoiri-machi, Taketa-shi, Oita-ken 878-0403</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4092946,33.1014199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くじゅう連山ライブカメラ / Kuju Mountain Range</name>
+        <description>大分県竹田市久住町 九重連山 竹田市役所 / Kuju-cho, Takeda City, Oita, Kuju Mountain Range, Takeda City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.265678,33.094705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>くじゅう花公園ライブカメラ / Kuju Hanakouen (Flower Park) Live Camera</name>
+        <description>〒878-0201 大分県竹田市久住町大字久住４０５０ / Kuju Flower Park, 4050 Kuju, Kuju-machi, Taketa-shi, Oita-ken 878-0201</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2449821,33.0480172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田市ライブカメラ / Takeda City Live Camera</name>
+        <description>〒878-0011 大分県竹田市会々１６５０　竹田市役所 / Takeda City Hall, 1650 Aiai, Takeda-shi, Oita-ken 878-001</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3978264,32.9736616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡城址大手門ライブカメラ / Oka-jo Castle Otemon</name>
+        <description><![CDATA[大分県竹田市竹田 岡城阯 竹田市役所 / Taketa, Taketa City, Oita, Oka-jo Castle, "Taketa City Hall"<br>https://livecamera.fujiyamasan.com/oita-takeda-okajo.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.390841,32.970958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田調整池堰周辺ライブカメラ / Takeda regulating pond weir live camera</name>
+        <description>大分県竹田市大字入田・竹田　「竹田調整池堰ライブカメラ」/ Irita and Taketa, Taketa-shi, Oita-ken</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3908303,32.9579774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道５７号戸上ライブカメラ / National Highway No.57, Toue</name>
+        <description><![CDATA[大分県竹田市戸上 佐伯河川国道事務所 / Toue, Taketa City, Oita, "Saiki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.313486,32.9538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道57号線田代 / National Highway No.57, Tashiro</name>
+        <description>大分県竹田市田代 佐伯河川国道事務所/ Tashiro, Taketa City, Oita, National Highway No57, Saeki River National Highway Office</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2547779,32.9607141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>陽目渓谷ライブカメラ / Hinatame Valley</name>
+        <description>大分県竹田市荻町陽目 陽目渓谷 竹田市役所 / Hinatame, Hagi-machi, Takeda City, Oita, Hinatame Valley, Takeda City Hall</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.279132,32.88193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九州高速道路ライブカメラ / Kyushu Expressway Live Camera</name>
+        <description>〒870-0879 大分県大分市金谷迫１４３８ 西日本高速道路（株） 九州支社大分高速道路事務所 / West Japan Highway Corporation Kyushu Branch Office Oita Expressway Office, 1438 Kanayazako, Oita-shi, Oita-ken 870-0879</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.573784,33.224352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松原・下筌ダムの風景 / Matsubara Dam and Shimouke Dam</name>
+        <description>〒830-0002 福岡県久留米市高野１丁目２−２ 国土交通省筑後川ダム統合管理事務所 / Ministry of Land, Infrastructure and Transport Chikugo River Dam Integrated Management Office, 1-2-2 Takano, Kurume-shi, Fukuoka-ken 830-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.524833,33.33123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川・矢部川・喜瀬川 / Chikugo River, Yabe River and Kise River</name>
+        <description>〒830-0002 福岡県久留米市高野１丁目２−１　国土交通省 九州地方整備局 筑後川河川事務所 / Ministry of Land, Infrastructure and Transport Kyushu Regional Development Bureau Chikugo River River Office, 1-2-1 Takano, Kurume-shi, Fukuoka-ken 830-0002</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.525819,33.331372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県内国道・河川ライブカメラ</name>
+        <description>〒876-0813 大分県佐伯市長島町４丁目４−１４−１４ 国土交通省佐伯河川国道事務所</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.906438,32.953976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七瀬川廻栖野樋管ライブカメラ / Nanasegawa Megusuno Hikan Live Camera</name>
+        <description><![CDATA[大分県大分市廻栖野 「国土交通省河川情報センター」/Megusuno, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5507433,33.177517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川種具ライブカメラ / Ono River Tanegu Live Camera</name>
+        <description><![CDATA[大分県大分市種具 「国土交通省河川情報センター」/ Tanegu, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6987896,33.2177191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OBS大分放送ライブカメラ / OBS Oita Broadcast Live Camera</name>
+        <description>〒870-0938 大分県大分市今津留３丁目１−１ (株)大分放送 (ＯＢＳ) / Oita Broadcasting Co., Ltd. (OBS), 3-1-1 Imazuru Oita City, Oita Prefecture 870-0938   </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.626962,33.2415509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七瀬川一ノ瀬橋ライブカメラ / Nanase River Ichinosebashi Live Camera</name>
+        <description>大分県大分市野津原 「国土交通省河川情報センター」/ Notsuhara, Oita City, Oita Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5256656,33.1607113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尼ヶ瀬川尼ヶ瀬樋門ライブカメラ / Amagase River Amagase Himon Live Camera</name>
+        <description><![CDATA[大分県大分市荏隈 「国土交通省河川情報センター」/ Ebara, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5808544,33.2082937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住吉川西田室橋ライブカメラ / Sumiyoshi River Nishidamurobashi Live Camera</name>
+        <description><![CDATA[大分県大分市中春日町 「国土交通省河川情報センター」/ Nakakasuga Town, Oita City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5963448,33.2376466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原川日岡橋ライブカメラ / Harukawa River Hioka Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市高松東3丁目 「国土交通省河川情報センター」/ 3-chome Takamatsu Higashi, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6654291,33.249087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>米良川木ノ元橋ライブカメラ / Meragawa River Kinomoto Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市片島 「国土交通省河川情報センター」/ Katashima, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6345286,33.208446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河原内川瓜生橋ライブカメラ / Kawarauchi River Uryu Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市竹中「国土交通省河川情報センター」/ Takenaka, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6501791,33.1301701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川筒井大橋ライブカメラ / Onogawa River Tsutsui Ohashi Live Camera</name>
+        <description><![CDATA[大分県大分市上戸次 「国土交通省河川情報センター」/ Kamihetsugi, Oita City, Oita Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.65569,33.1130716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北鼻川大堀樋門ライブカメラ / Kitabana River Ohorihimon Live Camera</name>
+        <description><![CDATA[大分県大分市毛井 「国土交通省河川情報センター」/ Kei, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6783013,33.190341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丹生川川田橋ライブカメラ / Nyugawa Kawatabashi live camera</name>
+        <description><![CDATA[大分県大分市里 「国土交通省河川情報センター」/ Sato, Oita-shi, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.737604,33.2290858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋山川屋山橋ライブカメラ / Yayama River Yayamabashi Live Camera</name>
+        <description><![CDATA[大分県大分市屋山 「国土交通省河川情報センター」/ Yayama, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7409583,33.2184682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾田川宮崎橋ライブカメラ / Odagawa Miyazakibashi Live Camera</name>
+        <description><![CDATA[大分県大分市坂ノ市西2丁目 「国土交通省河川情報センター」/ 2-chome, Sakanoichinishi, Oita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7486587,33.2257566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>子猫川桜橋ライブカメラ / Konekogawa Sakurabashi live camera</name>
+        <description><![CDATA[大分県大分市木佐上 「国土交通省河川情報センター」/ Kisagami, Oita City, Oita Prefecture,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.79441,33.2304195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志生木川十谷橋ライブカメラ / Shukigawa River Jutani Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市志生木 「国土交通省河川情報センター」/ Shuki, Oita City, Oita Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.841841,33.2320792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸次古川静橋ライブカメラ / Hetsugifurukawa River Shizuka Bridge Live Camera</name>
+        <description><![CDATA[〒879-7763 大分県大分市大字下戸次 「大分県」/ Shimohetsugi, Oita City Oita Prefecture 879-7763, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6859555,33.1621714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祓川祓川水位観測所ライブカメラ / Haraigawa River Haraigawa River Water Level Observatory Live Camera</name>
+        <description><![CDATA[大分県大分市大字八幡 「大分県」/ Yawata, Oita City, Oita Prefecture  "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5525017,33.2199746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七瀬川胡麻鶴橋ライブカメラ / Nanasegawa Gomatsurubashi Live Camera</name>
+        <description><![CDATA[大分県大分市廻栖野 胡麻鶴橋「大分河川国道事務所」/ Gomatsurubashi, Megusuno, Oita-shi, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5537049,33.177768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川賀来川合流地点ライブカメラ / Oita River Kakugawa Confluence Live Camera</name>
+        <description><![CDATA[大分県大分市大字賀来 「大分河川国道事務所」/ Kaku, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5599937,33.2169308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>賀来川宮苑ライブカメラ / Kakugawa Miyazono Live Camera</name>
+        <description><![CDATA[〒870-0878 大分県大分市大字宮苑「大分河川国道事務所」/  Miyazono, Oita City, Oita Prefecture  870-0878, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5437598,33.222363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川明磧橋ライブカメラ / Oita River Akegawarabashi Bridge live camera</name>
+        <description><![CDATA[大分県大分市大字奥田 明磧橋 「大分河川国道事務所」/ Akegawara Bridge, Okuda, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.58633,33.2051766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川府内大橋ライブカメラ / Oita River Funai Ohashi Live Camera</name>
+        <description><![CDATA[〒870-1132 大分県大分市大字畑中 府内大橋 「大分河川国道事務所」/ Funai Ohashi,   Hatanaka, Oita City, Oita Prefecture 870-1132, <br>"Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6059173,33.2014182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川舞鶴橋ライブカメラ / Oita River Maiduru Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市長浜町３丁目１６ 舞鶴橋「大分河川国道事務所」/ 3-16 Nagahama-cho, Oita-shi, Oita Maizuru Bridge "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6220097,33.2393662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川弁天大橋ライブカメラ /Oita River Benten Ohashi Live Camera </name>
+        <description><![CDATA[〒870-0042 大分県大分市豊町１丁目２ 弁天大橋 「大分河川国道事務所」/Benten Ohashi, 1-2 Yutaka-machi, Oita 870-0042,  "Oita River National Highway Office,"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6195981,33.2470081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川津留ライブカメラ / Oita River Tsuru Live Camera</name>
+        <description><![CDATA[大分県大分市大字津留 「大分河川国道事務所」/ Tsuru, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6264403,33.2325971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川豊海ライブカメラ / Oita River Toyomi Live Camera</name>
+        <description><![CDATA[〒870-0018 大分県大分市豊海 「大分河川国道事務所」/ Toyomi, Oita City, Oita Prefecture 870-0018, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6099142,33.2570402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川竹中排水機場ライブカメラ / Onogawa Takenaka drainage pumping station live camera</name>
+        <description><![CDATA[大分県大分市竹中 「大分河川国道事務所」/ Takenaka, Oita City, Oita Prefecture "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6558915,33.1343281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川白滝橋ライブカメラ / Ono River Shirataki Bridge Live Camera</name>
+        <description><![CDATA[〒879-7761 大分県大分市大字中戸次川床 白滝橋 「大分河川国道事務所」/ Shirataki Bridge, Kawadoko, Nakahetsugi, Oita City, Oita Prefecture  879-7761, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.650064,33.160688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>判田川昆布刈橋ライブカメラ / Handagawa River Konbugari Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市下判田 「大分河川国道事務所」/ Shimohanda, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.638464,33.1691647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川大津留ライブカメラ / Onogawa Otsuru Live Camera</name>
+        <description><![CDATA[〒870-0123 大分県大分市大字大津留 「大分河川国道事務所」/ Otsuru, Oita City, Oita Prefecture 870-0123, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6815953,33.1935644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙津川高田橋ライブカメラ / Otsugawa Takada Bridge Live Camera</name>
+        <description><![CDATA[大分県大分市森 「大分河川国道事務所」/ Mori, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6816593,33.214498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙津川三ツ川ライブカメラ / Otodugawa Mitsukawa Live Camera</name>
+        <description><![CDATA[〒870-0142 大分県大分市三川下 「大分河川国道事務所」/ 〒870-0142 Mikawashita, Oita City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6691358,33.248571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙津川三佐ライブカメラ / Otodugawa River Misa Live Camera</name>
+        <description><![CDATA[〒870-0108 大分県大分市三佐 「大分河川国道事務所」/  Misa, Oita City, Oita Prefecture 870-0108 , "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6797266,33.2517928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川家島ライブカメラ / Onogawa Iejima live camera</name>
+        <description><![CDATA[〒870-0113 大分県大分市大字家島 「大分河川国道事務所」/ Iejima, Oita Oita Prefecture  870-0113, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6946748,33.2572934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川小中島ライブカメラ / Onogawa Konakajima Live Camera</name>
+        <description><![CDATA[〒870-0114 大分県大分市小中島 「大分河川国道事務所」/ Konakajima, Oita City, Oita Prefecture  870-0114, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6977885,33.2484786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川青崎ライブカメラ / Onogawa Aosaki Live Camera</name>
+        <description>〒870-0278 大分県大分市青崎 「大分河川国道事務所」/ Aosaki, Oita City, Oita Prefecture 870-0278, Oita River National Highway Office,</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.704638,33.257864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝見川蓮田橋ライブカメラ / Asami River Hasudabashi Live Camera</name>
+        <description><![CDATA[〒874-0947 大分県別府市浜脇３丁目 「国土交通省河川情報センター」/  3-chome Hamawaki, Beppu City, Oita Prefecture 874-0947,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5022193,33.2712645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分自動車道天間バスストップ付近ライブカメラ / Oita Expressway Tenma Bus Stop Live Camera</name>
+        <description><![CDATA[〒874-0000 大分県別府市大字南畑 大分自動車 道 天間バスストップ 「NEXCO西日本」/ Oita Expressway Tenma Bus Stop, Beppu City, Oita Prefecture 874-0000, "NEXCO West Japan"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4262857,33.3411865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>別府扇山ゴルフ倶楽部ライブカメラ / Beppu Ogiyama Golf Club Live Camera</name>
+        <description>〒874-0840 大分県別府市大字鶴見４５５０−１ 別府扇山ゴルフ倶楽部 / Beppu Ogiyama Golf Club, 4550-1 Tsurumi, Beppu City, Oita Prefecture 874-0840</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.45287,33.304856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号別府市浜脇ライブカメラ / National highway No. 10 Beppu city Hamawaki live camera </name>
+        <description><![CDATA[〒874-0947 大分県別府市浜脇 「大分河川国道事務所」/ Hamawaki, Beppu City, Oita Prefecture 874-0947, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5094031,33.2694425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号別府市京町ライブカメラ / National highway No. 10 Beppu city Kyomachi live camera </name>
+        <description><![CDATA[〒874-0926 大分県別府市京町 「大分河川国道事務所」/ Kyomachi, Beppu City, Oita Prefecture 874-0926, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5056538,33.2872371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号別府市汐見町ライブカメラ / National highway No. 10 Shiomi-cho, Beppu city live camera</name>
+        <description><![CDATA[〒874-0918 大分県別府市汐見町 「大分河川国道事務所」/ Shiomi Town, Beppu City, Oita Prefecture 874-0918, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5019042,33.30503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>左津留川南津留小学校橋ライブカメラ / Saduru River Minami Tsuru Elementary School Bridge Live Camera</name>
+        <description><![CDATA[大分県臼杵市下中尾 「国土交通省河川情報センター」/ Shimonakao, Usuki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7577522,33.0921502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>温井川福良1号橋ライブカメラ / Nukuigawa River Fukura No. 1 Bridge Live Camera</name>
+        <description><![CDATA[大分県臼杵市千代田 「国土交通省河川情報センター」/ Chiyoda, Usuki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7873776,33.1126254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海添川竹尾橋ライブカメラ / Kaizoe River Takeo Bridge Live Camera</name>
+        <description>大分県臼杵市海添 「国土交通省河川情報センター」/ Kaizoe, Usuki City, Oita Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8046441,33.1157378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末広川黒丸橋ライブカメラ / Suehiro River Kuromaru Bridge Live Camera</name>
+        <description><![CDATA[大分県臼杵市井村 「国土交通省河川情報センター」/ Imura, Usuki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.777922,33.1361196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊崎川堂篭橋ライブカメラ / Kumazaki River Dogomori Bridge Live Camera</name>
+        <description><![CDATA[大分県臼杵市稲田 「国土交通省河川情報センター」/ Inada, Usuki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7898401,33.1465994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐志生川山崎橋ライブカメラ / Sashugawa River Yamazaki Bridge Live Camera</name>
+        <description><![CDATA[大分県臼杵市佐志生 「国土交通省河川情報センター」/ Sashu, Usuki City, Oita Prefecture, <br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8245496,33.1775285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東海添ライブカメラ / Higashikaizoe Live Camera</name>
+        <description><![CDATA[大分県臼杵市大字海添 「臼杵市役所」/ Kaizoe, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8178415,33.1013239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>門前ライブカメラ / Monzen Live Camera</name>
+        <description><![CDATA[大分県臼杵市前田  「臼杵市役所」/ Maeda, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7785097,33.1124842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勘場ライブカメラ / Kanba Live Camera</name>
+        <description><![CDATA[大分県臼杵市武山 「臼杵市役所」/ Takeyama, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7323385,33.0910994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>障子岩ライブカメラ / Shoujiiwa Live Camera</name>
+        <description><![CDATA[大分県臼杵市掻懐(掻壊) 「臼杵市役所」/ Kakidaki, Usuki City, Oita Prefecture, "Usuki City Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7405197,33.0927193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>臼杵川万里橋ライブカメラ / Usukigawa Maribashi live camera</name>
+        <description><![CDATA[〒875-0052 大分県臼杵市上市浜「大分県」/ Kamiichihama, Usuki City, Oita Prefecture 875-0052, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7886302,33.1161771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒瀬橋野津川王子川合流点ライブカメラ / Arasebashi Notsugawa Oji River Confluence Live Camera</name>
+        <description><![CDATA[大分県臼杵市野津町原 「臼杵市役所」/ Hara, Nozucho, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6882982,33.0420281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清水原野津川垣河内川合流点ライブカメラ / Shimizubara Nozugawa Kakikawachi River Confluence Live Camera</name>
+        <description><![CDATA[大分県臼杵市野津町大字清水原「臼杵市役所」/ Shimizuhara, Nozu Town, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7183345,33.0071973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉田川野津ライブカメラ / Yoshidagawa Nozu Live Camera</name>
+        <description><![CDATA[〒875-0222 大分県臼杵市野津町大字吉田１６１ 臼杵市 南野津地区公民館 「臼杵市役所」/ Usuki City Minami-notsu district public hall, 161 Yoshida, Nozu-cho, Usuki-shi, Oita 875-0222, "Usuki-shi government office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.665081,33.015481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泊ケ内ライブカメラ / Tomarigauchi Live Camera</name>
+        <description><![CDATA[〒875-0031 大分県臼杵市泊ケ内 「臼杵市役所」/ 〒875-0031 Tomarigauchi, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9010384,33.1263752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柿ノ浦ライブカメラ / Kakinoura Live Camera</name>
+        <description><![CDATA[〒875-0031 大分県臼杵市柿ノ浦 「臼杵市役所」/ Kakinoura, Usuki City, Oita Prefecture 875-0031, Japan, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8737341,33.1236675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐志生ライブカメラ / Sashiu Live Camera</name>
+        <description><![CDATA[〒875-0001 大分県臼杵市大字佐志生 「臼杵市役所」/ Sashiu, Usuki City, Oita Prefecture 875-0001,  "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8252971,33.1887587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道205号臼杵坂ノ市線徳尾ライブカメラ / Oita Prefectural Road No. 205 Usuki Sakanoichi Line Tokuo Live Camera</name>
+        <description><![CDATA[大分県臼杵市大字藤河内 徳尾橋 「臼杵市役所」/ Tokuo Bridge, Fujikawachi, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7849314,33.1544896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道546号田井ライブカメラ / Oita Prefectural Road No. 546 Tai Live Camera</name>
+        <description><![CDATA[〒875-0003 大分県臼杵市大字田井 「臼杵市役所」/ Tai, Usuki City, Oita Prefecture 875-0003,<br>"Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8097633,33.1585881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸室ライブカメラ / Tomuro Live Camera</name>
+        <description><![CDATA[大分県臼杵市大字戸室 「臼杵市役所」/ Tomuro, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7895627,33.1230504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道502号野田ライブカメラ / National highway No. 502 Noda live camera</name>
+        <description><![CDATA[大分県臼杵市野田 「臼杵市役所」/ Noda, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7829829,33.1113008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>臼杵市役所ライブカメラ / Usuki City Hall Live Camera</name>
+        <description><![CDATA[〒875-0041 大分県臼杵市大字臼杵 臼杵市役所 / Usuki, Usuki City, Oita Prefecture 875-0041<br>Usuki City Hall]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8047139,33.1259186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末広川黒丸ライブカメラ / Suehirogawa River Kuromaru Live Camera</name>
+        <description><![CDATA[大分県臼杵市大字末広 「臼杵市役所」/ Suehiro, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7798294,33.1316066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土橋交差点ライブカメラ / Dobashi intersection live camera</name>
+        <description><![CDATA[大分県臼杵市福良 「臼杵市役所」/ Fukura, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7898882,33.1137746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道205号臼杵坂ノ市線新地交差点ライブカメラ / Oita Prefectural Road No. 205 Usuki Sakanoshi Line Shinchi Intersection Live Camera</name>
+        <description><![CDATA[大分県臼杵市市浜新地 「臼杵市役所」/ Ichihamashinchi, Usuki City, Oita Prefecture<br>"Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.794877,33.1239126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>臼杵川深田ライブカメラ / Usuki River Fukada Live Camera</name>
+        <description><![CDATA[大分県臼杵市深田 「臼杵市役所」/ Fukada, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7652309,33.0954473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乙見ダムライブカメラ / Otomi dam live camera</name>
+        <description><![CDATA[大分県臼杵市乙見 「臼杵市役所」/  Otsumi,  Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7398896,33.0653117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石場ダムライブカメラ / Ishiba dam live camera </name>
+        <description><![CDATA[大分県臼杵市野津町東谷 「臼杵市役所」/ Higashidani, Nozu Town, Usuki City, Oita Prefecture, "Usuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6583347,32.9762808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Visitor Center Cam1 Tsukumi のライブ ストリーム</name>
+        <description>〒879-2683 大分県津久見市大字四浦２２１８−１０ 里の駅つくみマルシェ（津久見市観光交流館）/ Village Station Tsukumi Marche (Tsukumi City Tourism Exchange Center) , 2218-10 Shiura, Tsukumi City, Oita Prefecture 879-2683</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.9550539,33.0699061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津久見川下岩屋橋ライブカメラ / Tsukumi River Shimoiwaya Bridge Live Camera</name>
+        <description><![CDATA[大分県津久見市宮本町 「国土交通省河川情報センター」/ Miyamoto Town, Tsukumi City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8628518,33.0708063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うみかぜラヂオライブカメラ / Umikaze Radio Live Camera</name>
+        <description><![CDATA[〒879-2441 大分県津久見市中央町 「うみかぜラヂオ」/  Chuo Town, Tsukumi City, Oita Prefecture, 879-2441, "Umikaze Radio"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8644227,33.0758638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青江川青江ダム下流ライブカメラ / Aoe River Aoe Dam Downstream Live Camera</name>
+        <description><![CDATA[大分県津久見市上青江「大分県」/ Kamioe, Tsukumi City, Oita Prefecture "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7979546,33.0676662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青江川青江ダム上流ライブカメラ / Aoe River Aoe Dam upstream live camera</name>
+        <description><![CDATA[〒879-2461 大分県津久見市川内７０３６−９７９ 青江ダム管理事務所 「大分県」/ Aoe Dam Management Office, 7036-979 Kawauchi, Tsukumi City, Oita Prefecture 879-2461, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8055056,33.0707096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青江川桜ヶ瀬橋ライブカメラ / Aoegawa Sakuragasebashi live camera</name>
+        <description><![CDATA[大分県津久見市大字下青江 「大分県」/ Shimoaoe, Tsukumi City, Oita Prefecture<br> "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.846416,33.0745374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向洋保育園園庭ライブカメラ / Koyo nursery school live camera</name>
+        <description>〒879-2452 大分県津久見市中町５−３６ 向洋保育園 / Koyo Nursery School, 5-36 Nakamachi, Tsukumi City, Oita Prefecture 879-2452</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.841638,33.078503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JF6ZZP杵築臥牛アマチュア無線クラブライブカメラ / JF6ZZP Kitsuki Kikko amateur radio club live camera</name>
+        <description><![CDATA[〒873-0034 大分県杵築市大字横城 「JF6ZZP杵築臥牛アマチュア無線」/ Yokogi, Kitsuki City, Oita Prefecture 873-0034, "JF6ZZP Kitsuki Kikko amateur radio"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6946748,33.4427996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石丸川角石橋ライブカメラ / Ishimaru River Kadoishibashi live camera</name>
+        <description><![CDATA[大分県杵築市大田石丸 「国土交通省河川情報センター」/ Ota Ishimaru, Kitsuki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5562909,33.4954154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川大川司橋ライブカメラ / Yasaka River Okawa Shihashi live camera</name>
+        <description><![CDATA[大分県杵築市山香町広瀬 「国土交通省河川情報センター」/ Hirose, Yamaka Town, Kitsuki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5340997,33.4280522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高山川大内草場ライブカメラ / Takayama River Ouchi Kusaba Live Camera</name>
+        <description><![CDATA[〒873-0006 大分県杵築市大字大内草場 「杵築市役所」/ Ouchi Kusaba, Kitsuki City, Oita Prefecture 873-0006, "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6198928,33.4293512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川鹿倉大橋ライブカメラ / Yasaka River Kakura Ohashi Live Camera</name>
+        <description><![CDATA[〒873-0015 大分県杵築市大字八坂 「杵築市役所」/ Yasaka, Kitsuki City, Oita Prefecture 873-0015, "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5687331,33.4212353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高山川宮司橋ライブカメラ / Takayama River Miyajibashi live camera</name>
+        <description><![CDATA[〒873-0023 大分県杵築市大字鴨川 「大分県」/ Kamogawa, Kitsuki City, Oita Prefecture 873-0023 , "Oita Prefecture" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6036766,33.4348143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川竜頭橋ライブカメラ / Yasaka River Ryuzu Bridge Live Camera</name>
+        <description>〒879-1307 大分県杵築市山香町大字野原１３５６ 「杵築市役所」/ 1356 Nohara, Yamaka-cho, Kitsuki-shi, Oita Prefecture 879-1307 “Kitsuki City Hall”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5053529,33.4408313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小谷川恒道橋ライブカメラ / Kotanigawa Tsunemichi Bridge Live Camera</name>
+        <description><![CDATA[大分県杵築市山香町野原恒道 「杵築市役所」/ Tsunemichi Nohara, Yamaka-cho, Kitsuki City, Oita Prefecture "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5096082,33.448689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井手橋ライブカメラ / Oitebashi live camera</name>
+        <description><![CDATA[〒879-1305 大分県杵築市山香町大字倉成 「杵築市役所」/ Yamagamachi Kuranari, Kitsuki City, Oita Prefecture 879-1305 , "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5162761,33.4634923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川大左右橋ライブカメラ / Yasaka River Daiso Bridge Live Camera</name>
+        <description><![CDATA[大分県杵築市八坂大左右 「杵築市役所」/ Yasaka Daiso, Kitsuki City, Oita Prefecture<br>"Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5566788,33.4119169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川錦江橋ライブカメラ / Yasakagawa Kinkobashi Live Camera</name>
+        <description><![CDATA[〒873-0005 大分県杵築市大字猪尾 錦江橋 「杵築市役所」/ Kinokobashi, Inoo, Kitsuki City, Oita Prefecture 873-0005, "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6161221,33.4087776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂川杵築大橋ライブカメラ / Yasakagawa Kitsuki Ohashi Live Camera</name>
+        <description><![CDATA[〒873-0005 大分県杵築市大字杵築 国道213号線 杵築大橋 「杵築市役所」/ Kitsuki Ohashi, Kitsuki, Kitsuki City, Oita Prefecture 873-0005<br>"Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6273701,33.4127773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩田交差点ライブカメラ / Shioda intersection live camera</name>
+        <description><![CDATA[〒873-0001 大分県杵築市大字杵築塩田 「杵築市役所」/ Kitsuki Shioda, Kitsuki City, Oita Prefecture 873-0001, "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.632987,33.4176249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杵築バスターミナル付近交差点ライブカメラ / Kitsuki bus terminal near intersection live camera</name>
+        <description><![CDATA[大分県杵築市大字杵築北浜 「杵築市役所」/ Kitsuki Kitahama, Kitsuki City, Oita Prefecture<br>"Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6227204,33.4193204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大内簡易郵便局交差点ライブカメラ / Ouchi Simple Post Office Intersection Live Camera</name>
+        <description><![CDATA[大分県杵築市大内西大内山「杵築市役所」/ Ouchi Nishi Ouchiyama, Kitsuki City, Oita Prefecture, "Kitsuki City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6317327,33.4259528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号立石峠1ライブカメラ / National highway No. 10 Tateishi pass 1 live camera</name>
+        <description><![CDATA[〒879-1301 大分県杵築市山香町大字向野 「大分河川国道事務所」/ Mukuno, Yamaga Town, Kitsuki City, Oita Prefecture 879-1301,<br>"Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4462559,33.5012616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号立石峠2ライブカメラ / National highway No. 10 Tateishi pass 2 live camera</name>
+        <description><![CDATA[〒879-1302 大分県杵築市山香町大字立石 「大分河川国道事務所」/ Tateishi, Yamaga Town, Kitsuki City, Oita Prefecture 879-1302, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4762754,33.4890553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号別府湾ロイヤルホテル屋上ライブカメラ / National highway No. 10 Beppu Bay Royal Hotel rooftop live camera</name>
+        <description><![CDATA[〒879-1508 大分県速見郡日出町大字平道 入江１８２５ Hotel & Resorts BEPPUWAN 「大分河川国道事務所」/ Hotel & Resorts BEPPUWAN 1825, Hiramichi Irie, Hiji-machi, Hayami-gun, Oita Prefecture 879-1508, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.498515,33.35609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[国道10号赤松1&2ライブカメラ / National highway No. 10 Akamatsu 1 and 2 live camera]]></name>
+        <description><![CDATA[〒879-1502 大分県速見郡日出町大字藤原 「大分河川国道事務所」/  Fujiwara, Hiji-machi, Hayami-gun, Oita Prefecture, 879-1502, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5462576,33.3955823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号日出町豊岡ライブカメラ / National highway No. 10 Hiji Town Toyooka live camera </name>
+        <description><![CDATA[〒879-1507 大分県速見郡日出町大字豊岡 「大分河川国道事務所」/ Toyooka, Hiji-machi, Hayami-gun, Oita Prefecture 879-1507,<br> "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4962794,33.3694707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号日出町平道ライブカメラ / National highway No. 10 Hiji Town Hiramichi live camera </name>
+        <description><![CDATA[〒879-1508 大分県速見郡日出町大字平道 「大分河川国道事務所」/ Hiramichi, Hiji-machi, Hayami-gun, Oita Prefecture 879-1508, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4875285,33.3556016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬丸川犬丸橋ライブカメラ / Inumaru River Inumaru Bridge Live Camera</name>
+        <description><![CDATA[大分県中津市犬丸「国土交通省河川情報センター」/ Inumaru, Nakatsu City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2581371,33.565105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>跡田川耶馬橋ライブカメラ / Attodagawa River Yabakei Bridge Live Camera</name>
+        <description><![CDATA[大分県中津市本耶馬渓町曽木 「国土交通省河川情報センター」/ Sogi, Honyabakei Town, Nakatsu City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1715565,33.4915952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蛎瀬川蛎瀬橋ライブカメラ / Kakisegawa River Kakisebashi live camera</name>
+        <description>大分県中津市蛎瀬 「国土交通省河川情報センター」/ Kakise, Nakatsu City, Oita Prefecture, “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1998104,33.6016404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川宇治見橋ライブカメラ / Yamakunigawa Ujimibashi live camera</name>
+        <description><![CDATA[〒871-0712 大分県中津市山国町守実５７−１「大分県」/ 57-1 Morizane, Yamakuni-machi, Nakatsu-shi, Oita Prefecture 871-0712, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0415937,33.4046919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬丸川川面橋ライブカメラ / Inumaru River Kawaomote Bridge Live Camera</name>
+        <description><![CDATA[大分県中津市三光上秣 「大分県」/ Sanko Kamimakusa, Nakatsu City, Oita Prefecture, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2431987,33.5254291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川津民川合流点ライブカメラ / Yamakuni River Tsumingawa Confluence Live Camera</name>
+        <description><![CDATA[大分県中津市耶馬溪町大字柿坂 「山国川河川事務所」/ Kakisaka, Yabakei Town, Nakatsu City, Oita Prefecture, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1325862,33.4489428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川青の禅海橋ライブカメラ / Yamakuni River Aonozenkaibashi live camera</name>
+        <description><![CDATA[大分県中津市本耶馬渓町曽木 「山国川河川事務所」/ Sogi, Honyabakei Town, Nakatsu City, Oita Prefecture, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1552292,33.4980595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川上曽木ライブカメラ / Yamakuni Rier Kamisogi Live Camera</name>
+        <description><![CDATA[大分県中津市本耶馬渓町曽木 禅海橋 「山国川河川事務所」/ Zenkaibashi, Sogi, Honyabakei Town, Nakatsu City, Oita Prefecture, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1701258,33.4929439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山国川柿坂ライブカメラ / Yamakunigawa Kakisaka live camera</name>
+        <description><![CDATA[大分県中津市耶馬溪町大字柿坂 「山国川河川事務所」/ Kakisaka, Yabakei Town, Nakatsu City, Oita Prefecture, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1165573,33.4497843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山移川白水ライブカメラ / Yamautsurigawa River Hakusui Live Camera</name>
+        <description><![CDATA[〒871-0431 大分県中津市耶馬溪町大字柿坂 白水大橋 「山国川河川事務所」/ Shiramizu Bridge, Kakizaka, Yabakei Town, Nakatsu City, Oita Prefecture 871-0431, "Yamakuni River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1253802,33.4432366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田川樋の口橋ライブカメラ / Takeda River Hinoguchibashi Live Camera</name>
+        <description><![CDATA[〒872-1202 大分県豊後高田市香々地 「国土交通省河川情報センター」/ Kakaji, Bungotakada City, Oita Prefecture 872-1202, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5187752,33.6641632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真玉川千原橋ライブカメラ / Matamagawa River Chihara Bridge Live Camera</name>
+        <description><![CDATA[大分県豊後高田市中真玉 「国土交通省河川情報センター」/ Nakamatama, Bungotakada City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.477925,33.6081502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂川泉橋ライブカメラ / Katsura River Izumibashi live camera</name>
+        <description><![CDATA[〒879-0604 大分県豊後高田市美和 「大分県」/  Miwa, Bungotakada City, Oita Prefecture 879-0604, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4600168,33.5525187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>並石ダムライブカメラ / Namiishi Dam Live Camera</name>
+        <description><![CDATA[〒879-0722 大分県豊後高田市加礼川 並石ダム 「豊後高田市役所」/ Namiishi Dam, Karegawa, Bungotakata City, Oita Prefecture 879-0722, <br>"Bungotakada City Hall"<br>https://livecamera.fujiyamasan.com/namiishidam.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5673183,33.5657658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>健康交流センター花いろライブカメラ / Health Exchange Center Hanairo Live Camera</name>
+        <description><![CDATA[〒879-0604 大分県豊後高田市美和１３３５−１花いろ温泉(健康交流センター) 「豊後高田市役所」/ Hanairo Onsen (Health Exchange Center),  1335-1 Miwa, Bungotakada City, Oita Prefecture 879-0604, "Bungotakada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4589833,33.5508778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊後高田市役所高田庁舎屋上ライブカメラ / Bungotakada City Hall Takada Government Building Rooftop Live Camera</name>
+        <description><![CDATA[〒879-0605 大分県豊後高田市御玉１１４ 「豊後高田市役所」/ 114 Mitama, Bungotakada City, Oita Prefecture 879-0605, "Bungotakada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4476703,33.5575171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真玉海岸真玉海水浴場ライブカメラ / Matama Beach Matama Beach Live Camera</name>
+        <description><![CDATA[〒872-1107 大分県豊後高田市臼野５１２５「豊後高田市役所」/ 5125 Usuno, Bungotakada City, Oita Prefecture 872-1107, "Bungotakada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4730316,33.6226666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長崎鼻リゾートキャンプ場長崎鼻海水浴場ライブカメラ / Nagasakihana Resort Campground Nagasakihana Beach Live Camera</name>
+        <description><![CDATA[〒872-1207 大分県豊後高田市見目４０６０ 長崎鼻リゾートキャンプ場 「豊後高田市役所」/ 4060 Mimi, Bungotakada City, Oita Prefecture 872-1207, Nagasakihana Resort Campground,<br>"Bungotakada City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.524837,33.682158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>津房川上荘橋ライブカメラ / Tsubusagawa River Kamijo Bridge Live Camera</name>
+        <description><![CDATA[大分県宇佐市安心院町荘 「国土交通省河川情報センター」/ Sho, Ajimu-machi, Usa City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3726425,33.4322143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄藻川寄藻橋ライブカメラ / Yorimogawa River Yorimo Bridge Live Camera</name>
+        <description><![CDATA[大分県宇佐市橋津　「国土交通省河川情報センター」/ Hashizu, Usa City, Oita Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4015774,33.5312596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向野川玄川大橋ライブカメラ / Mukunogawa River Gensenohashi Bridge Live Camera</name>
+        <description><![CDATA[大分県宇佐市岩崎「国土交通省河川情報センター」/ Iwasaki, Usa City, Oita Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.409206,33.5346669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅館川小松橋ライブカメラ / Yakkangawa River Komatsubashi Bridge Live Camera</name>
+        <description><![CDATA[大分県宇佐市貴船町1丁目 「国土交通省河川情報センター」/ 1 Kifunecho, Usa City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3687819,33.5675047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅館川別府橋ライブカメラ / Yakkan River Beppu Bridge Live Camera</name>
+        <description><![CDATA[大分県宇佐市別府川原561-32 「大分県」/ 561-32 Beppu Kawahara, Usa City, Oita Prefecture "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3449499,33.5211721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊呂波川伊呂波橋ライブカメラ / Iroha River Irohabashi Live Camera</name>
+        <description><![CDATA[〒879-0474 大分県宇佐市大字山下「大分県」/ 〒879-0474 Yamashita, Usa City, Oita Prefecture<br>"Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3034409,33.533627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅館川長洲ライブカメラ / Yakkangawa River Nagasu live camera</name>
+        <description><![CDATA[大分県宇佐市長洲 「宇佐市役所」/ Nagasu, Usa City, Oita Prefecture, "Usa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.370024,33.5678533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高津漁港ライブカメラ / Takatsu fishing port live camera</name>
+        <description><![CDATA[〒879-0152 大分県宇佐市大字下庄布津部「	宇佐市役所」/ Shimoshofutsu, Usa City, Oita Prefecture, 879-0152, "Usa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.293405,33.5702172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ソニックパーク安心院ライブカメラ / Sonic Park Ajimu Live Camera</name>
+        <description>〒872-0507 大分県宇佐市安心院町木裳９８５−１ ソニックパーク安心院 / Sonic Park Ajimu, 985-1 Kinomo, Ajimu-machi, Usa-shi, Oita Prefecture 872-0507   </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3544667,33.4523746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道10号伊呂波橋ライブカメラ / National highway No. 10 Irohabashi live camera</name>
+        <description><![CDATA[〒879-0474 大分県宇佐市大字山下下山下 伊呂波大橋 「大分河川国道事務所」/ Iroha Ohashi,  Shimoyamashita, Yamashita, Usa City, Oita Prefecture 879-0474,  "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3008819,33.5356815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒木川西本橋ライブカメラ / Araki River Nishimotobashi live camera</name>
+        <description><![CDATA[大分県国東市安岐町西本 「国土交通省河川情報センター」/ Nishimoto, Aki Town, Kunisaki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6941396,33.4629242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田深川国東橋ライブカメラ / Tabukagawa River Kunisaki Bridge Live Camera</name>
+        <description><![CDATA[大分県国東市国東町田深 「国土交通省河川情報センター」/ Taduka, Kunisaki-machi, Kunisaki-shi, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7332721,33.571651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊美川中須賀橋ライブカメラ / Imigawa River Nakasukabashi live camera</name>
+        <description><![CDATA[大分県国東市国見町伊美 「国土交通省河川情報センター」/ Imi, Kunimi-cho, Kunisaki-shi, Oita "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5933006,33.6794833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横手川行入ダム下流ライブカメラ / Yokote River Gyori Dam Downstream Live Camera</name>
+        <description><![CDATA[〒873-0524 大分県国東市国東町横手 「大分県」/ 〒873-0524 Yokote, Kunisaki-cho, Kunisaki-shi, Oita, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6487273,33.5695688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安岐川安岐ダム上流ライブカメラ / Akigawa Aki Dam upstream live camera</name>
+        <description>〒873-0353 大分県国東市安岐町矢川１００７−６ 安岐ダム管理事務所 /Aki Dam Management Office, 1007-6 Yagawa, Aki Town, Kunisaki City, Oita Prefecture 873-0353 </description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.608918,33.48627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横手川行入ダム上流ライブカメラ / Yokote River Gyori Dam upstream live camera</name>
+        <description><![CDATA[大分県国東市国東町横手 「大分県」/ Yokote Kunisaki Town, Kunisaki City, Oita Prefecture, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6510435,33.5709127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安岐川安岐中央大橋ライブカメラ /Akigawa Aki Central Ohashi Live Camera </name>
+        <description><![CDATA[〒873-0202 大分県国東市安岐町瀬戸田 「大分県」/ Setoda, Aki Town, Kunisaki City, Oita Prefecture 873-0202, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6847098,33.472365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵川百全橋ライブカメラ / Musashikawa Hyakuzenbashi live camera</name>
+        <description><![CDATA[大分県国東市武蔵町古市前川568-2 百全橋 「大分県」/ Hyakuzenbashi, 568-2 Maekawa, Furuichi, Musashi-cho, Kunisaki-shi, Oita Prefecture, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7238004,33.4984601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道213号安岐海岸ライブカメラ / National highway No. 213 Aki coast live camera</name>
+        <description><![CDATA[〒873-0212 大分県国東市安岐町塩屋 「国東土木事務所」 / Shioya, Aki Town, Kunisaki City, Oita Prefecture 873-0212, "Kunisaki Civil Engineering Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7196532,33.4564563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄手川田中樋管ライブカメラ / Shotegawa Tanaka Hikan Live Camera</name>
+        <description><![CDATA[大分県日田市南友田町 「国土交通省河川情報センター」/ Minami Tomoda Town, Hita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9134456,33.3224712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤石川川平橋ライブカメラ / Akaishi River Kawahirabashi Live Camera</name>
+        <description><![CDATA[大分県日田市大山町西大山 「国土交通省河川情報センター」/ Nishi-Oyama, Oyama-machi, Hita-shi, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9586927,33.2596919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高瀬川鰐淵橋ライブカメラ / Takasegawa Wanibuchibashi live camera</name>
+        <description><![CDATA[大分県日田市琴平町 「国土交通省河川情報センター」/ Kotohira Town, Hita City, Oita Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9378259,33.3001606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有田川日の掛橋ライブカメラ / Arita River Hinokakebashi Live Camera</name>
+        <description><![CDATA[大分県日田市諸留町 「国土交通省河川情報センター」/ Morodome Town, Hita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9811166,33.3306502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡里川養面寺橋ライブカメラ / Watarigawa River Yomenjibashi Bridge live camera</name>
+        <description><![CDATA[大分県日田市三和 「国土交通省河川情報センター」/ Miwa, Hita City, Oita Prefecture,<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9404468,33.3454301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大肥川釜戸橋ライブカメラ / Ohi River Kamadobashi Live Camera</name>
+        <description><![CDATA[大分県日田市大肥本町 「国土交通省河川情報センター」/ Ouhihon-machi, Hita City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8868189,33.3685356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴河内川平寒水橋ライブカメラ / Tsurukouchigawa River Hirasouzu Bridge Live Camera</name>
+        <description><![CDATA[大分県日田市上宮町 「国土交通省河川情報センター」/ Jogu Town, Hita City, Oita Prefecture<br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9065677,33.3906954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川北友田ライブカメラ / Kagetsugawa Kita Tomoda Live Camera</name>
+        <description><![CDATA[大分県日田市北友田3丁目 「筑後川河川事務所」/ 3 Kita Tomoda, Hita City, Oita Prefecture<br>"Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9012051,33.3228755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川光岡橋ライブカメラ / Kagetsugawa River Teruokabashi Bridge live camera</name>
+        <description><![CDATA[大分県日田市南友田町 「筑後川河川事務所」/ Minami Tomoda Town, Hita City, Oita Prefecture<br>"Chikugo River Office" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9185868,33.3265838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川坂本橋ライブカメラ / Kagetsugawa River Sakamoto Bridge Live Camera</name>
+        <description><![CDATA[大分県日田市清水町 「筑後川河川事務所」/ Shimizu Town, Hita City, Oita Prefecture<br>"Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.945071,33.3452161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川夕田橋ライブカメラ / 花月川夕田橋ライブカメラ</name>
+        <description><![CDATA[大分県日田市西有田 「筑後川河川事務所」/ Nishiarita, Hita City, Oita Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9485206,33.3372849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川小渕ライブカメラ / Chikugo River Kobuchi Live Camera</name>
+        <description><![CDATA[大分県日田市三芳小渕町 「筑後川河川事務所」/ Miyoshi Kobuchi Town, Hita City, Oita Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9458873,33.3045657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川日田出張所屋上ライブカメラ / Chikgogawa Hita branch office rooftop live camera</name>
+        <description><![CDATA[〒877-0000 大分県日田市中ノ島町６０８−１４  国土交通省筑後川河川事務所 日田出張所 「筑後川河川事務所」/ Ministry of Land, Infrastructure and Transport Chikugo River Office Hita Branch Office, 608-14 Nakanoshima Town, Hita City, Oita Prefecture 877-0000,  "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.92609,33.3128988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山川小五馬ライブカメラ / Oyamagawa River Koitsuma Live Camera</name>
+        <description><![CDATA[大分県日田市天瀬町小五馬 「筑後川河川事務所」/ Koitsuma, Amagase Town, Hita City, Oita Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.984244,33.2287704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山川千丈ライブカメラ / Oyamagawa River Senjyo Live Camera</name>
+        <description><![CDATA[大分県日田市大山町東大山  「筑後川河川事務所」/ Higashi Oyama, Oyama Town, Hita City, Oita Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9596043,33.2724615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玖珠川湯ノ釣ライブカメラ / Kusugawa Yunotsuru Live Camera</name>
+        <description><![CDATA[大分県日田市天瀬町赤岩 「筑後川河川事務所」/ Akaiwa, Amagase Town, Hita City, Oita Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0503093,33.2595644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玖珠川矢瀬ライブカメラ / Kusugawa Yaze Live Camera</name>
+        <description><![CDATA[大分県日田市天瀬町馬原 「筑後川河川事務所」/ Mabaru, Amagase Town, Hita City, Oita Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0058881,33.2871811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川城内頭首工ライブカメラ / Kazutsuki River Jonai Toushuko Live Camera</name>
+        <description><![CDATA[大分県日田市西有田 「筑後川河川事務所」/ Nishiarita, Hita City, Oita Prefecture "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9433387,33.3332468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川地蔵元橋ライブカメラ / Kagetsugawa Jizo Motobashi live camera</name>
+        <description><![CDATA[大分県日田市花月「筑後川河川事務所」/ Kagetsu, Hita City, Oita Prefecture, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9558497,33.3585171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日田市大肥川ライブカメラ / Hita City Ohi River Live Camera</name>
+        <description><![CDATA[大分県日田市大鶴本町 「日田市役所」/ Otsuruhon-machi, Hita City, Oita Prefecture, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.889473,33.3688644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号小ヶ瀬トンネル起点ライブカメラ / National highway 210 Ogase tunnel starting live camera</name>
+        <description><![CDATA[〒877-0000 大分県日田市小ケ瀬町 小ヶ瀬トンネル 「大分河川国道事務所」/ Ogase tunnel, Ogase Town, Hita City, Oita Prefecture 877-0000, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9682319,33.2991356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玖珠川天瀬橋ライブカメラ / Kusugawa Amagasebashi Live Camera</name>
+        <description><![CDATA[〒879-4201 大分県日田市天瀬町桜竹 「大分県」/ Sakuratake, Amagase Town, Hita City, Oita Prefecture, 879-4201, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0141918,33.2466905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>串川石井橋ライブカメラ / Kushikawa Ishiibashi live camera</name>
+        <description><![CDATA[〒877-0061 大分県日田市大字石井２丁目４８３ 「大分県」/ 〒877-0061 2-483 Ishii, Hita City, Oita Prefecture "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.908728,33.3100327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花月川御幸橋ライブカメラ / Kagetsuki River Miyuki Bridge Live Camera</name>
+        <description><![CDATA[〒877-0007 大分県日田市丸の内町 「筑後川河川事務所」/  Marunouchi Town, Hita City, Oita Prefecture 877-0007, "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9328098,33.3276015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>筑後川島内堰ライブカメラ / Chikugo river island weir live camera</name>
+        <description><![CDATA[〒877-0000 大分県日田市大字庄手680−14 国土交通省筑後川工事事務所 日田出張所島内堰管理所 「筑後川河川事務所」/ Ministry of Land, Infrastructure, Transport and Tourism Chikugo River Construction Office Hita Branch Office, Shimauchi Weir Management Office, 680-14 Shote, Hita City, Oita Prefecture 877-0000,  "Chikugo River Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.925267,33.313111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三隈川亀山公園ライブカメラ / Mikumagawa Kameyama Park live camera</name>
+        <description><![CDATA[〒877-0000 大分県日田市中ノ島町559番地 亀山公園 「日田市役所」/ Kameyama Park, 559 Nakanoshima-cho, Hita City, Oita Prefecture 877-0000, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9284929,33.3143112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三隈川サッポロビール九州日田工場ライブカメラ / Mikumagawa Sapporo Beer Kyushu Hita Factory Live Camera</name>
+        <description><![CDATA[〒877-0054 大分県日田市大字高瀬６９７９ サッポロビール 九州日田工場 ウエルカム館 「日田市役所」/ Sapporo Beer Kyushu Hita Factory Welcome Hall, 6979 Takase, Hita City, Oita Prefecture 877-0054, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9440418,33.2979371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有田川日田市立東有田中学校ライブカメラ / Arita River Hita City Higashi-Arita Junior High School Live Camera</name>
+        <description><![CDATA[〒877-1371 大分県日田市諸留町４８８−２ 日田市立東有田中学校 「日田市役所」/ Hita City Higashi-Arita Junior High School, 488-2 Morodome-machi, Hita City, Oita Prefecture, 877-1371, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9829567,33.3315097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三隈川京町地区集会所ライブカメラ / Mikumagawa Kyomachi district meeting place live camera</name>
+        <description><![CDATA[〒877-0000 大分県日田市高瀬京町51−5　日田市京町地区集会所・むくの木センター 「日田市役所」/ Kyomachi district meeting place Muku no Ki Center,  51-5 Takasekyomachi, Hita City, Oita Prefecture 877-0000,  "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9292863,33.3110249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大鶴振興センターライブカメラ / Otsuru Promotion Center Live Camera</name>
+        <description><![CDATA[〒877-1104 大分県日田市大鶴本町８６１日田市役所 大鶴振興センター 「日田市役所」/ Hita City Hall Otsuru Promotion Center, 861 Otsuruhonmachi, Hita City, Oita Prefecture 877-1104, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.8896793,33.3708308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小野川日田市立小野小学校ライブカメラ / Onogawa Hita City Ono Elementary School Live Camera</name>
+        <description><![CDATA[〒877-1243 大分県日田市小野鈴連町1658−1 日田市立小野小学校 「日田市役所」/  Hino Municipal Ono Elementary School 1658-1 Ono Suzurencho, Hita City, Oita Prefecture 877-1243, "Hita City Hall" ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9414263,33.3942285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号赤岩洞門起点坑口ライブカメラ / National highway No. 210 Akaiwa-Domon starting point live camera</name>
+        <description><![CDATA[〒879-4202 大分県日田市天瀬町赤岩「大分河川国道事務所」/ Akaiwa, Amagase Town, Hita City, Oita Prefecture 879-4202, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0646026,33.2545997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号天瀬第一橋湯布院側ライブカメラ / National highway No. 210 Amagase first bridge Yufuin side live camera</name>
+        <description><![CDATA[〒879-4201 大分県日田市天瀬町桜竹「大分河川国道事務所」/ Sakuratake, Amagase Town, Hita City, Oita Prefecture, 879-4201, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.0125611,33.2540118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号バイパス寺内トンネル終点ライブカメラ / National highway 210 bypass Terauchi tunnel end live camera</name>
+        <description><![CDATA[〒877-0061 大分県日田市石井 寺内トンネル 「大分河川国道事務所」/ Terauchi Tunnel, Ishii, Hita City, Oita Prefecture, 877-0061<br>"Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            130.9144237,33.310445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緒方川入田橋ライブカメラ / Ogata River Nyutabashi Live Camera</name>
+        <description><![CDATA[大分県竹田市入田 「国土交通省河川情報センター」/ Nyuta, Takeda City, Oita Prefecture, <br>"Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3873827,32.9362945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲葉川騎牟礼大橋ライブカメラ / Inaba River Kimura Ohashi Live Camera</name>
+        <description><![CDATA[〒878-0026 大分県竹田市大字飛田川 騎牟礼大橋 「国土交通省河川情報センター」/ Kimura Ohashi, Tobitagawa, Taketa City, Oita Prefecture 878-0026,  "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3777633,32.9633753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芹川桑畑橋ライブカメラ / Serikawa Kuwabatabashi Live Camera</name>
+        <description><![CDATA[大分県竹田市直入町長湯 「国土交通省河川情報センター」/ Nagayu, Naoiri Town, Taketa City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3673928,33.0648382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉来川川床ライブカメラ / Tamaraigawa River Kawadoko Live Camera</name>
+        <description><![CDATA[〒878-0154 大分県竹田市大字川床 「竹田市役所」/ Kawadoko, Taketa City, Oita Prefecture 878-0154, "Takeda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3084582,32.9631202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川荻町陽目の里ライブカメラ / Onogawa Ogimachi Hinatame no Sato Live Camera</name>
+        <description><![CDATA[大分県竹田市荻町陽目 荻町陽目の里 「竹田市役所」/ Ogimachi Hinatame no Sato, Ogimachi Hinatame, Taketa City, Oita Prefecture, "Takeda City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2783902,32.882477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝水川荻町南河内ライブカメラ / Takimizu River Ogimachi Minamigawachi Live Camera </name>
+        <description><![CDATA[大分県竹田市荻町南河内 「竹田市役所」/ Minamigawachi, Ogimachi, Taketa City, Oita Prefecture, "Taketa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.313475,32.9424201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芹川直入町御前湯ライブカメラ / Serikawa Naoiri Town Gozenyu Live Camera</name>
+        <description><![CDATA[〒878-0402 大分県竹田市直入町長湯7962-1 温泉療養文化館 御前湯 「竹田市役所」/ Onsen Medical Center Gozenyu, 7962-1 Nagayu, Naoiri Town, Taketa City, Oita Prefecture 878-0402, "Taketa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.384547,33.0708731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川玉来新橋ライブカメラ / Onogawa Tamarai Shimbashi Live Camera</name>
+        <description><![CDATA[大分県竹田市竹田 「竹田市役所」/ Taketa,  Taketa City, Oita Prefecture, "Taketa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3831248,32.95839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲葉川竹田温泉花水月ライブカメラ / Inaba River Taketa Onsen Hanamizuki Live Camera</name>
+        <description><![CDATA[〒878-0011 大分県竹田市大字会々２２５０−１竹田温泉花水月 「竹田市役所」/ Taketa Onsen Hanamizuki 225-1 Aiai, Taketa City, Oita Prefecture 878-0011, "Taketa City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3918997,32.9714615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉来川桜瀬橋ライブカメラ / Tamarai River Sakurasebashi Live Camera</name>
+        <description><![CDATA[〒878-0024 大分県竹田市大字玉来７０３ 「大分県」/ 703 Tamarai, Taketa City, Oita Prefecture 878-0024, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3768946,32.9543983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川中尾橋ライブカメラ / Onogawa  River Nakao Bridge live camera</name>
+        <description><![CDATA[大分県竹田市大字吉田 「大分県」/ Yoshida, Taketa City, Oita Prefecture, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3736415,32.9416153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道57号田代ライブカメラ / National highway No. 57 Tashiro live camera</name>
+        <description><![CDATA[〒879-6181 大分県竹田市大字小塚 「佐伯河川国道事務所」/ Oduka, Taketa City, Oita Prefecture 879-6181, "Saiki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2632866,32.9578629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道阿蘇くじゅう公園線交差点付近ライブカメラ / Prefectural road Aso Kuju Park Line intersection live camera</name>
+        <description><![CDATA[〒878-0201 大分県竹田市久住町大字久住「竹田土木事務所」/ Kuji, Kuju Town, Taketa City, Oita Prefecture 878-0201, "Taketa Civil Engineering Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2510758,33.0434878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川同尻ライブカメラ / Oita River Dojiri live camera</name>
+        <description><![CDATA[大分県由布市挾間町鬼崎 「国土交通省河川情報センター」/ Onizaki, Hasama Town,  Yufu City,   Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5115916,33.1951137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴見岳伽藍岳塚原無田ライブカメラ / Tsurumi-dake Garan-dake Tsukahara Muta live camera </name>
+        <description><![CDATA[〒879-5101 大分県由布市湯布院町塚原 「気象庁」/ Tsukahara, Yufuin Town, Yufu City, Oita Prefecture 879-5101, "JMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3911778,33.3051364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川御幸橋ライブカメラ / Oita River Miyuki Bridge Live Camera</name>
+        <description><![CDATA[大分県由布市湯布院町川南 「国土交通省河川情報センター」/ Kawaminami, Yufuin Town, Yufu City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3568571,33.2581728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平川桑屋橋ライブカメラ / Hirakawa Kuwayabashi Live Camera </name>
+        <description><![CDATA[大分県由布市湯布院町川西 「国土交通省河川情報センター」/ Kawanishi, Yufuin Town, Yufu City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3234849,33.241355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川碩南大橋ライブカメラ / Oita River Sekinan Ohashi Live Camera</name>
+        <description><![CDATA[大分県由布市庄内町大龍 「国土交通省河川情報センター」/ Otatsu, Shonai Town, Yufu City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4518852,33.1836456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号川西2ライブカメラ / National highway 210 Kawanishi 2 live camera</name>
+        <description><![CDATA[〒879-5113 大分県由布市湯布院町川西 「大分河川国道事務所」/ Kawanishi, Yufuin Town, Yufu City, Oita Prefecture 879-5113, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3260728,33.227038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮川宮川橋ライブカメラ / Miyagawa Miyagawabashi Live Camera</name>
+        <description><![CDATA[大分県由布市湯布院町川北 「大分県」/ Kawakita, Yufuin Town, Yufu City, Oita Prefecture<br>"Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.336045,33.2668852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分川天神橋ライブカメラ / Oita River Tenjinbashi live camera</name>
+        <description><![CDATA[〒879-5501 大分県由布市挾間町鬼崎 「大分河川国道事務所」/ Onisaki, Hasama Town, Yufu City, Oita Prefecture 879-5501, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5087782,33.1900428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号下湯平ライブカメラ / Route 210 Shimoyunohira Live Camera</name>
+        <description><![CDATA[〒879-5111 大分県由布市湯布院町下湯平 「大分河川国道事務所」/ Shimoyunohira, Yufuin Town, Yufu City, Oita Prefecture 879-5111,<br>"Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3460732,33.1976168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号庄内西ライブカメラ / Route 210 Shonai West Live Camera</name>
+        <description><![CDATA[大分県由布市庄内町西 「大分河川国道事務所」/ Nishi, Shonai Town, Yufu City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3736415,33.1934866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道11号別府一の宮線狭霧台展望所ライブカメラ / Oita Prefectural Road No. 11 Beppu Ichinomiya Line Sagiridai Observatory Live Camera</name>
+        <description><![CDATA[〒879-5102 大分県由布市湯布院町川上 「大分土木事務所」/ Kawakami, Yufuin Town, Yufu City, Oita Prefecture 879-5102, "Oita Civil Engineering Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3825798,33.2601019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号水分トンネル日田側ライブカメラ / National highway 210 Mizuwake tunnel Hita side live camera</name>
+        <description><![CDATA[大分県由布市湯布院町川西 「大分河川国道事務所」/ Kawanishi, Yufuin Town, Yufu City, Oita Prefecture, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2979276,33.2483274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号湯布院インターチェンジライブカメラ / National highway No. 210 Yufuin interchange live camera</name>
+        <description><![CDATA[〒879-5114 大分県由布市湯布院町川北１５６３−３４ 湯布院 I.C. 「大分河川国道事務所」/ Yufuin I.C., 1563-34 Kawakita, Yufuin Town, Yufu City, Oita Prefecture 879-5114, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.3282784,33.2591367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九重山飯田大原ライブカメラ / Kujusan Handaoharu Live Camera</name>
+        <description><![CDATA[〒879-4911 大分県玖珠郡九重町大字田野 「気象庁」/Tano, Kokonoe-machi, Kusu-gun, Oita 879-4911,   "Meteorological Agency"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.23064,33.146102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松木川竜門橋ライブカメラ / Matsuki River Ryumon Bridge Live Camera</name>
+        <description><![CDATA[大分県玖珠郡九重町松木 「国土交通省河川情報センター」/ Matsugi, Kokonoe Town, Kusu District, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.205569,33.27332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野上川寺田橋ライブカメラ / Nogamigawa Teradabashi Live Camera</name>
+        <description><![CDATA[大分県玖珠郡九重町右田 「国土交通省河川情報センター」/ Migita, Kokonoe-machi, Kusu-gun, Oita, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2113091,33.2273633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町田川第一桐木橋ライブカメラ / Machidagawa Daiichi Kirugibashi Live Camera</name>
+        <description><![CDATA[大分県玖珠郡九重町菅原 「国土交通省河川情報センター」/ Sugawara, Kokonoe-machi, Kusu-gun, Oita, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.155,33.1930934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九重山星生山北尾根ライブカメラ / Kujusan Hosshozan Kitaone Live Camera </name>
+        <description><![CDATA[〒879-4911 大分県玖珠郡九重町大字田野 星生山 「気象庁」/ Hossho Mountain, Tano, Kuju-cho, Kusu-gun, Oita 〒879-4911, "JMA"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2327203,33.0910716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玖珠川引治ライブカメラ / Kusugawa Hikiji Live Camera</name>
+        <description><![CDATA[〒879-4722 大分県玖珠郡九重町大字引治 「日田市役所」/ Hikiji, Kokonoe-machi, Kusu-gun, Oita Prefecture 879-4722, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1552292,33.2183438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>地蔵原ライブカメラ / Jizohara live camera</name>
+        <description><![CDATA[大分県玖珠郡九重町大字町田地蔵原 「日田市役所」/ Machida Jizohara, Kokonoe-machi, Kusu-gun, Oita Prefecture, "Hita City Hall"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1904335,33.1808971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道210号新妙見橋ライブカメラ / National highway No. 210 Shin Myokenbashi live camera</name>
+        <description><![CDATA[〒879-4601 大分県玖珠郡九重町大字右田 「大分河川国道事務所」/ Migita, Kokonoe-machi, Kusu-gun, Oita Prefecture 879-4601, "Oita River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2055143,33.225388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道40号飯田高原中村線九酔渓十三曲がり北側ライブカメラ / Oita Prefectural Road No. 40 Iida Kogen Nakamura Line Kyusuikei 13 bend north side live camera</name>
+        <description><![CDATA[大分県玖珠郡九重町大字町田 「玖珠土木事務所」/ Machida, Kokonoe-machi, Kusu-gun, Oita Prefecture, "Kusu Civil Engineering Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2139082,33.1825134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大分県道11号別府一の宮線牧ノ戸登山口ライブカメラ / Oita Prefectural Road No. 11 Beppu Ichinomiya Line Makinoto Trailhead Live Camera</name>
+        <description><![CDATA[〒879-4911 大分県玖珠郡九重町大字田野 「玖珠土木事務所」/ Tano, Kokonoe-machi, Kusu-gun, Oita Prefecture, 879-4911, "Kusu Civil Engineering Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2081823,33.0961924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>九重連山ライブカメラ / Kuju Mountain Range Live Camera </name>
+        <description><![CDATA[〒879-4911 大分県玖珠郡九重町大字田野 長者原 「くじゅうの空」/ Chojahara, Tano, Kokonoe-machi, Kusu-gun, Oita 879-4911, "Kuju no Sky"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.2295328,33.1191838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森川森川橋ライブカメラ / Morikawa Morikawabashi live camera</name>
+        <description><![CDATA[大分県玖珠郡玖珠町帆足 「国土交通省河川情報センター」/ Houashi, Kusu Town, Kusu District, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1579784,33.2916183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玖珠川メルヘン大橋ライブカメラ / Kusugawa Meluhen Ohashi live camera</name>
+        <description><![CDATA[〒879-4414 大分県玖珠郡玖珠町大字大隈 「大分県」/ Okuma, Kusu Town, Kusu District, Oita Prefecture 879-4414, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1627748,33.259655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三島公園ライブカメラ / Mishima Park live camera</name>
+        <description><![CDATA[〒879-4404 大分県玖珠郡玖珠町大字大字森 三島公園 「日田市役所」/ Mishima Park, Mori, Kusu Town, Kusu District, Oita Prefecture 879-4404, "Hita City Hall"<br>https://livecamera.fujiyamasan.com/oita-kusumachi-mishima-park.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.1581691,33.3036834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久留須川向船場橋ライブカメラ / Kurusugawa River Mukaifunaba Bridge Live Camera</name>
+        <description><![CDATA[大分県佐伯市直川上直見 「国土交通省河川情報センター」/ Kaminaomi Naokawa, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7859097,32.8985594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久留須川水口樋管ライブカメラ / Kurusugawa Mizuguchi gutter tube live camera</name>
+        <description><![CDATA[大分県佐伯市直川下直見 「国土交通省河川情報センター」/ Shimonaomi Naokawa, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7939682,32.9169388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久留須川長崎樋管ライブカメラ / Kurusugawa Nagasaki gutter live camera</name>
+        <description><![CDATA[大分県佐伯市本匠三股 「国土交通省河川情報センター」/ Honjomimata, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8018585,32.9396479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久留須川大良ライブカメラ / Kurusu River Taira Live Camera</name>
+        <description><![CDATA[大分県佐伯市本匠三股 「国土交通省河川情報センター」/ Honjomimata, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8034464,32.9410165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久留須川深瀬ライブカメラ / Kurosegawa Fukase Live Camera</name>
+        <description><![CDATA[大分県佐伯市本匠三股 「国土交通省河川情報センター」/ Honjomimata, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7984926,32.9457291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>番匠川荒瀬ライブカメラ / Banjo River Arase Live Camera</name>
+        <description><![CDATA[大分県佐伯市本匠波寄 「国土交通省河川情報センター」/ Honjohaki, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.7833591,32.9449164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>炭崎川切畑小学校前ライブカメラ / Live camera in front of Sumisaki Kirikibata Elementary School </name>
+        <description><![CDATA[大分県佐伯市弥生門田 「国土交通省河川情報センター」/ Yayoi Kanta, Saiki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8388362,32.9526944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井崎川井崎ライブカメラ / Isaki River Isaki Live Camera</name>
+        <description><![CDATA[〒876-0125 大分県佐伯市弥生大字江良 「国土交通省河川情報センター」/ Yayoi Era, Saiki City, Oita Prefecture, 876-0125, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8352365,32.9339415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口川谷川橋ライブカメラ / Yamaguchi River Tanigawa bridge live camera</name>
+        <description><![CDATA[大分県佐伯市大字青山「国土交通省河川情報センター」/ Aoyama, Saiki City, Oita Prefecture "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8805767,32.8789523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堅田川柏江ライブカメラ / Katadagawa River Kashiwae live camera</name>
+        <description><![CDATA[大分県佐伯市長良 「国土交通省河川情報センター」/ Nagara, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8876867,32.9319908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井崎川稽古屋ライブカメラ / Isakigawa River Kegoya live camera</name>
+        <description><![CDATA[大分県佐伯市弥生大坂本 「国土交通省河川情報センター」/ Yayoi Osakamoto, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.846838,32.985142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井崎川植松ライブカメラ / Isaki River Uematsu live camera</name>
+        <description><![CDATA[大分県佐伯市弥生大坂本 「国土交通省河川情報センター」/ Yayoi Osakamoto, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8479431,32.98489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>床木川所賀津留橋ライブカメラ / Yukagi River Shogatsuru Bridge Live Camera</name>
+        <description><![CDATA[大分県佐伯市弥生大坂本 「国土交通省河川情報センター」/ Yayoi Osakamoto, Saiki City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.8507181,32.980567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市園川ふれあい橋ライブカメラ / Ichizonogawa Fureai Bridge Live Camera</name>
+        <description>大分県佐伯市宇目重岡 「国土交通省河川情報センター」/ Ume Shigeoka, Saiki City, Oita Prefecture “Ministry of Land, Infrastructure, Transport and Tourism River Information Center”</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.6779685,32.8488935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茜川新殿橋ライブカメラ / Akanegawa River Niidono Bridge Live Camera</name>
+        <description><![CDATA[大分県豊後大野市千歳町新殿 「国土交通省河川情報センター」/ Niidono, Chitose Town, Bungo Ono City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5969976,33.040952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三重川平吹橋ライブカメラ / Mie River Hirabuki Bridge Live Camera</name>
+        <description><![CDATA[大分県豊後大野市三重町市場「国土交通省河川情報センター」/ Miemachi Ichiba, Bungo Ono City, Oita Prefecture, "Ministry of Land, Infrastructure, Transport and Tourism River Information Center"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.584873,32.97755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大野川向野橋ライブカメラ / Onogawa Mukinohashi Live Camera</name>
+        <description><![CDATA[〒879-7155 大分県豊後大野市三重町向野１１９０ 「大分県」/  1190 Mukono, Miemachi, Bungoono City, Oita Prefecture 879-7155, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5673396,32.9994854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平井川朝地橋ライブカメラ / Hiraigawa Asajibashi live camera</name>
+        <description><![CDATA[〒879-6221 大分県豊後大野市朝地町坪泉「大分県」/ Tsuboizumi, Asajimachi, Bungoono, Oita Prefecture 879-6221, "Oita Prefecture"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.4299885,33.0017719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中九州横断道路石田高架橋ライブカメラ / Naka Kyushu Transit Road Ishida Viaduct Live Camera</name>
+        <description><![CDATA[大分県豊後大野市千歳町石田 「佐伯河川国道事務所」/ Ishida, Chitose Town, Bungo Ono City, Oita Prefecture "Saiki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5887035,33.0505847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中九州横断道路穴井橋ライブカメラ / Naka Kyushu Crossing Road Anai Bridge Live Camera</name>
+        <description><![CDATA[〒879-6445 大分県豊後大野市大野町片島 穴井橋 「佐伯河川国道事務所」/ Anaibashi, Katashima, Ono Town, Bungo Ono City, Oita Prefecture 879-6445, "Saiki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.5364683,33.032361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中九州横断道路千歳インターチェンジライブカメラ / Naka Kyushu road Chitose interchange live camera</name>
+        <description><![CDATA[大分県豊後大野市千歳町新殿 「佐伯河川国道事務所」/ Niidono, Chitose Town, Bungo Ono City, Oita Prefecture, "Saiki River National Highway Office"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            131.588469,33.0432723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
