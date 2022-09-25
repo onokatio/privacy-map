@@ -1,6 +1,6 @@
-livecam: https://www.google.co.jp/maps/d/u/0/viewer?mid=1mQ8eluScOgqNrogIklLlwuRVgWM
+- livecam: https://www.google.co.jp/maps/d/u/0/viewer?mid=1mQ8eluScOgqNrogIklLlwuRVgWM
 
-https://livecamera.fujiyamasan.com/:
+- https://livecamera.fujiyamasan.com/:
 https://www.google.com/maps/d/u/0/viewer?mid=1v7-ULj3NA33avmIYnMO4CsN2S0M
 https://www.google.com/maps/d/u/0/viewer?mid=19DSuzDzHmZ4n_7CdA_7k2d-cgmc
 https://www.google.com/maps/d/u/0/viewer?mid=1xeP-2GTtjWhKtMWqvBg7iJMa8Hc
@@ -56,6 +56,7 @@ TODO:
 - https://www.wcmap.net/
 - http://www.o-n.jp/
 - https://www.kasen-suibo.metro.tokyo.lg.jp/im/uryosuii/tsim0102g.html
+- https://livecam.asia/
 
 画像:
 - https://www.river.go.jp/index/twninfo/pc?prefCd=1201&type=obs&tm=cctv
